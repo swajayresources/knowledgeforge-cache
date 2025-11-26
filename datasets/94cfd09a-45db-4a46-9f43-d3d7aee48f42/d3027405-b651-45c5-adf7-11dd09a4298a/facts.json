@@ -1,0 +1,20 @@
+[
+  "This draft was prepared using the LaTeX style file belonging to the Journal of Fluid Mechanics 1 On the brachistochrone of a fluid-filled cylinder Srikanth Sarma Gurram1, Sharan Raja1, Pallab Sinha Mahapatra1 and Mahesh V",
+  "Panchagnula2\u2020 1Department of Mechanical Engineering, Indian Institute of Technology Madras, Chennai 600036 India, 2Department of Applied Mechanics, Indian Institute of Technology Madras, Chennai 600036 India (Received (cid:88)(cid:88); revised (cid:88)(cid:88); accepted (cid:88)(cid:88)) We discuss a fluid dynamic variant of the classical Bernoulli\u2019s brachistochrone problem",
+  "Key words: Optimal control, viscous dissipation, brachistochrone, Droplet transport 1",
+  "Introduction In1696,JohannBernoulliposedafamousproblemtothereadersofActaEruditorum: \u201cGiven two points A and B in a vertical plane, what is the curve traced out by a point (particle)actedononlybygravity,whichstartsatAandreachesB intheshortesttime",
+  "in 9102 naJ 42 ]nyd-ulf",
+  "scisyhp[ 8v74640",
+  "2171:viXra 2 Gurram, Raja, Mahapatra and Panchagnula from a cycloid",
+  "Now, consider such a bottle rolling down an inclined curved path y(cid:48) = f(x(cid:48)) from a point (0,0) (without loss of generality) to an end point (x(cid:48),y(cid:48)) as shown in figure 1",
+  "The corresponding equations written in the stationary frame of reference fixed at the center of the cylinder are \u03c1v2 \u2202p = , (2",
+  "1a) r \u2202r Brachistochrone of a fluid-filled bottle 3 Figure 1: Schematic of the problem statement",
+  "The fluid-filled bottle is released from A andallowedtorolltowardsB subjecttoaccelerationduetogravityinthe\u2212y(cid:48) direction",
+  "(cid:18) (cid:19) \u2202v \u2202 1 \u2202 =\u03bd (rv)",
+  "1b) \u2202t \u2202r r\u2202r Intheaboveequations,v istheazimuthalvelocityofthefluidandpisthepressurefield",
+  "The corresponding equations of motion of the bottle are (m+M)R\u2126\u02d9 =(m+M)gsin\u03b3(t)\u2212f, (2",
+  "2a) MR2\u2126\u02d9 =fR\u2212T",
+  "We show that the bottle motion isgovernedbyabalancebetweenthedesiretominimizetraveltimeandtheneedtoreach theendpointinthefaceofincreaseddissipation",
+  "We show that in the two limits of either vanishing or high viscosity, the brachistochrone for thisproblemreducestoacycloid",
+  "Finally, we show relevance of these results to the dynamics of a rolling liquid marble"
+]
