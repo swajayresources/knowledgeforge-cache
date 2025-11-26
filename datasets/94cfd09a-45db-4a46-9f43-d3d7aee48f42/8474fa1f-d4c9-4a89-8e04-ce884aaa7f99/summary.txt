@@ -1,0 +1,1 @@
+Twelfth International Conference on Computational Fluid Dynamics (ICCFD12), Kobe, Japan, July 14-19, 2024 Coupling Machine Learning Local Predictions with a Computational Fluid Dynamics Solver to Accelerate Transient Buoyant Plume Simulations C Caron∗,∗∗, P Lauret∗ and A Bastide∗ Corresponding author: clement caron@univ-reunion
