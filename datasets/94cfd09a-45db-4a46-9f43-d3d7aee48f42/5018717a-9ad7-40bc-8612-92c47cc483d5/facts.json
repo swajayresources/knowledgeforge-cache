@@ -1,0 +1,17 @@
+[
+  "Droplet break-up with negative momentum Fluid Dynamics Videos Laurent Tanguy, Dong Liang, Roland Zengerle and Peter Koltay IMTEK - University of Freiburg, Georges-Koehler-Allee 103, 79110 Freiburg, Germany HSG-IMIT - Institut fr Mikro- und Informationstechnik, Georges-Koehler-Allee 103, 79110 Freiburg, Germany BioFluidix GmbH, Georges-Koehler-Allee 103, 79110 Freiburg, Germany March 1, 2022 1 Introduction The ejection of liquid droplets from a nozzle is highly important field of fluid dynamics",
+  "According to literature Weber numbers above 12 [1] assure the creation and the safe break up of liquid droplets",
+  "However, even when Weber numbers decrease below 8, it is still possible to observedropletbreak-upsometimeswithparticulareffects",
+  "1 2102 tcO 51 ]nyd-ulf",
+  "scisyhp[ 1v8704",
+  "0121:viXra 2 Materials and set-up In order to experimentally observe this rare phenomenon, we used a PipeJet P9 dispenser from BioFluidix, GmbH [2]",
+  "This dispenser is based on a piezo stack actuated piston providing a precisely controlled displacement to a 500 micrometer wide liquid filled polyimide tube with open end (nozzle)",
+  "The fluid inside the tube is pushed out of the nozzle by direct displacement, cre- ating droplets with adjustable volume between 15 and 60 nl, provided the kinetic energy - controlled by the displacement velocity - is high enough to overcome surface tension",
+  "The framerate was 10602 fps for each experiment",
+  "3 Video Thevideoshowsthatdrop-on-demanddropletbreak-upcanalsobeachieved atWebernumbersbelow8(consideringthenozzlediameterascharacteristic dimension)",
+  "The protruding liquid jet reaches a state where its kinetic energy falls to zero and the velocity of the jet head begins to revert towards the nozzle direction 2 due to the surface tension slowing down the jet",
+  "In 2D-simulations performed with decreas- ing flow velocities at the nozzle, droplet break-up with negativ momentum can be observed with the same characteristics like in the experiment",
+  "ThisvideohasbeensubmittedtotheGalleryofFluidMotion2012which is an annual showcase of fluid dynamics videos",
+  "4 References 1-M",
+  "741-757, 1987"
+]
