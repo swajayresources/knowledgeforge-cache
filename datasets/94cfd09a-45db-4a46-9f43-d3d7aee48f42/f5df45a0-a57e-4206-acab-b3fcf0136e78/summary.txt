@@ -1,0 +1,1 @@
+Two-Scale Optimization of Graded Lattice Structures respecting Buckling on Micro- and Macroscale Daniel Hu¨bner1*, Fabian Wein1 and Michael Stingl1 1Applied Mathematics, Continuous Optimization, Friedrich-Alexander Universit¨at Erlangen-Nu¨rnberg, Cauerstr 11, Erlangen, 91058, Germany *Corresponding author(s) E-mail(s): daniel huebner@fau
