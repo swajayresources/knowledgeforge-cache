@@ -1,0 +1,17 @@
+[
+  "Graphical Abstract Interface Response Functions for multicomponent alloy solidification- An appli- cation to additive manufacturing V S Hariharan, B S Murty, Gandham Phanikumar 3202 raM 41 ]ics-lrtm",
+  "tam-dnoc[ 1v36670",
+  "3032:viXra Highlights Interface Response Functions for multicomponent alloy solidification- An appli- cation to additive manufacturing V S Hariharan, B S Murty, Gandham Phanikumar \u2022 Calphad coupled dendritic growth model predicted the growth-controlled phase selec- tion occurring during additive manufacturing of steels, that is not predicted by other growth models \u2022 Incorporating the effect of solute drag improved the predictions \u2022 Columnar to equiaxed transition (CET) calculation is coupled with KGT model and benchmarked with experiments for Haynes 282 Ni-based superalloy Interface Response Functions for multicomponent alloy solidification- An application to additive manufacturing V S Hariharana,\u2217, B S Murtya,b, Gandham Phanikumara aDepartment of Metallurgical and Materials Engineering, Indian Institute of Technology Madras, Chennai, 600036, Tamil Nadu, India bIndian Institute of Technology Hyderabad, Kandi, 502284, Telangana, India Abstract The near-rapid solidification conditions during additive manufacturing can lead to selection of non-equilibrium phases",
+  "Keywords: Additive Manufacturing, Calphad, Microstructure, Steels, Superalloys 1",
+  "AMhasprovenitsabilitytoproducecomplex, near-netshapecom- ponents making it appealing for biomedical and aerospace applications, especially to man- ufacture high-value low-volume components [1]",
+  "The near-rapid solidification condition and \u2217Corresponding Author Email address: rajhharan97@gmail",
+  "com (V S Hariharan Preprint submitted to Computational Materials Science March 15, 2023 the thermal cycles experienced during additive manufacturing can lead to non-equilibrium microstructures [2]",
+  "Understanding the microstructure evolution during AM can help in alloy design for AM as well as site-specific control of microstructure within a component [3]",
+  "The solidification velocities in AM processes like electron powder bed fusion can reach up to 10 cm/s [4]",
+  "Analytical solidi- fication models, also known as sharp interface models have been developed to explain the solute segregation behaviour and phase selection during processes such as welding and di- rectional solidification [5]",
+  "The concept of the IRF is developed using the principles of irreversible thermodynamics [6]",
+  "As given by Hillert, at the interface, Gibbs energy dissipation occurs due to crystallization and diffusion of solute species across the interface (trans-interface diffusion) [7]",
+  "One such relationship providedbyAzizandKaplanintheircontinuousgrowthmodelgivestherelationshipbetween partition coefficient and solidification velocity [8]",
+  "They also show how the phase diagram varies with solidification velocity (kinetic phase diagram) [8]",
+  "Mullins and Sekerka derived the condition for planar stability in the light of perturbation analysis for low Peclet numbers [9]"
+]
