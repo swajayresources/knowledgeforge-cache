@@ -1,0 +1,17 @@
+[
+  "Herr\u00e1ez PII: S0960-1481(18)30323-9 DOI: 10",
+  "018 Reference: RENE 9887 To appear in: Renewable Energy Received Date: 15 September 2017 Revised Date: 8 March 2018 Accepted Date: 9 March 2018 Please cite this article as: Rahimi H, Schepers JG, Shen WZ, Garc\u00eda NR, Schneider MS, Micallef D, Ferreira CJS, Jost E, Klein L, Herr\u00e1ez I, Evaluation of different methods for determining the angle of attack on wind turbine blades with CFD results under axial inflow conditions, Renewable Energy (2018), doi: 10",
+  "8102 raM 51 ]nyd-ulf",
+  "scisyhp[ 2v89240",
+  "9071:viXra Evaluation of different methods for determining the angle of attack on wind turbine blades with CFD results under axial inflow conditions H",
+  "Theinvestigations areperformedfortwo10MWreferencewindturbinesunderaxialinflowconditions,namelytheturbinesdesignedin theEUAVATARandINNWIND",
+  "Keywords: AxialInductionfactor,ComputationalFluidDynamics(CFD),AngleofAttack(AoA),10MWwind turbine,BladeElementMomentumMethod(BEM),Engineeringmodels Nomenclature \u03c1 Airdensity[kgm\u22123] \u0393 Circulation[m2s\u22121] \u03c6 Inflowangle[\u25e6] \u2126 Rotationalspeed[rads\u22121] \u03b8 Twistangle[\u25e6] a Axialinductionfactorateachsection[-] a 0 Tangentialinductionfactorateachsection[-] C Liftcoefficient[-] l C Dragcoefficient[-] d U Freestreamwindspeedathubheight[ms\u22121] \u221e U ind Inducedvelocityateachsection,U ind=(U -U rotorDisk)[ms\u22121] \u221e y+ Non-dimensionalwalldistanceforawall-boundedflow[-] Emailaddress:hamid",
+  "Rahimi) PreprintsubmittedtoRenewableEnergy March15,2018 r Radialcoordinate[m] R Rotorradius[m] V rel Relativevelocityateachsection[ms\u22121] AoA AngleofAttack[\u25e6] BEM BladeElementMomentum CFD ComputationalFluidDynamics TSR TipSpeedRatio 1",
+  "steadyandtwodimensionalflow),makesthisanaffordableapproachevenforthemorethan7 milliontimestepswhichwindturbinemanufacturersneedstoperforminthecalculationofthedesignloadspectrum forcertification[1]",
+  "Hence,theoutcomeofaBEMcodedependsheavilyon l d theseairfoilcharacteristicsandAoAwhicharederivedfromtwodimensional(2D)steadywindtunnelexperiments, viscous-inviscidpanelcodesorComputationalFluidDynamics(CFD)simulations[2]",
+  "In BEM, the assumption of 2D steady flow might be valid for the mid-span region and steady uniform inflow",
+  "Nonetheless,onarotatingblade,inafluctuating3Dwindflow,whichleadstoamisalignmentofthevelocityvector withrespecttotherotorplaneandnearthethickrootsectionandthebladetipwheretheflowishighlycomplexand 3D,thisassumptionisnotvalidanymore",
+  "Thereforethecomplex3Dflowscannotbecapturedaccuratelybythe2D airfoilcharacteristicsandbasicBEMtheory[3]",
+  "HenceempiricalcorrectionmodelsaregenerallyaddedtoaBEM modeltomitigateitslackofaccuracywhenspecificphenomenaareobserved,suchas:3Deffects[4,5,6,7],dynamic stall[8,9]orskewedwake[1,10,11]",
+  "However,duetotheempiricalnatureofmostengineeringmodels,whichareoftenbasedonfindingsobtainedby rathersmallexperimentalwindturbines[12],theirvalidityforthemodelingoflargerotorsiscurrentlyunderdiscus- sion[13,1,10,11]"
+]
