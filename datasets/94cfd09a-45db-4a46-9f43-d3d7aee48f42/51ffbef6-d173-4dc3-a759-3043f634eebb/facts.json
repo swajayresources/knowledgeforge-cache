@@ -1,0 +1,17 @@
+[
+  "Exploring the fitness landscape of a realistic turbofan rotor blade optimization Jakub Kmec1 and Sebastian Schmitt2 1 Palacky\u00b4 University, Olomouc, Czech Republic jakub",
+  "kmec01@upol",
+  "cz 2 Honda Research Institute Europe GmbH, Offenbach, Germany sebastian",
+  "(2019) Exploring the Fitness Landscape of a Real- istic Turbofan Rotor Blade Optimization",
+  "(eds) EngOpt 2018 Proceedingsofthe6thInternationalConferenceonEngineeringOptimization",
+  "EngOpt 2018",
+  "1007/978-3-319-97773-7 46 9102 tcO 61 ]EC",
+  "sc[ 1v86270",
+  "0191:viXra 2 J",
+  "Schmitt 1 Introduction Aerodynamicshapeoptimizationusingcomputationalfluiddynamics(CFD)iswidely usedforcreatingefficientdesignsinengineeringapplicationssuchastheautomotiveor the aerospace domain [1]",
+  "We compare the achievable fitness values obtained with a co- variance matrix adaptation evolutionary strategy (CMA-ES) [4] to a particle swarm optimization (PSO) [3]",
+  "Inthecontextofevolutionaryaerodynamicshapeop- timization,shapemorphingmethodsarepopularsuchasfree-formdeformation(FFD) andradialbasisfunctions(RBF)baseddeformationmethods,orshape-functionmeth- ods like Hicks-Henne (HH) functions [2]",
+  "2 Optimization and simulation setup 2",
+  "1 Blade representation Duringtheoptimization,thebladegeometryhastobechangedautomaticallybasedon the parameters proposed by the optimization algorithm",
+  "Specifically, a blade is represented as a collection of sections stacked on top of each otherasshowninFigure1(left)"
+]
