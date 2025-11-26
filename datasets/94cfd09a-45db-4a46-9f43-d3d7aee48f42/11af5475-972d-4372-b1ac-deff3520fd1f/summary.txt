@@ -1,0 +1,1 @@
+Co-design of a novel CMOS highly parallel, low-power, multi-chip neural network accelerator W Hokenmaier, R Odom Semiconductor Hardware Development Software, Algorithm, and Architecture Design Green Mountain Semiconductor Inc Non-Von LLC Burlington, VT USA Lyme, NH USA whokenmaier@greenmountainsemi com Eli@non-von
