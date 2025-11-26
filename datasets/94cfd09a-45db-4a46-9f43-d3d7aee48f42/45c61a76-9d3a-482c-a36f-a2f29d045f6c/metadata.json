@@ -1,0 +1,15 @@
+{
+  "paper_id": "45c61a76-9d3a-482c-a36f-a2f29d045f6c",
+  "title": "Effect of lithium hydride on the cooling of primordial gas",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/45c61a76-9d3a-482c-a36f-a2f29d045f6c/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/45c61a76-9d3a-482c-a36f-a2f29d045f6c/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/45c61a76-9d3a-482c-a36f-a2f29d045f6c/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/45c61a76-9d3a-482c-a36f-a2f29d045f6c/keywords.json"
+  ]
+}
