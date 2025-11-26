@@ -1,0 +1,18 @@
+[
+  "Koller1 and O",
+  "Sauter2 and JET Contributors3 1 Department of Computer Science, Lucerne University of Applied Sciences and Arts (HSLU), 6343 Rotkreuz, CH 2 Swiss Plasma Center (SPC), E\u00b4cole Polytechnique F\u00b4ed\u00b4erale de Lausanne (EPFL), 1015 Lausanne, CH 3 See the author list of [1] E-mail: alessandro",
+  "ch March 2024 Abstract",
+  "The dataset consisted of 520 expert-validated discharges from the ILW campaigns at JET",
+  "5202 beF 41 ]hp-msalp",
+  "scisyhp[ 1v28121",
+  "2052:viXra Towards Transparent and Accurate Plasma State Monitoring at JET 2 1",
+  "We define plasma state of tokamak devices and may also force monitoring as the process of continuously long maintenance interventions which could observing and analyzing plasma behavior significantly reduce the device availability [2]",
+  "We consider both state-based and and improvement of the operational regions of sequence-based models and emphasize their fusion devices [3]",
+  "centlyalsodeeplearningmethodshavedemon- The remaining sections are organized as strated remarkable capabilities in extracting follows: Section 2 provides an overview of and processing complex patterns from various the employed model architecture as well as types of data [4]",
+  "Section 3 elaborates promising approaches for plasma state mon- on the dataset constitution including features itoring related tasks such as disruption pre- selection and preprocessing",
+  "Section 4 presents vention in nuclear fusion research [5, 6, 7, 8, the quantitative results for both the state- 9]",
+  "Section niques often suffer from the so-called \u201cblack 5 qualitatively analyses the learned low- box\u201c problem, where the inner workings and dimensional plasma state representations and decision-making processes of the models are studies the projection of unseen discharges",
+  "not transparent to the researchers [10, 11]",
+  "pervised learning techniques have been pro- posed, including manifold learning techniques, 2",
+  "Introduction In this work, we propose a system for plasma state monitoring at JET that Phenomena such as plasma disruptions pose integrates supervised as well as unsupervised a serious risk to the structural integrity learning techniques"
+]
