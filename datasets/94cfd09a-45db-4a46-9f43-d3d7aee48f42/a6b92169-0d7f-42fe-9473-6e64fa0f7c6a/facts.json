@@ -1,0 +1,22 @@
+[
+  "Contents 1 Introduction 2 2 Notation and Preliminaries 3 2",
+  "1 Concatenation of Sample Paths",
+  "2 Regular Conditional Probability Distributions",
+  "3 Shifted Random Variables and Shifted Processes",
+  "5 3 Weak Stability under Pasting 6 4 The Dynamic Programming Principle 7 5 Robust Optimal Stopping 8 6 Example: Path-dependent Controlled SDEs 9 7 Proofs 11 7",
+  "1 Proofs of the results in Section 2",
+  "2 Proofs of the results in Section 3",
+  "3 Proofs of the results in Section 4",
+  "4 Proofs of the results in Section 5",
+  "5 Proofs of the results in Section 6",
+  "27 \u2217Thisversion: April10,2013,Firstversion: Jan1,2013",
+  "\u2021DepartmentofMathematics, UniversityofMichigan,AnnArbor,MI48109;email: erhan@umich",
+  "BayraktarissupportedinpartbytheNationalScienceFoundationaCareergrantDMS-0955463andanAppliedMathematicsRe- searchgrantDMS-1118673,andinpartbytheSusanM",
+  "\u00b6DepartmentofMathematics, UniversityofPittsburgh,Pittsburgh,PA15260;email: songyao@pitt",
+  "6102 rpA 11 ]RP",
+  "\u2208 \u00d7 \u2208P \u2208 P s \u221e h(cid:12) (cid:12)i As to the dynamic programming principle, we present first a basic version in which the(cid:12)tran(cid:12)sit horizon is deter- ministic: Proposition 4",
+  "We show that theupper Snell envelope Z ofthereward processY isasupermartingalewithrespect toanappropriatelydefined nonlinearexpectationE,andZ isfurtheranE\u2212martingaleuptothefirsttime\u03c4\u2217whenZmeetsY",
+  "We show in Section 6 that this assumption (along with other assumptions we make on the probability class) are satisfied for some path-dependent SDEs with controls,whichrepresentsalargeclassofmodelsonsimultaneousdriftandvolatilityuncertainty",
+  "0\u2212 \u2212 1a) In the first step, we show that the inverse of the >0 valued control process \u00b5 is ds dPt a",
+  "This dynamic programming result is used to T show the continuity of the upper Snell envelope, which plays an important role in the main theorem as our results heavily rely on construction of approximating stopping times for \u03c4\u2217"
+]
