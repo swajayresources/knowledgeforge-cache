@@ -1,0 +1,17 @@
+[
+  "l1 penalization of volumetric dose objectives \u2217 in optimal control of pdes RichardC",
+  "Barnard\u2020 ChristianClason\u2021 September22,2018 Abstract Thisworkisconcernedwithaclassofpde-constrainedoptimizationproblems thataremotivatedbyanapplicationinradiotherapytreatmentplanning",
+  "WethereforeproposeanalternativeapproachbasedonL1 penalizationoftheviolationthatisalsoapplicablewhenstateconstraintsareinfeasible",
+  "1 introduction Weconsideroptimalcontrolproblemsgovernedbytime-dependentlinearpartialdifferential equationsinwhichtheregionwherethestate(orastate-dependentquantityofinterest)isgreater than orless than a prescribedlevelis to be minimized",
+  "DE-AC0500OR22725withtheU",
+  "\u2020OakRidgeNationalLaboratory,OakRidge,TN37831,USA(barnardrc@ornl",
+  "gov) \u2021FacultyofMathematics,UniversityDuisburg-Essen,45117Essen,Germany(christian",
+  "de) 1 7102 beF 11 ]CO",
+  "htam[ 3v55610",
+  "7061:viXra partremainsundamaged(i",
+  "Suchperformancecriteriawouldbewell-capturedbyanL0penaltyontheviolationofthepre- scribedlimits",
+  "However,inlightofwell-establisheddifficultiesassociatedwithL0 minimization, weinsteadproposetouseL1penaltyterms",
+  "Specifically,let\u2126 \u2282 (cid:82)n begivenandlet\u03c9 ,\u03c9 \u2282 \u2126 T R open,bounded,anddisjointbeatargetregionandariskregion,respectively",
+  "LetE(y,u) = 0 denote the (time-dependent) partial differential equation with E : Y \u00d7V \u2192 W for suitable Hilbert spacesW,V,Y, and letC : L2(0,T;L1(\u03c9)) \u2192 L1(\u03c9) (for either\u03c9 = \u03c9 or\u03c9 = \u03c9 ) \u03c9 R T denotetheintegraloperatory(t,x) (cid:55)\u2192 \u222bT \u03c7 (x)y(t,x)dt",
+  "Forthesakeofgenerality,wealso 0 \u03c9 includeaquadratictrackingtermwithrespecttoadesiredstatez \u2208 L2(Q) := L2(0,T;L2(\u2126))"
+]
