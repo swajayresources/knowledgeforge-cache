@@ -1,0 +1,21 @@
+[
+  "\u2022 The mix of vectorization and forward matrix assembly benefits 3D ap- plications",
+  "3202 raM 91 ]nyd-ulf",
+  "scisyhp[ 1v38701",
+  "3032:viXra Benchmark modeling and 3D applications of solidification and macro-segregation based on an operator-splitting and fully decoupled scheme with term-wise matrix assembly Xiaoyu Fenga, Huangxin Chenb, Bo Yuc, Shuyu Suna,\u2217 aComputational Transport Phenomena Laboratory (CTPL), Division of Physical Sciences and Engineering (PSE), King Abdullah University of Science and Technology (KAUST), Thuwal, 23955-6900, Kingdom of Saudi Arabia bSchool of Mathematical Sciences and Fujian Provincial Key Laboratory on Mathematical Modeling and High Performance Scientific Computing, Xiamen University, Xiamen, 361005, China cSchool of Mechanical Engineering, Beijing Institute of Petrochemical Technology, Beijing, 102617, China Abstract Thesolidificationandmacro-segregationprobleminvolvingunsteadymulti- physics and multi-phase fields is typically a complex process with mass, mo- mentum, heat, and species transfers among solid, mushy, and liquid phase re- gions",
+  "Also, the combination of vectorization and forward equation-based matrix assembly techniques enhances the implementability of extensions of 3D ap- plications",
+  "sa (Shuyu Sun) Preprint submitted to CMAME March 21, 2023 2D and 3D benchmark cases",
+  "The numerical results also illustrate that this method can ensure accurate prediction and adequately capture the physi- cal details of phenomena caused by the solutally and thermally driven flow, which include channel segregation, the formation of freckles, edge effect, as- pect ratio effect, and 3D effect",
+  "Keywords: Solidification, Macro-segregation, Multi-phase, Operator-splitting and matrix-based, matrix assembly techniques, Benchmark modeling 1",
+  "On a macro-scale, some typical phenomena oc- cur, like chemical heterogeneities, channel segregation, and the change of flow pattern among multi-phases (liquid, solid, and mushy regions, as shown in Figure 1)",
+  "The industrial producers of all types of cast metal still continue to struggle with macro-segregation defects [1, 2]",
+  "Furthermore, a better under- standing of phase change problems will aid in the development of advanced phase change materials (PCMs) with increased energy storage capacity via \"latent\" heat [3]",
+  "Studies on solidification will give constructive in- sights about how to enhance the efficiency and economy of the subsurface recovery of hydrate [4, 5] and how to run and manage gas pipelines properly to prevent hydrate blockage accidents [6, 7]",
+  "Moreover, the wax deposition accidents in the pipeline [8, 9] are also solidification problems",
+  "Even on an interstellar scale, the deposit of planetary components during the cooling of lava lakes or magma chambers [10, 11] is a type of solidification and segrega- tion in geo-dynamical processes responsible for the formation of a terrestrial planet\u2019s crust and early geological evolution [12]",
+  "Basic studies on modeling solidification do benefit the progress of space exploration in ways like prov- 2 \ud835\udf06 2 \ud835\udf06 1 liquid dend rites mus hy regi on solid hundreds of micro-mete rs Figure 1: Schematic of solidification regions at macroscale and zooms of the dendrites at microscale",
+  "We show (1) temperature isosurfaces, (2) concentrationrelativevariation, (3)streamlinepatternand(4)liquidfraction isosurfaces for all 3D simulation cases",
+  "In the 2D case, our results are compared with the reference results com- putedbytheclassicFVMandFEMmethods[39], asshowninFigure28",
+  "Our results are also compared with the data extracted from sample points along these horizontal lines from the real H-H experiment and other simu- lation trials",
+  "Neither our results nor those of other researchers match up per- fectly with the lab data"
+]
