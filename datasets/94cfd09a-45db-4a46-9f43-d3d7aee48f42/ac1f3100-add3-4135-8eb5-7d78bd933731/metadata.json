@@ -1,0 +1,15 @@
+{
+  "paper_id": "ac1f3100-add3-4135-8eb5-7d78bd933731",
+  "title": "Time-Series Classification in Smart Manufacturing Systems: An Experimental Evaluation of State-of-the-Art Machine Learning Algorithms",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/ac1f3100-add3-4135-8eb5-7d78bd933731/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/ac1f3100-add3-4135-8eb5-7d78bd933731/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/ac1f3100-add3-4135-8eb5-7d78bd933731/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/ac1f3100-add3-4135-8eb5-7d78bd933731/keywords.json"
+  ]
+}
