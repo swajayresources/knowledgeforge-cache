@@ -1,0 +1,17 @@
+[
+  "Through GA optimization, torque, power, and polytropic efficiency are improved by 8",
+  "2%, respectively",
+  "K) Uj Mean velocity (m/s) CFD Computational fluid dynamics \ud835\udc96\u2032 Fluctuating velocity (m/s) \ud835\udc8a CMM Coordinate measuring machine \ud835\udc96\u0305\u0305\u0305\u2032\u0305\ud835\udc96\u0305\u0305\u2032 Reynolds stress tensor \ud835\udc8a \ud835\udc8b DOE Design of experiment y Distance to the nearest wall (mm) F1, F2 Blending function composition \u03a0 Pressure ratio GA Genetic Algorithm \u03b7T Isentropic efficiency HPT High pressure turbine \u03b7p Polytropic efficiency k kinetic energy of turbulence (m2/s2) \u0394 Pressure drop (Pa) LPC Low pressure compressor \u03b2 Bypass ratio \u1e41 Mass flow rate (kg/s) \u03c1 Density (kg/m3) P Pressure (Pa) \u03a9 Angular velocity (rad/sec) Pt Total pressure (Pa) \u03b4ij Kronecker delta Po Outlet pressure (Pa) \u03c4 Stress tensor (N/m2) R Gas constant \u03bc Fluid viscosity (Pa s) SIMPLE Semi Implicit Method for Pressure- \u03bcturb Turbulent viscosity (Pa s) Linked Equations SST Shear stress transport \u03c9 Specific dissipation rate (s\u22121) T Torque (N",
+  "m) \u03b5 Rate of dissipation of turbulent kinetic energy (m2/s3) 1 1",
+  "However, it is important to note that optimizing gas turbine performance simultaneously based on multiple factors such as power, efficiency, weight, noise, safety, production costs, and more is an inherently complex task 1",
+  "In these estimations, gas flow rate, temperature, pressure, and other key parameters are forecasted that have a significant impact on efficiency, productivity, and fuel efficiency 2\u20134",
+  "These algorithms can be a powerful tool when they are applied correctly and under the right circumstances 5\u20138",
+  "Since axial gas turbines play a pivotal role in the industry 9, many efforts have been made to improve their performance 10\u201314",
+  "By combining parametric casing surface definitions and a diffusion technique, Kadhim and Rona 15 developed a design optimization workflow for contoured end-walls",
+  "Based on a non-axisymmetric casing design, Kadhim and Rona 16 developed a similar optimization workflow for a 1",
+  "5-stage axial turbine casing",
+  "17 addressed entropy generation and aerodynamic loss in turbomachines",
+  "An axial turbine model with 1",
+  "5 stages was used to test the non-axisymmetric casing, which had a guide groove based on end-wall secondary flows",
+  "Comparatively to the benchmark axisymmetric stage, the optimized casing improved efficiency by 0"
+]
