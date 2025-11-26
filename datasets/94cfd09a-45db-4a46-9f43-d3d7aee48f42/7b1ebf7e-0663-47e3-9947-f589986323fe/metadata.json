@@ -1,0 +1,15 @@
+{
+  "paper_id": "7b1ebf7e-0663-47e3-9947-f589986323fe",
+  "title": "Physics-Informed Machine Learning for Smart Additive Manufacturing",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/7b1ebf7e-0663-47e3-9947-f589986323fe/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/7b1ebf7e-0663-47e3-9947-f589986323fe/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/7b1ebf7e-0663-47e3-9947-f589986323fe/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/7b1ebf7e-0663-47e3-9947-f589986323fe/keywords.json"
+  ]
+}
