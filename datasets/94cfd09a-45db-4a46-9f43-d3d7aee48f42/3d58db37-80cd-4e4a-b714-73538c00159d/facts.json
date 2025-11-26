@@ -1,0 +1,17 @@
+[
+  "Gern1 NASA Langley Research Center, Hampton, VA 23681 Through a recent NASA contract, Boeing Research and Technology in Huntington Beach, CA developed and optimized a conceptual design of an open rotor hybrid wing body aircraft (HWB)",
+  "Nomenclature BWB = Blended Wing Body CFD = Computational Fluid Dynamics DLM = Doublet Lattice Method ERA = Environmentally Responsible Aviation Project at NASA FEM = Finite Element Method FLOPS = Flight Optimization System HWB = Hybrid Wing Body KCAS = Knots Calibrated Airspeed LE = Leading Edge LSAF = Boeing\u2019s Low Speed Aeroacoustic Facility MAC = Mean Aerodynamic Chord MLW = Maximum Landing Weight MTOGW = Maximum Take-Off Gross Weight OML = Outer Mold Line OREIO = Boeing Open Rotor Engine Integration on a BWB PAI = Propulsion Airframe Integration Re = Reynolds number (based on MAC unless stated otherwise) SL = Sea Level TE = Trailing Edge TLNS = Thin Layer Navier-Stokes TOGW = Take-Off Gross Weight ULD = Unit Load Device VLM = Vortex Lattice Method VSP = Vehicle Sketch Pad 1 Senior Aerospace Engineer, Aeronautics Systems Analysis Branch, Member AIAA",
+  "1 American Institute of Aeronautics and Astronautics I",
+  "1 Fuel burn reductions of 25% and higher have been published for some ultra-high capacity configurations carrying up to 800 passengers",
+  "Their 450 passenger BWB-4501L design recently resulted in the 8",
+  "5% scale X-48B flight demonstrator (Fig",
+  "2 A significant difficulty in dealing with HWB design optimization has always been the lack of a data base of known \u201cflying\u201d designs which may serve as calibration and validation points for optimization programs like FLOPS, especially when compared to the vast amount of available tube and wing aircraft data",
+  "To validate the projected fuel burn and noise Figure 1: Boeing\u2019s X-48B Blended Wing Body flight reduction potential of HWB designs for NASA\u2019s demonstrator (NASA Photo)",
+  "3 Recently developed structures tools include FEM based analyses to provide enhanced capabilities for HWB centerbody sizing and weight estimation",
+  "4 The HWB concept has been studied with a variety of propulsion options, including podded nacelles, embedded engines, geared fans and open rotors",
+  "5 This configuration is intended to be utilized by NASA to estimate its overall noise and fuel burn performance",
+  "Boeing Analysis \u2013 The Boeing OREIO In October 2010, the Aeronautics Systems Analysis Branch at NASA Langley asked Boeing Research and Technology in Huntington Beach, CA to perform a systems analysis of an HWB open rotor concept at the conceptual design level",
+  "5 Together with test data from a recent acoustics test at Boeing\u2019s Low Speed Aeroacoustic Facility (LSAF),6 this concept will be used by NASA to estimate the overall noise and fuel burn performance of an open rotor HWB",
+  "In accordance with NASA\u2019s Environmentally Responsible Aviation (ERA) project goals, the configuration was intended for entry into service by 2025",
+  "The ERA project has a goal of simultaneously reducing noise (42db cumulative below the Stage 4 certification level), fuel burn (50% reduction compared to currently operating aircraft), and emissions (75% reduction in nitrogen oxide compared to the current standard)"
+]
