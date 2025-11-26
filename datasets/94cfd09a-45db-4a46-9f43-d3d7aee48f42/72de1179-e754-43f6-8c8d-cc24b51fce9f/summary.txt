@@ -1,0 +1,1 @@
+Frozen mode in an asymmetric serpentine optical waveguide A Herrero-Parareda,∗ I Vitebskiy,† J Scheuer,‡ and F Capolino§ (Dated: June 7, 2022) The existence of a frozen mode in a periodic serpentine waveguide with broken longitudinal symmetry is demonstrated numerically
