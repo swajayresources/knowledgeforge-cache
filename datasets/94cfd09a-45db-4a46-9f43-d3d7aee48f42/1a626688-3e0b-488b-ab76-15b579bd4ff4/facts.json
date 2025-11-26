@@ -1,0 +1,18 @@
+[
+  "Noguchia aDepartment of Strategic Studies, Institute of Engineering Innovation, Graduate School of Engineering, The University of Tokyo, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-8656, Japan",
+  "Keywords: Topology optimization, Additive manufacturing, Hollow exclusion constraint, Partial differential equations, Finite element method, FreeFEM, Level set method 1",
+  "Topology optimization [1, 2] is a method to create and design a shape that maximizes or minimizes a givenevaluationfunctionwithoutrelyingonatrial-and-errorapproachbasedonthedesigner\u2019sexperienceor mechanical considerations",
+  "Yamada) Preprint submitted to Additive Manufacturing February 10, 2022 2202 beF 9 ]ES",
+  "sc[ 2v93880",
+  "2112:viXra shape, topology optimization has the highest degree of design freedom, allowing the search for the optimal design solution while also allowing changes in the topology, such as the number of shape boundaries",
+  "To overcome this problem, the combination of topology optimization and additive manufacturing has recently attracted significant attention [3, 4, 5]",
+  "[6]proposedamethodofmodifyingtheshapeobtainedby topology optimization to obtain a design solution that satisfies the overhang constraint",
+  "Langelaar [7] and Gaynor et al",
+  "[8] proposed a method of restricting the design space so that the shape is constructed only within the allowed overhang angle during the optimization process",
+  "[9] and Wang et al",
+  "[10] reported that the overhang constraint cannot be satisfied only by constraining the normal direction of the model geometry",
+  "Ofmetaladditivemanufacturingmethods, laserpowderbedfusion(LPBF)[11,12]isthemostpopular",
+  "[13]proposedavirtualtemperaturemethodtoobtainasimpleconnected structure",
+  "[14] proposed a virtual scalar field method; however, this approach is almost identical tothe methodof Liuetal",
+  "In the later sections, we present numerical examplesthatconfirmthat(cid:15) shouldbesettoavalueof\u22641\u00d710\u22125"
+]
