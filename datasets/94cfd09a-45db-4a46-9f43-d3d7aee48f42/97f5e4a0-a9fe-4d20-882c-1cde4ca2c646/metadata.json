@@ -1,0 +1,15 @@
+{
+  "paper_id": "97f5e4a0-a9fe-4d20-882c-1cde4ca2c646",
+  "title": "Progress towards understanding and predicting heat transfer in the turbine gas path",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/97f5e4a0-a9fe-4d20-882c-1cde4ca2c646/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/97f5e4a0-a9fe-4d20-882c-1cde4ca2c646/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/97f5e4a0-a9fe-4d20-882c-1cde4ca2c646/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/97f5e4a0-a9fe-4d20-882c-1cde4ca2c646/keywords.json"
+  ]
+}
