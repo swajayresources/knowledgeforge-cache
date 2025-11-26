@@ -1,0 +1,17 @@
+[
+  "11 Heat Transfer in Buildings: Application to Solar Air Collector and Trombe Wall Design H",
+  ", University of Antilles et de la Guyanne, France 1",
+  "These applications cover a wide spectrum from very simplified steady state models to dynamic simulation ones, including computational fluid dynamics modules (Clarke, 2001)",
+  "General overview of heat transfer and airflow modeling in CODYRUN software 2",
+  "1 Thermal modeling This part is detailed in reference (Boyer, 1996)",
+  "1, the number of nodes depending on the number of layers and spatial discretization scheme : T T T 1 2 3 Tsi Tse Fig",
+  "Example of associated electrical network associated to wall conduction 228 Evaporation, Condensation and Heat Transfer The physical model of a room (or group of rooms) is then obtained by combining the thermal models of each of the walls, windows, air volume, which constitute what CODYRUN calls a zone",
+  "To fix ideas, the equations are of the type encountered below: C dT si = h (T \u2212T )+h (T \u2212 T )+K(T \u2212T )+\u03d5 (1) si ci ai si ri rm si se si swi dt dT \u03d5 C se = h (T \u2212T )+h (T \u2212T )+K(T \u2212T )+ (2) se ce ae se re sky se si se swe dt C ai dT ai = N \u2211w h ciS j(T ai\u2212T si(j)+c m(cid:5) (T ae\u2212T ai) (3) dt j=1 Nw 0 = \u2211h A (T (j)\u2212T ) (4) ri j si rm j=1 Equations of type (1) and (2) correspond to energy balance of nodes inside and outside surfaces",
+  "Equation (3) comes from the thermo-convective balance of the dry-bulb inside air temperature T , taking ai into account an air flow m(cid:5) through outside (T ) to inside",
+  "(4) represents the radiative ae equilibrium for the averaged radiative node temperature, T",
+  "Following the selective model application logic developed (Boyer, 1999), an iterative coupling process is implemented to manage multi-zone projects",
+  "They are in relation with the radiosity method, radiative zone coupling (short wavelength, though window glass) or the diffuse-light reduction by close solar masks (Lauret, 2001)",
+  "Another example of CODYRUN evolution capacity could be illustrated by a specific study using nodal reduction algorithms (Berthomieu, 2003)",
+  "Heat Transfer in Buildings: Application to Solar Air Collector and Trombe Wall Design 229 From a user utilization point of view, this thermal module exit is mainly linked to the discretizated elements temperatures, the surfacic heat flows, zone specific comfort indices, energy needs, etc",
+  "2 Airflow modeling Thermal and airflow modules are coupled to each other thanks to an iterative process, the coupling variables being the air mass flows"
+]
