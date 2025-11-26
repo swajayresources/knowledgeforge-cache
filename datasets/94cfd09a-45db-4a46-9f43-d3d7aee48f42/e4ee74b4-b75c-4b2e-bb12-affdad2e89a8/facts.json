@@ -1,0 +1,17 @@
+[
+  "NASA TP I2 71 VI' c",
+  "1 NASA Technical Paper 1271 TACT& A Computer the Transient Thermal Analysis i of a Cooled Turbine Blade or Vane Equipped With a Coolant Insert - , I Users Manual Raymond E",
+  "Gaugler AUGUST 1978 c NASA TECH LlBRARY KAFB, NM Il llllllllllllllllHlllllll II Illllll 0134493 NASA Technical Paper 1271 11 TACTI, A Computer Program for the Transient Thermal Analysis of a Cooled Turbine Blade or Vane Equipped With a Coolant Insert - I Users Manual Raymond E",
+  "Gaugler Lewis Research Center Cleveland, Ohio National Aeronautics and Space Administration Scientific and Technical InformationO ffice 1978 CONTENTS fi : Page i 1",
+  "SUMMARY 1 j",
+  "METHODOFANALYSIS 2 f",
+  "i Numerical Model 3",
+  "Solution Technique 4",
+  "5 DESCRJPTION OF INPUT AND OUTPUT 8",
+  "Program Input 8",
+  "NAMELIST/TITL/ 9",
+  "NAMELIST/GEO/ 17",
+  "SAMPLE PROBLEMS 19 APPENDIXES A - FINITE-DIFFERENCE EQUATIONS",
+  "REFERENCES 34 iii TACTl, A COMPUTER PROGRAM FOR THE TRANSIENT THERMAL ANALYSIS OF A COOLED TURBINE BLADE OR VANE EQUIPPED WITH A COOLANT INSERT I - USERS MANUAL by Raymond E",
+  "Coolant-side heatrtransfer coefficients are calculated internally in the program, with the user specifying one of three modes of heat transfer at each station: (1) impingement, including the effect of crossflow; (2) forced-convection channel flow; or (3) forced convection over pin fins"
+]
