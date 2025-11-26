@@ -1,0 +1,22 @@
+[
+  "Grey,1 OlgaA",
+  "Doronina, 2 Andrew Glaws2 1NationalInstituteofStandardsandTechnology,Boulder,CO,USA 2NationalRenewableEnergyLaboratory,Golden,CO,USA zachary",
+  "Modernandtraditionalanalysesof2Dand3Daerodynamic Improved shape parameter domains will enable future shapes reveal a flow-based sensitivity to specific deforma- tionsthatcanberepresentedgenerallybyaffinetransforma- parametrized model reductions (WillcoxandPeraire 2002; tions (rotation, scaling, shearing, translation)",
+  "We present a Benner,Gugercin,andWillcox 2015) to balance computa- novelrepresentationofshapesthatdecouplesaffine-stylede- tionalcosts,improvedesigns,andmakecomputationsmore formations over a submanifold and a product submanifold explainableandinterpretable",
+  "As an analytic generative Inthiswork,weexploreadata-drivenapproachthatuses model,theseparablerepresentation,informedbyadatabase a matrix (2-tensor) manifold framework to parametrize (or of physically relevant airfoils, offers (i) a rich set of novel learn)a manifoldofairfoilshapes",
+  "Theresultingset of de- 2D airfoildeformationsnot previously capturedinthedata, formations to airfoil shapes separates important, and often (ii) an improved low-dimensional parameter domain for in- constrained,affine deformations",
+  ", consistent3Dbladerepresentationandperturbationoverase- quenceofnominal2Dshapes",
+  "thecapabilitytoextendfromtwo-dimensional(2D)airfoils Many artificial intelligence (AI)-aided design and tofullthree-dimensional(3D)shapes,suchaswindturbine manufacturing algorithms rely on shape representation blades",
+  "2018; the fact that airfoil shapes are defined independent of pla- Zhang,Sung,andMavris 2018; Li,Bouhlel,andMartins nar rotations and scaling despite these deformations being 2019; Chen,Chiu,andFuge 2019; Glawsetal",
+  "This 2022b,a; Wangetal",
+  "2022; YonekuraandSuzuki 2021; presents a challenge to define a general domain of airfoil Yang,Lee,andYee2022)",
+  "and can appear relatively benign, their representation and Airfoildesignseeksanoptimalplanarshapethatsatisfies 1 3202 naJ 3 ]RG",
+  "sc[ 2v34740",
+  "8022:viXra desired design criteria\u2014e",
+  "Quantita- 2019)",
+  "We propose fixing \u03be such that it induces U\u03a3U\u22a4 = P",
+  "tegralmeasured\u00b5\u02dc(s\u02dc) = ds\u02dcalongthecurve,whichcanthen We present (8) to motivate an interpretation of the be projected onto a space of orthonormal Legendre poly- columns of V as they relate to (9)",
+  "Lastly, we present ulatoryconstraintsdictatingthataspecifiedairfoilthickness paralleltransportasamethodforapplyingconsistentdefor- atagivenlocationalongawindturbineblade",
+  "(4) \u2212 topology of orthogonal subgroups such that the n land- marks of any representative element X\u02dc have sample co- Next, we show that \u03c0(X) = [X\u02dc] is surjective, thus ad- varianceproportionalto the identitymatrix\u2014i",
+  "design given explicit definitions of M(\u2113), and only infer- In Section , we demonstrated how to define airfoil ences involving (n,2) are required"
+]
