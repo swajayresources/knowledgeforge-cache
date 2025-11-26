@@ -1,0 +1,15 @@
+{
+  "paper_id": "fd98b40b-cdaf-4fec-bb11-d7d5bdd4e448",
+  "title": "Life modeling of thermal barrier coatings for aircraft gas turbine engines",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/fd98b40b-cdaf-4fec-bb11-d7d5bdd4e448/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/fd98b40b-cdaf-4fec-bb11-d7d5bdd4e448/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/fd98b40b-cdaf-4fec-bb11-d7d5bdd4e448/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/fd98b40b-cdaf-4fec-bb11-d7d5bdd4e448/keywords.json"
+  ]
+}
