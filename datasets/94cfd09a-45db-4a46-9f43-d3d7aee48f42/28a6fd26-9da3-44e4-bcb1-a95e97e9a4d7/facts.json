@@ -1,0 +1,20 @@
+[
+  "BrownianThermalNoiseinMultilayerCoatedMirrors Ting Hong,1 Huan Yang,1 Eric K",
+  "Gustafson,2 Rana X",
+  "Adhikari,2 and Yanbei Chen1 1TheoreticalAstrophysics350-17, CaliforniaInstituteofTechnology, Pasadena, CA91125, USA 2LIGO Laboratory 100-36, California Institute of Technology, Pasadena, CA 91125, USA (Dated:October29,2018) We analyze the Brownian thermal noise of a multi-layer dielectric coating, used in high-precision optical measurements including interferometric gravitational-wave detectors",
+  "This thermal noise is currently a limit for fixed spacerFabry-Perotsusedinopticalclockexperiments[1]and isestimatedtobethedominantnoisesourceinthemostsen- fixed u in(x,y) u out(x,y) fixed sitive band of modern gravitational wave detectors (e",
+  ", ad- plane plane vancedLIGO,GEO,advancedVIRGOandLCGT)[2\u20136]",
+  "Re- centworkhasindicatedthepossibilityofsuppressingthevar- v 1(x,y) v 2(x,y) layer ious kinds of thermal noise by redesigning the shape of the index substrateandthestructureofthemulti-layercoating[7,8]",
+  "In n 1 l 1 1 thispaper,weseekacomprehensiveunderstandingofcoating Browniannoise,byidentifyingindividualsourcesoffluctua- n 2 l 2 2 tions,calculatingtheircrossspectrausingthefluctuationdis- \u03b4l j(x,y) sipationtheorem[9,10,13],andfinallyevaluatinghoweach \u03b4n j(x,y) (\u03b4A/A) j(x,y) l j j ofthesourcesandtheircorrelationsadduptothetotalnoise",
+  "Asastartingpoint,wewillassumeeachcoatinglayertobe isotropic,andhencecompletelycharacterizedbyitscomplex n N-1 l N-1 N\u22121 bulkmodulusKandshearmodulus\u00b5\u2014eachwithsmallimag- n N \u03b4z s(x,y) l N N (x,y) inary parts related to energy loss in bulk and shear motions",
+  "n Thecomplexargumentsofthesemoduliareoftenreferredto sub s 1(x,y) s 2(x,y) aslossangles",
+  "WhilevaluesofK and\u00b5 aregenerallyknown, substrate lossanglesvarysignificantlyaccordingtothedetailsofhow coatingmaterialsareappliedontothesubstrateandtheircom- Figure1: Schematicplotofamirrorcoatedwithmultipledielec- position",
+  "layerthick- K\u02dc =K(1+i\u03c6 ), \u00b5\u02dc =\u00b5(1+i\u03c6 )",
+  "(1) ness\u03b4l j, layerareastretch(\u03b4A/A) j andinterfaceheightzs)ofthe B S coating-substrateconfigurationandinrefractiveindices[\u03b4n j(x,y,z)] Here we have used subscripts B and S to denote bulk and ofthelayers",
+  "Notethatthisdefinitiondiffersfrompreviousliterature andmeasurements,whichused\u03c6 and\u03c6 todenotelossesin- layers, (ii) fluctuation of the coating-substrate interface, and (cid:107) \u22a5 duced by elastic deformations parallel and orthogonal to the (iii)refractiveindexfluctuationsofthecoatinglayersassoci- coating-substrateinterface[11]",
+  "WeargueinAppendixCthat atedwithlongitudinal(thickness)andtransverse(area)elastic \u03c6 and\u03c6 cannotbeconsistentlyusedasthelossanglesofa deformations\u2014asillustratedinFigure1",
+  "Usingwhatissome- (cid:107) \u22a5 material",
+  "We show that coating noise arises not only from layer thickness fluctuations, but also from fluctuations of the interfacebetweenthecoatingandsubstrate,drivenbyinternalfluctuatingstressesofthecoating",
+  "As we show in Appendix A3 [c",
+  "COMPONENTS eff 0 Let us compare our results to previous calculations using \u03c6 and \u03c6"
+]
