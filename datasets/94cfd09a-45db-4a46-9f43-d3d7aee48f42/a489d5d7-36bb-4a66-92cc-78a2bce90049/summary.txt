@@ -1,0 +1,1 @@
+N87- 11220 CALCULATION OF TWO- AND THREE-DIMENSIONAL TRANSONIC CASCADE FLOW FIELD USING THE NAVIER-STOKES EQUATIONS* B Weinberg, R Shamroth and H McDonald Scientific Research Associates, Inc INTRODUCTION Major objectives of the HOST program have been to improve hot section performance and life
