@@ -1,0 +1,17 @@
+[
+  "Proceedings of the American Nuclear Society Ninth Topical Meeting on Robotics and Remote Systems, Seattle Washington, March 2001",
+  "687-J Lofstrand Lane Rockville, MD 20850 Email: dsofge@greypilgrim",
+  "com Ph: (301) 610-6393x207 ABSTRACT This paper describes the design, implementation, and machine learning issues associated with developing a control system for a serpentine robotic manipulator",
+  "GreyPilgrim\u2019s \u201cEMMA\u201d Hyper-Redundant Robotic Manipulator 1 1",
+  "These robots (see Figure 1) have been variously described as snake-like manipulators1, tentacles, elephant trunks2, continuum robots3, high degree of freedom (HDOF) robots, or hyper-redundant manipulators4",
+  "In traditional robotic manipulator design, one needs only 6 degrees of freedom (DOFs) to achieve any position and orientation within the robot\u2019s workspace",
+  "PREVIOUS WORK ON HYPER-REDUNDANT ROBOTS 2",
+  "1 Historical Perspective Much of the work in designing and building hyper-redundant manipulators was pioneered by Hirose1 of Japan",
+  "A rigorous mathematical analysis of inverse kinematics for hyper-redundant manipulators was performed by Chirikjian5",
+  "2 Chirikjian6 and others7 have attempted to use the Frenet-Serret formulation for curves in space, but have found it to be too computationally expensive to use in real-time for calculating inverse kinematics",
+  "Related advanced techniques by Gravagne3 use other formulations for these curves (such as wavelet functions), but require many simplifying assumptions about the manipulator design (such as equal segment lengths, or homogeneous bend of the backbone material), and these techniques have only been applied to 2-D (planar) robots",
+  "2 Machine Learning Approach Evolutionary computational techniques provide a variety of powerful methods for solving optimization problems",
+  "The cost function (which is to be minimized) is simply the distance in 3-D Euclidean space from the end-effector to the goal point",
+  "For example, with a 2-D grid space \u03a3\u03a3 penalty = |( C \u2013 C )| summed over k=(i-1,i+1), m=(j-1,j+1) (1) i,j i,j k,m 3 C C C i-1,j-1 i,j-1 i+1,j-1 C C C i-1,j i,j i+1,j C C C i-1,j+1 i,j+1 i+1,j+1 Figure 2",
+  "Penalty Function for 2-D Grid Space Once we have discretized the robotic workspace into sufficiently small cells, with each cell having four corners as the grid points, we can co-evolve the configuration set such that each configuration is within the desired error tolerance of having the end-effector hit the target, and that the penalty for each configuration (based upon differences between itself and its neighbors) is minimized"
+]
