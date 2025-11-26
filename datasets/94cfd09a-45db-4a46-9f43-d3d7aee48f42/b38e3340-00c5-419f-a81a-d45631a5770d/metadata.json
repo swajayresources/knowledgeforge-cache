@@ -1,0 +1,15 @@
+{
+  "paper_id": "b38e3340-00c5-419f-a81a-d45631a5770d",
+  "title": "L1 penalization of volumetric dose objectives in optimal control of PDEs",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b38e3340-00c5-419f-a81a-d45631a5770d/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b38e3340-00c5-419f-a81a-d45631a5770d/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b38e3340-00c5-419f-a81a-d45631a5770d/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b38e3340-00c5-419f-a81a-d45631a5770d/keywords.json"
+  ]
+}
