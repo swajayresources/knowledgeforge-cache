@@ -1,0 +1,15 @@
+{
+  "paper_id": "9869e737-b6b0-440b-a9c9-46b3b2e863fc",
+  "title": "Review and assessment of the database and numerical modeling for turbine heat transfer",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/9869e737-b6b0-440b-a9c9-46b3b2e863fc/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/9869e737-b6b0-440b-a9c9-46b3b2e863fc/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/9869e737-b6b0-440b-a9c9-46b3b2e863fc/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/9869e737-b6b0-440b-a9c9-46b3b2e863fc/keywords.json"
+  ]
+}
