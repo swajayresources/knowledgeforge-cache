@@ -1,0 +1,18 @@
+[
+  "Libbrecht LIGO Laboratory, California Institute of Technology Mail Code 264-33, Pasadena CA 91125 Christophe Michel, Nazario Morgado, Laurent Pinard Laboratoire des Mat\u00b4eriaux Avanc\u00b4es, Universit\u00b4e Claude Bernard Lyon 1 CNRS/IN2P3, Villeurbaune, France Innocenzo M",
+  "Pinto, Vincenzo Pierro, Vincenzo Galdi, Maria Principe, Ilaria Taurasi Waves Group, University of Sannio at Benevento Benevento, Italy, INFN and LSC (Dated: October29, 2018) A standard quarter-wavelength multilayer optical coating will produce the highest reflectivity for a given number of coating layers, but in general it will not yield the lowest thermal noise for a prescribed reflectivity",
+  "PACSnumbers: AdvLIGO Noise Curve INTRODUCTION Quantum noise 10",
+  "21 Coating Brownian noise Severalsecondgenerationgravitationalwavedetectors Total noise are under construction now (Advanced LIGO [1, 2], Ad- vancedVirgo,GEO-HF[3])",
+  "Ingeneral,thesensitivityof 10",
+  "22 theseinstrumentswillbelimitedatlowandhighfrequen- cies by quantum noise, however, in a critical mid-band around100Hz,the thermalnoiseofthe testmassmirror 10",
+  "23 coatings is a significantlimit",
+  "In light of this fact, the study of thermal noise in dielectric 10",
+  "24 coatingsis anactive area ofresearchin the gravitational wave community",
+  "101 102 103 The optical cavities at the heart of the length-sensing Frequency [Hz] mechanismofgravitationalwaveinterferometersusemir- rors made with multilayer dielectric coatings to produce FIG",
+  "1: Projected noise floor of Advanced LIGO [7]",
+  "For good per- stands,Brownian noiseinthetest masscoatings willprevent formance (low absorption)at \u03bb =1064nm (the operat- theinstrument from reaching thequantumlimit",
+  "0 ingwavelengthofmostgravitationalwavedetectors),the coatings are usually made of alternating layers of silica tantala with titania (TiO ) to good effect [6]",
+  "In an elegantly conceived 2 2 2 5 one can modify the geometry of the coating to reduce experiment that studied mechanical loss in these coat- the total amount of tantala while preserving the reflec- ings, Penn et al",
+  "[4] showed that the primary source tivityofthecoating",
+  "We present the results of directmeasurementsofthethermalnoiseofastandardquarter-wavelengthcoatingandalownoise optimized coating"
+]
