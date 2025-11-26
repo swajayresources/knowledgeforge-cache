@@ -1,0 +1,23 @@
+[
+  "Optimal designs for active controlled dose finding trials with efficacy-toxicity outcomes Holger Dette, Katrin Kettelhake, Kirsten Schorning Weng Kee Wong Ruhr-Universit\u00e4t Bochum Department of Biostatistics Fakult\u00e4t f\u00fcr Mathematik UCLA School of Public Health 44780 Bochum, Germany Los Angeles, CA 90095-1772 e-mail: holger",
+  "edu Frank Bretz Statistical Methodology Novartis Pharma AG 4002 Basel, Switzerland e-mail: frank",
+  "com October 1, 2018 Abstract Nonlinear regression models addressing both efficacy and toxicity outcomes are in- creasingly used in dose-finding trials, such as in pharmaceutical drug development",
+  "In this paper we derive optimal designs to estimate ef- ficacy and toxicity in an active controlled clinical dose finding trial when the bivariate continuous outcomes are modeled either by polynomials up to degree 2, the Michaelis- Mentenmodel,theEmaxmodel,oracombinationthereof",
+  "1 6102 naJ 5 ]EM",
+  "tats[ 1v79700",
+  "1061:viXra 1",
+  "Atkinson (1996) showed the usefulness of optimal designs for real ap- plications using examples from agriculture, animal breeding studies, accelerated life-testing experiments and computer experiments",
+  "Berger and Wong (2005) gave examples of the var- ied disciplines that increasingly use optimal design ideas for scientific investigations",
+  "Because this decrease may be significant in conditions of decreased renal perfusion, the renal function should be closely monitored over the first few days in those patients [see Sidorenkov and Navis (2014) and Tao et al",
+  "Fan and Chaloner (2004) proposed using a continuous ratio model for a trinomial outcome, where the outcome of a patient may be classified as \u201cno reaction\u201d when neither toxicity nor efficacy occurs, \u201cefficacy\u201d for efficacy without toxicity, and \u201cadverse reaction\u201d for toxicity",
+  "Heise and Myers (1996) used the Gumbel bivariate binary quantal response model to study efficacy and toxicity",
+  "More recently, Magnusdottir (2013) applied c-optimal designs to the bivariate Emax model for continuous efficacy and toxicity outcomes",
+  "The author determined the dose level providing the best possible combination of efficacy and toxicity, based on a pre-specified clinical utility index [see Carrothers (2011)]",
+  "For example, Thall and Cook (2004) and Dragalin and Fedorov (2006) found adaptive designs for dose-finding based on efficacy-toxicity outcome using a Gumbel bivariate logis- tic regression or a Cox bivariate model",
+  "Before we present analyticallyderivedminimallysupporteddesignsformodel(2",
+  "4 We presenttheproofof Theorem3",
+  "6 We show only the proof of part 1(b) as the proofs for other cases are similar",
+  "In the following we demonstrate that the results in the above references can in fact be proved underweakerassumptionsthanusuallymadeintheliterature",
+  "Examples We now apply our results from previous sections and construct optimal designs for active controlled trials for three examples",
+  "Our results demonstrate that statistical inference in clinical trials with bivariate outcomes can be improved substantially by the appropriate use of efficient designs"
+]
