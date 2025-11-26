@@ -1,0 +1,17 @@
+[
+  "Inverse Design of Single- and Multi-Rotor Horizontal Axis Wind Turbine Blades using Computational Fluid Dynamics Behnam Moghadassian and Anupam Sharma* Department of Aerospace Engineering, Iowa State University, Ames, Iowa, 50011 * sharma@iastate",
+  "However, this approach is computationally demanding and does not guarantee that the optimum design will be reached [17]",
+  "For example, Chattot [6] used the Lagrange multiplier optimization method to maximize power while constraining thrust at a given tip speed ratio",
+  "A 1/19 7102 raM 61 ]nyd-ulf",
+  "scisyhp[ 1v40750",
+  "3071:viXra prescribed-wake vortex line method (VLM) was used that consisted of the Goldstein model [10] to analyze the trailing wake vortex structure behind the rotor blades and used the Biot-Savart formula to calculate the induction",
+  "Inverse algorithms were introduced in wind turbine blade design process by Selig and Tangler [27]",
+  "Lee [17] proposed the use of VLM over the BEM theory as the direct solver in inverse design of HAWT blades to model the effects of the three dimensional aerodynamic features of modern turbine blades, such as sweep, pre-bend, non-planar wing tips, etc",
+  "Note that the coupling is partial because the method still uses 2-D airfoil polars and cannot account for spanwise flow over the blade",
+  "l Selig and Coverstone-Carroll [26] and Giguere and Selig [9] merged the optimization techniques with inverse design approaches to find the blade geometry that would maximize AEP",
+  "[16] used this idea to determine the blade shape by considering a target function that includes the AEP as well as the costs for blade masters, mold sets, tooling and blade production",
+  "They used the strip theory [1] to perform the inverse design, while their target was to minimize energy loss at the Betz optimum condition",
+  "Many researchers [2,3,14,18,28] have utilized different forms of the RANS model to investigate wind turbines aerodynamics",
+  "2/19 The Actuator Line Method (ALM) [31] and the Actuator Disk Method (ADM) [29] are the most commonly used methods to simulate the effect of rotor blades using body forces without resolving the blade geometry",
+  "Both methods use look-up tables for 2-D lift and drag polars (obtained via prior experiments or simulations) with the local flow velocity vector to calculate the net sectional force at each radially discretized element of the blade"
+]
