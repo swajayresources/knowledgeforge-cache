@@ -1,0 +1,15 @@
+{
+  "paper_id": "8c9d3438-92c2-478d-9f2d-a767450dd8f2",
+  "title": "Real-time computation of bio-heat transfer in the fast explicit dynamics finite element algorithm (FED-FEM) framework",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8c9d3438-92c2-478d-9f2d-a767450dd8f2/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8c9d3438-92c2-478d-9f2d-a767450dd8f2/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8c9d3438-92c2-478d-9f2d-a767450dd8f2/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8c9d3438-92c2-478d-9f2d-a767450dd8f2/keywords.json"
+  ]
+}
