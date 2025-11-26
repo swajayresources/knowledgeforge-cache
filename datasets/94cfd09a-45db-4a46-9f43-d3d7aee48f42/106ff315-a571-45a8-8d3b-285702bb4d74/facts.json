@@ -1,0 +1,22 @@
+[
+  "Li1 (\u674e\u96e8\u6850), Zengshun Chen2*(\u9648\u589e\u987a), Tim K",
+  "Tse3**(\u8c22\u9526\u6dfb), Asiri Umenga Weerasuriya4, Xuelin Zhang5 (\u5f20\u96ea\u7433), Yunfei Fu6(\u4ed8\u4e91\u98de), Xisheng Lin7 (\u853a\u4e60\u5347) 1,3,4,6,7 Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology, Hong Kong SAR, China 2 Department of Civil Engineering, Chongqing University, Chongqing, China 5 School of Atmospheric Sciences, Sun Yat-sen University, Zhuhai, China",
+  "1 yliht@connect",
+  "hk; ORCID 0000-0002-9527-4674 2 zchenba@connect",
+  "hk; ORCID 0000-0001-5916-1165 3 timkttse@ust",
+  "hk; ORCID 0000-0002-9678-1037 4 asiriuw@connect",
+  "hk; ORCID 0000-0001-8543-5449 5 zhangxlin25@mail",
+  "cn; ORCID 0000-0003-3941-4596 6 yfuar@connect",
+  "hk; ORCID 0000-0003-4225-081X 7 xlinbl@connect",
+  "hk; ORCID 0000-0002-1644-8796 * Co-first author with equal contribution",
+  "1 Abstract Scientific research and engineering practice often require the modeling and decomposition of nonlinear systems",
+  "Additionally, the convergence of the sampling resolution depends on the mode-specific dynamics, such that the resolution of 15 frames per cycle for target activities is suggested for most engineering implementations",
+  "Keywords Dynamic Mode Decomposition; Sampling Convergence; Sampling Resolution; Turbulent Free-Shear Flow; Reduced-Order Model; Large-Eddies Simulation Declarations 2 To be used for all articles, including articles with biological applications Nomenclature The list contains the nomenclature employed in this study",
+  "Latin Letters A Infinite-dimensional Koopman operator \u00c3 Similarity-matrix approximate of A a a =0",
+  "Empirical constant for LES e e IQ \u03b1 a =0",
+  "Numerical Details and Validation We present the numerical details and validations of our LES in this section",
+  "We presented a parametric work, and, from which some practical suggestions on the sampling range and resolution for the DMD algorithm are provided",
+  "Our results agree well with a range of wind tunnel and DNS studies, especially the more recent empirical results like Nishimura [62] and Nishimura and Taniike [63]",
+  "Our results sit fittingly among the array of experiments and DNS studies",
+  "Besides the self-evident validation of our results, we also made an interesting observation between the experiments and simulations"
+]
