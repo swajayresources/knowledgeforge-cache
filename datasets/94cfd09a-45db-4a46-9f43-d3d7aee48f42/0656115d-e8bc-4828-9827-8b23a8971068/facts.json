@@ -1,0 +1,18 @@
+[
+  "The role of MHD in causing impurity peaking in JET Hybrid plasmas T C Hender1, P Buratti2, F J Casson1, B Alper1, Yu Baranov1, M Baruzzo3, C D Challis1, F Koechl4, C Marchetto5, M F F Nave6, T P\u00fctterich7, S Reyes Cortes6, and JET Contributors* EUROfusion Consortium, JET, Culham Science Centre, Abingdon, OX14 3DB, UK 1CCFE, Culham Science Centre, Abingdon, OX14 3DB, UK 2ENEA for EUROfusion Via E",
+  "Fermi 45, 00044 Frascati (Roma), 3RFX, Corso Stati Uniti 4, Padova, Italy, 4\u00d6AW/ATI, Atominstitut, TU Wien, 1020 Vienna, Austria 5Istituto di Fisica del Plasma, CNR, Milano, Italy 6Instituto de Plasmas e Fus\u00e3o Nuclear, Instituto Superior T\u00e9cnico, Universidade de Lisboa1049-001, Lisboa, Portugal 7Max-Planck-Institut f\u00fcr Plasmaphysik, D-85748 Garching, Germany, *See the Appendix of F",
+  "of the 25th IAEA FEC, Saint Petersburg, Russia, 2014 Abstract In Hybrid plasma operation in JET with its ITER-like wall (JET-ILW) it is found that n>1 tearing activity can significantly enhance the rate of on-axis peaking of tungsten impurities, which in turn significantly degrades discharge performance",
+  "Core n=1 instabilities can be beneficial in removing tungsten impurities from the plasma core (e",
+  "sawteeth or fishbones), but can conversely also degrade core confinement (particularly in combination with simultaneous n=3 activity)",
+  "Possible qualitative models for how the n>1 islands can enhance on-axis tungsten transport accumulation processes are presented",
+  "1 Introduction A promising regime for long pulse operation in ITER is the so-called Hybrid regime",
+  "In this regime tailoring of the current profile is employed to give low magnetic shear in the core region, with a central safety factor q(0)~1",
+  "The Hybrid regime has been explored on DIII-D [1, 2], ASDEX- Upgrade [3, 4], JT60-U [5] and can show enhanced energy confinement compared to the baseline ELMy H-mode scaling [6]; with confinement enhancement factors H >1",
+  "This improved energy confinement seems linked 98y2 with the achievement of higher \uf062 in the Hybrid regime [7]",
+  "Hybrid plasmas has also been explored on JET; initially these studies started in the carbon wall (JET-C) phase of JET operation [8 ,9], but have continued in the ITER-like Wall (JET-ILW) phase of JET operation [7]",
+  "Since tungsten is a high-Z material it can radiate significantly, 1 introducing an additional performance limitation mechanism compared to JET-C operation in JET \u2013 this is particularly problematic if the tungsten accumulates in the plasma core",
+  "In some cases there seems to be an interplay between low toroidal mode number (n) instabilities in JET-ILW Hybrid plasmas and the occurrence of core impurity accumulation [10], that leads to significant performance degradation",
+  "1 and 2 for a JET-ILW Hybrid plasma pulse",
+  "Fig 1 Normalised \uf062, confinement H-factor, Fig 2 Example of an m=3, n=2 tearing mode causing N radiated power (P ) and NBI power",
+  "In this paper we present an initial analysis of the effect of a (3,2) island on the transport of tungsten localised off-axis on the low field side"
+]
