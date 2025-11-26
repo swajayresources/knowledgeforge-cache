@@ -1,0 +1,18 @@
+[
+  "Dv2v: A Dynamic Variable-to-Variable Compressor Nieves R",
+  "cl Abstract We present D-v2v, a new dynamic (one-pass) variable-to-variable compressor",
+  "In D-v2v, we process the input text word-wise to gather variable-length symbols that can be either terminals (new words) or non-terminals, subsequences of words seen before in the input text",
+  "Our D- v2v permits real-time transmission of data, i",
+  "Our experiments show that D-v2v is able to overcome the compression ratios of the v2vDC, the state-of-the-art semi-static variable-to-variable compressor, and to almost reach p7zip values",
+  "1 Introduction Text compression has gained relevance in the last decades along with the growth of text databases",
+  "The first compressors based on Huffman coding [1] using character-oriented mod- eling obtained rather poor compression ratios ontext collections (compression around 60%)",
+  "However, when Huffman coding was coupled with a word-based modeler dur- ing the 80s [2] the compression ratio obtained by those semi-static compressors was close to 25% when applied to English texts, and they set the basis to build modern text retrieval systems over them [3]",
+  "This boosted the interest of new compressors not only yielding fast decoding/retrieval but also allowing queries to be performed \u00a7 Funded in part by European Union\u2019s Horizon 2020 research and innovation programme un- der the Marie Sklodowska-Curie grant agreement No 690941 (project BIRDS)",
+  "The Spanish group is funded by Xunta de Galicia/FEDER-UE [CSI: ED431G/01 and GRC: ED431C 2017/58]; by MINECO-AEI/FEDER-UE [ETOME-RDFD3: TIN2015-69951-R, Datos 4",
+  "0: TIN2016-78011-C4- 1-R]; by MINECO-CDTI/FEDER-UE [INNTERCONECTA: uForest ITC-20161074]; by FPI Pro- gram [BES-2017-081390] (T",
+  "); and by FPU Program [FPU16/02914] (A",
+  "9102 voN 11 ]SD",
+  "sc[ 1v20240",
+  "1191:viXra in compressed form",
+  "We showed that D-v2v obtains competitive compression ratios (similar to p7zip) in English texts and that it is fast at both compression and (mainly) decom- pression"
+]
