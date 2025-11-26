@@ -1,0 +1,17 @@
+[
+  "Unsteady Navier-Stokes studies on loads, wake and dynamic stall characteristics of a two-bladed vertical axis wind turbine Galih Bangga , Thorsten Lutz , Amgad Dessoky , and Ewald Kr\u00a8amer Institute of Aerodynamics and Gas Dynamics (IAG), University of Stuttgart, Pfaffenwaldring 21 Stuttgart 70569, Germany bangga@iag",
+  "bangga90@gmail",
+  "com Abstract Computational fluid dynamics (CFD) studies are carried out on a two-bladed vertical axis wind turbine (VAWT) operating at a wind speed of 8 m/s for the tip speed ratios (\u03bb) of 0",
+  "The blade consists of the NACA 0021 airfoil with the chord length of 0",
+  "265 m and a rotor radius of 1 m",
+  "Wake characteristics are presented in the present studies, showing that the wake becomes Gaussian at 5 times radius downsteam of the rotor",
+  "Keywords: Aerodynamics, CFD, Flow separation, VAWT 1 Introduction Thegrowingdemandforenergyandtheintensificationofglobalclimatechange, the social development, and human survival are under a great threat due to shortage of fossil energy [1]",
+  "This type of energy source has become the fastest growing industry for renewable energy with more than 30% annual growth rate [2]",
+  "Currently,therearetwocategoriesofmodernwindturbinesaccordingtothe axisofrotation: (1)HorizontalAxisWindTurbines(HAWTs)and(2)Vertical 1 7102 peS 12 ]nyd-ulf",
+  "scisyhp[ 2v56380",
+  "8071:viXra Journal of Renewable and Sustainable Energy 9(5), 053303, 2017 2 Axis Wind Turbines (VAWTs), which are continuously developed",
+  "HAWTs are not economically and socially suitable for such environments as they need large space to build, and a sophisticated yaw mechanism is required because wind direction often changes significantly [3]",
+  "During each rotor revolution, the blade sees varying local inflow velocity and angle of attack that can manifest as dynamic stall [2,3]",
+  "[3] that the generated power of a single bladed VAWT was negative for almost 22% of the azimuth angle range due to the dynamic stall effect",
+  "Laneville and Vitecoq [4] emphasized that dynamic stall presents for VAWToperatingattipspeedratio(\u03bb)lessorequalthan4,whichissupported by the measurement carried out by Akins et al"
+]
