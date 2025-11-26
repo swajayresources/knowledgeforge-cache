@@ -1,0 +1,17 @@
+[
+  "A viewpoint from dissipative dynamics on diffusion-controlled directional solidification Fengyi Yu CAS Key Laboratory of Mechanical Behavior and Design of Materials, Department of Modern Mechanics, University of Science and Technology of China, Hefei 230026, China E-mail address: fengyi",
+  "Keywords Diffusion; Dissipative; Directional solidification; Phase field; Thermodynamics 1 1",
+  "The dynamics is determined by the competition between the transport of heat and mass and the inherent length scale of the material induced by interfacial energy [1]",
+  "In this spirit, researchers developed various theoretical models to describe the dynamics at different stages of directional solidification [2-4]",
+  "For early-stage growth, including the planar growth and instability, the descriptions go through the Constitutional Supercooling (CS) theory [5], the Mullins-Sekerka (MS) analysis [6], to the Warren- Langer (WL) model [7]",
+  "The competitive influences of tip radius \u03c1 and velocity V determine the dendrite I growth [8,9]",
+  "Through the characteristic parameters \u03c1 and V, these theoretical insights express the I relations between the dynamics and the solidification parameters: temperature gradient G and pulling speed V [10]",
+  ", a dissipative system [11]",
+  "Generally, they are derived from energy and mass conservation laws, but contain sources that destroy conservation of the respective integrals [11]",
+  "As one of them, the Phase-Field (PF) model has solid physical foundations, also with high numerical accuracy [12-14]",
+  "Specifically, the physics underlying the construction of the PF model includes the insights of thermodynamics, the dynamics of transport, and the interfacial 2 anisotropy [15,16]",
+  "With the significant advantages, the PF method has been increasingly applied to investigating solidification dynamics, including the planar-to-cellular transition [17,18], the selection of growth direction [19,20], and competitive growth [21,22], etc",
+  "The thermal gradient G is constant at 100K/mm, while the pulling speed V increases from 0 to a fixed value of P 300\u03bcm/s, for which the increase time is 0",
+  "5s, shown in Fig",
+  "The intersection angle between the TGD and PCO of the crystal is 30\u00b0"
+]
