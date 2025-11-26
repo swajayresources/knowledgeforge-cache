@@ -1,0 +1,17 @@
+[
+  "JournalofComputationalDesignandEngineering,202X,X(X),X-X doi:10",
+  "1093/jcde/xxxxxxx Journalhomepage:www",
+  "org AdvanceAccessPublicationDate:DayMonthYear RESEARCH ARTICLE Airfoil GAN: Encoding and Synthesizing Airfoils for Aerodynamic Shape Optimization YuyangWang1,KenjiShimada1 andAmirBaratiFarimani1 1DepartmentofMechanicalEngineering,CarnegieMellonUniversity,Pittsburgh,PA15213,USA *Correspondingauthor",
+  "Ourmodelcan(1)encodetheexistingairfoilintoalatentvectorandreconstructtheairfoilfromthat, (2)generatenovelairfoilsbyrandomlysamplingthelatentvectorsandmappingthevectorstotheairfoilcoordinatedomain, and(3)synthesizeairfoilswithdesiredaerodynamicpropertiesbyoptimizinglearnedfeaturesviaageneticalgorithm",
+  "Keywords:DeepLearning;GenerativeAdversarialNetwork;AirfoilDesign;DesignOptimization 1",
+  "Traditionalparameterizationordimension- ticalandeffectiveairfoildesignmustmeetcertainaerodynamic reductiontechniquesrelyonmanuallyselecteddesignparameters requirements,likelift,drag,pitchingmoment,andcritical-speed likecontrolpointsofB\u00e9ziercurves(SederbergandFarouki,1992) characteristics(Abbottetal",
+  "Duetosuchmultimodality orB-splines(DerksenandRogalsky,2010),whichplacesrestric- oftheairfoildesignspace,gradient-freemethodsiscommonly tionsonthegeneralizationtovariousshapesaswellassynthesiz- appliedtooptimizetheairfoildesign(Rajnarayanetal",
+  "Received: a;Revised: b;Accepted: c \u00a9TheAuthor(s)2020",
+  "org/licenses/by-nc/4",
+  "0/),whichpermits non-commercialre-use,distribution,andreproductioninanymedium,providedtheoriginalworkisproperlycited",
+  "com 1 3202 luJ 6 ]EC",
+  "sc[ 2v75740",
+  "1012:viXra 2 | AirfoilGAN:EncodingandSynthesizingAirfoilsforAerodynamicShapeOptimization Recentyearshavewitnessedthesuccessofdeeplearning(Le- essentialshapeinformationinawaythateachclusterrepresents Cunetal",
+  ",2015)inmanyfieldslikecomputervision(Voulodimos variousshapepatterns",
+  ",2018),naturallanguageprocess(CambriaandWhite,2014) illustratesthatdifferentgeometryinformationisencodedineach androbotics()"
+]
