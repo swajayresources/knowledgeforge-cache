@@ -1,0 +1,19 @@
+[
+  "77,90762Fu\u00a8rth,Germany Abstract Nickel-basedsuperalloysplayamajorroleinmanytechnologicallyrelevanthightemperatureapplications",
+  "It shows how \u03b3/\u03b3(cid:48) phases and dislocations interact giving risetorealisticcreepbehavior;nophenomenologicalfitparametersarerequired",
+  "base superalloys essentially consists of cube-shaped pre- Experimentallyexploringtheeffectofprocessparame- cipitatesofanorderedphase(termed\u03b3(cid:48) phase)embedded ters, temperature and loading conditions, and at the same inaface-centredcubic,solutionhardenedmatrix(termed time collecting detailed information about the phase and \u03b3 phase)",
+  "The L1 structure of the precipitates renders 2 dislocationmicrostructureandthemechanicalresponse,is them strong obstacles to dislocation motion even at el- acomplextask",
+  "Duetotheirremarkableresistancetothermo- one therefore may ask: is there a predictive modeling mechanical and chemical degradation in extreme service approach which can simultaneously provide information environments this class of materials became a common aboutthe\u03b3/\u03b3(cid:48) evolution,theflowandinteractionsofdis- choice for components which require good creep resis- locations, and the macroscopic creep properties",
+  "The tance at high-temperatures [1]",
+  "One example for the de- most promising approach may be to couple two differ- manding service conditions are turbine blades in jet en- ent methods to describe the stress-driven evolution of the gines where blade temperatures can be up to \u22481000\u25e6C",
+  "dislocationmicrostructureandtheconcomitantplasticde- Additionally, centrifugal forces in the blades cause sus- formation on the one hand, and the phase microstructure tained tensile stresses, giving rise to creep deformation (\u03b3/\u03b3(cid:48))ontheotherhand",
+  "at high-temperatures [2, 3]",
+  "A problematic aspect for the The phase-field (PF) method has become the most lifetimeofsuperalloy-basedcomponentsunderthesecon- successful mesoscale simulation approach for predicting ditions is rafting (directional coarsening) of the precipi- the \u03b3/\u03b3(cid:48) pattern evolution (see e",
+  "Understandingthemechanismswhichcontrol rial models (such as viscoplasticity) and the PF method the coupled evolution of precipitate and dislocation mi- show that plastic activity accelerates rafting and allows crostructureunderstress,andunderstandinghowthisevo- misalignments of rafts with respect to the cubic direction \u2217Correspondingauthor [6, 7]",
+  "de(StefanSandfeld) \u2013 which are the fundamental carriers of plastic deforma- PreprintsubmittedtoElsevier August6,2021 6102 yaM 52 ]ics-lrtm",
+  "tam-dnoc[ 2v12700",
+  "3061:viXra tion \u2013 can not be considered in those models",
+  "Pioneering sition field c governed by the Cahn-Hilliard equation is steps towards using PF methods for representing disloca- sufficientinthiscase,wherec = c representsthe\u03b3phase \u03b3 tions have already been undertaken from the early 2000s and c = c \u03b3(cid:48) the \u03b3(cid:48) phase, respectively",
+  "We presented a minimal model of dislocation-assisted Withoutdislocations(Fig",
+  "In In the present work, we show an alternative approach a small strain context one can additively decompose the by coupling a PF model and a 2D model of continuum total strain (cid:15) into an elastic elastic strain (cid:15)el and two in- dislocationdynamics(CDD)[12,13]"
+]
