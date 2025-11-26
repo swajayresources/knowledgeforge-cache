@@ -1,0 +1,17 @@
+[
+  "ert_ _______ __ ~~u frn~r:t National Aeronautics and Space Administration Lewis Research Center Cleveland, Ohio 44135 Abstract The most critical structural requirements that aircraft gas turbine engines must meet result from the diver$ity of extreme environmental conditions in the turbine section components",
+  "1 i near stress ana lys i s computer programs are avail ab 1e , they have not been used routinely in hot section component design because of the extensive computation time required for such applications",
+  "39 A commercial air-cooled turbine blade with a well-documented history of cracking in the squealer tip region was selected as the vehicle for accom plishihg the above objective",
+  "To perform the stress analysis for this turbine blade, a detailed three-dimensional model of the blade tip region was constructed which consisted of eight-noded isoparametric finite-elements (580 elements and 1119 nodes)",
+  "The evaluation of the 1i fe prediction methods indicated that none of those studied were satisfactory",
+  "40 en -- -en ~ ca c \u00ab -- o c o -- en (1) a: c",
+  "CO o 41 Metal Temperature Versus B~ade Tome ai Critical Location- 1100\u00b7 , l ~I =200",
+  "7 Time Pol\"ts 9001-1 6",
+  "-1---1---1---1-- 600",
+  "I I I ~ 5~oll 2",
+  "4~iI t= 1 == 300",
+  "0 Blade Tlp Critical F I -Location \u00b7 -I ::-226",
+  "0-1--1 I D I = 2001 _I I I I I 1 ~Q3",
+  "5 I I I o 40 80 120 160 200 240 280 320 360 Time, seconds Results of Turbine Blade Tip Structural Analyses (All Results are for Principal Direction Normal to Radial Crack at Critical Location) Inelastic i I Elastic Cycle 1 Cycle 2 Cycle 7 I w~",
+  "Total Strain, 0"
+]
