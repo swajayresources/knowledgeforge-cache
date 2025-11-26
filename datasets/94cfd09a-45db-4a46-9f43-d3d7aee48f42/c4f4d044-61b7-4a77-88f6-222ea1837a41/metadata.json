@@ -1,0 +1,15 @@
+{
+  "paper_id": "c4f4d044-61b7-4a77-88f6-222ea1837a41",
+  "title": "Survey Descent: A Multipoint Generalization of Gradient Descent for Nonsmooth Optimization",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/c4f4d044-61b7-4a77-88f6-222ea1837a41/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/c4f4d044-61b7-4a77-88f6-222ea1837a41/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/c4f4d044-61b7-4a77-88f6-222ea1837a41/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/c4f4d044-61b7-4a77-88f6-222ea1837a41/keywords.json"
+  ]
+}
