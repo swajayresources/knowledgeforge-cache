@@ -1,0 +1,17 @@
+[
+  "Architectural bone parameters and the relationship to titanium lattice design for powder bed fusion additive manufacturing Martine McGregora, Sagar Patela, Stewart McLachlina, Mihaela Vlaseaa,\u2217 aUniversity of Waterloo, Department of Mechanical and Mechatronics Engineering, Waterloo, ON N2L 3G1, Canada Abstract Additive manufacturing (AM) of titanium (Ti) and Ti-6Al-4V lattices has been proposed for bone implants and augmentation devices",
+  "Ti and Ti-6Al-4V have favourable biocompatibility, corrosion resistance and fatigue strength for bone applications; yet, the optimal parameters for Ti-6Al-4V lattice designs corresponding to the natural micro- and meso-scale architecture of human trabecular and cortical bone are not well understood",
+  "A comprehensive review was completed to compare the natural lattice architecture properties in human bone to Ti and Ti-6Al-4V lattice structures for bone replacementandrepair",
+  "TiandTi-6Al-4Vlatticeporosityhasvariedfrom15%to97%withmoststudies reporting a porosity between 50-70%",
+  "Cortical bone is roughly 5-15% porous and lattices with 50-70% porosity are able to achieve comparable stiffness, compressive strength, and yield strength",
+  "Trabecular bone has a reported porosity range from 70-90%, with trabecular thickness varying from 120-200 \u00b5m",
+  "Existing powder bed fusion technologies have produced strut and wall thicknesses ranging from 200-1669 \u00b5m",
+  "This suggests limited overlap between current AM of Ti and Ti-6Al-4V lattice structures and trabecular bone architecture, indicating that replicating natural trabecular bone parameters with latticing is prohibitively challenging",
+  "This review contributes to the body of knowledge by identifying the correspondence of Ti and Ti-6Al-4V lattices to the natural parameters of bone microarchitectures, and provides further guidance on the design and AM recommendations towards addressing recognized performance gaps with powder bed fusion technologies",
+  "Keywords: Additive manufacturing, Ti-6Al-4V and Titanium, Powder bed fusion, Bone micro-architecture, Orthopaedic design and bone replacement 1",
+  "Introduction The use of Ti-6Al-4V is well established in the medical device industry [1]",
+  "Titanium and titanium alloys are ideal for replacing hard tissues, such as bone, due to their biocompatibility and excellent strength-to-weightratio[2,3]",
+  "Ti-6Al-4Valsoexhibitsexcellentfatiguestrengthandcorrosionresistance \u2217Correspondingauthor Email address: mihaela",
+  "ca(MihaelaVlasea) Preprint submitted to July 5, 2021 1202 luJ 2 ]ics-lrtm",
+  "tam-dnoc[ 2v54970"
+]
