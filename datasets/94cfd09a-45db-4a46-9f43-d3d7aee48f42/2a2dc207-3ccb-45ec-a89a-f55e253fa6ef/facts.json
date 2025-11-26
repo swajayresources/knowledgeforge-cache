@@ -1,0 +1,17 @@
+[
+  "ACCEPTEDSEPTEMBER,2023 1 RGBlimp: Robotic Gliding Blimp - Design, Modeling, Development, and Aerodynamics Analysis Hao Cheng, Zeyu Sha, Yongjian Zhu, and Feitian Zhang Abstract\u2014A miniature robotic blimp, as one type of lighter- than-air aerial vehicle, has attracted increasing attention in the Durable, Safe, Noiseless scienceandengineeringfieldforitslongflightdurationandsafe aerial locomotion",
+  "Zagi 60 [12] (Robotic Gliding Blimp) combines desirable features of both a robotic blimp and a fixed- wingglider,namedtheRoboticGlidingBlimp,orRGBlimp",
+  "DJI Drone [11] e",
+  "GT-MAB [1] To the best of the authors\u2019 knowledge, this is the first effort to Buoyant Lift systematicallydesignanddevelopsuchaminiatureroboticblimp with moving mass control and hybrid lifts",
+  "INTRODUCTION MINIATURE robotic blimps have attracted a rapidly surface such as the rudder, the elevator, and the aileron, while growing interest in the science and engineering com- often used in the control of high-speed aerial vehicles such as munities with their technological advances in actuation, sens- large-scale airships and airplanes, has significantly decreased ing, and control [1]-[10]",
+  "For in human-robot interaction, and low acoustic noise level in example,fixed-winggliders[12]andhybridairships[13]-[15] locomotive operation with great potential in applications in- use a pair of wings to provide aerodynamic lift for gliding, cluding search and rescue [6], environmental monitoring [7], but generally require high-speed flight to generate sufficient and interactive entertainment [8]",
+  "Moreimportantly, Manuscript received April 23, 2023; accepted September 9, 2023",
+  "This inspired by the centroid control of fly squirrels in gliding work was supported by the Fundamental Research Funds for the Central [16], which is expected to have an improved flight control Universities,PekingUniversity(7100604091)",
+  "To our best knowledge, the RGBlimp is the first ing and Robotics, College of Engineering, Peking University, Beijing miniature robotic blimp in the literature with moving mass 100871, China (e-mail: h-cheng@stu",
+  "Following the DigitalObjectIdentifier(DOI):10",
+  "3318128 design and dynamic modeling, this letter proposes a method \u00a92023IEEE",
+  "Theexperimentalresultsarepresented 3202 tcO 02 ]OR",
+  "sc[ 3v97040",
+  "6032:viXra tfiL cimanydoreA oitaR garD-ot-tfiL 2 IEEEROBOTICSANDAUTOMATIONLETTERS",
+  "ACCEPTEDSEPTEMBER,2023 to validate the proposed design and the derived dynamic model"
+]
