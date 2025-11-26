@@ -1,0 +1,15 @@
+{
+  "paper_id": "b8fa606f-f8f5-4aeb-8da9-f51dd43f7e22",
+  "title": "Gas Turbine Heat Transfer and Cooling Technology",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8fa606f-f8f5-4aeb-8da9-f51dd43f7e22/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8fa606f-f8f5-4aeb-8da9-f51dd43f7e22/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8fa606f-f8f5-4aeb-8da9-f51dd43f7e22/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8fa606f-f8f5-4aeb-8da9-f51dd43f7e22/keywords.json"
+  ]
+}
