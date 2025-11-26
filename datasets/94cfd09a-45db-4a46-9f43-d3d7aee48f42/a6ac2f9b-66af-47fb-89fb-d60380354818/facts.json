@@ -1,0 +1,17 @@
+[
+  "1,AnthonyQuinn2,MartinCorless3,andRobertShorten1 1DysonSchoolofDesignEngineering,ImperialCollegeLondon 2 DepartmentofElectronicandElectricalEngineering,TrinityCollegeDublin 3DepartmentofAeronauticsandAstronautics,PurdueUniversity Abstract The goal of this paper is to introduce a new theoretical framework for Optimal Transport (OT), using the terminology and techniques of Fully Probabilistic Design (FPD)",
+  "[2004],computer graphics Solomonetal",
+  "[2015], natural language processing Kusneretal",
+  "[2015], etc",
+  "Keywords\u2014OptimalTransport,FullyProbabilisticDesign,Convexoptimization 1 Introduction Many Machine Learning (ML) problems reduce to the question of comparing and summarizing probability measures",
+  "OptimalTransportontheotherhand,convertsthedistancebetweensamplestoadistance betweenprobabilitymeasures,andindoingsoendowsthespaceofmeasureswithatopology: ifthe underlying space is Euclidean, the concepts of interpolation, barycenters and gradient of functions arenaturallyextendedtothespaceofmeasuresPeyr\u00e9andCuturi[2018]",
+  "FPDistheaxiomaticframeworkfordesigningprobabilitymeasuresunder uncertainty, while being consistent with particular knowledge constraints, imposed by the designer Karny [2020]",
+  "1 2202 ceD 91 ]IA",
+  "sc[ 1v21931",
+  "2122:viXra Our paper is structured as follows",
+  "We begin in Section 2 by reviewing the key concepts of OT, emphasising the mathematical objects used later in the document",
+  "In Section 3, we introduce FPD and establish in Section 4 the connection between OT and FPD",
+  "The key conclusions follow in Section5",
+  "2 Optimal Transport Let (\u2126, F, ) be a probability space",
+  "X: \u2126 7\u2192 \u2126S and Y: \u2126 7\u2192 \u2126T denote two random variables, inducing (\u2126S, F S, \u00b5) and (\u2126T, F T, \u03bd), the source and target measure spaces, respectively"
+]
