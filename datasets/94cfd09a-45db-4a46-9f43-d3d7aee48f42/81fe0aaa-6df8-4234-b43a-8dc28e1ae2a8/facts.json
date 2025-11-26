@@ -1,0 +1,19 @@
+[
+  "PLoS ONE 8, e78059 (2013) Perturbation centrality and Turbine: a novel centrality measure obtained using a versatile network dynamics tool Krist\u00f3f Z",
+  "Szalay and Peter Csermely* Department of Medical Chemistry, Semmelweis University, P O Box 260",
+  ", H-1444 Budapest 8, Hungary ABSTRACT Analysis of network dynamics became a focal point to understand and predict changes of complex systems",
+  "As an example, protein structure networks, where network nodes represent amino acids, and edges symbolize their physical distance, are increasingly used to describe conformational changes, formation of protein complexes, drug binding and enzyme action [1\u20133]",
+  "Recently several programs have been introduced for the construction of protein structure networks from 3D structural data and for their analysis [4,5]",
+  "Protein-protein interaction networks (interactomes) provide a great help to understand the molecular mechanism of cellular functions, the development of diseases and drug design [6]",
+  "In protein-protein interaction networks such as BioGRID [7], STRING [8], and DIP [9], nodes are proteins, and edges denote their physical interactions",
+  "Network dynamics is necessary to understand the changes of complex systems, and therefore became a hot topic of network studies [10,11]",
+  "A number of programs have been developed for the calculation of certain aspects of network dynamics, such as network simulation tools based on Boolean dynamics [12\u201316], the random-walk based ITM-Probe [17], the law of mass action-based PerturbationAnalyzer [18], or the *Corresponding author: Csermely, P",
+  "hu) 1 biological system modeling tool, BIOCHAM [19]",
+  "Recently the complex network dynamics simulation tool, Conedy was introduced [20]",
+  "The initial phase of Turbine development was mentioned in an earlier conference lecture summary [21]",
+  "The communicating vessels model gives an exponential decay of perturbations (see Supplementary Results of Text S1), which is in agreement with several earlier findings [22,23]",
+  "Modules limit perturbation propagation The intuitive impression that modules limit the information spread in complex networks was described in multiple papers, and was shown in many simulations [24\u201327]",
+  "Taken together these two considerations, our expectation was that a network with rather distinct modules (termed as pronounced modules) will propagate and dissipate 2 perturbations slower than a network with tightly interconnected modules (termed as fuzzy modules)",
+  "In several case studies on protein structure networks and yeast protein-protein interaction networks we showed that this indeed may be the case",
+  "Our results on protein structure and protein-protein interaction networks highlight the usefulness of perturbation centrality to identify functionally important nodes in biological networks, and show that the preferred way of comparing perturbation centralities in two similar networks is to compare the largest changes rather than the largest absolute values"
+]
