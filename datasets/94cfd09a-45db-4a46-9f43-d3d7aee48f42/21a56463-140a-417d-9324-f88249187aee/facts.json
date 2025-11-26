@@ -1,0 +1,17 @@
+[
+  "60-MPUTATIONAL STUDY OF THREE DIMENSIONAL VISCOUS FLOW THROUGH A TURBINE CASCADE USING MULTI-DOMAIN SPECTRAL TECHNIQUE 4 ri",
+  "3 '- (; Earl W",
+  "Tan Massachusetts Institute of Technology Cambridge, MA 02139 ABSTRACT The three dimensional viscous flow through a planar turbine cascade is numerically simulated by direct solution of the incompressible Navier-Stokes equations",
+  "131-[4]) have been carried out in plane and annular cascades to obtain data which have been used to develop a physical understanding of the generation of secondary flows",
+  "[5])t o develop analytic models for predicting flowfields and the losses associated with the existence of secondary flows",
+  "(l-2) is advanced forward in time using a fractional time stepping scheme (ref",
+  "(4) and applying Eqn",
+  "(5) to yield subject to the boundary condition v2 n+l on the solid walls",
+  "(l3) can be shown to give an error that satisfies the minimax criterion (ref",
+  "( 10) above, and hm(S) are high order local Lagrangian interpolants in tems of Chebyshev polynomials",
+  "These can be writen as with 1 for m#O or M 2 for m=O or M where the S, are the collocation points in the computational space",
+  "[Ill), Collocatioll Mesh Collocatiotl Mesh Physical Computational Figure 1: Element collocation grid in physical and computational space",
+  "where we have chosen 5 = 2, with the collocation points in the elemental computational space defined as where j, k, 1 = 0 --, J, K,L",
+  "To complete thoe idle finition of the mapping from the physical coordinate space (X, Y, 2) to the elemental computa- tional space (t, q , we need to define the collocation points in the physical space (X, Y);",
+  "Y(S m) (19) m where the collocation arc lengths S, are defined as in Eqn"
+]
