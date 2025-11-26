@@ -1,0 +1,17 @@
+[
+  "--,_ _ 208146 /,,v - p,- x-/",
+  "Gaugler An existing three-dimensional Navier-Stokes code (Arnone et aL, 1991), modified TurbineBranch, to include film cooling considerations (Garg and Gaugler, 1994), has been used to Turbomachinery&Propulsion study the effect of coolant velocity and temperature distribution at the hole exit on SystemsDivision",
+  "the heat transfer coefficient on three film-cooled turbine blades, namely, the C3X vane, the VK1 rotor, and the ACE rotor",
+  "Moreover, Mayle's transition criterion (1991), For- MailStop5-11, est' s model for augmentation of leading edge heat transfer due tofree-stream turbu- Cleveland,OH44135 lence (1977), and Crawford's model for augmentation of eddy viscosity due tofilm cooling (Crawford et al",
+  ", 1980) are used",
+  "It isfound that, in some cases, the effect of distribution of coolant velocity and temperature atthe hole exit can be as much as 60 percent on the heat transfer coefficient at the blade suction surface, and 50 percent at the pressure surface",
+  "1 Introduction experimental data on a flat plate showed poor agreement in the vicinity of the hole partly due to the assumption of a uniform There is a growing tendency these days to use higher and coolant velocity at the hole exit",
+  "Schtnung and Rodi (1987) higher temperatures at the inlet to aturbine since it yields higher presented atwo-dimensional boundary layer model with amodi- thermal efficiency",
+  "Modern gas turbine engines are designed to fication for three-dimensional elliptic flow for simulating the operate at inlet temperatures of 1800-2000 K, which are far effects of film cooling by asingle row of holes",
+  "This calls for (1992) extended Schtnung and Rodi's (1987) model to account an efficient cooling system",
+  "Tafti and bled directly from the compressor before it passes through the Yavuzkurt (1990) developed a two-dimensional injection combustion chamber, it represents a loss in the total power model for use with a two-dimensional low-Reynolds-number output",
+  "(1990) developed standing the coolant film behavior and its interaction with the an elliptic procedure near the injection area but apartially para- mainstream flow",
+  "hole size, shape and location, and the angle of injection:Many Vogel (1991) described a three-dimensional Navier-Stokes studies on film cooling have been confined to simple geometries, code for film-cooled gas turbine blades that couples the flow for example, two-dimensional flat and curved plates in steady, problem over the blade with the three-dimensional heat conduc- incompressible flow",
+  "A survey of work up to 1971 has been tion problem within the blade",
+  "Using auniform coolant velocity provided by Goldstein (1971)"
+]
