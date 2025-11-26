@@ -1,0 +1,17 @@
+[
+  "Fluid Mixing from Viscous Fingering Birendra Jha Luis Cueto-Felgueroso Ruben Juanes Civil and Environmental Engineering Massachusetts Institute of Technology, Cambridge, MA 02139, USA October 25, 2018 Abstract Viscous fingering is a well-known hydrodynamic instability that sets in when a less viscous fluid displaces a more viscous fluid [1]",
+  "Wedevelopatwo-equationdynamicmodelof concentrationvarianceandmeandissipationratetoquantifythedegree of mixing in such a displacement process [2]",
+  "1 Introduction Mixing efficiency at low Reynolds numbers can be enhanced by exploit- ing hydrodynamic instabilities that induce heterogeneity and disorder in the flow",
+  "The unstable displacement of fluids with different viscosities, or viscous fingering [1], provides a powerful mechanism to increase fluid-fluid interfacial area and enhance mixing",
+  "The physical model de- scribes flow in a porous medium or Hele-Shaw cell\u2014a thin gap between two 1 1102 tcO 31 ]nyd-ulf",
+  "scisyhp[ 3v0873",
+  "0101:viXra parallelplates",
+  "The fluid dynamics video accompanying this document is created from a simulation where the viscosity ratio is 33 and the P\u00b4eclet number is 10000",
+  "This competition between creation of fluid-fluid interfacial area 2 and channeling results in nontrivial mixing behavior",
+  "We develop a two- equation dynamic model for evolution of the concentration variance and mean scalar dissipation rate to quantify the degree of mixing in a viscously unstable displacement [2]",
+  "References [1] G",
+  ", 19:271\u2013311, 1987",
+  ", 106:194502, 2011",
+  "We present a fluid dynamics video of the mixing process in a viscously unstable flow, generated from a high-resolution numerical simulation using a computational strategy that is stable for arbitraryviscosityratios",
+  "We show that viscous fingering leads to two competing effects"
+]
