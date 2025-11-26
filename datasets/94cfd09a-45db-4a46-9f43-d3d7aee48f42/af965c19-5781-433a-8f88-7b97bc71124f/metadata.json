@@ -1,0 +1,15 @@
+{
+  "paper_id": "af965c19-5781-433a-8f88-7b97bc71124f",
+  "title": "Separable Shape Tensors for Aerodynamic Design",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/af965c19-5781-433a-8f88-7b97bc71124f/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/af965c19-5781-433a-8f88-7b97bc71124f/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/af965c19-5781-433a-8f88-7b97bc71124f/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/af965c19-5781-433a-8f88-7b97bc71124f/keywords.json"
+  ]
+}
