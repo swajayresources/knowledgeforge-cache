@@ -1,0 +1,17 @@
+[
+  "NASA/TM\u20142015-218738 Analysis of Turbine Blade Relative Cooling Flow Factor Used in the Subroutine Coolit Based on Film Cooling Correlations Steven J",
+  "Schneider Glenn Research Center, Cleveland, Ohio June 2015 NASA STI Program",
+  "NASA counter-part of peer-reviewed formal \u2022 Fax your question to the NASA STI professional papers, but has less stringent Information Desk at 757-864-6500 limitations on manuscript length and extent of graphic presentations",
+  "\u2022 Telephone the NASA STI Information Desk at 757-864-9658 \u2022 TECHNICAL MEMORANDUM",
+  ", \u201cquick-release\u201d reports, NASA STI Program working papers, and bibliographies that contain Mail Stop 148 minimal annotation",
+  "Hampton, VA 23681-2199 NASA/TM\u20142015-218738 Analysis of Turbine Blade Relative Cooling Flow Factor Used in the Subroutine Coolit Based on Film Cooling Correlations Steven J",
+  "Schneider Glenn Research Center, Cleveland, Ohio National Aeronautics and Space Administration Glenn Research Center Cleveland, Ohio 44135 June 2015 Level of Review: This material has been technically reviewed by technical management",
+  "Available from NASA STI Program National Technical Information Service Mail Stop 148 5285 Port Royal Road NASA Langley Research Center Springfi eld, VA 22161 Hampton, VA 23681-2199 703-605-6000 This report is available in electronic form at http://www",
+  "Schneider National Aeronautics and Space Administration Glenn Research Center Cleveland, Ohio 44135 Abstract Heat transfer correlations of data on flat plates are used to explore the parameters in the Coolit program used for calculating the quantity of cooling air for controlling turbine blade temperature",
+  "The exceptions are that no film or 100 percent convection is predicted to not be able to control blade temperature, while leaving less than 25 percent of the cooling flow in the convection path results in nearing a limit on convection cooling as predicted by a thermal effectiveness parameter not presently used in Coolit",
+  "Nomenclature Description Units Example A flow area m2 varies a sonic velocity m/s varies B distance between blades m 0",
+  "02 C convection from combustion gas W/m2 varies 1 C convection to cooling air W/m2 varies 2 D cooling passage width m varies c D hydraulic diameter of cooling passage m varies h FAC relative cooling flow factor in Coolit1 varies h convective heat transfer coefficient W/m2 K varies H height of blades m 0",
+  "05 k thermal conductivity of cooling air W/m K 0",
+  "0553 c k thermal conductivity of combustion gas W/m K 0",
+  "164 g L length of blade in flow direction m 0"
+]
