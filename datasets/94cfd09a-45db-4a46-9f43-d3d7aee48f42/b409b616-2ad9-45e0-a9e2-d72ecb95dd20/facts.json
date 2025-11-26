@@ -1,0 +1,17 @@
+[
+  "Short position paper, Royal Society Workshop, July 2016: \u201cRealising the Benefits of Machine Learning in Manufacturing\u201d Scope for Machine Learning in Digital Manufacturing Martin Baumers1 and Ender \u00d6zcan2 University of Nottingham Abstract: This provocation paper provides an overview of the underlying optimisation problem in the emerging field of Digital Manufacturing",
+  "Initially greater emphasis on flexibility, reconfigurability and known as Computer-Integrated Manufacturing, the resilience in the operation of manufacturing systems concept traditionally describes the utilisation of a suite (Siemens, 2014)",
+  "engineering and operations functions, this collection of digital tools supports process and tooling design, plant layout, advanced visualisation, simulation and concurrent engineering approaches (Slansky, 2008)",
+  "centre of manufacturing innovation (Westk\u00e4mper, 2007)",
+  "Among other aspects, such process innovation Following the emergence and strongly growing promises to remove existing technological tradeoffs in relevance of the concept of \u201cIndustrie 4",
+  "0\u201d, the flavour manufacturing, permit novel supply chain of Digital Manufacturing is changing, however",
+  "closed loop control architectures obtained via ubiquitous sensing and computing, the optimisation of 1 3D Printing Research Group, Faculty of Engineering, email: martin",
+  "uk 2 Automated Scheduling and Planning Research Group, School of Computer Science, email: ender",
+  "uk 1 One such process innovation that has received As illustrated, the work flow of Digital Manufacturing significant attention is Additive Manufacturing (AM), can thus be understood as an integrated optimisation also known as 3D Printing",
+  "Siemens, 2014) with a generic AM process map have turned into Big Data problems requiring an (Gibson et al",
+  ", 2010) and a life cycle assessment integrated data infrastructure and special knowledge",
+  "The resulting model is shown in Figure 1",
+  "Figure 1: An integrated framework for the assessment of Digital Manufacturing 2 The described integrated framework of Digital References: Manufacturing indeed embodies a data infrastructure",
+  "compliance with certain (potentially new) standards as \uf0a7 BSI, 2012",
+  "[Online] PAS 2050:2011 Specification for the it is extremely desirable for the data science and assessment of the life cycle greenhouse gas emissions of goods and services optimisation techniques (which are not necessarily the http://shop"
+]
