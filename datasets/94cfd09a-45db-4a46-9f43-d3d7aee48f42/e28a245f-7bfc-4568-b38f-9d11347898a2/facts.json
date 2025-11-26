@@ -1,0 +1,21 @@
+[
+  "Boiling Heat Transfer on Superhydrophilic, Superhydrophobic, and Superbiphilic Surfaces Amy Rachel Betz1*, James Jenkins2, Chang-Jin \u201cCJ\u201d Kim2, Daniel Attinger3 1 Kansas State University, Manhattan, KS 2 University of California, Los Angeles, CA 3 Iowa State University, Ames, IA * Contact Information: 3002 Rathbone Hall Manhattan, KS 66506 arbetz@ksu",
+  "edu 785-532-2647 1 Abstract With recent advances in micro- and nanofabrication, superhydrophilic and superhydrophobic surfaces have been developed",
+  "Finally, we manufacture and test the first superbiphilic surfaces (juxtaposing superhydrophobic and superhydrophilic regions), which show exceptional performance in pool boiling, combining high critical heat fluxes over 100 W/cm2 with very high heat transfer coefficients, over 100 kW/m2K",
+  "Keywords: Superhydrophobic, superhydrophilic, biphilic, enhanced heat transfer, pool boiling, nucleation Nomenclature A = area of influence (m2) in c = specific heat (J/kgK) p CHF = critical heat flux (W/m2) d = diameter (m) f = frequency (Hz) g = acceleration due to gravity (m/s2) k = thermal conductivity (W/mK) HTC = heat transfer coefficient (W/m2K) n' = active nucleation site density (sites/m2) a p = pitch (m) q\uf0a2\uf0a2 = heat flux (W/m2) SBPi = superbiphilic SHPi = superhydrophilic SHPo = superhydrophobic T = temperature (\u00b0C or K) \u0394T = T-T , superheat (K) sat Greek Symbols \u03b3 = surface tension (N/m) \u03b8 = wetting angle (\u00b0) \u03c1 = density (kg/m3) 2 Subscripts con = contact d = departure l = liquid sat = saturation v = vapor 1",
+  "The high affinity of SHPi surfaces for water enhances capillary water transport [1, 2], prevents dropwise condensation or fogging [3, 4], and facilitates boiling [5]",
+  "A surface is called superhydrophobic (SHPo) if the apparent contact angle of water on the surface in air is larger than 150\u00b0",
+  "SHPo surfaces self-clean [6], enhance condensation [7], mitigate frost buildup [8, 9], and reduce hydrodynamic drag [1, 10]",
+  "In recent reviews, enhanced liquid-vapor phase change was also described as a potential application of SHPi [11] and SHPo [12] surfaces",
+  "This potential enhancement is important for convective heat transfer technologies since convection associated with multiphase flow delivers the highest heat transfer coefficients, typically one order of magnitude higher than single- phase forced convection, and two orders of magnitude higher than single-phase natural convection [13]",
+  "Few multiphase heat transfer measurements however have been made on SHPi or SHPo surfaces, with the exception of experiments involving single nucleation [14] or condensation [15]",
+  "While flow boiling describes the boiling of liquids forced to move along hot solid surfaces, pool boiling, the mode studied here, describes a fluid heated on a hot surface and transported by buoyancy [16]",
+  "At CHF, the HTC is drastically reduced, which induces a significant and often destructive surface temperature increase [17-19] called dry-out",
+  "3 To date, two main strategies have been used to enhance the performance of surfaces for pool boiling",
+  "The first strategy enhances the performance at low heat fluxes, in the isolated bubble regime, by promoting nucleation and enhancing HTC [16]",
+  "This is made by either reducing the surface wettability [14, 20-26] or by modifying the surface topology, via e",
+  "We propose to use the biphilic and superbiphilic surfaces of Section 2",
+  "3 Boiling curves on biphilic surfaces, effect of wettability and topography Next, we show that HTC can be further increased by revisiting an assumption underlying our measurements in Section 3",
+  "We show experimentally that these surfaces have higher performance in pool boiling than surfaces with spatially uniform wettability, in terms of critical heat flux and heat transfer coefficient",
+  "We show with an analytical modeling how the excellent boiling performance is due to the biphilicity of the surfaces: while the hydrophobic regions increase the availability of nucleation sites, the surrounding hydrophilic regions constrain the contact diameter of the growing bubbles, preventing the surface from being saturated with bubbles, i"
+]
