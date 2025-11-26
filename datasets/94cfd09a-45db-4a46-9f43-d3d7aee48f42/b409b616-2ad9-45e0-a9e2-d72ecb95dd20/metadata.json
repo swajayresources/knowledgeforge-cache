@@ -1,0 +1,15 @@
+{
+  "paper_id": "b409b616-2ad9-45e0-a9e2-d72ecb95dd20",
+  "title": "Scope for Machine Learning in Digital Manufacturing",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b409b616-2ad9-45e0-a9e2-d72ecb95dd20/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b409b616-2ad9-45e0-a9e2-d72ecb95dd20/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b409b616-2ad9-45e0-a9e2-d72ecb95dd20/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b409b616-2ad9-45e0-a9e2-d72ecb95dd20/keywords.json"
+  ]
+}
