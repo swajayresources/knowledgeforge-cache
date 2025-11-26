@@ -1,0 +1,15 @@
+{
+  "paper_id": "a9e1643e-6981-4286-9608-c01e8cd2a951",
+  "title": "Tenth Workshop for Computational Fluid Dynamic Applications in Rocket Propulsion, part 2",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a9e1643e-6981-4286-9608-c01e8cd2a951/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a9e1643e-6981-4286-9608-c01e8cd2a951/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a9e1643e-6981-4286-9608-c01e8cd2a951/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a9e1643e-6981-4286-9608-c01e8cd2a951/keywords.json"
+  ]
+}
