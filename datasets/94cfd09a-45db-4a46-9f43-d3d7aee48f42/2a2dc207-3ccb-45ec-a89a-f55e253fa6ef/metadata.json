@@ -1,0 +1,15 @@
+{
+  "paper_id": "2a2dc207-3ccb-45ec-a89a-f55e253fa6ef",
+  "title": "RGBlimp: Robotic Gliding Blimp -- Design, Modeling, Development, and Aerodynamics Analysis",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2a2dc207-3ccb-45ec-a89a-f55e253fa6ef/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2a2dc207-3ccb-45ec-a89a-f55e253fa6ef/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2a2dc207-3ccb-45ec-a89a-f55e253fa6ef/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2a2dc207-3ccb-45ec-a89a-f55e253fa6ef/keywords.json"
+  ]
+}
