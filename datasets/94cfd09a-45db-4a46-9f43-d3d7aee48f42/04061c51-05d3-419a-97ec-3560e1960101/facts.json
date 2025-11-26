@@ -1,0 +1,17 @@
+[
+  "COMPUTATIONAL FLUID DYNAMICS ANALYSIS IN SUPPORT OF THE SIMPLEX TURBOPUMP DESIGN N95- 70873 Roberto Garcia, Lisa W",
+  "Williams Computational Fluid Dynamics Branch NASA/Marshall Space Flight Center Marshall Space Flight Center, AL 35812 OVERVIEW: Simplex is a turbopump that is being developed at NASA/Marshall Space Flight Center (MSFC) by an in-house team",
+  "Details of the configuration and operating conditions are given by Marsh [1]",
+  "CFD has been used extensively to verify one- dimensional (1D) predictions, assess aerodynamic and hydrodynamic designs, and to provide flow environments",
+  "DISCUSSION: The hot gas path of the Simplex turbine consists of an inlet torus, a ring of twelve m E converging-diverging nozzles, a wh-eel Of 95 impulse rotors, and a 7",
+  "6 inch diameter exhaust pipe",
+  "Six of the nozzles are blocked in a pattern of one active arc of admission and one inactive arc so it operates at 45% admission",
+  "The total pressure at the inlet of the nozzle is 800 psi, and the total-to- static pressure ratio is 15",
+  "The inlet total temperature is 800\" R",
+  "The total mass flow rate is 1",
+  "54 lbm/sec per nozzle",
+  "The wheel speed is 25,000 rpm, and the turbine is to supply 700 hp",
+  "The velocity ratio of the rotor is 0",
+  "The nozzle analysis is fully three-dimensional (3D)",
+  "The inlet to throat area ratio is 2"
+]
