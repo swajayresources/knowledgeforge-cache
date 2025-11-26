@@ -1,0 +1,17 @@
+[
+  "1) and the design optimization testbed COMETBOARDS (ref",
+  "2) with regression and neural-network-analysis approximators have been coupled to obtain a preliminary aircraft design methodology",
+  "The aircraft is powered by two high-bypass-ratio engines with a nominal thrust of about 35,000 lbf",
+  "It is to carry 150 passengers at a cruise speed of Mach 0",
+  "8 over a range of 3000 n mi and to operate on a 6000-ft runway",
+  "SLP: 200,313 iterations for FLOPS, 197,782 for regression; NLPQ: 199,030 iterations for FLOPS, 196,965 for regression; FD: 199,008 iterations for FLOPS, 196,965 for regression; NLPQ: 199,255 iterations for FLOPS, 196,965 for regression",
+  "The optimum weight obtained by the approximation technique and the FLOPS code differed by 1",
+  "Prediction by the approximation technique exhibited no error for the aircraft wing area and turbine entry temperature, whereas it was within 2 percent for most other parameters",
+  "It was at about the same level for small, standard, and large models with redundancy ratios (defined as the number of input-output pairs to the number of unknown coefficients) of 14, 28, and 57, respectively",
+  "CPU TIME TO SOLUTION IN AN SGI OCTANE WORKSTATION Task Regression method Neural network technique Small Standard Large Small Standard Large Training, sec 0",
+  "8 Reanalysis,a msec --- --- 0",
+  "08 --- --- 2",
+  "4 Reanalysis with closed-form gradient, msec --- --- 0",
+  "14 --- --- 13",
+  "5 Design optimization, sec 1"
+]
