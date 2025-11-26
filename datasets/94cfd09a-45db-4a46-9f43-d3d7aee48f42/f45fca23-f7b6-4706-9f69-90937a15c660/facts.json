@@ -1,0 +1,19 @@
+[
+  "Additive Manufacturing of Fibrous Sound Absorbers William Johnston\u1da0 and Bhisham Sharma\u019a Department of Aerospace Engineering, 1845 Fairmount Street, Wichita State University, Wichita, KS 67260 \u1da0First author: E-mail: wjjohnston@shockers",
+  "edu; Tele: +1-316-978-3199 \u019aCorresponding author: E-mail: bhisham",
+  "edu; Tele: +1-316-978-3199 Abstract We investigate the possibility of additively manufacturing fibrous sound absorbers using fused deposition modeling",
+  "Two methods for 3D printing fibers are proposed",
+  "Both methods can produce fibers with aspect ratios greater than 100",
+  "In aeronautics, this challenge manifests in the design of absorptive acoustic liners required to absorb aircraft engine noise and help meet Federal Aviation Administration\u2019s increasingly stringent noise certification standards\u2014while the liner must absorb the turbofan-generated noise, it must not restrict the aerodynamic flow path and reduce engine efficiency [1]",
+  "Computer server designers face a similar challenge [2]: the noise emanated from internal cooling fans must be reduced without blocking the flow path and reducing cooling performance",
+  "Similar examples are prevalent in fields ranging from automotive engineering [3] to automatic hand dryer manufacturing [4]",
+  "Depending on the structure of their solid phase, porous materials may be classified as cellular, fibrous, or granular [5]",
+  "Regardless, they all fall into the class of resistive sound absorbers\u2014the dominant absorption mechanism is the dissipation of incident acoustic energy through visco-inertial and thermal losses [6]",
+  "While this mechanism limits their absorption performance at low frequencies\u2014 frequencies below 1000 Hz may be considered low for most applications\u2014they provide attractive absorption values at medium-to-high frequencies [6]",
+  "This combined with their low weight, low cost, and easy availability, makes them an attractive sound absorption solution for applications typically requiring noise mitigation between the 1000\u20136000 Hz frequency range",
+  "At lower frequency ranges, reactive sound absorbers such as Helmholtz resonators [7, 8] or stiffened membranes with [9, 10] or without [11] embedded masses provide significantly better absorption behavior, though their performance is often limited to a narrow frequency range",
+  "Recently, inspired by the idea of locally resonant elastic and acoustic metamaterials [10, 12, 13], some researchers have proposed the idea of structures that combine reactive elements within resistive porous materials to help improve their low-frequency absorption performance [14-17]",
+  "Such \u201cco-dynamic\u201d structures [14] offer an alternative route towards better sound absorption devices, though fabricating them using traditional methods at scales and rates necessary for wider adoption would be a challenge",
+  "Here we present two different approaches for printing fibers using the FDM process: Fiber bridging\u2014a technique that relies on the bridging capabilities of the printer; and Extrude-and-Pull\u2014a technique, originally proposed by Laput et al",
+  "Our results indicate that both methods result in fibers with different thickness characteristics, which can be tailored by altering the printing parameters"
+]
