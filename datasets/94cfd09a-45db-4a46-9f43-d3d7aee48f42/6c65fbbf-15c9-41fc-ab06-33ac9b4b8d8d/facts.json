@@ -1,0 +1,17 @@
+[
+  "Status of the JET LIDAR Thomson Scattering diagnostic M Maslova, MNA Beurskensa, M Kempenaarsa, J Flanagana and JET EFDA * contributors JET-EFDA, Culham Science Centre, Abingdon, OX14 3DB, UK aEURATOM-CCFE Fusion Association, Culham Science Centre, Abingdon, Oxon, OX14 3DB, UK * See the appendix of F",
+  "24th IAEA Fusion Energy Conferenc, San Diego, USA, 2012 E-mail: mikhail",
+  "uk ABSTRACT: The LIDAR Thomson scattering concept was proposed in 1983 and then implemented for the first time on the JET tokamak in 1987",
+  "A number of modifications were performed and published in 1995, but since then no major changes were made for almost 15 years",
+  "In 2010 a refurbishment of the diagnostic was started, with as main goals to improve its performance and to test the potential of new detectors which are considered as candidates for ITER",
+  "Previously used MA-2 detectors were replaced by fast GaAsP detectors with much higher average QE",
+  "Statistical errors of measured temperature and density were reduced by a factor of 2 or more, depending on plasma conditions, and comfortably surpassed the values requested for ITER Core Thomson Scattering (10% for T and e 5% for n )",
+  "1 Optics near tokamak",
+  "2 Implications on stray light",
+  "1 General scheme",
+  "2 Detectors",
+  "3 Notes on calibration",
+  "Introduction LIDAR Thomson Scattering was implemented successfully on JET more than 25 years ago [1,2] demonstrating the advantages of the LIDAR concept: 180 degrees scattering requires only one access port to the plasma, light collection optics do not have to be a high resolution imaging optics, do not require precision alignment and is well suited for a hazardous environment where routine access might be difficult",
+  "The spatial resolution is limited by the laser pulse length and detector response time and can be optimized to ~7cm which leads to a spatial resolution of >8% of the minor radius for JET",
+  "For larger devices such as ITER this scales to >4% of the minor radius without the need for increasing the number of detectors"
+]
