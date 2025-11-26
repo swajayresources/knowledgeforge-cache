@@ -1,0 +1,17 @@
+[
+  "Griffin - Fluid Dynamics Analysis Branch National Aeronautics and Space Administration ii i i /, ~2 George C",
+  "Marshall Space Flight Center Marshall Space Flight Center, AL 1 - 3 1 Daniel J",
+  "Yaw angle, relative Modifications were made to the CFD code used in this study to allow the coupled nozzlelblade1EGV analysis and to incorporate Message Passing Interface (MPI) software",
+  "Calculations were also performed t time for the nozzle alone, and the results were imposed as an inlet t-s Total to static quantity boundary condition for a blade1EGV calculation for the large 0 Nozzle inlet gap case",
+  "2 Rotor exit INTRODUCTION NOMENCLATURE Flowfield unsteadiness is a major factor in turbine CI Speed of sound performance and durability",
+  "For example, the Space Transportation Main Engine (STME) Specific heat at constant pressure CP fuel turbine, a high work, transonic design, was predicted to F, G, H a-, ji z components of flux have an unsteady inter-row shock that reduced efficiency by I Inviscid quantity two points and increased dynamic loading by 24 percent 111 Mass flow rate (Rangwalla, et al",
+  "The Revolutionary Reusable P Pressure Technology Turbopump (RRTT) turbine, which uses full flow PI Pressure ratio oxygen as its drive gas, was predicted to shed vortices with P blT Power such energy as to raise serious concerns about the blade's Q Vector of flow variables durability (Griffin and Nesman, 1996)",
+  "The blade1EGV calculation for the large axial gap case",
+  "These ability to accurately predict this flow unsteadiness in a results are compared to the nozzlelblade1EGV results",
+  "The objective of the Before beginning the analysis of the coupled Fastrac Engine project is to demonstrate a reliable, low cost nozzlelblade1EGV calculation, two major difficulties with turbopump-fed rocket engine",
+  "The turbine is resonance near a crucial operating speed, as shown in the required to produce 895 kW and spins at 20,000 RPM",
+  "The diagram shows crossovers of nozzle ring contains 24 converging-diverging, straight excitations at blade bending modes due to twice the nozzle centerline nozzles with circular cross sections and throat count, and due to the EGVs within a 10% margin of the diameters of 0",
+  "There are 147 impulse-type, shrouded nominal design speed",
+  "Unsteady CFD analysis was used to blades with heights of 1",
+  "045 cm, which is 20% larger than support the aerodynamic assessments of blade loading and the minor axis of the nozzle exit ellipse"
+]
