@@ -1,0 +1,15 @@
+{
+  "paper_id": "b4a200d5-aa2b-4b48-8e7c-c1cfa9a6f49d",
+  "title": "WaveletAE: A Wavelet-enhanced Autoencoder for Wind Turbine Blade Icing Detection",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b4a200d5-aa2b-4b48-8e7c-c1cfa9a6f49d/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b4a200d5-aa2b-4b48-8e7c-c1cfa9a6f49d/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b4a200d5-aa2b-4b48-8e7c-c1cfa9a6f49d/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b4a200d5-aa2b-4b48-8e7c-c1cfa9a6f49d/keywords.json"
+  ]
+}
