@@ -1,0 +1,17 @@
+[
+  "Bird AerospaceSciencesDivision,SchoolofEngineering, UniversityofGlasgow,Glasgow,G128QQ,UK E-mail:hugh",
+  "uk KiranRamesh AerospaceSciencesDivision,SchoolofEngineering, UniversityofGlasgow,Glasgow,G128QQ,UK E-mail:kiran",
+  "uk 1202 tcO 72 ]nyd-ulf",
+  "scisyhp[ 2v19990",
+  "4012:viXra 2 HughBirdandKiranRamesh 1 Nomenclature A ,A",
+  "A = Fouriercoefficientsin2Dboundvorticitydistribution 0 1 N \u00c6R = aspectratio c = chord C = liftcoefficient(2D) l C = liftcoefficient(3D) L C = momentcoefficient(2D) m C = momentcoefficient(3D) M F = 3Dcorrectionstrength h = plungedisplacement h = normalizedplungeamplitude \u22170 k = chordreducedfrequency K = 3Dinteractionkernel s = semispan t = time U = freestreamvelocity W = 2Ddownwash x = chordwisecoordinate x = normalizedmomentreferencelocation \u2217m x = normalizedpitchlocation \u2217p y = spanwisecoordinate \u03b1 = angleofattack \u03b3 = vorticityperunitarea \u0393 = boundcirculationperunitspan \u03b6 = angularreferencecoordinateonspan \u03bd = spanreducedfrequency \u03c6 = velocitypotential \u03c9 = angularfrequency 2 Introduction The unsteady aerodynamicsof wings is an increasingly important topic in modern aerospaceresearch",
+  "56Andatlargerscalesstill,highaspectratioaircraft44,68 and windturbinedesigners29facechallengesisunderstandingtheconsequencesofwings flexingunderload",
+  "39Stud- ies in this topic, carried out using Computational Fluid Dynamics (CFD) and ex- perimentsarereviewedinCarr,12 Carretal",
+  "13 andEkaterinarisandPlatzer",
+  "21 More recentinvestigations(inthe21stcentury)intothree-dimensionaleffectsindynamic ULLTwakevorticity 3 stallusingstate-of-the-artexperimentalandnumericalmethodsincludeAnguloetal",
+  "2 andVisbaland Garmann",
+  "64,65 Allthese studiesconcerntheforcesand flow around a finite aspectratio wingundergoingpitch-plungemotionin a highReynoldsnum- ber,lowreducedfrequencyregime",
+  "Finite-wing effects in these regimes, specifically concerning the interactions of tip vortices with leading- and trailing-edge vortices have been investigated using CFD andexperiments,fortranslatingwings,20,38,43 pitchingwings,26,32,34,63,70,72 plung- ingwings,8\u201310,23,66,71 rotatingwings3,14,15,41,47,62 andwingssubjecttogusts",
+  "4,17,48 Thesestudieshaveshedmuchlightonforceproductioninunsteadyfinite-wingsand onthecontributionsfromcirculatory,apparent-massandvorticaleffects",
+  "In 2D, Theodorsen\u2019stheory60providestheliftandmomentforathin,symmetricairfoilun- dergoingsmallharmonicpitchandplungeoscillationsinpotentialflow"
+]
