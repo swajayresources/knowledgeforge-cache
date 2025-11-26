@@ -1,0 +1,18 @@
+[
+  "PublishedasaconferencepaperatICLR2025 THE CASE FOR CLEANER BIOSIGNALS: HIGH- FIDELITY NEURAL COMPRESSOR ENABLES TRANSFER FROM CLEANER IEEG TO NOISIER EEG FrancescoS",
+  "Carzaniga1,2,GaryHoppeler3,MichaelHersche1, KasparA",
+  "Schindler2,AbbasRahimi1 1IBMResearch\u2013Zurich,Ru\u00a8schlikon,Switzerland 2DepartmentofNeurology,Inselspital,Sleep-Wake-Epilepsy-Center, BernUniversityHospital,BernUniversity,Bern,Switzerland 3ETHZu\u00a8rich,Zu\u00a8rich,Switzerland frc@zurich",
+  "BrainCodec also achieves up to a 64\u00d7 compression on iEEG and EEG without a notable decrease in qual- ity",
+  "1 INTRODUCTION Collecting high signal-to-noise ratio (SNR) data can prove to be a challenging endeavor in many situations, especially when considering human data",
+  "Forinstance,theelectroencephalogram(EEG) 1 5202 beF 01 ]PS",
+  "ssee[ 1v26471",
+  "2052:viXra PublishedasaconferencepaperatICLR2025 a",
+  "1 Quantizer Ch",
+  "C Time 1 Time 2 Time 1 Time 2 b",
+  "Downstream tasks with compressed signals Testing modality iEEG BrainCodec Seizure detection iEEGEEG iEEG EEG EEG BrainCodec Motor imagery iEEG + EEG Figure1: BrainCodectrainingandusage",
+  ",2024; Cassonetal",
+  ",2010),whicharebothtreatableriskfactorsfordementia(Hankeetal",
+  ",2018;Craik etal",
+  "However, recentdevelopments(Dani& Srinivasan,2021;Webex,2022;De\u00b4fossezetal",
+  "Below we present the evaluations together with the evaluated samples,bothforiEEGandEEG"
+]
