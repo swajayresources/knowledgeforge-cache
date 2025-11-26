@@ -1,0 +1,17 @@
+[
+  "NASA Technical Paper 2020 1982 STGSTK A Computer Code for Predicting Multistage Axial-Flow Compressor Performance by a Mea_lline",
+  "(2) Stage characteristics may be modified for off-design speed and blade reset",
+  "(3) Rotor deSign deviation angle may b@ modified for off-deSign flow, speed, and blade setting angle",
+  "(4) Units of input and output may be SI or U",
+  "For off-deSign compressor performance prediction, the main features of the stage-stacking method are (i) simplicity, (2) fast convergence, and (3) the ability to directly incorporate correlations from experlmental data to model real flow conditions",
+  "1), (2) prediction of part-speed performance and assurance of part-speed stall margin, and (3) determination of required starting bleed and the amount of variability of the inlet-guide- vane (IGV) and stator-blade rows to match the stages",
+  "The cude is an extension of the stage- stacking method of reference 3, The present code either accepts nondimensional stage characteristics as input or will calculate these characteristics from aerodynamic input available from compressor design codes such as reference 4",
+  "VT2M / Mvzo _M PzM VT2M Inlet diagram I_lgure2",
+  "Flow continuity can therefore be expressed as W = pAYz (1) where A is the annulus area",
+  "i) of each stage, Thus, for a given flow and speed and stage inlet flow conditions of total pressure and temperature and absoiute flow angle B2M, a meanline velocity aiagram (fig",
+  "2) can be obtained at the rotor inlet",
+  "lhey are calculate_ from VZ2M : : Cpnad (T3 - T2) 2 U3T",
+  "Pr (T-1)l_ - I (4) had",
+  "Figure 3 shows typical stage characteristics for which the stage design point (reference condition) is at peak adiabatic g _=_- J \u2022 Desic_z",
+  "Stagefi_ coefficient, Figure 3"
+]
