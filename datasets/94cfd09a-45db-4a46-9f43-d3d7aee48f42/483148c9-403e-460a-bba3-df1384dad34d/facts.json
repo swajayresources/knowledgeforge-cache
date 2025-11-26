@@ -1,0 +1,19 @@
+[
+  "The perils of automated fitting of datasets: the case of a wind turbine cost model Claude Kl\u00a8ockl a1, Katharina Gruberb1, Peter Regnerc1, Sebastian Wehrled1, and Johannes Schmidte1 1 Institute for Sustainable Economic Development, University of Natural Resources and Life Sciences, Feistmantelstra\u00dfe 4, 1180 Vienna, Austria December 30, 2021 1 Introduction Planning of future electricity systems is mostly performed with optimization models, which allow deriving optimal portfolios of generation technologies to e",
+  "A highly relevant input parameter for electricity 2 system models are technology specific generation costs, and here in particular of variable renewable energies such as solar photovoltaics and wind, as those sources will significantly increase their share in electricity generation",
+  "[1] havepublishedsuchamodel,whichcouldbeofhighuseforthemodellingcom- munity",
+  "at 1 1202 ceD 82 ]PA",
+  "tats[ 2v07880",
+  "5091:viXra However, we demonstrate that the model exhibits a strong generalization error (i",
+  "2 The Rinne et al",
+  "model of wind turbine cost The functional form of the model is described by Equation (8) in [1], which we restate as y =\u03b2 f (x )+\u03b2 f (x )+\u03b2 f (x )+C",
+  "(1) 1 1 1 2 2 2 3 3 3 The model is a linear combination of several basis functions f , specifically \u221a i x,x2,ln(x)and x",
+  "In accordance with the final wind turbine cost model presented in [1], we write (8) in its explicit form p \u221a SpecificCost(hh,p,r,age)=620ln(hh)\u22121",
+  "68 +182 age\u22121005",
+  "(2) r2\u03c0 We inserted all constants as in [1] and renamed the parameters to easier identify their meaning",
+  "Notethatwe employ four parameters instead of three, since we replaced the composite input parameter specific power p from [1] with its elementary constituents p and r",
+  "r2\u03c0 Analytically, these models are identical",
+  "3 Where the model fails Equation (2) implies that a wind turbine\u2019s total costs are p \u221a TotalCost(hh,p,r,age)=p(620ln(hh)\u22121",
+  "The two minimal axioms we propose can not yet completely determine the functional form of a cost model, hence there remains considerable more work to be done toward a sound modelling of wind turbine investment costs",
+  "However, we show analytically and by example that the model uses an investmentcostmodelthatexhibitsunrealisticscalingbehaviourincertain,em- piricallyrelevant, parameterregimes"
+]
