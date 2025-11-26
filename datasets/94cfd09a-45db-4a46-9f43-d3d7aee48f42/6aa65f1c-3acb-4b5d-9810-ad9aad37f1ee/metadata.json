@@ -1,0 +1,15 @@
+{
+  "paper_id": "6aa65f1c-3acb-4b5d-9810-ad9aad37f1ee",
+  "title": "The perils of automated fitting of datasets: the case of a wind turbine cost model",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6aa65f1c-3acb-4b5d-9810-ad9aad37f1ee/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6aa65f1c-3acb-4b5d-9810-ad9aad37f1ee/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6aa65f1c-3acb-4b5d-9810-ad9aad37f1ee/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6aa65f1c-3acb-4b5d-9810-ad9aad37f1ee/keywords.json"
+  ]
+}
