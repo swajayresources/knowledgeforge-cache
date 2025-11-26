@@ -1,0 +1,17 @@
+[
+  "_y NASA Technical Memorandum 107161 Research Strategy for Modeling the Complexities of Turbine Heat Transfer Robert J",
+  "Simoneau Lewis Research Center Cleveland, Ohio Prepared for the International Conference on Turbulent Heat Transfer sponsored by the Engineering Foundation San Diego, California, March 10-15, 1996 @ \u2022_7/_ _\" National Aeronautics and Space Administration RESEARCH STRATEGY FOR MODELING THE COMPLEXITIES OF TURBINE HEAT TRANSFER by Robert J",
+  "Simoneau 1 NASA Lewis Research Center Cleveland, OH 44135 INTRODUCTION There is no shortage of complex heat transfer problems, so the title problem is merely one with which the author is familiar and one for which we have a nice story to tell",
+  "As can be seen in a frequently used illustration, figure 1, the turbine gas path is really a very complex flow field",
+  "The reader is referred to Simoneau and Simon (1993) and Iacovides and Launder (1995) for more general discussions and references on external and internal turbine blade cooling",
+  "Civinskas, and John iPresent Address: Mechanical Engineering Department Carnegie Mellon University Pittsburgh, PA 15213 R",
+  "Thus, the research model for this and most major research programs at NASA Lewis is the interactive computational/experimental/modeling model, illustrated in figure 2",
+  "The resulting government/industry/university partnership is illustrated in figure 3",
+  "One approach is to use traditional TQ techniques, such as the fishbone charts, illustrated in figure 4",
+  "In consultationwith industry, regarding timeliness,andafterdiscussionswithin theteam,regardingreasonablepotentialforsuccessa, goal ofhavingsignificantimprovementincurrentcapabilityby 1998wasestablished",
+  "Thisis shownin figure5andtheCoolantFlowManagemenTteamisworkingtothatend",
+  "Using a typical, albeitsomewhatold, high pressureturbinebladecooling flow configuration,figure 6, one cansimply statethatcoolantflow managemenits the technical capabilitytomakedesigndecisionsontheamountandlocationof coolingair flow, bothon the insideandtheoutsideofthebladetoachievemaximumperformanceatminimumcoolantairsupply perblade",
+  "Thekeyfeaturesoftheproblemareillustratedinfigure7",
+  "(1993, 1996)",
+  "As they approached this problem the team, using the thinking illustrated in the fishbone charts of figure 4, agreed upon a grid and algorithm approach to the problem"
+]
