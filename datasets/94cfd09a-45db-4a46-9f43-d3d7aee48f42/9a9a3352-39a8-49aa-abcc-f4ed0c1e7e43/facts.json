@@ -1,0 +1,17 @@
+[
+  "High-order coupling of shear and sonic continua in JET plasmas Paulo Rodrigues,1 Duarte Borba,1 Francesca Cella,1,2 Rui Coelho,1 Jorge Ferreira,1 Ant\u00b4onio Figueiredo,1 Mervi Mantsinen,3 Fernando Nabais,1 Sergei Sharapov,4 Paula Sir\u00b4en,4 and JET Contributors5 1Instituto de Plasmas e Fusa\u02dco Nuclear, Instituto Superior T\u00b4ecnico, Universidade de Lisboa, 1049-001 Lisboa, Portugal",
+  "2Dipartimento di Energia, Politecnico di Milano, Via Ponzio 34/3, 20133 Milan, Italy",
+  "Llu\u00b4\u0131s Companys 23, 08010 Barcelona, Spain",
+  "4CCFE Culham Science Centre, Abingdon, OX14 3DB, United Kingdom",
+  "5See author list of J",
+  "Fusion 62, 042026 (2022)",
+  "(Dated: April 19, 2023) A recent model coupling the shear-Alfv\u00b4en and acoustic continua, which depends strongly on the equilibriumshapingandonelongationinparticular,isemployedtoexplainthepropertiesofAlfv\u00b4enic activity observed on JET plasmas below but close to the typical frequency of toroidicity-induced Alfv\u00b4en eigenmodes (TAEs)",
+  "INTRODUCTION with\u03c9 <\u03c9 )werefirstobservedinhigh-betaplasmas TAE under intense NBI heating in DIII-D [5], in association with high energetic-ion loss levels much similar to those ThestabilityofAlfv\u00b4eneigenmodes(AEs)isakeyissue caused by TAEs [6]",
+  "Since then, they have been docu- in magnetically confined fusion, both for currently op- mented in many other devices [7, 8]",
+  "Some properties of erating machines (ASDEX-Upgrade, DIII-D, JET, etc) theseAEshavebeenexplainedbyaMHDmodelcoupling and for next-step devices such as JT60-SA, being one of a single SA wave with two acoustic waves via the lowest- the major concerns regarding ITER operation [1]",
+  "Once order harmonic of the field-line geodesic curvature due destabilized, AEs may degrade the confinement of ener- to toroidicity [9\u201311], which results in two characteristic geticionsproducedbytheheatingsystems(NBI,ICRH) frequencies, respectively or by fusion reactions in burning plasmas and transport them radially away from the core, compromising in this way the heating process and eventually damaging the \u03c9 BAAE =2\u03b221 \u03c9 TAE and (1) device walls or plasma facing components [2]",
+  "Unstable \u03c9 GAM =2\u03b221 1+2q2\u03c9 TAE",
+  "AEs are known to arise in frequency gaps of the MHD continuum that are produced by the coupling of Alfv\u00b4en Thefirstvaluecorrespondst(cid:112) othetopofthebeta-induced wavestravelingalongmagnetic-fieldlineswithaperiodic acoustic AEs (BAAEs) gap, with \u03b2 =c2/v2 the plasma S A refractive index [3]",
+  "Alone or erties, like their frequency and dominant polarisation, with kinetic corrections, this model has been success- which are fundamental to understand their interaction fully employed to explain experimental observations of withthechargedparticlesconfinedwithinthedeviceand AEs inside the frequency gaps near \u03c9 [12, 13] and BAAE the nature of the anomalous transport they may eventu- \u03c9 [8]",
+  "In this work, we report and discuss Alfv\u00b4enic activity Toroidicity-inducedAEs(TAEs)withfrequenciesnear observed on JET experiments, at about one-half of the the reference value \u03c9 =\u03c9 /(2q), where \u03c9 =v /R frequency \u03c9 , in plasmas heated by NBI and ICRH"
+]
