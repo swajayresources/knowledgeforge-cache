@@ -1,0 +1,17 @@
+[
+  "ProceedingsoftheIISEAnnualConference&Expo2023 K",
+  "A NOVEL APPROACH FOR DEFECT DETECTION OF WIND TURBINE BLADE USING VIRTUAL REALITY AND DEEP LEARNING MdFazleRabbi1,SolaymanHossainEmon2,EhteshamMahmudNishat3,Tzu-Liang(Bill)Tseng1,AtiraFerdoushi4, Chun-CheHuang5andMdFashiarRahman1 1DepartmentofIndustrial,ManufacturingandSystemsEngineering,TheUniversityofTexasatElPaso,Texas,79968, USA 2DataScienceProgram,TheUniversityofTexasatElPaso,ElPaso,Texas,79968,USA 3KhulnaUniversityofEngineeringandTechnology(KUET),Khulna-9203,Bangladesh 4UniversityofRajshahi,Rajshahi-6205,Bangladesh 5NationalChiNanUniversity,Pu-Li,Taiwan ABSTRACT Windturbinesaresubjectedtocontinuousrotationalstressesandunusualexternalforcessuchas storms,lightning,strikesbyflyingobjects,etc",
+  "TheoutcomesofU-Netarchitecturehavebeenthoroughlytestedandcomparedwith 5-foldvalidationdatasets",
+  "Keywords DefectDetection,VirtualReality,DeepLearning,U-Net,Segmentation 1 Introduction WindTurbineplaysavitalroleintheenergygenerationoftheUnitedStatesofAmerica",
+  "Windturbinesprovidedalmost 8",
+  "4%oftotalgeneratedelectricityin2020intheUnitedStates(AccordingtoUSEnergyInformationAdministration)",
+  "SWindTurbineDatabase(2022),morethan700,800windturbinesarerunningacross44states resulting in the fourth number of sources for electric energy generation",
+  "3202 ceD 03 ]VC",
+  "sc[ 1v73200",
+  "1042:viXra WindTurbinesaregenerallyinstalledinremoteandruralareaswherethereisaconstantandstrongwind",
+  "Withthehelpofimagesofthewindturbineblades,theinspectionscan bedoneautomaticallyandquicklybydeployingdeeplearning-basedimagesegmentationandclassificationtechniques [1,2]",
+  "Hence,inthiswork,theU-Netbasedsemanticsegmentationtechniqueisusedtodetectthedefectsinturbineblades [3]",
+  "Amultilevelconvolutionalrecurrentneuralnetwork(MCRNN)isalsogoodfordetectingwindturbine bladeicing[4]",
+  "Inreal-time supervisorycontrol[5]andNon-destructivetesting[6],AnUnmannedAerialVehicle(UAV)[7]isalwayspreferable",
+  "On the other hand, the blade defect detection\u2019s accuracy can be increased by analyzing and identifyingthedistinctivespectralsignature[8]"
+]
