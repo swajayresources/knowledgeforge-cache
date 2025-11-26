@@ -1,0 +1,21 @@
+[
+  "Chapman1,3,\u2217 R",
+  "Dendy2,1, T",
+  "Watkins1,3,4,5, F",
+  "Calderon1, J",
+  "Morris2, and JET Contributors\u2020 EUROfusion Consortium, JET, Culham Science Centre, Abingdon, OX14 3DB, UK 1Centre for Fusion, Space and Astrophysics, Department of Physics, University of Warwick, Coventry, UK 2 CCFE, Culham Science Centre, Abingdon, Oxfordshire OX14 3DB, UK 3Max Planck Institute for the Physics of Complex Systems, Dresden, Germany 4Centre for the Analysis of Time Series, London School of Economics, London, UK and 5Dept",
+  "of Engineering and Innovation, Open University, Milton Keynes, UK (Dated: February 26, 2018) 1 5102 raM 01 ]hp-msalp",
+  "scisyhp[ 1v14820",
+  "3051:viXra Abstract A global signature of the build-up to an intrinsic ELM is found in the phase of signals measured in full flux azimuthal loops in the divertor region of JET",
+  "We perform direct time-domain analysis of the high time-resolution full flux loop signals VLD2 and VLD3",
+  "We previously [1, 2] found that the occurrence times of intrinsic ELMs correlate with specific phases of the VLD2 and VLD3 signals",
+  "Here, we investigate how the VLD2 and VLD3 phases vary with time in advance of the ELM occurrence time",
+  "We identify a build-up to the ELM in which the VLD2 and VLD3 signals progressively align to the phase at which ELMs preferentially occur, on a \u223c 2\u22125ms timescale",
+  "At the same time, the VLD2 and VLD3 signals become phase synchronized with each other, consistent with the emergence of coherent global dynamics in the integrated current density",
+  "PACS numbers: 52",
+  ", Proceedings of the 25th IAEA Fusion Energy Conference 2014, Saint Petersburg, Russia 2 I",
+  "The organization of the paper is as follows, in section 2 we introduce the data used in this study, in section 3 we describe how the full flux loop instantaneous phases are determined, our main results are given in section 4, in section 5 we quantify the statistical significance of these results, and in section 6 we present a possible interpretation of these results following the scenario of [2]",
+  "We have varied T \u03b4t , and \u03b4t to check E A m E the robustness of our results",
+  "DISCUSSION Our results rely upon a new approach to the analysis of an existing JET diagnostic, the full flux loops VLD2 and VLD3 signals, alongside ELM timings from the Be II signal",
+  "Our results suggest one possible scenario for intrinsic ELMing where the plasma and its interacting environment together self-generate a global plasma perturbation, such that the plasma is magnetically \u2019self-kicked\u2019, which then leads to an ELM"
+]
