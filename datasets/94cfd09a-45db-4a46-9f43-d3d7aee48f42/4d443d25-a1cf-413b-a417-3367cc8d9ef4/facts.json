@@ -1,0 +1,17 @@
+[
+  "W\u00a8achter ForWind, Institute of Physics, Carl von Ossietzky University 26129 Oldenburg, Germany, Email: matthias",
+  "2015;10(4):041010-041010-10",
+  "The model estimates the lift and drag coefficients numerically based on the local AOA [14]",
+  "According to Global Wind Energy Council 2012 integrating the stochastic model into AeroDyn and show- projections, the power generation from wind is expected ing that the newly developed concept extracts more load to reach twice the present global installed capacity by the information on rotor blades compared to traditional ap- end of 2017 [1]",
+  "Afutureaimistoachieveacompletestochastic In the success of modern wind energy, aerodynamic rotor model, which could provide the full local loading research has a significant role [2]",
+  "the well-known blade element momentum (BEM) method The paper is structured such that Section II provides [3, 4]",
+  "The high fidelity CFD is yet extremely costly [3] a short introduction to the AeroDyn, the input files and andneedsfasterandbiggermemorycomputerstoachieve the elemental forces",
+  "Section III introduces the stochastic acceptable computational efficiency [5]",
+  "FAST [6], YawDyn [7], ADAMS/WT [8], SIMPACK [9], The final Section V summarizes the outcome and outlook DHAT [10], FLEX5 [11] etc",
+  "used by these dynamic analysis codes or other similar codes are fundamentally based on simple lookup tables, which contain mean static characteristics for an airfoil at constant angles of attack (AOAs) [12, 13] and disregard II",
+  "These aeroelastic simulation AeroDyn [12] as an alternative to traditional table lookup codes differ only in structural dynamics, the aerodynamic method used by the classical BEM model",
+  "However, its separate aerodynamic forces 5102 nuJ 9 ]nyd-ulf",
+  "scisyhp[ 1v18730",
+  "6051:viXra 2 FIG",
+  "Taken from [15]"
+]
