@@ -1,0 +1,15 @@
+{
+  "paper_id": "a0800d2a-0966-44d3-a437-736cd014e6c8",
+  "title": "QFlow: Quantitative Information Flow for Security-Aware Hardware Design in Verilog",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a0800d2a-0966-44d3-a437-736cd014e6c8/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a0800d2a-0966-44d3-a437-736cd014e6c8/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a0800d2a-0966-44d3-a437-736cd014e6c8/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a0800d2a-0966-44d3-a437-736cd014e6c8/keywords.json"
+  ]
+}
