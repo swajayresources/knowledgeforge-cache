@@ -1,0 +1,18 @@
+[
+  "Reinforced Symbolic Learning with Logical Constraints for Predicting Turbine Blade Fatigue Life Pei Li1, Joo-Ho Choi2, Dingyang Zhang1, Shuyou Zhang1, Yiming Zhang1* 1 The State Key Lab of Fluid Power & Mechatronic Systems, Zhejiang University, Hangzhou 310058, PR China",
+  "2 School of Aerospace and Mechanical Engineering, Korea Aerospace University, Gyeonggi-do, 412-791, South Korea",
+  "The proposed RSL method was evaluated on two turbine blade materials, GH4169 and TC4, to identify optimal fatigue life prediction models",
+  "Keywords: Symbolic Regression, Deep Reinforcement Learning, Logic and Rationality Constraints, Turbine Blade Life Prediction, Interpretable Machine Learning 1 Introduction As a critical component of aircraft engines, the fatigue life of turbine blades is directly related to the safety and reliability of the aircraft",
+  "Among these, fatigue damage caused by alternating loads represents a prevalent failure type observed in blade structures[1]",
+  "One of the most widely used approaches is to combine historical or real-time critical parameters measured by sensors on the blade, with failure cases to predict potential blade failures through time-series analysis[2]",
+  "1 Several classic empirical formulas have been derived from traditional theoretical methods to establish the relationship between mechanical properties and fatigue life",
+  "[3]pioneered this effort by introducing the Four-Point Correlation Method and the Universal Slope Method, which preliminarily predict uniaxial fatigue life based on stress-life (S-N) curves and tensile test data within the framework of elastic deformation theory",
+  "Building upon these foundational methods, Muralidharan[4] incorporated tensile strength into the mechanical property parameters, and Ong et al",
+  "[5, 6] enhanced the Four-Point Correlation and Universal Slope Methods by employing multiple linear regression analysis",
+  "Roessle and Fatemi[7] identified a correlation between the hardness of steel and its fatigue life",
+  "They proposed a simplified method that relies solely on hardness and elastic modulus, effectively predicting strain-life curves for steel with hardness values ranging from 150 to 700 HB",
+  "While these approaches provided valuable insights, they primarily focused on uniaxial loading, whereas engineering components often encounter multiaxial loading conditions[8]",
+  "This led to the introduction of a second damage control parameter, normal strain on the maximum shear plane, which underpins the development of the Brown-Miller model and the KBM model[9, 10]",
+  "To address the complexities of multiaxial fatigue, Fatemi and Socie[11] proposed the FS model, a multiaxial fatigue parameter based on shear strain that accounts for additional hardening effects",
+  "The main contributions of this paper are as follows\uff1a (1) Development of the RSL Framework: We propose a comprehensive Reinforced Symbolic Learning (RSL) framework that combines symbolic regression with deep reinforcement learning, designed to predict fatigue life with high interpretability and physical relevance"
+]
