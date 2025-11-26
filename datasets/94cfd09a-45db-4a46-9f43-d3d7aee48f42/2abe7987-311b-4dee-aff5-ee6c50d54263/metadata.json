@@ -1,0 +1,15 @@
+{
+  "paper_id": "2abe7987-311b-4dee-aff5-ee6c50d54263",
+  "title": "Multi-Objective Optimization of a Turbofan for an Advanced, Single-Aisle Transport",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2abe7987-311b-4dee-aff5-ee6c50d54263/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2abe7987-311b-4dee-aff5-ee6c50d54263/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2abe7987-311b-4dee-aff5-ee6c50d54263/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/2abe7987-311b-4dee-aff5-ee6c50d54263/keywords.json"
+  ]
+}
