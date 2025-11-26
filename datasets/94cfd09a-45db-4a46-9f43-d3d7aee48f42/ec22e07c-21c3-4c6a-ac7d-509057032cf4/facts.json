@@ -1,0 +1,19 @@
+[
+  "Crystal plasticity modeling of non-Schmid yield behavior: from Ni Al single crystals to 3 Ni-based superalloys Devraj Ranjana, Sankar Narayananb, Kai Kadauc, Anirban Patraa* a Department of Metallurgical Engineering and Materials Science, Indian Institute of Technology Bombay, Mumbai, India b Corporate Technology, Siemens Technology and Services Private Limited, Bangalore, India c Siemens Energy Inc",
+  "in Abstract A Crystal Plasticity Finite Element (CPFE) framework is proposed for modeling the non- Schmid yield behavior of L1 type Ni Al crystals and Ni-based superalloys",
+  "This framework 2 3 relies on the estimation of the non-Schmid model parameters directly from the orientation- and temperature-dependent experimental yield stress data",
+  "The inelastic deformation model for Ni Al crystals is extended to the precipitate (\ud835\udefe\u2032) phase of Ni-based superalloys in a 3 homogenized dislocation density based crystal plasticity framework",
+  "The framework is used to simulate the orientation- and temperature-dependent yield of Ni Al crystals and single crystal 3 Ni-based superalloy, CMSX-4, in the temperature range 260 \u20131304 K",
+  "Keywords: Ni-based superalloys; crystal plasticity; non-Schmid; tension-compression asymmetry 1",
+  "Given these favorable properties, Ni-based superalloys are widely used in the hot sections of gas turbine engines and nuclear power plants (Pollock and Tin, 2006)",
+  "These superalloys 1 generally consist of two phases: a Ni rich solid solution with face centered cubic (fcc) crystal structure (\u03b3 phase) and a coherent L12-type ordered intermetallic Ni Al precipitates (\u03b3\u2032 phase) 3 (Murakumo et al",
+  ", decrease in strength with increase in temperature, the two phase alloy owes its superior thermomechanical properties at elevated temperatures to the anomalous deformation behavior of the \u03b3\u2032 phase, where an increase in yield strength is observed with increase in temperature up to a critical value, after which the strength decreases (Pope and Ezz, 1984; Shenoy et al",
+  "Westbrook (1957) first observed this anomalous variation in hardness with temperature for the \u03b3\u2032 phase, which was later also corroborated with the findings of (Flinn, 1960) and (Davies and Stoloff, 1965), showing a peak in yield stress with increase in temperature",
+  "The \u03b3\u2032 phase, with L1 crystal structure, exhibits asymmetric, orientation- and temperature-dependent yield 2 behavior in tension and compression",
+  "This type of anomalous behavior is also exhibited by various alloy forms with the L1 crystal structure, like Ni Ga (Takeuchi and Kuramoto, 1973, 2 3 1971), Ni Ge (Pak et al",
+  ", 1977), Ni Si (Thornton et al",
+  ", 1970) and Fe Al (Alkan and Sehitoglu, 3 3 3 2017a) and also B2 type NiTi crystals (Alkan and Sehitoglu, 2017b)",
+  "One of the reasons contributing to this observed effect is the deviation from the widely accepted Schmid law (Schmid and Boas, 1950) for crystalline metals",
+  "We present the CPFE model 3 3 predictions of the yield stress, tension-compression asymmetry, and the dominant slip mechanism at yield, for a range of loading orientations and temperatures and compare with relevant experiments",
+  "Finally, we present comparison of the simulated stress-strain response with the limited experimental data from (Allan, 1995) in Figure 12"
+]
