@@ -1,0 +1,17 @@
+[
+  "Galenkoc,d aVereshchagin Institute of High Pressure Physics, Russian Academy of Sciences, 108840 Moscow (Troitsk), Russia bUdmurt Federal Research Center, Ural Branch of the Russian Academy of Science, 426000 Izhevsk, Russia cUdmurt State University, Institute of Mathematics, Informatics and Physics, Condensed Matter Physics Lab, 426034 Izhevsk, Russia dFriedrich-Schiller-Universitt, Otto-Schott-Institut fr Materialforschung, Lehrstuhl Metallische Werkstoffe, Lbdergraben 32, 07743 Jena, Germany Abstract Interface energy and kinetic coefficient of crystal growth strongly depend on the face of the crystalline lattice",
+  "Keywords: A1",
+  "Computer simulation, A1",
+  "Growth models, A1",
+  "Solidification, A1",
+  "Crystal structure 1",
+  "With this aim we use the hyperbolic (modified)PFC-modelwhichtakesintoaccountrelaxation The phase-field crystal model (PFC) was formulated ofthephasefieldandrelaxationofthefluxofatomicden- [1, 2] to describe continuous transitions from the homoge- sity [8, 16]",
+  "In particular, an influence of the local re- neous to the periodic state (similarly to the LandauBra- laxation time and the effect of atomic reticular density of zovskiitransition[3\u20135])andbetweendifferentperiodicstates differentcrystalfacesontheinterfacevelocityarestudied",
+  "The model is based on the description of the free energy, which is a functional of the 2",
+  "Theformofthefree Thehyperbolic(modified)PFC-model(MPFC)forfast energyclosetotheSwift-Hohenbergtype[6]andallowsto transitionsincludestheinertialtermfortheatomicdensity accountstructuralphasetransitionsofthefirstandsecond [8, 16] as the result of accounting for the flux J(cid:126)((cid:126)r,t) and order",
+  "atomic density field n(r,t) = \u03c1(r,t)/\u03c1 \u22121 in a form of 0 Recent advances in PFC-modeling of the different as- independent thermodynamic variables, where \u03c1(r,t) is a pects of crystallization allow one to model many scenarios density field and \u03c1 is a reference density",
+  "Therefore, in 0 suchasdynamicsoffreezingofcolloidsandpolymers,epi- MPFC, the free energy is a functional of n and J(cid:126)((cid:126)r,t) taxialgrowth,orderingofthestructuresonnano-scales[7] formulated as [8, 16, 17]: and rapid crystallization [8]",
+  "Results of PFC simulations (cid:90) (cid:104)n a v (cid:105) could provide interface energies, pattern selection under F(n,J(cid:126))= (\u2212\u03b5+D )n\u2212 n3+ n4 d(cid:126)r+ 2 i 3 4 non-equilibrium conditions and velocities of moving phase boundaries [9]",
+  "As a simplification of density functional +\u03c4 (cid:90) (J(cid:126)\u00b7J(cid:126))d(cid:126)r, (1) technique (DFT) for freezing [10], a PFC model utilizes 2 several approximations [2, 11] which makes it relevant for where a and v are phenomenological constants which con- modellingofnucleationfromundercooledliquids[12],den- trolphasetransition,\u03c4 istherelaxationtimeoftheatomic dritic crystal growth [13, 14], heteroepitaxy and multi- density flux J(cid:126)((cid:126)r,t), \u03b5 is the driving force (quench depth) grain growth in presence of hydrodynamical flows [15]",
+  "and the differential operator D per se elastic module [1, i In the present work, we numerically investigate rapid 18\u201320] describes crystallographic symmetries in one-mode growthofdifferentfacesinbodycenteredcubiccrystallat- (i=1) and two-mode (i=2) approximations: (cid:40) r +(q2+\u22072)2, i=1, \u2217Correspondingauthor D = 0 0 (2) Email address: vladimir@ankudinov"
+]
