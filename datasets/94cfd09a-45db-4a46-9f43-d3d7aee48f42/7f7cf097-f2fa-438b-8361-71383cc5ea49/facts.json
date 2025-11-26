@@ -1,0 +1,17 @@
+[
+  "NASA Contractor Report 187036 T Estimation of the Engineering Elastic Constants of a Directionally Solidified Superalloy for Finite Element Structural Analysis Ali Abdul-Aziz and Sreeramesh Kalluri Sverdrup Technology, Inc",
+  "Lewis Research Center Group Brook Park, Ohio (HAgA-C_-18703o) 5_TIM_TIUN OF THE N91-15596 5NGINEERING tLASTIC CnNqTANTS OF DIRECTIQ_LLY SQLIDIFI\u00a3_ 5UmERALL_Y F_M FINITr EL=M_NT _T_UCTURAL ANALYSIS Fin_l unc|Js Report (_v_rdrup T_chnolo,i_y ) 15 p CgCL 20K G _,/j9 0325621 January 1991 Prepared for Lewis Research Center Under Contract NAS3-25266 NASA National Aeronautics and Space Administration Vq e ESTIMATION OF THE ENGINEERING ELASTIC CONSTANTS OF A DIRECTIONALLY SOLIDIFIED SUPERALLOY FOR FINITE ELEMENTSTRUCTURAL ANALYSIS Ali Abdul-Aziz and Sreeramesh Kalluri Sverdrup Technology, Inc",
+  "Lewis Research Center Group Brook Park, Ohio 44142 SUMMARY The temperature-dependent engineering elastic constants of a directionally solidified nickel-base superalloy were estimated from the single-crystal elas- tic constants of nickel and MAR-MOO2 superalloy by using Wells' method",
+  "Solid- ification for both the single crystals and the directionally solidified super- \u00a2M 03 alloy was assumed to be along the [001] direction",
+  "Temperature-dependent O0 Young's moduli in longitudinal and transverse directions, shear moduli, and Lg3",
+  "These elastic constants can be expressed either as compliance coefficients ($11, $12, and S44 ) or as stiff- ness coefficients (Cll , C12, and C44 )",
+  "In this work the primary orientation of both the SC and DS materials was assumed to be along the [OO1] crystal direction",
+  "In a DS superalloy, usually several grains with the same primary orientation are present in a columnar fashion as shown in figure 1; the secondary orientation for each of the colum- nar grains is random",
+  "1) reported a methodology for calculating the elastic constants of a DS nickel-base superalloy from the elastic constants of SC nickel",
+  "1) is assumed to be the axis of symmetry, the strain-energy function W, according to Love (ref",
+  "3), is given by (I) + L Yyz _ Yzx + where exx, eyy, and ezz and Yxy' Yyz' and Yzx are the engineering normal and shear strains, respectively",
+  "1 The material constants A, C, F, L, and N are the five independent constants that are required to characterize the elas- tic behavior of a transversely isotropic material",
+  "1): oxx = _8W = ACxx + Fczz + (A - 2N)cyy (2) XX aw (3) ayy = _ = ACyy + Fczz + (A - 2N}cxx 1The symbols used by Wells (ref",
+  "1) for engineering strains are different from those used by Love (ref",
+  "azz = _OW = Cczz + F( Cxx +e YY) (4) zz aw = (5) Xx"
+]
