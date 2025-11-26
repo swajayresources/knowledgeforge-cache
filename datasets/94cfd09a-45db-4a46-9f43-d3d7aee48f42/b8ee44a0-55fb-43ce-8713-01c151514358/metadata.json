@@ -1,0 +1,15 @@
+{
+  "paper_id": "b8ee44a0-55fb-43ce-8713-01c151514358",
+  "title": "Wind Turbine Blade Design with Computational Fluid Dynamics Analysis",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8ee44a0-55fb-43ce-8713-01c151514358/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8ee44a0-55fb-43ce-8713-01c151514358/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8ee44a0-55fb-43ce-8713-01c151514358/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/b8ee44a0-55fb-43ce-8713-01c151514358/keywords.json"
+  ]
+}
