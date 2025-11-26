@@ -1,0 +1,15 @@
+{
+  "paper_id": "81fe0aaa-6df8-4234-b43a-8dc28e1ae2a8",
+  "title": "Perturbation centrality and Turbine: a novel centrality measure obtained using a versatile network dynamics tool",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/81fe0aaa-6df8-4234-b43a-8dc28e1ae2a8/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/81fe0aaa-6df8-4234-b43a-8dc28e1ae2a8/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/81fe0aaa-6df8-4234-b43a-8dc28e1ae2a8/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/81fe0aaa-6df8-4234-b43a-8dc28e1ae2a8/keywords.json"
+  ]
+}
