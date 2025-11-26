@@ -1,0 +1,18 @@
+[
+  "Capolino\u00a7 (Dated: June 7, 2022) The existence of a frozen mode in a periodic serpentine waveguide with broken longitudinal symmetry is demonstrated numerically",
+  "Ofparticularinterestistheexcitationofthefrozenmode regime [1], where the wave transmitted inside a waveg- uide or in a supporting medium exhibits both a vanish- ing group velocity and an enhanced amplitude [2]",
+  "The frozenmoderegimeisassociatedwithastationaryinflec- tion point (SIP) of the Bloch dispersion relation \u03c9(k), where \u2202\u03c9/\u2202k = 0 and \u22022\u03c9/\u2202k2 = 0 at k = k , where s k s is the SIP wavenumber",
+  "1: PeriodicASOW",
+  "These lines are defined mode selection, lasing revivals and suppression, direc- from the apex of the top loops and at an angle \u03b2 = tional lasing, hypersensitive sensors, etc [3]",
+  "The SIP \u03b1 \u2212 \u03b1(cid:48) from the vertical",
+  "The lengths d and d are 1 2 scenario is also interesting and attractive because the definedasthedistance(atthebottomofthecell)between frozen mode regime can be observed over a wide fre- the dashed oblique lines and the vertical (non-oblique) quencyrange, rangingfromRF[4,5], toopticalfrequen- orange line that goes from the center to the lowest point cies [6\u20138]",
+  "As \u03b1 (cid:54)= \u03b1(cid:48), then d (cid:54)= d",
+  "The field 1 2 degeneracy (EPDs) have been found in a diverse range amplitudes are defined to the right of the boundaries of of structures: loss-gain balanced coupled mode struc- the unit cell, with the sign of E+, E\u2212 corresponding to i i tures, such as PT-symmetric systems with glide symme- the sign of the projection of the direction of propagation try [9, 10], SIPs are found in periodic lossless and gain- of that wave with the z-axis in the vicinity of the i-th lesscoupledmodestructures[6,11],periodiclosslessand port",
+  "gainless gratings [12] and photonic crystals [2]",
+  "Further- more, SIPs have been found in nonreciprocal structures, One fundamental feature of the SIP-related frozen mode as shown in [13\u201315], where the system becomes unidirec- is that it corresponds to a particular third order EPD, tional near the SIP frequency",
+  "For this to happen, all three Bloch eigenmodes collapsing on each other at the EPD must belong to the same one- dimensional irreducible representation of the symmetry \u2217 Department of Electrical Engineering and Computer Science, group G k of the Bloch wavevector k [16]",
+  "This require- UniversityofCalifornia,Irvine,Irvine,CA,92617",
+  "ment is quite different from the condition for the com- \u2020 Air Force Research Laboratory, Sensors Directorate, Wright- monsymmetryrelateddegeneracy,wherethedegenerate PattersonAFB,OH45433,USA",
+  "Since at any given fre- Aviv,Tel-Aviv69978,Israel",
+  "In the following we show how to obtain the transfer ma- trixT ,withT beinganalogouslyderived"
+]
