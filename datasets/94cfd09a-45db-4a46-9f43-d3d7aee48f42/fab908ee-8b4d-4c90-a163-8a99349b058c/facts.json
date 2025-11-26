@@ -1,0 +1,17 @@
+[
+  "Turbofan Engine Remaining Useful Life (RUL) Prediction Based on Bi-Directional Long Short-Term Memory (BLSTM) Abedin Sherifi* Pratt and Whitney December 2024 Abstract\u2014The aviation industry is rapidly evolving, driven 3) Predictive Maintenance - Maintenance that is done per by advancements in technology",
+  "Per [1], the value of engine maintenance, repair, and Predicting accurate remaining useful life (RUL) of a commercial overhaul (MRO) for the year 2016 was valued at $27 billion turbofan engine based on a variety of complex sensor data and the value for the year 2026 is supposed to reach $40 is of paramount importance for the safety of the passengers, billion",
+  "Per [2] turbofan engine failures contribute to 60% safety of flight, and for cost effective operations",
+  "The proposed RUL prediction models are going per [3] are the Corrosion Model, Abrasion Model, Taylor Tool to be evaluated based on engine failure prediction benchmark dataset Commercial Modular Aero-Propulsion System Simula- Wear Model, Hidden Markov Models, etc",
+  "Some of the most widely used data-based methods for RUL predictions per [3] are The recent technology trends have led to innovative the following: Regression Analysis, Fuzzy Logic, Gradient changes for aircraft maintenance and reliability",
+  "Turbofan engines are the most critical parts on a plane; hence, it is 1) Corrective Maintenance - Maintenance to address issues of great importance to perform fault estimation and remain- that occur during operation",
+  "Effective management of data is very important due to the 2) Preventive Maintenance - Maintenance that is done per complexity of accurately predicting remaining useful life as scheduled basis irrespective of component health",
+  "mentioned in [4]",
+  "have demonstrated a variety of neural network model architec- tures for RUL predictions as some are mentioned in [5], none 1) train_FD001",
+  "txt - Contains data for 100 engines till of them go in depth required specific to the implementation engine is failed",
+  "2) test_FD001",
+  "txt - Cycles for the 100 engines are given but before engine is failed",
+  "LITERATURE REVIEW 3) RUL_FD001",
+  "txt - RUL values for the 100 engines given in the test data",
+  "The model-based ap- proach is based on physics and mathematical models such as The table below provides a summary of all the columns Kalman filters or Particle filter per [6] which require a deep used in the train_FD001"
+]
