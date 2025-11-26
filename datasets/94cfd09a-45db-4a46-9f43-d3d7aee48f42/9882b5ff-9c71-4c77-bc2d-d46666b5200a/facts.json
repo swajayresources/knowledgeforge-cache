@@ -1,0 +1,17 @@
+[
+  "Integrated modelling and multiscale gyrokinetic validation study of ETG turbulence in a JET hybrid H-mode scenario J Citrin1,2, S Maeyama3, C Angioni4, N Bonanomi4, C Bourdelle5, F",
+  "J Casson6, E Fable4, T Goerler4, P Mantica7, A Mariani7, M Sertoli4,6, G Staebler8, T Watanabe3 and JET contributors\u2217 1 DIFFER-DutchInstituteforFundamentalEnergyResearch,Eindhoven,the Netherlands 2 ScienceandTechnologyofNuclearFusionGroup,EindhovenUniversityof Technology,Eindhoven,Netherlands 3 DepartmentofPhysics,NagoyaUniversity,Nagoya464-8602,Japan 4 MaxPlanckInstituteforPlasmaPhysics,Boltzmannstr",
+  "2,85748Garching, Germany 5 CEA,IRFM,F-13108SaintPaul-lez-Durance,France 6 CCFE,CulhamScienceCentre,Abingdon,OX143DB,UnitedKingdomof GreatBritainandNorthernIreland 7 DepartmentofPhysics\u201cG",
+  "Occhialini\u201d,UniversityofMilano-Bicocca, InstituteforPlasmaScienceandTechnology,CNR,Milano,Italy 8 GeneralAtomics,P",
+  "Box85608SanDiego,California92121,USA \u2217 Seetheauthorlistof\u2018OverviewofJETresultsforoptimisingITERoperation\u2019 byJ",
+  "tobepublishedinNuclearFusionSpecialissue: Overview andSummaryPapersfromthe28thFusionEnergyConference(Nice,France, 10-15May2021) Abstract",
+  "2202 peS 02 ]hp-msalp",
+  "scisyhp[ 1v38690",
+  "9022:viXra IntegratedmodellingandmultiscalegyrokineticvalidationstudyofETGturbulenceinaJEThybridH-modescenario2 1 Introduction eddies can also suppress electron-scale streamers, quenching ETG electron heat transport in spite of An accurate predictive model for tokamak turbulent linear ETG instability",
+  "Additional studies have transport is a vital component of integrated toka- shown that the cross-scale ETG quench depends on mak simulation [1]",
+  "The gyrokinetic framework significant electron heat flux, explaining experimental has proven to be successful in quantitatively describ- observations in CMOD and DIII-D [16]\u2013[18]",
+  "These ing tokamak core turbulence [2], [3]",
+  "[19], the ratio \u03b3 /\u03b3 \u2265 40 high\u2212k low\u2212k approximation with saturation levels tuned to nonlin- was correlated with significant cross-scale coupling",
+  "[20], [21] suggest the following as a necessary as QuaLiKiz [4], [5] and TGLF [6]",
+  "While these mod- criteria for significant ETG fluxes: els reproduce measured tokamak core thermodynamic \u03b3 \u03b3 radial profiles across wide regimes, continuous com- k | high\u2212k > k | low\u2212k (1) y y parison against both experiments and higher fidelity where \u03b3 is the mode growth rate, k the binormal simulation is necessary for validation of the models y wavenumber, high\u2212k corresponds to ETG scales and their predictions for future scenarios and devices"
+]
