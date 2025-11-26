@@ -1,0 +1,19 @@
+[
+  "Holm\u2021 June 2, 2017 Abstract In Holm, Proc",
+  "A 471 (2015) stochastic fluid equations were derived by employing a variational principle with an assumed stochastic Lagrangian particle dynamics",
+  "keywords: geometric mechanics, stochastic fluid models, stochastic processes, multi-scale fluid dynamics, symmetry reduced variational principles, homogenisation 1 Introduction When studying complex turbulent flows or astrophysical and geophysical fluids, in which physical processes occur over a wide range of spatial and temporal scales, we are faced with the inevitable problem that our limited computational resources will eventually force us to under-represent processes that occur below certain temporal and spatial scales",
+  "uk 1 7102 nuJ 1 ]PA",
+  "htam[ 1v78200",
+  "6071:viXra hundred metres and time scales of several minutes to hours",
+  "Recently, stochastic partial differential fluid equations have been proposed to model the influence of unresolved scales on the resolved scales of interest [18, 8, 22, 23, 24]",
+  "In [18, 22, 23, 24] the transformation from the Lagrangian to the Eulerian fluid formulation was achieved via a particular version of the Reynold\u2019s transport theorem that preserved conservation of energy",
+  "In [8] a variational principle was employed in the derivation of the SPDE for fluids",
+  "The samemodelwaslaterderivedin[3]fromNewton\u2019s2ndLawofMotionandadifferentversionof the Reynold\u2019s transport theorem, which included the transformation of the coordinate basis under the Lagrange-to-Euler map",
+  "Instead of of preserving the energy, the model derived in [8, 3] has the property of preserving Kelvin\u2019s circulation theorem, while introducing a stochastic advecting velocity for the Kelvin loop, which transports the line elements of the Kelvin loop along stochastic Lagrangian trajectories",
+  "The stochastic Eulerian random field associated with this advecting velocity vector field was prescribed in [8, 3]",
+  "Here, we will motivate the stochastic advection of fluid particles by using homogenisation techniques [21]",
+  "In particular, we will show that the same form of stochasticity as in [8, 3] naturally arises, upon splitting the Lagrangian fluid flow map into the composition of mean and fluctuating maps that is standard for generalised Lagrangian mean theories [1, 2, 7, 25]",
+  "Section 2 briefly summarizes the variational stochastic fluid dynamics introduced in Holm [8]",
+  "Here we show that the same stochastic Lagrangian dynamics naturally arises in a multi-scale decomposition of the deterministic Lagrangian flow map into a slow large-scale mean and a rapidly fluctuating small scale map",
+  "First, we show that the centering condition is satisfied"
+]
