@@ -1,0 +1,15 @@
+{
+  "paper_id": "17fadc09-a6f3-4000-bc8e-dd41e4532eca",
+  "title": "Deep Domain Adaptation for Turbofan Engine Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/17fadc09-a6f3-4000-bc8e-dd41e4532eca/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/17fadc09-a6f3-4000-bc8e-dd41e4532eca/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/17fadc09-a6f3-4000-bc8e-dd41e4532eca/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/17fadc09-a6f3-4000-bc8e-dd41e4532eca/keywords.json"
+  ]
+}
