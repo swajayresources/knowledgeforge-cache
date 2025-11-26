@@ -1,0 +1,17 @@
+[
+  "Reduction of coating thermal noise by using an etalon KentaroSomiya,1 AlexeyG",
+  "Gurkovsky,2DanielHeinert,3 StefanHild,4 RonnyNawrodt,3 andSergeyP",
+  "Vyatchanin2 1Waseda Institute for Advanced Study, 1-6-1 Nishiwaseda, Shinjuku, Tokyo 169-8050, Japan 2Faculty of Physics, Moscow State University, Moscow, 119991 Russia 3Institut fu\u00a8r Festko\u00a8rperphysik, Friedrich-Schiller-Universit\u00a8at Jena, D-07743 Jena, Germany 4SUPA, School of Physics and Astronomy, Institute for Gravitational Research, Glasgow University, Glasgow G12 8QQ, United Kingdom Reduction of coating thermal noise is a key issue in precise measurements with an optical inter- ferometer",
+  "OVERVIEW 1 n s 2 E Brownian fluctuation of multi-layer coatings on a in mirror is a dominant noise source in interferometric gravitational-wave detectors",
+  "One way to reduce coat- ing thermal noise is mechanical separation of the first few layers from the rest of the coatings [1][2]",
+  "This so- called Khalili-cavity will be useful in precision measure- E ments like the sub-SQL measurement experiment [3] or out a future-generation gravitational-wavedetector like Ein- x x stein Telescope [4][5]",
+  "Replacing a single mirror by a 1fx 2f x 1b 2b cavity will, however, increase the complexity of the sys- tem, and a way to ease this problem is to use an etalon FIG",
+  "1: Khalili etalon with a few coating layers on the front instead of the double-mirror cavity",
+  "back surface, which is measured less, but also via thermal Figure 1 shows our model",
+  "One is the fluctuation of the etalon is probed by \u01eb 1 <1, and the back surface of the front surface caused by the thermal energy in the | | is probed by \u01eb 2 <1",
+  "The other two are the 1102 naJ 82 ]cq-rg[ 1v8255",
+  "1011:viXra 2 fluctuation of the back surface coatings caused by the summed (see Sec",
+  "4 for details)",
+  "This simplification is valid imaginary force that is intentionally applied to the mea- asthe anti-resonantetalonaccommodateslittle lightcir- suredsurface [6][7]",
+  "a single imaginary force is applied to the reflective front surface,andtheelasticenergyisintegratedoverthecoat- 2"
+]
