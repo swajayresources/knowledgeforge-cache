@@ -1,0 +1,17 @@
+[
+  "Tinguely1\u2020\u2021, P",
+  "Puglia2\u2021, S",
+  "Porkolab1, D",
+  "Frassinetti5, D",
+  "Schneider6, and JET Contributors* 1 Plasma Science and Fusion Center, Massachusetts Institute of Technology, Cambridge, MA, USA 2 CEA, IRFM, F-13108 Saint-Paul-lez-Durance, France 3 Culham Centre for Fusion Energy, Culham Science Centre, Abingdon, UK 4 Ecole Polytechnique F\u00b4ed\u00b4erale de Lausanne (EPFL), Swiss Plasma Center (SPC), CH-1015 Lausanne, Switzerland 5 Division of Fusion Plasma Physics, KTH Royal Institute of Technology, Stockholm, Sweden 6 Max-Planck-Institut fu\u00a8r Plasmaphysik, Boltzmannstr",
+  "2, 85748 Garching, Germany * See the author list of \u201cOverview of T and D-T results in JET with ITER-like wall\u201d by C",
+  "to be published in Nuclear Fusion Special Issue: Overview and Summary Papers from the 29th Fusion Energy Conference (London, UK, 16-21 October 2023) Abstract",
+  "Thousands of AE stability measurements have been collected by the Alfv\u00b4en Eigenmode Active Diagnostic in hundreds of JET plasmas during the recent Hydrogen, Deuterium, Tritium, DT, and Helium-4 campaigns",
+  "4202 yaM 82 ]hp-msalp",
+  "scisyhp[ 1v25771",
+  "5042:viXra 2 plasma, active MHD spectroscopy 1",
+  "The Alfv\u00b4en frequency \u03c9 = 2\u03c0f comes from the simple shear Alfv\u00b4en wave dispersion relation, (cid:32) (cid:33) v m A \u03c9 = v k = n\u2212 , (1) A \u2225 R q 0 where k is the wave vector parallel to the magnetic field; n and m are toroidal and poloidal \u2225 mode numbers, respectively; q is the safety factor; and R is the major radius",
+  "From this, the 0 \u201cgap\u201d frequencies (within the Alfv\u00b4en continua) of Toroidicity and Ellipticity-induced AEs are approximated as \u03c9 \u2248 v /(2qR ) and \u03c9 \u2248 v /(qR ), respectively",
+  "Here, the Alfv\u00b4en TAE A 0 EAE A 0 speed v is given by A B v = \u221a 0 , (2) A \u00b5 (cid:80) n m 0 i i i with B the on-axis toroidal magnetic field strength; \u00b5 the vacuum magnetic permeability; 0 0 and m and n the ion masses and densities, respectively",
+  "(1) and (2), it is clear i i how plasma parameters, like isotopic composition, can be inferred from measurements of AE frequencies, mode structures, and locations"
+]
