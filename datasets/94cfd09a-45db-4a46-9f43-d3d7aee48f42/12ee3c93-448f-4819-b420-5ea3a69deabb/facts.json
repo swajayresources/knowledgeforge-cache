@@ -1,0 +1,18 @@
+[
+  "IEEEINTERNETOFTHINGSJOURNAL 1 Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data Lele Qi, Mengna Liu, Xu Cheng, Senior Member, IEEE, Fan Shi, Xiufeng Liu, and Shengyong Chen, Senior Member, IEEE Abstract\u2014Windfarms,typicallyinhigh-latituderegions,facea Traditionalmethodsfordetectingiceonwindturbineblades highriskofbladeicing",
+  "However, data heterogeneity, resulting from collections across wind farms in varying environmental condi- Active de-icing technologies include heating methods [2], tions, impacts the model\u2019s optimization capabilities",
+  "Moreover, ultrasound [3], hot air flow [4], and electric pulses [5]",
+  "We surface, such as black coatings, hydrophobic coatings, and also propose a contrastive supervised loss function to address chemical coatings [2]",
+  "Experiments on real data from 20 erally perform well under specific conditions, they may not turbines across two wind farms show our method outperforms fully remove ice during severe icing events",
+  "fiveFLmodelsandfiveclassimbalancemethods,withanaverage To overcome the limitations of traditional methods, a data- improvement of 19",
+  "64% in mF and 5",
+  "73% in mBA compared \u03b2 to the second-best method, BiFL",
+  "tion (SCADA) [6] systems, including operational status and environmental information",
+  "INTRODUCTION data-driven methods can raise data privacy concerns when AN effective strategy to reduce carbon emissions is to re- integrating data from various wind farms [7], [8], [9]",
+  "Under the FL framework, each turbine contributes hydropower [1]",
+  "To optimize dataexchange[10]",
+  "FLhasalreadybeenfirstappliedtodetectbladeicing The low-temperature climate in these areas can lead to blade in wind turbines using a heterogeneous framework [11]",
+  "In (1) Due to variations in geographical locations, oper- severe instances, icing on the blades can decrease global ating environments, and hardware configurations of wind annual power generation by nearly 30% [2]",
+  "This data heterogene- and reducing maintenance costs [2]",
+  "To tackle these challenges, we propose a federated involve applying coatings with special materials on the blade prototype learning model for class-imbalanced data in hetero- geneous environments to detect wind turbine blade icing"
+]
