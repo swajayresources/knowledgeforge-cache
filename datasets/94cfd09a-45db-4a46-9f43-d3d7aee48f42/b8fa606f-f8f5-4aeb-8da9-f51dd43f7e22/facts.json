@@ -1,0 +1,17 @@
+[
+  "Copyright 2012 ISA",
+  "58th International Instrumentation Symposium, San Diego, California, 4\u20137 June 2012 Technology Requirements and Development for Affordable High-Temperature Distributed Engine Controls Alireza Behbahani1, Bruce Wood2, Dewey Benson3, Andy Berner4, Bobbie Hegwood5, John Dejager6, William Rhoden7, Bruce Ohme3, Jef Sloat3, Crystal Harmon8 1Air Force Research Laboratory, 2Pratt & Whitney, 3Honeywell, 4BAE Systems, 5Rolls-Royce, 6GE Aviation, 7Hamilton Sundstrand, 8Ohio Aerospace Institute Keywords: Distributed Engine Control, Redundancy Management, Fault Tolerant Control, Networked Control System, Time Delay System, Smart Nodes, Data Concentrators, FADEC, DECWG, HT Electronics",
+  "The Government and Industry Distributed Engine Controls Working Group (DECWG) [5] has been established to find the tools (high temperature components, modeling, software) supporting the design and manufacture of high temperature electronics required for implementation of distributed control systems that do not require cooling on gas turbine engines of the future",
+  "DECWG is currently working to define requirements for new harsh environment capable digital integrated circuits and power electronics based on Silicon-On-Insulator (SOI) material that can reliably operate at temperatures up to approximately 225\u00b0C",
+  "In addition to the in-product Controls application, these Smart Nodes could become the basis for High Temp Capable Smart Instrumentation, Presented at ISA Conference 2012; http://www",
+  "org ; Copyright \u00a9 2012 by ISA Report Documentation Page Form Approved OMB No",
+  "0704-0188 Public reporting burden for the collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information",
+  "Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis Highway, Suite 1204, Arlington VA 22202-4302",
+  "REPORT DATE 3",
+  "DATES COVERED 2012 2",
+  "REPORT TYPE 00-00-2012 to 00-00-2012 4",
+  "TITLE AND SUBTITLE 5a",
+  "CONTRACT NUMBER Technology Requirements and Development for Affordable 5b",
+  "GRANT NUMBER High-Temperature Distributed Engine Controls 5c",
+  "PROGRAM ELEMENT NUMBER 6"
+]
