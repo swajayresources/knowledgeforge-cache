@@ -1,0 +1,17 @@
+[
+  "NASA Technical Memorandum 106125",
+  "Nation_al Aeronautics and Space Administration Lewis Research Center Cleveland, Ohio Prepared for the 38th ASME International Gas Turbine and Aeroengine Congress and Exposition sponsored by the Am_erican Society of Mechanical Engineers Cincinnati, Ohio, May 24-27, 1993 L;r (NASA-TM-106125) THE INFLUENCE OF N93-26550 PRIMARY AND SECONDARY ORIENTATIONS ON THE ELASTIC RESPONSE OF A NICKEL-BASE SINGLE-CRYSTAL Unc 1as SUPERALLOY (NASA) I3 p G3/39 0160256 THE INFLUENCE OF PRIMARY AND SECONDARY ORIENTATIONS ON THE ELASTIC RESPONSE OF A NICKEL-BASE SINGLE-CRYSTAL SUPERALLOY _ All AIxluI-Azlz and Sreeramesh Kallud Sverdrup Technology, Inc",
+  ", NASA LewisResearch Center Group Cleveland, Ohio Michael/L McGaw NASA LewisResearch Center Cleveland, Ohio ABSTRACT the superiority of their material properties at high The influence of primary orientation on the elastic temperature operating conditions (Chandler, 1985)",
+  "response of a [001]-oriented nickel-base single-crystal Initial development of these alloys began in the 1960's superalloy, PWA 1480, was investigated under for application as turbine blade and vane materials",
+  "mechanical, thermal, and combined thermal and Pratt and Whitney Aircraft was among the first to mechanical loading conditions using finite element manufacture single crystal blades, using PWA 1409 techniques",
+  "Elastic stress analyses were performed using which is the single crystal version of Mar-M200 (Kear the MARC finite element code on a square plate of and Piearcey, 1967)",
+  "Since that time many other engine PWA 1480 material",
+  "However, the crystal superalloy was varied in increments of 2\u00b0, from alloy of interest in this work is the single crystal 0\u00b0 to 10\u00b0, from the [001] direction",
+  "Two secondary superalloy PWA 1480 (SC PWA 1480) developed by orientations (0\u00b0 and 45\u00b0) were considered, with respect Pratt and Whitney",
+  "angular offset between the primary crystal orientation The turbine blades of SC PWA 1480 are directionally and the loading direction on the elastic stress response solidified such that the span direction is along the low of the PWA 1480 plate ispresented for different loading modulus [001] crystallographic direction to enhance conditions",
+  "There is some when constrained between the bounds considered, was variation in the [001] orientation of the single crystal not found to be as significant as the influence of the from one blade to another due to the manufacturing secondary orientation angle, which is not typically process",
+  "10\u00b0 of span direction for all of the turbine blades",
+  "The transverse orientation or the secondary crystal orientation [010] is not controlled, and is randomly INTRODUCTION oriented with respect to a fixed geometric axis in the Nickel base superalloys have attracted considerable turbine blade",
+  "However, using a seed crystal during interest for use in rocket and gas turbine engines due to solidification will allow control of the secondary orientation (Duhl, 1989)",
+  "Three independent elastic constants are required to describe the elastic behavior of acubic single crystal (Nye, 1957 and Yang, 1984)"
+]
