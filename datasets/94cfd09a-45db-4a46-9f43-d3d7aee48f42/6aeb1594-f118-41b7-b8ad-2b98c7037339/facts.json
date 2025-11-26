@@ -1,0 +1,17 @@
+[
+  "Christova,\u2217 aSchoolofMechanicalEngineering,PurdueUniversity,WestLafayette,Indiana47907,USA bFacultyofEngineering,UniversityofNottingham,UniversityPark,NottinghamNG72RD,UK cSchoolofMathematicalSciences,UniversityofNottingham,UniversityPark,Nottingham,NG72RD,UK ARTICLE INFO ABSTRACT Keywords: We develop a two-fluid model (TFM) for heat transfer in dense non-Brownian suspensions",
+  "Thisphenomenonknownasparticlemigrationcanaffectmixingandheattransfer[22]",
+  "Understandingparticle migration is important for a broad range of applications including geothermal energy recovery [61, 62], hydraulic fracturing[4,17],hemodynamics[51],microfluidics[14,16],electronicscooling[7,9],andfoodprocessing[26,29]",
+  "Specifically, by extending the dense-suspension TFM from [41] to incorporate coupled heat transfer within each and between the phases, we wish to provide a general and extensible computational framework withwhichonecanpredictivelysimulate(uponpropercalibrationperformedherein)theinteractionbetweenshear-rate gradientsandthermalgradientsindensesuspensions,acrossavarietyofflowscenarios",
+  "Afterbrieflyintroducingthebackgroundandstate-of-the-artofdensesuspensionmodelinginSection2,wediscuss thegoverningequationspertainingtotheTFMformodelingflowsofdensenon-Browniansuspensions,includingtheir rheologyinSection3",
+  "1andtheirthermophysicalpropertiesinSection3",
+  "3,weprovidea conceptualargument,basedonthetemperature-dependentfluidpropertiesofhowshearandthermalgradientscouple andyieldmigrationforcesontheparticulatephase",
+  "Then,inSection3",
+  "4,wesummarizethenumericalmethodsused toimplementtheTFMinOpenFOAM\u00ae, alongwiththeschemesused, andthecriteriaemployedtoobtainaccurate results",
+  "[32]inSection4",
+  "1 toobtainthefittingparametersintheinter-phaseheattransferclosure",
+  "Then,inSection4",
+  "2,we(qualitatively)validate theflowsolver(nofittingparametersinthisisothermalcase)againstdatafromSubiaetal",
+  "[57]foraneccentricCouette cell",
+  "Next,tounderstandtheinterplaybetweenthermalandsheargradients,westudyparticlemigrationsubjecttotwo thermalboundaryconditions(BCs)inaCouettecell(Section5"
+]
