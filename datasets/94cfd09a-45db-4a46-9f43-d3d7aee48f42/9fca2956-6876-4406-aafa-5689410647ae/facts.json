@@ -1,0 +1,17 @@
+[
+  "Energy Consumption Modeling for DED-based Hybrid Additive Manufacturing Md Rabiul Hasan,Zhichao Liu \u2217,Asif Rahman aIMSE, West Virginia University, Morgantown, WV 26501, USA * Corresponding author",
+  ": +0-000-000-0000 ; fax: +0-000-000-0000",
+  "This paper aims to develop an energy consumption model for Direct Energy Deposition (DED) based Hybrid Additive Manufacturing (HAM) for an Inconel 718 part",
+  "Keywords: Energy consumption, Hybrid Additive Manufacturing, DED, Specific Energy Consumption Submitted to Springer Nature, The International Journal of Advanced Manufacturing Technology 1",
+  "Introduction Additive manufacturing (AM) is a newly emerging technology to make three-dimensional (3D) parts directly from CAD model layer upon layer [1]",
+  "Nowadays, AM is leading a fundamental shift in the way we design and manufacture products [2]",
+  "It has become the mainstream due to its numerous benefits, including design freedom, material saving, and the reduction of production cost and manufacturing carbon footprint [3]",
+  "Directed energy deposition (DED) is an AM process in which focused thermal energy is used to melt the deposited materials to make dense 3D structures [4]",
+  "With good metallurgical bonding, controllable heat input, minimal stress and distortion, cost-effectiveness for remanufacturing, DED is now widely used in high-value components repair [5], prototyping [6], and functionally graded material fabrication [7]",
+  "The HAM process is shown in Figure 1, where the additive manufacturing process is used to build the part layer by layer, followed by the machining process to remove the unwanted materials and improve accuracy",
+  "Figure 1: Hybrid Additive manufacturing process (sources from Li et",
+  ", 2020) [8] Implementation of HAM technology will enhance AM\u2019s capabilities in creating high-geometrical-complexity and high-accuracy 3D structures with a smooth surface finish [9]",
+  "It will also reduce the cost of post-processing, decrease material waste, and pave way for the subtractive manufacturing industries to enter the fast-growing AM sector [10]",
+  "For sustainable development, the target is to reduce global emissions by zero by 2050 [11]",
+  "More than 30% of global energy consumption and carbon emissions occur due to manufacturing works [12]"
+]
