@@ -1,0 +1,17 @@
+[
+  "Carvalhob,JETContributors1 EUROfusionConsortium,JET,CulhamScienceCentre,Abingdon,OX143DB,UK aInstitutoSuperiorTe\u00b4cnico(IST),UniversityofLisbon,Portugal bInstitutodePlasmaseFusa\u02dcoNuclear(IPFN),IST,UniversityofLisbon,Portugal Abstract Deep learning is having a profound impact in many fields, especially those that involve some form of image processing",
+  "Keywords: PlasmaDiagnostics,ComputedTomography,NeuralNetworks,DeepLearning 1",
+  "Introduction convolutional neural networks (CNNs) [13, 14] and re- currentneuralnetworks(RNNs)[15]; Tomography[1,2]isaplasmadiagnosticstechniquewhich \u2022 the use of new activation functions, especially the recti- canbeusedtodeterminetheplasmaprofileonapoloidalcross- fiedlinearunit(ReLU)[16]anditsvariants[17,18,19]; sectionofthefusiondevice",
+  "This2Dplasmaprofileisobtained through a reconstruction process based on the measurements \u2022 newproceduresforparameterinitialization[20,18]; ofradiationdetectorsplacedaroundtheplasma,suchasX-ray \u2022 improvementsintrainingalgorithms[21,22,23]; camerasandbolometersystems[3]",
+  "Thereconstructionprocess \u2022 newmethodstoavoidoverfitting,especiallydropout[24] isoftenreferredintheliteratureastomographicinversion[4]",
+  "andbatchnormalization[25]; There are several methods for tomographic inversion, in- cluding the maximum entropy method, the Tikonov regular- \u2022 theuseofGPUcomputing(graphicsprocessingunits)to ization method, and the minimum Fisher information method, significantlyacceleratenetworktraining[26,27]; amongothers[5,6]",
+  "Ontheotherhand,therehavebeenseveral \u2022 and the development of new software libraries, such as attempts to produce tomographic reconstructions with neural Caffe [28], Theano [29] and Torch7 [30], which made networks[7,8,9]",
+  "Inparticular, graphicdatatobeprocessedafterapulseor,moreimportantly, whereaspreviousattemptshavefocusedonlearningtheparam- to enable the use of such reconstructions as input to the real- etersofaparametricmodeloftheplasmaprofile[31],herewe timecontrolofthefusionexperiment[10]",
+  "aim at a full, pixel-by-pixel reconstruction of the 2D plasma All of these experiments with neural networks have been profile with the same resolution as obtained by other tomog- performed before the advent of deep learning [11, 12]",
+  "This is an interesting cent years, the field of neural networks has seen tremendous problemfordeeplearning,becauseitinvolvesproducinga2D progressinseveralfronts,namely: imagefrom1Dprojectiondata,whileconvolutionalneuralnet- works(CNNs)typicallyexcelindoingtheopposite,e",
+  "turning \u2022 thedevelopmentofdeepnetworkarchitecturesbasedon a 2D image into a 1D vector of class probabilities that can be usedforimageclassification",
+  "In this work, we present an up-convolutional network to \u2217Correspondingauthor perform the reconstruction of the 2D plasma profile based on Emailaddress:diogo",
+  "Ferreira) theoverviewbolometersystematJET,knownasKB5[32]",
+  "The 1SeetheAppendixofF",
+  ", Proceedingsofthe25thIAEA networkistrainedonexistingtomograms,andisabletorepro- FusionEnergyConference2014,SaintPetersburg,Russia duce previously unseen reconstructions with high accuracy, to PreprintsubmittedtoFusionEngineeringandDesign January3,2017 7102 naJ 2 ]LM"
+]
