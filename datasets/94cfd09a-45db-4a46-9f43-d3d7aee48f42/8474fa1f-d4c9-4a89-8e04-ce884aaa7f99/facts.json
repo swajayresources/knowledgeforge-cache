@@ -1,0 +1,17 @@
+[
+  "Twelfth International Conference on Computational Fluid Dynamics (ICCFD12), Kobe, Japan, July 14-19, 2024 Coupling Machine Learning Local Predictions with a Computational Fluid Dynamics Solver to Accelerate Transient Buoyant Plume Simulations C",
+  "The results demonstrated an average improvement of 94% in the initial guess for solving the Pois- son equation",
+  "The first pressure corrector acceleration reached a mean factor of 3, depending on the iterative solver employed",
+  "1 Introduction Computational fluid dynamics (CFD) techniques enable the simulation of fluid flow, which is valuable for a wide range of scientific challenges",
+  "As a result, CFD finds applications in many areas, such as aerodynamics, turbomachinery, hydrology, chemical processes, meteorology,andbuildings[1,2]",
+  "Despite the development of efficient numerical ap- proaches and the growth of computational power, CFD is inaccessible for numerous applications [3, 4]",
+  "In this context, the CFD community is paying greater attention to machine learning algorithms to ac- celerate solvers by creating cost-effective models [3, 5, 6, 7, 8]",
+  "The machine learning field encompasses various algorithms that extract valuable information from data, leading to applications such as pattern recognition or surrogate modeling [9]",
+  "Nevertheless, further research is re- quired to identify effective ways to combine CFD with machine learning to speed up simulations while maintaining accuracy [10]",
+  "Deep learn- ing, which relies on deep neural networks, has gained significant attention due to its demonstration of state-of-the-art capabilities in addressing numerous intricate challenges, such as image or speech recog- nition[11,12]",
+  "Thescientific machine learning domainaimstobridgethegapbetweenmachinelearning 1 4202 peS 11 ]nyd-ulf",
+  "scisyhp[ 1v57170",
+  "9042:viXra and scientific computing",
+  "Concerning CFD, a primary focus is the development of data-driven models thatachieveamorefavorablebalancebetweenaccuracyandcomputationalcost[6,10]",
+  "However,several challenges must be overcome, including model generalizability, interpretability, scalability, and data effi- ciency[8,10,13]"
+]
