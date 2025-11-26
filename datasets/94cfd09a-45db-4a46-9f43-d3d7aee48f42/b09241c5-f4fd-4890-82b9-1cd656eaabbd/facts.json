@@ -1,0 +1,18 @@
+[
+  "Pre-printsubmittedtoData-CentricEngineering(0000),1\u201320 doi:10",
+  "1017/xxxx RESEARCH ARTICLE Deep learning modelling of manufacturing and build varia- tions on multi-stage axial compressors aerodynamics GiuseppeBruni1,2 *,SepehrMaleki2 andSenthilK",
+  "Krishnababu1,2 1LincolnAILab,UniversityofLincoln,BrayfordWay,Lincoln,LN67DL,UnitedKingdom 2SiemensEnergy,1WatersideSouth,Lincoln,LN57FD,UnitedKingdom *Correspondingauthor",
+  "Themodelisappliedtomanufacturingandbuildvariations,asthe associatedperformancescatterisknowntohaveasignificantimpacton\ud835\udc36\ud835\udc42 emissions,whichposesachallenge 2 ofgreatindustrialandenvironmentalrelevance",
+  "The model is applied to manufacturingandbuildvariations,astheassociatedscatterincompressorefficiencyisknowntohaveasig- nificantimpactontheoverallperformanceand\ud835\udc36\ud835\udc42 emissionsofthegasturbine,thusposingachallengeof 2 greatindustrialandenvironmentalrelevance",
+  "\u00a9 The Authors(s), 2020",
+  "org/licenses/by/4",
+  "0/),whichpermitsunrestrictedre-use,distribution,andreproductioninanymedium,providedtheoriginal workisproperlycited",
+  "5202 raM 81 ]GL",
+  "sc[ 5v46240",
+  "0132:viXra 2 Brunietal",
+  "While having demonstrated to provide excellent agreement with test data Bruni and Krishnababu [2024], these models are not traditionally used as part of the manufacturing and build processasaday-to-dayoccurrence,duetotheassociatedcomputationalcostandrequirementforspe- cializedengineerstocarryouttheanalyses",
+  "[2024] for predictions of the flow field and aerody- namic performance of turbomachinery",
+  "The corresponding aerodynamic drivers are identified by providing predictions for the 3D \"structured\" flow-field, as well as radial distributions at all the inter-row locations, 1D row-wise distributionsandstage-wisedistributions",
+  "Themodelisappliedtomanufacturingandbuildvariations, astheassociatedscatterinefficiencyisknowntohaveasignificantimpactontheoverallperformance and \ud835\udc36\ud835\udc42 emissions of the gas turbine, therefore posing a challenge of great industrial and environ- 2 mentalrelevance",
+  "We propose a physics-based dimensionality reduction to unlockthepotentialtousesupervisedlearningapproachesforflow-fieldpredictions,asitre-formulates theregressionproblemfromun-structuredtostructured,aswellasreducingthenumberofdegreesof freedom"
+]
