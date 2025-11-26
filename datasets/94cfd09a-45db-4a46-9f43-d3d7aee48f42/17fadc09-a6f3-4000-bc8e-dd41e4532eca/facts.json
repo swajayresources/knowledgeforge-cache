@@ -1,0 +1,21 @@
+[
+  "1 Deep Domain Adaptation for Turbofan Engine Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends Yucheng Wang*, Mohamed Ragab*, Member, IEEE, Yubo Hou, Zhenghua Chen, Senior Member, IEEE, Min Wu, Senior Member, IEEE, and Xiaoli Li, Fellow, IEEE Abstract\u2014Remaining Useful Life (RUL) prediction for turbo- Health Management (PHM) concepts, including Condition- fanenginesplaysavitalroleinpredictivemaintenance,ensuring BasedMaintenance(CBM)andPredictiveMaintenance(PM), operational safety and efficiency in aviation",
+  "life [5]\u2013[7]",
+  "Given the unique properties of turbofan ficiency [8]\u2013[14]",
+  "A novel taxonomy tailored to turbofan engines is introduced, organizing approaches into methodology- knowledge and may not fully leverage the wealth of available based(howDAisapplied),alignment-based(wheredistributional sensor data [15], [16]",
+  "Additionally,weevaluate dationmechanisms[12],[17]\u2013[21]",
+  "These Turbofanenginesserveasthebackboneofmodernaviation, challenges pose significant limitations on the applicability powering aircraft and requiring peak performance [1]\u2013[3]",
+  "of conventional data-driven methods for RUL prediction in However,nearly60%ofaircraftbreakdownscanbeattributed turbofan engines [22]",
+  "to turbofan engine failures, underscoring the urgent need Domain Adaptation (DA) offers a promising solution to for advanced maintenance strategies that go beyond tradi- thesechallengesbyenablingknowledgetransferfromasource tionalcorrectiveorpreventiveapproaches[4]",
+  "This strategy significantly {wang yucheng,hou yubo,wumin}@i2r",
+  "ogyInnovationInstitute,UAE(E-mail:mohamedr002@e",
+  "While DA has achieved remarkable success in computer ZhenghuaCheniswiththeJamesWattSchoolofEngineering,University vision applications where labeled data is scarce [23]\u2013[26], it ofGlasgow,UK(Email:Zhenghua",
+  "is gaining traction in PHM for turbofan engines, improving 5202 tcO 4 ]GL",
+  "sc[ 1v40630",
+  "0152:viXra 2 RUL prediction under diverse operating conditions [27]\u2013[32]",
+  "We also prediction, primarily focusing on conventional methods such analyze the limitations of current DA methods in real-world as physics-based models [33], traditional machine learning applications and propose solutions to improve their reliability techniques [34], [35], and deep learning architectures [15], and effectiveness for turbofan engine RUL prediction",
+  "To provide a comprehensive review, we propose condition",
+  "Workflow Aligningwiththefundamentalstepsinthestandardprocess, The overall workflow of DA for turbofan engine RUL we propose a novel taxonomy that categorizes existing works prediction is illustrated in Fig",
+  "Buildingonthechallengesdiscussedintheprevioussection, Investigating the use of synthetic data generation techniques, we present potential solutions in this section to guide future such as generative adversarial networks (GANs), could aug- research directions and advance this field",
+  "Additionally, we present an open-source collection of DA [17] R"
+]
