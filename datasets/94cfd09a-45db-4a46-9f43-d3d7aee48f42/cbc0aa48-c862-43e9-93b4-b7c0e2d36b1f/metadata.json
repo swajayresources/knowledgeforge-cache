@@ -1,0 +1,15 @@
+{
+  "paper_id": "cbc0aa48-c862-43e9-93b4-b7c0e2d36b1f",
+  "title": "Thermal barrier coating system",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/cbc0aa48-c862-43e9-93b4-b7c0e2d36b1f/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/cbc0aa48-c862-43e9-93b4-b7c0e2d36b1f/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/cbc0aa48-c862-43e9-93b4-b7c0e2d36b1f/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/cbc0aa48-c862-43e9-93b4-b7c0e2d36b1f/keywords.json"
+  ]
+}
