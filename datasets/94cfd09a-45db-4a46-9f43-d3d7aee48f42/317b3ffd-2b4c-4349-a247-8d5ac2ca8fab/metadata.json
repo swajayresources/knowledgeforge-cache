@@ -1,0 +1,15 @@
+{
+  "paper_id": "317b3ffd-2b4c-4349-a247-8d5ac2ca8fab",
+  "title": "Ultrafast Radiative Heat Transfer",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/317b3ffd-2b4c-4349-a247-8d5ac2ca8fab/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/317b3ffd-2b4c-4349-a247-8d5ac2ca8fab/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/317b3ffd-2b4c-4349-a247-8d5ac2ca8fab/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/317b3ffd-2b4c-4349-a247-8d5ac2ca8fab/keywords.json"
+  ]
+}
