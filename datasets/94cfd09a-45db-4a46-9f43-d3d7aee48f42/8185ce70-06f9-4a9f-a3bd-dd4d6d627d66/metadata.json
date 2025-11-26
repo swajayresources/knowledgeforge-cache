@@ -1,0 +1,15 @@
+{
+  "paper_id": "8185ce70-06f9-4a9f-a3bd-dd4d6d627d66",
+  "title": "A Silicon-Based Micro Gas Turbine Engine for Power Generation",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8185ce70-06f9-4a9f-a3bd-dd4d6d627d66/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8185ce70-06f9-4a9f-a3bd-dd4d6d627d66/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8185ce70-06f9-4a9f-a3bd-dd4d6d627d66/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/8185ce70-06f9-4a9f-a3bd-dd4d6d627d66/keywords.json"
+  ]
+}
