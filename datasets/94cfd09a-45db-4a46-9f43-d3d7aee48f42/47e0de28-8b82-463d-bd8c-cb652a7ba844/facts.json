@@ -1,0 +1,19 @@
+[
+  "Mendeza,d,e avon Karman Institute for Fluid Dynamics, Sint-Genesius-Rhode, 1640, Belgium bVrije Universiteit Brussel (VUB), Department of Mechanical Engineering, Elsene, Brussels, 1050, Belgium cFlanders Make at VUB, BP&M, Elsene, Brussels, 1050, Belgium dAero-Thermo-Mechanics Laboratory, Universit\u00b4e Libre de Bruxelles, Elsene, Brussels, 1050, Belgium eAerospace Engineering Research Group, Universidad Carlos III de Madrid, Legan\u00b4es, 28911, Spain Abstract This study presents a framework for estimating the full vibrational state of wind turbine blades from sparse deflection measurements",
+  "Keywords: Wind Turbine blades, POD, ROM, Sparse Reconstruction, Azimuthal deflection models List of Acronyms LNM linear normal modes (eigenmodes) POD Proper Orthogonal Decomposition LOM low order models POM proper orthogonal modes NNM nonlinear normal modes ROM reduced order models 1",
+  ", cyclic pitch), and other environmental factors (S\u00a8oker, 2013; Schubel and Crossley, 2012)",
+  ", 2020; Skjoldan and Hansen, 2012; Bottasso and Cacciola, 2015; Riva et al",
+  ", 2016), or even azimuthal positions(AcarandFeeny,2018)",
+  ", 2004), induce harmful aeroelastic instabilities (Rasmussen et al",
+  ", 2003; Kalles\u00f8e, 2011), increase Preprint submitted to Journal of Sound and Vibration January 2025 5202 rpA 11 ]YS",
+  "ssee[ 1v50580",
+  "4052:viXra aerodynamic-drivenfatigueloads(Liuetal",
+  ",2017)andintensifymodecouplingsinducedbybladegeometry (e",
+  ", 2014; Cooperman and Martinez, 2015), to provide advanced indicators for predictive maintenance (Hameed et al",
+  ", 2009), and to validate widespread aeroelastic tools employed by the industry and academia alike (Lehnhoff et al",
+  ",2016;Lietal",
+  ", 2020), unsuitable for applications in which rapid feedback is of the essence",
+  "On the one hand, LOMs are based on lumped descriptions that make simplifying yet reasonable assumptions (Pao and Johnson, 2009; Kalles\u00f8e, 2006)",
+  "We present the two sets of modes in Figure 5",
+  "We show the result of this procedure in Figure 8, in which we indicate the resulting locations with circular red markers"
+]
