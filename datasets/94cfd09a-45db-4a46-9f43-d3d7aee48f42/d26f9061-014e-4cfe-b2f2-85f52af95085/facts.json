@@ -1,0 +1,17 @@
+[
+  "NASA Contractor Report 198440 NASA-CR-198440 19960010178 TADS-A CFD-Based Turbomachinery and Analysis Design System With aUI Volume I-Method and Results D",
+  "Delaney Allison Engme Company Indianapoizs, Indzana December 1995 Prepared for Lewis Research Center ~-------- Under Contract NAS3-25950 L1BRp",
+  "RY COpy : , 2 :J5 ~ \u2022 LANGLEY RESEARCH CENTER LlERARY NASA National Aeronautics and Space Administration - --H",
+  "~ -~\" -~- --- -'I~, - v:~-G:r\\-II'- - I1 1111111 1111 IIII 11111 IIIII 11111 IIIII IIII 1111 NF01035 11111111111111111~[llf~llrll]'ml~1111111111111111 , 3 1176014236559 I\" Contents 1 Summary 1 2 Introduction 3 3 Analysis Coupling 7 3",
+  "1 Solution Procedure",
+  "2 Programming Philosophy and Standards 10 3",
+  "1 File Naming Convention 11 3",
+  "2 Data Standards",
+  "3 Coordinate Systems",
+  "4 Shared Routines and Data 13 3",
+  "3 Input Requirements",
+  "13 4 Development of Program Modules 15 4",
+  "3 ADPAC Input Generation 20 4",
+  "1 Airfoil Thickness Determination",
+  "2 Mean Stream Surface Determination 23 4"
+]
