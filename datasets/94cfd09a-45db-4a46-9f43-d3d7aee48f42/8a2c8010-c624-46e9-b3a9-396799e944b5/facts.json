@@ -1,0 +1,17 @@
+[
+  "Close out and Final report for NASA Glenn Cooperative Agreement NCC3-453 Multidisciplinary Design Optimization for Aeropropulsion Engines and Solid Modeling/Animation via the Integrated Forced Methods The grant closure report is organized in the following four chapters",
+  "Chapter describes the two research areas 0 Design optimization and Solid mechanics 0 Ten journal publications are listed in the second chapter 0 Five highlights is the subject matter of chapter three 0 CHAPTER 1 Research Topic-1 Descrlptian: The Design Optimization Test Bed CometBoards The research to compare different optimization algorithms and alternate analysis methods for structural design applications has grown into a multidisciplinary design test bed that is still referred to by its original acronym, CometBoards, which stands for COMparative Evaluation Test Bed of Optimization and Analysis Routines for the Design of Structures",
+  "The modular organization of CometBoards, shown in figure 1, allows innovative methods (or computer codes) to be tested quickly through its soft coupling feature",
+  "Likewise, the analyzer module includes: COSMIC/NASTRAN; 0 the nonlinear analyzer MHOST; 0 the U",
+  "Air Force ANALYZEYDANALYZE code; 0 IFWANALYZERS; 0 the aircraft flight optimization analysis code FLOPS ; the NASA Engine Performance Program NEPP; and others",
+  "1 Some of the other unique features of CometBoards are: a multiple optimizer cascade strategy; 0 design variable and constraint formulations; a global scaling strategy; analysis and sensitivity approximations through regression and neural networks; 0 substructure optimization on sequential as well as parallel computational platforms",
+  "0 CometBoards has provisions to accommodate up to 10 different disciplines, each of which can have a maximum of 5 subproblems",
+  "The test bed can optimize a large system, which can be defined in as many as 50 different subproblems",
+  "The CometBoards test bed has over 50 numerical examples",
+  "It is written in Fortran 77, except for the neural network code, Cometnet , which is written in the C++ language",
+  "Structure, Aircraft, Analyzers and Regression -[ J+ foprmurlat,ion operations solution / t synthesis computational Stochastic -Workstations analysis - environment Cray Computer Figure 1",
+  "Organization of Design Optimization Test-bed CometBoards 2 CHAPTER 2 Research Topic-2 Solid Mechanics: Integrated Force Method of Analysis The stress and the strain formulations; (and the material law) are fundamental solid mechanics concepts",
+  "In 1822, Cauchy formulated the equilibrium equations or the stress formulation in the + + field ( ~ jj , bi = 0) as well as on the boundary (zij, j bi = 0) of an elastic continuum",
+  "In 1860, St",
+  "Determinate Indeterminate structures structures Stiffness m Method of force (IFM) YES Redundant recently force method I I (disappeared) 2nd hatf of 20th Century Stress and strain formulations Compatibility restrained the growth of force method The equilibrium equations have been manipulated to obtain the Navier\u2019 s formulation in elasticity and the stiffness method in finite element analysis"
+]
