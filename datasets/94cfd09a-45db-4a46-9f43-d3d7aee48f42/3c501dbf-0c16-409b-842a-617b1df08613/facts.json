@@ -1,0 +1,22 @@
+[
+  "Baltaa,b,\u2217, JohnLygerosa aAutomaticControlLaboratory,ETHZurich,Physikstrasse3,8092,Zurich,Switzerland bControlandAutomationGroup,InspireAG,Technoparkstrasse1,8005,Zurich,Switzerland cNematXAG,Vladimir-Prelog-Weg5,8093,Zurich,Switzerland dInstituteofPolymerEngineering,FHNW,Klosterzelgstrasse2,5210,Windisch,Switzerland eZHAWCentreforAI,ZurichUniversityofAppliedSciences,Technikumstrasse71,8400,Winterthur,Switzerland Abstract In material extrusion additive manufacturing, the extrusion process is commonly controlled in a feed-forward fashion",
+  "Wedemonstratetheexistenceofastrongcorrelationbetweenextrusionforce andlinewidth,whichweexploittodepositlinesofdesiredwidthinawidthrangeof33%upto233%ofthenozzle diameter",
+  "Withnoadaptation,ForceControlledPrintingcandepositlinesofdesiredwidthunderseveredisturbances inbedleveling,suchasatlayerheightsrangingbetween20%and200%ofthenominalheight",
+  "Keywords: MaterialExtrusion,FusedFilamentFabrication,ForceControlledPrinting,Closed-LoopControl, DisturbanceRejection,In-SituMonitoring 1",
+  "Introduction Additive Manufacturing (AM), commonly known as 3D printing, is a prominent technique that enables manu- facturingof3Dobjectswithcomplexgeometricalfeaturesbydepositingmateriallayerbylayer",
+  "Materialextrusion additivemanufacturing[1],betterknownasFusedFilamentFabrication(FFF),orFusedDepositionModeling(FDM), isoneofthemostwidespreadandpopularAMtechniques[2]duetoitsaccessibilityandversatility",
+  "ch (JohnLygeros) PreprintsubmittedtoAdditiveManufacturing March26,2024 4202 raM 42 ]YS",
+  "ssee[ 1v24061",
+  "3042:viXra prototypingandsmall-lotmanufacturinginavarietyofsectorsandissuccessfulamongprofessionalusersaswellas hobbyists",
+  "Thisassemblycalledan extruder,ismovedinspacebyasetofnumericallycontrolledmotiondrivestodepositplasticatdesiredlocationsand formthefinalpart[3]",
+  "Onecentral challengeliesindesigningthecommandssenttotheextrudermotor,whichhavetobesynchronizedwiththemachine motiontotakeintoconsiderationthedynamicsoftheextrusionprocesstoachievehigh-qualityresults[4]",
+  "Numerousworkshavedevelopedmodelsoftheextrusionprocessdynamics[5,6,7],andusedthemtooptimize the feedforward input sent to the machine and improve performance [8, 9, 10]",
+  "Particularly when targeting high geometrical accuracy, it was shown that performance can be improved with accurate geometric modeling of the deposited material beads as a function of the print parameters [11, 12]",
+  "All these approaches, however, suffer from theclassicallimitationsoffeed-forwardplanning[13]",
+  "Tothisend,numerous recent works explore the field of in-situ monitoring for FFF at different time-scales [14]",
+  "Toovercometheselimitations, we proposethefirstframeworkforForceControlledPrintingformaterialextrusionadditivemanufacturing",
+  "Inthiswork,we proposeamethodforclosed-loopcontrolofextrusion,wherethefilamentflowrateiscomputedonlinebasedonthe reactionforceproducedwhileprinting",
+  "14 we show selected features of the star with strong magnification",
+  "We show how when using Force Controlled Printing, the deposited line width remains largely unaffected by disturbances in the bed leveling comprised in a range of 20% to 200% of the nominal layer height",
+  "First, we demonstrate the existence of a strong correlation between the measured reaction force andthewidthofadepositedline"
+]
