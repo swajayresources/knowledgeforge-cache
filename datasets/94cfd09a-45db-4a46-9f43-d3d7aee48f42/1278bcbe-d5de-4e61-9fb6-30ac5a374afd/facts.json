@@ -1,0 +1,18 @@
+[
+  ", 61, St Petersburg, 199178, Russia Richard Bausch Institut fu\u00a8r Theoretische Physik IV, Heinrich-Heine-Universita\u00a8t Du\u00a8sseldorf, Universita\u00a8tsstrasse 1, D-40225 Du\u00a8sseldorf, Germany Rudi Schmitz Institut fu\u00a8r Theoretische Physik A, RWTH Aachen University, Templergraben 55, D-52056 Aachen, Germany (Dated: March 8, 2021) A recently introduced capillary-wave description of binary-alloy solidification is generalized to includetheprocedureofdirectionalsolidification",
+  "PACSnumbers: 68",
+  "This so- The main feature of a recently introduced capillary- called banded structure occurs in many metallic alloys, wave model [1] for the solidification of a dilute binary as described in the review [8] by Carrard et al",
+  "In the present paper this approach will be treatment,KarmaandSarkissian[9]pointedoutthatthe generalized to cover also the description of directional banding phenomenon is due to relaxation oscillations of solidification, especially with regard to the rapid-growth thesolidificationfront",
+  "As outlined in reviews by Langer [2] and by detail in Ref",
+  "[10], was derived from numerical solutions Mu\u00a8ller-Krumbhaar et al",
+  "[3], in directional solidification of the diffusion equations for the solute concentration in the growth of a crystal is accomplished by pulling it in a dilute binary alloy and for the temperature, supported opposite direction of an externally applied temperature by non-equilibrium boundary conditions, as formulated gradient",
+  "We will mainly consider the case of a constant by Aziz and Boettinger [11]",
+  "This simulations, describing the generation of solute bands form of description arises in the limit of an infinite heat [12], and of banded structures [13], respectively",
+  "[14]theobservationbyKarmaand density as an additional field variable",
+  "The stability of such a front has been investigated Intheapplicationofourcapillary-wavedescriptionwe intherapid-growthregimewithincreasingregardofnon- are going to analyze the simplest-possible model, which equilibriumeffectsbyMullinsandSekerka[4],Corielland shows the banding effect",
+  "We, accordingly, consider the Sekerka [5], and by Merchant and Davis [6]",
+  "[5] dynamics of a planar interface, neglecting heat diffusion, and [6] new oscillatory interface instabilities have been and assuming an overall constant diffusion coefficient for discovered in addition to the previously-known Mullins- the solute component",
+  "Ourownapproachdemonstratesthat arbitrary equilibrium profiles of the solute concentration these effects are closely related to an instability, found these properties lead to an integro-differential equation by Cahn [7] in grain-boundary motion",
+  "damped nonlinear oscillator [15]",
+  "Since, however, involvingthesoluteconcentrationC intheliquidphase, our results reveal an almost stationary behavior of the L the latent heat L per unit volume, the miscibility gap interface motion in the so far barely understood low- velocity regime [10], we presently only complement the established limit-cycle scenario by the standard Mullins- \u2206C \u2261C \u2212C , (3) Sekerka procedure"
+]
