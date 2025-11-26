@@ -1,0 +1,20 @@
+[
+  "Ultrafast radiative heat transfer Renwen Yu,1 Alejandro Manjavacas,2 and F",
+  "Javier Garc\u00b4\u0131a de Abajo1,3, \u2217 1ICFO-Institut de Ciencies Fotoniques, The Barcelona Institute of Science and Technology, 08860 Castelldefels (Barcelona), Spain 2Department of Physics and Astronomy, University of New Mexico, 1919 Lomas Blvd",
+  "NE, Albuquerque NM 87131-0001, United States 3ICREA-Institucio\u00b4 Catalana de Recerca i Estudis Avan\u00b8cats, Passeig Llu\u00b4\u0131s Companys 23, 08010 Barcelona, Spain Light absorption in conducting materials produces heating of their conduction elec- trons,followedbyrelaxationintophononswithinpicoseconds,andsubsequentdiffusion into the surrounding media over longer timescales",
+  "We predict that >50% of the electronic heat energy deposited on a graphene disk can be transferred to a neighbor- ing nanoisland within a femtosecond timescale",
+  "Optical, electrical, and mechanical dissipation in Following pioneering observations of near-field radia- nanoscale devices produces heat accumulation that can tive energy transfer between two conducting plates [10, result in structural damage and poor performance",
+  "Un- 11], a theoretical explanation was offered [12] based on derstandably, heat management constitutes an impor- theeffectofthermalfluctuationsintheelectricalcurrent tant aspect when designing thermoelectric [1], optoelec- of the involved surfaces",
+  "Further experimental [13\u201322] tronic [2], electromechanical [3], and photovoltaic [4] el- and theoretical [5, 23\u201353] studies have corroborated this ements, as well as recently proposed thermal analogs of interpretation of radiative heat transfer between struc- electronic devices [5, 6]",
+  "Thissubjecthasgenerated thermal conduction in most materials [7] imposes a se- fundamental insights that include important corrections rious limitation",
+  "Finding new means of cooling nanos- due to nonlocal [30], phonon [27, 42], and photonic band tructures is therefore critical",
+  "An interesting possibility [47] effects, as well as magnetic polarization [34]",
+  "ditionally, retardation, radiation emission, and crossed Indeed,theabsorptionandemissionofradiationbyama- electric-magnetictermsintheopticalresponsehavebeen terial structure contributes to reach thermal equilibrium shown to severely modify the transfer power [50]",
+  "This is the dominant cooling chan- slow compared with dissipative transport through the nel for thermally isolated structures [8], in which energy surrounding media, in which heat can cause undesired is released through the emission of photons with wave- effects",
+  "This situation persists even when the interaction lengths \u03bb T = 2\u03c0\u00afhc/k BT (i",
+  "vacuum gaps of large size compared with \u03bb , the Planck T In this context, graphene plasmons can be advanta- and Kirchhoff laws determine the exchanged power [9]",
+  "Indeed, plasmon energies dominated by additional channels mediated by evanes- (cid:112) in graphene nanostructures scale as E /D with the cent waves [10\u201312]",
+  "3 for 20nm graphene disks separated a As an illustrative example, we show in Fig",
+  "We show \u03c1 (\u03b8) as defined in Eqs",
+  "We show the dependence of the thermal coefficient \u03b2 on E /k T, as calculated from F B Eq"
+]
