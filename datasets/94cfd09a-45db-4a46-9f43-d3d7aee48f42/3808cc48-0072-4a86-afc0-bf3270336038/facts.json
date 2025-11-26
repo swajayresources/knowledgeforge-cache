@@ -1,0 +1,20 @@
+[
+  "Aaron Mendoza-Rodarte1,2*, Katarzyna Gas3,4, Manuel Herrera-Zald\u00edvar2, Detlef Hommel5, Maciej Sawicki3,6, and Marcos H",
+  "Guimar\u00e3es1* 1Zernike Institute for Advanced Materials, University of Groningen, 9747 AG Groningen, The Netherlands 2Centro de Nanociencias y Nanotecnolog\u00eda-Universidad Nacional Aut\u00f3noma de M\u00e9xico, Ensenada, 22800-Baja California, M\u00e9xico 3Institute of Physics, Polish Academy of Sciences, Aleja Lotnikow 32/46, PL-02668 Warsaw, Poland 4Center for Science and Innovation in Spintronics, Tohoku University, Katahira 2-1-1, Aoba-ku, Sendai 980-8577, Japan 5Lukasiewicz Research Network - PORT Polish Center for Technology Development, Stab\u0142owicka 147, Wroc\u0142aw, Poland 6Research Institute of Electrical Communication, Tohoku University, Katahira 2-1-1, Aoba-ku, Sendai 980-8577, Japan *Corresponding authors: J",
+  "We determine the transparency of the interface through the estimation of the real part of the spin mixing conductance finding \ud835\udc3a = 2",
+  "6 \u22c51014 \ud835\udc5f \u03a9-1 m-2, comparable to state-of-the-art yttrium iron garnet (YIG)/Pt interfaces",
+  "1 Recent advances in the manipulation of electron charge and spin have highlighted spintronics as a key area of research1,2",
+  "This interest stems from the potential of spintronic devices to address the limitations of traditional charged-based devices, such as high energy consumption3",
+  "Among various materials, diluted magnetic semiconductors (DMS), those systems where a fraction of cations are substituted by magnetic elements, stand out as promising candidates for spintronic applications due to their unique integration of semiconductor and magnetic properties4",
+  "Particularly, Mn-doped compounds have received significant attention from the research community since the formation of a ferromagnetic order at technologically relevant temperatures was predicted5 and realized6",
+  "The combination of these factors, coupled with GaN well-established roles in optoelectronics7, high-frequency8,9, and power electronics10 could provide substantial technological benefits, particularly in the development of GaN-based spintronic devices11",
+  "In fact apart from exploitation of the magnetoelectric effect in (Ga,Mn)N so far 12, the study of GaN-based DMS has been focused on optimizing growth conditions13 and magnetic properties14,15, while spin transport dynamics received comparatively less attention16\u201320",
+  "It is therefore timely and important to exploit spintronic and magnonic21 properties of this insulating ferromagnetic material in an aim to foster the development of all-nitride low power information processing and dissipationless communication means based on spin waves propagation",
+  "Of particular importance for nonvolatile magnetic data storage applications, the field of spin- orbit torques (SOTs) focuses on manipulating the magnetization in thin film heterostructures via electric currents, providing a promising way to manipulate magnetization at the nanoscale22",
+  "This technology relies on transferring spin angular momentum from a normal metal into a ferromagnet, using spin-charge interconversion effects to exert a torque on the magnetization22",
+  "Significant advancements in SOT have catalyzed the development of non-volatile memory devices23,24",
+  "While material research with high spin-orbit coupling25 or orbital angular momentum effects26 addresses spin current generation, transport issues are managed 2 by identifying materials with high interface spin transparency, indicated by substantial spin mixing conductance values (G )",
+  "Our results provide valuable insights for the development of devices that incorporate GaN-based DMS for advanced spintronic applications",
+  "The n (\ud835\udefd) component observed in our results likely results from OOP component due to misalignment of the Hall bar with respect to the in- plane field",
+  "The coercive 0 field (H ) values from SQUID magnetometry for similar samples suggest an increase of the c average magnetization above 200 mT, aligning with the clear SMR signal observed at 360 mT in our results (Fig"
+]
