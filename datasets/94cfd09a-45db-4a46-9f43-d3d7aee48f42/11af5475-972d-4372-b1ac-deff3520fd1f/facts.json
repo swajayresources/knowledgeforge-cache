@@ -1,0 +1,18 @@
+[
+  "We present the NV-1, a new low-power tion and communication approach facilitated the two teams\u2019 ASIC AI processor that greatly accelerates parallel processing (\u223c10X) with dramatic reduction in energy consumption (> joint optimization of the final design for size, performance, 100X),viamanyparallelcombinedprocessor-memoryunits,i",
+  "The resulting nology, the initial low-cost prototype presented here used deviceiscurrentlybeingusedinafieldededgesensorapplication; additional proofs of principle are in progress demonstrating the 28nm TSMC manufacturing",
+  "neural network accelerator, memory, instruction set design The first prototype (NV-1) includes 3200 cores per chip with seamless I/O compatibility to increase array size via I",
+  "During testing, this chip achieved 447 GB/s The low-power, high-performance AI processor described per 0",
+  "25 W, thus demonstrating both high performance and a here,theNV-1,isajointdevelopmenteffortbetweenNon-Von radical power-use improvement over other comparable hard- LLC and Green Mountain Semiconductor",
+  "Thechipalso tecture designs originated from a novel machine \u201dinstruction has been fielded in real-world settings, performing real-time set\u201doffundamentalparalleloperationsandsoftware,thatwere processingofachemicalsensor,withapowerbudgetof<10 initially derived (at Dartmouth College\u2019s Brain Engineering mW, providing a direct initial demonstration that the chip is Laboratory) from the operation and arrangement of circuitry operational and applications-ready",
+  "in the brain [1]",
+  "Throughout the hardware that is available to them [2]",
+  "Current hardware for neural network solutions still use GPUs for training [4]",
+  "However, the current solutions for generative AI are not scalable,withcurrentmodelstakingrackscontaininghundreds of chips to run [4]",
+  "Moreover, the power needs (and cooling needs) for current hardware typically entails very specific sit- ingforserverfarms,oftenspecificallyatsitesofhydroelectric dams and other resources [5]",
+  "that focuses specifically on the instructions necessary, instead The systems designed at Dartmouth and Non-Von [1] de- allows for vastly more efficient designs to be realized",
+  "Most rive from operations of extremely large numbers of simple current cores have the ability to run in a flexible manner parallel elements in complex arrangements (neurons in brain supporting more than a program may need [17], and although circuitry); these are intrinsically massively parallel (rather this gives a flexible processing architecture, it trades that than parallelized versions of inherently serial methods)",
+  "InNV-1weinsteadfocus intrinsically parallel algorithms are greatly sped up by ap- on a specific instruction set that is hugely accelerated, while propriate parallel hardware, but it is highly rare and unusual other portions of software can be picked up by a coprocessor",
+  "To facilitate this parallel development of [3]; this approach is now so widespread that it is almost software and hardware, a digital twin was created in the form forgotten that GPUs are indeed far from an ideal hardware of a C++ software executable hardware model",
+  "We show here that even this initial prototypeNV-1devicealreadydrasticallyoutperformscurrent technology in parallel computation tasks, both in performance and in power consumption"
+]
