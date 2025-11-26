@@ -1,0 +1,17 @@
+[
+  "/ NASA Technical Memorandum 107314 AIAA-96-4163 A General-Purpose Optimization Engine for Multi-Disciplinary Design Applications Surya N",
+  "Hopkins and Laszlo Berke Lewis Research Center Cleveland, Ohio Prepared for the Sixth Multidisciplinary Analysis and Optimization Symposium cosponsored by AIAA, NASA, and USAF Bellevue, Washington, September 4-6, 1996 National Aeronautics and Space Administration GENERALmPURPOSE OPTIMIZATION ENGINE FOR MULTIDISCIPLINARY DESIGN APPLICATIONS Surya N",
+  "Hopkins, and Lazlo Berke National Aeronautics and Space Administration Lewis Research Center Cleveland, Ohio 44135 Abstract Introduction A general purpose optimization tool for A multidisciplinary optimization engine, which multidisciplinary applications, which in the literature in the literature is known as COMETBOARDS, is is known as COMETBOARDS, is being developed being developed at NASA Lewis Research Center for at NASA Lewis Research Center",
+  "Representative of nozzle components of an air-breathing engine, analysis tools currently available in configuration design of subsonic and supersonic COMETBOARDS include, RPK/NASTRAN 1 for aircraft, mixed flow turbofan engines, wave rotor structural analysis, NASA Engine Performance topped engines, and so forth",
+  "This paper introduces Program (NEPP) 2 for air-breathing engine the COMETBOARDS design tool and its versatility, performance analysis, and Flight Optimization which is illustrated by citing examples from Systems (FLOPS) 3for aircraft performance analysis",
+  "\" 1 American Instituteof Aeronautics andAstronautics techniqueexploitsseveraolf its uniquestrengths, diagram are depicted in Fig",
+  "user has considerable flexibility in developing a COMETBOARDisSwritteninFortran77language cascade strategy, by selecting a number of andtestedinCrayandConvexcomputerasndinSGI optimizers (currently about one dozen different and Sun Unix workstations",
+  "Substructure optimization can use their cascading 4 strategies, and analysis either sequential or parallel computational platforms",
+  "The COMETBOARDS in COMETBOARDS is illustrated by considering the modular organization is like a test bed, and a user example of the support system of the long spacer has considerable flexibility such as (1) solving a structure of the International Space Station as shown problem by using available analyzers and optimizers in Fig",
+  "The support system, which for analysis is in the code, (2) adding analyzers through soft- idealized by shell elements, is divided into four coupling into COMETBOARDS and then solving segments and four substructures as depicted in Fig",
+  "problems, (3) checking out the performance of new Substructure (1) includes all shell elements within analyzers, (4) checking out the performance of a segments 3 and 4, substructure (2) includes all shell new optimizer utilizing the 40 or so problems elements within segments 4 and 1, substructure available in the COMETBOARDS solved-examples- (3) includes all shell elements within segments 1 test-bed; just to mention a few",
+  "Space does not and 2, and substructure (4) includes all shell permit the description of the other features and elements within segments 2 and 3",
+  "[5, 6, and 7]",
+  "elements in segment 4, which are common to both",
+  "Thus, each substructure has two COMETBOARDS provides for the solution of active design variables; namely, substructure difficult optimization problems by means of a (1) contains the third and fourth design variables, cascade strategy"
+]
