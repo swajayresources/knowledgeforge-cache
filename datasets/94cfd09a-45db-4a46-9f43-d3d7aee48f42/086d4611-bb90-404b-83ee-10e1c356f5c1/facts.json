@@ -1,0 +1,17 @@
+[
+  "Griffin t Applied Fluids Dynamic Analysis Branch NASA Marshall Space Flight Center Marshall Space Flight Center, Alabama, 35812, USA Frank Huber t Riverbend Design Services Palm Beach Gardens, Florida, 33418, USA Douglas L",
+  "Sondak _ Office of Information Technology Boston University Boston, MA, 02215, USA INTRODUCTION Modern high-work turbines can be compact, transonic, supersonic, counter-rotating, or use a dense drive gas",
+  "Copyright @2001 by the American Institute of Aeronautics and Astronautics, Inc",
+  "No copyright is asserted in the United States under Title 17, U",
+  "Main Engine (STME) fuel turbine, a high work, transonic design, was found to have an un- steady inter-row shock which reduced efficiency by 2 points and increased dynamic loading by 24 percent",
+  "[1], Garcia et al",
+  "[2] and Griffin and Dorney [3] are examples of the application of unsteady CFD to rocket turbine designs",
+  "In stages where the temperature can vary by 300 to 500\u00b0K, however, the assumption of constant fluid properties may lead to erroneous performance and durability predictions",
+  "GEOMETRY AND GRIDS Thesupersonicturbine configuration,typicalofthoseproposedforareusablelaunchvehicle, consistsof 21 vane airfoils and 52 rotor blades",
+  "In the current effort a 2-vane/5-rotor blade count approximation has been made",
+  "To keep the pitch-to-chord ratio constant, the vane airfoils were scaled by factor of 21/20 and the rotor blades were scaled by a factor of 52/50",
+  "The rotor tip clearance was set at a typical value of approximately 2",
+  "5% of the rotor height",
+  "Two simulations have been performed for the turbine, one with constant specific heats (Case 1) and one in which the specific heats vary as a function of temperature (Case 2)",
+  "The grid dimensions (number of passagesxixj xk) for the turbine simulations are presented in Table 1"
+]
