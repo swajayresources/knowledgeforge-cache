@@ -1,0 +1,18 @@
+[
+  "Thermal Noise Reduction and Absorption Optimisation via Multi-Material Coatings Jessica Steinlechner,1,2 Iain W Martin,1,\u2217 Jim Hough,1 Christoph Kru\u00a8ger,2 Sheila Rowan,1 and Roman Schnabel2,3 1SUPA, School of Physics and Astronomy, University of Glasgow, Glasgow, G12 8QQ, Scotland 2Institut fu\u00a8r Gravitationsphysik, Leibniz Universita\u00a8t Hannover and Max-Planck-Institut fu\u00a8r Gravitationsphysik (Albert-Einstein-Institut), Callinstr",
+  "38, 30167 Hannover, Germany 3Institut fu\u00a8r Laserphysik and Zentrum fu\u00a8r Optische Quantentechnologien, Universita\u00a8t Hamburg, Luruper Chaussee 149, 22761 Hamburg, Germany Futuregravitational wavedetectors (GWDs)suchas AdvancedLIGOupgradesand theEinstein Telescope areplannedtooperate atcryogenictemperaturesusingcrystalline silicon (cSi) test-mass mirrorsatanoperationwavelengthof1550nm",
+  "Thereductionintemperatureinprincipleprovidesa directreductionincoatingthermalnoise,butthepresentlyusedcoatingstackswhicharecomposed of silica (SiO2) and tantala (Ta2O5) show cryogenic loss peaks which results in less thermal noise improvement than might be expected",
+  "Due to low mechanical loss at low temperature amorphous silicon (aSi) is a very promising candidate material for dielectric mirror coatings and could replace Ta2O5",
+  "Unfortunately,suchaaSi/SiO2 coatingisnotsuitableforuseinGWDsduetohighoptical absorptioninaSicoatings",
+  "Inthismulti- material design the low absorbing Ta2O5 in the outermost coating layers significantly reduces the incidentlightpower,whileaSiisusedonlyinthelowerbilayerstomaintain lowopticalabsorption",
+  "Such a coating design would enable a reduction of Brownian thermal noise by 25%",
+  "We show experimentally that an optical absorption of only (5",
+  "4)ppm at 1550nm should be achievable",
+  "PACSnumbers: 42",
+  "INTRODUCTION A standard highly reflective (HR) quarter-wavelength coatingiscomposedofastackofalternatingmaterialsof Future gravitational wave detectors (GWDs) such as differing refractive indices, where each layer has an opti- Advanced LIGO upgrades and the low frequency (LF) cal thickness \u03b4 = n t = \u03bb/4 (where t is the geometric \u00d7 detector within the Einstein Telescope [1, 2] (ET) are thickness)forthewavelengthofinterest",
+  "Showing low mechanical coating required depends on the difference in refractive loss at low temperatures [3], crystalline silicon (cSi) is index between the materials used",
+  "plannedtobeusedatanoperationwavelengthof1550nm Presently, stacks of alternating layers of SiO and 2 tokeepopticalabsorptionlow[4]",
+  "120Kand20Karein- Ta O are used as highly reflective coatings for GWD 2 5 terestingoperationtemperaturesforcSiwithlowthermo- test-mass mirrors",
+  "aSi has a significantly higher refrac- elastic noise due to zero crossings of the thermal expan- tive index than Ta O (n = 3",
+  "IVA ture (RT) the loss for the multi-materialstackis slightly we present measurements of the optical absorption of a higherthanfortheSiO /Ta O stack,atlowertempera- SiO /Ta O coating stack at 1550nm for the first time, 2 2 5 2 2 5 tures due to the decreasingaSi lossthe loss ofthe multi- while in Subsec"
+]
