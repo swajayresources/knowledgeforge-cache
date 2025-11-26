@@ -1,0 +1,15 @@
+{
+  "paper_id": "6fd938d2-63bf-4313-b954-bb452c5d911f",
+  "title": "Fault Tolerant Thermal Control of Steam Turbine Shell Deflections",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6fd938d2-63bf-4313-b954-bb452c5d911f/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6fd938d2-63bf-4313-b954-bb452c5d911f/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6fd938d2-63bf-4313-b954-bb452c5d911f/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/6fd938d2-63bf-4313-b954-bb452c5d911f/keywords.json"
+  ]
+}
