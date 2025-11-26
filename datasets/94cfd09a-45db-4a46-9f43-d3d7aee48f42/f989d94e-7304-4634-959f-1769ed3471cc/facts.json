@@ -1,0 +1,17 @@
+[
+  "Wolf UniversityofCampinas,UNICAMP,Campinas,SP,13083-860,Brazil CarlosA",
+  "Junior\u00a7 \u00c9coleNationaleSup\u00e9rieured\u2019ArtsetM\u00e9tiers,ENSAM,Paris,75013,France Wall-resolvedlargeeddysimulationsareemployedtoinvestigatetheshock-boundarylayer interactions(SBLIs)inasupersonicturbinecascade",
+  "Introduction Supersonicfluidmachineryareappliedinhigh-speedpropulsionandpowergenerationsystemsduetotheirhigh powerdensity[1]",
+  "Typically,theshockwavemotionleadstostrong pressurefluctuationsthatcancompromisethesystem\u2019sstructuralintegrity[2\u20135]",
+  "Sch\u00fclein[6]usednon-intrusivetechniquestoperformheattransferandskin-frictionmeasurementsinthe impingementofanincidentobliqueshockwaveonaflatplatewithisothermalwallconditions",
+  "[7]investigatedexperimentallytheimpactofthewalltemperatureonashock-inducedboundarylayerseparation",
+  "[8]andVolpianietal",
+  "[9]carriedoutdirectnumericalsimulations(DNS)toinvestigatethewalltemperatureeffectson thephysicsofSBLIs",
+  "Theseinclude anadiabaticandacooledwalls,wherethewalltoinlettemperatureratioissetas\ud835\udc47 \ud835\udc64/\ud835\udc47 \u221e =0",
+  "1 3202 naJ 4 ]nyd-ulf",
+  "scisyhp[ 1v77510",
+  "1032:viXra II",
+  "Thespatialdiscretizationofthe governingequationsisperformedusingasixth-orderaccuratefinite-differencecompactscheme[10]implementedona staggeredgrid",
+  "IntheO-grid,thetimeintegration oftheequationsiscarriedoutbytheimplicitsecond-orderschemeofBeamandWarming[11]",
+  "Afourth-orderHermiteinterpolation scheme[12,13]isusedtoexchangeinformationbetweengridblocksinanoverlappingzone"
+]
