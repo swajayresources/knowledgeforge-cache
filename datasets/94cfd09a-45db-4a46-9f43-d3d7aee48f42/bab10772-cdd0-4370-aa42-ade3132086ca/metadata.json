@@ -1,0 +1,15 @@
+{
+  "paper_id": "bab10772-cdd0-4370-aa42-ade3132086ca",
+  "title": "Tests of NASA ceramic thermal barrier coating for gas-turbine engines",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bab10772-cdd0-4370-aa42-ade3132086ca/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bab10772-cdd0-4370-aa42-ade3132086ca/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bab10772-cdd0-4370-aa42-ade3132086ca/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bab10772-cdd0-4370-aa42-ade3132086ca/keywords.json"
+  ]
+}
