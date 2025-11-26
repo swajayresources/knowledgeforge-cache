@@ -1,0 +1,17 @@
+[
+  "ANISOTROPIC CONSTITUTIVE MODELING FOR NICKEL BASE SINGLE CRYSTAL SUPERALLOY RENE N4 AT 982 OC D",
+  "Their model was considered successful for predicting both the orientation dependence and tension/compression asymmetry for tensile and creep histories for single 0 crystal alloy Rene N4 at 1400 F",
+  "Comparison of the model predictions and the experimental data for single crystal superalloy Rene N4 at 1800\u00b0F are presented",
+  "MODEL DEVELOPMENT The application of the crystallographic approach to single crystal nickel base superalloys began with the work of Paslay et al[21, and lately by ShahL31 to the Y' phase of these alloys",
+  "The inelastic s l i p r a t e on each s l i p system was computed from a lccal inelastic constitutive equation that depends 28 9 on local resolved shear stress components i n each s l i p direction and local state variables",
+  "Due to different mechanical responses exhibited by octahedral and cube slip systems[4,5], two separate flow equations were used to compute the inelastic strain rate on each of the two s l i p systems",
+  "This was achieved by incorporating the llcore width effect\" proposed by Lall, Chin and Pope[6] where stress- aid ed Shoc k ly partials and thermal1 y-ai ded cross-sl i p mechani sms were used to explain the tension/compression asymmetry",
+  "This model was considered successful for predicting both the orientation dependence and tension/compression asymmetry for tensile and creep histories for single crystal alloy Rene N 4 at 1400'F; however, properties including fatigue and anelastic recovery were not satisfactorily modeled",
+  "The motivation to incorporate a back stress state variable i n the current model was due to the fact that back stress/drag stress representation has several advantages over a drag stress model including the ability t o accurately predict fatigue loops for polycrystalline materials[7,81",
+  "For example, Milligan and Antolovich[g] showed i n their study of deformation behavior of single crystal superalloy PWA 1480 that when dislocations emerged from precipitates those portions of the dislocations within the precipitate are constricted due to high anti-phase boundary energy(APBE1, while those portions of the same dislocations which had exited the precipitates are split due to elastic repulsion",
+  "More generally, it is suspected that dislocation interaction and/or rearrangement w i l l also result in creation of back stress i n the single crystalsClO], except the effect may be insignificant compared to 290 the pile-up mechanism",
+  "A typical drag stress/back stress modelC5,61 for polycrystalline metals has the functional form as where Z is the drag stress and Qij the back stress",
+  "The results of these tests are shown i n Figure 1 and Figure 2",
+  "Figure la and Ib shows double tensile tests on specimens in [I001 and [111] orientation, respectively, with a 120 second hold time",
+  "In both tests, samples were first loaded to 1"
+]
