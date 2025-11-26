@@ -1,0 +1,1 @@
+Exploring the fitness landscape of a realistic turbofan rotor blade optimization Jakub Kmec1 and Sebastian Schmitt2 1 Palacky´ University, Olomouc, Czech Republic jakub kmec01@upol cz 2 Honda Research Institute Europe GmbH, Offenbach, Germany sebastian schmitt@honda-ri de Abstract
