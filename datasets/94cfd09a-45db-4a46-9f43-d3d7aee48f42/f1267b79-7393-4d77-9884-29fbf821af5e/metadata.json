@@ -1,0 +1,15 @@
+{
+  "paper_id": "f1267b79-7393-4d77-9884-29fbf821af5e",
+  "title": "PCA-Guided Autoencoding for Structured Dimensionality Reduction in Active Infrared Thermography",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/f1267b79-7393-4d77-9884-29fbf821af5e/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/f1267b79-7393-4d77-9884-29fbf821af5e/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/f1267b79-7393-4d77-9884-29fbf821af5e/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/f1267b79-7393-4d77-9884-29fbf821af5e/keywords.json"
+  ]
+}
