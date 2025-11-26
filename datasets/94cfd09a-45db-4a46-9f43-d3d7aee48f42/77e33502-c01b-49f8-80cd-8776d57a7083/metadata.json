@@ -1,0 +1,15 @@
+{
+  "paper_id": "77e33502-c01b-49f8-80cd-8776d57a7083",
+  "title": "Automatic Borescope Damage Assessments for Gas Turbine Blades via Deep Learning",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/77e33502-c01b-49f8-80cd-8776d57a7083/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/77e33502-c01b-49f8-80cd-8776d57a7083/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/77e33502-c01b-49f8-80cd-8776d57a7083/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/77e33502-c01b-49f8-80cd-8776d57a7083/keywords.json"
+  ]
+}
