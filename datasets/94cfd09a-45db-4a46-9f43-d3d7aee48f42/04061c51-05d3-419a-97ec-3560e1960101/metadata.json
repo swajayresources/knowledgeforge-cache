@@ -1,0 +1,15 @@
+{
+  "paper_id": "04061c51-05d3-419a-97ec-3560e1960101",
+  "title": "Computational fluid dynamics analysis in support of the simplex turbopump design",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/04061c51-05d3-419a-97ec-3560e1960101/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/04061c51-05d3-419a-97ec-3560e1960101/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/04061c51-05d3-419a-97ec-3560e1960101/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/04061c51-05d3-419a-97ec-3560e1960101/keywords.json"
+  ]
+}
