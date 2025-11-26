@@ -1,0 +1,21 @@
+[
+  "Influence of morphological instability on grain boundary trajectory during directional solidification Supriyo Ghosha,b, Alain Karmab, Mathis Plappa, Silv`ere Akamatsuc, Sabine Bottin-Rousseauc, Gabriel Faivrec aLaboratoire de Physique de la mati`ere condens\u00b4ee, Ecole Polytechnique, CNRS, 91128 Palaiseau, France bDepartment of Physics and Center for Interdisciplinary Research on Complex Systems, Northeastern University, Boston, MA 02115, USA cSorbonne Universit\u00b4e, CNRS UMR 7588, Institut des NanoSciences de Paris, case courrier 840, 4 place Jussieu, 75252, Paris Cedex 05, France Abstract The interplay between the diffusion-controlled dynamics of a solidification front and the trajectory of a grain boundary groove at the solid-liquid inter- face is studied by means of thin-sample directional solidification experiments of a transparent alloy, and by numerical simulations with the phase-field method in two dimensions",
+  "Keywords: Solidification, Morphological stability, Grain boundaries, Phase-field simultions, In situ experiments Email address: gsupriyo2004@gmail",
+  "com (Supriyo Ghosh) Preprint submitted to Elsevier January 23, 2019 9102 naJ 02 ]ics-lrtm",
+  "tam-dnoc[ 1v50760",
+  "1091:viXra 1",
+  "During the growth of a single solid phase, for example in dilute binary alloys, many different crystallites of the same phase, but with different orientations com- pete at the growth front and are separated by grain boundaries that intersect the solid-liquid interface [1]",
+  "The as-cast grain structure and the distribution of crystal orientations in the growing solid material are therefore determined by the coupled dynamics of solid-liquid interfaces and grain boundaries close to the growth front [2, 3, 4, 5]",
+  "[6, 7] and references therein)",
+  "far behind the dendrite tips) and have a negligible influence on grain selection, which is predomi- nantly controlled by the growth competition of primary, secondary, and ter- tiary dendrite arms from neighboring grains at the leading edge of this zone [6, 7]",
+  "This regime has been recently investigated analytically under the assump- tion that the departure of the interface from planarity is small [8], but the predictions of this theory still await validation, especially in view of the fact that departure from planarity becomes significant even close to the onset of morphological instability",
+  "The crystallization front is morphologically stable for velocities below the thresh- old velocity V of the Mullins-Sekerka instability [9]: it remains planar and MS perpendicular to the thermal-gradient axis",
+  "For V \u2265 V , it undergoes a MS 2 bifurcation to cellular patterns",
+  "MS This has been established theoretically for a fixed, isotropic grain boundary [2]",
+  "[10] and refer- ences therein)",
+  "[8] relating to the role of 3 Figure 1: A high-angle grain boundary (on the left) and a subboundary (on the right) intersectthesolid-liquidinterfaceatequilibrium(V =0)inathinsampleofatransparent CBr -1",
+  "In this paper, we present results from in situ solidification experiments and phase-field simulations that confirm the existence of a transition in sub- boundary behavior, from interfacial-anisotropy-driven growth at low velocity to growth along the temperature gradient at high velocities",
+  "We show two snapshot pictures of such simulations for \u03b8 = 0\u25e6 (Fig",
+  "We demonstrate here that there exists two very distinct regimes of subbounday growth, in qualitative agreement with the theoretical predictions of Ref",
+  "All of our results confirm the main predictions of the recent theoretical analysis presented in Ref"
+]
