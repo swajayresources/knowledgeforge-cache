@@ -1,0 +1,17 @@
+[
+  "NASA/TMm1998-208404 98-GT-367 Mach Number Effects on Turbine Blade Transition Length Prediction R",
+  "E Simon Lewis Research Center, Cleveland, Ohio Prepared for the Turbo Expo '98 sponsored by the American Society of Mechanical Engineers Stockholm, Sweden, June 2-5,1998 National Aeronautics and Space Administration Lewis Research Center June 1998 _iii_ i_i:i Available from NASA Center for Aerospace Information National Technical Information Service 7121 Standard Drive 5287 Port Royal Road Hanover, MD 21076 Springfield, VA 22100 Price Code: A03 Price Code: A03 MACH NUMBER EFFECTS ON TURBINE BLADE TRANSITION LENGTH PREDICTION R",
+  "Boyle NASA Lewis Research Center Cleveland, OH 44135 F",
+  ") Cleveland, OH 44135 ABSTRACT St Stanton number 8 Surface distance The effect of a Mach number correction on a model T Temperature for predicting the length of transition was investigated",
+  "Recent data and analysis showed that the 7 Intermittency spot production rate is affected by Mach number",
+  "The P Density degree of agreement between analysis and data for tur- 0 Momentum thickness bine blade heat transfer without film cooling is strongly Pressure gradient parameter, (O2/v)dU/ds dependent of accurately predicting the length of tran- A Dimensionless spot geometry parameter sition",
+  "The modified models were incor- d Leading edge diameter GAS Molecular porated into the two-dimensional Navier-Stokes code, LAM Laminar RVCQ3D",
+  "ST Start of transition Nomenclature T Total surface distance TURB Turbulent A + Near wall damping coefficient IN Gas inlet C_ Ratio of compressible-to-incompressible 0 Start of transition spot production rate 0",
+  "1 Value at incompressible condition c True chord 2 Blade row exit Cx Axial chord 99 99% Intermittency / Frequency h Heat transfer coefficient hR Normalizing heat transfer coefficient INTRODUCTION I Incidence angler The accuracy of predictions for turbine blade aero- K Acceleration parameter dynamics and heat transfer is affected by the accuracy N Nondimensional spot formation rate in predicting the region of transitioning flows",
+  "Turbine blade (1991), there is an extensive amount of experimental heat transfer data can dramatically show transition be- data showing that the start and length of transition havior, and data are available at high freestream Mach arefunctions of Reynolds number, turbulence intensity, numbers",
+  "Much of the recent theoretical analysis for the The work presented herein consists of a discussion length of transition utilizes the spot production concept of how Mach number effects were incorporated into the of Emmons (1951) for intermittency",
+  "Narasimha (1957) transition length model",
+  "The model proposed by Chen and Thyson (1971) Comparisons are made with data for both stator and ro- accounted for variable freestream velocity on the length tor geometries for a range of turbulence intensities and of transition by an integral relationship in the expo- Reynolds numbers",
+  "Results are shown for two different transi- (1995), Gostelow et al",
+  "(1994), and Frazer et al"
+]
