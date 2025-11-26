@@ -1,0 +1,17 @@
+[
+  "7th International Symposium on Multiphase Flow, Heat Mass Transfer and Energy Conversion Xi\u2019an, China, 26-30 October 2012 Paper No",
+  "FG-10 Heat and Mass Transfer during Chemical Vapor Deposition on the Particle Surface Subjected to Nanosecond Laser Heating Quan Peng1, Yuwen Zhang1,2 , Yaling He1, Yijin Mao2 1: Key Laboratory of Thermal Fluid Science and Engineering of MOE, School of Energy and Power Engineering, Xi\u2019an Jiaotong University, Xi\u2019an, China, winnie_0805_pooh@163",
+  "He) 2: Department of Mechanical and Aerospace Engineering, University of Missouri, Columbia, USA, zhangyu@missouri",
+  "Zhang), ymk89@mail",
+  "Keywords: Laser Chemical Vapor Infiltration, Numerical Simulation, Heat and Mass Transfer, Thermal Modeling, Integral Approximate Method 1",
+  "The most recent LCVD/LCVI advances with Laser Chemical Vapor Deposition (LCVD) as reported in various journals and proceedings or Laser Chemical Vapor Infiltration (LCVI) is are well documented by Zhang (2010)",
+  "an emerging manufacturing technology that can While the LCVD technique uses precursors directly produce three dimensional (3-D) parts to directly create free-standing part, the LCVI, from CAD data (Conley and Marcus, 1997)",
+  ", 1993), SFF techniques, such as Selective Laser Sinter- can build functional structure via deposition of ing (SLS)",
+  "During the LCVD/LCVI process, a laser beam locally LCVI process, a thin powder layer (100-250 heats the substrate to create a hot spot where a \u03bcm thick) is scanned by laser to form the two- thermally activated chemical reaction is in- dimensional slice to an underlying solid piece, duced; the resulting product, which is a thin which consists of a series of stacked two- film of material, deposits on the substrate due dimensional slices",
+  "During these two processes, lines posited materials (Birmingham and Marcus, can be formed by multiple laser scans and are - 1 - 7th International Symposium on Multiphase Flow, Heat Mass Transfer and Energy Conversion Xi\u2019an, China, 26-30 October 2012 Paper No",
+  "FG-10 1994)",
+  "(2001) introduced a finite element deposition to thin powder layers provide di- model with the same method and the laser mensional control in the direction of growth, power was modified from one time step to the and (c) it is possible to tailor local chemistry next to ensure that the powder bed temperature and microstructures (Jakubenas et al",
+  "(2000; 2001) were improved later through conducted and various applications of this new incorporating a densification model by infiltra- technique have been discovered",
+  "tion based on experimental growth rate (Dai et (1998) fabricated in situ thermocouples into al",
+  "(2000; 2001; 2002) tion of LCVI are extremely limited at this time"
+]
