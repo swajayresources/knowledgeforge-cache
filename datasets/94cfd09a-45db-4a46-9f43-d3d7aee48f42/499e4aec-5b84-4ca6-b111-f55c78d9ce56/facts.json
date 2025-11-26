@@ -1,0 +1,18 @@
+[
+  "Parametric Design and Adaptive Sizing of Lattice Structures for 3D Additive Manufacturing Jorge Manuel Mercado \u2013 Colmenero1, 2 [0000-0001-8823-4896] Daniel D\u00edaz \u2013 Perete 1 [0000- 0002-2874-703X] Miguel \u00c1ngel Rubio\u2013 Paramio1, 2 [0000-0003-1079-2323] and Cristina Mart\u00edn \u2013 Do\u00f1ate1, 2 [0000-0002-3306-9456] 1 Departament of Engineering Graphics Design and Projects, Campus Las Lagunillas s/n",
+  "A3 Building, Ja\u00e9n 23071, Spain 2 INGDISIG Ja\u00e9n Research Group, Campus Las Lagunillas s/n",
+  "A3 Building, Ja\u00e9n 23071, Spain jmercado@ujaen",
+  "The present research is developed into the realm of industrial design engineering and additive manufacturing by introducing a parametric design model and adaptive mechanical analysis for a new lattice structure, with a focus on 3D additive manufacturing of complex parts",
+  "2 1 Introduction Additive manufacturing technologies have witnessed a remarkable ascent in recent years, revolutionizing traditional manufacturing processes across various engineering areas",
+  "This transformative trajectory has been propelled by advancements in materials science, computational design, and manufacturing techniques, positioning additive manufacturing as a cornerstone technology with a wide versatility and applicability on each branch of engineering [1]",
+  "While this study focuses on MEX, future research should also explore other additive manufacturing techniques, such as material jetting, binder jetting, or powder bed fusion, which may offer better precision for such complex geometries [2]",
+  "MEX technology, commonly known as FDM (Fused Deposition Modeling) or FFF (Fused Filament Fabrication), offers a cost-effective and accessible means to translate digital designs into physical objects with high precision and fidelity [3-7]",
+  "5D lattice structures are relatively easy to manufacture and are often incorporated into slicing software, more complex 3D beam, TPMS, and stochastic lattice structures present challenges for MEX due to issues like retraction, beam deflection, and resolution limitations [8, 9]",
+  "In the present manuscript, we focus on exploring the manufacturability of a pyramidal lattice structure using MEX 3D additive manufacturing technology, recognizing its potential limitations",
+  "Although references [10-14] involve lattice structures produced by other AM (Additive Manu- facturing) technologies, they provide a useful comparison for understanding the broader context of lattice structure fabrication and mechanical properties",
+  "Among these, the diamond, gyroid, and octet lattice topologies have garnered considerable attention for their exceptional mechanical properties and geometric efficiency [15-17]",
+  "3 In summary, the methodology described in the present manuscript aims to explore the design, optimization, and application of lattice structures within the realm of 3D additive manufacturing",
+  "2 Lattice parameterized geometric design This section describes the geometric characteristics and parameterization process of the lattice-type structure proposed in the present manuscript",
+  "Figure 1 shows the set of designed lattice-type structures as well as the geometric definition of their lattice unit cells",
+  "(2020) highlight the importance of lattice topologies in optimizing strength and energy absorption, par- ticularly in low-density structures, which is consistent with our results in terms of the proposed lattice\u2019s superior material efficiency [19, 20]"
+]
