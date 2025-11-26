@@ -1,0 +1,23 @@
+[
+  "This draft was prepared using the LaTeX style file belonging to the Journal of Fluid Mechanics 1 Modelling fluid deformable surfaces with an emphasis on biological interfaces Alejandro Torres-S\u00b4anchez1, Daniel Mill\u00b4an1,2 and Marino Arroyo1,3\u2020 1LaCa`N, Universitat Polit`ecnica de Catalunya-BarcelonaTech, 08034 Barcelona, Spain 2CONICET & Facultad de Ciencias Aplicadas a la Industria, Universidad Nacional de Cuyo, San Rafael, Argentina 3Institute for Bioengineering of Catalonia, The Barcelona Institute of Science and Technology, 08028 Barcelona, Spain (Received xx; revised xx; accepted xx) Fluiddeformablesurfacesareubiquitousincellandtissuebiology,includinglipidbilayers, the actomyosin cortex, or epithelial cell sheets",
+  "Key words:Fluidinterfaces,arbitrarilyLagrangian-Eulerian,subdivisionsurfaces,lipid membranes, actin cortex 1",
+  "From a mechanical viewpoint, lipid bilayers are remarkable soft materials exhibiting a solid-fluid duality: while they store elastic energy when stretched or bent, as solid shells (Lipowsky 1991), they cannot store elastic energy \u2020 Email address for correspondence: marino",
+  "edu 8102 ceD 6 ]nyd-ulf",
+  "scisyhp[ 1v73820",
+  "2181:viXra 2 A",
+  "Thissolid-fluiddualityistightlyintertwinedwithmembrane geometry: shape changes induce lipid flows that bring material from one part of the membrane to another (Evans & Yeung 1994), whereas flows in the presence of curvature generate out-of-plane forces, which further curve the membrane (Rahimi et al",
+  "2012;Lieberet al",
+  "2015),membranetrafficking (Spronget al",
+  "2001;Rustomet al",
+  "2004),ortoenablethemechano-adaptationofcellsto stress(Staykovaet al",
+  "2013;Kosmalskaet al",
+  "2002), phase separation (Bacia et al",
+  "2005), budding and fission (Staneva et al",
+  "2004; Zhou & Yan 2005), or pearling (Khalifat et al",
+  "Here, we propose a first order variational time-integrator for Onsager\u2019s principle that inherits that F is a Lyapunov functional of the dynamics, see equation (3",
+  "Here, we present, to ourbestknowledge,thefirstnumericalresultsofafullythree-dimensionalandnonlinear model connecting cortical flows and cell shape dynamics during locomotion",
+  "We show how Onsager\u2019s variational formalism provides a direct and transparent tool to derive complex governing equations",
+  "Finite element formulation of Onsager\u2019s principle Here, we show the application of our methodology, based on the variational time- integrator described in section 4",
+  "12I-IV we show the velocity field, which has been split for visualization purposes into its normal (colormap) and tangential (arrows) components",
+  "We note, however, that our results are largely independent of friction c because we do not consider a hydrodynamical resistive force in the relatively unconfined situation of cell motion between parallel plates"
+]
