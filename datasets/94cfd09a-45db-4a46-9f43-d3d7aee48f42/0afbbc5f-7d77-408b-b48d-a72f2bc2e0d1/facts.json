@@ -1,0 +1,21 @@
+[
+  "An aerodynamic measurement system to improve the efficiency of wind turbine rotor blades Julien Depardaya, Yuriy Marikovskiya,b, Imad Abdallahb, Sarah Barbera aInstitute for Energy Technology, OST - Eastern Switzerland University of Applied Sciences, Rapperswil, 8645, Switzerland bChair of Structural Mechanics and Monitoring, Swiss Federal Institute of Technology (ETH Zurich), Zurich, 8093, Switzerland Abstract The wind energy sector is growing rapidly with the installation of wind tur- bines with long, slender blades in a diverse range of locations",
+  "In this paper, we demonstrate the value of Aerosense in understanding the aerodynamic behaviour of rotor blades, using a 7kW wind turbine operating in the field",
+  "PreprintsubmittedtoJournalofWindEngineeringandIndustrialAerodynamicsMarch13,2025 5202 raM 11 ]nyd-ulf",
+  "scisyhp[ 1v06880",
+  "3052:viXra 1",
+  "Introduction Wind energy is helping to reduce greenhouse gas emissions in the energy sector and is expected to continue to play a significant role in the future energy mix [1]",
+  "Wind turbines are increasing in efficiency and size, with ro- tor diameters now reaching up to 200m, and the rotor blades are becoming more flexible [2]",
+  "These large and slender rotor blades are subject to a wide range of spatial and turbulent scales in the wind, resulting in complex aero- dynamic load fluctuations [3, 4]",
+  "Field measurements on rotating blades It has previously been shown that aerodynamic measurements in the field can improve the efficiency and the lifetime of wind turbines [5]",
+  "To circumvent these issues, op- tical measurements installed on the ground that require no installation in the blade have been developed to measure the inflow conditions [6] or the dynamic responses of the blade [7]",
+  "In order to measure local aerodynamic loading, the National Renewable Energy Laboratory (NREL) in the USA carried out extensive measurements on rotating wind turbine blades in the field in the 1990s [8, 9]",
+  "For example, they instrumented one blade with 60 to 64 pressure taps at nine different 2 locations along the span to measure the local pressure distribution [10]",
+  "Similarly, the Energy Research Centre of the Netherlands (ECN) conducted experi- mental campaigns on a 300kW wind turbine in the 1990s",
+  "They recently published a dataset of the acquired aerodynamic force and angles of attack at six different locations along the span of the blade [11]",
+  "A group of universi- ties have also conducted aerodynamic measurements during the Technology Collaboration Program (TCP) under the auspices of International Energy Agency (IEA) [12, 13]",
+  "In the next section 4, we present a real application of these corrections on the 7kW wind turbine",
+  "Phase-average results In the previous section, we showed that the incoming wind speed varies as function of the azimuth position of the blade and yields a distinct frequency peak",
+  "After a thorough calibration and correc- tion process, we demonstrate, for example, that the pressure distribution can vary significantly during one rotation of the blade, even under stable wind conditions",
+  "We demonstrated that the absolute pressure sensors can bring valuable time-resolved pressure distribution on a rotating blade after a thorough cali- bration and correction procedure, allowing a fine analysis of the aerodynamic loadingonarotorblade"
+]
