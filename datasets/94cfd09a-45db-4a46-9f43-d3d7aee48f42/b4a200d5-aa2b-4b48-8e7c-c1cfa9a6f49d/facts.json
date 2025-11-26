@@ -1,0 +1,21 @@
+[
+  "Theempiricalstudyshowsthat the proposed model outperforms other state-of-the-art time Figure 1: Using WaveletAE to detect ice condition by series anomaly detection methods for real-world blade icing analyzing multivariate time series signals collected by detection",
+  "1 Introduction According to the statistics from wind farms built by Worldwide, nearly a billion people lack access to elec- GoldwindInc1,thereareupto25%annualenergypro- tricity, and around 3 billion people rely on dirty fuels, duction losses due to blade icing",
+  "Toutilizewindpower,wind ous problems, such as measurement errors, overproduc- turbines are applied to capture kinetic energy from the tion, mechanicalfailures, andelectricalfailures[20]",
+  "the fastest-growing energy sources in the world [7]",
+  "Various techniques, such as damping of ultrasonic waves [15], measurementoftheresonancefrequency[2],thermalin- \u2217RiceUniversity,{by8,cl67}@rice",
+  "1Goldwind Inc is the largest wind turbine manufacturer in \u00a7UniversityofIllinoisatChicago,PhilipS",
+  "Yuisalsowiththe China,andthethirdlargestintheworldof2018",
+  "installedatotalcapacityof41GWwindturbinesinover20major \u00b6Goldwind",
+  "countriesaroundtheworld[1]",
+  "Copyright(cid:13)c 2020bySIAM Unauthorizedreproductionofthisarticleisprohibited 9102 tcO 01 ]GL",
+  "sc[ 2v52650",
+  "2091:viXra frared radiometry [19], optical measurement techniques complex, storing the information in the hidden states",
+  "[21],ultrasonicguideswaves[18]andetc",
+  "Sym- theicesensorsmayprovideinaccurateestimatesoficing metrically,inthedecodingphase,thefinalhiddenstates risks for wind turbines due to the internal unreliability in each scale will be initialized by a mapping of the [20]",
+  "Figure 1 illustrates the workflow of and supervised settings",
+  "In this work, we propose a wavelet enhanced autoencoder model (WaveletAE) to iden- tify wind turbine dysfunction by analyzing the multivariate timeseriesmonitoredbytheSCADAsystem",
+  "The main contribu- tion and avoid the mechanical change of the turbine, in tions of this work are listed below: this work, we propose a data-driven approach to ana- \u2022 We propose WaveletAE, a generative autoencoder lyze the signals from the standard pre-installed sensors architecture that includes discrete wavelet trans- in the wind turbine in an attempt to design a deploy- form to encode the multi-scale decomposition in- able model for blade icing detection",
+  "0 1 N\u22121 translation (indexed by k) in each scale level (indexed To address the above challenges, we propose byj orj)areprojectionsofthesignalontoeachofthe 0 WaveletAE, a wavelet enhanced autoencoder model",
+  "Anothergeneralapproachforwindturbineicingde- 6 Conclusion tection is to design physical models by inferring ice ac- We present WaveletAE, a novel autoencoder architec- cretion from power output signals, however, such ap- turetoresolvethedifficultiesinmonitoringmultivariate proaches are usually validated by some software simu- signalsforwindturbine\u2019sbladeicingdetection"
+]
