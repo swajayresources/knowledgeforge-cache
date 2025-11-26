@@ -1,0 +1,17 @@
+[
+  "Bayesian modelling of the emission spectrum of the JET Li-BES system Sehyun Kwak,1,a) J",
+  "Svensson,2,b) M",
+  "Ghim,1,c) and JET Contributorsd) (EUROfusion Consortium, JET, Culham Science Centre, Abingdon, OX14 3DB, UK) 1)Department of Nuclear and Quantum Engineering, KAIST, Daejeon 34141, Korea 2)Max-Planck-Institut fu\u00a8r Plasmaphysik, Teilinstitut Greifswald, D-17491 Greifswald, Germany 3)Euratom/CCFE Association, Culham Science Centre, Abingdon, OX14 3DB, UK (Dated: 23 August 2018) ABayesianmodeloftheemissionspectrumoftheJETlithiumbeamhasbeendevelopedtoinfertheintensity of the Li I (2p-2s) line radiation and associated uncertainties",
+  "Bayesian (Li-BES)iswidelyusedtomeasureedgeelectrondensity probability theory is used to infer the intensity of the Li profiles in various machines such as TEXTOR,1,2 AS- line, Bremsstrahlung background, and instrumental off- DEX Upgrade3 and JET",
+  "4\u20136 When the neutral lithium set with associated uncertainties",
+  "III, to improve spectral fitting also analytically by a multi-state model,1,7 which describes for other systems",
+  "Asummary Li-BES data are obtained via a fitting procedure5 with is provided in Sec",
+  "SPECTRAL MODELLING background (three parameters) and a Gaussian function for lithium line radiation with its width, position and TheJETLi-BESsystemconsistsof26spatialchannels intensity (three parameters)",
+  "along the neutral lithium beam, with a typical energy of In this paper we show that improved intensity pro- 55keVverticallypenetratingintotheplasmaasshown \u223c in Fig",
+  "The 26 line of sights are not perpendicular to thebeamdirection,causingDopplershifts ofthelithium beam emission",
+  "As each line of sight has a different an- a)slayer313@kaist",
+  ",Proceedingsofthe25th calibrate the spatial positions of the 26 channels",
+  "The IAEAFusionEnergyConference2014, SaintPetersburg,Russia spectrometer and charge coupled device (CCD) camera 5102 tcO 5 ]hp-msalp",
+  "scisyhp[ 1v98110",
+  "0151:viXra 2 III"
+]
