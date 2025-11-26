@@ -1,0 +1,18 @@
+[
+  "Introduction Having studied the last two- decades of literature on the nonlinear systems, we perceive that their global stability has highly grasped the researchers' attention [1, 2, 3]",
+  "In this regard, a lot of significant systematic methods have been introduced to extend the attraction regions [1, 3]",
+  "To this end, various methods have been developed for different nonlinear system classes, and correspondingly their stability has been analysed [1, 3]",
+  "The stability analysis, based on equilibrium state, has been embarked as early as 1644 [4]",
+  "The stability theory of Lyapunov is one of the highlighted stability analysis methods, extended by the great numbers of researchers for the various classes of the nonlinear systems [5, 6, 7]",
+  "One of the eminent results of this theory is the Jacobian conjecture theory which has been established and investigated in only two dimensional systems with the aim of finding auxiliary boundary value problem to ensure the global asymptotic stability [8]",
+  "This theory states that x=0 is an asymptotic stable equilibrium point for a two-dimensional system of ordinary differential equations if the trace of the Jacobian matrix is negative and its determinant is positive, which implies having negative real-part eigenvalues and system stability",
+  "In this regard, Orbital stability states [9] that if there is a close set of p-periodic solutions for an ordinary autonomous system in which any perturbation near the equilibrium in the p-periodic solution orbit, stays on that neighbourhood; therefore, p-periodic solution trajectory, \ud835\udf11 (\ud835\udc65 )), is \ud835\udc61 0 said to be orbitally stable",
+  "This theory expresses that for an autonomous system, if Jacobian Matrix (J(x=x*=0)) has at least one positive eigenvalue, then x* =0 is unstable [4], which implies non-positive eigenvalue is the essential, not sufficient, condition for stability analysis of a system",
+  "Inspired by both the orbital and Jacobian Conjecture stability concepts, this paper proposes a new stability analysis approach for a spatial class of nonlinear systems, with one feasible equilibrium point [10]",
+  "Hartman\u2013Grobman theorem and its related book [11] can qualify and confirm our claim for global stability for simple nonlinear system",
+  "Moreover, Popov theorem [12] is very powerful theorem for proving our claim in this paper",
+  "The result indicates the suggested solution brings about the less conservative global stability condition for the system in comparison to the relevant studies [12, 13]",
+  "To this end, consider an autonomous system as follow: \ud835\udc65\u0307 = \ud835\udc53(\ud835\udc65) , \ud835\udc65(\ud835\udc61 ) = \ud835\udc65 \u2208 \ud835\udc45\ud835\udc5b (1) 0 0 The Jacobian matrix is calculated as below: \ud835\udf15\ud835\udc53(\ud835\udc65) \ud835\udf15\ud835\udc53(\ud835\udc65) \ud835\udf15\ud835\udc53(\ud835\udc65) \ud835\udc3d(\ud835\udc65) = = [ \u2026 ] (2) \ud835\udf15\ud835\udc65 \ud835\udf15\ud835\udc651 \ud835\udf15\ud835\udc65\ud835\udc5b Eigenvalues of the J(x) are calculated at the equilibrium point",
+  "det(\ud835\udf06\ud835\udc3c \u2212\ud835\udc3d) = 0 ,\ud835\udc5f\ud835\udc5c\ud835\udc5c\ud835\udc61\ud835\udc60: \ud835\udf06 ,\ud835\udf06 ,\u2026,\ud835\udf06 (3) \ud835\udc5b\u2217\ud835\udc5b 1 2 \ud835\udc5b Where det(",
+  "In this regard, we propose a new analysis method that utilizes the Jacobian matrix concept, integrating with the characteristics of the negative eigenvalues to analyze the global stability of the nonlinear systems with only one equilibrium point"
+]
