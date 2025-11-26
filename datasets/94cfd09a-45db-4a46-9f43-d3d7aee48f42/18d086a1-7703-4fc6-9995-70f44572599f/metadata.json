@@ -1,0 +1,15 @@
+{
+  "paper_id": "18d086a1-7703-4fc6-9995-70f44572599f",
+  "title": "Surface transfer coefficients estimation for heat conduction problem using the Bayesian framework",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/18d086a1-7703-4fc6-9995-70f44572599f/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/18d086a1-7703-4fc6-9995-70f44572599f/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/18d086a1-7703-4fc6-9995-70f44572599f/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/18d086a1-7703-4fc6-9995-70f44572599f/keywords.json"
+  ]
+}
