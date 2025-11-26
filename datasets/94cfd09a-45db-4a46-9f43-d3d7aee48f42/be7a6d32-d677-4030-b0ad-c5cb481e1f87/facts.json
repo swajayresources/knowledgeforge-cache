@@ -1,0 +1,17 @@
+[
+  "NASA Aeronautics Research Institute Real-Time Closed Loop Modulated Turbine Cooling PI: Vikram Shyam RTT Dennis Culley RHC Jeffrey Eldridge RHI Scott Jones RTM Mark Woike RHI Michael Cuy RXD NASA Aeronautics Research Mission Directorate (ARMD) 2014 Seedling Technical Seminar February 19\u201327, 2014 NASA Aeronautics Programs NASA Aeronautics Research Institute Integrated Systems Airspace Systems Program Research Program Fundamental Aeronautics Program Directly address the fundamental ATM research needs for NextGen by Conduct research at an integrated developing revolutionary concepts, system-level on promising concepts and Conduct fundamental research that capabilities, and technologies that technologies and explore/assess/demonstrate will produce innovative concepts, will enable significant increases the benefits in a relevant environment tools, and technologies to enable in the capacity, efficiency and revolutionary changes for vehicles flexibility of the NAS",
+  "Aeronautics Test Program Preserve and promote the testing capabilities of one of the United States\u2019 largest, most versatile and comprehensive set of flight and ground-based resear2c h facilities",
+  "FA Program Organization Structure NASA Aeronautics Research Institute 3 NASA Subsonic Transport System Level Metrics NASAAA AAAeerroonnaauttiiiccss RRReesseeaarrcchhh IIInnssttiiittuttee 4 N2A Turbofan \u2013 HPT Cooling Schematic NASA Aeronauttiiics RRResearchhh IIInsttiiittutte \u201cNon-chargeable\u201d cooling \u201cChargeable\u201d cooling vane vane 1 rotor 2 rotor Rolling Takeoff 1 2 T 3460 R 4 T 1710 R 3 main gas flow Power 76000 hp 4",
+  "8% Wall/Case/Disk cooling = 4",
+  "0% \u2013 Cooling levels defined at max",
+  "cycle temperatures (RTO for subsonic engines) \u2013 Non-chargeable cooling flow has little/no impact on cycle performance \u2013 All flow available to perform work through HPT rotors \u2013 Further downstream flow is injected, more penalizing \u2013 Penalty mitigated somewhat due to temperature decrease through machine Reference N2A engine assumes high temperature metallics/TBCs \u2013 no CMCs Benefits of Modulating Cooling NASA Aeronautics Research Institute \u2022 12% cooling reduction leads to 3",
+  "6% Fuel Burn reduction \u2022 If 5% core flow saved, 1-1",
+  "5% fuel burn reduction \u2022 Currently this can be scheduled \u2013 Need safety margin \u2013 Unable to adjust for changes in environment, reduction of coolant flow due to clogging etc",
+  "\u2013 Could save 1% fuel burn using this method after trading weight \u2022 Would be nice to modulate cooling based on real-time conditions \u2013 Additional 1",
+  "5% fuel burn savings possible",
+  "6 Potential Fuel Burn Benefit NASA Aeronautics Research Institute -25 \u2022 12% core flow used",
+  "-20 \u2022 If 5% saved,",
+  "8%SFC benefit",
+  "\u2022 This translates to 1",
+  "5%fuel burn reduction"
+]
