@@ -1,0 +1,17 @@
+[
+  "PAEPEGEM , Mathias KERSEMANS 1,2 1,2 1 1 1 Mechanics of Materials and Structures (MMS), Ghent University, Technologiepark 46, B-9052,Zwijnaarde, Belgium Email: liangliang",
+  "be 2 SIM program M3 DETECT-ION, Technologiepark 48 , B-9052 Zwijnaarde, Belgium Abstract Non-destructive testing on metallic turbine blades is a challenging task due to their complex geometry",
+  "Keywords: Mahalanobis distance, feature selection, classification, non-destructive testing, uncertainty propagation 1",
+  "Introduction The Mahalanobis Taguchi System, termed MTS [1], is a pattern recognition method that incorporates the Mahalanobis Distance (MD) [2] designated to differentiate patterns between different groups, which has been applied not only to diagnose the system performance but also to optimize decisions in the system design and implementation",
+  "Nevertheless, it serves as a standard diagnostic tool in many industrial fields, still being questioned by many scholars in the feature selection and threshold determination procedures [3-4]",
+  "To alleviate the shortcomings of the original MTS approach, the authors thereafter proposed the Ma- halanobis Classification System (MCS) [5] and its integrated version (IMCS) [6], subsequently",
+  "More specifically, MCS employs Binary Particle Swarm Optimization (BPSO) [7] and PSO/Machine Learning tools (ML) [8-10] to filter out high dependable features and address the threshold determi- nation issues, respectively",
+  "For more details about MCS and IMCS, readers are re- ferred to [5-6]",
+  "The present work presents a simple, yet effective, manner to account for measurement uncertainty by us- ing the concept of Interval Mahalanobis Distance (IMD) [11]",
+  "The general scheme of the IIMCS algorithm is shown in Figure 1",
+  "The main novelties in IIMCS are the implementation of Monte Carlo Method [12] ( termed MCM in Figure 1) to infer the Interval MD and an indicator to point out the classification reliability",
+  "The IMD has been defined as equation (1) \ud835\udc70\ud835\udc74\ud835\udc6b = [\ud835\udc40\ud835\udc371,\ud835\udc40\ud835\udc372,\u2026,\ud835\udc40\ud835\udc37\ud835\udc5a] (1) \ud835\udc58 \ud835\udc58 \ud835\udc58 \ud835\udc58 In which m and k stand for the MCM total runs and sample index",
+  "The clas- sification reliability is indicated as r, ranges from [Good, Bad] = [-1,1]",
+  "Thus, the reliability of classification is defined as \u2212\ud835\udc5d\ud835\udc3a\ud835\udc5c\ud835\udc5c\ud835\udc51 \ud835\udc56\ud835\udc53 \ud835\udc5d\ud835\udc3a\ud835\udc5c\ud835\udc5c\ud835\udc51 > \ud835\udc5d\ud835\udc35\ud835\udc4e\ud835\udc51 \ud835\udc5f \u2208 [\u22121,\u22120",
+  "5) \ud835\udc5f = { \ud835\udc5d\ud835\udc35\ud835\udc4e\ud835\udc51 \ud835\udc56\ud835\udc53 \ud835\udc5d\ud835\udc3a\ud835\udc5c\ud835\udc5c\ud835\udc51 < \ud835\udc5d\ud835\udc35\ud835\udc4e\ud835\udc51 \ud835\udc5f \u2208 (0"
+]
