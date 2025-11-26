@@ -1,0 +1,17 @@
+[
+  "//\u00a2_o NASA Technical Memorandum 106421 Army Research Laboratory Tec_cal Report ARL-TR,33",
+  "_0 re_ O\" o D- eO O Experimental and Computational Results __, U O, C ,",
+  "_ From a Large Low-Speed 0 e_j Centrifugal Impeller 0 en C:_tl9 ZO M",
+  "Army Research Laboratory W _1_LU ]:00_ Lewis Research Center O_LL t-",
+  "- O_,-,_ Z C_ C::)Z Prepared for the 82nd Meeting of the AGARD Propulsion and Energetics Panel, Technology Requirements for Small Gas Turbine Engines sponsored by the Advisory Group for Aerospace Research and Development Montreal, Canada, October 4-8, 1993",
+  "Army Vehicle Propulsion Directorate 21000 Brookpark Road Cleveland, Ohio 44135, USA R",
+  "Strazisar NASA Lewis Research Center 21000 Brookpark Road Cleveland, Ohio 44135, USA Several previous investigators have provided flow field mea- SUMMARY surements within unshrouded centrifugal compressor im- An experimental and computational investigation of the NASA pellers",
+  "Eckardt's laser anemometer measurements in aradial- Low-Speed Centrifugal Compressor (LSCC) flow field has outflow impeller provided the first experimental evidence in been conducted using laser anemometry and Dawes' 3D vis- high-speed impellers of the development of a \"wake\" of low cous code",
+  "Kraint2, Krain and Hoffman t4, merits of the three--dimensional velocity field were acquired Ahmed and Elder 1, Sipo sts, and Rohne and Banzhaf 16have at several measurement planes through the compressor",
+  "Krain 12and Sipos Is have therefore used vortex models toinfer the vortical nature of the secondary flow from the flow angle measurements which they were able NOMENCLATURE to acquire on blade-to-blade streamsurfaces",
+  ", t7 used dye in m/ms a water-flow experiment to visualize the tip clearance flow",
+  ",7 performed 5-hole pressure measurements in Radius non-dimensionalized by exit tip radius T/Tt a 1 meter diameter shrouded impeller which rotated at 500 SS Suction surface rpm",
+  "Fagan and Fleeter 6 used laser Axial velocity component, m/sec anemometry to measure all three velocity components in a low speed, shrouded, mixed-fiow compressor",
+  ", c_= tan -1 (Vr/Vz) In lieu of detailed experimental measurements of the sec- ondary flow fields in unshrouded impellers, several investiga- tors have recently shown secondary flow details generated us- INTRODUCTION ing three---dimensional Navier-Stokes numerical simulations The complex curvature of centrifugal compressor impeller (Krain and Hoffman13A4; Hah and Kraln_; Bansod and Rhie3; blade channels, coupled with strong rotational forces and Moore and Mooret5)",
+  "Fagan and Fleeter 6 have also shown clearance between the rotating impeller and stationary shroud, calculated secondary flow field results for their shrouded im- generate secondary flows in unshrouded impellers which trans- peller"
+]
