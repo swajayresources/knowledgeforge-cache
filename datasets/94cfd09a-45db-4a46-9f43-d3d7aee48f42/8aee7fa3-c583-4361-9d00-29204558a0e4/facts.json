@@ -1,0 +1,17 @@
+[
+  "Wake Turbulence of Two NREL 5-MW Wind Turbines Immersed in a Neutral Atmospheric Boundary-Layer Flow Jessica L",
+  "Sven Schmitz Department of Aerospace Engineering, The Pennsylvania State University, University Park, PA 16802, USA Dr",
+  "Duque Intelligent Light - Applied Research Group, Rutherford, NJ 07070 March 1, 2022 Abstract The fluid dynamics video considers an array of two NREL 5-MW turbines separated by seven rotor diameters in a neutral atmospheric boundary layer (ABL)",
+  "The mean wind speed at hub height is 8m/s, and the surface roughness is 0",
+  "1 3102 tcO 11 ]nyd-ulf",
+  "scisyhp[ 1v4923",
+  "0131:viXra 1 Introduction Thewindindustryfacesanumberofchallengestoday, someofwhichinvolve the aerodynamics within the wind farm",
+  "The ABL has different stability states during a diurnal cycle, thus affecting the array efficiency in a wind farm [1, 2]",
+  "The actuator line method (ALM) [3] implemented into an ABL-LES solver created with OpenFOAM has demonstrated its potential to model large wind farms and overall wake effects [4]",
+  "The present fluid dynamics video shows highly-resolved LES simulation data of two NREL 5-MW wind turbines separated by seven rotor diameters that are operating in a neutral atmospheric boundary-layer flow",
+  "2 Computational Methodology A precursor ABL simulation is performed first on a LES grid with dimen- sions of 3 km x 3 km x 1 km and a resolution of 15m",
+  "For a wind speed at hub height of 8m/s and an assumed surface roughness of 0",
+  "2m over flat terrain, a quasi-stationary state is achieved after approximately 12000 sec of real time, which can be correlated to an associated Obukhov length scale and eddy turn-over time in an atmosphere of neutral stability state",
+  "Pre- cursor boundary-layer data are extracted at the inlet plane(s) of the LES grid at an interval of 5 sec for about 2000 sec after a quasi-stationary state has been achieved",
+  "The grid has the same outer dimensions than the precursor ABL grid, however, with three layers of nested refined grids [4, 5] so that the grid resolution is about 2m around the turbines and throughout the wake"
+]
