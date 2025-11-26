@@ -1,0 +1,1 @@
+Dv2v: A Dynamic Variable-to-Variable Compressor Nieves R Brisaboa∗, Antonio Farin˜a∗, Adria´n Go´mez-Brand´on∗, Gonzalo Navarro†, and Tirso V Rodeiro∗ ∗Universidade da Corun˜a †University of Chile Facultade de Inform´atica, CITIC Millennium Institute for Foundational A Corun˜a, Spain Research on Data (IMFD), brisaboa@udc es,fari@udc es, Department of Computer Science adrian
