@@ -1,0 +1,15 @@
+{
+  "paper_id": "a85a060b-65f9-44f8-9b96-a4cc6146a845",
+  "title": "Combinatorial Optimization with Quantum Computers",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a85a060b-65f9-44f8-9b96-a4cc6146a845/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a85a060b-65f9-44f8-9b96-a4cc6146a845/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a85a060b-65f9-44f8-9b96-a4cc6146a845/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/a85a060b-65f9-44f8-9b96-a4cc6146a845/keywords.json"
+  ]
+}
