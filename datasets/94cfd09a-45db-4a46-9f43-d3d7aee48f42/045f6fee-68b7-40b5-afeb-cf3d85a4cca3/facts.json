@@ -1,0 +1,19 @@
+[
+  "4, August 2015 FEASIBLE METHODOLOGY FOR OPTIMIZATION OF A NOVEL REVERSIBLE BINARY COMPRESSOR Neeraj Kumar Misra, Mukesh Kumar Kushwaha, Subodh Wairya and Amit Kumar Department of Electronics Engineering, Institute of Engineering and Technology, Lucknow, India ABSTRACT Now a day\u2019s reversible logic is an attractive research area due to its low power consumption in the area of VLSI circuit design",
+  "In this manuscript, we design 4:2 and 5:2 reversible compressor circuits using a new type of reversible gate",
+  "In addition, we propose new gate, named as inventive0 gate for optimizing a compressor circuit",
+  "The utility of the inventive0 gate is that it can be used as full adder and full subtraction with low value of garbage outputs and quantum cost",
+  "Landauer [1], the amount of heat dissipated for every bit of computation information, regardless of its synthesis is KT ln2, where k is the Boltzmann\u2019s constant (1",
+  "380x10-23) and T is the absolute temperature",
+  "Bennett [2] proves that the heat loss in a circuit can be omitted by designing reversible structure by utilizing reversible gates and without feedback and fan-out concept",
+  "Reversible design is based on two concepts: logic reversibility means input and output must be uniquely retrievable from each other and second concept that logic work in backward and in each operation no heat dissipation and satisfies physical reversibility [5, 13, 15]",
+  "Therefore, they potentially help to solve at least two problems: overheating and power saving [7, 8, 10, 16]",
+  "The compressor has wide application in reducing power during the frame of the partial product design and the different types of addition operations design [4, 14, 15, 21, 22]",
+  "The manuscript is organised with the following sections: Section 2 gives the basic definition of reversible logic and its inverse property",
+  "Section 3 shows the basic reversible gate in MOS transistor realization",
+  "Section 4 introduces new reversible compressor structure like 4:2 and 5:2 compressor circuits with it discuss parameter",
+  "Section 5 gives the comparative analysis table with its existing design",
+  "6401 1 International Journal of VLSI design & Communication Systems (VLSICS) Vol",
+  "However, in the second part, we propose 4:2 compressor and 5:2 compressor circuits using inventive0 gate and also its quantum circuits",
+  "BASIC DEFINITIONS RELATED TO REVERSIBLE LOGIC In this section, we show the fundamentals of reversible logic, which are relevant to this manuscript"
+]
