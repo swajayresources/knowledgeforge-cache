@@ -1,0 +1,19 @@
+[
+  "Light focusing and additive manufacturing through highly scattering media using upconversion nanoparticles Qianyi Zhang1, Antoine Boniface1, Virendra K",
+  "Parashar2, Martin A",
+  "Gijs2, and Christophe Moser1, * 1 Laboratory of Applied Photonics Devices, School of Engineering, Institute of Electrical and Micro Engineering, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland 2 Laboratory of Microsystems LMIS2, School of Engineering, Institute of Electrical and Micro Engineering, Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne, Lausanne, Switzerland *To whom correspondence should be addressed",
+  "By exploiting the optical memory effect, we further demonstrate micro-meter resolution additive manufacturing through highly scattering media such as a 300-\u03bcm-thick chicken breast",
+  "Keywords: additive manufacturing; hydrogels; light-based additive manufacturing; upconversion nanoparticles; bioprinting; wavefront shaping; scattering Introduction Bioprinting, a cutting-edge technology that merges biology and additive manufacturing, has revolutionized the field of tissue engineering1,2",
+  "This innovative approach allows for the precise deposition of biomaterials, cells, and growth factors to fabricate complex, functional tissues and organs3\u20135",
+  "As a result, bioprinting has opened new frontiers in tissue engineering, offering potential solutions for broad applications including disease modeling6,7, drug testing8,9, and regenerative medicine1,10",
+  "Common bioprinting methods include inkjet printing11, extrusion- based printing12, laser-induced forward transfer13, and light-based additive manufacturing14\u201316",
+  "Bioprinted implants typically involve a surgical intervention for the implantation17,18 or for direct in-situ biofabrication at the exposed site19,20, which poses inherent challenges and risks",
+  "To address these limitations, non-invasive and minimally invasive bioprinting has emerged as a powerful solution by offering the possibility of creating functional biological constructs bypassing invasive surgical procedures21\u201324",
+  "The near-infrared (NIR) window with a wavelength ranging from 650 to 1350 nm, offers deeper penetration into biological tissues with less significant attenuation because of its longer wavelength (less scattering) and the lack of absorption from biological molecules25",
+  "Therefore, NIR light is well-suited for in vivo imaging26\u201329 and therapeutic applications29\u201331 that require light to reach target areas deep within the body",
+  "It can induce photopolymerization via two-photon absorption32 or upconverting process33 and has already been demonstrated in non-invasive additive manufacturing21\u201323",
+  "This greatly impacts the resolution (from 1 \u03bcm in the absence of tissue to tens or hundreds \u03bcm depending on tissue properties and thickness) and the fidelity of non-invasive printing21,23",
+  "In the field of optical imaging, several strategies based on wavefront shaping have been developed to manipulate the light and refocus it through scattering media to a diffraction-limited spot34\u201340",
+  "In this study, we present a high-resolution additive manufacturing technique using upconversion nanoparticles and a wavefront shaping method that does not require measurement from an invasive detector, i",
+  "In the non-invasive configuration, we show that a micro-meter resolution structure can be printed within a speckle pattern that is more than 20 times larger than the feature size"
+]
