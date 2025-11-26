@@ -1,0 +1,17 @@
+[
+  "GT2015-43389 EFFECTS OF UNSTEADY FLOW INTERACTIONS ON THE PERFORMANCE OF A HIGHLY-LOADED TRANSONIC COMPRESSOR STAGE Chunill Hah NASA Glenn Research Center, MS 5-10, Cleveland, Ohio Background \u2022 NASA ERA Program - Physics of Loss Generation in a GE Highly Loaded Transonic Compressor",
+  "- Aero Testing at NASA/Glenn W7 facility",
+  "CFD analysis of the first stage Unsteady loss generation Analysis domain Objectives \u2022 Can a high-fidelity CFD (LES) calculate measured loss generation in Stator 1",
+  "Applied LES procedure \u2022 3rd-order scheme for convection terms",
+  "\u2022 2nd-order central differencing for diffusion terms",
+  "LES Set-Up \u2022 Original Blades : 42 IGV, 28 R1, and 58 S1",
+  "Scaled to 42 IGV, 28 R1, and 56S1",
+  "\u2022 3 IGV , 2 R1 , and 4 S1 passages analyzed with periodicity condition",
+  "\u2022 500 million CFD nodes for 9 passages (for S1, 384x356x650 in B to B, Spanwise, axial direction for each passage) Computational grid and domain flow IGV Rotor 1 Stator 1 Overall compressor flow field from LES Instantaneous pressure distribution at mid-span 20 psi 20 psi Instantaneous vorticity distribution at mid-span 20 psi 20 psi Comparison of corrected speedline relative to multi-stage compressor opline Peak efficiency point Peak efficiency point Comparison of IGV exit swirl angle 2 deg Comparison of total pressure at IGV exit 5-hole traverse LES Comparison of Pt and Tt at exit of R1 and S1 Pt Pt 1psi 1psi Tt Tt 5R 5R R1 exit S1 exit Unsteady loss generation in the stator due to incoming rotor wake Measured Pt and Tt at stator exit PressureSide SuctionSide PressureSide SuctionSide Pt Tt Measured Pt, Tt, and entropy at 48",
+  "1 % span (Lurie and Breeze-Stringfellow[GT2015-42526]) Comparison of Pt from LES, S1 exit PressureSide SuctionSide Five hole probe LES Comparison of Tt from LES, S1 exit PressureSide SuctionSide 30 R Measurement LES Comparison of Pt and Tt at mid-span Instantaneous distribution of Pt from LES Pt time-space plot at S1 exit RotorWake Instantaneous distribution of Tt from LES Why higher Tt and lower Pt on the pressure side of the stator",
+  ": Wake Dispersion, 1966",
+  ": Intra-Stator transport of rotor wakes, 1970 Instantaneous velocity vectors at mid-span Velocity vectors in rotor wake Absolute Pt in the rotor wake Instantaneous tangential velocity component in stator frame Intra-stator transport of rotor wake for high Tt on PS Both Tt and Pt are higher in rotor wake for the current compressor",
+  "Jet velocity in the rotor wake decays very fast and The rotor wake is not like 2-D inviscid wake",
+  "What makes Tt higher on pressure side of S1",
+  "Why Pt is lower on pressure side of S1"
+]
