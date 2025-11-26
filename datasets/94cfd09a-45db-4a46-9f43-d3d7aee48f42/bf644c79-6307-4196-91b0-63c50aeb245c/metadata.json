@@ -1,0 +1,15 @@
+{
+  "paper_id": "bf644c79-6307-4196-91b0-63c50aeb245c",
+  "title": "Inverse Aerodynamic Design of Gas Turbine Blades using Probabilistic Machine Learning",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bf644c79-6307-4196-91b0-63c50aeb245c/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bf644c79-6307-4196-91b0-63c50aeb245c/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bf644c79-6307-4196-91b0-63c50aeb245c/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/bf644c79-6307-4196-91b0-63c50aeb245c/keywords.json"
+  ]
+}
