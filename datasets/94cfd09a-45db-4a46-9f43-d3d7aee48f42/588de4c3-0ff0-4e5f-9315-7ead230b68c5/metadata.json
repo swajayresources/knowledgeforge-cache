@@ -1,0 +1,15 @@
+{
+  "paper_id": "588de4c3-0ff0-4e5f-9315-7ead230b68c5",
+  "title": "1996 Coolant Flow Management Workshop",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/588de4c3-0ff0-4e5f-9315-7ead230b68c5/summary.txt",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/588de4c3-0ff0-4e5f-9315-7ead230b68c5/qa_pairs.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/588de4c3-0ff0-4e5f-9315-7ead230b68c5/facts.json",
+    "datasets/94cfd09a-45db-4a46-9f43-d3d7aee48f42/588de4c3-0ff0-4e5f-9315-7ead230b68c5/keywords.json"
+  ]
+}
