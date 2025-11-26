@@ -1,0 +1,19 @@
+[
+  "Mistry1* AmuthanA",
+  "Ramabathiran2\u2020 1DepartmentofAerospaceEngineering,IndianInstituteofTechnologyBombay,Mumbai, Maharashtra400076,India 2AerospaceEngineering,CaliforniaPolytechnicStateUniversity,SanLuisObispo,CA 93407,USA Abstract We present in this work computational evidence, using molecular dynamics simulations, of a sizeeffectintherelationshipbetweenthecriticalresolvedshearstressforedgedislocationmotion innickelsuperalloysandthesizeof\u03b3\u2032 precipitates,undercertainconditions",
+  "We then analyze the motionofpairededgedislocationsinthe\u03b3 phasewhensubjecttoanexternalshearstressforvarious volumefractionsofthe\u03b3\u2032precipitateforawiderangeoftemperatures,from300Kto700K",
+  "edu 1 5202 luJ 41 ]ics-lrtm",
+  "tam-dnoc[ 3v90461",
+  "4052:viXra work, the results presented here highlights non-trivial size-dependent effects, provides new details on the strengthening effect of \u03b3\u2032 precipitates in nickel superalloys, and has important implications forlargerscaledislocationdynamicsstudiesfornickelsuperalloys",
+  "1 Introduction Nickel superalloys exhibit several superlative properties\u2014exceptional mechanical strength, creep re- sistance, and thermal stability\u2014that have led to their widespread adoption in critical applications like turbine blades in modern jet engines",
+  "These superalloys exhibit distinct phases: the \u03b3 phase with the FCC lattice, composed primarily of Ni, and the ordered \u03b3\u2032 phase of Ni Al with the L1 structure",
+  "This 3 2 microstructurecausesahigherstrengtheningbyimpedingdislocationmotion,amongotherfactors",
+  "In the past decade, numerous experimental studies have explored how microstructural features af- fect the mechanical properties of these alloys [9, 29]",
+  "Transmission electron microscopy investigations indicate clear evidence of dislocation interactions with \u03b3\u2032 precipitates, revealing that dislocation lines tend to bend at the \u03b3/\u03b3\u2032 interface [6, 26]",
+  "The study by [18] showed that the variation in lattice pa- rameters between the \u03b3 and \u03b3\u2032 phases increases with temperature, particularly below 1100\u25e6C, thereby significantlyimpactingdislocationmobility",
+  "Dislocationmotionisfurtherhinderedbyinterfacialdislo- cation networks, which enhance creep resistance [5, 38]",
+  "Several mechanisms contribute to precipitate strengthening, such as (1) chemical strengthening that arises from increased surface energy resistance during dislocation shearing, (2) stacking fault strengthening due to variations in stacking fault energy, 2 (3)modulusstrengtheningresultingfrommismatchesinelasticmoduli,(4)coherencystrainstrengthen- ingstemmingfromdifferencesinlatticeparameters,and(5)orderstrengtheninglinkedtodisruptionsin the ordered Ni Al crystal structure during dislocation motion [3]",
+  "[28] suggest 3 thattheroleofthecoherencystraineffectisnegligible, whereasMilleretal",
+  "We present a detailed analysis of this behaviorandreduceittoalineardependenceofthecriticalresolvedshearstressonthelengthofthe \u03b3\u2032 precipitatealongthedirectionofdislocationmotion",
+  "While prior experimental and computational studies have explored dislocation-precipitate interac- tions, we present new scaling behavior for dislocation-precipitate interactions in Nickel superalloys basedonMDsimulationsthathavenotbeenreportedearlier,tothebestofourknowledge"
+]
