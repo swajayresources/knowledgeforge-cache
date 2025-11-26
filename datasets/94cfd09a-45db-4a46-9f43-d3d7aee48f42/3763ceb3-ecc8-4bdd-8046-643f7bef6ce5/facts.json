@@ -1,0 +1,17 @@
+[
+  "2,52062Aachen,Germany bInstituteforPlasticsProcessing(IKV)attheRWTHAachenUniversity,SeffenterWeg201,52074Aachen,Germany cInstituteofLightweightDesignandStructuralBiomechanics(E317),TUWien,GumpendorferStr",
+  "7,A-1060Vienna,Austria Abstract Thispaperpresentsanovelshape-optimizationtechniqueforthedesignofmixingelementsinsingle-screwextruders",
+  "Thispaperpresentsadvancesinthreeaspectsofnumericaldesign: (1)Acombinationoffree-formdeformationand surface splines is presented, allowing to parameterize the mixing element\u2019s shape by very few variables",
+  "(2) The combinationofthisconceptwithalinear-elasticity-basedmeshupdatemethodtodeformthecomputationaldomain withouttheneedforremeshingisdemonstrated",
+  "(3)Asimpleyetrobustandsensitivenewobjectiveformulationto assessdistributivemixinginlaminarflowsbasedonameasurefortheinterfacialareaisproposedfortheoptimization",
+  "Keywords: free-formdeformation,mixingelements,shapeoptimization,single-screwextruder,striationthickness 1",
+  "Startingpointarealways solidpolymerpellets,whicharecontinuouslyinsertedintothescrewunit,whosepurposeistomelt,mix,andpump thepolymermaterial[1]",
+  "de(ChristianHopmann) 1202 guA 81 ]AN",
+  "htam[ 1v13180",
+  "8012:viXra Dependingonthedesiredeffects,wefrequentlydistinguishbetweentwotypesofmixing: dispersiveanddistribu- tive mixing",
+  "Inparticular,withinextruders,diffusionandturbulencearenegligible,andshearremainsthe only dominant mixing mechanism [2]",
+  "Consequently, for the design of extruders, the theory of laminar mixing is particularly relevant [2, 3, 4]",
+  "Based on these findings, we can derive the design principles for extruder screws in general, and in particular for the mixing sections [1, 5]",
+  ", by Gale [6], or Campbell and Spalding [7] indicate thatdesigninganoptimalmixingelementshapeisstillanunsolvedtask",
+  "Agoodoverviewofrecentworkstowards assessingthevariousdesignsandcurrentapproachestocreateimprovedmixingelementscanbefoundin[8]"
+]
