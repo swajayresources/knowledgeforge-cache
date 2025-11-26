@@ -1,0 +1,22 @@
+[
+  "Impacts of Atomistic Coating on Thermal Conductivity of Germanium Nanowires Jie Chen,1 Gang Zhang,2, \u2217 and Baowen Li1, 3 1Department of Physics, Centre for Computational Science and Engineering, and Graphene Research Centre, National University of Singapore, Singapore 117542, Singapore 2 Key Laboratory for the Physics and Chemistry of Nanodevices and Department of Electronics, Peking University, Beijing 100871, People\u2019s Republic of China 3NUS-Tongji Center for Phononics and Thermal Energy Science, Department of Physics, Tongji University, Shanghai 200092, People\u2019s Republic of China Abstract By using non-equilibrium molecular dynamics simulations, we demonstrated that thermal conductivity of Germanium nanowires can be reduced more than 25% at room temperature by atomistic coating",
+  "cn 1 Keywords: Thermal conductivity; Germanium nanowires; Atomistic coating; Molecular dynamics simulations 2 A novel nanostructure \u2013 core-shell nanowires (NWs) recently comes to the spotlight of research",
+  "Compared to the single component NWs, the physical properties of core-shell NWs can be further tailored by different compositions and different configurations, thus leading to various novel nanoscale electronic and optoelectronic devices [1-3]",
+  "In addition to the electronic and optical properties, thermal property of NWs has attracted more and more interests due to the potential thermoelectric applications in both power generation and refrigeration [4]",
+  "For instance, by etching the surface of silicon NWs, it has been experimentally demonstrated that thermal conductivity of Si NW can be reduced more than two orders of magnitude compared with bulk Silicon [5, 6]",
+  "Moreover, remarkable reduction of thermal conductivity in core-shell [7-10], tubular [11, 12], and surface-decorated [13] NWs has also been reported through various kinds of interface and surface engineering",
+  "Previous studies [7-9] on the reduction of thermal conductivity in core-shell NWs mainly focus on Si/Ge core-shell NWs, which is quite intuitive as Ge is a low thermal conductivity material compared to Si [14]",
+  "However, in experimental realizations, the NWs synthesised are Ge/Si core-shell NWs [1-3]",
+  "Very recently, both theoretical and experimental works have shown that thermal conductivity of Ge/Si core-shell NWs can be lower than that of pure GeNWs with the same cross section area [15, 16]",
+  "The reduction is caused by the localization of the longitudinal phonon modes induced by the coherent resonance effect between the transverse and longitudinal modes [15]",
+  "For example, in our recent 3 work [15], thermal conductivity of Ge/Si core-shell NW is compared with that of pure GeNW with the same entire cross section area",
+  "However, thermal conductivity of NW is sensitive to the surface-to-volume ratio (SVR) and increases with the cross section area [17, 18]",
+  "The configuration of (100) GeNW is shown in Fig",
+  "The longitudinal direction is set Ge along x axis, with Nx, Ny, and Nz unit cells (8 atoms per unit cell) in x, y, and z direction, respectively",
+  "The largest GeNW considered in our study has the coating diameter of D =11",
+  "1b, we show the room temperature thermal Ge conductivity \u03ba of GeNWs (D =0) and Ge/Si core-shell NWs (D >0) for coating coating different D",
+  "Here we show calculation results for (100) GeNWs with D =5",
+  "Our results provide an available approach to tune thermal conductivity of nanowires by atomic layer coating",
+  "Our results show that in practical application, one can control thermal conductivity of NWs by coating other atoms",
+  "As this coating thickness is achievable with atomistic layer deposition technology, our results indicate a practical approach that can be realized to tune thermal conductivity"
+]
