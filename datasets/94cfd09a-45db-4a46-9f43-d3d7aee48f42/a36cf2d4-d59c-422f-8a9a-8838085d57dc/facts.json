@@ -1,0 +1,17 @@
+[
+  "NASA/TM\u20142002-211475 Calculation and Correlation of the Unsteady Flowfield in a High Pressure Turbine Milind A",
+  "University of Toledo, Toledo, Ohio Oral Mehmed Glenn Research Center, Cleveland, Ohio March 2002 The NASA STI Program Office",
+  ", quick release \u2022 Fax your question to the NASA Access reports, working papers, and bibliographies Help Desk at 301\u2013621\u20130134 that contain minimal annotation",
+  "\u2022 Telephone the NASA Access Help Desk at 301\u2013621\u20130390 \u2022 CONTRACTOR REPORT",
+  "NASA Access Help Desk NASA Center for AeroSpace Information 7121 Standard Drive Hanover, MD 21076 NASA/TM\u20142002-211475 Calculation and Correlation of the Unsteady Flowfield in a High Pressure Turbine Milind A",
+  "University of Toledo, Toledo, Ohio Oral Mehmed Glenn Research Center, Cleveland, Ohio Prepared for the Turbo Expo 2002 sponsored by the American Society of Mechanical Engineers and the International Gas Turbine Institute Amsterdam, The Netherlands, June 3\u20136, 2002 National Aeronautics and Space Administration Glenn Research Center March 2002 Acknowledgments This work was funded by the NASA Glenn Research Center\u2019s Office of Chief Scientist; the support is gratefully acknowledged",
+  "Available from NASA Center for Aerospace Information National Technical Information Service 7121 Standard Drive 5285 Port Royal Road Hanover, MD 21076 Springfield, VA 22100 Available electronically at http://gltrs",
+  "Two configurations with three recent advances in CFD modeling techniques and increased operating conditions corresponding to modes 2, 3, and 4 availability of computational resources, it is now possible to crossings on the Campbell diagram are analyzed",
+  "Recently, such data has turbomachinery blade designs have higher pressure ratios and become available for a full-scale turbine stage operating at NASA/TM\u20142002-211475 1 engine conditions [1]",
+  "If In the present work, a 3D, unsteady, multi blade-row, periodic boundary conditions are used in the blade-to-blade Reynolds-Averaged Navier Stokes (RANS) code, TURBO, direction, it may be necessary to include multiple blade developed by Chen et al",
+  "[2-4] is applied to the high pressure passages in each blade row",
+  "For example, in the present work, turbine (HPT) stage for which benchmark experimental data is the turbine has 41 stators and 78 rotors",
+  "Two configurations are analyzed with different axial boundary conditions would require calculations to include 41 spacing between blade rows",
+  "Three operating conditions stator passages and 78 rotor passages",
+  "Alternately, one could corresponding to modes 2, 3, and 4 resonant crossings on the modify the number of stators from 41 to 39 and change the Campbell diagram are analyzed"
+]
