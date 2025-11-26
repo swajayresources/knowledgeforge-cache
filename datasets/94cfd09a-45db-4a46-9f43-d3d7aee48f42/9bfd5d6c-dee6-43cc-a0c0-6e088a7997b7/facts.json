@@ -1,0 +1,17 @@
+[
+  "Monte Carlo simulation of growth of hard-sphere crystals on a square pattern Atsushi Mori Institute of Technology and Science, The University of Tokushima, Tokushima 770-8506, Japan Abstract Monte Carlo simulations of the colloidal epitaxy of hard spheres (HSs) on a square pattern have been performed",
+  "This is an extension of previous simu- lations; we observed a shrinking intrinsic stacking fault running in an oblique direction through the glide of a Shockley partial dislocation terminating its lower end in fcc (001) stacking [Mori et al",
+  "105 (2007) 1377], which was an answer to a question why the defect in colloidal crystals re- duced by gravity [Zhu et al",
+  ", Nature 387 (1997) 883]",
+  "We have resolved one of shortcomings of the previous simulations; the driving force for fcc (001) stacking, which was stress from a small periodic boundary simulation box, has been replaced with the stress from a pattern on the bottom",
+  "Keywords: A1 Computer simulation; A1 Planar defect; B1 Polymer; A3 Colloidal epitaxy; A1 Alder transition (Kirkwood-Alder-Wainwright transition) 1",
+  "Introduction In 1957 the crystalline phase transition was discovered in the hard-sphere (HS) system by a Monte Carlo (MC) simulation [1] and a molecular dynam- ics (MD) simulation [2]",
+  "Their results were surprising because the phase Preprint submitted to Journal of Crystal Growth June 21, 2018 0102 voN 1 ]tfos",
+  "tam-dnoc[ 2v3123",
+  "0101:viXra transition occurred in a pure repulsive system",
+  "In 1960-70s colloidal crystal- lizations were extensively studied as the HS crystalline phase transition in reality",
+  "For historical details, see, for example, the introduction of a review [3]",
+  "Recent situation of studies on the colloidal crystal is different from that in those days; so-called HS suspensions are synthesized [4], which exhibit a HS nature in the crystal-fluid phase transition [5, 6, 7, 8]",
+  "Because in colloidal crystals a periodic structure of dielectric constant with the periodicity of the same order of optical wavelength, the colloidal crystals can be used as pho- tonic crystals [9, 10, 11]",
+  "In relation to the reduction of the crystal defect in the colloidal crystals, in 1997 Zhu et al"
+]
