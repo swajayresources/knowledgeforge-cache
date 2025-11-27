@@ -1,0 +1,17 @@
+[
+  "The study was conducted in two phases: a Task I preliminary design analysis and a Task I final design analysis.",
+  "Eight air-cooled turbine blade designs in 0.75-in. (0.01905 m), 1.0-in. (0.0254 m), and 1.5-in. (0.0381 m) chord sizes were investigated in the preliminary design phase.",
+  "A pin fin convection-cooled configuration and a film-impingement-cooled configuration were selected for the final design analysis.",
+  "The final design analysis determined the allowable turbine inlet temperature as a function of cooling air inlet temperature and turbine inlet total pressure for each chord size.",
+  "The final design analysis also determined the minimum cooling flow required as a function of cooling air inlet temperature with a constant turbine inlet temperature for each chord size.",
+  "The preliminary analysis showed that allowable turbine inlet temperature increases with increasing chord for the convection-cooled and transpiration-cooled designs, but the film-convection-cooled designs did not have a significant change in turbine inlet temperature with chord.",
+  "The film-convection-cooled designs allowed turbine inlet temperatures about 200\u00b0F (111\u00b0K) higher than the convection-cooled designs.",
+  "Transpiration cooling offered an advantage only for the 1.5-in. (0.0381 m) chord size.",
+  "Turbine inlet total pressure had relatively little effect on turbine inlet temperature capability over the range studied.",
+  "Decreasing cooling air inlet temperature or increasing chord size reduced the cooling air flow required for the convection-cooled blade, but this trend was not as apparent in the film-convection-cooled design.",
+  "An estimated life of 1000 hr was obtained for each final design based on creep relaxation analysis or a maximum metal temperature limit.",
+  "Additional studies were performed on the effects of reducing cooling air inlet pressure and varying flow control orifice sizes.",
+  "The study was based on a constant blade span of 1.75 in. (0.04445 m) and assumed a life of 1000 hr for the IN-100 blade material.",
+  "The metal temperature distribution was calculated using a three-dimensional thermal analyzer computer program that considered spanwise and chordwise conduction and variable thermal conductivity.",
+  "Stress calculations accounted for centrifugal stresses, thermal stresses, and bending stresses due to thermal distortion."
+]
