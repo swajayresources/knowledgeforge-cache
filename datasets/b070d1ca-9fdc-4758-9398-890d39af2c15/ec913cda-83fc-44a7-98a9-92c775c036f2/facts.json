@@ -1,0 +1,17 @@
+[
+  "This study examines the combined impact of chord-to-radius ratio (c/R), blade camber, and preset pitch on cross-flow turbine performance.",
+  "The concepts of 'virtual camber' and 'virtual incidence' arise due to the curved trajectory of the blades in cross-flow turbines.",
+  "Net camber is defined as the sum of virtual camber and geometric camber, while net incidence is the sum of virtual incidence and preset pitch angle.",
+  "Positive net camber is expected to enhance lift production in the upstream portion of the turbine rotation, but decrease performance in the downstream region.",
+  "The experiments covered a range of c/R from 0.25 to 0.74 and optimal tip-speed ratios from 2.3 to 3.6.",
+  "Increasing toe-out preset pitch (more negative \u03b1_p) reduced performance in the upstream region but increased it downstream.",
+  "The optimal preset pitch at a given c/R or camber condition occurred at a relatively constant net incidence of 0\u00b0 to +1\u00b0.",
+  "The experiments were conducted at diameter-based Reynolds numbers from approximately 1.6 \u00d7 10^5 to 2.7 \u00d7 10^5.",
+  "The authors noted that while Reynolds number and blockage were held constant, their influences could not be wholly removed and may have had secondary effects.",
+  "The study proposes using net camber and net incidence as composite variables to better understand turbine performance and design behavior.",
+  "Two experimental datasets were used in the analysis, one varying c/R, pitch, and blade count, and the other examining geometric blade camber and pitch.",
+  "The authors used the conformal transformation method of Migliore and Wolfe to calculate the virtual camber and incidence effects.",
+  "Positive virtual camber and incidence were found to enhance lift production in the upstream portion of the turbine rotation.",
+  "The authors hypothesized that the balance between upstream lift enhancement and downstream loss reduction determines the optimal turbine geometry.",
+  "The study suggests that c/R, camber, and pitch should be considered in conjunction to achieve an optimal turbine design."
+]
