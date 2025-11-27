@@ -1,0 +1,17 @@
+[
+  "Monte Carlo simulations of the colloidal epitaxy of hard spheres on a square pattern were performed.",
+  "The vertical system size was fixed at L_z = 200\u03c3, which was large enough for the hard spheres to be randomly dispersed at the initial state.",
+  "The numbers of particles were N = 6656 and 26624, selected such that the number density on the bottom was the same as in previous simulations.",
+  "In some cases, the defect disappearance occurred at g* less than 0.9, while in others it occurred at g* greater than 0.9.",
+  "For the N = 26624 system, defect disappearance was observed in all three simulations, with two cases occurring during g* = 0.5-0.7.",
+  "In the N = 26624 system, an increase in disorder was observed at large g*.",
+  "Tetrahedral structures were often observed in the snapshots, suggesting the formation of stacking fault tetrahedra.",
+  "The evolution of the center of gravity was smooth and of a single relaxation mode when the defect disappearance occurred at lower g* than the flat bottom wall cases.",
+  "Temporal stopping of the sinking of the center of gravity was observed when the defect disappearance occurred at g* greater than 0.9 for the flat wall cases.",
+  "The authors noted that detailed analyses to observe the manner of defect disappearance and identify the structure of defects are left as future research.",
+  "The authors aim to systematically enlarge the system size and optimize the control of g* to efficiently erase defects in reality.",
+  "The use of a square pattern on the bottom substrate was an attempt to replace the artificial stress from the periodic boundary conditions in previous simulations.",
+  "The diagonal distance of the intersection of the longitudinal and transverse grooves on the square pattern was designed to coincide with the bottom (001) layer of the fcc crystal.",
+  "The separation between neighboring groove edges on the square pattern was 0.338\u03c3, and the periodicity of the lattice was 1.045\u03c3.",
+  "The authors observed the formation of a few crystalline layers at the bottom that matched the pattern on the lattice point, even at low g* values."
+]
