@@ -1,0 +1,1 @@
+This paper presents a computational study of three-dimensional viscous flow through a planar turbine cascade using a multi-domain spectral technique. The method employs a direct spectral expansion in the spanwise direction and the spectral element method in the streamwise and pitchwise directions, allowing for high-order accuracy and geometric flexibility.
