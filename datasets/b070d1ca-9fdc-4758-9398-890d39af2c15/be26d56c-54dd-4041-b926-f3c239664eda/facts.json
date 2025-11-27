@@ -1,0 +1,17 @@
+[
+  "The study was conducted to predict the flow field within the NASA Lewis Transonic Turbine Blade Cascade Facility, which is used to evaluate rocket propulsion turbines.",
+  "A pitchwise non-uniform total pressure distribution was observed at the blade row leading edge plane.",
+  "The PARC code, a general purpose, three-dimensional, Navier-Stokes code with multi-block solution capability, was used for the computational analysis.",
+  "The computational analysis of the original geometry showed total pressure loss regions consistent in strength and location to experimental measurements.",
+  "The cause of the flow non-uniformity was a pair of vortices that originated from an embedded bellmouth inlet in the original geometry.",
+  "A redesigned inlet section that eliminated the embedded bellmouth by bridging the region between it and the upstream wall was analyzed computationally.",
+  "The analysis of the redesigned inlet section indicated that eliminating the embedded bellmouth eliminated the troublesome pair of vortices, resulting in a flow with much greater pitchwise uniformity.",
+  "A computational approach was chosen over an experimental approach because physical accessibility to the inlet section was limited, and a computational approach allows for examining design changes cheaper and more quickly.",
+  "The paper presents details on the computational requirements needed to accurately predict the flows, but does not provide specific numbers or details.",
+  "The NASA Lewis Transonic Turbine Blade Cascade Facility, similar to those used to evaluate rocket propulsion turbines, was used to verify the performance of proposed turbopump blading.",
+  "The key design change made to the inlet section to improve flow uniformity was the elimination of the embedded bellmouth and bridging the region between it and the upstream wall.",
+  "The limitations of the experimental approach that led the researchers to choose a computational approach were the limited physical accessibility to the inlet section and the ability to examine design changes more cheaply and quickly.",
+  "The computational analysis was used to verify that the redesigned inlet section resulted in a flow with acceptable uniformity.",
+  "The computational approach allowed the researchers to examine design changes more cheaply and quickly than an experimental approach would have.",
+  "The computational analysis showed that the distortions in the original geometry were caused by a pair of vortices that originated from the embedded bellmouth inlet."
+]
