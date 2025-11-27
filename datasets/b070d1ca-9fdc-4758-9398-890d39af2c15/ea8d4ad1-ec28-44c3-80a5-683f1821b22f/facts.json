@@ -1,0 +1,17 @@
+[
+  "Accepted by Structural and Multidisciplinary Optimization on 3-26-2022 An efficient and easy-to-extend Matlab code of the Moving Morphable Component (MMC) method for three-dimensional topology optimization Zongliang Du \u00b7 Tianchen Cui \u00b7 Chang Liu \u00b7 Weisheng Zhang \u00b7 Yilin Guo \u00b7 Xu Guo* Abstract Explicit topology optimization methods have received ever-increasing interest in recent years",
+  "In particular, a 188-line Matlab code of the two-dimensional (2D) Moving Morphable Component (MMC)-based topology optimization method was released by Zhang et al",
+  "(Struct Multidiscip Optim 53(6):1243-1260, 2016)",
+  "The present work aims to propose an efficient and easy-to-extend 256-line Matlab code of the MMC method for three-dimensional (3D) topology optimization implementing some new numerical techniques",
+  "As a result, compared to the corresponding 188-line 2D code, the performance of the optimization results, the computational efficiency of FEA, and the convergence rate and the robustness of optimization process are greatly improved",
+  "For the sake of completeness, a refined 218-line Matlab code implementing the 2D-MMC method is also provided",
+  "Keywords Topology optimization \u00b7 Moving Morphable Component (MMC) \u00b7 Sensitivity analysis \u00b7 Finite element analysis \u00b7 Convergence rate State Key Laboratory of Structural Analysis for Industrial Equipment, Department of Engineering Mechanics, Dalian University of Technology, Dalian 116023, China Ningbo Institute of Dalian University of Technology, Ningbo 315016, China E-mail: guoxu@dlut",
+  "cn (Xu Guo) 1 Introduction Based on the solid isotropic material with penalization (SIMP) approach, Sigmund developed the celebrated top99 Matlab code (Sigmund, 2001), which greatly promoted the theoretical development and engineering applications of structural topology optimization both in academia and industry",
+  "While retaining its compactness, significant speedup was achieved by its upgraded versions top88 and the most recent top99neo (Andreassen et al",
+  ", 2011; Ferrari and Sigmund 2020)",
+  ", level set method (Challis, 2010; Wei et al",
+  ", 2018), evolutionary structural optimization method (Huang and Xie, 2010), Moving Morphable Component (MMC) method (Zhang et al",
+  ", 2016b), geometry projection method (Smith and Norato, 2020)",
+  "Therefore, most of the released Matlab codes are focused on 2D topology optimization problems",
+  "Due to the significant computational cost of finite element analysis (FEA) in 3D problems, most existing released Matlab codes are only suitable for medium-sized (with 105 to 106 DOFs) or smaller 3D structural topology optimization problems on a laptop (Ferrari and Sigmund,2020; Liu and Tovar, 2014; Smith and Norato, 2020)"
+]
