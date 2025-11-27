@@ -1,0 +1,17 @@
+[
+  "The cascade optimization strategy used three different optimization algorithms in sequence: the method of feasible directions, the sequential unconstrained minimization technique, and sequential quadratic programming.",
+  "The neural network model predicted all response variables within 5% error, which was reduced to 1% using the regression method.",
+  "The regression approximation method closely followed the analytical NEPP solution for the aircraft engine, while the neural network exhibited a maximum 5% error.",
+  "The cascade optimization strategy with the neural network and regression approximations improved the maximum thrust of the subsonic turbofan engine with wave rotor by 5% compared to the benchmark NEPP solution.",
+  "CometBoards is a modular design optimization testbed that allows for testing of different optimization algorithms and analysis methods, including the Integrated Force Method.",
+  "The Integrated Force Method provides an alternate formulation to the traditional stiffness method in finite element analysis, with potential benefits in ensuring solution fidelity.",
+  "Dr. Surya Patnaik has over 30 years of experience in aerospace and has made contributions in areas such as solid mechanics, multidisciplinary design optimization, and the development of the Integrated Force Method and CometBoards testbed.",
+  "The paper demonstrates the use of neural network and regression approximation methods to replace the computationally expensive NASA Engine Performance Program (NEPP) analysis in the aircraft engine design optimization process.",
+  "The cascade optimization strategy employed in this work uses a sequence of different optimization algorithms to solve the design problem, rather than relying on a single method.",
+  "The hybrid method combining the neural network and regression approximators performed intermediately between the individual models in terms of accuracy.",
+  "The Integrated Force Method has shown benefits in elasticity, finite element analysis, and design optimization compared to the traditional stiffness method.",
+  "CometBoards is written in Fortran 77, except for the neural network code which is written in C++, and is integrated through soft-coupling.",
+  "CometBoards has provisions to accommodate up to 10 different disciplines, each with a maximum of 5 subproblems, and can optimize a large system defined in up to 50 subproblems.",
+  "The paper mentions that the boundary compatibility conditions in solid mechanics, unlike the field counterpart, cannot be trivialized, and all methods including the Navier's method have to be adjusted for their compliance.",
+  "The Integrated Force Method (IFM) and the Completed Beltrami Michell's Formulation (CBMF) have been developed to ensure solution fidelity by providing equal emphasis on both the stress and strain formulations."
+]
