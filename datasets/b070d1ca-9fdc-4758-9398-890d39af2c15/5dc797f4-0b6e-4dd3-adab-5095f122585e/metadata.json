@@ -1,0 +1,15 @@
+{
+  "paper_id": "5dc797f4-0b6e-4dd3-adab-5095f122585e",
+  "title": "Optimal control for a nonlinear stochastic PDE model of cancer growth",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5dc797f4-0b6e-4dd3-adab-5095f122585e/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5dc797f4-0b6e-4dd3-adab-5095f122585e/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5dc797f4-0b6e-4dd3-adab-5095f122585e/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5dc797f4-0b6e-4dd3-adab-5095f122585e/keywords.json"
+  ]
+}
