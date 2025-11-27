@@ -1,0 +1,15 @@
+{
+  "paper_id": "962272f5-0191-4749-8feb-cd0ebdd66e7b",
+  "title": "Co-design of a novel CMOS highly parallel, low-power, multi-chip neural network accelerator",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/962272f5-0191-4749-8feb-cd0ebdd66e7b/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/962272f5-0191-4749-8feb-cd0ebdd66e7b/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/962272f5-0191-4749-8feb-cd0ebdd66e7b/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/962272f5-0191-4749-8feb-cd0ebdd66e7b/keywords.json"
+  ]
+}
