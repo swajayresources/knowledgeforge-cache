@@ -1,0 +1,17 @@
+[
+  "The calculations are based on higher-order finite differences and are performed on refined spatial and temporal meshes to resolve all the important energy-carrying scales.",
+  "The near-field large-scale structures include the shear layer vortices, the counter-rotating vortex pair (CVP), the horseshoe vortex system, and wake and wall vortices.",
+  "The dynamics of these structures are significantly influenced by a time-periodic interaction between the jet hole boundary layer and the approaching crossflow.",
+  "The periodic behavior has a Strouhal number of 0.44 based on the jet velocity and diameter.",
+  "A new mechanism for the formation of shear layer vortices is identified, involving alternate shedding of positive and negative vorticity.",
+  "The predicted turbulent statistics show reasonable agreement with experimental measurements.",
+  "The film cooling configuration differs from single-jet-in-crossflow studies in the spanwise boundary conditions and lower blowing ratios, leading to a non-uniform jet-exit profile.",
+  "Inclusion of the flow development within the coolant hole is important for accurately specifying the jet-exit conditions and their influence on the downstream flow structures.",
+  "Direct numerical simulation (DNS) allows resolving all the energy-carrying scales without the need for turbulence models, but poses significant computational challenges.",
+  "The jet-to-crossflow velocity ratio studied in this work is 0.5.",
+  "The computational work was performed on a variety of high-performance computing platforms, including Cray C-90, Cray YMP, NAVO T3E, and NAVO T-90 computers.",
+  "The primary contributors to this work include graduate students Frank Muldoon, Mayank Tyagi, Asif Hoda, Chirdeep Sharma, and research associate Dr. M. Taeibi-Rahni.",
+  "The computational codes developed for this research include a dual-time stepping pseudo-compressibility based approach, a fractional step approach with a pressure-Poisson solver, and a staggered finite volume code for RANS simulations.",
+  "The research was funded by a NASA-Glenn grant (NAG3-1641) under the Advanced Subsonic Technology program, with Dr. Chi-Rong Wang and Dr. Raymond Gaugler as the contract monitors.",
+  "The work was conducted at Louisiana State University under the supervision of Professor Sumanta Acharya."
+]
