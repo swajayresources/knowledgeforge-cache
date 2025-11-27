@@ -1,0 +1,17 @@
+[
+  "The testing was conducted at the NASA Glenn Research Center W-7 High Speed Multi-Stage Axial Compressor Facility.",
+  "The compressor had a rotor size of 20 to 22 inches and was driven by a 15,000 hp motor.",
+  "The 1-stage configuration included a strut, IGV, Rotor 1, Stator 1, and a de-swirl vane.",
+  "The 2-stage configuration added a Rotor 2 and Stator 2 to the 1-stage configuration.",
+  "The IGV, Stator 1, and Stator 2 were variable stagger vanes.",
+  "Detailed instrumentation included inlet and exit rakes, vane leading edge pressure and temperature probes, casing and hub static pressure taps, and traverses with 5-hole probes, Kulite pressure transducers, and hot wire anemometry.",
+  "The 2-stage configuration choked at a lower mass flow rate than the 1-stage configuration.",
+  "Rotor 1 performance was negligibly affected by the presence of the second stage.",
+  "The Stage 1 efficiency was found to be low relative to the design intent.",
+  "The likely cause of the Stage 1 performance deficit was a stage mismatch issue due to Stage 2 choking.",
+  "Previous test experience had indicated a performance deficit in this compressor at high speed, which was not captured by RANS/URANS CFD.",
+  "Potential explanations for the previously measured performance deficit included unanticipated losses through the gooseneck, Rotor 1 wake, Rotor 2 inlet/strut/IGV mixing, and Rotor 2 bow shock interaction with Stage 1.",
+  "The goal of the NASA Environmentally Responsible Aviation Project (ERA) was to identify and mature technologies that can simultaneously meet metrics for noise, emissions, and fuel burn.",
+  "ERA system studies have shown potential for up to 2.5% reduction in Thrust Specific Fuel Consumption by increasing core compressor pressure ratio by 30%.",
+  "Increased loading of the core compressor can introduce aerodynamic losses and decreased efficiency in the front stages."
+]
