@@ -1,0 +1,1 @@
+This paper presents a real-time closed-loop system for modulating turbine cooling in aircraft engines. The system uses phosphorescence and infrared thermography to detect the thermal map on turbine blades and adjusts the cooling flow accordingly to optimize fuel efficiency.
