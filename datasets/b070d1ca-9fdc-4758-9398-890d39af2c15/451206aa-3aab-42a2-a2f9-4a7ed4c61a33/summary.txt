@@ -1,0 +1,1 @@
+This paper investigates the influence of a magnetic field on the microstructural features of the MAR-M 246+Hf superalloy during directional solidification. The study compares samples solidified under a steady 5,000 Gauss magnetic field and under no magnetic field conditions, analyzing parameters such as carbide volume fraction, dendrite arm spacing, and chemical composition.
