@@ -1,0 +1,1 @@
+This paper presents a method to determine the Fermi level position in insulating (Ga,Mn)N layers using contactless electroreflectance spectroscopy. The results show that the Fermi level is strongly pinned in the middle of the band gap, enabling (Ga,Mn)N to serve as an excellent insulating buffer layer for GaN-based devices.
