@@ -1,0 +1,17 @@
+[
+  "The (Ga,Fe)N layers contain \u03b3'-GayFe4-yN nanocrystals, with the size of the nanocrystals estimated to be 22\u00b12 nm along the growth direction.",
+  "Sample A contains both \u03b1-Fe and \u03b3'-GayFe4-yN nanocrystals, while Sample B and the annealed Sample A* (A*) contain only the \u03b3'-GayFe4-yN nanocrystals.",
+  "The magnetic response of the samples is dominated by a superparamagnetic-like behavior and a paramagnetic contribution from dilute substitutional Fe3+ ions in the matrix.",
+  "The resistivity of all samples increases with decreasing temperature, exhibiting an Arrhenius-type conduction mechanism down to 50K, and a Mott variable range hopping (VRH) conduction mechanism at lower temperatures.",
+  "The transition from Arrhenius to Mott VRH conduction occurs between 50-25K for Samples A, A*, and GaN, while it shifts to 130-100K for the capped Sample B.",
+  "The Mott hopping temperature T0Mott is two orders of magnitude lower in the GaN reference compared to Samples A and A*, suggesting a larger ratio between the hopping distance and the localization length in the uncapped (Ga,Fe)N layers.",
+  "The magnetoresistance (MR) of Sample A* shows a negative slope up to a critical field, and a positive quadratic behavior at higher fields, attributed to quantum interference effects and spin-polarized hopping, respectively.",
+  "The anisotropic magnetoresistance (AMR) is observed to be positive in all samples containing the (Ga,Fe)N layers, and is one order of magnitude greater than previously reported for \u03b3'-Fe4N thin films.",
+  "The hysteretic behavior in the MR of Sample A* at low fields, with a shift of 120 mT between up and down field sweeps, is attributed to the spin polarization of the embedded nanocrystals.",
+  "The GaN capping layer in Sample B leads to a significant increase in the resistivity, by up to three orders of magnitude at low temperatures, due to the diffusion of dilute Fe ions from the (Ga,Fe)N layer.",
+  "The FMR measurements confirm the uniaxial out-of-plane magnetic anisotropy of the \u03b3'-GayFe4-yN nanocrystals, attributed to shape anisotropy, and the in-plane anisotropy related to the hexagonal crystal structure of the GaN matrix.",
+  "The annealing of Sample A leads to the removal of the \u03b1-Fe nanocrystals and the formation of polycrystalline FeOx at the surface, as confirmed by the XRD and TEM analyses.",
+  "The dilute Fe ions in the GaN matrix are found to occupy preferentially substitutional Ga-sites and be in the Fe3+ charge state.",
+  "The magnetization of Sample A* (annealed Sample A) shows a shift in saturation from 2T to 5T at 2K, and from 1T to 2T at room temperature, indicating the removal of the \u03b1-Fe nanocrystals.",
+  "The estimated hopping distance Rh for the Mott VRH in Sample A* is between 30-70 nm, while the localization length \u03be is in the range of 7-10 nm, fulfilling the condition Rh > \u03be for hopping conduction."
+]
