@@ -1,0 +1,1 @@
+This paper analyzes the steady-state response of an isolated horizontal axis wind turbine blade undergoing out-of-plane and in-plane vibrations using the method of multiple scales and harmonic balance. The authors derive the equations of motion, identify small parameters, and obtain frequency responses near superharmonic resonances.
