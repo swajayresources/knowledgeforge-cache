@@ -1,0 +1,1 @@
+This paper investigates the yielding and deformation behavior of the single crystal nickel-base superalloy PWA 1480 as a function of temperature, strain level, and strain rate. The results show that the yield strength is constant from 20-760°C, above which it drops rapidly and becomes strain rate dependent, indicating a transition to thermally activated deformation processes.
