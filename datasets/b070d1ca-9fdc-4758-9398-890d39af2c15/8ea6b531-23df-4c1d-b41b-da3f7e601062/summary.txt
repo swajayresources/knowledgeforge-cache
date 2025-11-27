@@ -1,0 +1,1 @@
+This paper provides an overview of NASA's HOST Surface Protection R&T program, which focused on thermal barrier coating (TBC) life prediction modeling for aircraft gas turbine engines in fiscal year 1986. The program involved contract, grant, and in-house efforts to develop TBC life prediction models, study the mechanical behavior of TBCs, and correlate rig and engine testing.
