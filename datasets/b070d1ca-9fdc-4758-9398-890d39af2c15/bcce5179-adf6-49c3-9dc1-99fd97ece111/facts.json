@@ -1,0 +1,17 @@
+[
+  "Current gas turbine engines are operating at pressure ratios around 25:1 and turbine inlet temperatures of 1600 K (2400\u00b0F).",
+  "Cycle study results indicate potential for further fuel savings by increasing pressure ratios up to 64:1 and turbine inlet temperatures over 1650 K (2500\u00b0F).",
+  "Combustor liner heat flux increases significantly with increasing inlet pressure, based on recent NASA experiments.",
+  "Experiments showed higher flame temperatures and radiant energy when using a fuel with 2% lower hydrogen content than Jet A, due to increased soot formation.",
+  "Existing radiation prediction models were unable to accurately capture the high radiant energy levels in the combustor secondary zone.",
+  "Transition from laminar to turbulent boundary layers on turbine blades is a major challenge, as the small disturbance theory used for external aerodynamics does not apply to the highly turbulent turbomachinery environment.",
+  "Film cooling is an increasingly important turbine blade cooling method, but optimization is challenging due to the complex interactions between coolant flow, main gas flow, and surface curvature.",
+  "Laser anemometer measurements have shown the Denton inviscid CFD code provides the best predictions of 3D velocity fields in turbine blade passages compared to other models.",
+  "Experiments on multi-pass turbine blade cooling passages have shown dramatic spikes in heat transfer coefficients at the 180-degree bends, very different from fully developed tube flow.",
+  "Verification of local coolant-side heat transfer coefficients at real engine conditions is extremely challenging due to the small size of the cooling passages.",
+  "NASA's HOST (Hot Section Technology) program is focused on producing improved design and analysis tools for predicting and designing gas turbine engine hot sections with improved reliability and durability.",
+  "Key research areas include fundamental experiments, analytical modeling of flow and heat transfer phenomena, and verification of advanced prediction techniques in facilities operating near real engine conditions.",
+  "Overcoming the current uncertainties in metal temperature prediction, which can be up to 100 K, is critical to enabling higher efficiency gas turbine engine cycles.",
+  "The iterative design process and need for 'overcooling' to ensure reliability adversely affects the ability to maximize cycle efficiency by minimizing cooling air usage.",
+  "Improved heat transfer design tools are needed to accurately predict combustor liner and turbine blade/vane temperatures and enable more reliable and durable hot section designs."
+]
