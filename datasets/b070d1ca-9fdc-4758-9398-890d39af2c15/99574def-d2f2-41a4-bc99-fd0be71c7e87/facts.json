@@ -1,0 +1,23 @@
+[
+  "Gaugera and Yinyu Yeb aChair for Scientific Computing, University of Kaiserslautern-Landau (RPTU), Germany; bDepartment of Management Science and Engineering and ICME, Stanford University, USA ARTICLE HISTORY Compiled October 16, 2023 ABSTRACT We formulate and solve data-driven aerodynamic shape design problems with dis- tributionally robust optimization (DRO) approaches",
+  "Building on the findings of the work [13], we study the connections between a class of DRO and the Taguchi methodinthecontextofrobustdesignoptimization",
+  "KEYWORDS Aerodynamic shape optimization; Distributionally robust optimization; Robust design optimization and Taguchi method; Stochastic gradient methods 1",
+  "Introduction Optimization under uncertainties remains one of the major challenges for aerody- namic design optimization [25]",
+  "Uncertainty has the potential to render an optimal shape design worthless, even if obtained using sophisticated numerical approaches, as their conclusions are not realized in practice due to inevitable variations in problem data [39]",
+  ") [3], but the incorporation of these data in design optimization is challenging",
+  "This paper presents a work towards data-driven design optimization using distributionally robust optimization (DRO) approaches [7] with applications in aerodynamic shape design",
+  "Motivation To account for the variability in the flight conditions [8], a multi-point optimization with the weighted sum formulation was introduced in [34], and is considered a stan- L",
+  "edu 3202 tcO 31 ]EC",
+  "sc[ 1v13980",
+  "0132:viXra 0",
+  "74 Mach Figure 1",
+  "Figure 1 illustrates such a multi-point aero- dynamicshapedesignoptimizationproblem,inwhichtheobjectivefunctionisdefined as a composite function through a weighted sum of five different flight conditions in Mach numbers and lift coefficients, 5 (cid:88) f(x) = \u03c9 c (x;Ma ,c ), (1) i d i li i=1 wherec isthe dragcoefficient,Maisthe machnumber,c isthe targetliftcoefficient, d l \u03c9 is the weight factor, and x is the shape design variable",
+  "The main shortcoming of (1) is the selection of appropriate flight points and their associated weights [28]",
+  "Figure 2 presents data points of a real flight of an A320 from Helsinki to Munich1",
+  "We present data-driven design optimization frameworks for aerodynamic shape design with DRO",
+  "We present stochastic algorithms for solving the proposed aerodynamic shape design optimization problems that include additional inequality constraints",
+  ",m i \u2264 In the following, we present several data-driven optimization frameworks based on (DET)",
+  "In particular, we show that under certain conditions, the \u03c72-divergence based DRO can be viewed as a dual optimization formulation of the Taguchi method",
+  "\u03c72-divergence DRO: a dual view on Taguchi method We show non-asymptotic result on the equivalence with a particular choice of the divergence measure, the \u03c72-divergence",
+  "We show a pseudocode of stochastic GDAM in Algorithm 1, which uses a fix-length step size rule, i"
+]
