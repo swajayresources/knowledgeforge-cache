@@ -1,0 +1,17 @@
+[
+  "Optimal Transport is the canonical method for comparing probability measures and has been successfully applied in a wide range of areas, including computer vision, computer graphics, and natural language processing.",
+  "The Kantorovitch problem is a linear program, and its complexity scales at least in O(d^3 log(d)), where d = max(n,m) and n and m are the number of discrete elements in the source and target measure spaces, respectively.",
+  "The entropy-regularized OT problem becomes strongly convex and can be solved efficiently using iterative scaling algorithms like Sinkhorn-Knopp in the discrete case and Fortet in the continuous case.",
+  "The ideal design in the FPD-OT framework is the extended Gibbs kernel, which is defined in terms of the transportation cost function c(x,y) and a fixed reference probability density function \u03c6.",
+  "The entropy-regularized OT problem is a special case of the FPD-OT framework, where the ideal design is the Boltzmann distribution with the transportation cost as the energy and the regularization term proportional to the temperature.",
+  "The FPD-OT framework can endow the conventional OT framework with the necessary mechanisms for processing more sophisticated, probabilistic knowledge constraints, such as moment constraints.",
+  "The FPD-OT framework allows the joint probability density function \u03c0(x,y|K) to become a stochastic object, endowed with its own Hierarchical Bayesian model, which can explicitly model the uncertainty in the marginals \u03bc and \u03bd.",
+  "The Kullback-Leibler divergence is used as the utility (loss) function in the FPD problem to compare and rank the candidate probability densities based on their degree of closeness to the ideal design.",
+  "The FPD-OT framework is \u03b5-strongly convex, which guarantees the existence of a unique solution.",
+  "The introduction of an entropy term in the OT problem can be viewed as a direct application of Jaynes' Maximum Entropy principle, which is a key concept in the FPD framework.",
+  "The FPD-OT framework can be used to design robust probability densities by explicitly modeling the uncertainty in the marginals \u03bc and \u03bd.",
+  "The FPD-OT framework can be used to process more sophisticated, probabilistic knowledge constraints in the OT problem, such as moment constraints.",
+  "The Boltzmann-Shannon entropy-regularized OT problem is a special case of the FPD-OT framework, where the ideal design is the Boltzmann distribution.",
+  "The FPD-OT framework provides new theoretical insights for both the OT and FPD frameworks, laying the foundations for their application in subsequent work.",
+  "The authors suggest that the FPD-OT framework can be used in a wide range of machine learning applications, such as domain adaptation, adversarial training, and distributed learning."
+]
