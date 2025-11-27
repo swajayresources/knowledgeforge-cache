@@ -1,0 +1,1 @@
+The paper discusses the importance of improving methods for predicting turbine metal temperatures, which requires advancements in modeling hot gas flow over turbine airfoils and cooling air flow inside the airfoils. The paper outlines the experimental and analytical approaches being pursued to achieve these improvements.
