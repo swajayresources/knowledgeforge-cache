@@ -1,0 +1,17 @@
+[
+  "A 12% reduction in cooling flow can lead to a 3.6% fuel burn reduction.",
+  "Saving 5% of the core flow can result in a 1-1.5% fuel burn reduction.",
+  "Further modulation based on real-time conditions could provide an additional 1.5% fuel burn savings.",
+  "The infrared thermography method involves dividing the blade surface into zones, detecting the hottest spots, and comparing the temperatures to a target effectiveness.",
+  "Fluidic devices can control the relative flow through different exit tubes by applying suitable pressure to the control orifices, allowing for orders of magnitude less weight and space compared to using a mechanical valve.",
+  "Phosphorescence is a non-contact method that is insensitive to surface emissivity and reflected radiation, while infrared pyrometry has been problematic due to these issues.",
+  "The phosphor testing was delayed due to sample cracking and burner rig issues, but is expected to be completed by April.",
+  "The cooling circuit branches at the compressor and turbine stages, allowing for control of the cooling flow at the blade row and individual blade level.",
+  "A Space Act Agreement is in process with GE to apply the real-time closed-loop cooling system concept to a GE-specific engine.",
+  "The next steps include testing the phosphor thermometry in a burner rig, comparing it to infrared thermography, developing a prototype controller, and investigating the system's performance under degradation.",
+  "The infrared thermography experiments demonstrated the ability to detect hot spots on a test plate and a Honeywell stator vane.",
+  "The researchers developed an algorithm to modulate the cooling based on the temperature distribution detected by the infrared thermography.",
+  "The key hurdles include achieving the required resolution, precision, and processing speed for the thermal mapping, developing the interface and algorithm, ensuring performance under degradation, providing optical access in the harsh engine environment, and designing a failsafe system.",
+  "The system uses phosphorescence and infrared thermography to detect the thermal map on turbine blades and adjusts the cooling flow accordingly to optimize fuel efficiency.",
+  "The modulation is achieved by controlling the massflow of compressor core flow that is diverted to the turbine, with the remaining flow continuing to the combustor."
+]
