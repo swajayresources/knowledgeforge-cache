@@ -1,0 +1,1 @@
+This paper analyzes the effect of asymmetric slip boundary conditions on the hydrodynamics, heat transfer, and entropy generation characteristics of pressure-driven microflows of a power-law fluid. The authors derive exact analytical expressions and show that asymmetric slip can enhance heat transfer and reduce irreversibility compared to symmetric slip conditions.
