@@ -1,0 +1,17 @@
+[
+  "The inverse design method prescribes desired distributions of angle of attack (\u03b1) and axial induction factor (a) along the blade, and computes the blade geometry (twist and chord) that realizes these desired performance parameters.",
+  "The direct solver used in the inverse design approach is the Reynolds Averaged Navier-Stokes (RANS) equations, with the effect of the turbine rotor modeled using the actuator disk method (ADM).",
+  "The inverse design algorithm uses an iterative approach, starting with an initial guess of the blade geometry and updating it using the Trust-Region-Reflective optimization method to minimize the difference between the calculated and desired \u03b1 and a distributions.",
+  "The mesh sensitivity study shows that a grid resolution of 101x229 cells is sufficient to obtain grid-independent results for the RANS/ADM solver.",
+  "The inverse design method is verified through three test cases: (1) designing a Betz-optimum single-rotor turbine, (2) designing a turbine blade with different airfoils along the span using RANS/ADM, and (3) designing a single-rotor turbine blade using BEM as the direct solver.",
+  "The Trust-Region-Reflective (TRF) method is found to provide better convergence than the multi-dimensional Newton iteration method when constraints are imposed on the blade design, such as limits on the chord length.",
+  "The dual-rotor wind turbine (DRWT) configuration can efficiently harness energy from the blade root region and enhance flow entrainment in the turbine wake, leading to faster wake mixing and reduced wake losses.",
+  "The inverse design method is general enough to work for turbines with an arbitrary number of rotor disks and is not limited to dual-rotor configurations.",
+  "Prescribing angle of attack (\u03b1) as the desired aerodynamic performance parameter is advantageous over prescribing lift coefficient (cl) because the \u03b1-cl curve is multi-valued, which can pose problems in the iterative design process.",
+  "The inverse design algorithm uses nonlinear least squares regression with the Trust-Region-Reflective method to update the blade geometry (twist and chord) at each iteration.",
+  "The computational setup for the inverse design approach assumes a uniform, smooth inflow, identical rotor blades, and only considers mean (time-steady) performance to minimize design time.",
+  "The inverse design method has the potential to explore blade designs that maximize wake mixing and minimize wake losses in wind farms.",
+  "Manufacturing and transportation constraints on conventional, utility-scale wind turbine blades result in aerodynamically sub-optimal designs in the blade root region, which the dual-rotor configuration can address.",
+  "The inverse design algorithm is implemented in the unstructured, finite volume solver simpleFOAM (part of OpenFOAM) and has been previously validated against experimental data.",
+  "The inverse design method is demonstrated for both conventional single-rotor horizontal axis wind turbines and extended to multi-rotor, specifically dual-rotor wind turbines."
+]
