@@ -1,0 +1,17 @@
+[
+  "The study involved an examination of the rotor fixture assembly to understand its functionality under standard boundary conditions.",
+  "The fixture components were modeled in NX CAD.",
+  "Finite Element Analysis was conducted both before and after the Topology Optimization process using the Density-based method in ANSYS.",
+  "The objective was to optimize rotor fixture design for additive manufacturing to reduce weight and lead time.",
+  "The topology optimization process resulted in a 16.3% mass reduction for the solid model and 27.5% for the shell model while maintaining stiffness.",
+  "Metal additive manufacturing reduced lead time by 46% despite a 17% increase in cost compared to conventional machining.",
+  "The axial rotor is 2,501 mm long and weighs 2,445 kg.",
+  "The reaction force Ra on the bearing is 11,489.8 N, and Rb on the rotor fixture is 12,486.6 N.",
+  "60% of the dead weight is on the central pad, with 20% each on the side pads.",
+  "The yield strength of steel, the chosen material for the rotor fixture, is typically around 250 MPa.",
+  "The maximum stress value for the new solid body design is 9.8341 MPa, and the maximum deformation is 0.00275 mm.",
+  "The maximum stress value for the new shell body design is 27.487 MPa, and the maximum deformation is 0.00709 mm.",
+  "Conventional machining cost for the rotor fixture is \u20ac9,450 with a lead time of 63 days.",
+  "Metal Additive Manufacturing cost for the rotor fixture is \u20ac11,440, with a 46% reduction in lead time to 34 days.",
+  "The project involved the assessment of additive manufacturing by reducing the weight of the rotor fixture through topology optimization."
+]
