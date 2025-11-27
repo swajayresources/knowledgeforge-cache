@@ -1,0 +1,1 @@
+This paper presents a parametric and feasibility study on the data sampling of the Dynamic Mode Decomposition (DMD) technique, focusing on the range, resolution, and convergence states. The study uses the turbulent free-shear flow over a prism as the test case and employs Large-Eddy Simulation with Near-Wall Resolution to generate high-fidelity data for the DMD analysis.
