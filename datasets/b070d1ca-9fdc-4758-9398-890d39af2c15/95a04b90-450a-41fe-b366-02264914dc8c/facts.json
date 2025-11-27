@@ -1,0 +1,12 @@
+[
+  "Typical turbine-inlet temperatures are of the order of 1650 K (2500\u00b0F) or higher.",
+  "Typical heat fluxes in turbine blades are of the order of 5.5 x 10^6 watts per square meter.",
+  "Wall-to-coolant temperature ratios in turbine blades can be of the order of 2.5 to 1.",
+  "Rotational speeds for advanced large gas turbines can be of the order of 17,000 rpm, and for small turbines 65,000 rpm.",
+  "Acceleration levels for advanced large gas turbines can be of the order of 75,000 g's, and for small turbines 400,000 g's.",
+  "The Dittus-Boelter correlation can have errors of the order of 4% under the high temperature and heat flux conditions found in turbine blades.",
+  "The Petukhov-Popov correlation for constant physical properties in circular pipes has been used in addition to the Dittus-Boelter correlation.",
+  "Correlations have been developed that account for the effect of variable physical properties, showing that the heat transfer coefficient decreases as the wall-to-bulk temperature ratio increases.",
+  "Heat transfer in noncircular ducts is generally less than in circular ducts under the same conditions.",
+  "Pressure drop in noncircular ducts can be equal to or less than in circular ducts at constant property conditions, but greater at variable property conditions."
+]
