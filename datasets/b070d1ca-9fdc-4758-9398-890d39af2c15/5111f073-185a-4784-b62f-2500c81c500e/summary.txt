@@ -1,0 +1,1 @@
+This paper presents predictions of heat transfer to the tip and shroud of a gas turbine rotor blade using a multi-block Navier-Stokes solver. The effects of inlet boundary layer thickness and rotation rate on the tip and shroud heat transfer are examined, and the results are compared to experimental measurements.
