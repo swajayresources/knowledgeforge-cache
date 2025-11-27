@@ -1,0 +1,17 @@
+[
+  "The paper presents a comprehensive forced response analysis of the Pratt and Whitney Rocketdyne J-2X engine turbopumps.",
+  "A 360-degree computational fluid dynamics (CFD) analysis is used to capture the complex, non-cyclically symmetric dynamic pressure loading in the turbine flow field.",
+  "The temporal frequency content of the dynamic pressure from the CFD analysis provides indicators of forcing function excitation frequencies, such as multiples of blade pass frequency.",
+  "Campbell diagrams are generated using the forcing function frequencies and NASTRAN modal analysis results to identify components with modes in the engine operating range.",
+  "Cyclically symmetric structural models have been used in the past to analyze turbine vane and blade rows, but this approach does not capture the non-cyclically symmetric dynamic pressure loading.",
+  "A MATLAB script is used to calculate displacements due to the complex, cyclically asymmetric dynamic pressure components predicted by the CFD analysis.",
+  "The MATLAB-calculated displacements are read into NASTRAN, where dynamic stresses are calculated, including an adjustment for possible mistuning.",
+  "A NASTRAN static analysis is performed to calculate static stresses due to centrifugal, thermal, and pressure loading at the mode running speed.",
+  "The MATLAB script is used to generate the high cycle fatigue safety factors at each grid in the blade/vane row.",
+  "The current approach, which accounts for the non-cyclically symmetric dynamic pressure loading, provides better assurance that the worst-case safety factor has been identified compared to an approach that assumes cyclic symmetry.",
+  "The paper provides an extended example for a J-2X turbopump component.",
+  "The study focuses on the analysis of turbine vane and blade rows in the J-2X engine turbopumps.",
+  "The 360-degree CFD analysis is used to capture dynamic pressure waves caused by adjacent and non-adjacent blade/vane rows upstream and downstream of the row analyzed.",
+  "The MATLAB script is used to generate the HCFSF (high cycle fatigue safety factor) at each grid in the blade/vane row.",
+  "The paper states that forced response and static analyses are required for the prediction of combined stress and high cycle fatigue safety factors."
+]
