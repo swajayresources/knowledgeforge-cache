@@ -1,0 +1,17 @@
+[
+  "NASA AVRADCOM Technical Paper 1259 Technical Report 78-19(PL) FORTRAN Program for Calculating Coolant Flow and Metal Temperatures of a Full-Coverage-Film-Cooled Vane or Blade Opy Peter L",
+  "Meitner JULY 1978 NASA NASA AVRADCOM Technical Paper 1259 Technical Report 78-19(PL) FORTRAN Program for Calculating Coolant Flow and Metal Temperatures of a Full-Coverage-Film-Cooled Vane or Blade Peter L",
+  "Meitner Propulsion Laboratory, AVRADCOM Research and Technology Laboratories Lewis Research Center Cleveland, Ohio NASA National Aeronautics and Space Administration Scientific and Technical Information Office 1978 CONTENTS Page SUMMARY 1 INTRODUCTION 2 METHOD OF ANALYSIS 3 Geometry and Terminology 3 Assumptions 3 Flow Analysis 4 Vane 4 Blade 5 Heat-Transfer Analysis 6 PROGRAM INPUT 7 Title Card 8 Tabular Input Cards 8 Chamber Input Cards 9 PROGRAM OUTPUT 10 Units and Option Messages 11 Impingement Hole Input Data 12 Film-Cooling Hole Input Data 12 Impingement Flow Results 13 Film -Cooling Flow Results 13 Heat-Transfer Results 14 Error Messages 16 Main program 16 Subroutine TMETO 17 Subroutine MNEW 17 Subroutine SPLINE 17 EXAMPLE PROBLEMS 17 Example 1 18 Example 2 18 APPENDICES A - SYMBOLS 19 B - EQUATIONS 22 C - DERIVATION OF EQUATIONS FOR METAL TEMPERATURE DISTRIBU- TION AND COOLANT TEMPERATURE RISE IN A TWO-LAYER POROUS WALL 29 iii Preceding Page Blank D - PROGRAM STRUCTURE AND FUNCTION 35 E - PROGRAM VARIABLES DICTIONARY 37 F - PROGRAM LISTING 50 REFERENCES 74 iv FORTRAN PROGRAM FOR CALCULATING COOLANT FLOW AND METAL TEMPERATURES OF A FULL-COVERAGE- FILM-COOLED VANE OR BLADE by Peter L Meitner Propulsion Laboratory U",
+  "Numerous experiments and analyses of various aspects of full-coverage film cooling have appeared in the open literature, and the analysis of this report is based in part on the results of references 3 to 6",
+  "Reference 3 approximates full-coverage film cooling as a form of transpiration cooling and derives the equations for metal and coolant temper- ature distribution for specified coolant flow, specified shell outer-surf ace temperature, and specified back-side-impingement and internal-wall heat-transfer coefficients",
+  "Ref- erence 4 describes a computer program that calculates the heat-transfer coefficients for a turbulent boundary layer on a porous wall and reference 5 describes a discrete-hole blowing model for full-coverage film cooling",
+  "Reference 6 establishes flow coefficients for a typical full-coverage-film-cooled geometry",
+  "For the heat-transfer calculations the equations of reference 3 are expanded and modified for a two-layer model to allow the inclusion of a thermal-barrier coating",
+  "The computer program is in FORTRAN IV and is operational on a UNTVAC 1100/42 computer",
+  "The program consists of 1650 cards and occupies 22 500 36-bit words of memory",
+  "Its execution time is typically less than 15 seconds",
+  "METHOD OF ANALYSIS Geometry and Terminology Figure 1 shows a section of atypical full-coverage-film-cooled blade",
+  "Figure 2 shows a cross section of a chamber and identifies the coolant flow stations",
+  "Station 1 is the supply plenum, station 2 is the impingement orifice plane, station 3 is the impingement plenum, and stations 4 and 5 are the inlet and outlet of the film-cooling holes, respectively",
+  "Station 6 is the main-stream gas flow immediately adjacent to the shell outer surface"
+]
