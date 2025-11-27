@@ -1,0 +1,17 @@
+[
+  "The experiments were conducted in an isentropic compression tube facility at the von Karman Institute, providing 100 to 800 ms of testing time.",
+  "The airfoil model was designed to reproduce the velocity distribution encountered in a modern cooled turbine airfoil, with a maximized trailing edge diameter to increase the spatial and temporal resolution of the vortex shedding phenomena.",
+  "Pulsating coolant ejection was provided by a perforated rotating disc, with a frequency of 200 Hz and a 12% fluctuation of the mean coolant mass flow.",
+  "The highest reduction in shock intensity was achieved with pulsating cooling, compared to the uncooled and continuous cooling cases.",
+  "Increasing the Reynolds number from 4 x 10^6 to 6 x 10^6 had a stabilizing effect, reducing the RMS of the shock wave angle.",
+  "A substantial increase in base pressure was observed for low coolant blowing rates, while pulsating cooling maintained the base pressure at the same level as continuous cooling with the same average ejection pressure.",
+  "The frequency of the vortex shedding in the wake was increased by the coolant ejection, which first pushed the vortex formation location downstream and at high ejection rates divided the base region into two.",
+  "The shock wave angle fluctuated at a frequency of about 20 kHz for the uncooled case, corresponding to the vortex shedding frequency. With pulsating cooling at 200 Hz, the shock angle variations occurred at the same pulsating frequency.",
+  "The numerical simulations provided detailed information on the flow field, including the shock wave location and pressure distributions, which helped interpret the experimental results where the shock impingement location was between measurement points.",
+  "The authors state that the implementation of the pulsating cooling scheme in turbine applications might lead to turbine efficiency and life-span increase.",
+  "The Nusselt number distributions on the suction side showed that the boundary layer transition was delayed by the introduction of continuous and pulsating coolant ejection.",
+  "For supersonic conditions, the coolant affected the region downstream of the shock impingement, displacing the shock location upstream.",
+  "The experiments utilized pressure measurements, high-speed Schlieren flow visualizations, and unsteady surface temperature measurements using thin-film gauges to characterize the flow field and heat transfer.",
+  "The computational mesh was prepared with special attention to the resolution on the wall, the base, and the wake regions, with an O-grid of 20 prismatic layers around the airfoil profile and a resulting y+ value below 1.",
+  "The computational time required to achieve full convergence was 1344 CPU hours in two processors, dual-core AMD Opteron with 4GB RAM."
+]
