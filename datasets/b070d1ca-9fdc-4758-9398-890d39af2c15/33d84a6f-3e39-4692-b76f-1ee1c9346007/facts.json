@@ -1,0 +1,17 @@
+[
+  "The AM1 alloy is a first-generation monocrystalline nickel-based superalloy used for high-pressure turbine blades in aeronautical gas turbines.",
+  "Previous studies on the oxidation of AM1 and similar superalloys have only reported data at the highest temperatures of use (1100-1150\u00b0C).",
+  "The SMT-TGA method was used to measure the oxidation kinetics of AM1 over the wide temperature range of 750-1300\u00b0C using a single sample.",
+  "Over the temperature range of 1050-1300\u00b0C, the parabolic rate constant (kp) for AM1 followed a single Arrhenius law close to that reported for the growth of \u03b1-alumina on NiAl.",
+  "Between 750-950\u00b0C, the kp values for AM1 followed a different Arrhenius law, indicating a transient oxidation regime.",
+  "The transient oxidation regime was characterized by a decrease in kp over time, especially pronounced at the lower temperatures.",
+  "Isothermal oxidation tests confirmed the transient oxidation behavior of AM1, showing a fast initial oxidation rate followed by a slower parabolic regime.",
+  "XRD and SEM-EBSD analysis showed the oxide scale on AM1 at 1100\u00b0C was composed of \u03b1-alumina, spinel, and rutile precipitates.",
+  "At 950\u00b0C, the oxide scale contained \u03b1-alumina, spinel, rutile, bunsenite, and ilmenite, indicating a less protective scale.",
+  "At 800\u00b0C, alumina formed as elongated precipitates rather than a continuous protective layer.",
+  "The proposed model accounts for the initial fast growth of a transient mixed oxide followed by the gradual formation of a protective \u03b1-alumina layer.",
+  "The time required for AM1 to exit the transient oxidation regime and reach the steady-state parabolic kinetics can be determined using the proposed model.",
+  "The model allows predicting the oxidation kinetics of AM1 over the entire 750-1300\u00b0C temperature range studied.",
+  "Hafnium present in the AM1 alloy may contribute to the slightly lower parabolic rate constants compared to literature data for NiAl.",
+  "The SMT-TGA method proved effective for rapidly determining the oxidation kinetics of AM1 over a wide temperature range using a single sample."
+]
