@@ -1,0 +1,17 @@
+[
+  "The turbine configuration consists of 21 vane airfoils and 52 rotor blades, with a 2-vane/5-rotor blade count approximation used in the simulations.",
+  "The rotor tip clearance was set at a typical value of approximately 2.5% of the rotor height.",
+  "The inlet Mach number is 0.12, the inlet static pressure is 15.2 MPa, and the inlet static temperature is 1232 K.",
+  "The rotor rotates at 31,300 RPM, and the Reynolds number (based on the inlet conditions and the rotor axial chord) is approximately 5 x 10^5.",
+  "The ratio of the rotor exit static pressure to vane inlet total pressure is 0.1875.",
+  "The operating fluid in the turbine is a gaseous hydrogen mixture.",
+  "The meanline analysis predicts insignificant changes in the total-to-total and total-to-static efficiencies for the variable specific heats case, while the Navier-Stokes analysis predicts a small decrease in the efficiencies.",
+  "Both the meanline and Navier-Stokes analyses predict a slight decrease in the work extracted by the turbine for the variable specific heats case.",
+  "The Navier-Stokes results indicate increased pressure unsteadiness in the endwall regions for the variable specific heats case.",
+  "The average value of y+, the non-dimensional distance of the first grid line above the surface, was approximately 1.5 for the airfoil surfaces and 3.5 for the endwalls.",
+  "The total number of grid points used to discretize the turbine was 1,363,022.",
+  "The simulations were run on seven 250 MHz processors of an SGI Origin2000, with each iteration requiring approximately 16 seconds of computation time.",
+  "The time periodicity of the solutions was determined by plotting pressure traces at different points along the airfoil surfaces.",
+  "The coefficients for the variable specific heats equation for hydrogen are provided for temperatures between 300 and 1000 K, and 1000 and 5000 K.",
+  "The addition of the variable specific heats subroutine resulted in less than a 5% increase in CPU time."
+]
