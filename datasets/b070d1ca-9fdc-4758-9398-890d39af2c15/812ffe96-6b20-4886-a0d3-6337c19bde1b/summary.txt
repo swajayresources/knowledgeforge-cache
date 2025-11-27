@@ -1,0 +1,1 @@
+This paper presents an experimental and numerical investigation of conjugate heat transfer in a rib-roughened duct, which is relevant for the internal cooling of turbine blades. The study focuses on characterizing the flow field, thermal field, and the role of coherent structures in heat transfer enhancement.
