@@ -1,0 +1,17 @@
+[
+  "The centrifugal compressor had a design speed of 21,789 ft/s (exit tip speed of 1615 ft/s).",
+  "The impeller had 15 blade/splitter pairs with spanwise varying backsweep, lean, and elliptical leading and trailing edges.",
+  "The diffuser had 20 vane/splitter pairs with the splitters offset to maximize pressure recovery.",
+  "The exit guide vanes (EGVs) had 60 cascade-style airfoils.",
+  "The test facility (CE-18) had a maximum capacity of 6000 hp, 60,000 rpm, and 30:1 pressure ratio.",
+  "The design intent for the exit corrected flow rate was 2.1 < \u1e41c,ex < 3.1 lb/s, and the measured value was 2.98 lb/s.",
+  "The design intent for the work factor (\u0394Ho/U2) was 0.60 < \u0394Ho/U2 < 0.75, and the measured value was 0.793.",
+  "The design intent for the diameter ratio (Dmax/D2) was < 1.45, and the measured value was 1.45.",
+  "The design intent for the stability margin was 13%, and the measured value was 7.5%.",
+  "The measured adiabatic efficiency was 0.822 \u00b1 0.011, compared to the design intent of > 0.88.",
+  "The measured polytropic efficiency was 0.855, compared to the design intent of 0.888.",
+  "The measured exit Mach number was 0.18, compared to the design intent of 0.15.",
+  "The measured exit flow angle was 34.3 degrees, compared to the design intent of 14 degrees.",
+  "The diffuser static pressure rise increased from choke to stall, but was lower than the design intent.",
+  "The measured impeller exit corrected flow characteristic was lower than the design intent and pre-test CFD predictions."
+]
