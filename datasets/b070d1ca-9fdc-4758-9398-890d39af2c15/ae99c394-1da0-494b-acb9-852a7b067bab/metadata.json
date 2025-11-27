@@ -1,0 +1,15 @@
+{
+  "paper_id": "ae99c394-1da0-494b-acb9-852a7b067bab",
+  "title": "Turbine heat transfer",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ae99c394-1da0-494b-acb9-852a7b067bab/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ae99c394-1da0-494b-acb9-852a7b067bab/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ae99c394-1da0-494b-acb9-852a7b067bab/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ae99c394-1da0-494b-acb9-852a7b067bab/keywords.json"
+  ]
+}
