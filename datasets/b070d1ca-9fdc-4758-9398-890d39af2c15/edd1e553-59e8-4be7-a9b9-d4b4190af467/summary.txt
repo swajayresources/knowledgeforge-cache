@@ -1,0 +1,1 @@
+This paper compares the computational fluid dynamics (CFD) predictions of vertical axis wind turbine (VAWT) performance against detailed experimental pressure measurements. The study evaluates the accuracy of the SST k-ω and SST k-ω with intermittency transition turbulence models in 2D and 3D simulations.
