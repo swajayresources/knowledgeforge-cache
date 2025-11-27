@@ -1,0 +1,1 @@
+The paper discusses the development of Hot Structure Control Surfaces (HSCS) technology for the X-37 Orbital Vehicle, which aims to enable the use of lightweight carbon-carbon (C-C) and carbon-silicon-carbide (C-SiC) composite materials for the vehicle's aerodynamic control surfaces instead of traditional metallic or polymer-matrix composites.
