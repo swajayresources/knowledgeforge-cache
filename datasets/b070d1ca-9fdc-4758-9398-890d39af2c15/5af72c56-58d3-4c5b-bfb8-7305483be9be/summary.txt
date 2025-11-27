@@ -1,0 +1,1 @@
+This paper investigates the effects of turbulent inflow on the structural deformation of wind turbine blades using field measurements from a 2.5 MW wind turbine. The study analyzes the blade root bending moments and strain measurements at different locations along the blade to understand the turbulence-blade interaction across multiple frequency ranges.
