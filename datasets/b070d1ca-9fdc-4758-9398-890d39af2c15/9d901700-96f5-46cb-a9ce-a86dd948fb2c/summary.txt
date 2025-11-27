@@ -1,0 +1,1 @@
+This paper uses gauge/gravity duality to compute the energy density and angular distribution of power radiated by a quark undergoing circular motion in strongly coupled N=4 super Yang-Mills theory. The results are qualitatively similar to synchrotron radiation, with the radiation emitted in a narrow beam along the quark's velocity vector.
