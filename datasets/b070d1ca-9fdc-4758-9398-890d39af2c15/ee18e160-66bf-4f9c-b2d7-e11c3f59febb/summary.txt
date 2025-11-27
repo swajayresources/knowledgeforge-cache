@@ -1,0 +1,1 @@
+This paper proposes a novel reversible binary compressor circuit using a new reversible gate called 'inventive0'. The compressor circuits, including 4:2 and 5:2 versions, are designed and analyzed in terms of garbage outputs, quantum cost, and logical complexity, showing improvements over existing designs.
