@@ -1,0 +1,17 @@
+[
+  "The multi-material coating design consists of 7 bilayers of SiO2/Ta2O5 in the outer layers, followed by 5 bilayers of aSi/SiO2 in the inner layers.",
+  "The multi-material coating design reduces the total number of coating layers from 38 to 26, while maintaining the same high reflectivity of ~0.5 ppm transmission.",
+  "Experimental measurements showed the multi-material coating stack can achieve an optical absorption of only (5.3 \u00b1 0.4) ppm at 1550 nm.",
+  "The multi-material coating design can reduce Brownian thermal noise by 25% compared to standard SiO2/Ta2O5 coatings.",
+  "aSi has a significantly higher refractive index of 3.5 compared to 2.2 for Ta2O5, allowing thinner high-index layers and fewer total coating layers.",
+  "The mechanical loss of aSi is at least a factor of 10 lower than Ta2O5 at cryogenic temperatures, providing another direct reduction in coating thermal noise.",
+  "The total thickness of the multi-material coating stack is reduced from 8.684 \u03bcm to 5.701 \u03bcm, a 34% reduction.",
+  "Experimental measurements showed the SiO2/Ta2O5 coating stack had an optical absorption of (1.7 \u00b1 0.3) ppm at 1550 nm.",
+  "The aSi/SiO2 coating stack had an optical absorption of 1035 ppm for s-polarization and 1428 ppm for p-polarization at 1550 nm and 42 degree angle of incidence.",
+  "Cryogenic operation is planned for future gravitational wave detectors like Advanced LIGO and the Einstein Telescope, in order to reduce thermal noise in the test mass mirrors.",
+  "Crystalline silicon (cSi) is planned to be used as the substrate material in future gravitational wave detectors due to its low mechanical loss at cryogenic temperatures.",
+  "The SiO2/Ta2O5 coating stack requires 18 bilayers to achieve high reflectivity, while the aSi/SiO2 stack only requires 8 bilayers.",
+  "The multi-material coating design reduces the total coating thickness by 34% compared to the standard SiO2/Ta2O5 design.",
+  "The mechanical loss of aSi decreases with decreasing temperature, leading to lower thermal noise at cryogenic temperatures compared to the SiO2/Ta2O5 stack.",
+  "The multi-material coating design places the higher-absorbing aSi layers in the lower-intensity region of the coating stack to maintain low overall optical absorption."
+]
