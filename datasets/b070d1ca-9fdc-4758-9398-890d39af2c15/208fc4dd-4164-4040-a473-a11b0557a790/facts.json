@@ -1,0 +1,18 @@
+[
+  "Sensitivity of Numerical Predictions to the Permeability Coefficient in Simulations of Melting and Solidification Using the Enthalpy-Porosity Method Amin Ebrahimi1,\u2020, Chris R",
+  "Kleijn2, and Ian M",
+  "Richardson1 1Department of Materials Science and Engineering, Delft University of Technology, Mekelweg 2, 2628CD Delft, The Netherlands 2Department of Chemical Engineering, Delft University of Technology, van der Maasweg 9, 2629HZ Delft, The Netherlands \u2020Corresponding author, Email: A",
+  "Energies 2019, 12(22), 4360 1 DOI: 10",
+  "3390/en12224360 0202 rpA 62 ]nyd-ulf",
+  "scisyhp[ 1v86141",
+  "4002:viXra 1 Introduction Numericalsimulationsofmeltingandsolidificationprocessesarecriticaltodevelopourunderstanding of phase transformations that occur in various technologies such as additive manufacturing, thermal energy storage, anti-icing and materials processing",
+  "It is however challenging due to the involvement of the moving boundary problem [1] and the wide range of length and time scales in transport phenomena during solid\u2013liquid phase transformations [2]",
+  "Different numerical techniques have been developed to resolve the transport phenomena and the solid\u2013liquid phase transition at different scales, which have been reviewed in [3, 4, 5, 6]",
+  "Techniques for numerically modelling solid\u2013liquid phase transitions at the continuum level have generally been divided into transformed-grid and fixed-grid approaches [4]",
+  "Detailed information on the derivation and implementation of these approaches can be found in the literature [7, 8, 9]",
+  "The focus of the present work is on the fixed-grid approach in which latent heat effects and fluid flow near the liquid\u2013solid interface are taken into account through the inclusion of thermal energy and momentum source terms in that region [3]",
+  "However, interface smearing is an inherent disadvantage, which may be diminished by applying local grid refinement near the solid\u2013liquid interface [10, 11, 12]",
+  "Flow velocities in the liquid phase, particularly in the so-called mushy zone close to the solid interface,wherephase-changetakesplaceoverameltingtemperaturerange[13],canhaveasignificant influence on the local heat transfer [14]; it is therefore crucial to predict fluid flow in the mushy zone with a sufficient level of accuracy",
+  "Of the various approaches that have been employed for this purpose [15, 16, 17], the porosity approach is the most common",
+  "The following dimensionless parameters are utilised to construct a framework for analysing our results"
+]
