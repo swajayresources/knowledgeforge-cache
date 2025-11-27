@@ -1,0 +1,17 @@
+[
+  "The SWIFT multiblock Navier-Stokes analysis code was used for the turbomachinery simulations.",
+  "Giles' characteristic boundary conditions were used at the averaging planes to allow close spacing between blade rows without forcing the flow to be axisymmetric.",
+  "Two averaging techniques were used: the mixed-out average and the kinetic energy average.",
+  "The two-stage fuel turbine from the space shuttle main engine was analyzed, with a total grid size of about 1.09 million points.",
+  "The computed mass flow rate of 2.644 kg/sec (5.83 lb/sec) matched the experimental measurement exactly.",
+  "The computed surface pressure distributions and blade heat transfer coefficients showed very good agreement with experimental data.",
+  "Eigenvalue scaling and preconditioning were used to improve the numerical convergence of the low-Mach number flow.",
+  "The mixed-out average represents the flow after mixing losses, while the kinetic energy average represents the local state of the flow.",
+  "The characteristic boundary conditions produced a much smoother pressure field near the exit compared to a constant-pressure condition in the two-dimensional analysis.",
+  "The averaging-plane method maintains spanwise consistency between blade rows but still has some modeling limitations compared to full unsteady methods.",
+  "The average-passage method provides a rigorous foundation for modeling unsteady blade row interaction but has not been widely used due to its complexity.",
+  "Successive analysis of isolated blade rows is a simple approach but has many modeling issues, such as difficulty matching inlet and exit conditions between blade rows.",
+  "Full unsteady methods avoid many modeling assumptions but are computationally very expensive.",
+  "The SWIFT code uses an explicit finite-difference scheme with viscous terms in the blade-to-blade and hub-to-tip directions.",
+  "The Cebeci-Smith turbulence model was used, with all boundary layers assumed to be fully turbulent."
+]
