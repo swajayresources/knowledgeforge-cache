@@ -1,0 +1,1 @@
+This paper describes the design, fabrication, and testing of a high-efficiency centrifugal compressor stage for rotorcraft applications. The compressor achieved a pressure ratio of 4.68 and polytropic efficiency of 85.5% at the design point, though the results were lower than pre-test CFD predictions due to unsteady impeller-diffuser interactions.
