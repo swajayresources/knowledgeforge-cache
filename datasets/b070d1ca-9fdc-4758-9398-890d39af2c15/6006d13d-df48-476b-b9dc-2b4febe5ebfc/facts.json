@@ -1,0 +1,13 @@
+[
+  "The blade shape and cooling hole configuration used were representative of actual gas turbine blades.",
+  "The ratio of boundary layer displacement thickness to hole diameter was approximately 0.09.",
+  "The ratio of coolant mass flux to mainstream mass flux (blowing rate, M) had values between 0.2 and 2.",
+  "Both the mainstream and coolant flows were turbulent in the experiments.",
+  "A heat-mass transfer analogy was used to determine film cooling effectiveness from concentration measurements.",
+  "The momentum flux ratio I cos^2(\u03b1) was found to be an important parameter describing the interaction between the coolant jet and mainstream.",
+  "For I cos^2(\u03b1) < 1, the film cooling effectiveness was up to twice as large on a convex wall and only half as large on a concave wall compared to a flat plate.",
+  "The effect of curvature was smaller for film cooling with two rows of holes compared to a single row.",
+  "Differences in film cooling effectiveness between previous studies were partly attributed to whether the coolant injection flow was laminar or turbulent.",
+  "The ratio of heat transfer coefficients with and without film cooling was close to 1 for X/D > 30 when the approaching boundary layer was turbulent.",
+  "Large gradients in local heat transfer coefficients, up to 7 times the two-dimensional value, were observed near the cooling holes."
+]
