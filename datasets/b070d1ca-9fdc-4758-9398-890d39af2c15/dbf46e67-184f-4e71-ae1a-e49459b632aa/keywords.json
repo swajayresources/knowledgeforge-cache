@@ -1,0 +1,21 @@
+[
+  "Turbine blade cooling",
+  "Relative cooling flow factor (FAC)",
+  "Coolit subroutine",
+  "Film cooling",
+  "Convection cooling",
+  "Heat transfer correlations",
+  "Thermal effectiveness parameter (\u03b7conv)",
+  "Combustion gas temperature",
+  "Cooling flow temperature",
+  "Wall temperature",
+  "Cooling effectiveness (\u03b7)",
+  "Momentum ratio",
+  "Adiabatic wall temperature",
+  "Boundary layer regime",
+  "Wall jet regime",
+  "Flat plate correlations",
+  "Turbulent heat transfer",
+  "Pressure gradients",
+  "Cascade experiments"
+]
