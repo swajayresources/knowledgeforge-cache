@@ -1,0 +1,17 @@
+[
+  "The study was conducted in two phases: a preliminary design analysis and a final design analysis.",
+  "Eight air-cooled turbine blade designs in 0.75-in. (0.01905 m), 1.0-in. (0.0254 m), and 1.5-in. (0.0381 m) chord sizes were investigated in the preliminary design phase.",
+  "A pin fin convection-cooled configuration and a film-impingement cooled configuration were selected for the final design analysis.",
+  "The final designs were analyzed at three turbine inlet total pressures and three cooling air inlet temperatures for each chord size.",
+  "The cooling air flow required with a constant turbine inlet total temperature and pressure was determined at three cooling air inlet temperatures for each chord size.",
+  "The film-convection cooled designs allowed turbine inlet temperatures about 200\u00b0F (111\u00b0K) higher than the convection-cooled designs.",
+  "The transpiration-cooled design offered an advantage only for the 1.5-in. (0.0381 m) chord size.",
+  "A decrease in cooling air inlet temperature produced an increase in turbine inlet temperature capability or a reduction in cooling air flow required.",
+  "The turbine inlet pressure range studied had relatively little effect on turbine inlet temperature capability.",
+  "An increase in chord size produced a reduction in cooling air flow required for the convection-cooled blade, but this trend was not apparent in the film-convection cooled design.",
+  "An estimated life of 1000 hours was obtained for each final design based on a detailed creep relaxation analysis or a maximum metal temperature limit.",
+  "Additional studies were conducted on the effects of reducing cooling air inlet pressure and varying flow control orifice sizes for selected conditions.",
+  "The study considered the effects of cooling air discharge at the blade tip on turbine tip clearance losses and the efficiency loss due to transpiration cooling of the blades.",
+  "The study used a three-dimensional blade surface velocity calculation program (TR-IG) to determine the turbine airfoil surface critical velocity ratio profile.",
+  "The stress analysis was conducted using an elastic, inelastic, and creep analysis computer program (X0850)."
+]
