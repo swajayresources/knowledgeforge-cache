@@ -1,0 +1,15 @@
+{
+  "paper_id": "461c4c1e-ac53-40c2-a888-b9a008c1e913",
+  "title": "Modelling fluid deformable surfaces with an emphasis on biological interfaces",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/461c4c1e-ac53-40c2-a888-b9a008c1e913/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/461c4c1e-ac53-40c2-a888-b9a008c1e913/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/461c4c1e-ac53-40c2-a888-b9a008c1e913/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/461c4c1e-ac53-40c2-a888-b9a008c1e913/keywords.json"
+  ]
+}
