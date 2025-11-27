@@ -1,0 +1,15 @@
+{
+  "paper_id": "029bc9cc-b966-47a0-964f-3b0f62c8fcdb",
+  "title": "Piecewise SOS-Convex Moment Optimization and Applications via Exact Semi-Definite Programs",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/029bc9cc-b966-47a0-964f-3b0f62c8fcdb/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/029bc9cc-b966-47a0-964f-3b0f62c8fcdb/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/029bc9cc-b966-47a0-964f-3b0f62c8fcdb/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/029bc9cc-b966-47a0-964f-3b0f62c8fcdb/keywords.json"
+  ]
+}
