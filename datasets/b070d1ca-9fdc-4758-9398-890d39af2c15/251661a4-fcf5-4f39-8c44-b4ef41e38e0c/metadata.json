@@ -1,0 +1,15 @@
+{
+  "paper_id": "251661a4-fcf5-4f39-8c44-b4ef41e38e0c",
+  "title": "Optimization of Air-Breathing Engine Concept",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/251661a4-fcf5-4f39-8c44-b4ef41e38e0c/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/251661a4-fcf5-4f39-8c44-b4ef41e38e0c/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/251661a4-fcf5-4f39-8c44-b4ef41e38e0c/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/251661a4-fcf5-4f39-8c44-b4ef41e38e0c/keywords.json"
+  ]
+}
