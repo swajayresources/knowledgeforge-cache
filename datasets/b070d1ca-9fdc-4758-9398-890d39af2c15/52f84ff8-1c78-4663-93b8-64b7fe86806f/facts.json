@@ -1,0 +1,17 @@
+[
+  "The nominal composition of the RR1000 alloy used in the study is: Ni (bal.), Cr (15 wt.%), Co (18.5 wt.%), Mo (5 wt.%), Al (3 wt.%), Ti (3.6 wt.%), Ta (2 wt.%), Hf (0.5 wt.%), Zr (0.06 wt.%), C (0.03 wt.%), B (0.015 wt.%), and Si (0.5 wt.%).",
+  "The mean thickness of the surface oxide scale (chromia + rutile) was 2.0 \u00b1 0.2 \u03bcm, while the alumina depth was 4.3 \u00b1 1.4 \u03bcm, adding up to a total oxidation damage depth of 6.3 \u03bcm.",
+  "Atom probe tomography (APT) analysis revealed that Ti segregates primarily to the grain boundaries in the chromia scale and to the rutile phase located on the outer surface of the oxide scale.",
+  "The Ti concentration in the bulk chromia scale was ~1 at.%, while the Ti concentration at the grain boundaries was ~4-5 at.%.",
+  "The authors used a simple 2D diffusion calculation to estimate the outward flux of Ti through the grain boundaries, finding that the thickening rate in the polycrystalline scale was 3.77\u00d710-12 m/s, adding ~0.3 \u03bcm of rutile in 24 hours.",
+  "The proposed mechanism for the deleterious effect of Ti is that the outward diffusion of Ti from the bulk alloy, primarily through the grain boundaries in the chromia scale, leads to the formation of a titanium-rich rutile layer on the outer surface, which is detrimental to the oxidation resistance of the alloy.",
+  "At high oxygen partial pressure (PO2 > 10-5 atm), chromia (Cr2O3) is a p-type semiconductor with electron holes and chromium vacancies as the dominant defects.",
+  "At intermediate oxygen partial pressure (PO2 ~10-5 - 10-14 atm), chromia (Cr2O3) behaves as an intrinsic semiconductor with electrons and electron holes being the dominant defects.",
+  "At low oxygen partial pressure (PO2 <10-14 atm), chromia (Cr2O3) changes to an n-type semiconductor with electrons and chromium interstitials being dominant.",
+  "Cations with a lower valence than Cr3+ (e.g., Ni2+) will slow down the oxidation rate of chromia, while cations with a higher valence (e.g., Ti4+) will increase the oxidation rate by increasing the concentration of negatively charged defects.",
+  "The authors noted that existing oxidation models are largely focused on oxygen ingress and subsurface elemental depletion, but not on the outward diffusion of alloying elements.",
+  "The authors stated that their work demonstrates the potential for coupling atomistic-resolution characterization of oxide scales with diffusion modeling methods to predict oxidation rates in complex multi-component alloys.",
+  "The authors acknowledged that more work is required to obtain relevant thermo-kinetic growth parameters for improved oxidation lifing models of engineering components.",
+  "The authors used a UV laser with 300 pJ of energy, a pulse frequency of 200 kHz, and a stage temperature of 55 K for the atom probe tomography (APT) analysis.",
+  "The authors noted that no data on Ti diffusivity in chromia were found, so they used the diffusivity of Mn in chromia as the closest approximation."
+]
