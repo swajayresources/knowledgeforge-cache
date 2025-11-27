@@ -1,0 +1,1 @@
+This paper reviews NASA's research on combustor and turbine heat transfer, focusing on improving prediction techniques for metal temperatures in gas turbine engines to enable higher efficiency cycles with increased pressure ratios and turbine inlet temperatures.
