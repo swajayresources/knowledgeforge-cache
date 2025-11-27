@@ -1,0 +1,17 @@
+[
+  "The subsonic aircraft design problem had a takeoff weight of 199,275.6 lb at the optimum solution.",
+  "The subsonic aircraft design had four active constraints at the optimum: takeoff field length, excess fuel, maximum pressure ratio, and maximum turbine inlet temperature.",
+  "The wave-rotor-topped engine design optimization considered 47 mission points defined by Mach number, altitude, and power setting combinations.",
+  "The active design variables for the wave-rotor-topped engine were the wave rotor's rotational speed and heat addition.",
+  "The key active constraints for the wave-rotor-topped engine included limits on compressor speeds and temperatures.",
+  "The combined COMETBOARDS-NEPP tool produced higher thrust values for the wave-rotor-topped engine compared to the NEPP optimizer alone.",
+  "The cascade optimization strategy in COMETBOARDS used multiple optimizers in sequence, with each optimizer starting from the solution of the previous one with some random perturbation.",
+  "The cascade strategy allowed COMETBOARDS to converge to the global optimum solutions for both the subsonic aircraft and wave-rotor-topped engine design problems.",
+  "COMETBOARDS features that enabled successful optimization include the cascade strategy, variable and constraint formulations, and a global scaling strategy.",
+  "The combined COMETBOARDS, FLOPS, and NEPP design tool eliminated the need for manual intervention in the design of aircraft and air-breathing propulsion engines.",
+  "The combined design tool was much easier to use compared to the individual analysis tools (FLOPS and NEPP).",
+  "COMETBOARDS is written in FORTRAN 77 and is available on Cray, Convex, Iris, and Sun platforms.",
+  "The FLOPS analyzer incorporates several disciplines: weight, aerodynamics, engine cycle analysis, propulsion data interpolation, mission performance, takeoff and landing, noise footprint, cost, and program control.",
+  "The NEPP code can simulate almost any type of turbine engine configuration and evaluate performance over the flight envelope.",
+  "The cascade strategy in COMETBOARDS was able to converge to the same global optimum solution even when starting from different initial design points."
+]
