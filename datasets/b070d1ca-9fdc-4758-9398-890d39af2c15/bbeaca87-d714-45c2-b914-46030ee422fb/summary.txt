@@ -1,0 +1,1 @@
+This paper investigates fluid mixing induced by viscous fingering, a hydrodynamic instability that occurs when a less viscous fluid displaces a more viscous fluid. The authors present a numerical simulation and develop a two-equation dynamic model to quantify the degree of mixing, capturing the interplay between increased interfacial area and channeling effects.
