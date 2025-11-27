@@ -1,0 +1,1 @@
+This paper describes the aerodynamic and mechanical design of two advanced three-stage compressors, 3S1 and 3S2, with different aspect ratios. The goal is to demonstrate improved blading for the rear stages of highly loaded compressors for advanced aircraft engines.
