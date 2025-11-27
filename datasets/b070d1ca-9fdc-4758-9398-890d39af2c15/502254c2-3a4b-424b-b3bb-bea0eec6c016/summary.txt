@@ -1,0 +1,1 @@
+The paper describes a cascade optimization strategy used to design a high-speed civil transport (HSCT) air-breathing propulsion system, which successfully maximized thrust by optimizing key design variables while satisfying various constraints.
