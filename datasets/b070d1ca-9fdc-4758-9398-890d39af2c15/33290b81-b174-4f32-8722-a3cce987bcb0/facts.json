@@ -1,0 +1,17 @@
+[
+  "The authors derive a system of integro-differential equations governing the dynamics of a fluid-filled cylinder rolling down an inclined curved path.",
+  "Two dimensionless parameters, \u03c0_g = gR^3/\u03bd^2 and \u03c0_m = M/m, are identified to govern the dynamics of the fluid-filled cylinder.",
+  "The brachistochrone for the fluid-filled cylinder deviates from a cycloid, with the deviation being most significant around \u03c0_g \u2248 3981.",
+  "In the low viscosity (\u03c0_g \u2192 \u221e) and high viscosity (\u03c0_g \u2192 0) limits, the brachistochrone approaches a cycloid.",
+  "The normalized time T*, defined as the ratio of the travel time of the fluid-filled cylinder to that of a point particle on a cycloid, quantifies the role of the fluid in determining the overall objective of minimizing travel time.",
+  "The dissipation fraction \u03c6, which represents the fraction of the initial potential energy dissipated by viscous action, varies differently with the terminal point coordinate x_f in the short and long x_f regimes.",
+  "The authors draw an analogy between the brachistochrone behavior for short x_f, where the bottle 'sprints' to minimize travel time, and long x_f, where the bottle 'runs a marathon' to ensure it reaches the end point.",
+  "Potential applications of the framework include optimizing the shape of a funnel or water slide to maximize fluid flow rate, and analyzing the brachistochrone motion of liquid marbles on super-hydrophobic surfaces.",
+  "The analysis assumes laminar flow inside the cylinder and is rigorously valid only in the high viscosity (low Reynolds number) regime.",
+  "The paper extends the classical Bernoulli's brachistochrone problem by replacing the point particle with a fluid-filled cylinder, introducing viscous dissipation effects.",
+  "The authors use an optimal control formalism to determine the brachistochrone for the fluid-filled cylinder, which minimizes the total time of descent.",
+  "The authors show that the trade-off between minimizing travel time and conserving energy to reach the end point plays a vital role in determining the brachistochrone of the fluid-filled cylinder.",
+  "The authors derive closed-form solutions for the velocity field inside the fluid-filled cylinder using Duhamel's theorem, extending the work of Batchelor.",
+  "The authors define a geometric norm \u03b4 and a normalized time T* to quantify the deviation of the brachistochrone from a cycloid.",
+  "The authors identify that the maximum deviation of the brachistochrone from a cycloid occurs around \u03c0_g \u2248 3981, where the fluid effects are most significant."
+]
