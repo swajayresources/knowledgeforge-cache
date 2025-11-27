@@ -1,0 +1,16 @@
+[
+  "The paper uses wall-resolved large eddy simulations to investigate shock-boundary layer interactions in a supersonic turbine cascade.",
+  "Two thermal boundary conditions are studied: adiabatic walls and isothermal (cooled) walls with a wall-to-inlet temperature ratio of 0.75.",
+  "For the adiabatic wall case, the time-averaged length of the separation bubble is 0.16c_ax, while for the cooled wall case it is 0.10c_ax.",
+  "The cooled wall case shows a steeper variation in the pressure coefficient downstream of the incident shock due to deeper shock penetration into the boundary layer.",
+  "The wall-normal Reynolds stresses are higher for the cooled wall case, while the tangential Reynolds stresses are similar for both cases.",
+  "The grid resolution in wall units ranges from 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9 for the adiabatic wall case, and 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19 for the isothermal wall case.",
+  "The inlet Mach number is 2.0 and the Reynolds number based on inlet velocity and axial blade chord is 200,000.",
+  "The separation bubble undergoes a contraction and expansion motion, with the instantaneous separation point moving downstream (upstream) during contraction (expansion).",
+  "For the adiabatic wall case, the maximum temperature values are observed within the separation bubble, while for the cooled wall case, higher temperatures are seen along the free shear layer downstream of the bubble.",
+  "The localized artificial diffusivity (LAD) method is used to capture the shock waves while introducing minimal numerical dissipation.",
+  "Bypass transition in the boundary layers is triggered using a body forcing with unsteady actuation and random spanwise treatment.",
+  "The paper aims to investigate the effects of wall temperature on shock-boundary layer interactions in a supersonic turbine cascade.",
+  "The results show that cooling the blade surface reduces the size of the separation bubble and leads to a steeper pressure rise downstream of the incident shock.",
+  "The turbulence activity, as measured by Reynolds stresses and turbulent kinetic energy, is affected by the wall thermal boundary conditions."
+]
