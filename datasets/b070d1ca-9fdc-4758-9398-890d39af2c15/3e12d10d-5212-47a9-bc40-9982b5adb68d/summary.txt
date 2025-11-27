@@ -1,0 +1,1 @@
+This paper presents a methodology for analyzing the fatigue failure probability of wind turbine composite blades using stochastic gamma process modeling. It incorporates uncertain wind loads to predict the fatigue damage evolution and remaining service life of the blades, which is critical for optimizing maintenance strategies.
