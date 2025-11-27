@@ -1,0 +1,17 @@
+[
+  "The study uses molecular dynamics simulations to investigate the interaction of paired edge dislocations with cuboidal \u03b3' precipitates in a \u03b3 matrix.",
+  "The volume fraction of the \u03b3' precipitates is varied from 1% to 60%.",
+  "The CRSS for dislocation motion exhibits a power law dependence on the volume fraction of the \u03b3' precipitates, with two distinct regimes separated by a critical precipitate size of around 120 \u00c5.",
+  "The 120 \u00c5 critical precipitate size corresponds to the total core width of the paired dislocations in the \u03b3' phase, including the complex stacking faults and anti-phase boundary.",
+  "The CRSS scales linearly with the length of the \u03b3' precipitate along the direction of dislocation motion, rather than just its volume fraction.",
+  "The two-regime power law behavior is observed across a wide range of temperatures (300-700 K), indicating that it is not a thermally activated mechanism.",
+  "Simulations with spherical precipitates also exhibit the same two-regime power law behavior, with the transition occurring at the same critical length scale of 120 \u00c5.",
+  "The dislocation velocities in the \u03b3 and \u03b3' phases are similar, with the velocity in the \u03b3 phase being slightly higher than that in the \u03b3' phase.",
+  "The variations in the dislocation core width are more dramatic in the first regime (L_\u03b3' < 120 \u00c5) than in the second regime (L_\u03b3' > 120 \u00c5).",
+  "The power law exponent b in the CRSS-volume fraction relationship is approximately 0.36 in the first regime and 0.27-0.36 in the second regime.",
+  "The current study is limited to the case of \u03b3' precipitates with orientations identical to the \u03b3 phase, and future work should explore the effect of different relative orientations.",
+  "The findings of this study have important implications for developing predictive models of mechanical behavior and informing alloy design strategies for Ni-based superalloys.",
+  "The study provides new computational evidence of a size-dependent strengthening effect in Ni-based superalloys, which has not been previously reported in the literature.",
+  "The results highlight the importance of considering the interplay between precipitate size, volume fraction, and other related factors in understanding the strengthening mechanisms in Ni-based superalloys.",
+  "The identification of the critical length scale of 120 \u00c5, corresponding to the total dislocation core width, provides a new insight into the size-dependent strengthening behavior in these materials."
+]
