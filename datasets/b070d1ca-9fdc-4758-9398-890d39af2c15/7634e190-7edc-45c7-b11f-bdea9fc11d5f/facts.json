@@ -1,0 +1,17 @@
+[
+  "Significant progress has been made in developing two-dimensional and three-dimensional Navier-Stokes solvers to model the complex flow geometries and secondary flows in turbine passages.",
+  "Advanced computational methods are being integrated into design procedures like General Electric's 'Auto-Airfoil' system, which can optimize blade cooling and geometry.",
+  "Researchers are exploring methods like 'passage-averaging' of the Navier-Stokes equations to capture the effects of unsteadiness on heat transfer, but significant work remains to develop reliable models.",
+  "Experiments have shown that 'bypass' transition, where the transition process bypasses the classic low-disturbance stability theory, is likely the dominant mechanism in the unsteady turbine environment.",
+  "Curvature has a significant impact on boundary layer stability and heat transfer, with concave curvature destabilizing the boundary layer and increasing heat transfer, while convex curvature has the opposite effect.",
+  "The HOST program sponsored by NASA in the 1980s was a major collaborative effort that addressed a range of turbine heat transfer technologies and produced valuable benchmark data sets.",
+  "Experiments showed that upstream disturbances like wakes can have a major influence on the first stage stators but reduced impact on downstream blade rows, with large, local bursts in heat transfer observed due to wake impacts.",
+  "The 'bypass' transition mechanism proposed by Professor Markovin occurs when the transition process bypasses the classic low-disturbance stability theory, in contrast to the low-disturbance transition that occurs in more quiescent flow conditions.",
+  "Experiments showed that convex curvature delays transition, with the influence of upstream turbulence levels being greater than the curvature effects, but the coupled effects of curvature and unsteadiness on transition remain a key challenge.",
+  "Key remaining challenges include developing computational methods that can accurately model unsteady, three-dimensional viscous flows, obtaining reliable experimental data to validate these models under realistic engine-like conditions, and integrating advanced heat transfer prediction capabilities into practical design tools.",
+  "The cancellation of the HOST program has stopped the valuable annual workshops and sharing of benchmark data sets, which were important for advancing turbine heat transfer research.",
+  "Advances in instrumentation like thin-film heat flux gauges have enabled the detection of the oscillation of the transition region under unsteady conditions in turbine experiments.",
+  "Empirical models will continue to be useful, but lack the generic applicability to a range of flow conditions and geometries that is needed for turbine design.",
+  "The development of a three-dimensional viscous code that includes unsteady flow effects is still a long way off, with expert system programming being examined as a potential future route for including unsteady effects in design procedures.",
+  "Modeling the unsteady flow entering the turbine, with wakes from upstream blade rows and temperature/pressure fluctuations, is a very challenging problem that requires significant further research."
+]
