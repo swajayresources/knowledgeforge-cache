@@ -1,0 +1,1 @@
+This paper describes the development of a fully non-metallic gas turbine engine enabled by additive manufacturing techniques. The researchers used fused deposition modeling to fabricate polymer matrix composites and binder jet printing to create ceramic matrix composites for critical engine components.
