@@ -1,0 +1,17 @@
+[
+  "The authors developed a high-resolution additive manufacturing technique that uses upconversion nanoparticles and wavefront shaping to focus near-infrared light through highly scattering media.",
+  "Upconversion nanoparticles convert near-infrared light to ultraviolet light for photopolymerization and visible light that is used as a guide star for wavefront shaping.",
+  "The optical memory effect was exploited to dynamically shift the focal spot through the scattering medium without having to re-optimize the wavefront at each new position.",
+  "In non-invasive printing experiments through a holographic diffuser, the authors were able to print features as small as 2 \u03bcm, over 20 times smaller than the speckle size.",
+  "The authors successfully printed through a 300-\u03bcm-thick slice of chicken breast tissue using their technique.",
+  "The authors used a fitness function that took into account both the total fluorescence signal and the light power of the DMD pattern to compensate for the amplitude-only modulation.",
+  "The upconverted fluorescence from the nanoparticles provided a high nonlinearity parameter (around 2.4) which enabled faster convergence of the wavefront shaping optimization.",
+  "The key limitations include the slow optimization speed due to low fluorescence signal intensity and the need for faster wavefront shaping algorithms to keep up with the dynamic nature of biological tissues.",
+  "In the invasive printing setup, the fluorescence feedback signal was collected on the distal side of the scattering medium, whereas in the non-invasive setup the signal was collected in reflection mode on the same side as the light delivery.",
+  "Dynamic focusing was used to maintain a uniform light dose across the printed structure by shifting the focal spot laterally by 5 \u03bcm before re-optimizing the wavefront.",
+  "The authors observed that the global maximum of the focused spot would remain at a hot spot for approximately 25 \u03bcm of lateral shifting before switching to another hot spot within the illuminated resin.",
+  "Over-polymerization was observed in some regions when printing through the chicken tissue, likely due to non-uniformities in the muscle fiber structure.",
+  "The printing time was limited by the long rise and decay times of the upconverted luminescence of the nanoparticles used.",
+  "Noise-tolerant algorithms and deep learning techniques were identified as potential ways to improve the optimization speed for dynamic biological tissues.",
+  "The authors were unable to precisely control the absolute position of the printed features, only the relative positions within the speckle pattern."
+]
