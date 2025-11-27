@@ -1,0 +1,1 @@
+This paper discusses the research and use of unstructured grid generation at NASA Lewis Research Center for various CFD applications, including inlets, nozzles, turbomachinery, propellers, and aircraft icing. It highlights the advantages of unstructured grids in handling complex geometries and changing flow conditions compared to structured grids.
