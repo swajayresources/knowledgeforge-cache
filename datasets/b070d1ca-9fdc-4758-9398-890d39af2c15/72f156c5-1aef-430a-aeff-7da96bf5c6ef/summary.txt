@@ -1,0 +1,1 @@
+This paper investigates the effects of surface roughness from additive manufacturing on the performance of gas turbine combustion systems. It presents a new integral wall model for large eddy simulation (LES) to accurately capture the impact of rough surfaces on flow dynamics and combustion processes.
