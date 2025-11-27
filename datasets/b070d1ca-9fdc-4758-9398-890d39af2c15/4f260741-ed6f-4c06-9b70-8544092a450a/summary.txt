@@ -1,0 +1,1 @@
+This paper develops an analytical model for the evolution of the gas entropy in galaxy clusters under the influence of radiative cooling. The model predicts a simple power-law relationship between gas mass and entropy index, consistent with observations, and explains the apparent lack of clusters with very cold gas at their centers.
