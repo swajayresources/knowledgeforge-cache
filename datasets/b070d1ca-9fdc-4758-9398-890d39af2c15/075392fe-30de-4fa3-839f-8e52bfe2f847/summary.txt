@@ -1,0 +1,1 @@
+This paper investigates the low cycle fatigue deformation behavior of the single-crystal superalloy Haynes 188 at 650°C. The study examines the effects of dynamic strain aging on the stress-strain response and fatigue life, and correlates the cyclic deformation behavior with the evolving microstructural substructure.
