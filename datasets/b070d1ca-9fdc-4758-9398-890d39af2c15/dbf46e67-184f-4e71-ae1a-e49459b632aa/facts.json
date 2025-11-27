@@ -1,0 +1,17 @@
+[
+  "The relative cooling flow factor (FAC) is used in the Coolit subroutine to estimate dimensionless cooling as a function of desired blade temperature.",
+  "The desired value of the cooling effectiveness (\u03b7) to achieve a 1400 K wall temperature with a 2280 K combustion temperature and 880 K cooling flow is 0.626.",
+  "Convection cooling alone cannot reduce the wall temperature much below 1750 K when the combustion temperature is 2280 K.",
+  "The analysis suggests that a thick uniform film introduced through a row of holes can potentially reduce heat transfer (FAC<1.0) below that of the full coverage film introduced through holes distributed evenly over the whole surface.",
+  "For 75% convection 25% film cooling, the 1400 K wall temperature is reached with mc/mg = 0.059 and FAC = 1.4.",
+  "For 50% convection 50% film cooling, the 1400 K wall temperature is reached with mc/mg = 0.032 and FAC = 0.766.",
+  "For 25% convection 75% film cooling, the 1400 K wall temperature is reached with mc/mg = 0.023 and FAC = 0.550.",
+  "The analysis suggests that the Coolit predictions may be optimistic, as the flat plate correlations used do not account for the increased turbulent heat transfer and positive pressure gradients within the actual turbine blades.",
+  "The thermal effectiveness parameter (\u03b7conv) is a measure of how close the wall temperature is to the coolant temperature at the outlet of the internal convection path, and monitoring this parameter is recommended to ensure excess cooling is not being employed.",
+  "The flat plate correlations used in the analysis are considered optimistic, and a detailed cascade experiment would be needed to validate the findings and improve the modeling approach.",
+  "The film cooling approach uses a fraction of the total cooling flow to create a protective layer on the blade surface, while the remaining flow is used for internal convection cooling.",
+  "The analysis shows that the film cooling approach can be more effective in reducing the blade wall temperature compared to convection cooling alone, but care must be taken to balance the split between film and convection cooling.",
+  "The Coolit subroutine is used for estimating turbine cooling flow requirements, and the analysis suggests that care must be taken in the Coolit assumptions, particularly when assuming the blade is cooled by convection only or when diverting the bulk of the cooling flow from convection within the blade to a film cooling layer on the blade.",
+  "The analysis provides insights into the limitations and assumptions in the Coolit approach, and suggests that monitoring the thermal effectiveness parameter (\u03b7conv) can help ensure excess cooling is not being employed.",
+  "The paper presents a methodology based on a combination of film cooling and internal convection cooling to check the relative cooling flow factors in the Coolit subroutine."
+]
