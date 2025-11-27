@@ -1,0 +1,1 @@
+This paper investigates the effect of titanium (Ti) on the oxidation behavior of a polycrystalline nickel-based superalloy, RR1000. Using advanced characterization techniques like atom probe tomography, the study reveals that Ti segregates primarily to the grain boundaries in the chromia scale, leading to enhanced outward diffusion of Ti and faster oxide scale growth.
