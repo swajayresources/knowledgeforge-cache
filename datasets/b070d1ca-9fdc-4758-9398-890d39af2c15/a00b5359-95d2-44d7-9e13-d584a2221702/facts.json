@@ -1,0 +1,12 @@
+[
+  "NASA Lewis Research Center has extensive experience in using unstructured grids for a variety of CFD applications, including inlets, nozzles, ducts, turbomachinery, propellers, and aircraft icing.",
+  "Structured grid generators can have difficulty in meeting resolution requirements on multiple intersecting surfaces within internal flow problems.",
+  "Shock locations on the upper and lower blade surfaces of a cascade can occur at different chordwise locations, making it challenging to align the grid lines with the shock geometry.",
+  "The small gap (less than 0.2% of blade span) between rotor blades and the surrounding shroud can result in high grid skewing and a large number of grid points when attempting to model it.",
+  "Grid generation for turbine blade passages often requires multi-block grids, a large number of grid points, and a labor-intensive grid generation effort.",
+  "Rapidly varying flow passage geometries in inlet and nozzle configurations can result in difficult blocking schemes and challenges in interfacing blocks at regions of rapid geometry change.",
+  "For aircraft icing simulations, the small structures relative to the airfoil chord must be resolved, and structured grids often require an excessive number of grid points in the far-field.",
+  "The LEWICE/UE tool was used to predict the ice shape on a NACA 0012 airfoil, showing the ability to capture the complex ice growth on the airfoil surface.",
+  "NASA Lewis Research Center has in-house unstructured grid generation development activities targeted at internal flow problems.",
+  "Unstructured grids can simplify and, in some cases, enable CFD analysis of internal flow geometries with complex, changing geometries, such as ice growth on aircraft surfaces."
+]
