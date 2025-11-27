@@ -1,0 +1,1 @@
+This paper summarizes the HOST Turbine Heat Transfer Program, which aimed to improve the understanding and prediction of heat transfer in high-temperature gas turbines. The program utilized a building-block approach, ranging from fundamental studies to experiments in simulated real engine environments, with a focus on both internal and external turbine airfoil heat transfer.
