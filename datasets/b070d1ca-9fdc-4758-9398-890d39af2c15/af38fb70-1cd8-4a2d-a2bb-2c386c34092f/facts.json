@@ -1,0 +1,17 @@
+[
+  "The paper designed a radar-absorbing material (RAM) consisting of a Jerusalem cross unit cell based periodic structure bonded with FR4 material, with a total thickness of 6.25 mm.",
+  "The proposed RAM design showed more than -10 dB reflection loss from 4 to 18 GHz of frequencies.",
+  "Three different rivet configurations were studied: (a) rivet installed at the center of a unit cell (RAS C1), (b) rivet installed between the gap of two unit cells (RAS C2), and (c) rivet installed at the center of four unit cells (RAS C3).",
+  "The paper studied three cases with varying the percentage of rivet heads area to RAS surface area: (a) 9.8%, (b) 4.4%, and (c) 2.5%.",
+  "The results showed that with a reduction in rivet surface area, the degradation in RCS performance was reduced, with the 2.5% case showing a maximum of 3 dB degradation.",
+  "An increase in air intake duct length led to an improvement in RCS performance for a given RAS configuration.",
+  "For the open-source aircraft CAD model, all the RAS configurations with and without rivets showed almost similar RCS performance, with the RAS configuration providing around 10 dB RCS reduction from 4 to 18 GHz of frequencies compared to the non-RAS air intake duct.",
+  "The paper noted that the impact of rivets may be more significant on a low-observable aircraft model, and further study on different shapes, sizes, and patterns of rivets installed on air intake ducts is an open research area.",
+  "The flat panel RAS sample showed mono-static RCS reduction of 0 dB and 0 dB at normal incidence for horizontal (HH) and vertical (VV) polarizations, respectively.",
+  "The mono-static RCS of the flat panel RAS showed good performance even at oblique angles, with RCS reduction observed from -60 to +60 degrees.",
+  "The median RCS of the air intake duct showed improvement with an increase in duct length, with the RAS configurations performing better than the metallic (PEC) duct.",
+  "Below 4 GHz, the RAS performance was degrading, as the RAS configuration considered in the study was designed to work from 4 to 18 GHz.",
+  "The open-source aircraft CAD model showed that the RAS air intake provided around 10 dB RCS reduction from 4 to 18 GHz of frequencies compared to the non-RAS air intake duct.",
+  "The impact of rivets on the RCS performance of the open-source aircraft CAD model was negligible, as the other components/systems of the aircraft also contributed to the overall RCS.",
+  "The paper highlighted that a low RCS aircraft model may show a more significant impact of rivets on the RCS performance, which is an area for future research."
+]
