@@ -1,0 +1,1 @@
+This paper presents a method for extracting and comparing the S2 flow path design parameters and 3D numerical simulation results for an 8-stage axial compressor. The authors demonstrate how this comparison can be used to iteratively improve the compressor design, leading to a 0.5% increase in adiabatic efficiency and over 5% increase in surge margin.
