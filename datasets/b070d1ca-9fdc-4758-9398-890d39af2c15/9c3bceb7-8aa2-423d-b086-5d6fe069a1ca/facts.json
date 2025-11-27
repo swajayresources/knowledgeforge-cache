@@ -1,0 +1,17 @@
+[
+  "The simulated serpentine manipulator had a total of 20 degrees of freedom.",
+  "The 13-ft mast had 1 degree of freedom (rotation \u00b1180 degrees).",
+  "Stages 1-3 of the manipulator had 3 degrees of freedom each (pitch 0-45 degrees).",
+  "Stage 4 had 6 degrees of freedom (pitch \u00b130 degrees, yaw \u00b115 degrees).",
+  "Stage 5 had 6 degrees of freedom (pitch/yaw \u00b130 degrees).",
+  "The wrist had 2 degrees of freedom (roll \u00b1180 degrees, pitch \u00b160 degrees).",
+  "The authors discretized the manipulator's workspace into a 21x28 ft. grid with 1 ft spacing.",
+  "The 2D grid was used to represent the full 3D tank environment by rotating the plane using the mast rotation.",
+  "The evolutionary strategy used a population of 1 and a mutation operator to optimize the joint configurations.",
+  "The authors had to manually adjust the mutation operator's initial variance and decay rate to achieve tight convergence.",
+  "Co-evolving the configurations to reduce both distance to target and joint-space penalties simultaneously was ineffective.",
+  "The final lookup table-based control system enabled accurate and continuous motion of the end-effector.",
+  "The authors' approach is applicable to 3D hyper-redundant manipulators, unlike much of the previous work.",
+  "The authors' method does not require computationally expensive techniques like the Frenet-Serret formulation.",
+  "The authors were able to easily incorporate various design constraints through the fitness function."
+]
