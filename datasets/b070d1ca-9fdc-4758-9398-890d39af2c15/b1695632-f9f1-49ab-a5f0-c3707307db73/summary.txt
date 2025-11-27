@@ -1,0 +1,1 @@
+This paper presents measurements of thermal noise in multilayer optical coatings, including a standard quarter-wavelength coating and an optimized coating designed to minimize thermal noise. The results indicate a reduction in thermal noise for the optimized coating, in line with modeling predictions.
