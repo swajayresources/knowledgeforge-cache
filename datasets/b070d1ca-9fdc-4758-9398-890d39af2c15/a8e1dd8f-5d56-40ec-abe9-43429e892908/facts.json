@@ -1,0 +1,17 @@
+[
+  "The proposed non-planar printing approach achieved a 44x improvement in failure strength and a 6x improvement in stiffness compared to conventional 2.5D printing for a load-bearing mechanical bracket.",
+  "The paper uses liquid crystal polymer (LCP) filaments, which exhibit strong anisotropic mechanical properties depending on the print orientation.",
+  "The offset slicing method generates non-planar slices that are perpendicular to the maximum principal stress direction, unlike conventional planar slicing.",
+  "The stress flow rectification step resolves ambiguities in the stress flow vectors to ensure the generated print trajectories are homogeneous and manufacturable.",
+  "The stress flow propagation step extrapolates the critical stress flow vectors from the boundary of the critical regions into the uncritical regions.",
+  "The optimization framework considers both the stress alignment objective and manufacturability constraints, such as uniform layer height and line spacing.",
+  "The trajectory stress-alignment metric \u03b2 measures the alignment between the maximum principal stress direction and the print direction at each point along the trajectory.",
+  "The paper demonstrates the proposed method on three benchmark geometries: the fork, bunny head, and topology optimization.",
+  "The average trajectory stress-alignment \u03b2\u0304 for the fork, bunny head, and topology optimization geometries were 0.94, 0.74, and 0.88, respectively.",
+  "The paper uses a 5-axis 3D printer and a liquid crystal polymer material to manufacture the optimized parts.",
+  "The slicing stress-alignment metric \u03b3\u0304 for the proposed offset slicing method was significantly higher (around 0.96) compared to planar slicing along the X, Y, and Z axes (0.38, 0.98, and 0.87, respectively).",
+  "The paper's method generates print trajectories with a tight distribution of distances between adjacent lines, ensuring high-quality prints.",
+  "The paper's novel stress-aligned non-planar print trajectory optimization method considers both part properties (load case, material anisotropy) and manufacturability constraints (extrusion and machine dynamics).",
+  "The paper's approach aims to improve the mechanical properties of non-planar FFF printed parts by utilizing anisotropic materials such as LCPs or fiber-reinforced filaments.",
+  "The paper's main contributions include a novel stress-aligned non-planar print optimization method, a non-planar FFF printing framework for complex mechanical geometries, and the experimental application of the proposed method to achieve significant improvements in mechanical strength."
+]
