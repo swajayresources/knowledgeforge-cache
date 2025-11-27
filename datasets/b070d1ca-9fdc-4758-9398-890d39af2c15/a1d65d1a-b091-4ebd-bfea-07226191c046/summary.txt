@@ -1,0 +1,1 @@
+This paper investigates the dissipative dynamics of diffusion-controlled directional solidification using a phase-field model. It analyzes the evolution of characteristic parameters like solute concentration and interface velocity, and demonstrates the important role of solute diffusion in determining the solidification morphology and dynamics.
