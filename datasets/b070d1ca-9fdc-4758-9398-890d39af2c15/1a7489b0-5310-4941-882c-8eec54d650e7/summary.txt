@@ -1,0 +1,1 @@
+This paper presents numerical simulations of the unsteady flow through the Fastrac supersonic turbine, a single-stage, full admission design used in a rocket engine turbopump. The study analyzes the effects of the axial spacing between the nozzle and turbine blades on the flow unsteadiness and turbine efficiency.
