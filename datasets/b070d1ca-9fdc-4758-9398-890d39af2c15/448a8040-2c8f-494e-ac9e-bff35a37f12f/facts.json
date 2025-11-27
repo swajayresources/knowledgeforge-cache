@@ -1,0 +1,17 @@
+[
+  "The paper presents an adaptation of Greenberg's potential flow model to predict the loads on vertical-axis wind turbine blades.",
+  "The model is extended to handle multi-harmonic oscillations in effective angle of attack and incoming flow velocity, which are more representative of the blade kinematics at low tip-speed ratios.",
+  "The static stall angle for the NACA0018 airfoil used in the experiments is 13.1 degrees at a Reynolds number of 50,000.",
+  "The turbine blade has a chord of 6 cm and a radius of 15 cm, resulting in a chord-to-diameter ratio of 0.2.",
+  "The unsteady blade loads were measured using twenty strain gauges forming five full Wheatstone bridge channels on the blade shaft.",
+  "The Greenberg model predicts the radial forces well at the start of the cycle and the maximum force coefficient during the upwind portion, even for the low tip-speed ratio case where dynamic stall occurs.",
+  "The Greenberg model deviates from the experimental results once the effective angle of attack exceeds the critical stall angle, and it fails to capture the post-dynamic stall load response during the downwind portion of the cycle.",
+  "The Fourier series approximation allows the model to better represent the non-sinusoidal variations in effective angle of attack and flow velocity at low tip-speed ratios.",
+  "The experiments were conducted in a recirculating water channel with a test section of 0.6m\u00d70.6m\u00d73m and a maximum flow velocity of 1 m/s.",
+  "The experiments were performed at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "The inertial centripetal force of the turbine was quantified by operating the turbine in air and removing the results from the measured signal to obtain the aerodynamic load responses.",
+  "The phase-averaged experimental data was presented with a standard deviation band to indicate the cycle-to-cycle variations.",
+  "For higher tip-speed ratios (\u03bb=4.5), the Greenberg model predicts the maximum radial load coefficient and its timing well, but fails during the downwind portion of the cycle.",
+  "The blade wake interaction, which prevents the build-up of radial force during the downwind portion, is not taken into account in the Greenberg model.",
+  "The proposed application of the Greenberg model to vertical-axis wind turbine kinematics shows great potential to diagnose regions of separated flow and quantify the relative influences of dynamic stall and turbine kinematics on the blade loading."
+]
