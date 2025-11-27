@@ -1,0 +1,1 @@
+This paper examines a new class of alumina-forming nickel-based superalloy designed for 3D printing. The alloy compositions are optimized for processability, high-temperature strength, oxidation resistance, and creep resistance, and are compared to the heritage alloy CM247LC.
