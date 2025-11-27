@@ -1,0 +1,1 @@
+This study examined the failure behaviors and processing maps with failure domains for hot compression of a powder metallurgy Ni-based superalloy. The researchers used isothermal hot compression experiments and finite element analysis with the Gurson-Tvergaard-Needleman damage model to predict the failure threshold under different temperature and strain rate conditions.
