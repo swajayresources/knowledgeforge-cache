@@ -1,0 +1,15 @@
+{
+  "paper_id": "457da15c-0a79-42ff-9890-bcd13482303d",
+  "title": "C(NN)FD -- Deep Learning Modelling of Multi-Stage Axial Compressors Aerodynamics",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/457da15c-0a79-42ff-9890-bcd13482303d/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/457da15c-0a79-42ff-9890-bcd13482303d/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/457da15c-0a79-42ff-9890-bcd13482303d/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/457da15c-0a79-42ff-9890-bcd13482303d/keywords.json"
+  ]
+}
