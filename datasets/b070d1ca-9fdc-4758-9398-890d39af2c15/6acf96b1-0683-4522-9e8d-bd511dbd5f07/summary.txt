@@ -1,0 +1,1 @@
+This paper proposes a new approach to high-performance optical coatings by using multiple materials at different depths in the coating. The authors generalize previous work on thermal noise in two-material coatings to an arbitrary multi-material stack and develop a model for estimating absorption in these multi-material coatings.
