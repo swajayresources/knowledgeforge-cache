@@ -1,0 +1,17 @@
+[
+  "The cylindrical specimen is 16 cm long and made of commercial aluminum.",
+  "The actual length of the specimen considered in the calculations is 15.7 cm, which is the distance between the lower thermocouple and the upper base.",
+  "The thermal guard is a hollow cylinder made of the same material as the specimen, with an outer diameter of 4 cm and an inner diameter of 2 cm.",
+  "The temperature is measured at two different positions in the specimen using two thermocouples.",
+  "The lower thermocouple is placed 2 mm from the lower base, while the upper thermocouple is placed at the top of the specimen.",
+  "The numerical method uses a recurrence relation to solve the thermal equation in the specimen, based on the temperature data from the two thermocouples.",
+  "The thermal diffusivity is determined by minimizing the difference between the theoretical and experimental temperature values at the upper base of the specimen.",
+  "The typical thermal diffusivity value obtained for the aluminum specimen is (0.75 \u00b1 0.07) cm^2/s.",
+  "The authors note that the dispersion of the measured values is larger than in more controlled environments, likely due to the possibility of convective heat flows during the heating of the specimen.",
+  "The method is suitable for materials with high thermal conductivity, such as aluminum, and is not as well-suited for low-conducting materials.",
+  "The authors suggest that the method could be improved by creating a small vacuum box around the setup to better control the environment.",
+  "The numerical recurrence used in the method is described as quite simple to implement by an undergraduate student on a personal computer.",
+  "The apparatus has a low cost, allowing for the preparation of several replicas without excessive financial burden for the laboratory.",
+  "The authors previously published papers on other methods for measuring thermal diffusivity, including dilatometric and flash methods, but those were not suitable for a student laboratory setting.",
+  "The non-dispersive boundary condition at the top of the specimen is used to simplify the analysis, as the authors note that the thermal exchange with the environment can be neglected due to the small temperature difference."
+]
