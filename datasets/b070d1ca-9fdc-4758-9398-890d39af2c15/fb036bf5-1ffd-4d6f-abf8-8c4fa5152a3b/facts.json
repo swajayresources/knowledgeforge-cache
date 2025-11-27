@@ -1,0 +1,17 @@
+[
+  "1275, Page 1 ANALYSIS AND DEVELOPMENT OF A TURBIVO COMPRESSOR FOR MVR APPLICATIONS Elias BOULAWZ KSAYER, Denis CLODIC Center for Energy and Processes, Ecole des Mines de Paris 60, boulevard Saint Michel 75272 Paris Cedex 06, France",
+  "Using the model, a water vapor Turbivo compressor of 12m3/h and compression ratio of 5 has been sized and realized",
+  "Typical clothe dryers consume 750 Wh/kg of dry clothes",
+  "The key point of MVR dryers is the use of a compressor with high efficiency in an open cycle and at high evaporating temperature (from 95\u00b0C to 100\u00b0C)",
+  "Different types of compressors exist depending of the operation mode [1]",
+  "Dynamic compressors (axial flow and radial flow) are mainly used in multi-stage configuration for high flow rate and high compression power (> 100 kW) [2]",
+  "A totally oil-free compressor has been patented by Northey Technologies LTD [3]",
+  "Northey invented the design in which the gas is compressed between precision rotors that contra rotates, closely meshing but never touching (Figure 1)",
+  "International Compressor Engineering Conference at Purdue, July 12-15, 2010 1275, Page 2 To design a cheap small dry compressor for MVR dryer, a new compressor technology is used: Turbivo machine",
+  "Initially, the Turbivo technology is adapted to volumetric turbine, hence its name: Volumetric Turbine [4]",
+  "\u03c9 Rotor Discharge Suction Thrust Figure 1 : Northey compressor",
+  "Figure 2: Turbivo initial design",
+  "The Turbivo volumetric machine is composed mainly of a rotor with one blade, a stator, and a mobile oscillating thrust (Figure 2)",
+  "To reduce internal leakage of the compressor, the surfaces must have a certain roughness to ensure turbulences in order to limit the leakage flow [5]",
+  "Figure 3 shows the layout of the Turbivo compressor"
+]
