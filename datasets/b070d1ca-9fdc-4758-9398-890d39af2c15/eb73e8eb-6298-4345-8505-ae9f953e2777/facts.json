@@ -1,0 +1,17 @@
+[
+  "The study used CFD simulations of two 10 MW reference wind turbines, the INNWIND.EU/DTU and AVATAR turbines, under uniform and axial inflow conditions.",
+  "The free-stream velocities considered in the study were 6 and 9 m/s, with rotor speeds of 6 and 7.3 RPM, respectively.",
+  "The computational grid had a total size of 14 million cells, with 256 cells around the airfoils, 129 cells in the span-wise direction for each blade, and 129 cells in the wall-normal direction.",
+  "The y+ values at the surface were kept below 1 everywhere on the blade surface with a cell size of 2 \u00d7 10^-6 normal to the wall.",
+  "The inverse BEM method may be influenced by empirical relations between the thrust coefficient and the induction factor, as well as tip and root corrections.",
+  "The AAT method is only valid for axial conditions and cannot capture the dynamics of the induced velocity in yawed flows.",
+  "The 3-Point method can reproduce the dynamic behavior of the induction and AoA, including near the tip and root of the blade, which is important for yawed flow conditions.",
+  "The Shen 2 method can choose the monitoring points closer to the blade and is not iterative, but it requires finding the separation point where the local circulation changes sign.",
+  "The Ferreira-Micallef method can determine the local velocities U and V, which can be used to find the angle of attack, and it is not sensitive to input parameters.",
+  "The Herra\u00b4ez method obtains the undisturbed flow rotor velocity by canceling out the influence of the blade bound circulation, making it simple and not sensitive to input parameters.",
+  "The methods showed good agreement at the mid-span (0.30 < r/R < 0.85), but discrepancies were observed at the root (r/R < 0.30) and tip (r/R > 0.85) regions, likely due to 3D effects.",
+  "The results were generally consistent between the INNWIND.EU/DTU and AVATAR turbines, with the methods showing good agreement at the mid-span and some deviations at the root and tip regions.",
+  "The study indicates that CFD simulations can be used for the calibration of induction modeling in BEM tools, but 3D corrections are needed in the root and tip regions to improve the accuracy of BEM models.",
+  "The paper serves as a verification of several methods, as the main participants used the same methods to ensure the correct implementation.",
+  "The study is also a survey on the assessment of each method under uniform and axi-symmetric inflow conditions."
+]
