@@ -1,0 +1,17 @@
+[
+  "The NV-1 chip includes 3200 cores per chip with seamless I/O compatibility to increase array size via chaining chips.",
+  "During testing, the NV-1 chip achieved 447 GB/s per 0.25 W, demonstrating both high performance and radical power-use improvement over other comparable hardware devices.",
+  "The NV-1 chip has been successfully fielded in a real-world edge sensor application, performing real-time processing with a power budget of less than 10 mW.",
+  "The co-design process used a digital twin approach, developing a C++ software executable hardware model from the beginning to enable closed-loop communication between the hardware and software teams.",
+  "The NV architecture was designed from first principles to eliminate almost all memory bandwidth bottlenecks, a major throughput and efficiency limitation in CPUs and GPUs.",
+  "The NV-1 chip does not use caches or a global memory space, unlike GPUs which extensively use caches to minimize their memory bottlenecks.",
+  "The NV-1 chip achieved a best-case adjusted efficiency of 1352 TOPS/W for boolean arithmetic, orders of magnitude higher than other edge AI processors.",
+  "The NV platform is targeted at low-power, high-performance edge devices and internet-of-things applications, as well as massively parallel server farm applications.",
+  "The teams are working on the next version, NV-2, which will further improve on power usage and minimize the physical size of each core through resource sharing.",
+  "The communication protocol of the NV platform enables scaling up to huge arrays of NV chiplets for applications requiring massive parallelism.",
+  "The NV-1 chip has been successfully manufactured in 28nm TSMC technology, received in packaged dies, and functionally characterized and verified.",
+  "The NV architecture derives from operations of extremely large numbers of simple parallel elements in complex arrangements, inspired by the brain's circuitry.",
+  "The co-design approach allowed the hardware to be specifically developed to accelerate the parallel algorithms and software, without the need for compromises.",
+  "The NV-1 chip has been tested in real-world settings, performing real-time processing of a chemical sensor with a power budget of less than 10 mW.",
+  "The NV-1 chip achieved a peak memory bandwidth of 447 GB/s per 0.25 W of power, orders of magnitude higher than the memory bandwidth of other AI accelerators."
+]
