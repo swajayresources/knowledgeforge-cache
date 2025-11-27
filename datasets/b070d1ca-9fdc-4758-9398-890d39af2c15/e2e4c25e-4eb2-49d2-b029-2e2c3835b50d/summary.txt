@@ -1,0 +1,1 @@
+This paper presents a numerical simulation methodology for modeling flow fields in non-rotating and rotating coolant channels, which is important for designing effective turbine blade cooling systems. The authors describe the key features of the Glenn-HT CFD code, including the governing equations, turbulence modeling, boundary conditions, and convergence acceleration techniques.
