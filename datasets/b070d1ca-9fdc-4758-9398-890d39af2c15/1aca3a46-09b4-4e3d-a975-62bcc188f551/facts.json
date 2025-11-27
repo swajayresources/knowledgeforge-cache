@@ -1,0 +1,17 @@
+[
+  "The turbine was designed for an average turbine inlet temperature of 2500\u00b0F (2960\u00b0R).",
+  "The turbine airflow was 4 lb/s, with 3-5% of the total airflow used for rotor blade cooling and 3-5% used for stator blade cooling.",
+  "The turbine was designed to have an adiabatic efficiency of 90% total-to-total at the design point.",
+  "The turbine work was designed to be 140 BTU/lb.",
+  "The turbine had a mean diameter of 12.5 inches and a hub-to-tip ratio of 0.7.",
+  "The rotor blade aspect ratio was 1.5.",
+  "The cascade testing exposed some blades to average temperatures as high as 2900\u00b0F.",
+  "The cascade testing ran for a total of 14 hours, including 1.5 hours at an average gas temperature of 2560\u00b0F.",
+  "The cascade testing found the blades to be in satisfactory condition after the high-temperature exposure.",
+  "The analytical thermal predictions were validated by the temperature data obtained during the cascade testing.",
+  "The Phase I work concluded that the necessary fabrication techniques, materials, analytical methods, and test facilities were sufficiently advanced to warrant continued development of this high-temperature turbine component.",
+  "The turbine design was integrated with a cycle analysis study to evaluate the effects of increased turbine inlet temperature on engine performance.",
+  "Increasing the turbine inlet temperature from 2000\u00b0F to 2500\u00b0F was estimated to more than double the engine horsepower and significantly reduce the specific fuel consumption.",
+  "Transpiration cooling was selected as the cooling method for both the stator and rotor blades due to its superior cooling effectiveness at high temperatures.",
+  "The preliminary turbine design had a higher than desired rotor exit Mach number of 0.61, which was reduced to 0.48 by increasing the rotor exit area."
+]
