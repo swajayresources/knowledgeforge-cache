@@ -1,0 +1,1 @@
+This paper presents an experimental investigation of the effect of full film cooling on the performance of a turbine stator blade in a two-dimensional cascade. The study examined the efficiency changes with coolant ejection from 12 rows of holes on the blade surface, including single-row and multirow tests.
