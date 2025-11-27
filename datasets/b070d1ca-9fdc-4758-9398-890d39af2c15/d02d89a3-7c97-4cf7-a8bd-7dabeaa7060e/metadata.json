@@ -1,0 +1,15 @@
+{
+  "paper_id": "d02d89a3-7c97-4cf7-a8bd-7dabeaa7060e",
+  "title": "Exploring Feasible Design Spaces for Heterogeneous Constraints",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d02d89a3-7c97-4cf7-a8bd-7dabeaa7060e/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d02d89a3-7c97-4cf7-a8bd-7dabeaa7060e/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d02d89a3-7c97-4cf7-a8bd-7dabeaa7060e/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d02d89a3-7c97-4cf7-a8bd-7dabeaa7060e/keywords.json"
+  ]
+}
