@@ -1,0 +1,17 @@
+[
+  "1 Real-time computation of bio-heat transfer in the fast explicit dynamics finite element algorithm (FED-FEM) framework Jinao Zhang, Sunita Chauhan Department of Mechanical and Aerospace Engineering, Monash University, Wellington Rd, Clayton, VIC 3800 Australia Abstract",
+  "Utilising a parallel execution, the proposed method achieves computation time reduction of 107",
+  "57 times compared to those of with and without parallelisation of the commercial finite element codes if temperature-dependent thermal properties are considered, and 303",
+  "58 times if temperature-independent thermal properties are considered, far exceeding the computational performance of the commercial finite element codes, presenting great potential in real-time predictive analysis of tissue temperature for planning, optimisation and evaluation of thermo-therapeutic treatments",
+  "Introduction Fast and accurate modelling of bio-heat transfer in soft biological tissue is increasingly valuable in the applications of computer-assisted surgery, in particular, the tissue temperature prediction and thermal dose computation for therapeutic hyperthermia [1], thermal damage evaluation for tissue ablation [2, 3], and the development of associated surgical simulators for cancer treatment [4, 5]; however, it is challenging to satisfy the conflicting requirements (fast and accurate)",
+  "In recent studies, it was shown that the real-time prediction and control of thermal dose could avoid thermally hot-spots in healthy tissue, leading to improvements in clinical outcomes [6, 7]",
+  "However, most of the developed numerical methods [8-13] are mainly focused on numerical accuracy, convergence, and stability, rather than computation time to satisfy the conflicting requirements for better clinical outcomes",
+  "For instance, it was reported that simulating a thermal ablation process using conventional methods led to a computation time ranging from a few minutes to several hours [14], and that simulation of an 8- minute thermal ablation took around 6",
+  "0 hours [15]",
+  "It was shown that soft tissue thermal properties such as tissue density, thermal conductivity, and specific heat capacity are temperature-dependent [16-18]",
+  "The nonlinear system of equations is usually solved by an iterative solution procedure based on the Newton\u2013Raphson method [19] through a sequence of solutions of a linearised system of equations",
+  "2 Various techniques were reported to facilitate the computational performance of numerical methods for solutions of the bio-heat transfer equation, and most of the existing techniques were based on the finite difference method (FDM)",
+  "[20] studied a Graphics Processing Unit (GPU)-accelerated FDM to achieve fast simulation of focused ultrasound treatment via a parallel execution of the solution procedure on GPU; however, FDM requires a regular computation grid to approximate spatial derivatives, but human organs/tissue are irregular shapes with curvilinear boundaries, resulting in inaccuracy for accommodating soft tissue material properties and enforcing boundary conditions",
+  "He and Liu [21] developed a parallel alternating direction explicit (ADE) scheme based on FDM to solve the bio-heat equation; Carluccio et al",
+  "[22] devised a spatial filter method based on Fast Fourier Transform (FFT) with FDM to reduce computation time; Kalantzis et al"
+]
