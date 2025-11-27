@@ -1,0 +1,17 @@
+[
+  "The diameter of the particle is much smaller than the laser beam diameter, allowing for a nearly homogeneous distribution of the heat flux within the penetrated layer.",
+  "The chemical reaction on the particle surface is the production of TiN according to the reaction: TiCl4(g) + 2H2(g) + N2(g) \u2192 TiN(s) + 4HCl(g).",
+  "The production rate of TiN is defined as the mass of TiN produced per unit area per unit time, and is calculated using the reaction rate constant and the concentrations of the reactants.",
+  "The concentration of TiCl4 near the particle surface is governed by a mass diffusion equation, which is solved to obtain the mass penetration depth and the TiCl4 concentration at the particle surface.",
+  "The thermal penetration depth, \u03b4h, represents the depth to which the heat flux has penetrated the particle surface, and the mass penetration depth, \u03b4m, represents the depth to which the concentration of TiCl4 has been depleted.",
+  "The sticking coefficient, \u03b3TiN, represents the fraction of the TiN product that can be successfully deposited on the particle surface, and is a function of the surface temperature.",
+  "Decreasing the laser pulse width, while keeping the laser fluence constant, results in a higher heat flux and higher surface temperature, leading to an earlier onset of the chemical reaction and a higher production rate of TiN, but also a lower sticking coefficient.",
+  "Increasing the initial particle temperature leads to a higher surface temperature during the laser pulse, which results in a higher production rate of TiN, but also a lower sticking coefficient at temperatures above 1273 K.",
+  "The LCVI process has the advantage over the LCVD process in that the uninfiltrated powder provides support for producing overhangs, and confining the deposition to thin powder layers provides better dimensional control in the direction of growth.",
+  "The total pressure in the reaction chamber is 700 kPa, with the partial pressures of TiCl4, N2, and H2 in the ratio 1:14.28:14.28.",
+  "The radius of the laser beam is 1.0 \u00d7 10-3 m, and the absorptivity of the laser beam at the particle surface is 0.23.",
+  "The activation energy of the chemical reaction is 51.02 kJ/mol.",
+  "The laser pulse frequency is 5000 Hz, corresponding to 200 \u03bcs between laser pulses.",
+  "The maximum surface temperature during the first laser pulse is 1531.7 K, and the uniform temperature after the pulse is 1045.2 K.",
+  "When the laser pulse width is 300 ns, the maximum surface temperature during the pulse is 1610.5 K, and the uniform temperature after the pulse is 1045.1 K."
+]
