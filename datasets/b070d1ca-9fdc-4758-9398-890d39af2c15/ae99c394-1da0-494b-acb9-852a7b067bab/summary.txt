@@ -1,0 +1,1 @@
+This paper analyzes several datasets containing heat transfer data with transitional boundary layers, in order to extract information about the start and length of the transition region. The analysis uses the STAN5 boundary layer code to match the data and determine the transition parameters, which are found to depend strongly on free stream turbulence and pressure gradient.
