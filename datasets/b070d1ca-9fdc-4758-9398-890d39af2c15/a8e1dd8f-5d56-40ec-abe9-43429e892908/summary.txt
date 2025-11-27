@@ -1,0 +1,1 @@
+This paper presents a novel stress-aligned non-planar print trajectory optimization method for additive manufacturing of anisotropic polymers like liquid crystal polymers. The method considers manufacturability constraints and achieves up to 44x improvement in mechanical strength compared to conventional 2.5D printing approaches.
