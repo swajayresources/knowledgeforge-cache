@@ -1,0 +1,17 @@
+[
+  "The three-dimensional Navier-Stokes code of Arnone et al. (1991) was modified to include film cooling effects and other models.",
+  "Mayle's transition criterion, Forest's model for augmentation of leading edge heat transfer due to free-stream turbulence, and Crawford's model for augmentation of eddy viscosity due to film cooling were incorporated into the code.",
+  "The C3X vane had nine rows of film cooling holes, the VKI rotor had six rows, and the ACE rotor had three rows.",
+  "The C3X vane and VKI rotor had shower-head injection at the leading edge, while the ACE rotor did not.",
+  "The holes on the VKI rotor were conical, while the holes on the C3X vane and ACE rotor were cylindrical.",
+  "The coolant velocity and temperature profiles at the hole exit were specified using a polynomial function that satisfied the zero gradient condition at the centerline.",
+  "The maximum effect of coolant distribution on the heat transfer coefficient was found to be 60% on the suction surface and 50% on the pressure surface.",
+  "The computations were performed on the 8-processor Cray Y-MP at NASA Lewis Research Center and the 16-processor C-90 at NASA Ames Research Center.",
+  "The code required about 60 million words of storage and took about 20 seconds per iteration (full-multigrid) on the C-90 machine for one million grid points.",
+  "The first case required about 1100 iterations to converge, while subsequent cases for the same grid required about 300 iterations.",
+  "The ratio of two adjacent grid sizes in any direction was kept within 0.76 to 1.3 for computational accuracy.",
+  "The Baldwin-Lomax algebraic turbulence model was used in the Navier-Stokes code.",
+  "The experimental data for the C3X vane was provided by Hylton et al. (1988), for the VKI rotor by Camci and Arts (1990), and for the ACE rotor by Norton et al. (1990).",
+  "The experimental heat transfer coefficients were normalized with respect to an arbitrary value of 1135.6 kW/m^2-K for the C3X vane.",
+  "The computational span was different from the real span for all three blades due to computational limitations."
+]
