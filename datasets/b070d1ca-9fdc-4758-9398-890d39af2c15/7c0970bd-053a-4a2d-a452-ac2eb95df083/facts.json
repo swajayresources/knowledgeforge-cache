@@ -1,0 +1,17 @@
+[
+  "AERODYNAMIC OPTIMIZATION OF THE ANGLE OF ATTACK OF THE WING DESIGN OF A MQ-9 REAPER UAV RyanKim ThomasJeffersonHighSchoolforScienceandTechnology ABSTRACT InthispaperIpresenttheaerodynamicoptimizationoftheangleofattackofMQ-9Reaperwings underturbulentairflowconditions",
+  "At the end of the paper, the final optimized MQ-9 wing design, along with its respective design parameters,arepresentedanddiscussed",
+  "Keywords UAV\u00b7Aerodynamics\u00b7Airfoil 1 Introduction Anunmannedaircraftsystem(UAS)comprisesunmannedaerialvehicles(UAVs),controlstations,andaircraftcomputer systems",
+  "Forexample,an intelligentUAVmayreturnbacktothestartingdestinationifitrunsoutoffuel[1]",
+  "BenefitsofUAVsincludealackofanairbornecrew,lowoperationalcosts,easeofexecution,andtheconvenienceof airtravel[2]",
+  "Althoughthisstudydoesnotaimtodesigntheinteriororeventhe fuselagesystemofUAVs,itisworthnotingthat220kgofpayloadmassisremovedjustbylocatingthecontrolsystem ataremotelocationinsteadofkeepingitontheaircraft",
+  "Thebenefits andversatilityUAVsofferhasledtoseveralcountriesinvestingintherapiddevelopmentandimplementationofbetter designs,withthemajorityoftheUAVmarketlyinginthemilitary[3]",
+  "Themotivationofthisstudyistooptimizetheairfoilgeometryofaspecificaircraftmodel,theMQ-9,whichisanewer andupgradedversionoftheMQ-1",
+  "TheMQ-9isrelevantcurrently,astensionsrisingbetweenUkraineand RussiahaveincentivizedtheUStosendMQ-9andsimilarUAVstotheaidofUkraine[4ukraine]",
+  "Oncetheoptimizationprocessisfinished,theairfoilisthenappliedtoa3DCADmodelandcomparedto theoriginaldesigntoseetheaerodynamicimprovements",
+  "2202 tcO 81 ]nyd-ulf",
+  "scisyhp[ 1v31001",
+  "0122:viXra A plethora of studies examining the aerodynamic design of UAVs already exist",
+  "conductedastudyonMedium-Altitude-Long-Endurance(MALE)UAVs,emphasizingtheconceptualandpreliminary design phases, while also running computer simulations as a part of their optimization technique [2]",
+  "study,thefirststagewastocreateaconceptualdesignoftheMALEUAV[2]"
+]
