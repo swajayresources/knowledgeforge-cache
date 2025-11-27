@@ -1,0 +1,17 @@
+[
+  "ofMechanicalEngineering UniversityofUtah UniversityofUtah SaltLakeCity,UT,84112 SaltLakeCity,UT,USA Email: ameel@mech",
+  "edu \u2217ApreliminaryversionofthisworkwaspresentedinIMECE2017:papernumberIMECE2017-72120 \u2020Addressallcorrespondenceforotherissuestothisauthor",
+  "0202 peS 01 ]hp-ppa",
+  "scisyhp[ 1v47050",
+  "9002:viXra ABSTRACT An Omnimagnet is an electromagnetic device that enables remote magnetic manipulation of devices such as medicalimplantsandmicrorobots",
+  "For the first time, a transient heat transfer model, that incorporates all three heat transfer modes, is proposed and validated with experimental data for an Omnimagnet with maximum root mean square error equal to8%(4\u25e6C)",
+  "Keywords: Transient;Lumpedcapacitance;State-space;Thermalmanagement;Omnimagnet;Optimization \u00af 1 Introduction AnOmnimagnet[1]isarelativelynewelectromagneticdevicethatenablesremotemagneticmanipulation[2]ofdevices such as medical implants and microrobots",
+  "We are particularly interested in its use for robotically assisted insertion of cochlear-implant electrode arrays [3,4,5], in which an Omnimagnet is adjacent to the patient\u2019s head during surgery",
+  "Petruska and Abbott [1] briefly considered heat transfer in an Omnimagnet as a part of the original design process",
+  "The heat source in both a power transformer and an Omnimagnet is resistive 1 heating and the materials (copper, electrically resistive paper, and polyamide insulation) are similar",
+  "Basedontheinternationalstandards for oil-immersed transformers (IEC 60076-7), the aging rate of power transformers is normal at temperatures lower than 98\u25e6C",
+  "For every 6\u25e6C temperature increase, the lifetime of a transformer is reduced by 50% [6]",
+  "Locatinghotspotsandcalculatingtheirtemperaturearetwooftheprimary reasonsresearchershaveinvestigatedpower-transformerheattransfer[7,8,9,10,11]",
+  "Computationalfluiddynamics(CFD)andthermalnetworkmodels(TNM)/thermalhydraulicnetworkmodels(THNM) are two of the main techniques that have been applied to model heat transfer within power transformers [6,10,11,12,13, 14,15,16,17,18]",
+  ",itwasreportedthatincreasingoilflowratedoesnotsignificantly change the convection coefficient in high voltage power transformers [6]"
+]
