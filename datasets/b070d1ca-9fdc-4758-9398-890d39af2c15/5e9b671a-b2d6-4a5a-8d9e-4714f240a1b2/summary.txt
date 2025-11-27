@@ -1,0 +1,1 @@
+This paper presents a method for optimizing the flight trajectory and engine settings of a High Speed Civil Transport (HSCT) aircraft to minimize noise propagation to the ground during the climb to cruise phase. The method uses a trajectory optimization approach to balance the tradeoffs between high-altitude, low-noise flight and high-thrust, high-noise flight.
