@@ -1,0 +1,17 @@
+[
+  "Additive manufacturing (AM) has been increasingly adopted by gas turbine manufacturers for rapid prototyping and mass production of complex, lightweight parts for combustion systems.",
+  "The AM process typically results in higher surface roughness compared to conventional manufacturing.",
+  "Surface roughness effects are difficult to model efficiently with high accuracy, leading to performance differences between design concepts and as-built parts.",
+  "The new integral wall model for LES (iWLES) uses a velocity profile with a viscous/roughness sublayer and a logarithmic layer to capture near-wall physics.",
+  "The iWLES model was implemented as a user-defined function in the ANSYS Fluent software.",
+  "The iWLES model was validated on a periodic channel flow case and a flat plate boundary layer case with distributed surface roughness.",
+  "Applying the improvements enabled by accurate surface roughness modeling to a fleet of 5,000 turbofan engines could result in $6B in annual fuel cost savings and 25 million tons per year reduction in CO2 emissions.",
+  "The project faced several delays due to administrative issues, changes in personnel, and difficulties in securing HPC resources and ANSYS software licenses.",
+  "The momentum boundary layer thickness at the leading edge of the flat plate is calculated to be 2.314x10^-4.",
+  "The free-stream Mach number for the flat plate simulations is 0.5.",
+  "The RANS simulations predicted a skin friction coefficient of 0.0045378 on the flat plate.",
+  "The height of the roughness elements/features corresponding to the boundary layer will generate an elevated shear layer and alternating high and low speed streaks near the wall.",
+  "The comparison of onset of flow transition predicted with the iWMLES simulation with roughness resolved LES will give an assessment of the proposed approach.",
+  "The RANS simulations were needed to provide initial conditions in the form of velocity profiles for the LES simulations.",
+  "The final task of reacting flow simulation was not performed due to challenges presented by the COVID-19 pandemic."
+]
