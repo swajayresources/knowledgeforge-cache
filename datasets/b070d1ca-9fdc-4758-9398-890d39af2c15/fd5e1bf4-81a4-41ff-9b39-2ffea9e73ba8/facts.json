@@ -1,0 +1,17 @@
+[
+  "The highest power coefficient obtained from the mesh independent study was 0.4218, which was achieved using the SST model with the fine mesh (M3).",
+  "The power coefficients obtained from the standard k-\u03b5 model were 15% to 20% lower than the accuracy of the SST model.",
+  "M2 and M3 account for nearly 1% difference in the estimated power coefficients using the SST model.",
+  "The CFD simulation time is highly dependent on the number of mesh nodes, with the fine mesh (M3) requiring 9 hours and 53 minutes compared to 6 hours and 16 minutes for the medium mesh (M2) using the SST model.",
+  "The k-\u03b5 model underestimated the power coefficient due to its poor performance in the near-wall regions and in the adverse pressure gradients.",
+  "The highest torque coefficient was achieved at a TSR of 5 for both the k-\u03b5 and SST models, with the SST model medium mesh having a 25% higher torque coefficient than the k-\u03b5 model medium mesh.",
+  "The straight blade design produced 366 kW of power with a power coefficient of 0.4028% using the SST model.",
+  "The highest lift coefficient of 0.182 was observed at the 0.5 blade span location, with the leading edge contributing to the pressure distribution increase on the pressure side and the trailing edge causing the negative pressure distribution increase on the suction side.",
+  "The non-linearity in the torque coefficient after a TSR of 5 was due to the rotational forces and their effects on the turbine blades, which the k-\u03b5 model was unable to capture.",
+  "The SST medium mesh offers the best level of accuracy regarding computational costs.",
+  "The standard k-\u03b5 model is incapable of capturing the account of rotational forces and their effects on the turbine blades, and due to the near wall physics implementation.",
+  "The power coefficient of a horizontal axis tidal turbine is highly sensitive to the turbulence model chosen for the CFD analysis.",
+  "The mesh independent CFD solution for SST medium mesh satisfactorily achieves the mesh independency over the SST fine mesh solution which requires a massive computational overhead.",
+  "The positive blade tip vortex are seen on the pressure side of the blade, due to the high turbulence intensities generated from the trailing edge of the airfoil and thus creating downstream interaction of the Reynolds shear stress and turbulent boundary layer formation.",
+  "The NACA 0018 airfoil, a high lift generating airfoil, generates lift from the pressure difference created by the fluid and blade interaction."
+]
