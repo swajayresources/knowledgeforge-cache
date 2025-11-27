@@ -1,0 +1,15 @@
+{
+  "paper_id": "78d5933f-dd05-44db-94d9-aba1954f0c45",
+  "title": "Application of Pinniped Vibrissae to Aeropropulsion",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/78d5933f-dd05-44db-94d9-aba1954f0c45/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/78d5933f-dd05-44db-94d9-aba1954f0c45/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/78d5933f-dd05-44db-94d9-aba1954f0c45/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/78d5933f-dd05-44db-94d9-aba1954f0c45/keywords.json"
+  ]
+}
