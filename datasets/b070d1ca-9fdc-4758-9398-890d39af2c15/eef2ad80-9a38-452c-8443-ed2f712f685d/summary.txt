@@ -1,0 +1,1 @@
+This paper describes the development of a CFD-based turbomachinery analysis and design system called TADS, which couples a throughflow solver (ADPAC) with a quasi-3D blade-to-blade solver (RVCQ3D) and is controlled by a graphical user interface (GUI). The system was designed to incorporate modern CFD techniques into the traditional turbomachinery design approach.
