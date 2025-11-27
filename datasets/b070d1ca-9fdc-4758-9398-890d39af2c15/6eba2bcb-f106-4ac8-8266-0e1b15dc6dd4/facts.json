@@ -1,0 +1,17 @@
+[
+  "The paper considers an extended weighted generalized fractional optimal control problem without constraints on the control functions.",
+  "The dynamics of the optimal control problem are described by a weighted generalized fractional differential equation of order 0 \u2264 \u03b1 < 1 and parameter \u03b2 > 0.",
+  "The paper proves a weak version of a weighted generalized fractional Pontryagin's maximum principle as the main result.",
+  "As corollaries, the paper obtains necessary optimality conditions for Caputo-Fabrizio, Atangana-Baleanu, and weighted Atangana-Baleanu fractional optimal control problems.",
+  "The paper derives a new weighted generalized fractional Euler-Lagrange equation for a fractional calculus of variations problem.",
+  "The paper utilizes recent results on weighted generalized fractional derivatives and integrals, as well as a weighted generalized fractional integration by parts formula.",
+  "The paper mentions potential future research directions, such as extending the results to vector-valued problems and developing numerical schemes.",
+  "The fractional order parameter \u03b1 is considered in the range 0 \u2264 \u03b1 < 1.",
+  "The functions L and f are assumed to be differentiable with respect to all their arguments, and the control set U is assumed to be a nonempty open subset of R.",
+  "The weighted generalized fractional integration by parts formula is a key mathematical tool used in the derivation of the necessary optimality conditions.",
+  "The paper introduces an augmented functional to derive the necessary optimality conditions using a variational approach.",
+  "The paper aims to contribute to the theoretical development of a generalized fractional theory of optimal control.",
+  "The paper's results can be applied to various fractional optimal control and fractional calculus of variations problems.",
+  "The paper builds upon recent advancements in the theory of weighted generalized fractional operators and integration by parts.",
+  "The necessary optimality conditions obtained in the paper are in the form of a Hamiltonian system and a stationary condition."
+]
