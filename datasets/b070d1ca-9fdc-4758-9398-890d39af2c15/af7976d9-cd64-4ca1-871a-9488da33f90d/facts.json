@@ -1,0 +1,12 @@
+[
+  "The DNN model describes the dendritic structure as a hierarchical network of thin parabolic-shaped needles.",
+  "The DNN simulations of Al-4at.%-Cu alloy were performed on domains with 14 to 118 primary dendrites, much larger than the typical phase-field simulations.",
+  "For the Al-4at.%-Cu alloy, the DNN-predicted minimum stable primary dendrite arm spacings are in good agreement, within 26% on average, with the phase-field results.",
+  "For the Ti-45at.%-Al alloy, the DNN simulations capture the reduction of primary dendrite arm spacing under increasing gravity conditions, consistent with phase-field simulations and experimental data.",
+  "The DNN simulations of the Ni-based superalloy CMSX-4 were able to reproduce the oscillatory growth behavior observed experimentally using in-situ X-ray radiography.",
+  "The DNN model considers buoyant flow in the liquid phase due to solute concentration gradients, using the Boussinesq approximation.",
+  "The DNN simulations were accelerated by implementing the code in the CUDA programming language for Nvidia GPUs.",
+  "The DNN simulations of Al-4at.%-Cu alloy with g = 9.81 m/s^2 were performed on a domain of 1150 x 510 grid points, equivalent to 8.2 mm x 3.6 mm.",
+  "The DNN simulations of Ti-45at.%-Al alloy were performed on a domain of 0.5 mm x 1.14 mm, with a grid spacing of 1.75 times the steady-state tip radius.",
+  "The DNN model includes a side-branching mechanism, where new branches are periodically generated at a distance behind the dendrite tip."
+]
