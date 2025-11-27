@@ -1,0 +1,1 @@
+This paper develops a two-fluid model (TFM) to simulate heat transfer and particle migration in dense non-Brownian suspensions. The model is calibrated against experimental data and used to study the interplay between thermal and shear gradients in Couette cell flows.
