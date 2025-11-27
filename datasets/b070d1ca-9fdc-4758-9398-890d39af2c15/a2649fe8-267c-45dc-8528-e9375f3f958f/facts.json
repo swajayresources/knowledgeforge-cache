@@ -1,0 +1,17 @@
+[
+  "AN IMAGE PROCESSING PIPELINE FOR IN-SITU DYNAMIC X-RAY IMAGING OF DIRECTIONAL SOLIDIFICATION OF METAL ALLOYS IN THIN CELLS APREPRINT MihailsBirjukovs NataliaShevchenko InstituteofNumericalModelling Helmholtz-ZentrumDresden-Rossendorf(HZDR) UniversityofLatvia(UL) DepartmentofMagnetohydrodynamics Riga,Latvia,Jelgavas3,1004 BautznerLandstra\u00dfe400,01328Dresden,Germany mihails",
+  "lv SvenEckert Helmholtz-ZentrumDresden-Rossendorf(HZDR) DepartmentofMagnetohydrodynamics BautznerLandstra\u00dfe400,01328Dresden,Germany October4,2022 ABSTRACT Wepresentanimageprocessingalgorithmdevelopedforquantitativeanalysisofdirectionalsolidifi- cationofmetalalloysinthincellsusingX-rayimaging",
+  "Keywords DynamicX-rayimaging\u00b7Insituanalysis\u00b7Imageprocessing\u00b7Directionalsolidification\u00b7Liquidmetal alloys 1 Introduction Solidificationisacentralaspectofmanyindustrialapplications,particularlyinmetallurgy,e",
+  "Segregationofsolutespeciesoriginatesatthemicroscale,but propagatestoandemergesatthemacroscale(macrosegregation),leadingtonon-uniformityofthedistributionofthe inter-metallicphasesinindustrialalloys[4]",
+  "Aftercompletesolidification,thesedisturbancesremain asdefectsinthecastingsknownasfreckles,whichareessentiallyanisotropicalloycompositioninhomogeneitiesin 2202 peS 9 ]ics-lrtm",
+  "tam-dnoc[ 1v64800",
+  "0122:viXra APREPRINT-OCTOBER4,2022 the form of channels with diameters proportional to few primary dendrite arm spacings and lengths varying from millimeterstocentimeters[2,5\u201310]",
+  "temperaturegradient,coolingrate,alloycomponentmass fractions)[1,3,11\u201313]",
+  "[3,11,14\u201318]",
+  "Thisandotherfactorsintroducedbymagneticfieldapplicationsignificantly alterssolidifiedmicrostructures[2,19\u201321]",
+  "Eventhoughoneobtainsonlytheprojectionsofthesolidifiedmicrostructures,ithasprovento beaveryeffectivemeansofprobingsystemswithsolidificationprocessesforphysicalinsights[2,9,10,15,16,20, 22\u201331]",
+  "However,whilethereexistsolutionsforsomeoftheaboveproblems,mostappeartobelimitedtosegmentation/detection ofdendriticstructures[32\u201337]",
+  "In[32\u201334],thefocusisthedetectionofthedendritecoresfromimagesofplanesnormal tothesolidificationdirection\u2013this,andthefactthealgorithmpresentedin[32,33]usestemplatematchingasoneof itsstages,makesithardlyapplicabletostudyingX-rayimageswithdirectionallysolidifyingdendrite\"forests\"(e",
+  ", asin[2,9,10,15,25])whereplanesparalleltothegrowthdirectionareimaged",
+  "Dendritetiptrackingisperformedin[35]bysegmentingthe upperpartofthesolidifiedstructuresgrowingupwards"
+]
