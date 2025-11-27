@@ -1,0 +1,1 @@
+This paper uses contactless electroreflectance spectroscopy to determine the Fermi level position and band offsets in insulating (Ga,Mn)N/GaN structures. The results show that the Fermi level in (Ga,Mn)N is strongly pinned in the middle of the band gap, enabling (Ga,Mn)N to serve as a highly resistive buffer layer for GaN-based devices.
