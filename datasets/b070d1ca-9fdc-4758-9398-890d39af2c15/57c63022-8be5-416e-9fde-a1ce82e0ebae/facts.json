@@ -1,0 +1,17 @@
+[
+  "The RGBlimp is a miniature robotic blimp that combines the desirable features of a robotic blimp and a fixed-wing glider.",
+  "The RGBlimp uses a helium-filled envelope for buoyant lift and a pair of wings for aerodynamic lift.",
+  "The RGBlimp adopts a moving mass for attitude control, inspired by the centroid control of flying squirrels in gliding.",
+  "The dynamic model of the RGBlimp considers the dynamic effects of the moving mass, which is often ignored in existing robotic blimp models.",
+  "The aerodynamic coefficients of the RGBlimp were identified using a series of steady flight tests with different displacements of the moving mass.",
+  "The RGBlimp model predictions matched the experimental data reasonably well for both steady straight-line and spiral flights.",
+  "The dynamic flight experiments showed that the proposed RGBlimp model could predict the flight trajectory, turning radius, and vertical speed, including both the powered and unpowered gliding phases.",
+  "The fixed wings of the RGBlimp prototype significantly improved the gliding performance compared to a conventional robotic blimp without wings.",
+  "The net weight of the RGBlimp prototype was 6.85g, and the dimensions were 1.0 x 1.1 x 0.5m.",
+  "The mass distribution of the RGBlimp included a helium-filled envelope (21.19g), a stationary body (104.81g), and a moving mass gondola (54.08g).",
+  "The RGBlimp design combines both buoyant and aerodynamic lift to achieve improved aerodynamic efficiency and stability compared to existing miniature robotic blimps.",
+  "The RGBlimp is the first miniature robotic blimp in the literature with moving mass control and hybrid buoyant-aerodynamic lift.",
+  "The RGBlimp adopts a pair of propellers for propulsion and yaw adjustment, and the moving mass for attitude control.",
+  "The RGBlimp dynamic model includes the Coriolis force and centrifugal force caused by the separation between the center of gravity and the center of buoyancy.",
+  "The aerodynamic force and moment coefficients of the RGBlimp were modeled as polynomial functions of the angle of attack and sideslip angle."
+]
