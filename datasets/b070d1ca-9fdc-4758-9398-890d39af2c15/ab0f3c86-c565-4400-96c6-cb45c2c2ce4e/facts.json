@@ -1,0 +1,17 @@
+[
+  "The blades are among the most expensive components of a wind turbine, accounting for 10-20% of total manufacturing costs.",
+  "Larger and more flexible blades have lower safety margins and are more susceptible to damage mechanisms like cracks and delaminations.",
+  "Damage in wind turbine blades can lead to critical failures that can damage not only the turbine they are attached to, but also nearby turbines.",
+  "The SCADA data used in this work has a low-pass filter applied, with 10-minute averages of the signals.",
+  "The edge frequencies of the blades were used as the primary structural health indicator, as they are sensitive to changes in blade stiffness.",
+  "The three blades on a turbine were found to have linear correlations in their edge frequencies during normal healthy conditions.",
+  "Out of the environmental and operational variables considered, only the ambient temperature had a systematic influence on the blade edge frequencies.",
+  "The training data for the GPs was selected from the first 2 years of turbine operation, with 2500 randomly selected data points.",
+  "The Gaussian Process hyperparameters were learned by maximizing the log marginal likelihood using the Nelder-Mead optimization algorithm.",
+  "X-bar control charts were used to monitor the averages of the GP residuals, with 3-sigma thresholds calculated over an initial 6-month period.",
+  "The proposed SHM system successfully identified early onset of damage in the case studies, up to 6 months before it was identified and remedied.",
+  "Computational costs of training the GPs scale cubically with the number of training points, so a balance had to be struck between accuracy and efficiency.",
+  "The versatility of the proposed methodology means it can also be applied to offshore wind turbines.",
+  "The use of SCADA data instead of higher-resolution data saves considerable processing time.",
+  "The normalization of data was done to avoid numerical instabilities and to not disclose confidential blade property information."
+]
