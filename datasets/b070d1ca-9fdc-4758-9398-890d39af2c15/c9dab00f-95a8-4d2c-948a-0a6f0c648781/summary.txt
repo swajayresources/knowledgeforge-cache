@@ -1,0 +1,1 @@
+This paper investigates the magnetotransport properties of phase-separated (Ga,Fe)N thin films containing γ'-GayFe4-yN nanocrystals. The results show two distinct conduction mechanisms - Arrhenius-type at higher temperatures and Mott variable range hopping at lower temperatures, with the magnetoresistance strongly influenced by the presence of the nanocrystals.
