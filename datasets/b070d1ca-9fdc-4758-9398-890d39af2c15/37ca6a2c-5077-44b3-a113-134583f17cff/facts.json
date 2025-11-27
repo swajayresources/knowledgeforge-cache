@@ -1,0 +1,17 @@
+[
+  "0 C- ^^wl^s NASA Technical Memorandum 106955 Leading Edge Film Cooling Effects on Turbine Blade Heat Transfer Vijay K",
+  "Gaugler Lewis Research Center Cleveland, Ohio Prepared for the 40th Gas Turbine and Aeroengine Congress and Exposition sponsored by the American Society of Mechanical Engineers Houston, Texas, June 5-8, 1995 National Aeronautics and Space Administration LEADING EDGE FILM COOLING EFFECTS ON TURBINE BLADE HEAT TRANSFER Vijay K",
+  "Gaugler' Turbomachinery Flow Physics Branch Internal Fluid Mechanics Division NASA Lewis Research Center Mail Stop S-11, Cleveland, OH ABSTRACT y y-coordinate of the Cartesian coordinate system with origin An existing three-dimensional Navier-Stokes code (Amone et at the geometric stagnation point al",
+  ", 1991), modified to include film cooling considerations (Gang y' dimensionless distance of the first point off the blade and Gaugler, 1994), has been used to study the effect of spanwise surface pitch of shower-head holes and coolant to mainstream mass flow z-coordinate along the span ratio on the adiabatic effectiveness and heat transfer coefficient on ratio of specific heats a film-cooled turbine vane",
+  "The mainstream is akin to that under adiabatic effectiveness [_ (T - T_)/(T\u201e - T)j real engine conditions with stagnation temperature = 1900 K and density stagnation pressure = 3 MPa",
+  "It is found that with the coolant to mainstream mass flow ratio fixed, reducing P, the spanwise pitch Subscripts for shower-head holes, from 7",
+  "0 d, where d is the hole aw corresponding to adiabatic condition diameter, increases the average effectiveness considerably over the c for coolant (average value) blade surface",
+  "However, when P/d = 7",
+  "5, increasing the coolant e freestream (external) value mass flow increases the effectiveness on the pressure surface but m maximum value reduces it on the suction surface due to coolant jet lift-off",
+  "For n corresponding to uncooled blade P/d = 4",
+  "0, such an anomaly does not occur within the range o stagnation value of coolant to mainstream mass flow ratios analyzed",
+  "Modem gas turbine BP blowing parameter [= (p,V,)/[p\u201e(RT^)'rz}1 engines are designed to operate at inlet temperatures of 1800-2000 d coolant hole diameter K, which are far beyond the allowable metal temperatures",
+  "V^ average coolant velocity at the hole exit A considerable effort has been devoted into understanding the 'Fellow ASME coolant film behavior and its interaction with the mainstream at a density ratio of 1",
+  "6, those for heat transfer coefficient flow",
+  "The film cooling performance is influenced by the wall measurement were performed at a density ratio of 1"
+]
