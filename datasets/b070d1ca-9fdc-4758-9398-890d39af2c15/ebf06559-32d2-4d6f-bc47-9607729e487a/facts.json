@@ -1,0 +1,17 @@
+[
+  "Industry 4.0 is a blend of the hyper-connected digital world of Information Technology (IT) and Operational Technology (OT) in manufacturing.",
+  "Smart manufacturing integrates manufacturing assets with sensors, computing platforms, communication technology, data-intensive modeling, control, simulation, and predictive engineering.",
+  "The digital thread refers to the communication framework of a connected data flow with an integrated view of an asset's data lifecycle and functional perspectives, from design to manufacture.",
+  "Cyber threats to smart manufacturing enterprises can be motivated by espionage, financial gain, or other reasons to compromise data confidentiality, integrity, and availability.",
+  "Additive manufacturing (3D printing) introduces new cybersecurity challenges around the protection of intellectual property (IP) related to 3D object designs and manufacturing parameters.",
+  "Remote attestation is a mechanism to verify the integrity of a system's software configuration and detect any unintended or malicious modifications.",
+  "Swarm attestation is an efficient approach to collectively verify the software integrity of all devices in a smart manufacturing system.",
+  "Cloud manufacturing allows manufacturing enterprises to utilize well-established resources and capabilities, such as Enterprise Resource Planning (ERP), over the internet, but introduces new cybersecurity challenges.",
+  "RFID and smart devices in the supply chain can provide bidirectional communication and sensor data, but also expose the system to potential attacks if not properly secured.",
+  "Watermarking can be used to uniquely identify actors and protect intellectual property in outsourced additive manufacturing processes.",
+  "The confidentiality of sensitive data, such as manufacturing processes, cost information, operational data, and intellectual property, must be protected in smart manufacturing.",
+  "The integrity of smart manufacturing systems is crucial to prevent malicious modifications, such as the introduction of backdoors, unauthorized access to protected memory, and hardware tampering.",
+  "Availability is a fundamental requirement for cyber-physical production systems (CPPS) in smart manufacturing, as any system failures or disruptions can lead to physical damage or harm.",
+  "The increasing degree of automation and system autonomy in smart manufacturing will raise the importance of human and machine safety.",
+  "The convergence of IT and OT in Industry 4.0 introduces new cybersecurity challenges, as traditional data security practices may not be sufficient to protect the integrated cyber-physical systems."
+]
