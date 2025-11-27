@@ -1,0 +1,17 @@
+[
+  "The compressor had a design speed of 21,789 ft/s (exit tip speed of 1615 ft/s)",
+  "The impeller had 15 blade/splitter pairs with spanwise varying backsweep, lean, and elliptical leading and trailing edges",
+  "The diffuser had 20 vane/splitter pairs with the splitters offset to maximize pressure recovery",
+  "The exit guide vanes (EGVs) had 60 cascade-style airfoils",
+  "The measured stage pressure ratio at the design point was 4.68 \u00b1 0.0074, compared to the design intent of 4.80",
+  "The measured adiabatic efficiency at the design point was 82.2% \u00b1 1.1%, compared to the design intent of 88.8%",
+  "The measured stability margin was 7.5%, compared to the 12% design intent",
+  "The measured work factor was 0.81, compared to the design intent of 0.7905",
+  "The impeller exit corrected flow rate was lower than the design intent at the same operating condition",
+  "The diffuser static pressure rise was lower than the design intent, with a minimum loss point at a lower flow rate",
+  "The diffuser vane loading diagrams showed the splitter vanes were operating at a large negative incidence",
+  "The probe data in the vaneless space did not adequately resolve the pressure flow field compared to the vane leading edge measurements",
+  "The comprehensive data sets and geometry from this study will be made publicly available",
+  "The root-cause analysis of the performance shortfall will continue to guide future design efforts",
+  "The test facility (CE-18) could provide up to 6000 hp, 60,000 rpm, 30:1 pressure ratio, and 20-inch diameter test articles"
+]
