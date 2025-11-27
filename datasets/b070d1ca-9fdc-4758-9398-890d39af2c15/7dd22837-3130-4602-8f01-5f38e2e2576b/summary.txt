@@ -1,0 +1,1 @@
+This paper describes the development of advanced thermal barrier coatings (TBCs) with improved erosion and impact resistance for turbine airfoil applications. The researchers used a multi-component oxide doping approach to enhance the toughness and thermal stability of the coatings, which were evaluated through high-heat-flux and erosion testing.
