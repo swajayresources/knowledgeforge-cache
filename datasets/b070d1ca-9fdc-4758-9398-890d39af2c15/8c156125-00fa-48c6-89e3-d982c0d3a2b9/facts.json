@@ -1,0 +1,17 @@
+[
+  "The paper presents a physico-mathematical model for determining the heat transfer parameters between viscous gasdynamic flotations and cooled gas turbine blades made using composite permeable membrane (CPM) technology.",
+  "The mathematical model includes equations of dynamic and thermal boundary layers, three-dimensional transient heat conduction in CPM cooled frames, and complex hydraulic flow and cooling inside the channels of a cooled blade.",
+  "A similar complex problem was solved in prior work to determine the thermal state of microrocket engines, using a method for immersing a multiply-connected domain in a region of the simplest form.",
+  "The results obtained showed greater cooling efficiency at lower cooling medium costs for the CPM-based system.",
+  "The CPM is a multilayer structure with a large number of channels for passing the cooling medium (air) and channels for injecting the cooling medium into the high-temperature gasdynamic flotation.",
+  "The geometric dimensions of the two-layer CPM structure analyzed are: a = 5 mm, b = 5 mm, c = 2 mm, d = 2 mm, l = 1.5 mm, f = 1.5 mm, \u03b41 = 0.5 mm, \u03b42 = 0.5 mm, \u03b43 = 0 mm, \u03b44 = 0.5 mm, \u03b45 = 0.5 mm, P = 0.5 mm.",
+  "The thermal and physical characteristics of the CPM frame materials are: \u03bb1 = 0.5042 kW/m\u00b7K, \u03c11 = 7800 kg/m^3, c1 = 1.26 kJ/kg\u00b7K for the first material, and \u03bb2 = 0.1512 kW/m\u00b7K, \u03c12 = 7800 kg/m^3, c2 = 1.26 kJ/kg\u00b7K for the second material.",
+  "The gasdynamic flotation characteristics used in the model are: Te = 1600 K, \u03c1e = 200 m/s, Pr = 0.71, \u03b4e = 0.1 kg/m.",
+  "The cooling efficiency of the CPM-based system is defined as \u03b8 = (Te - Tw1)/(Te - Tcooled), where Te is the effective temperature of the gasdynamic flotation, Tw1 is the temperature of the impermeable wall, and Tcooled is the temperature of the cooling medium.",
+  "The paper used the finite-difference method of the second-order accuracy for the boundary layer equations, and the immersion method with the fractional step method of N. N. Yanenko for the three-dimensional transient heat conduction problem in the multiply-connected CPM domain.",
+  "The lower the unit surface conductance on the impermeable wall, the higher the CPM efficiency, as the relative temperature of the frame increases faster with increasing heat fluxes than the relative temperature of the cooling medium.",
+  "The CPM-based cooling system allows for greater cooling efficiency at lower cooling medium costs, by optimizing the heat transfer between the gasdynamic flotation and the cooling medium flowing through the CPM channels.",
+  "The paper proposes a new economical, absolutely stable method for numerically solving of spatial nonstationary heat transfer problems in multiply-connected domains.",
+  "The results showed that the cooling efficiency is significantly higher at low heat fluxes on the wall in contact with the gasdynamic flotation.",
+  "The effect of the cooling medium curtain on reducing the heat flux to the wall is determined empirically by the parameter \u03b8curt."
+]
