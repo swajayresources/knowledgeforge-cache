@@ -1,0 +1,18 @@
+[
+  "New grating compressor designs for XCELS and SEL-100 PW projects EFIM KHAZANOV Gaponov-Grekhov Institute of Applied Physics of the Russian Academy of Sciences, Russia efimkhazanov@gmail",
+  "Specifically, for 160-cm diffraction gratings, optimal LC design enables 109 PW for XCELS and 115 PW for SEL-100 PW, while optimal TC design enables 86 PW for both projects",
+  "The latter limitation is stronger in 100-PW laser projects [1-9], where Nd:glass laser pulses with an energy of about 10 kJ are used for pumping",
+  "The damage threshold of gratings by nanosecond pulses is much higher than by femtosecond ones [10]",
+  "The fill-factor \ud835\udf02 depends on the energy and spectral properties of the spatial noise of the beam, in particular, on rms and effective spatial frequency [11]",
+  "Both these parameters can be significantly reduced by using an asymmetric compressor [5, 12-14] or a compressor with an out-of-plane geometry [15]",
+  "\" the angle of incidence \ud835\udefc on the grating [16, 17], we will assume that \ud835\udc64 , \ud835\udc45 , and \ud835\udf02 are",
+  "Note that in the expression (1) \ud835\udc45 is to the power of one rather than four, as laser induced damage restrictions are important only for the last grating",
+  "A standard compressor [18] consists of identical $ gratings, with the gratings of the first and second pair being antiparallel to each other, see Fig",
+  "TC is used in the vast majority of high-power lasers [19]",
+  "The maximization of \ud835\udc51 was considered in [20] in the \ud835\udf14 \u226b % \u03a9 approximation (\ud835\udf14 is center frequency and \u03a9 is bandwidth)",
+  "For pulses with a duration less % than 50 fs, this approximation is not accurate",
+  "Then, from (1) it can be found that for increasing \ud835\udc4a it is necessary to decrease \ud835\udefc",
+  "% & For \ud835\udefc \u2248\ud835\udefc , decoupling may be provided employing an out-of-plane compressor [21] that is & used, for example, for spectral beam combining [22] and for compressing narrow-beam pulses [23]",
+  "Both multilayer dielectric [24] and & & gold gratings [16, 24] in the out-of-plane geometry may have a reflection coefficient \ud835\udc45 almost the same as in the out-of-plane geometry",
+  "In this work we propose to use an out-of-plane compressor for increasing output power by decreasing \ud835\udefc down to \ud835\udefc =\ud835\udefc and \ud835\udefc <\ud835\udefc inclusive"
+]
