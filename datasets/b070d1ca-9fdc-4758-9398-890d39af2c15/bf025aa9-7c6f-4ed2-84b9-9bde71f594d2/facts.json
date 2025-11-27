@@ -1,0 +1,17 @@
+[
+  "The compressor was designed for a nominal 6-kilowatt Brayton cycle space electrical power system.",
+  "The compressor impeller had 15 blades that were curved backward 30\u00b0 from radial at the impeller exit.",
+  "The compressor inlet blade-tip diameter was 2.60 inches, and the impeller exit diameter was 4.25 inches with a blade height of 0.205 inch.",
+  "The compressor had a vaneless diffuser with a 0.085-inch radial gap between the impeller exit and the vaned diffuser.",
+  "The vaned diffuser contained 17 vanes that were 0.213 inch high and were an integral part of the scroll assembly.",
+  "The compressor weight flow increased linearly with increasing discharge pressure over the experimental range.",
+  "Decreasing the compressor inlet temperature and/or increasing the rotational speed produced an increase in the temperature rise ratio.",
+  "Compressor discharge pressure and turbine inlet temperature had virtually no effect on the compressor temperature rise ratio.",
+  "Compressor efficiency was slightly affected by rotational speed, with larger increases in efficiency resulting from decreasing compressor inlet temperature.",
+  "The efficiencies observed during the test were lower than those calculated during previous tests due to the increased compressor discharge temperatures caused by the BRU insulation.",
+  "The data presented cover a broad spectrum of compressor operating conditions using helium-xenon gas and will be useful in future design work for power systems of this type.",
+  "The compressor was tested as part of the overall testing of the Brayton cycle power system at the NASA-Lewis Research Center.",
+  "The test support equipment included an electric heat source, a gas-management module, a gas-reclamation module, and a heat-rejection module.",
+  "The BRU speed was controlled by a speed control utilizing a parasitic load bank to dissipate generated power in excess of that consumed by a simulated vehicle load.",
+  "The instrumentation used included pressure transducers, temperature sensors, turbine flowmeters, capacitance-type proximity probes, and speed sensors."
+]
