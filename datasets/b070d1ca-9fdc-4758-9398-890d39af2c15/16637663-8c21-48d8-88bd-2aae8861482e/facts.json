@@ -1,0 +1,17 @@
+[
+  "The study focused on simulating two-dimensional transient buoyant plume flows.",
+  "The computational domain was a 1 m x 1 m rectangular enclosure filled with air at a reference temperature of 293.15 K.",
+  "Warm air at a temperature of 303.15 K was blown into the domain through a fixed uniform inlet velocity of 0.125 m/s.",
+  "A uniform Cartesian grid with 256 cells per meter was used for spatial discretization.",
+  "The simulations were run without turbulence modeling, and a first-order backward Euler time integration scheme was used.",
+  "The Poisson equation for pressure correction can consume up to 80% of the computational time in incompressible fluid flow simulations.",
+  "The hybrid approach used a fully connected neural network to predict the pressure field at the cell level.",
+  "The predicted pressure field was used as an initial guess to solve the Poisson equation, accelerating the pressure-velocity coupling procedure.",
+  "The results showed an average improvement of 94% in the initial guess for solving the Poisson equation.",
+  "The first pressure corrector acceleration reached a mean factor of 3, depending on the iterative solver employed.",
+  "The hybrid approach was evaluated on various geometries and initial conditions without additional training.",
+  "The study aimed to develop a versatile, scalable, accurate, robust, and data-efficient hybrid CFD/machine learning methodology.",
+  "The hybrid approach is designed to enhance the efficiency of CFD iterative linear solvers while maintaining physical consistency.",
+  "The study focused on buoyant plume simulations, but the hybrid approach could be applied to other fluid flow domains.",
+  "The open-source CFD software OpenFOAM was used to simulate the transient buoyant plume flows."
+]
