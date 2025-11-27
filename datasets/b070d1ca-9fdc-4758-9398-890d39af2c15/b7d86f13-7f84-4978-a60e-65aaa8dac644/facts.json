@@ -1,0 +1,17 @@
+[
+  "Thermoluminescence detectors (TLDs) were used for dose measurements at JET during the last two weeks of the C30 experimental campaign.",
+  "Several hundred lithium fluoride detectors of various types were produced, including highly sensitive LiF:Mg,Cu,P (MCP-N) and standard LiF:Mg,Ti (MTS-N) detectors.",
+  "The MCP detectors have a much higher sensitivity to radiation compared to the MTS detectors, with a detection threshold below 1 \u03bcGy for MCP versus 20-50 \u03bcGy for MTS.",
+  "Pairs of 6LiF/7LiF detectors were used to distinguish between neutron and non-neutron components of the radiation field.",
+  "Polyethylene (PE-300) moderators were used to detect higher energy neutrons.",
+  "The TLDs were installed at 11 positions in the JET Torus Hall and labyrinth, with the measured gamma dose varying over about 5 orders of magnitude.",
+  "The neutron fluence at the experimental positions was derived from the TLD response, using a calibration in a thermal neutron field at the PTB.",
+  "The measured neutron fluence varied over more than 4 orders of magnitude, from around 10^4 n/cm^2 in positions far from the tokamak to over 10^12 n/cm^2 close to the machine.",
+  "Compared to the measurements, the MCNP calculations generally underestimated the neutron fluence close to the machine and overestimated it in positions far from the machine.",
+  "The largest discrepancies between measurements and calculations were found for the 6Li-enriched TLDs, which have the largest self-shielding effect.",
+  "Possible reasons for the discrepancies include approximations in the MCNP model, the non-thermal neutron spectrum in positions close to the tokamak, and shielding/shadowing effects between the TLDs.",
+  "The results confirm that TLD technology can be usefully applied to measurements of neutron streaming through JET Torus Hall ducts.",
+  "The experiences from this work will provide a basis for implementing TLD-based radiation monitoring in ITER to minimize personnel dose.",
+  "A previous experiment during the DTE1 campaign at JET using activation foils had obtained similar results to the TLD measurements.",
+  "The authors plan to investigate new detector positions further in the labyrinth and ducts, and improve the TLD configuration to reduce shadowing effects in future campaigns."
+]
