@@ -1,0 +1,1 @@
+This paper proposes WaveletAE, a wavelet-enhanced autoencoder model for detecting wind turbine blade icing. WaveletAE analyzes multivariate time series signals from the SCADA system to identify icing conditions, outperforming state-of-the-art anomaly detection methods on real-world datasets.
