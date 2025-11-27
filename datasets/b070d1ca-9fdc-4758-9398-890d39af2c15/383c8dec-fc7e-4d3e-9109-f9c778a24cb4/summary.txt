@@ -1,0 +1,1 @@
+This paper investigates the influence of anisotropy on the evolution of interfacial morphologies in directional solidification using a quantitative phase-field model. It discusses the role of anisotropy at different stages of solidification, including planar growth, planar instability, planar-cellular-transition, and the onset of sidebranches.
