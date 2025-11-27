@@ -1,0 +1,17 @@
+[
+  "The computational grid has approximately 68 million points.",
+  "The inlet Mach number is 2.0 and the Reynolds number based on inlet velocity and axial blade chord is 200,000.",
+  "The ratio of specific heats is 1.31, the Prandtl number is 0.747, and the ratio of the Sutherland constant over inlet temperature is 0.07182.",
+  "For the adiabatic wall case, the time-averaged characteristic length of the separation bubble is 0.16c_ax, formed along 0.70 < x/c_ax < 0.86.",
+  "For the cooled wall case, the time-averaged characteristic length of the separation bubble is 0.10c_ax, formed along 0.75 < x/c_ax < 0.85.",
+  "The skin-friction coefficient distributions show a downstream displacement of the separation region when cooling is applied.",
+  "The pressure coefficient distributions exhibit a steeper variation downstream of the incident shock wave for the cooled wall case.",
+  "The incident shock wave penetrates deeper into the boundary layer for the cooled wall case due to the thinning of the boundary layer.",
+  "For the adiabatic wall, the maximum temperature values are observed within the separation bubble, while for the cooled wall, the highest temperatures are found along the free shear layer downstream of the bubble.",
+  "The separation bubble undergoes a contraction and expansion motion for both thermal boundary conditions, with the instantaneous separation and reattachment points moving accordingly.",
+  "The tangential Reynolds stresses reach similar peak values for both the adiabatic and isothermal walls, but the wall-normal Reynolds stresses are higher for the cooled wall case.",
+  "The turbulent kinetic energy is more pronounced for the cooled wall downstream of the shock-boundary layer interaction.",
+  "A body forcing is applied to transition the boundary layers, with an unsteady actuation and random spanwise treatment.",
+  "The numerical method employs a high-order overset compressible LES approach, using a sixth-order accurate finite-difference compact scheme and an implicit second-order time integration scheme.",
+  "The near-wall grid spacing ranges from 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9 for the adiabatic wall case, and 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19 for the isothermal wall case."
+]
