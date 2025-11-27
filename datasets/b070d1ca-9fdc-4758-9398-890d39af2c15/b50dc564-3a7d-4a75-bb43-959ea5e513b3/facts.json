@@ -1,0 +1,17 @@
+[
+  "The turbine blade was made of a single crystal nickel-based superalloy called DD6, which has a two-phase microstructure with coherent and cuboidal \u03b3' precipitates in a \u03b3 matrix.",
+  "The TMF test rig was capable of applying cyclic thermal and mechanical loads with a trapezoidal stress/temperature waveform, with a stress ratio R=0.05.",
+  "The minimum and maximum temperatures in the thermal cycle were 200\u00b0C and 980\u00b0C, respectively.",
+  "The experiment was terminated after 325 cycles when a crack emerged at the suction side near the trailing edge.",
+  "No cracks were observed at the film-cooling holes or other locations on the specimen.",
+  "The researchers developed a novel sample preparation method involving wire electrical discharge machining and mechanical separation to preserve the crack surfaces for detailed inspection.",
+  "Fatigue striations were observed on the crack surfaces, indicating the crack propagated from the inside wall towards the outside.",
+  "The estimated crack propagation life was 64 cycles, which accounted for 19.7% of the total fatigue life.",
+  "The finite element simulation, using a viscoplastic constitutive model, predicted the maximum accumulated slip strain at the pin-fin fillet, validating the experimental findings.",
+  "The maximum accumulated slip strain at the pin-fin fillet was 54.8% higher than at the film-cooling holes, indicating the pin-fin fillet had the weakest TMF resistance.",
+  "The researchers recommended measures such as increasing the pin-fin fillet radius and lowering the temperature in that region to improve the TMF resistance of the turbine blade.",
+  "The high frequency induction heating system allowed for convenient control of the desired temperature field and provided a sufficiently high heating rate.",
+  "The load synchronizer maintained a stable phase shift between the thermal and mechanical loads by adjusting the heating/cooling signals based on the real-time temperature feedback.",
+  "The particularly designed specimen with a shroud at the tip provided adequate load-bearing capability to simulate the actual turbine blade loads in the laboratory.",
+  "The TMF test rig and specimen design proved to be reliable, as no failures occurred in the test rig during the experiment."
+]
