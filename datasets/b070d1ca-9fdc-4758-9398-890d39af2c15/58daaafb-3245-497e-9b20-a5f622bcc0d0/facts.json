@@ -1,0 +1,17 @@
+[
+  "NASA/CR--1999-209301 Heat Transfer on a Film-Cooled Rotating Blade Vijay K",
+  "Garg AYT Corporation, Brook Park, Ohio Prepared for the Turbo Expo '99 sponsored by the American Society of Mechanical Engineers Indianapolis, Indiana, June 7-10, 1999 Prepared under Contract NAS3-98106 National Aeronautics and Space Administration Glenn Research Center July 1999 Acknowledgments The author wishes to thank Dr",
+  "Available from NASA Center for Aerospace Information National Technical Information Service 7121 Standard Drive 5285 Port Royal Road Hanover, MD 21076 Springfield, VA 22100 Price Code: A03 Price Code: A03 HEAT TRANSFER ON A FILM-COOLED ROTATING BLADE Vijay K",
+  "Garg AY-I\" Corporation Brook Park, OH 44142 Mail Stop 5-11 Tel",
+  "(216) 433-6788; Fax (216) 433-5802 e-mail: vijay",
+  "gov ABSTRACT Tu turbulence intensity A multi-block, three-dimensional Navier-Stokes code has been v' shear velocity used to compute heat transfer coefficient on the blade, hub and shroud V_ average coolant velocity at the hole exit for a rotating high-pressure turbine blade with 172 film-cooling holes x,y,z Cartesian coordinate system with z-coordinate along the span in eight rows",
+  "Wilcox's k-c0 model is used for modeling the z,, = (z - z for hub at trailing edge)/blade span at trailing edge turbulence",
+  "The final multi-block rl film cooling effectiveness 1= (T",
+  ")] grid consists of 4784 elementary blocks which were merged into 276 p viscosity super blocks",
+  "The viscous grid has over 2",
+  "2 million cells",
+  "Each hole v kinematic viscosity exit, in its true oval shape, has 80 cells within it so that coolant p density velocity, temperature, k and _0distributions can be specified at these co specific turbulence dissipation rate (= v/k) hole exits",
+  "in value at inlet 0 laminar value NOMENCLATURE o stagnation value rel value relative to blade Bp blowing parameter {= (p_V_)/Ip,,(RT",
+  "Modern gas turbine engines are Re Reynolds number designed to operate at inlet temperatures of 1800-2000 K, which are far s distance from the leading edge along the pressure (s < 0) or beyond the allowable metal temperatures",
+  "Thus, to maintain acceptable suction surface (s > 0) normalized by blade span at the trailing life and safety standards, the structural elements need to bc protected edge against the severe thermal environment"
+]
