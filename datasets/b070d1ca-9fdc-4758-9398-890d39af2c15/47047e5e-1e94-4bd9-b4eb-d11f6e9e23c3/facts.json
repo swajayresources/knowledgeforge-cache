@@ -1,0 +1,17 @@
+[
+  "The compressor was designed under a NASA Research Announcement (NRA) contract with 2/3 NASA and 1/3 UTRC funding.",
+  "The design target was to increase efficiency at higher work factor while reducing the maximum diameter of the stage.",
+  "The impeller had a tip diameter of 6.5 inches, a rotational speed of 52,000 rpm, and a 30\u00b0 backsweep.",
+  "The diffuser had a vaned topology with splitter vanes to improve performance.",
+  "The measured pressure ratio was 4.68 and the work factor was 0.81 at the design flow rate.",
+  "The measured polytropic efficiency was 85.5% and the stall margin was 7.5% at the design point.",
+  "The measured efficiency and stall margin were lower than pre-test CFD predictions by 2.4 and 4.5 percentage points, respectively.",
+  "Post-test CFD analysis identified unsteady impeller-diffuser interactions, flow-rate mismatch, and flow separation as the likely causes of the performance shortfall.",
+  "Recommendations included redesigning the diffuser and radial-to-axial bend to address the identified issues.",
+  "Lessons were learned about the importance of unsteady CFD simulations and turbulence model implementation for centrifugal compressors.",
+  "The impeller was successfully fabricated with runouts less than 2 mils and imbalance less than 0.5 oz-in.",
+  "The compressor was instrumented with steady-state and high-response pressure measurements to capture the flow physics.",
+  "A subsequent test with a vaneless diffuser was recommended to better isolate the impeller performance.",
+  "The design process readiness was established through validation of the CFD approach on a previous compressor design.",
+  "The final compressor design had a challenging reduction in radius ratio compared to conventional designs."
+]
