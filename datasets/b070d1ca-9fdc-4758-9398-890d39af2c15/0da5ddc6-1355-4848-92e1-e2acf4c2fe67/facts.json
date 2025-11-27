@@ -1,0 +1,17 @@
+[
+  "Fault Tolerant Thermal Control of Steam Turbine Shell Deflections Mert Geveci1 600 400 200 0 0",
+  "8 1 Normalized Shell Length (\u2212) 20 0 \u221220 0 0",
+  "8 1 Normalized Shell Length (\u2212) 100 Fig",
+  "Thecombinedhighpressure/intermediatepressure(HP-IP)shell ofaGED11steamturbine",
+  "50 0 \u221250 Abstract\u2014The metal-to-metal clearances of a steam turbine during full or part load operation are among the main drivers 0 0",
+  "8 1 of efficiency",
+  "In each figure, the markers \u201d+\u201d, \u201d\u25e6\u201d, \u201dx\u201d, and of a control algorithm to manage external heating blankets \u201d(cid:3)\u201d represent t = 0, 37, 117, 298 hours, respectively",
+  "INTRODUCTION Transient peak-to-peak shell deflections are the main driver in setting metal-to-metal clearances in steam turbines A sample time history established by the simulation of [1]",
+  "These transient deflections are mainly caused by tem- a steam turbine shell model is shown in Figure 2",
+  "Fortheverticaldeflectionsshownhereandtherest [1] especially while the turbine shell cools down with the of study, the results are normalized by the peak deflection turbine shut down",
+  "Thecombinedhighpressure/intermediatepressure(HP-IP) Variousmechanicaldesignfeaturescanbeimplementedto shellofaGeneralElectric(GE)D11steamturbineisshown alleviate the vertical deflection issue",
+  "Most such approaches in Figure 1",
+  "All five inlet and outlet feasiblefortheimprovementoftheperformanceofin-service sectionsexceptonearelocatedonthebottomhalfoftheshell units, especially units with a single shell like the GE D11",
+  "The larger surface area of A lower cost method to reduce the clearances of a steam the lower shell results in transient temperature differentials turbine also has promise in the new unit space for designs betweenthetwoshellhalves,whichinturnresultsinvertical with a single shell such as the GE D400",
+  "The installation of electric blankets on the outside of the steam turbine shell has been reported in many combined 1GE Global Research, 1 Research Circle, Niskayuna, NY 12309, USA Mert"
+]
