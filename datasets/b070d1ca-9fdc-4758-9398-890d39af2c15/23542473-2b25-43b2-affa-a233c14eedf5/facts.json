@@ -1,0 +1,17 @@
+[
+  "The paper generalizes a previously introduced capillary-wave description of binary-alloy solidification to include the process of directional solidification.",
+  "A universal dispersion relation of the unstable eigenmodes of a planar steady-state solidification front is derived, which readjusts previously known stability considerations.",
+  "The paper establishes a differential equation for oscillatory motions of a planar interface that offers a limit-cycle scenario for the formation of solute bands and banded structures.",
+  "The model considers a class of systems with arbitrary equilibrium profiles of the solute concentration, which leads to an integro-differential equation for the interface position.",
+  "For a sufficiently small temperature gradient, the equation of motion can be reduced to the differential equation of a damped nonlinear oscillator.",
+  "Stationary solutions of the oscillator equation are shown to exist in some region, limited by the threshold of the Cahn instability.",
+  "The transition from uniform to periodic solutions near the stability threshold can be analytically evaluated using the Bogoliubov-Mitropolsky method.",
+  "The nature of the periodic solutions can be tuned from almost-harmonic to distinctive relaxation oscillations by changing the pulling velocity.",
+  "The inclusion of the inertial term in the oscillator equation is crucial, as it provides the necessary turnaround of trajectories at low velocities.",
+  "The temperature gradient determines the period of the limit-cycle solutions, with the bandwidth of the banded structures being inversely proportional to the gradient.",
+  "The generalized model presented in Appendix A includes energy density as an additional field variable and allows for finite heat conductivity.",
+  "The parameter m\u00b2 acts as a long-wavelength cutoff for the Mullins-Sekerka instability and determines the period of the limit-cycle solutions.",
+  "Unlike previous phenomenological approaches, the present model derives the necessary turnaround of trajectories at low velocities from the inclusion of the inertial term, without requiring an ad hoc assumption of a hysteresis loop.",
+  "The Mullins-Sekerka instability enters the limit-cycle scenario in some parameter window, leading to the development of a dendritic microstructure in the low-velocity bands.",
+  "The almost stationary behavior of the interface motion in the low-velocity regime is barely understood and is complemented by the standard Mullins-Sekerka procedure."
+]
