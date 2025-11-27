@@ -1,0 +1,12 @@
+[
+  "Time-marching Navier-Stokes solvers can suffer from poor convergence at low Mach numbers due to the wide disparity in the eigenvalues of the system.",
+  "Preconditioning involves altering the time derivative of the equations of motion to scale down the acoustic speed to the level of the fluid velocity.",
+  "The authors have implemented preconditioning for multi-species reacting flows in two independent codes - an implicit (ADI) code and the RPLUS code.",
+  "Preconditioning can improve convergence by a factor of two to a hundred, depending on the problem.",
+  "The authors' current efforts are focused on evaluating the effect of chemical sources and on assessing how preconditioning may be applied to improve convergence and robustness for reacting flow problems.",
+  "Preconditioning enables Mach number-independent convergence to be obtained, and can also handle a wide range of Reynolds numbers by scaling the acoustic speed to the local viscous time scale.",
+  "The authors have extended the preconditioning approach to handling very viscous flows, where the acoustic speed is altered such that the local CFL number is approximately the same order as the viscous time step.",
+  "Highly viscous regions of the flow and the presence of strong source terms can also introduce convergence difficulties in time-marching Navier-Stokes solvers due to the very disparate time scales involved.",
+  "The RPLUS code has been modified to work on a 4-stage Runge-Kutta scheme.",
+  "The authors' efforts are currently focused on evaluating the effect of chemical sources and on assessing how preconditioning may be applied to improve convergence and robustness."
+]
