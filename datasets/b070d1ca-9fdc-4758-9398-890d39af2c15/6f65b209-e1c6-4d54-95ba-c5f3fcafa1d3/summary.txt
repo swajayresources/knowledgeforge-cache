@@ -1,0 +1,1 @@
+This paper focuses on developing life prediction models for thermal barrier coatings (TBCs) used in gas turbine engines. It reviews the process-microstructure relationships for plasma-sprayed and EB-PVD TBC systems, as well as their thermomechanical and thermochemical durability considerations.
