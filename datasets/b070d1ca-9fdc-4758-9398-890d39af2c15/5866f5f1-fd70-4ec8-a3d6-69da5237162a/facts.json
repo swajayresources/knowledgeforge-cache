@@ -1,0 +1,17 @@
+[
+  "The test blade had three rows of film holes on the leading edge and two rows each on the pressure and suction surfaces.",
+  "The mainstream Reynolds number based on the blade axial chord was 5.3 x 10^5.",
+  "Unsteady wakes were simulated using a spoke-wheel type wake generator upstream of the five-blade linear cascade.",
+  "Coolant blowing ratio was varied from 0.4 to 1.2 for the turbine blade experiments.",
+  "Higher density coolant (CO2) provided higher film cooling effectiveness at higher blowing ratios (M=1.2).",
+  "Lower density coolant (air) provided higher film cooling effectiveness at lower blowing ratios (M=0.8).",
+  "An increase in free-stream turbulence intensity (up to 7%) reduced film effectiveness significantly at low blowing ratios.",
+  "The film temperature distributions were measured using a cold-wire technique.",
+  "Unsteady wakes were found to significantly reduce film cooling effectiveness on the turbine blades.",
+  "Unsteady wakes slightly enhanced heat transfer coefficients but significantly reduced film cooling effectiveness on the turbine blades.",
+  "Trailing edge coolant ejection further enhanced the blade surface heat transfer coefficients, particularly near the leading edge region.",
+  "Trailing edge coolant ejection had more effect on film effectiveness distribution than on the heat transfer coefficients.",
+  "Film injection enhanced local heat transfer coefficients while the unsteady wake promoted earlier boundary-layer transition.",
+  "Higher density coolant (CO2) provided lower Nusselt numbers at all blowing ratios compared to lower density coolant (air).",
+  "An increase in free-stream turbulence had very small effect on Nusselt numbers for both air and CO2 coolants."
+]
