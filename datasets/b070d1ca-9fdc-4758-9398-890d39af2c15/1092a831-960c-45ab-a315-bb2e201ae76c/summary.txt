@@ -1,0 +1,1 @@
+This paper presents an experimental and numerical study on the effects of pulsating coolant flows on the attenuation of vane-rotor shock interactions in a turbine blade. The research investigates the impact of different cooling schemes on the shock angle, intensity, and boundary layer behavior.
