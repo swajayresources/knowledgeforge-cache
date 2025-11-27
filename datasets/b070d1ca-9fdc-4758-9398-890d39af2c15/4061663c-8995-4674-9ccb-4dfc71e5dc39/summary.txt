@@ -1,0 +1,1 @@
+This paper examines the rotational effects on large wind turbine blades using computational fluid dynamics (CFD) simulations. The results show that rotation leads to a delay in flow separation and a reduction in wake size at the inboard blade sections, resulting in an increase in lift coefficient compared to 2D airfoil data.
