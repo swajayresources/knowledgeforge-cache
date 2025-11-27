@@ -1,0 +1,15 @@
+{
+  "paper_id": "7958d8cc-2191-4721-bff1-89c362d76d89",
+  "title": "Reinforced Symbolic Learning with Logical Constraints for Predicting Turbine Blade Fatigue Life",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/7958d8cc-2191-4721-bff1-89c362d76d89/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/7958d8cc-2191-4721-bff1-89c362d76d89/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/7958d8cc-2191-4721-bff1-89c362d76d89/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/7958d8cc-2191-4721-bff1-89c362d76d89/keywords.json"
+  ]
+}
