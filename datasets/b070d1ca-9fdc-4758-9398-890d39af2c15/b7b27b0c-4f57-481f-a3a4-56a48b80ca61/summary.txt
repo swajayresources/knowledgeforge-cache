@@ -1,0 +1,1 @@
+This paper proposes a novel approach for automated detection of wind turbine blade defects using virtual reality and deep learning. The method involves generating synthetic images of common defects like cracks, erosion, delamination, and lightning damage using a virtual wind turbine model, and then training a U-Net deep learning model to segment and classify these defects.
