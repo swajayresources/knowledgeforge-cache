@@ -1,0 +1,17 @@
+[
+  "The SSME blades are subject to severe thermal, pressure, and forced vibration environments.",
+  "The SSME/STAEBL code was developed by systematically modifying and enhancing the STAEBL (Structural Tailoring of Engine Blades) code.",
+  "Additions and modifications to STAEBL included in SSME/STAEBL include thermal stress analysis, gas dynamic (pressure) loads, temperature-dependent material and thermal properties, forced vibrations, and a direct time integration algorithm for transient dynamic response.",
+  "Optimization studies showed that the additional loads (thermal and pressure) require additional weight to meet all design constraints, mainly due to a tighter root stress constraint.",
+  "For the single-crystal SSME blade design, the crystal axis orientation was found to have a relatively insignificant effect on the optimal design, which was dominated by the root stress constraint.",
+  "The blade cross-section stacking offsets were shown to have a very significant effect on the optimal SSME blade design, especially for designs dominated by the root stress constraint.",
+  "The natural frequencies of the optimized SSME blade design under centrifugal loads only were 3562 Hz, 4383 Hz, 7916 Hz, and 7969 Hz.",
+  "The root stress of the optimized SSME blade design under centrifugal loads only was 108 ksi, compared to 83 ksi for the initial design.",
+  "The tip displacement of the optimized SSME blade design under centrifugal loads only was 0.0027 inches, the same as the initial design.",
+  "The blade weight of the optimized SSME design under centrifugal, thermal, and pressure loads with temperature-dependent properties was 4.15 lb, compared to 4.14 lb for the initial design.",
+  "The forced response margins of the optimized SSME blade design under centrifugal, thermal, and pressure loads with temperature-dependent properties was 0.010, compared to 0.000 for the initial design.",
+  "The optimization recommended a significant change in the blade cross-section stacking to balance the centrifugal and pressure loads.",
+  "The root stress is extremely sensitive to the blade cross-section stacking offset variables.",
+  "The optimized design for the single-crystal SSME blade was found by adjusting the blade geometry significantly, but the crystal axis orientation insignificantly.",
+  "The difference between the designs optimized under centrifugal loads only and under centrifugal, thermal, and pressure loads with temperature-dependent blade properties can be attributed to material property temperature dependence."
+]
