@@ -1,0 +1,17 @@
+[
+  "The engine was sized for 3 pounds per second airflow.",
+  "The turbine inlet temperature at 100% power was 2500\u00b0F.",
+  "Design-point cycle analyses were conducted for pressure ratios ranging from 9.5:1 to 14:1.",
+  "The study evaluated single-stage axial, two-stage axial, and single-stage centrifugal compressor performance estimates.",
+  "Various matching schemes for the two-stage axial plus single-stage centrifugal configuration were explored, including variable inlet guide vanes and variable diffuser vanes.",
+  "The selected AVIGV+CFG compressor configuration had an overall pressure ratio of 10.5:1.",
+  "Mechanical design challenges were encountered due to the small hub diameter of the first axial stage and the long shaft length.",
+  "The AVIGV+CFG configuration was estimated to have a specific fuel consumption of 0.492 at 60% power.",
+  "The two-stage axial plus single-stage centrifugal configuration was estimated to have a specific fuel consumption of 0.479 at 60% power.",
+  "The matching problem was focused on extending the operating airflow range of the axial compressor.",
+  "Variable inlet guide vanes were found to provide the best solution to the matching problem.",
+  "The matching problem was not significantly affected by the choice of maximum turbine inlet temperature.",
+  "Mechanical analyses were conducted for the compressor rotors and engine shafting.",
+  "Compressor performance predictions were provided for 30%, 60%, and 100% power conditions.",
+  "Engine performance was calculated over the 20% to 100% power range."
+]
