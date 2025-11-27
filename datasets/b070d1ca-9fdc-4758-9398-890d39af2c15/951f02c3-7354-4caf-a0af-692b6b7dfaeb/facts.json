@@ -1,0 +1,17 @@
+[
+  "The time-averaged length of the separation bubble is 0.16c_ax for the adiabatic wall case and 0.10c_ax for the cooled wall case.",
+  "Cooling the blade surface leads to a downstream displacement of the separation region compared to the adiabatic wall setup.",
+  "The incident shock penetrates deeper into the boundary layer for the cooled wall case due to the thinner boundary layer and the sonic line forming closer to the blade surface.",
+  "For the adiabatic wall case, the maximum temperature values are observed within the separation bubble, while for the cooled case, the maximum temperatures are found along the free shear layer downstream of the bubble.",
+  "The separation bubble undergoes a contraction and expansion motion for both the adiabatic and cooled wall cases, with similar excursions from the mean bubble length.",
+  "The peak values of the wall-normal Reynolds stresses are higher for the adiabatic wall case compared to the cooled wall case.",
+  "The grid resolution in wall units for the adiabatic wall case is in the range of 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9, while for the cooled wall case it is 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19.",
+  "The inlet Mach number is 2.0, and the Reynolds number based on the inlet velocity and blade chord is 200,000.",
+  "A body forcing is applied on the RHS of the Navier-Stokes equations to induce an unsteady, random spanwise boundary layer transition.",
+  "The ratio of specific heats is 1.31, the Prandtl number is 0.747, and the ratio of the Sutherland constant over inlet temperature is 0.07182.",
+  "The computational grid has approximately 68,000,000 points, with an O-grid block of 1200 x 280 x 144 points embedded in a background Cartesian grid block of 960 x 280 x 72 points.",
+  "Periodic boundary conditions are used in the spanwise direction to enforce a statistically homogeneous flow along the span.",
+  "A localized artificial diffusivity (LAD) method is employed to capture the shock waves while minimizing numerical dissipation in the vicinity of the shocks.",
+  "Statistics are collected for 4 flow-through times based on the inlet velocity and blade axial chord.",
+  "The body-force tripping is applied at 0.22 < x/c_ax < 0.27 for the suction side and 0.10 < x/c_ax < 0.15 for the pressure side."
+]
