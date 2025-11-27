@@ -1,0 +1,17 @@
+[
+  "A Reduced-Boundary-Function Method for Convective Heat Transfer with Axial Heat Conduction and Viscous Dissipation Zhijie Xu1,a 1",
+  "Energy Resource Recovery & Management, Idaho National Laboratory, Idaho Falls, Idaho 83415 USA",
+  "Now at Computational Mathematics Group, Fundamental and Computational Sciences Directorate, Pacific Northwest National Laboratory, Richland, WA 99352, USA Abstract We introduce a new method of solution for the convective heat transfer under forced laminar flow that is confined by two parallel plates with a distance of 2a or by a circular tube with a radius of a",
+  "The ( ) original problem of solving the unknown field T x,r,t is reduced to seek the solutions of T at the boundary (r=a or r=0, r is the distance from the centerline shown in Fig",
+  "the boundary functions T ( x,t)\u2261T( x,r =a,t) and/or T ( x,t)\u2261T(x,r =0,t)",
+  "In this manner, a 0 the original problem is significantly simplified by reducing the problem dimensionality from ( ) 3 to 2",
+  "com, Tel: 509-372-4885 1 1",
+  "The analysis of convective heat transfer in tube was originally studied by Graetz [1, 2] with assumptions of steady and incompressible flow with fully developed velocity profile, negligible viscous dissipation, axial conduction, and temperature independent fluid properties",
+  "The wall boundary is prescribed with a uniform temperature T in the w original work of Graetz [1, 2] and Nusselt [3], and the model has been referred to as the Graetz problem that represents a class of simplified convective heat transfer problems",
+  "For example, the so-called \u201cextended Graetz problem\u201d refers to the including of axial conduction in the original Graetz problem and has been studied extensively [4-8]",
+  "However, it is not the case for the heat transfer with small Peclet numbers, for example, in compact heat exchangers where liquid metals are used as the working fluids and axial conduction can play an important role [9]",
+  "The technological applications in such applications as micro- electromechanical systems (MEMS) require more efficient convective heat transfer in a 2 relatively smaller space at the micro-scale level",
+  "As the size of flow channel is reduced, the convective heat transfer does not follow the standard results based on the continuum assumption, which leads to the extension of the original Graetz problem to include the slip flow boundary and to allow the viscous dissipation and temperature jump at the wall [10-12]",
+  "Lagrangian particle methods have been developed to solve such problems without explicit interface tracking/capturing [13-15]",
+  "Examples are the solute precipitation and dissolution due to the chemical reaction [16, 17] and crystal growth"
+]
