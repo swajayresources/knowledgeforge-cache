@@ -1,0 +1,17 @@
+[
+  "Fused deposition modeling (FDM) was used to fabricate polymer matrix composite components, with improvements made to reduce porosity and increase mechanical properties.",
+  "Binder jet printing was used to fabricate ceramic matrix composite components, with optimization of powder composition and addition of chopped SiC fibers.",
+  "Prototype components like inlet guide vanes, compressor blades, and acoustic liners were fabricated and tested in relevant operating conditions.",
+  "Engine system analysis showed the non-metallic engine design could reduce engine weight by 15% and aircraft fuel burn by 4.9%, with an 8.3% decrease in NOx emissions.",
+  "The technology readiness level (TRL) of the fused deposition modeling process for polymers was assessed at TRL 4, while the binder jet process for ceramics was at TRL 3.",
+  "Key challenges included reducing porosity in polymers, optimizing binder jet infiltration for ceramics, and addressing dimensional tolerances and in-situ damage characterization.",
+  "Chopped fiber reinforcement increased the modulus of high-temperature polymers by 40% in the FDM process.",
+  "Optimizing the powder composition and size distribution was critical for improving packing and infiltration in the binder jet ceramic composites.",
+  "Up to 35 vol% chopped SiC fibers were added to the binder jet powder bed to fabricate the first CMC turbine engine components by additive manufacturing.",
+  "Next steps include further optimizing constituent materials, exploring alternate densification approaches, investigating fiber coatings, and reducing porosity in polymers.",
+  "Engine system modeling tools like NPSS and FLOPS were used to quantify the potential benefits of the non-metallic engine design.",
+  "Ultem 1000 was used as the high-temperature polymer matrix material in the FDM process for composite components.",
+  "SiC powders with median grain sizes ranging from 9 to 53 microns were evaluated for the binder jet ceramic composites.",
+  "SMP-10 polycarbosilane and phenolic resins were used as infiltrants for the binder jet ceramic matrix composites.",
+  "Si-TUFF SiC fibers with 7 micron mean diameter and 65-70 micron mean length were used as the reinforcement in the CMCs."
+]
