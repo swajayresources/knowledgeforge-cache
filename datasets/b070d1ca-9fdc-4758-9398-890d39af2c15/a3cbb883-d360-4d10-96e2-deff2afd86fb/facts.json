@@ -1,0 +1,17 @@
+[
+  "The tested H-Darrieus turbine had a swept area of 1.5 m^2 and was equipped with dihedral blades composed of unstaggered NACA0021 profiles with a chord of 0.086 m.",
+  "The wind tunnel experiments were conducted in an open-jet configuration to minimize blockage effects, with a freestream turbulence intensity less than 1%.",
+  "The CFD simulations used a 2D unsteady RANS approach with the k-\u03c9 SST turbulence model, with a total of 1.2 million elements in the rotating region and 2.0 million elements in the stationary region.",
+  "The CFD simulations were corrected a posteriori to account for the resistant torque of the supporting spokes and the tip effects, which could not be directly included in the 2D simulations.",
+  "The authors found that the tip effects resulted in an equivalent blade span reduction of 1.5 chord lengths, which was in good agreement with the Leicester-Prandtl model.",
+  "At low tip-speed ratios (TSR = 1.5, 1.8), the wake showed strong localized regions of fluctuations and the presence of large vortices shed from the blades.",
+  "At higher TSR (2.4), the wake was more stable with a smoother velocity profile, and the periodic unsteadiness in the wake was significantly reduced.",
+  "The periodic unsteadiness, measured as the root-mean-square of the phase-resolved velocity component, was higher in the regions where the macrovortices were being detached from the blades.",
+  "The CFD simulations showed good agreement with the experimental data in terms of the power curve and the mean wake profiles, especially at lower tip-speed ratios.",
+  "Some discrepancies were observed in the unstable part of the power curve due to the challenges in accurately predicting the stall characteristics of the airfoils.",
+  "The authors acknowledged that the U-RANS approach may not fully capture the vortex propagation compared to a large eddy simulation approach, but they found a very significant matching between the numerical and experimental data.",
+  "The main challenges in accurately predicting the turbine performance at low tip-speed ratios were related to the severe flow separation and stall conditions experienced by the airfoils.",
+  "Additional factors like surface roughness and trailing-edge refinement can also play a significant role in the accurate prediction of the turbine performance at low tip-speed ratios.",
+  "The availability of reliable and detailed experimental data was pivotal for tuning the numerical tools and validating the CFD simulations.",
+  "The study aimed to correlate the main macrostructures of the flow with the unsteady aerodynamics of the airfoils in cycloidal motion."
+]
