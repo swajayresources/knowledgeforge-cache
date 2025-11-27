@@ -1,0 +1,20 @@
+[
+  "1 Heat transfer and SET voltage in filamentary RRAM devices Dipesh Niraula, and Victor G",
+  "The device is thermally insulated except for the top and bottom boundaryofthemetallayerwhichisfixedatanambienttemperatureT0andis Index Terms\u2014Heat transfer, resistive random access memory subjectedtoanexternalbiasofV volts",
+  "Note: Figure notdrawntoscale(H>h) Modern resistive random access memory (RRAM) devices areabout100-300nmthickincludingtwometalelectrodesand thetheinsulatorlayerofabout10-70nmthickness",
+  "Forthethe Based on our conclusions, we present a related expression insulator thickness of \u223c 10 nm and and bias voltage of \u223c 1 for the filamentary RRAM SET voltage that possesses a high V, the electric field strength in the insulator E \u223c108 V/m",
+  "1; a description of filament, a significant Joule heat is liberated creating a tem- its COMSOL modeling routine is presented in Appendix A",
+  "(As 2 we present an analysis of that temperature distribution with widelyaccepted,theoxygensweepscreatingoxygenvacancies the emphasis on its underlying physics facilitating the device that form a conductive filament of a non-stoichiometric com- understandinganddesign",
+  "Thisisachievedby(1)numerically position HfO",
+  ") Following a number of implementations 2\u2212x generatingthetemperaturedistributionbymeansofCOMSOL [3], [7], we choose TiN for the metal electrode materials",
+  "The multiphysics package and (2) comparing the latter with two material properties are listed in Table I",
+  "(b) that dominated by the lateral spreading of 0",
+  "5 V while the bottom one is grounded",
+  "temperature of 300K is maintained at the top and bottom",
+  "The side walls of the device are taken to be electrically and Manuscript received March 3, 2017",
+  "2016LM- thermally insulated, which reflects an array geometry with 2654",
+  "Karpov are with the Department of Physics COMSOL solves the coupled heat and electrostatic equations and Astronomy, University of Toledo, Toledo, OH, 43606 USA (e-mail: dipesh",
+  "For comparison, we present below the two limiting cases In reality, the measured L varies between different met- corresponding to (a) the 1D heat transfer along the filament als metals and can be temperature dependent, off from the and (b) the dominating radial transport of heat from the Sommerfeld\u2019s value within an order of magnitude",
+  "In addition, we show that the Wiedemann-Franz-Lorenz law helps the analysis when theLorenzparameterischosenfromtheactualdata",
+  "Our results 12) Select Study"
+]
