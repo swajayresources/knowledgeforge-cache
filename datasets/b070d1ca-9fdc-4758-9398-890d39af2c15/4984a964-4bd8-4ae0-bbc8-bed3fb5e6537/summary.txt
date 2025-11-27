@@ -1,0 +1,1 @@
+This paper proposes a topology optimization method that considers the geometric constraint of no closed cavities to improve the effectiveness of additive manufacturing based on the fictitious physical model approach. The proposed fictitious field can detect and suppress closed cavities without imposing excessive constraints on the shape.
