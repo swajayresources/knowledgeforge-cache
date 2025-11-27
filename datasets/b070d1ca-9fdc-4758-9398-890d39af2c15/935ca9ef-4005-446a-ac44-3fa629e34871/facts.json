@@ -1,0 +1,17 @@
+[
+  "The paper derives stochastic partial differential fluid equations as the diffusive limit of a deterministic Lagrangian multi-time dynamics model.",
+  "The deterministic multi-scale Lagrangian particle system is described by equations (32)-(34).",
+  "Homogenization theory is used to show that the slow dynamics of the deterministic multi-scale Lagrangian particle system is described by a stochastic differential equation (42) on long time-scales.",
+  "The drift term in the effective stochastic Lagrangian dynamics is given by equation (43), and the diffusion tensor is given by equation (44).",
+  "The fluctuating vector displacement field \u03b6 is assumed to vary rapidly in time but only slowly in space.",
+  "The temporal derivative of \u03b6 is assumed to evolve according to sufficiently chaotic dynamics.",
+  "A centering condition is required, meaning the mean of the fluctuating deviations is small when pulled back to the mean flow.",
+  "The stochastic Lagrangian dynamics derived in this paper matches the Ansatz introduced in the previous variational stochastic fluid framework.",
+  "The paper suggests using Eulerian flow field data to determine the statistics of the fluctuating vector displacement field \u03b6, in order to construct reliable stochastic coarse-grained fluid models.",
+  "The effective stochastic Lagrangian dynamics has two contributions to the mean velocity: averaging the full velocity over the fluctuations, and a term arising from the statistics of the time-derivative of the fluctuation vector.",
+  "The second term in the mean velocity shows that the fluctuating dynamics affects the mean flow.",
+  "The results of this paper provide a deterministic multi-scale backbone for the stochastic fluid equations derived in previous work.",
+  "The paper demonstrates how the stochastic fluid equations can be regarded as modelling the evolution of the mean velocity for a fluid with fluctuations that are O(1/\u03b5).",
+  "The paper suggests computing Lagrangian trajectories, applying spatial filtering, and analyzing the displacement vectors to determine the empirical orthogonal eigenfunctions and eigenvalues for the stochastic model.",
+  "The performance of stochastic models constructed using the approach in this paper is currently being evaluated using data assimilation algorithms."
+]
