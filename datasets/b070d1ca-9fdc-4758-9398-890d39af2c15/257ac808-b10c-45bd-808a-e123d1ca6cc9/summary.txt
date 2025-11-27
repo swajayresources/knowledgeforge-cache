@@ -1,0 +1,1 @@
+This paper estimates the temperature-dependent engineering elastic constants of a directionally solidified (DS) nickel-base superalloy using the method proposed by Wells. The DS superalloy is modeled as a transversely isotropic material, and the five independent elastic constants are determined from the three independent elastic constants of a cubic single crystal.
