@@ -1,0 +1,15 @@
+{
+  "paper_id": "9c3bceb7-8aa2-423d-b086-5d6fe069a1ca",
+  "title": "Design, Implementation, and Cooperative Coevolution of an Autonomous/ Teleoperated Control System for a Serpentine Robotic Manipulator",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/9c3bceb7-8aa2-423d-b086-5d6fe069a1ca/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/9c3bceb7-8aa2-423d-b086-5d6fe069a1ca/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/9c3bceb7-8aa2-423d-b086-5d6fe069a1ca/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/9c3bceb7-8aa2-423d-b086-5d6fe069a1ca/keywords.json"
+  ]
+}
