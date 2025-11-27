@@ -1,0 +1,17 @@
+[
+  "The HSCT aircraft optimization problem was solved using three alternate approaches: the original FLOPS analyzer and two approximate (derived) analyzers based on neural network and linear regression approximation.",
+  "The approximate analyzers were calibrated and used in three different ranges of the design variables: narrow (interpolated), standard, and wide (extrapolated).",
+  "In the restricted range, a 1% deviation was observed in the optimum gross takeoff weight of the aircraft using the approximation methods.",
+  "In the standard and wide ranges, the deviation increased to 2% for the approximation methods.",
+  "The approximation-based optimization processes reduced the computing time from hours (for the FLOPS-based optimization) to minutes.",
+  "Calibrating the approximate analyzers required substantial computational time for both neural network and regression methods.",
+  "The HSCT aircraft problem had a baseline mission to carry 305 passengers 5000 nautical miles at a cruise speed of Mach 2.4.",
+  "The HSCT aircraft had four mixed-flow turbofan engines.",
+  "The research was conducted by researchers from NASA Lewis Research Center, NASA Langley Research Center, and the Ohio Aerospace Institute.",
+  "The paper builds on previous work presented in a 1997 publication by Patnaik et al.",
+  "The neural network and regression approximation concepts were found to be satisfactory for the analysis and design optimization of the HSCT aircraft problem.",
+  "The approximation methods were able to eliminate the instability issues experienced with the FLOPS analyzer.",
+  "Calibrating the approximate analyzers over a wider (standard) range and then using them to optimize over a narrower (restricted) range was the preferred approach.",
+  "The research aimed to alleviate the limitations of the earlier FLOPS-based optimization process, which included substantial computing time and instability at certain design points.",
+  "The use of approximation methods significantly reduced the computing time required for the optimization process."
+]
