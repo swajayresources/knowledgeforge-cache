@@ -1,0 +1,17 @@
+[
+  "The paper develops a two-fluid model (TFM) for heat transfer in dense non-Brownian suspensions.",
+  "The TFM includes separate mass, momentum, and energy conservation equations for the particle and fluid phases.",
+  "The rheological model for the particle phase includes shear and bulk viscosities, as well as an anisotropic stress term.",
+  "The proposed inter-phase heat transfer coefficient is a function of the shear rate, particle volume fraction, and particle and fluid thermal properties.",
+  "The paper provides a conceptual explanation for 'thermo-rheological' particle migration forces arising from temperature-dependent fluid viscosity.",
+  "Simulations show that both shear and thermal gradients can drive particle migration, with the direction depending on their relative orientation.",
+  "The maximum packing fraction of the particles is taken to be 0.68, corresponding to close-packed spheres.",
+  "The calibrated values of the parameters in the inter-phase heat transfer coefficient are \u03b2 = 0.2 and m = 1.",
+  "The paper validates the TFM against heat pulse experiments in a Couette cell and qualitatively against data for an eccentric Couette cell.",
+  "The energy equations in the TFM neglect viscous dissipation and the effect of buoyancy, as these were found to have marginal effects.",
+  "The paper aims to provide a general and extensible computational framework for simulating the interaction between heat transfer and particle migration in dense suspensions.",
+  "Applications of interest include geothermal energy recovery, hydraulic fracturing, hemodynamics, microfluidics, electronic cooling, and food processing.",
+  "The TFM does not make the equilibrium assumption between the fluid and particle phases, unlike traditional single-phase suspension balance models.",
+  "The paper highlights the importance of capturing the inter-phase heat transfer and the coupling between thermal and shear gradients in dense suspension flows.",
+  "The geometric eccentricity of the Couette cell can be used to tune the thermal performance of the suspension flow."
+]
