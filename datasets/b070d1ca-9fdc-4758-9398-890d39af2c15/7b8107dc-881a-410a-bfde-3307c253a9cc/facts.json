@@ -1,0 +1,17 @@
+[
+  "The facility was modified to accommodate an inlet flow angle variation of around 95\u00b0 from the original minimum of 33.8\u00b0 to the maximum of 78.6\u00b0.",
+  "Midspan exit total pressure and flow angle measurements were obtained at seven inlet flow angles, with five flow conditions for each inlet angle.",
+  "The inlet Reynolds numbers varied from 6.83\u00d710^5 to 0.85\u00d710^5, and two isentropic exit Mach numbers of 0.74 and 0.34 were tested.",
+  "At negative incidence angles, the non-uniform exit static pressures indicated a converging exhaust section created by the blade row and back wall, which accelerated the flow and resulted in a negative pressure gradient.",
+  "As the incidence angle decreased from positive to negative values, the exit flow angle became more negative, and the total pressure loss increased, especially at the lower Reynolds number conditions.",
+  "The blade loading became more favorable (higher suction side pressures) at negative incidence angles, and the loading decreased with decreasing Reynolds number.",
+  "The losses decreased with negative incidence and increased with decreasing Reynolds number, while the exit flow angles became more negative with decreasing incidence angle.",
+  "The loss levels decreased as the Zweifel coefficient increased, indicating a more optimized blade loading at higher Zweifel coefficients.",
+  "The study supports the development of variable-speed power turbine (VSPT) technology for the NASA Large Civil Tilt Rotor (LCTR) vehicle, which requires a wide range of blade incidence angles.",
+  "The facility modifications and the generated dataset provide a valuable resource for CFD code validation, particularly for cases with extreme incidence angle variations and transitional Reynolds number conditions.",
+  "The study demonstrates the importance of understanding the effects of incidence angle and Reynolds number variations on the aerodynamic performance of turbine blade sets.",
+  "The research aims to improve the design and performance of variable-speed power turbines for advanced aircraft applications.",
+  "The transonic turbine cascade facility has been used in previous studies to acquire detailed aerodynamic and heat transfer measurements for CFD code validation.",
+  "The current study supports the development of VSPT speed-change technology for the NASA LCTR vehicle, which operates over a nearly 50% speed range from takeoff to altitude cruise.",
+  "The cascade facility has the ability to operate over a wide range of Reynolds numbers and Mach numbers, which is crucial for investigating the performance of turbine blade sets under various operating conditions."
+]
