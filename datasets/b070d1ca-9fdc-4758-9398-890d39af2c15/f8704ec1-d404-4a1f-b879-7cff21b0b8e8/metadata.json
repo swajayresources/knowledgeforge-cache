@@ -1,0 +1,15 @@
+{
+  "paper_id": "f8704ec1-d404-4a1f-b879-7cff21b0b8e8",
+  "title": "Experimental identification of blade-level forces, torque, and pitching moment for cross-flow turbines",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f8704ec1-d404-4a1f-b879-7cff21b0b8e8/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f8704ec1-d404-4a1f-b879-7cff21b0b8e8/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f8704ec1-d404-4a1f-b879-7cff21b0b8e8/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f8704ec1-d404-4a1f-b879-7cff21b0b8e8/keywords.json"
+  ]
+}
