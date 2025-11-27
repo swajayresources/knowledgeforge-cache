@@ -1,0 +1,1 @@
+This paper investigates the potential impact of lithium hydride (LiH) cooling on the thermal evolution of primordial gas in various astrophysical environments at high redshifts. The authors find that LiH cooling is insignificant compared to other molecular coolants like H2 and HD, even if the primordial lithium abundance is enhanced by an order of magnitude.
