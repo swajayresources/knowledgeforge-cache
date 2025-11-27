@@ -1,0 +1,15 @@
+{
+  "paper_id": "c03f94da-ea99-4500-a87c-e411898c274e",
+  "title": "Stochastic (Approximate) Proximal Point Methods: Convergence, Optimality, and Adaptivity",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c03f94da-ea99-4500-a87c-e411898c274e/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c03f94da-ea99-4500-a87c-e411898c274e/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c03f94da-ea99-4500-a87c-e411898c274e/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c03f94da-ea99-4500-a87c-e411898c274e/keywords.json"
+  ]
+}
