@@ -1,0 +1,17 @@
+[
+  "Dow GraduateStudent AerospaceComputationalDesignLaboratory DepartmentofAeronauticsandAstronautics MassachusettsInstituteofTechnology Cambridge,Massachusetts02139 Email: ericdow@mit",
+  "edu QiqiWang AssistantProfessor AerospaceComputationalDesignLaboratory DepartmentofAeronauticsandAstronautics MassachusettsInstituteofTechnology Cambridge,Massachusetts02139 Email: qiqi@mit",
+  "The single-point optimal geometry is found d designintent to depend on the manufacturing tolerances due to a switch 1 upstreamstation in the dominant loss mechanism",
+  "Multi-point geometry op- 2 downstreamstation timizationavoidsthisswitchsothatthegeometryandtoler- o stagnationquantity anceoptimizationproblemsaredecoupled",
+  "b baselinevalue Nomenclature 1 Introduction e manufacturingerrorfield The geometry of manufactured compressor blades in- s surfacelocation evitablydiffersfromthenominal,ordesignintent,geometry \u03b8 elementofsamplespace specified by the designer due to noise in the manufacturing C covariancefunction processorin-serviceerosion",
+  "Forex- \u03c1 correlationfunction ample, Garzon demonstrated that the mean loss coefficient \u03c3 standarddeviation of a flank-milled integrally bladed rotor (IBR) increased by L correlationlength 23% due to manufacturing variability [1]",
+  "Re- \u03c9\u00af losscoefficient: (p \u2212p )/(p \u2212p ) ducing manufacturing tolerances increases the manufactur- o2 o1 o1 1 4102 voN 2 ]CO",
+  "htam[ 1v8330",
+  "1141:viXra ing costs, so it is important to reduce tolerances only in the in the loss coefficient resulting from changes in the mean regionsofthebladethathavethelargestimpactonthemean geometry account for less than 15% of the total mean shift performance",
+  "caused by manufacturing variations [1]",
+  "Robust optimization is typically ofmanufacturingvariationshavealsoshownthatthecorre- probabilistic,seekingtooptimizethemean,varianceorfail- lation length (the characteristic length scale over which the ure probability of the design [1,2,3]",
+  "Most previous work correlation function \u03c1(s,s(cid:48)):=C(s,s(cid:48))/\u03c3(s)\u03c3(s(cid:48)) decays) is has considered optimizing the nominal blade geometry for smaller near the leading edge of compressor blades [1,8]",
+  ", which demonstrated that the robust blade thesquaredexponentialcorrelationfunction,whichproduces geometrydependsonthelevelofgeometricnoiseonlywhen manufacturingerrorswithcontinuouscurvature: a\u201cswitch\u201dinthedominantlossmechanismoccursonsome of the manufactured blades [4]",
+  "They provide the example of leading edge flow separation that occurs on some manu- (cid:18) |s\u2212s(cid:48)|2(cid:19) facturedbladeswhentheleadingedgeradiusofcurvatureis \u03c1(s,s(cid:48))=exp \u2212",
+  "(2) 2L2 reducedbeyondacriticalvalue, dramaticallyincreasingthe blade losses"
+]
