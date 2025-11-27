@@ -1,0 +1,1 @@
+This paper reports the growth and characterization of all-wurtzite (In,Ga)As-(Ga,Mn)As core-shell nanowires using molecular beam epitaxy. The nanowires exhibit a high-quality epitaxial interface between the core and shell, and the (Ga,Mn)As shell shows evidence of ferromagnetic coupling at temperatures above 33 K, despite an overall superparamagnetic behavior.
