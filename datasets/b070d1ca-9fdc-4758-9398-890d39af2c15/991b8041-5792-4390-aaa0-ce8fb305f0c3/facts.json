@@ -1,0 +1,17 @@
+[
+  "The turbine inlet gas temperature in advanced aircraft engines can reach 2500\u00b0F (1371\u00b0C) and above.",
+  "Current two-dimensional boundary layer analysis programs can underpredict the heat transfer coefficient on the suction side of turbine blades by up to 35%.",
+  "A 100\u00b0F (55.5\u00b0C) error in the estimated blade surface temperature can significantly impact the estimated life of the turbine blade.",
+  "The Nusselt number in the stagnation region of a turbine blade is directly proportional to the square root of the Reynolds number, with the constant of proportionality dependent on the upstream turbulence level.",
+  "Turbine blades experience both convex curvature on the suction surface and concave curvature on the pressure surface, which have different effects on the flow and heat transfer.",
+  "The unsteady and turbulent nature of the flow entering the turbine, influenced by the compressor and combustion processes, can have a significant impact on the heat transfer to the turbine blades.",
+  "The flow through a turbine blade row is highly complex, with three-dimensional secondary flow patterns, stagnation regions, flow acceleration and deceleration, and boundary layer transition and separation.",
+  "Fundamental heat transfer research is needed to better understand the effects of stagnation, curvature, unsteadiness, and other phenomena on the gas-side heat transfer to turbine blades and vanes.",
+  "The radiation component of gas-side heat transfer can be a significant fraction of the total heat transfer to the first stage of the turbine.",
+  "Current analytical methods for predicting gas-side heat transfer on turbine blades are based on two-dimensional flat plate models and need further refinements to account for the real flow physics.",
+  "Measurements of turbulence intensity in the exit of combustors have shown values exceeding 50% of the mean flow velocity.",
+  "Analytical studies have predicted large perturbations in the level of heat transfer on rotating turbine blades due to unsteady laminar boundary layer effects.",
+  "Experimental studies have shown that enhanced free-stream turbulence can significantly thicken the boundary layer on a flat plate and influence the wake region.",
+  "The different types of curvature on the pressure and suction surfaces of turbine blades can have opposing effects on the flow and heat transfer.",
+  "The complex flow patterns in turbine blade rows, including secondary flows and boundary layer transition and separation, make accurate prediction of gas-side heat transfer a significant challenge."
+]
