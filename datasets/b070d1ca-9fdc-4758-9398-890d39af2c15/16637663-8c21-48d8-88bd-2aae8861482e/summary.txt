@@ -1,0 +1,1 @@
+This paper presents a hybrid methodology that combines machine learning and computational fluid dynamics (CFD) to accelerate transient buoyant plume simulations. The approach uses a neural network to predict the pressure field, which is then used as an initial guess to speed up the pressure-velocity coupling procedure in the CFD solver.
