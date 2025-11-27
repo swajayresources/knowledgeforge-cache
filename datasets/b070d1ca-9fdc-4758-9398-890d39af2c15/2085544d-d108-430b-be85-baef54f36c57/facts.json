@@ -1,0 +1,17 @@
+[
+  "The proposed lattice unit cell has a pyramidal geometry, which is known to have high structural rigidity due to its ability to uniformly distribute forces and resist deformations.",
+  "The lattice unit cell is fully parameterized based on the dimensions of its Bounding Box (A, B, C) and the thickness of the lattice struts (T), along with aspect ratios (\u03b3x, \u03b3y, \u03b3z).",
+  "The analytical model for the lattice unit cell uses a rigidity model based on 3D unidirectional beam elements to determine the stiffness matrix and global displacement field.",
+  "In the case study, the proposed lattice demonstrated the best structural efficiency, with a 32-39% improvement compared to the cross and hexagonal lattices for the Y and Z load directions.",
+  "The lattice design was optimized to eliminate overhangs and complex geometries that typically require support structures during 3D printing, simplifying the manufacturing process.",
+  "The analytical model and FEM simulation results showed good agreement, validating the proposed analytical approach for predicting the structural behavior of the lattice unit cell.",
+  "The lattice structure's high structural efficiency and customizability make it suitable for lightweight, high-performance applications where strength-to-weight ratio optimization is critical.",
+  "MEX 3D printing of lattice structures can face challenges such as retraction issues, thermal-induced beam flexion, and resolution limitations, particularly for fine lattice geometries with small cross-sections.",
+  "The proposed pyramidal lattice is presented as a novel design that offers versatility in adapting to diverse filling requirements within industrial components.",
+  "The structural efficiency parameter, defined as the ratio of maximum displacement to mass, allowed the researchers to evaluate the optimized use of material in the different lattice designs.",
+  "The researchers performed numerical FEM simulations using ANSYS Mechanical software to validate the analytical model, confirming the reliability of the analytical approach.",
+  "The lattice unit cell design does not require support structures during printing and can be manufactured without difficulty using 3D additive manufacturing technology.",
+  "The proposed lattice design aims to address the challenges of MEX 3D printing of lattice structures through its simplified, support-free geometry and relatively larger cross-sections.",
+  "The paper notes that the diamond, gyroid, and octet lattice topologies have garnered significant attention for their exceptional mechanical properties and geometric efficiency.",
+  "The case study involved a plastic part with defined bounding box dimensions and two commonly used lattice patterns (cross and hexagonal) for comparison with the proposed lattice."
+]
