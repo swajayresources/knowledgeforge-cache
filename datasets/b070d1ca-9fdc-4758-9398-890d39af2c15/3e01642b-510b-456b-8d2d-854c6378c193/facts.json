@@ -1,0 +1,12 @@
+[
+  "BrainCodec is a high-fidelity quantized autoencoder neural compressor for EEG and iEEG signals.",
+  "BrainCodec can achieve compression ratios as high as 64x on both iEEG and EEG signals without significant loss in reconstruction quality.",
+  "Training BrainCodec on higher-quality iEEG data leads to better performance when compressing noisier EEG signals compared to training on EEG data directly.",
+  "The authors define high-fidelity reconstruction of EEG signals as having PRD lower than 30, less than 1% drop in downstream task performance, and high expert-rated quality.",
+  "BrainCodec outperforms classical and neural network-based EEG compression methods like NLSPIHT, AAC, and ANN in terms of both compression ratio and reconstruction fidelity.",
+  "The authors train and test BrainCodec on multiple iEEG datasets (SWEC, MC, Treebark) and EEG datasets (CHB-MIT, BONN, BCI IV-2a).",
+  "BrainCodec trained on iEEG data and used to compress EEG signals consistently achieves better performance at high compression ratios compared to BrainCodec trained on EEG.",
+  "Training BrainCodec on a mix of iEEG and EEG data improves its performance at compressing EEG signals compared to training on EEG alone.",
+  "The authors use a multi-scale STFT-based discriminator in BrainCodec to improve the reconstruction of high frequencies in the signals.",
+  "BrainCodec achieves reconstruction fidelity high enough to ensure no performance degradation on downstream seizure detection and motor imagery tasks."
+]
