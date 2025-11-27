@@ -1,0 +1,17 @@
+[
+  "The C(NN)FD framework employs a physics-based dimensionality reduction to extract only the relevant engineering data from the 3D CFD computational domain, such as inter-row axial contours, radial distributions, stage-wise performance, and overall performance.",
+  "The regression problem is reformulated from an unstructured to a structured grid, reducing the number of degrees of freedom and enabling the use of supervised learning approaches with convolutional neural networks.",
+  "The multi-dimensional physical loss function incorporates constraints based on physical principles, such as mass conservation and radial distributions, to ensure the predictions are consistent with the underlying physical laws.",
+  "The iterative architecture of C(NN)FD feeds the output of the network back into the input recursively, improving the accuracy of the predictions and providing an estimate of the associated uncertainties.",
+  "The C(NN)FD framework adopts a meta-learning approach, training a model on a variety of learning tasks to solve new applications using only a small number of training samples.",
+  "The dataset used to train the C(NN)FD model includes variations in tip clearance, surface roughness, in-tolerance geometries, VGVs settings, operating conditions, and airfoil designs for different compressor configurations.",
+  "The C(NN)FD framework provides predictions of the 3D flow field, 2D radial distributions, and 0D integral quantities such as pressure ratio and polytropic efficiency.",
+  "The training time for a new C(NN)FD model from scratch is around 1 hour on a single Tesla T4 GPU, which is reduced to less than 20 minutes when re-training the network as new data becomes available.",
+  "The execution time for inference using the C(NN)FD model is less than 1 second, making the predictions effectively real-time for the application of interest.",
+  "The C(NN)FD framework can support various stages of the design and analysis process for compressor aerodynamics, including predicting the effect of design variations and providing quick assessments for manual design iterations and optimization activities.",
+  "The C(NN)FD framework is demonstrated to provide predictions of the flow field and overall performance of multi-stage axial compressors with accuracy comparable to that of the CFD benchmark, but with significantly reduced computational cost.",
+  "The physics-based dimensionality reduction and the multi-dimensional physical loss function in the C(NN)FD framework enable addressing typical aerodynamic tasks in more complex and industrially relevant applications, beyond just multi-stage axial compressors.",
+  "The C(NN)FD framework is designed to be generalizable and applicable to any type of turbomachinery, not just multi-stage axial compressors.",
+  "The use of transfer learning in the C(NN)FD framework significantly reduces the amount of data needed to address new applications that were not covered by previous activities.",
+  "The C(NN)FD framework provides a quantifiable measure of the confidence in resolving the relevant flow features, without a significant increase in computational cost."
+]
