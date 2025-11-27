@@ -1,0 +1,1 @@
+This paper describes the use of thermoluminescence detectors (TLDs) to measure neutron streaming through ducts in the JET Torus Hall. The measurements were compared to calculations using the MCNP code, and the results confirm that TLD technology can be usefully applied to these types of measurements.
