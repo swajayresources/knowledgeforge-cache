@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics study of transitional flows in low-pressure turbines under a wide range of operating conditions. The study employs an intermittency transport model to predict the transitional flows and compares the results with experimental data from three independent facilities on the Pratt and Whitney Pack B blade.
