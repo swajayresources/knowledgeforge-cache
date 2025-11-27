@@ -1,0 +1,1 @@
+This report describes the design, fabrication, and acceptance testing of a high-performance Brayton-cycle compressor research package for NASA. The compressor is aerodynamically identical to the one used in the NASA Brayton Rotating Units (BRU) and will be used at the NASA Lewis Research Center for component performance evaluation.
