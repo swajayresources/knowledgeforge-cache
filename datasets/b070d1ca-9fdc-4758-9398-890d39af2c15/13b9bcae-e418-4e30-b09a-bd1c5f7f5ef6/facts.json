@@ -1,0 +1,22 @@
+[
+  "McCormicka,RamyHarikb,andThorstenWuesta1 aWestVirginiaUniversity,Morgantown,26505WV,U",
+  "A bUniversityofSouthCarolina,Columbia,29208,SC,U",
+  "We first explored and compiled a comprehensive list ofmorethan92state-of-the-artalgorithms from both TSC and manufacturing literature",
+  "Following this, we methodologically selected the 36 most representative algorithms from this list",
+  "To evaluate their performance across various manufacturing classification tasks, we curated a set of 22 manufacturing datasets, representative of different characteristics that cover diverse manufacturing problems",
+  "Based on the results, ResNet,DrCIF,InceptionTime,andARSENALemergedasthetop-performingalgorithms, boasting an average accuracy of over 96",
+  "6% across all 22 manufacturing TSC datasets",
+  "Keywords:SmartManufacturing,Industry4",
+  "0,Time-SeriesClassification,MachineLearning,AI 1CorrespondingAuthor:thwuest@mail",
+  ":PreprintsubmittedtoRoboticsandComputer-IntegratedManufacturingJournal 1 1",
+  "Introduction Manufacturing is undergoing a transformation towards a new digital and data-driven era known as Industry 4",
+  "0 and smart manufacturing systems",
+  "This digital transformation is defined by the core principles of connectivity, virtualization, and data utilization[1]",
+  "Astheneedsof manufacturers increase in an ever-competitive landscape, the use of AI and ML approaches, techniques, andalgorithmsaccelerates[2,3]",
+  "Examples of ML applications in manufacturing include but are not limited to image-based quality inspection[4], fault detection and diagnosis[5,6], process optimization[7], energy costreduction[8],customerdemandforecasting,andreal-time machine monitoring for Remaining Useful Life (RUL) forecasting[9]",
+  "In Section Four, we present the results of our experiments with differentscenariosbasedonour defined evaluation metrics as well as additional discussion, highlighted challenges, and reflection on limitations that we faced during this study",
+  "Finally, we present conclusions drawn from the previous sectionsandrecommendationsforfutureresearchinSectionFive",
+  "In this paper, we present the largest empirical study of TSC algorithms in the manufacturing domain to-date",
+  "While it is possible that we could have tailored these algorithms' parameters to function more accurately on the challenging datasets, our intention was to avoid introducing bias into our results 10https://github",
+  "Based on our results, ResNet, DrCIF, InceptionTime, and ARSENAL emerged as the top-performing algorithms, boastinganaverageaccuracy of over 96"
+]
