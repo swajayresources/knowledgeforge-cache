@@ -1,0 +1,17 @@
+[
+  "The objectives of this program at the NASA Glenn Research Center include developing manufacturing technology, thermal barrier coatings (TBCs) and environmental barrier coatings (EBCs), and analytical modeling capabilities to predict thermomechanical stresses.",
+  "Ceramic materials like silicon nitride (Si3N4) and silicon carbide/silicon carbide (SiC/SiC) are being investigated as potential materials for replacing metal components in gas turbine engines due to their low density, high-temperature strength, and thermal conductivity.",
+  "The researchers performed finite element analysis (FEA) using the ANSYS and MSC/PATRAN software to generate temperature distributions for the cooled silicon nitride plates.",
+  "Nondestructive evaluation (NDE) using computed tomography (CT) was used to characterize the cooling channels and identify any processing defects in the silicon nitride plates.",
+  "The FEA analysis showed a temperature drop of 573\u00b0F between the two different cooling channel configurations, demonstrating the significant impact of cooling channel size and shape on the thermal profile.",
+  "Active cooling, which involves diverting a portion of the air from the compressor into the turbine components instead of using it for combustion, can improve the overall efficiency of gas turbine engines.",
+  "The cooled silicon nitride plates tested in this study had dimensions of 6 by 1 by 0.125 inches.",
+  "The FEA analysis applied convective flame impingement over one quarter of the top of the plate, while convective cooling was imposed at the bottom of the plate and inside the cooling channels.",
+  "Key references cited in the paper include a NASA technical publication on minimally cooled ceramics and fiber-reinforced ceramic matrix composites, as well as the ANSYS and MSC/PATRAN finite element software packages.",
+  "The authors of this research paper were Dr. Ali Abdul-Aziz, Dr. George Y. Baaklini, and Dr. Ramakrishna T. Bhatt from the NASA Glenn Research Center.",
+  "The paper was published as part of the HITEMP Review 1999 and is available from the Subsonic Systems Office at the NASA Glenn Research Center.",
+  "The research was supported by the OAT Programs/Projects: HOTPC, RLV, and Spaceliner 100 at NASA Headquarters.",
+  "The paper presents an optimization exercise using finite element analysis and nondestructive evaluation to characterize and evaluate silicon nitride plates with cooling channels.",
+  "The temperature plots generated in the FEA analysis showed the maximum temperature was at the middle section of the plate, as anticipated.",
+  "The influence of the cooling channel configuration on the temperature distribution was clearly observed, with the two different configurations resulting in a significant temperature difference."
+]
