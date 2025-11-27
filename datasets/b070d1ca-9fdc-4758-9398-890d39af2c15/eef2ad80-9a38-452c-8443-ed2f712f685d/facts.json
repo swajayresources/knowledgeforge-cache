@@ -1,0 +1,17 @@
+[
+  "The TADS system was developed under NASA Contract NAS3-25950.",
+  "TADS couples the ADPAC throughflow solver with the RVCQ3D quasi-3D blade-to-blade solver.",
+  "The GUI simplifies user input and automates the many tasks required to perform turbomachinery analysis and design.",
+  "TADS begins the analysis with the throughflow calculation, using the mean camber line and Carter's deviation angle rule to set the initial mean stream surface.",
+  "The ADPAC throughflow solver was modified to include blade force and blockage terms in the governing equations.",
+  "TADS uses a file naming convention, data standards, and shared routines/data to enable modularity and maintainability.",
+  "The TADS system was verified using the NASA Rotor 67 test case.",
+  "The TADS system was designed to incorporate modern CFD techniques into the traditional turbomachinery design approach.",
+  "The TADS GUI controls the complete analysis, allowing the user to select program modules, input data, and run the analysis on remote hosts.",
+  "The TADS system was developed to enable new modules to be added to perform any of the tasks without major coding effort.",
+  "The TADS system is an amalgamation of many different programs under a single GUI.",
+  "The TADS system requires four inputs: a case name, a Cartesian description of the airfoil, a description of the meridional flow path, and aerodynamic data.",
+  "The TADS system minimizes interpolation errors between the various airfoil representations by using normalized airfoil chord when necessary.",
+  "The TADS system defaults to equal axial spacing within the three blocks of the throughflow grid (upstream, within the airfoil row, and downstream).",
+  "The TADS system was designed to enable alternative solvers or grid generators to be easily incorporated into the framework."
+]
