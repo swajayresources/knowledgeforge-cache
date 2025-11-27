@@ -1,0 +1,1 @@
+This paper investigates the influence of a pulsed magnetic field (PMF) on the superalloy melt with a solid-liquid interface during directional solidification. The simulation results show that the PMF generates periodic electromagnetic forces and vibrations, leading to enhanced melt convection and a more uniform temperature distribution, which promotes grain refinement.
