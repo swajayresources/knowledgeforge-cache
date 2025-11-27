@@ -1,0 +1,12 @@
+[
+  "Nearly 60% of aircraft breakdowns can be attributed to turbofan engine failures, underscoring the urgent need for advanced maintenance strategies.",
+  "Turbofan engines operate under complex conditions with variations in altitude, temperature, and flight phase, amplifying the domain shift between operating conditions.",
+  "Turbofan engine data is high-dimensional, with a large number of sensors required to monitor engine status, resulting in a complex feature space.",
+  "Unlike bearings, turbofan engines produce slower-changing signals that reflect overall health rather than immediate conditions, necessitating a lower subsampling rate.",
+  "Domain adaptation techniques enable knowledge transfer from source domains with abundant data to target domains with scarce data, effectively addressing distribution shifts caused by varying operating conditions.",
+  "The proposed taxonomy categorizes domain adaptation methods into methodology-based, alignment-based, and problem-based approaches to provide a comprehensive framework for analyzing existing works.",
+  "Adversarial-based domain adaptation methods, such as DANN and ADDA, have shown promising results in transferring highly nonlinear information by leveraging a discriminator network to ensure domain-invariant features.",
+  "ADDA's two-stage approach, with a pretraining stage and an adaptation stage, can address the challenge of balancing source training and adaptation in DANN.",
+  "Metric-based methods, such as MMD and CORAL, aim to align the feature distributions between source and target domains, but may struggle with complex, nonlinear distribution shifts.",
+  "Problem-based adaptations, addressing unique challenges in turbofan engine RUL prediction, such as time-varying data, incomplete data, and sensor characteristics, are crucial for developing practical and reliable domain adaptation solutions."
+]
