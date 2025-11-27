@@ -1,0 +1,17 @@
+[
+  "The 10 MW blade of the AVATAR project was used in the investigation.",
+  "The wind and rotational speeds used in the simulations were 10.5 m/s and 9.0218 rpm, respectively.",
+  "The researchers compared the 3D blade simulations with 2D airfoil simulations to demonstrate the rotational effects.",
+  "The researchers observed a significant delay in the separation point and a massive reduction in the wake size at the inboard blade section due to the rotational effects.",
+  "The lift coefficient was observed to be remarkably higher at the inner part of the blade in the 3D simulations compared to the 2D simulations.",
+  "The researchers attributed the differences between the XFOIL and CFD results to the relatively thick airfoils used in the AVATAR blade and the sensitivity of the transition point location on the thick airfoils.",
+  "The researchers validated the CFD setup by comparing the resulting total power and thrust with the numerical results from other project partners, showing good agreement with the DTU EllipSys3D and NTUA MaPFlow codes.",
+  "The researchers performed a grid convergence study and found that the coarse mesh did not have enough cells to accurately resolve the flow field at the inboard section of the blade, leading to underprediction of the sectional forces.",
+  "The researchers attributed the rotational effects to the centrifugal force, which transports the separated flow towards the middle part of the blade, and the Coriolis force, which delays the separation point and contributes to the increase in lift coefficient.",
+  "The researchers used the computational fluid dynamics (CFD) code FLOWer with the URANS SST-k\u03c9 turbulence model to perform the numerical investigations.",
+  "The blade mesh was C-type and constructed using an automatic grid generator script, and the Chimera interpolation method was employed in the overlapping grid areas.",
+  "The researchers performed the calculations using three different blade meshes with 136, 280, and 272 cells in the spanwise direction, respectively.",
+  "The grid convergence index (GCI) values for power and thrust were 0.003% and 0.0497%, respectively, indicating that the grid was spatially converged.",
+  "The researchers compared the 3D CFD results with 2D calculations performed using both the FLOWer code and the XFOIL boundary layer code.",
+  "The researchers observed that the rotational effects have small or no influence on the flow development at the middle part of the blade (at the attached flow region)."
+]
