@@ -1,0 +1,1 @@
+This paper presents an experimental and computational investigation of the flow field in a NASA low-speed centrifugal compressor. The study uses laser anemometry and computational fluid dynamics to analyze the development of the throughflow velocity wake and secondary flow patterns within the impeller passage.
