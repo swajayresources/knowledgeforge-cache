@@ -1,0 +1,17 @@
+[
+  "The authors consider PDE-constrained optimization problems where the goal is to minimize the volume where a functional of the state violates a prescribed level.",
+  "The authors propose using L1 penalization of the violation instead of L0 penalization, due to the well-established difficulties associated with L0 minimization.",
+  "The authors formulate the reduced optimal control problem as minimizing the sum of a quadratic tracking term, an L1 penalty on the violation of the target dose level, and an L1 penalty on the violation of the risk dose level, subject to the PDE constraint.",
+  "The authors show that prescribing the dose levels as pointwise state constraints leads to infeasible problems, as it is usually not possible to satisfy the constraints over the whole region due to the close proximity of tumors and healthy organs.",
+  "The authors establish well-posedness of the optimal control problem with L1 penalization by showing that the reduced problem is convex and weakly lower semi-continuous.",
+  "In deriving the optimality conditions, the key step is computing the subdifferentials of the volumetric dose penalty terms via the subdifferentials of the corresponding integrands.",
+  "Under the assumption of a bounded admissible control set and complete continuity of the control-to-state operator, the authors show that the family of solutions contains a subsequence converging strongly to a solution of the limit problem, which minimizes the L1 norms of the dose violations.",
+  "The authors use a Moreau-Yosida regularization of the optimality system, which allows them to apply a superlinearly convergent semismooth Newton method for the efficient numerical solution.",
+  "The numerical results show that the L1 penalization approach is able to balance the competing objectives of delivering a sufficient dose to the target region and minimizing the dose to the risk region, while the state-constrained approach fails to give reasonable performance.",
+  "Compared to the state-constrained approach, the L1 penalization approach requires significantly fewer Newton iterations to converge and is able to provide better performance in terms of the fraction of the target region receiving the desired dose and the fraction of the risk region receiving a dose below the limit.",
+  "In the authors' numerical examples, increasing the weight on the target region increases the difficulty of the problem significantly at the end of the homotopy loop, while putting more or equal weight on the risk region requires fewer Newton iterations for each value of the regularization parameter.",
+  "The authors note that their analysis can be extended to problems where the linear functional C takes a different form, as long as it is a bounded linear functional.",
+  "The authors' Python implementation of the semismooth Newton method with homotopy strategy for the L1 penalized problem is available at https://www.github.com/clason/dvhpenalty.",
+  "The authors motivate the problem from the application of radiotherapy treatment planning, where the goal is to deposit a radiation dose that is sufficient to destroy tumor tissue while minimizing damage to nearby healthy organs and structures.",
+  "The authors point out that fully discretized formulations of the radiotherapy treatment planning problem as a convex linear-quadratic program have been studied in prior work, but these simplifications can give significant errors in dose calculation."
+]
