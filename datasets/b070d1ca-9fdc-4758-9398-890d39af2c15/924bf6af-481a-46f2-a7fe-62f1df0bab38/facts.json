@@ -1,0 +1,17 @@
+[
+  "The study explores design variables including sea level static thrust, wing reference area, fan pressure ratio, overall pressure ratio, fan drive system architecture, bypass nozzle architecture, and high- and low-pressure compressor work split.",
+  "NASA's goals for the new single-aisle aircraft include 33% reductions in block fuel burn and takeoff field length, 60% reduction in NOx emissions below CAEP/6 standards, and 32 cumulative EPNdB reduction in certification noise levels below current Stage 4/Chapter 4 limits.",
+  "Lower fan pressure ratio (FPR) values lead to higher bypass ratios, which improve fuel consumption, but also require larger fan diameters and more low-pressure turbine stages.",
+  "Geared fan drive systems avoid the shaft speed mismatch in low FPR engines, but introduce additional weight, cost, and reliability concerns from the gearbox.",
+  "Detailed takeoff and approach trajectory calculations are performed to capture the influence of engine thrust lapse on noise, as UHB engines have a more rapid thrust lapse compared to conventional turbofans.",
+  "NOx emissions are primarily produced through the thermal oxidation of nitrogen in the high-temperature regions of the combustor, with higher overall pressure ratio (OPR) values leading to increased NOx formation.",
+  "The advanced airframe model assumes increased use of composite materials (15% weight reduction), higher hydraulic pressure (5000 psi), and a 1% reduction in drag from aerodynamic improvements, compared to the baseline 737-800 model.",
+  "The baseline 737-800 model is developed using publicly available data and calibrated to match the published operating empty weight and range capability of the actual 737-800 aircraft.",
+  "Enhancements to the FLOPS aircraft synthesis tool include updated structural weight estimates, improved aerodynamic modeling, and detailed takeoff and landing trajectory analyses to better capture the impacts of large, UHB engines.",
+  "The multi-objective optimization seeks to find a Pareto-optimal set of solutions that represent the best tradeoffs between the conflicting objectives of fuel burn, noise, and emissions.",
+  "The expectation of this analysis is to broaden the solutions obtained during previous NASA studies with the additional objectives of fuel, noise, and exhaust emissions included in the optimization.",
+  "The propulsion system independent design variables subject to optimization include three continuous variables (thrust, wing area, and fan pressure ratio) and four discrete variables (overall pressure ratio, fan drive system, bypass nozzle architecture, and compressor work split).",
+  "Ramp weight, fuel burn, noise, and emissions are the parameters treated as dependent objective functions in the optimization.",
+  "The thermodynamic engine cycle performance is analyzed using the Numerical Propulsion System Simulation (NPSS) code, and the aeromechanical design, flowpath, and engine weight analyses are performed with the Weight Analysis of Turbine Engines (WATE) code.",
+  "The notional airplane is based on an analytical evolution of the Boeing 737-800 with winglets, with minor calibrations to match published operating empty weight and range capability."
+]
