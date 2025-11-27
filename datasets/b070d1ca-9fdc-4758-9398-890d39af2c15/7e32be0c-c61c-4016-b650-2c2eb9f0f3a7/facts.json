@@ -1,0 +1,17 @@
+[
+  "The Simplex turbopump is being developed at NASA/Marshall Space Flight Center by an in-house team.",
+  "The turbine has a total pressure of 800 psi at the inlet, a total-to-static pressure ratio of 15, and an inlet total temperature of 800\u00b0R.",
+  "The turbine is designed to supply 700 hp at a wheel speed of 25,000 rpm.",
+  "The initial bearing coolant circuit resulted in an unacceptable axial load of 15,000 lbf on the disk and a 15-point performance loss in turbine efficiency.",
+  "The optimized inducer design produced a non-cavitated total pressure rise of 197 psi with a net hydraulic efficiency of 73%.",
+  "The impeller generated a total pressure rise of 1,300 psi with a high predicted hydraulic efficiency of 95.6%.",
+  "The minimum inlet LOX pressure is 45 psi at 164\u00b0R flowing at 89.8 lbm/sec, yielding a required suction specific speed (Nss) of approximately 25,000 at the design point speed.",
+  "The initial 2D diffuser analysis showed separation on the pressure surface due to the impeller discharge flow angle of approximately 10\u00b0.",
+  "The modified diffuser design with a cutback on the leading edge of the vanes yielded a pressure rise of 288 psi.",
+  "The CFD analyses were used to verify one-dimensional predictions, assess aerodynamic and hydrodynamic designs, and provide flow environments for structural and thermal analyses.",
+  "The nozzle analysis was limited by size constraints that prevented resizing the nozzle to ensure isentropic flow.",
+  "The 2D rotor analysis did not fully capture the 3D effects of tip leakage.",
+  "The diffuser analysis required a 3D model to accurately capture the flow separation due to the impeller discharge angle.",
+  "The bearing coolant circuit was redesigned to reduce the axial load to 300 lbf and the performance loss to 0.001 lbm/sec of flow pulled from the hot gas path into the cavity.",
+  "The CFD analyses were used to optimize the inducer, impeller, and diffuser designs, as well as the bearing coolant circuit, to improve performance and reduce unacceptable loads and losses."
+]
