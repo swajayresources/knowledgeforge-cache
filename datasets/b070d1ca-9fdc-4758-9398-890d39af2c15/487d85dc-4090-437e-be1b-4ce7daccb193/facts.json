@@ -1,0 +1,17 @@
+[
+  "The paper reviews existing boundary-layer heat transfer theory and analyzes the influences of Mach number, temperature ratio, and gas property temperature relations on the Nusselt number.",
+  "For Mach numbers less than 2 and temperature ratios between 1 and 4, the combined effect on the Nusselt number is a 5-10% change from the value at Mach 0 and temperature ratio 1.",
+  "The critical Reynolds number, which indicates the stability of the laminar boundary layer, increases with increasing temperature ratio Tr.",
+  "Changing the viscosity-temperature exponent \u03b8 from 0.7 to 0.8 decreases the Nusselt number by about 3% when Tr = 4, relative to the reference value at Tr = 1.",
+  "The correlation equation for the Nusselt number in a laminar boundary layer is Nu = (1/3) Flam Re^(1/2) Pr^(1/3), where Flam is a function of the Euler number Eu.",
+  "The average Nusselt number is calculated by integrating the heat transfer over the laminar and turbulent regions separately and combining them based on the transition location.",
+  "The approximate form of the equation for the average Nusselt number is Nu_p/(Pr)^(1/3) = f(Re_p)^(1/3), where the coefficients f and n are functions of the transition ratio t and the Euler number Eu.",
+  "The theoretical Nusselt number curves show that the slopes can differ from the expected 0.5 for laminar flow or 0.8 for turbulent flow, which explains why experimental results often yield different slopes.",
+  "The equation for the Nusselt number at the stagnation point of a cylinder, Nu = 1.905 Flam (Pr)^(1/3) (Re)^(1/2), matches the theoretical results with Flam = 1 since Eu = 1 at the stagnation point.",
+  "For the laminar boundary layer, the wall temperature is used to evaluate the gas properties, whereas for the turbulent boundary layer, the wall temperature is also used, considering the laminar sublayer may be controlling the heat transfer.",
+  "No satisfactory correlation of heat transfer from turbine blades is possible between cooled turbine blades of the impulse and reaction type when the correlation schemes used for boiler pipes, heat exchangers, and reciprocating engines are applied.",
+  "Theoretical studies have been made of heat transfer through laminar and turbulent boundary layers of certain simple types, including the effects of Mach number, temperature ratio, and gas property variations.",
+  "Experimental results have been published on average outside heat-transfer rates between the gas and the turbine blades from stationary cascades, but different correlations are shown for different cascades.",
+  "The theoretical effects of the various parameters on the heat transfer with a laminar boundary layer and constant wall temperature were analyzed at the NACA Lewis laboratory.",
+  "The paper derives an equation for the average heat transfer of a surface when the boundary layer changes from laminar to turbulent on the surface."
+]
