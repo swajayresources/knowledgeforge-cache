@@ -1,0 +1,15 @@
+{
+  "paper_id": "0f71c001-5617-4555-899f-1b22da437432",
+  "title": "Fluid fragmentation from hospital toilets",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/0f71c001-5617-4555-899f-1b22da437432/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/0f71c001-5617-4555-899f-1b22da437432/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/0f71c001-5617-4555-899f-1b22da437432/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/0f71c001-5617-4555-899f-1b22da437432/keywords.json"
+  ]
+}
