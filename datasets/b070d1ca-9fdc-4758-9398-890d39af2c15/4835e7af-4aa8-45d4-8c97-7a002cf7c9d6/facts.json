@@ -1,0 +1,17 @@
+[
+  "The reference engine model was based on the Trent 1000-R3 engine, which incorporates the latest technology upgrade and is certified for the highest static thrust.",
+  "The reference aircraft model was similar to the Boeing 787-8, with a maximum range of 13,841 km and a payload of 24,684 kg.",
+  "The thermodynamic cycle design considered operating conditions of cruise, maximum take-off on a hot day, and top of climb.",
+  "The maximum temperatures were constrained to 989 K at the high pressure compressor outlet, 1932 K at the high pressure turbine inlet, and 1270 K at the low pressure turbine inlet.",
+  "The cooling air extraction locations and split between working and non-working cooling air were kept constant across all engine designs.",
+  "The engine geometry was estimated using a knowledge-based process that relied on dimensionless geometric parameters extracted from a general arrangement drawing similar to the Trent 1000.",
+  "The reference engine model showed good agreement with available data on the Trent 1000 for parameters like bypass ratio, overall pressure ratio, and thrust specific fuel consumption.",
+  "The model parameters selected for the rubber engine model included the required thrust at sizing operating conditions, the design flight Mach number, and the engine diameter.",
+  "The use of surrogate models enabled the transformation of discrete transitions of integer-numbered parameters into continuous problems, facilitating multi-fidelity approaches and the determination of derivatives and sensitivities.",
+  "The hybrid surrogate-based rubber engine model combines surrogate models for engine parameters with a thermodynamic performance tool to enable evaluation of engine performance over the entire flight mission.",
+  "The proposed rubber engine model aims to simplify the MDO process by encapsulating the complex engine design as a preprocessing step, reducing complexity and increasing robustness.",
+  "The authors used the German Aerospace Center's (DLR) Gas Turbine Laboratory (GTlab) and DLR Performance Program (DLRp2) tools for engine design and thermodynamic cycle calculations.",
+  "The authors assessed different design of experiment and interpolation methods with varying numbers of samples to determine the most efficient way to build the rubber engine model.",
+  "The presented work was created in the context of the DLR's VicToria (Virtual Aircraft Technology Integration Platform) project.",
+  "The hybrid surrogate-based rubber engine model facilitates the exchange with other organizations or departments, as only common tools for meta-modeling and thermodynamic calculation are required."
+]
