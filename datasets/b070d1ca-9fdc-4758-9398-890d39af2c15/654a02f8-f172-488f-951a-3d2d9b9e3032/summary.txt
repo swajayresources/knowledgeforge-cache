@@ -1,0 +1,1 @@
+This paper examines the role of magnetohydrodynamic (MHD) instabilities, particularly n>1 tearing modes, in causing impurity peaking in JET Hybrid plasmas. It compares the effects of MHD in JET plasmas with a carbon wall (JET-C) versus an ITER-like wall (JET-ILW), and proposes models for how the n=2 modes can enhance on-axis tungsten transport.
