@@ -1,0 +1,17 @@
+[
+  "The SHM1 airfoil was designed to meet the requirements of the small-business Honda Jet.",
+  "The SHM1 airfoil has undergone extensive testing across various operational conditions, including low-speed wind tunnel tests and flight tests.",
+  "The study simulated a range of free-stream Mach numbers (0.134, 0.31, 0.62, 0.72, 0.73, 0.78) and Reynolds numbers (4.8 \u00d7 10^6 to 16.2 \u00d7 10^6).",
+  "The numerical simulations employed a shock-free mesh to accurately capture the dynamics of traveling waves in compressible flow around airfoils.",
+  "For the low speed condition (M_s = 0.134), the time-series of vorticity revealed a singular time period associated with Kelvin-Helmholtz vortex shedding.",
+  "At the climb condition (M_s = 0.31), the time-series of vorticity showed the presence of multiple time periods due to interactions between Kutta waves and trailing edge vortices.",
+  "At the cruise condition (M_s = 0.62), the time-series and associated spectrum demonstrated a chaotic, multi-periodic nature of the flow, with no discernible peaks in the frequency plane.",
+  "For the off-design transonic conditions, the emergence of shocks led to complex shock-boundary layer interactions, exhibiting large-amplitude, low-frequency pressure fluctuations on the airfoil surface.",
+  "The study found that as the free-stream Mach number increased, the magnitude of vorticity generation increased, and the Fourier amplitude was redistributed across a wider range of frequencies.",
+  "The steepest pressure spike was observed for the M_s = 0.78 case, which demonstrated the largest separated region and shock extent.",
+  "The skin friction coefficient analysis showed that for the low speed and climb conditions, there was either no separation or a very short separation bubble, while the off-design transonic conditions exhibited more significant separation.",
+  "The study provided benchmark results for optimization of various flow separation and shock control techniques for natural laminar airfoils like the SHM1.",
+  "The numerical methods used in this study have been previously validated against experimental data from flight tests and wind tunnel results.",
+  "The study highlights the necessity for a comprehensive assessment of the aerodynamic performance of natural laminar flow airfoils under both design and off-design conditions.",
+  "The findings contribute to the design of optimized natural laminar flow airfoils by providing insights into boundary layer characteristics and unsteady separation."
+]
