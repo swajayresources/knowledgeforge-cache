@@ -1,0 +1,17 @@
+[
+  "The standard quarter-wavelength multilayer coating has the highest reflectivity for a given number of layers, but does not necessarily yield the lowest thermal noise.",
+  "The optimized coating was designed by finding the configuration of layer thicknesses that minimized the Brownian noise of the coating as a whole, while maintaining the desired reflectance.",
+  "The optimized coating design consisted of 17 identical high/low index layer pairs or \"doublets\", with the exception of the terminal layers.",
+  "The material parameters used in the coating design were: silica (SiO2) Young's modulus Y = 72.0 GPa, Poisson ratio \u03c3 = 0.17, and loss angle \u03c6 = 2.1 \u00d7 10^-8; tantala (Ta2O5) Young's modulus Y = 140 GPa, Poisson ratio \u03c3 = 0.23, and loss angle \u03c6 = 4.7 \u00d7 10^-8.",
+  "The reflectance of the standard quarter-wavelength (QWL) coating was 0.9997225 (278 ppm transmittance).",
+  "The reflectance of the optimized coating was also 0.9997225, the same as the standard QWL coating.",
+  "The measured mean loss angle for the standard QWL coating was \u03c6_QWL = (8.25 \u00b1 0.35) \u00d7 10^-6.",
+  "The measured mean loss angle for the optimized coating was \u03c6_opt = (6.85 \u00b1 0.18) \u00d7 10^-6.",
+  "The ratio of the mean loss angles, r = \u03c6_opt / \u03c6_QWL, was 0.83, indicating an approximately 17% reduction in thermal noise for the optimized coating.",
+  "The thermal noise was measured over a frequency range of approximately 800 Hz to 20 kHz, above the unity gain frequency of the servos used in the thermal noise interferometer.",
+  "Above 20 kHz, the noise floor of the thermal noise interferometer became dominated by shot noise.",
+  "The researchers took multiple measurements for each coating and averaged the results to mitigate instability in the optical gains of the servos.",
+  "The distribution of residuals from the least-squares fits to the length noise data was consistent with a normal distribution, indicating the scatter was random in nature.",
+  "The researchers discarded a few anomalously high loss angle measurements that were likely due to transients affecting the noise floor of the instrument.",
+  "The thermal noise interferometer used short, independent arm cavities with suspended mirrors to optimize the system for measuring displacement noise."
+]
