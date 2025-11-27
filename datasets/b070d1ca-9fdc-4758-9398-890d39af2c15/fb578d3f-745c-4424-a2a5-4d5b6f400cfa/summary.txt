@@ -1,0 +1,1 @@
+This paper describes the development and testing of a fully non-metallic gas turbine engine enabled by additive manufacturing. The research focused on identifying key engine components that could benefit from polymer matrix composites (PMCs) and ceramic matrix composites (CMCs), and then fabricating and testing prototype components using additive manufacturing techniques.
