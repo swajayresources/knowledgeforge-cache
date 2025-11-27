@@ -1,0 +1,17 @@
+[
+  "Contactless electroreflectance (CER) spectroscopy was used to study the built-in electric fields and Fermi level positions in GaN/(Ga,Mn)N structures.",
+  "For (Ga,Mn)N with Mn concentrations above 0.1%, the Fermi level was found to be located 1.25 - 1.55 eV above the valence band edge, close to but slightly below the Mn-related impurity band.",
+  "In low-Mn (Ga,Mn)N (<0.1%), the Fermi level was located closer to the conduction band, similar to the Fermi level at the GaN surface.",
+  "The band gap change in (Ga,Mn)N compared to GaN was estimated to predominantly occur in the valence band, decreasing by 0.028 \u00b1 0.008 eV per % of Mn.",
+  "The strong mid-gap Fermi level pinning, lack of surface depletion layer, and high resistivity make (Ga,Mn)N a promising insulating buffer material for GaN-based devices.",
+  "Two sets of GaN/(Ga,Mn)N structures were studied, one with a constant 60 nm GaN cap thickness and another with varying GaN cap thicknesses from 31 to 170 nm.",
+  "The presence of Franz-Keldysh oscillations in the CER spectra confirmed the sensitivity of the method to the built-in electric fields in the structures.",
+  "The built-in electric field strengths in the GaN caps were determined to be in the range of 18 kV/cm to 180 kV/cm, depending on the Mn concentration and GaN cap thickness.",
+  "Single (Ga,Mn)N layers with Mn concentrations ranging from 0.1% to 7% were used as reference samples to support the study.",
+  "X-ray diffraction measurements were performed to evaluate the sample quality, layer thicknesses, and confirm the Mn content and profile.",
+  "Secondary ion mass spectrometry and superconducting quantum interference device magnetometry were used to determine the Mn profile and concentration in the structures.",
+  "The Mn concentrations in the (Ga,Mn)N layers were 0.1%, 0.35%, 1.4%, 1.6%, and 6.5%.",
+  "The samples were grown by molecular beam epitaxy on GaN-on-sapphire templates at temperatures between 730-760\u00b0C.",
+  "The (Ga,Mn)N layers were capped with undoped GaN layers to introduce a surface-like electric field and enable the Fermi level determination.",
+  "The surface Fermi level position of the GaN cap layer was assumed to be 1.7 eV below the conduction band based on previous studies."
+]
