@@ -1,0 +1,17 @@
+[
+  "The turbine had a chord length (c) of 4.06 cm, a span (h) of 23.4 cm, and a preset pitch angle (\u03b1_p) of -6 degrees.",
+  "The turbine radius to the quarter chord (R) was 8.23 cm, resulting in a chord-to-radius ratio of 0.49.",
+  "The turbine blockage ratio (\u03b2) was 9.3% and the turbine solidity (\u03c3) was 0.16 for the two-bladed configuration.",
+  "The free stream velocity (U_\u221e) was 0.885 m/s with a turbulence intensity between 2-3%.",
+  "The Reynolds number based on chord and free stream was 44,000.",
+  "The positively cambered foil performed worse than the symmetrical or negatively cambered foils at all but the lowest tip-speed ratios.",
+  "The negatively cambered blades reduced peak loading by 13% compared to the symmetrical blades.",
+  "The optimal tip-speed ratio was governed more by degradation in downstream performance at higher rotation rates than continued increases in upstream performance.",
+  "The peak power coefficient occurred at tip-speed ratios of around 2.8 and 2.0 for the one- and two-bladed turbines respectively, with minimal variation due to geometric camber.",
+  "The virtual camber was estimated to be around 6% and the virtual incidence was around 7 degrees for the 0.49 chord-to-radius ratio.",
+  "The position of maximum virtual camber shifted from mid-chord towards the leading edge before dramatically shifting to the aft half of the foil for azimuth angles greater than 180 degrees.",
+  "The numerical URANS simulations were used to assess a wider range of geometric camber beyond the experimental configurations.",
+  "The experimental results suggest that a small but positive total camber (geometric plus virtual) is optimal for this turbine design.",
+  "The benefits of enhanced downstream flow reattachment from the negatively cambered blades more than compensated for reduced peak power generation compared to symmetrical blades.",
+  "The study highlights the importance of considering both geometric and virtual camber effects in cross-flow turbine blade design and optimization."
+]
