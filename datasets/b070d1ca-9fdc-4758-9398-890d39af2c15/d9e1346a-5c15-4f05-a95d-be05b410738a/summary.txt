@@ -1,0 +1,1 @@
+This paper develops a theoretical model combining the Sears and Theodorsen functions to predict unsteady lift on a wind turbine blade section undergoing periodic pitch, plunge, and transverse gust disturbances. The model is validated against high-fidelity 2D numerical simulations, showing good agreement for low to moderate forcing amplitudes and frequencies.
