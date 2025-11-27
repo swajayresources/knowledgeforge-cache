@@ -1,0 +1,17 @@
+[
+  "The phase-field method was used to investigate the influence of anisotropy on the evolution of interfacial morphologies in directional solidification.",
+  "The material parameters used in the simulations were for an Al-2.0wt.%Cu dilute binary alloy.",
+  "The interface width W was set to 0.15 \u03bcm, the grid size \u0394x was 0.8W, and the time step size \u0394t was 0.013\u03c40.",
+  "At the planar growth stage, the anisotropy makes no difference in the transport processes and the evolution of interfacial morphologies.",
+  "The incubation time for the planar instability is the same for different PCOs if defined as the onset time, but increases from 0\u00b0 to 40\u00b0 PCO if defined as the time when the cellular amplitude becomes comparable to its wavelength.",
+  "At the planar-cellular-transition stage, the interfacial curvature decreases from 0\u00b0 to 40\u00b0 PCO, leading to an increase in solute concentration and a decrease in instantaneous velocity.",
+  "At the quasi-steady-state, the anisotropy determines the growth direction and tip velocity of the primary dendrite, as well as the onset of sidebranches.",
+  "Dendrites with larger PCOs have larger tip velocities and are more likely to grow out sidebranches, corresponding to large enough solute segregation and tip velocity.",
+  "The phase-field model handles the effect of thermal noise on the solid-liquid interface by introducing a fluctuating current J, with a constant noise magnitude F0 that depends on the material properties.",
+  "The simulations were performed using a fixed thermal gradient of 100 K/mm and a pulling speed that increased from 0 to 300 \u03bcm/s over 2.0 s.",
+  "The computational domain was 2400\u00d72400 grids, corresponding to 288.0 \u03bcm\u00d7288.0 \u03bcm in real units, and the simulations took about 30 hours using 40 cores.",
+  "The governing equations of the phase-field model provide a clear connection between anisotropy at the microscopic and macroscopic levels, unifying the anisotropy in equilibrium and non-equilibrium.",
+  "The phase-field model can predict the alloy solidification quantitatively, agreeing well with experimental observations.",
+  "The phase-field method avoids the shape error caused by tracking the interface in computation, having extremely high numerical accuracy.",
+  "The dynamics of morphological evolution is determined by the competitive effects of the curvature (curvature-driven solute diffusion) and velocity, depending strongly on the ratio \u03c4/W^2 in the anisotropic phase-field model."
+]
