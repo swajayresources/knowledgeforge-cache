@@ -1,0 +1,1 @@
+This paper presents a software system for simulating and controlling gas turbine units, including modeling the main functionality, forecasting equipment operation, training personnel, and testing control algorithms. The system has a three-level modular architecture and uses VISSIM simulation software to model the gas turbine and its auxiliary equipment.
