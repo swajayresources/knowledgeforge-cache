@@ -1,0 +1,17 @@
+[
+  "The new beryllium plasma facing surface represented approximately 40 m^2 of the ~80 m^2 replaced by the ITER-like wall.",
+  "The target iron concentration for the beryllium material was 0.075%.",
+  "The optimum castellation size was 12 mm x 12 mm square and 16 mm deep with a half-round profile.",
+  "Disruptions produced changes in magnetic field of the order of 100 T/s, inducing significant eddy currents in the beryllium tiles.",
+  "The beryllium tiles have an electrical resistivity of ~0.08 \u03bc\u03a9m at 200\u00b0C, much lower than the ~10 \u03bc\u03a9m for the previous carbon tiles.",
+  "The design limit for the exposed depth of the beryllium tile edges was ~40 \u03bcm, combined with a minimum achievable cut width of 350 \u03bcm.",
+  "Vacuum-cast Inconel 625 was selected as the material for the tile carriers, as a compromise between cost and material properties.",
+  "227 anomalies were recorded during the ITER-like wall installation, with 159 resulting in non-conformance reports and modifications.",
+  "For the higher elongation limiter configuration, the monitored temperature stayed below 760\u00b0C, though some beams outside the monitored regions reached much higher temperatures with melting damage observed.",
+  "Disruptions were more threatening due to the reduced radiative losses compared to carbon, leaving most of the plasma magnetic energy to be conducted to the wall.",
+  "Slide-away electron beams due to lack of fuelling following an emergency coil shutdown caused the melting of 1-2 castellations on the inner wall guard limiter.",
+  "The design predicted a 20-30% contribution to the temperature increase due to edge heat flux, but experiments showed ~50% additional increase near the exposed edges.",
+  "Restarting the plasma on the ITER-like wall proved much easier than for the carbon wall, with no further conditioning required after the first plasma and no deconditioning by disruptions.",
+  "The JET facility had ~4000 kg of beryllium available for re-use, which helped achieve the target iron concentration of 0.075%.",
+  "Preproduction prototypes, jigs, and mock-ups were extensively used to validate the design and installation procedures for the beryllium PFCs."
+]
