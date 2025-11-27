@@ -1,0 +1,9 @@
+[
+  "The airfoil configurations were modeled with 20-node isoparametric 3D finite elements, with 46 elements and 405 nodes for the leading-edge film cooled airfoil and 39 elements and 349 nodes for the all-impingement cooled airfoil.",
+  "At maximum takeoff, the gas inlet total pressure was 2858 kPa and the coolant-to-gas flow ratio was 0.116 to 0.118.",
+  "The maximum metal temperature reached during the mission was about 1050\u00b0C, occurring at maximum takeoff.",
+  "The critical location for maximum creep strain was at the inside wall of the leading edge region at 33% span height for the all-impingement cooled cases, and adjacent to the hole rim for the film cooled cases.",
+  "The maximum effective total strain ranges were 0.00234 for the all-impingement cooled cases and 0.00602 for the film cooled cases during the mission.",
+  "The maximum effective creep strain increments per cycle were 0.000484 for the all-impingement cooled cases and 0.000970 for the film cooled cases with normal holes.",
+  "Compared to the all-impingement cooled baseline (case 1), the predicted creep life was 21% higher for the flatter gas profile (case 2), 50% lower for the film cooled case with normal holes (case 3), and 20% higher for the film cooled case with angled holes (case 4)."
+]
