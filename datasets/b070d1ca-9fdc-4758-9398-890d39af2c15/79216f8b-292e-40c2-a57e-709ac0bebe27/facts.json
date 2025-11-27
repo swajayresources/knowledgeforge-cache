@@ -1,0 +1,12 @@
+[
+  "The study employed the Large-Eddy Simulation with Near-Wall Resolution (LES-NWR) to numerically simulate the turbulent free-shear flow over a prism at a Reynolds number of 22,000.",
+  "The computational grid consists of 4.3 million hexahedral elements, with 2.9 million elements in the refined region around the prism.",
+  "The wall-adjacent cell height was set to maintain a y+ less than unity, with 36 layers resolving the viscous sublayer.",
+  "The study investigated sampling ranges from 2,000 to 23,000 snapshots and sampling resolutions from 50 to 105 Hz.",
+  "The Stabilization state, identified as the optimal state for modal convergence, occurs when the DMD output becomes independent of the sampling range.",
+  "The study found that the convergence of the sampling range and resolution are mutually independent.",
+  "Over-sampling, where the temporal dimension, n, approaches and transcends the spatial dimension, m (i.e., m < n), leads to algorithmic instability and divergence of the DMD output.",
+  "The recommended sampling resolution of 15 frames per cycle for target activities is suggested for most engineering implementations.",
+  "The study invested over 800,000 core-hours, excluding the LES-NWR simulation, to complete the comprehensive parametric investigation.",
+  "The turbulent free-shear flow over a prism was chosen as the test case due to its simplicity, sophistication, and relevance to a wide range of engineering applications."
+]
