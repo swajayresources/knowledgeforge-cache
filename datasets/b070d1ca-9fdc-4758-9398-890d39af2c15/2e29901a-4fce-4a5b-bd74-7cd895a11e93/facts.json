@@ -1,0 +1,17 @@
+[
+  "The blade had a total of 172 film-cooling holes in 8 rows, with 3 staggered rows of compound-angled shower-head holes.",
+  "The film-cooling holes had a diameter of 0.381 mm, which was about 1% of the blade axial chord at mid-span.",
+  "The multi-block grid had a total of 2,205,760 cells, with 80 control volumes within each hole exit.",
+  "The heat transfer coefficient was highest in the leading edge region and the tip region of the cooled blade.",
+  "The film cooling effectiveness was lowest in the leading edge region and near the tip, especially over the suction surface.",
+  "The heat transfer coefficient on the cooled blade was generally lower than that on the uncooled blade, except in the shower-head region and the tip region on the suction side.",
+  "The heat transfer coefficient was much higher on the shroud compared to the hub for both the cooled and uncooled cases.",
+  "The blowing parameter (Br) varied from row to row, with a value of 0.3393 for row 1, 0.357 for row 2, and 0.19 for the three staggered shower-head rows (3, 4, and 5).",
+  "The computed and given coolant mass flow rates matched very well, with the total coolant mass flow rate for the three staggered shower-head rows (3, 4, and 5) being the same as the given value.",
+  "Gridding the tip clearance gap, instead of using a tip clearance model, resulted in only minor changes to the heat transfer coefficient and effectiveness distributions on the blade surface.",
+  "The k-omega turbulence model of Wilcox with Menter's modifications was used for modeling the turbulence.",
+  "The multi-block grid was generated using the GridPro/az3000 software, with the viscous grid having over 2.2 million cells.",
+  "The hole exits were discretized with 80 control volumes each to capture the coolant flow details.",
+  "The low effectiveness regions were found to be in the leading edge region and near the tip, especially over the suction surface.",
+  "The high heat transfer coefficient regions were in the leading edge region and the tip region of the cooled blade."
+]
