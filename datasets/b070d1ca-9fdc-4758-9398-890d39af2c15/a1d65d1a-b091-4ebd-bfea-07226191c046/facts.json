@@ -1,0 +1,17 @@
+[
+  "The phase-field model is used to investigate the evolution of the entire directional solidification process.",
+  "The thermal gradient G is constant at 100 K/mm, while the pulling speed Vp increases from 0 to 300 \u03bcm/s over 0.5 s.",
+  "The evolution of solute concentration c0 and interface velocity VI shows dissipative features, including peaks, oscillations, and a final steady state.",
+  "Smaller diffusion coefficient D corresponds to higher dissipation, leading to more interfaces forming during solidification.",
+  "The planar instability is triggered by the decrease in interfacial energy due to solute segregation, rather than the interface velocity.",
+  "During the planar-to-cellular transition, smaller D leads to longer transition time, higher peak c0, lower VI, and larger cellular wavelength.",
+  "In the dendrite growth stage, smaller D results in more side-branches, even with the same primary arm spacing and tip velocity.",
+  "At the steady-state stage, smaller D leads to lower c0 at the interface, smaller tip curvature, and fewer/smaller side-branches.",
+  "The ratio \u03c4/W^2, which determines the competitive influences of curvature and velocity, is dominated by the diffusion coefficient D and the degree of dissipation.",
+  "Different initial conditions can lead to quite different solidification morphologies, even with the same solidification parameters, demonstrating the history-dependent nature of the dissipative solidification process.",
+  "The phase-field simulations show good consistency with theoretical predictions, especially for the planar instability onset.",
+  "The domain size of the phase-field simulations is 2400 x 2400 grids, corresponding to 288.0 \u03bcm x 288.0 \u03bcm in real units.",
+  "It takes about 30 hours using 40 cores to finish one phase-field simulation job.",
+  "The paper provides new perspectives on solidification evolution by investigating the entire process from the viewpoint of dissipative dynamics.",
+  "The investigations on the effect of diffusion coefficient can provide theoretical bases for parameter optimization and material design in engineering applications."
+]
