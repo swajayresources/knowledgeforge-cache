@@ -1,0 +1,17 @@
+[
+  "The CODYRUN software models heat transfer in buildings using a nodal analysis approach, integrating conduction, convection, and radiation.",
+  "CODYRUN uses a pressure model to calculate airflow rates, considering wind effects and thermal buoyancy.",
+  "CODYRUN was validated through inter-model comparisons using the BESTEST procedure and experimental confrontations.",
+  "The solar air collector was modeled as a zone with a glazed window, exterior walls, and an absorber wall.",
+  "With a low air flow rate of 1 m3/h, the solar air collector had an output power of 22W and an efficiency of 4.5%.",
+  "Increasing the air flow rate could improve the efficiency but lower the output temperature.",
+  "The Trombe wall was modeled as two coupled zones, the Trombe system area and the room.",
+  "The simulations showed that at night, the Trombe wall system could exhibit an inverse thermocirculation, cooling the room.",
+  "The key factors influencing Trombe wall performance were the external glazing emissivity, window type, and wall absorptivity.",
+  "The Trombe wall simulations for Antananarivo, Madagascar aimed to address low temperatures in classrooms during the winter season.",
+  "For the Antananarivo climate, the impact of a night-time hole closing system was minor due to the small thermal gradient.",
+  "CODYRUN allowed for the calculation of conductive heat fluxes, sensible power outputs, and thermal comfort indicators like PMV for the Trombe wall system.",
+  "The Trombe wall's thermal inertia played an important role in modulating the heat transfer between day and night.",
+  "To increase the room input power from the Trombe wall, the wall surface could be increased and/or reflectors added to raise the incoming sunlight intensity.",
+  "Double glazing could be used to reduce the external heat losses from the Trombe wall system."
+]
