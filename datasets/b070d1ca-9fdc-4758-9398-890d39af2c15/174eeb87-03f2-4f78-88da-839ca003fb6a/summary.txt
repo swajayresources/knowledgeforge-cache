@@ -1,0 +1,1 @@
+This paper discusses the challenges and advancements in using thermal barrier coatings (TBCs) to improve the performance of turbine engines. It highlights the need to increase turbine inlet temperatures while maintaining or reducing cooling flow levels, and how TBCs can help address this challenge.
