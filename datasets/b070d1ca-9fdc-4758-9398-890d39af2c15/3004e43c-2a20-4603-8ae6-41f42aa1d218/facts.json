@@ -1,0 +1,17 @@
+[
+  "Blade-to-coolant convection heat-transfer coefficients were obtained over a range of turbine speeds from 2000 to 14,500 rpm and inlet-gas temperatures from 400\u00b0F to 1300\u00b0F.",
+  "Coolant flow rates from 0.7 to 7 gallons per minute, equivalent to mass velocities of 1565 to 15,650 lb/min/ft^2, were investigated.",
+  "Accounting for radial conduction from the blade to the disk rim reduced the calculated Nusselt numbers by 14-31% compared to neglecting conduction.",
+  "Natural convection had a negligible effect on blade-to-coolant heat transfer over the Grashof number range of 3x10^9 to 4x10^12.",
+  "The turbine data agreed closely with the correlation for laminar flow of heated liquids through stationary tubes, with a maximum deviation of 17% for Graetz numbers from 600 to 2400.",
+  "The range of Graetz numbers investigated was from 230 to 2400.",
+  "The characteristic dimension used in the Nusselt and Graetz numbers was the length of the radial coolant passage in the blade.",
+  "The Nusselt number increased with increasing Graetz number in the natural convection correlation, indicating that coolant flow rate, not speed, governed the heat transfer.",
+  "The researchers hypothesized that the combination of forced and natural convection flows in the coolant passages may have led to a net negligible effect on the average heat transfer coefficient.",
+  "Using stationary-tube blade-to-coolant coefficients and theoretical gas-to-blade coefficients, the maximum deviation of calculated average midspan blade temperatures from experimental data was 190\u00b0F at 1650\u00b0F.",
+  "The turbine had 50 impulse blades of constant cross section and no twist, with a tip diameter of 12.06 inches, chord of 0.744 inch, and span of 1.15 inches.",
+  "Coolant passages near the leading and trailing edges had a diameter of 0.062 inches, while passages near the blade center had a diameter of 0.099 inches.",
+  "The crossover passage near the blade tip connecting the radial coolant passages had a diameter of 0.062 inches.",
+  "Blade temperatures were measured using a rotating thermocouple pick-up system with six thermocouples located at various positions on the blades.",
+  "The total heat transferred to the coolant was determined from the coolant weight flow and temperature rise."
+]
