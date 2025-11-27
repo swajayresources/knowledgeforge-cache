@@ -1,0 +1,1 @@
+This paper introduces BrainCodec, a high-fidelity neural compressor for EEG and iEEG signals that can achieve up to 64x compression without significant loss in performance on downstream tasks like seizure detection and motor imagery classification. The authors show that training on higher-quality iEEG data can improve performance even when compressing noisier EEG signals.
