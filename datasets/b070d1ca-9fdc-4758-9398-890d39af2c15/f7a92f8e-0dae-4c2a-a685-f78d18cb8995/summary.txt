@@ -1,0 +1,1 @@
+This paper presents Monte Carlo simulations of the growth of hard-sphere crystals on a square pattern, which is an extension of previous simulations. The authors observed the disappearance of stacking faults in the crystal structure under certain conditions and discussed the formation of tetrahedral defect structures.
