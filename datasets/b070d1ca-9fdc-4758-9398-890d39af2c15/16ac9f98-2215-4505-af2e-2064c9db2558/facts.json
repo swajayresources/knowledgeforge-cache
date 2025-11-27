@@ -1,0 +1,10 @@
+[
+  "The paper derives accurate formulas for the reflected wave phase as a function of small displacements of the boundaries between the coating layers.",
+  "The authors calculate the spectral density of coating Brownian noise using the Fluctuation-Dissipation Theorem.",
+  "The number of Ta2O5 layers in the coating is assumed to be N = 20, and the number of SiO2 layers is N = 19 plus a cap layer.",
+  "The refractive indices used are n_1 = 2.035 for Ta2O5 and n_2 = 1.45 for SiO2.",
+  "For the Advanced LIGO mirror geometry (radius R = 0.17 m, height H = 0.20 m, beam radius w = 0.06 m), the accurate calculation gives a 17% smaller Brownian noise spectral density compared to the approximate approach.",
+  "The authors also consider a Khalili etalon design with a smaller number of front surface layers, which is expected to further reduce the Brownian noise contribution.",
+  "The paper suggests that the explicit formulas can be used to optimize the coating layer thicknesses for thermal noise reduction, including both Brownian and thermorefractive noise.",
+  "The authors note that non-quarter wavelength coatings, as proposed by I. Pinto, can also be analyzed using the presented approach to reduce thermal coating noise."
+]
