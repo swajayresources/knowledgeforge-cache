@@ -1,0 +1,12 @@
+[
+  "The LSCC had a design tip speed of 153 m/s.",
+  "Laser anemometer measurements were acquired at 7 stations through the impeller and 4 stations in the vaneless diffuser.",
+  "The laser anemometer technique was able to accurately measure pitch angles near the shroud, with agreement within 2 degrees compared to five-hole probe measurements.",
+  "The CFD solution used a grid with 137 streamwise points, 71 spanwise points, and 41 pitchwise points, with clustering near the blade surfaces.",
+  "The CFD solution underpredicted the maximum velocity deficit in the wake and the spanwise extent of the wake compared to the experimental data.",
+  "The wake was observed to shift toward the pressure side of the blade passage as the flow progressed downstream.",
+  "The laser measurements provided details of the flow within the blade boundary layers that were not captured in previous investigations.",
+  "The LSCC facility was designed to generate a flow field aerodynamically similar to high-speed subsonic centrifugal compressors.",
+  "Polystyrene latex spheres with a mean size of 0.8-0.95 \u03bcm were used as the seeding material for the laser anemometer measurements.",
+  "The encoder system generated 200 counts per blade pitch to track the circumferential location of the velocity measurements."
+]
