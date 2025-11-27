@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics (CFD) analysis of the performance of pin-fin based micro/meso scale heat exchangers using air as the working fluid. Various configurations were simulated to determine key performance characteristics such as Nusselt number, friction factor, specific fluid friction power, and Mach number in the laminar flow regime.
