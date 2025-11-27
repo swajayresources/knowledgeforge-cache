@@ -1,0 +1,17 @@
+[
+  "The paper considers 20 nm diameter graphene disks separated by 1 nm, doped to Fermi energies of 0.2-0.3 eV.",
+  "The radiative heat transfer power between the graphene disks is several orders of magnitude higher than that of gold disks of the same size.",
+  "Nearly 50% of the electronic heat from a 1000 K graphene disk is transferred to a 300 K neighboring disk within the first 200 fs.",
+  "Doping the disks to different Fermi energies (0.2 eV and 0.3 eV) can increase the heat transfer fraction to nearly 60%.",
+  "The two graphene disks reach mutual thermal equilibrium, with the colder disk reaching ~500 K, within approximately 500 fs after optical pumping.",
+  "At large separations (d >> D), the radiative heat transfer power scales as 1/d^6, while at smaller separations (d ~ D), the near-field coupling of the plasmonic modes leads to a much stronger distance dependence.",
+  "The paper assumes an electron-phonon relaxation time of 1 ps, which is much longer than the timescale of the ultrafast radiative heat transfer.",
+  "Tuning the pump laser frequency to be closer to the plasmon of one of the disks can selectively excite the hotter disk, leading to enhanced radiative heat transfer to the colder disk.",
+  "Graphene exhibits a large plasmonic response and low electronic heat capacity compared to other materials, which enables the ultrafast radiative heat transfer observed in the paper.",
+  "The authors derive a compact expression [Eq. (1)] for the radiative heat transfer power that is proportional to the difference in Bose-Einstein occupation numbers of the two disks, multiplied by a loss function determined by the disk susceptibilities.",
+  "The optical response of graphene is described using the local-RPA model for the surface conductivity, which accounts for the explicit temperature dependence through the chemical potential.",
+  "The lack of translational invariance in the nanostructures prevents the use of the full nonlocal RPA conductivity, but a simplified RPA description reveals that nonlocal effects only play a small role.",
+  "The authors also analyze heat transfer between extended graphene films, finding that nonlocal effects are also small for the graphene parameters under consideration.",
+  "The relatively high temperatures (thousands of degrees) refer to the electronic gas of the material, which can be reached by optical pumping in the ultrafast regime.",
+  "The electronic heat capacity of graphene is orders of magnitude smaller than that of gold, which contributes to the ultrafast heat transfer dynamics observed in the paper."
+]
