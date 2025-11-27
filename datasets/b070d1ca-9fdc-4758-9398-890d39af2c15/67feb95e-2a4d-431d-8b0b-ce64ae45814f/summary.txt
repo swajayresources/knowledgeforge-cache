@@ -1,0 +1,1 @@
+The paper analyzes the continuity of the barrier function in Root's solution to the Skorokhod embedding problem. It shows that the barrier function is continuous when the target measure has no atoms and its absolutely continuous part is locally bounded away from zero.
