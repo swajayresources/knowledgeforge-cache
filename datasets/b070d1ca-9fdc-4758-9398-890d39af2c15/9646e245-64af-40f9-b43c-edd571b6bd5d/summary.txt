@@ -1,0 +1,1 @@
+This paper characterizes the linear instabilities in the L-mode pedestal-forming region of seven JET discharges, covering both the low and high density branches of the L-H transition. The authors investigate the sensitivity of the linear modes to various plasma parameters and verify the performance of reduced-order turbulence models in this region.
