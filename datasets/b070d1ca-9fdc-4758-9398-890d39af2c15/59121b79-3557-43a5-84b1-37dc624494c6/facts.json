@@ -1,0 +1,12 @@
+[
+  "The method replaces the usual numerical integration through the compressor with approximate analytical integration.",
+  "The overall compressor performance is found as a perturbation of the design performance in terms of linear and quadratic expansions in the deviation from design flow rate and speed.",
+  "The amount of numerical work in finding the coefficients of the quadratic expansions is not negligible.",
+  "The method is expected to provide reasonably accurate results for speeds varying up to 10% from design and flow rates varying up to 4% from the design flow.",
+  "The single stage performance is represented using dimensionless work coefficient (Y), pressure coefficient (\u03a8), and adiabatic efficiency (\u03b7) as functions of the flow coefficient (\u03c6).",
+  "The compressor is assumed to be made up of an infinite number of infinitesimal stages, allowing the temperature to be considered a continuous variable along the compressor axis.",
+  "The adiabatic efficiency is defined as the ratio of the isentropic temperature rise to the actual temperature rise per stage.",
+  "The flow coefficient is defined as \u03c6 = mRT/(pUA), where m is mass flow rate, R is the gas constant, T is temperature, p is pressure, U is rotor speed, and A is flow annulus area.",
+  "The area distribution of the compressor is fixed by the design geometry and can be determined from the flow coefficient distribution.",
+  "The temperature ratio, pressure ratio, and adiabatic efficiency of the overall compressor are expressed as quadratic equations in terms of the deviation from design flow rate and speed."
+]
