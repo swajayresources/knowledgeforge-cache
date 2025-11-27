@@ -1,0 +1,1 @@
+This paper presents the aerodynamic and mechanical design of a four-stage low-pressure compressor component for the Energy Efficient Engine program. The compressor was designed to meet performance goals for the Flight Propulsion System while minimizing cost and risk for the Integrated Core/Low Spool test.
