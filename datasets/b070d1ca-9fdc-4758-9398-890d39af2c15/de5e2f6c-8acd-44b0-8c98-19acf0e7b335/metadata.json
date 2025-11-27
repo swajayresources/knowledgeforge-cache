@@ -1,0 +1,15 @@
+{
+  "paper_id": "de5e2f6c-8acd-44b0-8c98-19acf0e7b335",
+  "title": "Understanding the effect of hyperparameter optimization on machine learning models for structure design problems",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/de5e2f6c-8acd-44b0-8c98-19acf0e7b335/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/de5e2f6c-8acd-44b0-8c98-19acf0e7b335/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/de5e2f6c-8acd-44b0-8c98-19acf0e7b335/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/de5e2f6c-8acd-44b0-8c98-19acf0e7b335/keywords.json"
+  ]
+}
