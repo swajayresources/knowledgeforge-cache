@@ -1,0 +1,17 @@
+[
+  "The case chosen for this study is the rotor blade of Garrett's TFE 731-2 high pressure turbine.",
+  "Experimental measurements of tip and shroud heat transfer for this turbine were available from previous studies.",
+  "The Baldwin and Lomax algebraic turbulence model was used, with the Prandtl-Van Driest formulation for the inner layer.",
+  "Transition was modeled using the method described by Mayle (1991).",
+  "The computations were performed using a multi-block grid system with five blocks, including C-grids, an O-grid, and an H-grid.",
+  "Placing the inlet boundary at 30% of axial chord upstream of the leading edge with a 0.1% inlet boundary layer thickness resulted in better agreement with experimental data.",
+  "Increasing the rotation rate slightly increased the heat transfer on the blade tip leading edge region, but had minimal effect on the shroud heat transfer.",
+  "Regions of large heat transfer rates were identified close to the leading edge of the blade tip and along the edge on the suction side.",
+  "The average shroud heat transfer decreased monotonically with increasing distance along the axial flow direction.",
+  "Increasing the tip clearance gap size from 1.1% to 1.8% of span resulted in a general decline in the tip heat transfer levels.",
+  "Accurate prediction of tip heat transfer required at least 40 cells in the radial direction within the small tip clearance region.",
+  "Differences between simulations and experiments were attributed to simplified inlet boundary conditions and the absence of the shroud recess in the computational model.",
+  "The study provided insights into the dominant flow and heat transfer mechanisms affecting the blade tip and shroud regions.",
+  "The computational approach used in this study can be applied to other turbine blade designs to predict tip and shroud heat transfer.",
+  "The results of this study can inform the design of cooling schemes and clearance gap control for gas turbine engines."
+]
