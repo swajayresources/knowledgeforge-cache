@@ -1,0 +1,17 @@
+[
+  "The test duct had a diameter of 16 mm and a length-to-diameter ratio of 20.",
+  "The duct was oriented eccentrically with an eccentricity of 0.2.",
+  "The Reynolds number was below 100,000 and the rotation number was below 0.2.",
+  "Cooling air ejection was simulated using 32 holes, 2 mm in diameter, spaced at s/d = 2 along the duct.",
+  "Flow visualization using a co-rotating camera and laser light sheet showed that pressure side ejection strengthened the secondary vortices, while suction side ejection weakened them.",
+  "Velocity measurements revealed a strongly kidney-shaped velocity distribution with pressure side ejection, indicating enhanced secondary vortices.",
+  "Suction side ejection resulted in smoother velocity profiles with weaker vortex motion.",
+  "Wall temperature distributions showed larger differences around the duct circumference with pressure side ejection due to the stronger secondary vortices.",
+  "The effect of cooling air ejection was found to be more dominant than the effect of rotation on the flow and heat transfer behavior.",
+  "The Laser-2-Focus (L2F) anemometry technique was used for the non-intrusive velocity and turbulence measurements.",
+  "The velocity measurement uncertainty ranged from \u00b10.5% in the core flow to \u00b13.0% near the wall, while the angle determination uncertainty was between \u00b10.2\u00b0 and \u00b11.0\u00b0.",
+  "Numerical flow analysis was used to provide additional insights into the flow physics, including the dominant effect of bleeding on the displacement of the flow core.",
+  "The financial support of AG Turbo, Germany, for this project is acknowledged.",
+  "The development and application of the L2F measuring system by Dr. R. Schodl and M. Beversdorff of DLR is acknowledged.",
+  "The helpful support of H. Hoevel and M. McNiff of DLR in preparing and conducting the experimental work is acknowledged."
+]
