@@ -1,0 +1,1 @@
+This paper presents a new numerical tool to compute Brownian thermal noise in amorphous and crystalline thin coatings for gravitational-wave detectors. The tool uses finite-element methods, adaptive mesh refinement, and parallel processing to accurately resolve the thin coating and account for anisotropic elastic properties of crystalline materials.
