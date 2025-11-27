@@ -1,0 +1,17 @@
+[
+  "The two 10 MW reference wind turbines studied are the INNWIND.EU/DTU and AVATAR turbines.",
+  "The INNWIND.EU/DTU turbine has a rotor diameter of 178.3 m and a rotor speed of 9.6 RPM.",
+  "The AVATAR turbine has a rotor diameter of 205.8 m and a rotor speed of 9.6 RPM.",
+  "The CFD computations are performed for an isolated rotor only, neglecting the effect of tower and nacelle, and under uniform axial flow (no wind shear) conditions.",
+  "The computational grid has a total size of 14 million cells, with 256 cells around the airfoils, 129 cells in the span-wise direction for each blade, and 129 cells in the wall normal direction.",
+  "The y+ values at the surface are kept below 1 everywhere on the blade surface.",
+  "The pressure/velocity coupling is enforced through the SIMPLE algorithm, and the QUICK scheme is used for the differencing of the convective terms in the momentum equations.",
+  "The k-\u03c9 SST turbulence model and the Drela/Giles version of the En transition model are used in the CFD computations.",
+  "The results show good agreement between the evaluated methods at the mid-span (0.30 < r/R < 0.85) of the blades.",
+  "Deviations are observed at the root (r/R < 0.30) and tip (r/R > 0.85) regions of the blades, attributed to the 3D effects of the bound circulation.",
+  "The inverse BEM method uses empirical relations to correct for the breakdown of the simple momentum theory at high axial induction factors (a > 0.4).",
+  "The Shen 1 method is more sensitive to the monitoring point location near the root compared to the Shen 2 method.",
+  "The Ferreira-Micallef and Herra\u00b4ez methods do not show dependency on input parameters such as monitoring point location.",
+  "The AAT method is limited to capturing the mean value of the axial induction factor over one rotation and cannot capture the dynamics of the induced velocity in yawed flows.",
+  "The 3-Point method is able to reproduce the dynamic behavior of the induction and AoA near the tip and root of the blade."
+]
