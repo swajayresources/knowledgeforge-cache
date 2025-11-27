@@ -1,0 +1,17 @@
+[
+  "The compressor was designed under a NASA Research Announcement (NRA) contract with 2/3 funding from NASA and 1/3 from UTRC.",
+  "The design activity was focused on meeting the goal of increasing efficiency at higher work factor while reducing the maximum diameter of the stage.",
+  "The impeller tip diameter, impeller rotational speed, and impeller inlet hub and shroud radii were fixed by UTRC to fit within the existing test facility.",
+  "The compressor stage featured a 30-degree backsweep impeller design.",
+  "The diffuser design included splitter vanes and vane thickening to try to optimize the impeller/diffuser interactions.",
+  "The measured polytropic efficiency of 85.5% and stall margin of 7.5% were lower than the pre-test CFD predictions by 2.4 percentage points and 4.5 percentage points, respectively.",
+  "Post-test CFD analysis indicated that the performance loss was likely due to unfavorable unsteady impeller/diffuser interactions, impeller/diffuser flow rate mismatch, and flow separation in the radial-to-axial bend.",
+  "Recommendations included testing the impeller with a vaneless diffuser, redesigning the diffuser to eliminate the impeller/diffuser mismatch and optimize the vane geometry, and redesigning the radial-to-axial bend to minimize flow separation.",
+  "The study highlighted the importance of using unsteady CFD simulations and the need for longer integration times compared to current industry practice.",
+  "Inconsistencies in the implementation of a widely used two-equation turbulence model were identified and corrections were recommended.",
+  "The compressor achieved a pressure ratio of 4.68 and a work factor of 0.81 at the design exit corrected flow rate of 3 lbm/s.",
+  "The compressor was successfully fabricated and tested at NASA Glenn Research Center with no mechanical problems and the running clearances were achieved without impeller rubs.",
+  "The design activity was part of the Rotary Wing Project within the NASA Fundamental Aeronautics Program.",
+  "The compressor was designed to be representative of the rear stage of an axial-centrifugal aero-engine.",
+  "The test instrumentation included steady-state and high-response pressure measurements to provide detailed aerodynamic performance and research quality data."
+]
