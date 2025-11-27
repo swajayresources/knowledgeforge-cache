@@ -1,0 +1,17 @@
+[
+  "The blades are among the most expensive components of a wind turbine, accounting for 10-20% of total manufacturing costs.",
+  "Larger and more flexible blades have been designed to harvest more energy, but this has led to lower safety margins.",
+  "Cracks and delaminations are the most common forms of blade damage, typically occurring close to the blade root where bending strains are highest.",
+  "Blade failures can damage not only the turbine they were attached to, but also other nearby turbines.",
+  "The proposed SHM system uses SCADA data, which has a low-pass filter applied but is still capable of identifying long-term degradation in blade stiffness and edge frequency.",
+  "The Gaussian Processes are trained on a subset of the SCADA data, using the edge frequencies of one blade as outputs and the edge frequencies and ambient temperature of another blade as inputs.",
+  "The trained GPs are used to predict the edge frequencies of each blade, and the residuals between the predictions and actual frequencies are used as a damage indicator.",
+  "X-bar control charts are used to analyze the GP residuals, with averages exceeding 3\u03c3 thresholds indicating the blades are no longer in a normal condition.",
+  "The case studies showed the proposed SHM system was able to identify the early onset of blade damage up to 6 months before it was identified and remedied.",
+  "The Gaussian Process approach is more robust to the noisy and nonstationary conditions of operational wind turbines compared to simpler regression methods.",
+  "The use of X-bar control charts with 3\u03c3 thresholds is intended to balance the trade-offs between true and false positives in damage detection.",
+  "The proposed SHM methodology can also be applied to offshore wind turbines, where maintenance access is more challenging and costly.",
+  "The versatility of the Gaussian Process approach means it can learn complex nonlinear relationships between blade frequencies and environmental/operational variables without requiring predetermined functional forms.",
+  "The normalization of the data prior to the application of the machine learning methods is done to avoid numerical instabilities and to avoid disclosing confidential information about blade properties.",
+  "The selection of training data for the Gaussian Processes is done using the first two years of turbine operation, assuming the blades were in a normal condition during this period."
+]
