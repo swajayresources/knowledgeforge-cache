@@ -1,0 +1,17 @@
+[
+  "The blade is modeled as a uniform cantilevered Euler-Bernoulli beam of length 1 m.",
+  "The blade has a thickness of 2.5 mm, width of 4 cm, and is made of a material with Young's modulus of 200 GPa and density of 7870 kg/m^3.",
+  "The damping coefficient of the blade is 0.001 Ns/m.",
+  "The wind force at the height of the main shaft is 0.3 N, and the maximum change in wind force when the blade is at the top position is 0.1 N.",
+  "The natural frequency of the non-rotating blade is 3.0905 rad/s.",
+  "The small parameter used in the multiple scales analysis is \u03b5 = \u03b1^(1/4) \u2248 0.0518, where \u03b11 = 7.1824 \u00d7 10^-6.",
+  "The method of multiple scales is applied up to fourth order for the out-of-plane vibrations and third order for the in-plane vibrations.",
+  "The frequency responses near the third-order (3\u03a9 = \u03c9) and second-order (2\u03a9 = \u03c9) superharmonic resonances are obtained.",
+  "The frequency response obtained using the multiple scales analysis shows good agreement with the results from the harmonic balance method, especially for smaller amplitudes.",
+  "The parametric excitation from gravity is the primary cause of the large amplitude peaks in the superharmonic resonances.",
+  "The blade rotation leads to centrifugal stiffening, which is accounted for in the model.",
+  "The aerodynamic loading is modeled using an expression from the unsteady airfoil theory.",
+  "The in-plane vibrations are influenced by both the external periodic loading from the wind and the parametric excitation from gravity.",
+  "The reduced-order model provides a computationally efficient approach compared to a full finite element model.",
+  "The analysis focuses on the steady-state response of the isolated blade, without considering the coupling between different vibration modes."
+]
