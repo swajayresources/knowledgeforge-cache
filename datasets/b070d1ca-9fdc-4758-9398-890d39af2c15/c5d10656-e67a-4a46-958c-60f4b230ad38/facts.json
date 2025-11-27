@@ -1,0 +1,17 @@
+[
+  "The three-dimensional viscous flow through a planar turbine cascade was numerically simulated by direct solution of the incompressible Navier-Stokes equations.",
+  "The flow dependence in the spanwise direction was represented by direct expansion in Chebyshev polynomials, while the discretization on planes parallel to the endwalls was accomplished using the spectral element method.",
+  "The Reynolds number used in the simulations was 1000, which was chosen to restrict the investigation to a laminar flow regime.",
+  "The cascade blade cross-section had a solidity of 1.0 and a blade aspect ratio of 2.0, based on axial chord.",
+  "The inflow condition consisted of a circumferentially uniform flow at an angle of 45.5 degrees from axial, with an eighth-order polynomial profile representing the incoming endwall boundary layer.",
+  "The computed midspan static pressure distribution agreed qualitatively with Langston's experimental data, except for the presence of a laminar boundary layer separation on the suction surface.",
+  "The simulation captured the formation of a horseshoe vortex at the blade leading edge, the separation of the incoming endwall boundary layer, and the presence of a counter-vortex underneath the horseshoe vortex.",
+  "The static pressure distribution on the endwall showed a characteristic trough associated with the horseshoe vortex system.",
+  "The velocity and vorticity vectors were shown to be orthogonal and proportional near the endwall, demonstrating the accuracy of the computational method.",
+  "The separation of the incoming endwall boundary layer resulted in the presence of high-velocity fluid near the wall behind the separation line, which could lead to increased endwall shear stress and total pressure loss.",
+  "The authors argued that the insights gained from the laminar flow simulation would be applicable to the general high Reynolds number turbulent flow situation, as the generation of secondary flows is a kinematic process with characteristic length scales much larger than those associated with small-scale turbulent motion.",
+  "The goal of the study was to develop a reliable computational tool that could be used to gain an improved understanding of secondary flow and loss generation in turbine cascade endwall regions.",
+  "The spectral element method used in the study offered high-order accuracy, minimal dispersion and dissipation errors, and geometric flexibility, which were essential for a quantitative study of the fundamental phenomena underlying the generation of secondary flow and associated loss in turbine cascades.",
+  "The laminar flow simulation did not capture the effects of small-scale turbulent motion, and the calculated boundary layer parameters and loss levels would not be representative of realistic turbine geometries operating at high Reynolds numbers.",
+  "The authors expected that the insights gained from the laminar flow simulation would be applicable to the general high Reynolds number turbulent flow situation, as the generation of secondary flows is a kinematic process with characteristic length scales much larger than those associated with small-scale turbulent motion."
+]
