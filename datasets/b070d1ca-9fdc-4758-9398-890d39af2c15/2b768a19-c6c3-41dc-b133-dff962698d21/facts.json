@@ -1,0 +1,17 @@
+[
+  "Experiments were conducted at the U.S. Air Force's Turbine Research Facility (TRF), a transient blow-down facility with a full-scale, high-speed, fully-cooled vane and rotor stage.",
+  "Measurements of pressure, temperature, and heat flux were taken at flow conditions matched to actual engine operation.",
+  "The researchers focused on the tip/shroud region of the rotor stage and the high-pressure turbine vane.",
+  "The primary goal was to understand the unsteady flow effects, particularly the high-frequency events associated with the blade passage frequency.",
+  "The researchers used the Popp method to determine the film cooling parameters of heat transfer coefficient and adiabatic effectiveness from the experimental data.",
+  "The angled, fan-shaped coolant holes were designed to provide immediate downstream coverage and width-wise coverage along the airfoil surface.",
+  "Significant unsteady pressure and temperature variations were observed on the vane suction surface and rotor shroud due to the interaction between the vane wake and rotor blades.",
+  "The unsteady effects resulted in noticeable variations in heat flux on both the vane suction surface and the rotor shroud, impacting the film cooling effectiveness.",
+  "The full-scale, high-speed facility allowed the researchers to capture the unsteady effects that are present in actual engine operating conditions.",
+  "Time-resolved data analysis techniques like FFTs and ensemble averaging were used to isolate the unsteady pressure and temperature variations.",
+  "The researchers found that tip flow and vane wake-rotor interaction result in noticeable heat flux variations in time.",
+  "Understanding the unsteady effects on film cooling is crucial for improving engine reliability and durability by mitigating high-cycle fatigue.",
+  "The researchers recommended further investigation into the specific mechanisms driving the unsteady effects and the impact of different film cooling schemes.",
+  "The study was conducted on a full-scale, high-speed, fully-cooled turbine vane and rotor stage of proprietary design.",
+  "Measurements were taken at flow conditions non-dimensionally matched to actual engine operation."
+]
