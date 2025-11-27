@@ -1,0 +1,17 @@
+[
+  "The Weber number describes the amount of kinetic energy needed to overcome the surface tension and create a free-flying droplet with positive momentum.",
+  "According to the literature, Weber numbers above 12 assure the creation and safe break-up of liquid droplets.",
+  "The authors used a PipeJet P9 dispenser, which is based on a piezo stack actuated piston providing a precisely controlled displacement to a 500 micrometer wide liquid filled polyimide tube with an open end (nozzle).",
+  "The PipeJet P9 dispenser can create droplets with adjustable volumes between 15 and 60 nl, by controlling the displacement velocity to adjust the kinetic energy transmitted to the droplet.",
+  "The authors used a high-speed camera to record the droplet formations, break-ups, and free flights, with a frame rate of 10,602 fps for each experiment.",
+  "The authors observed that when the total supplied kinetic energy dropped slightly below the surface energy of the droplet, a droplet break-up could still occur, but the total droplet momentum became negative, causing the droplet to return back into the nozzle.",
+  "The key characteristic of the droplet break-up with negative momentum is that the surface tension begins to slow down the flow velocity inside the droplet, inverting the flow direction and the average momentum of the droplet, while the droplet tail still breaks off from the nozzle due to necking.",
+  "The authors used computational fluid dynamics simulations using the Volume of Fluid method to model the surface tension effects, and their 2D simulations with decreasing flow velocities at the nozzle showed good qualitative agreement with the experimental observations.",
+  "The authors' video on droplet break-up with negative momentum was submitted to the Gallery of Fluid Motion 2012, which is an annual showcase of fluid dynamics videos.",
+  "The authors found that the phenomenon of droplet break-up with negative momentum only occurs for a narrow range of velocities, where the kinetic energy alone is not sufficient to separate the droplet from the bulk fluid.",
+  "The authors' work provides insights into the complex interplay between surface tension, kinetic energy, and momentum during the droplet formation and break-up process.",
+  "The authors' experimental and computational findings demonstrate that droplet break-up with negative momentum can occur at Weber numbers below 8, contrary to the general understanding that Weber numbers above 12 are required for stable droplet formation.",
+  "The authors' research highlights the importance of carefully controlling the balance between kinetic energy and surface energy to observe and understand rare phenomena in fluid dynamics.",
+  "The authors' use of high-speed videography and computational fluid dynamics simulations allowed them to capture and analyze the complex dynamics of droplet break-up with negative momentum.",
+  "The authors' findings contribute to the broader understanding of the factors that govern droplet formation and break-up, which has important applications in fields such as inkjet printing, microfluidics, and spray technology."
+]
