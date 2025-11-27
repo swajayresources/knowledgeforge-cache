@@ -1,0 +1,15 @@
+{
+  "paper_id": "c6303c70-f3b3-44aa-8fd4-bf4876d3685e",
+  "title": "Deep learning for plasma tomography using the bolometer system at JET",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c6303c70-f3b3-44aa-8fd4-bf4876d3685e/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c6303c70-f3b3-44aa-8fd4-bf4876d3685e/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c6303c70-f3b3-44aa-8fd4-bf4876d3685e/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/c6303c70-f3b3-44aa-8fd4-bf4876d3685e/keywords.json"
+  ]
+}
