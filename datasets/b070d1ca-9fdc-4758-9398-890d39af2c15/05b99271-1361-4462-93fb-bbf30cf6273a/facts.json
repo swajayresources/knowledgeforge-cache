@@ -1,0 +1,17 @@
+[
+  "The JET Li-BES system consists of 26 spatial channels along the neutral lithium beam, with a typical energy of ~55 keV.",
+  "The 26 line of sights are not perpendicular to the beam direction, causing Doppler shifts of the lithium beam emission.",
+  "The instrumental function and interference filter curve are modeled using non-parametric Gaussian processes.",
+  "The hyperparameters of the Gaussian processes, such as the overall scale and length scale, are determined by maximizing the evidence.",
+  "The likelihood function accounts for Poisson noise from photon statistics and electronic noise, which are modeled as Gaussian distributions.",
+  "The Bayesian approach allows the intensity of the Li line, Bremsstrahlung background, and instrumental offset to be inferred without the need for separate background measurements through beam modulation.",
+  "The Bayesian approach provides consistent estimates of the uncertainties associated with the extracted Li line intensity.",
+  "The reconstructed spectra from the Bayesian model agree well with the measured spectra.",
+  "For channel 16, the measured spectrum shows an extra peak due to impurity line radiation, which is not captured by the model.",
+  "The Li-BES system is used to infer edge electron density profiles based on the intensity of the Li I (2p-2s) line radiation.",
+  "The intensity profile of the Li line is subsequently used to reconstruct the electron density profile at the plasma edge.",
+  "The Gaussian process representation of the instrumental function and interference filter curve can be applied to improve spectral fitting for other systems.",
+  "The Bayesian approach allows the separation of signal and background without performing a separate background radiation measurement through a beam modulation procedure.",
+  "The usage of Gaussian processes to model instrumental effects can be applied generally to improve spectral fitting for other systems.",
+  "The proposed Bayesian modeling approach makes it possible to extract the intensity of the Li line without doing a separate background subtraction through modulation of the Li beam."
+]
