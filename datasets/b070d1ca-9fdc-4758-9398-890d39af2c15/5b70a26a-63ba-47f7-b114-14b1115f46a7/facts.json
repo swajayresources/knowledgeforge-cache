@@ -1,0 +1,17 @@
+[
+  "The Aerosense measurement system uses low-cost, low-power MEMS sensors to measure local pressures, blade motions, and inflow conditions on wind turbine blades.",
+  "The system is composed of sensor nodes installed on the blades, a base station that collects and transmits the data, and a digital twin system for data processing and analysis.",
+  "The sensor nodes include 40 absolute pressure sensors, 5 differential pressure sensors, and a 9-axis inertial measurement unit.",
+  "Careful calibration of the absolute pressure sensors can achieve an accuracy of 1% of the full-scale pressure range.",
+  "Corrections are required to account for atmospheric pressure variations, hydrostatic pressure changes due to blade rotation, and potential influence of centrifugal acceleration.",
+  "The measurements on the 7kW wind turbine showed significant variations in the pressure distribution during a single blade rotation, even under stable wind conditions.",
+  "The Aerosense system uses a hybrid method based on inviscid flow theory to infer the local angle of attack and wind speed without requiring a reference pressure measurement.",
+  "Photogrammetry is used to precisely measure the 3D shape of the blade section and the positions of the pressure sensors.",
+  "The Aerosense system is designed to be easy to install, non-intrusive, and cost-effective compared to previous field measurement systems for wind turbine blades.",
+  "The atmospheric pressure is about 50 times higher than the dynamic pressure on a 5MW wind turbine, while the hydrostatic pressure variation is about 40% of the dynamic pressure.",
+  "The pressure drift of the barometers is about 5% of the dynamic pressure on a 5MW wind turbine.",
+  "The Aerosense system can measure pressure fluctuations at up to 500 points during one rotation of a larger multi-megawatt wind turbine blade.",
+  "The differential pressure sensors in the Aerosense system have a sampling rate of 1.2 kHz to capture the dynamics of the turbulent inflow conditions.",
+  "The Aerosense system is designed to monitor not only the aerodynamic performance but also the structural health of the wind turbine blades.",
+  "Previous field measurement campaigns on wind turbine blades have been limited by the complexity and cost of embedding sensors and wiring inside the blades."
+]
