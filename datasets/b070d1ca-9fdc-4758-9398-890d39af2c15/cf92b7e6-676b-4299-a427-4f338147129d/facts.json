@@ -1,0 +1,17 @@
+[
+  "The TACT1 program was developed at the NASA Lewis Research Center.",
+  "The program consists of approximately 6200 lines of FORTRAN IV code and requires about 60,000 words of storage.",
+  "The program can handle a turbine blade or vane equipped with a central coolant-plenum insert from which coolant air flows through holes to impinge on the inner surface of the blade shell.",
+  "The spent impingement air is assumed to flow chordwise and be discharged through a split or drilled trailing edge and through film-cooling holes.",
+  "The program does not allow for radial flow of the spent impingement air.",
+  "The program uses finite-difference equations to model the transient energy and momentum balances in the blade and coolant channels.",
+  "The program includes built-in heat-transfer correlations for impingement cooling, forced-convection channel flow, and forced convection over pin fins.",
+  "The program can handle a blade with a ceramic thermal-barrier coating over a metallic substrate.",
+  "The program can adjust either the coolant-supply pressure or the coolant-inlet flow rate in the outermost iteration loop to achieve an overall coolant mass balance.",
+  "The program can produce plots of temperature and pressure distributions along the blade surface using a TSS/360 graphics package.",
+  "The program can handle time-dependent hot-gas boundary conditions, with multiple sets of boundary condition data specified at different times.",
+  "The program can handle mixed radial-axial flow of the hot gas stream, allowing the chordwise cutting planes to be at non-constant radii.",
+  "The program can handle a limited capability for film cooling, with the user specifying either the wall heat-transfer coefficient or an effectiveness correlation.",
+  "The program uses a specific correlation for impingement into a concave surface at the leading-edge stagnation point.",
+  "The program includes a table of air properties as a function of temperature at 20 atmospheres pressure."
+]
