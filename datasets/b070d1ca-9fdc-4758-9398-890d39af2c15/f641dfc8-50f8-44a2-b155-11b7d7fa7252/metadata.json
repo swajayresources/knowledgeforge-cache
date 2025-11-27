@@ -1,0 +1,15 @@
+{
+  "paper_id": "f641dfc8-50f8-44a2-b155-11b7d7fa7252",
+  "title": "Objectives and scope",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f641dfc8-50f8-44a2-b155-11b7d7fa7252/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f641dfc8-50f8-44a2-b155-11b7d7fa7252/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f641dfc8-50f8-44a2-b155-11b7d7fa7252/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f641dfc8-50f8-44a2-b155-11b7d7fa7252/keywords.json"
+  ]
+}
