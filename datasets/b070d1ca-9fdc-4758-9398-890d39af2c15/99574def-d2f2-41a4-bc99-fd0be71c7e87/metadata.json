@@ -1,0 +1,15 @@
+{
+  "paper_id": "99574def-d2f2-41a4-bc99-fd0be71c7e87",
+  "title": "Data-driven aerodynamic shape design with distributionally robust optimization approaches",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/99574def-d2f2-41a4-bc99-fd0be71c7e87/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/99574def-d2f2-41a4-bc99-fd0be71c7e87/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/99574def-d2f2-41a4-bc99-fd0be71c7e87/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/99574def-d2f2-41a4-bc99-fd0be71c7e87/keywords.json"
+  ]
+}
