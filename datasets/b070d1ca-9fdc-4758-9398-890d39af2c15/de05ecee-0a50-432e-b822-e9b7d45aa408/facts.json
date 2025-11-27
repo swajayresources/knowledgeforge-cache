@@ -1,0 +1,17 @@
+[
+  "GRCop-84 is a high conductivity, high strength copper alloy developed by NASA Glenn for use in high temperature, high heat flux applications such as rocket motor combustion chamber liners and nozzle ramps.",
+  "Metallic coatings like NiCrAlY and Cu-8-30%Cr have shown promise in improving the performance of GRCop-84 by prohibiting blanching, reducing 'dog-house' failures, increasing operating temperatures, and decreasing cooling requirements.",
+  "Microsample specimens were prepared from extruded, 40 mil cross-rolled, and 20 mil cross-rolled GRCop-84 using wire EDM, lapping, and plunge EDM with graphite electrodes.",
+  "The microsample tensile tests showed 12-14% strain to failure, in good agreement with NASA's macroscale results, and revealed the expected trends of increased strength and decreased ductility with increased cold/warm work from rolling.",
+  "JHU will test microsample specimens of plasma sprayed Cu-26Cr and NiCrAlY coatings in both as-deposited and thermally cycled conditions, measuring RT and 600\u00b0C tensile properties.",
+  "Bond strength tests will be conducted with the GRCop-84/coating interface oriented perpendicular and at 45\u00b0 to the tensile axis for different surface conditions and thermal cycling states.",
+  "JHU can conduct elevated temperature (600\u00b0C) microsample tensile and creep tests by resistively heating the specimens, using a two-color infrared pyrometer to measure the temperature with 1\u00b0C resolution and verifying temperature gradients less than 5\u00b0C.",
+  "NASA has provided plasma sprayed monolithic coatings of Cu-8Cr, Cu-26Cr, NiCrAlY and NiAl, as well as overlay coatings of NiCrAlY and Cu-XCr (X=8-56) on GRCop-84 substrates for JHU to test.",
+  "The microsample testing approach allows measurement of highly scale-specific properties that complement conventional macroscale testing, providing critical data for modeling and optimization of the coating-substrate system.",
+  "In addition to tensile and stress relaxation tests on the coatings, JHU will conduct out-of-plane bond strength tests with the GRCop-84/coating interface oriented perpendicular and at 45\u00b0 to the tensile axis.",
+  "The microsample testing has been successfully used by JHU to characterize a wide range of materials at small scales, including thin films, coatings, and microstructural features.",
+  "The integration of microsample testing with detailed microstructural observations provides a mechanistic foundation for coating optimization and life prediction modeling.",
+  "The overall objective is to elucidate and model the thermal stability and mechanical integrity of candidate coatings for the GRCop-84 copper alloy, which has potential applications in high temperature, high heat flux components of reusable launch vehicles.",
+  "The key tasks include NASA depositing candidate coatings, JHU conducting microsample testing and microstructural characterization, and incorporating the data into FE-based life cycle models.",
+  "The microsample tensile and stress relaxation tests will allow JHU to measure the small-scale, highly specific properties of the as-deposited and thermally cycled coatings."
+]
