@@ -1,0 +1,1 @@
+This paper proposes a novel structural health monitoring (SHM) methodology for wind turbine blades using Gaussian Processes (GPs) to predict the first edgewise frequencies of the blades and detect early onset of damage by analyzing the residuals between predicted and actual frequencies.
