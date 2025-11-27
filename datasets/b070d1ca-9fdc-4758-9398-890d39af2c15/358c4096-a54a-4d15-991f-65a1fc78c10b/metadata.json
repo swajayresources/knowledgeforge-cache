@@ -1,0 +1,15 @@
+{
+  "paper_id": "358c4096-a54a-4d15-991f-65a1fc78c10b",
+  "title": "A Novel Approach for Defect Detection of Wind Turbine Blade Using Virtual Reality and Deep Learning",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/358c4096-a54a-4d15-991f-65a1fc78c10b/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/358c4096-a54a-4d15-991f-65a1fc78c10b/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/358c4096-a54a-4d15-991f-65a1fc78c10b/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/358c4096-a54a-4d15-991f-65a1fc78c10b/keywords.json"
+  ]
+}
