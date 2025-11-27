@@ -1,0 +1,17 @@
+[
+  "The study is conducted using computational fluid dynamics (CFD) and the Taguchi optimization technique.",
+  "The airfoils are tested at angles of attack ranging from 0 to 15 degrees, with a 2.5-degree interval.",
+  "The RAE 2822 airfoil has the best lift-to-drag ratio among the three airfoils studied.",
+  "The coolant mass flow rate is varied from 0.01 to 0.03 kg/s, and the gas inlet temperature is varied from 60 to 180\u00b0C.",
+  "The optimum combination of coolant mass flow rate and gas inlet temperature is found to be 0.03 kg/s and 60\u00b0C, respectively.",
+  "The RAE 2822 vane is subjected to a centrifugal force of 5100 RPM to evaluate its structural stability.",
+  "The maximum stress experienced by the RAE 2822 vane under the centrifugal force is 3.996 x 10^8 N/m^2.",
+  "The maximum strain experienced by the RAE 2822 vane under the centrifugal force is 4.015 x 10^-3.",
+  "The vane material is ZAMAK, and it is coated with a 0.1 mm layer of zirconia.",
+  "The turbulence intensity considered in the study is 2%.",
+  "The study aims to optimize the gas turbine vane design for improved performance and structural stability.",
+  "The use of CFD and Taguchi optimization techniques allows for the evaluation of various design parameters and their effects on the vane's performance.",
+  "The study provides insights into the importance of impingement cooling and material selection in gas turbine vane design.",
+  "The findings of this study can be used to inform the design and development of more efficient and reliable gas turbine systems.",
+  "The paper highlights the potential of computational methods, such as CFD, in the optimization of complex engineering systems like gas turbines."
+]
