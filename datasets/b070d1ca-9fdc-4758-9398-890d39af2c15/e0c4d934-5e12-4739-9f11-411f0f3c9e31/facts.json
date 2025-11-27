@@ -1,0 +1,17 @@
+[
+  "The study was conducted at the Eolos Wind Energy Research Station at the University of Minnesota, which consists of a 2.5 MW wind turbine and a 130 m meteorological tower.",
+  "The selected one-hour dataset had a mean wind speed of 7.8 m/s at hub height and a turbulence intensity ranging from 13% at the bottom tip to 5% at the top tip of the rotor.",
+  "The atmospheric conditions during the selected period were stable, with a Bulk Richardson number of 0.026 and a Monin-Obukhov length of 81.60 m.",
+  "The blade sensor system consisted of 10 fiber-optic strain gauges installed at different radial positions along each blade, with four strain gauges at the blade root cross-section.",
+  "The spectral analysis of the blade root bending moments revealed three distinct frequency ranges: a lower frequency range corresponding to the modulations due to large eddies, an intermediate frequency range with a decay in the form of \u03a6 = G(f)\u03a6_U, and a higher frequency range dominated by the rotation effect.",
+  "The flapwise blade root bending moment exhibited a strong energy peak at the turbine rotor frequency (1P), in contrast to the tower yaw moment which peaked at the blade passing frequency (3P).",
+  "The edgewise bending moment was less influenced by the change of turbine structural configuration (i.e., the change of blade positions with respect to the turbine tower) compared to the flapwise bending moment.",
+  "The high-pressure and low-pressure surfaces of the blade root cross-section exhibited similar spectral characteristics in the lower and intermediate frequency ranges, while the leading-edge and trailing-edge regions were much less responsive.",
+  "The magnitude of the high-pressure strain power spectrum increased outward from the blade root, likely due to the increased elasticity at the outer positions.",
+  "The fluctuations in both the flapwise and edgewise bending moments were higher at certain azimuth angle positions, suggesting a higher possibility of structural failure at those positions.",
+  "Previous numerical studies on this topic often involved simplifications and lacked validation from field experiments due to the unavailability of well-equipped utility-scale test facilities.",
+  "This study provides the first field characterization of the influence of turbulent inflow on the blade structural response of a utility-scale wind turbine, offering a systematic investigation of the blade structural response at different blade sections and azimuthal angle positions.",
+  "The findings from this study can provide insights into the development of advanced control strategies or blade design to mitigate the structural impact and increase blade longevity for the safer and more efficient operation of large-scale wind turbines.",
+  "The study leveraged the unique facilities available at the Eolos Wind Energy Research Station, which has a 9-year database of turbine operation, turbine structural response, turbulent inflow, and other local meteorological parameters.",
+  "The researchers applied a series of restrictions on the inflow condition, turbine operational condition, and data quality to identify a one-hour dataset with stable atmospheric conditions and good data availability for the analysis."
+]
