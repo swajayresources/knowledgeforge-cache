@@ -1,0 +1,17 @@
+[
+  "The production of synthetic crystals was pioneered in the late 19th century, with the first synthetic rubies produced by E. Fremy in 1877.",
+  "Over 95% of high-quality (semiconductor grade) silicon single crystals and about 45% of lower-quality (solar grade) crystals are produced by the Czochralski method.",
+  "Bulk GaN, AlN, and AlGaN crystals remain difficult to grow, with no bulk InN crystals produced to date due to the thermal instability of III-nitrides.",
+  "Ammonothermal and alkali metal flux methods have been developed to grow III-nitride crystals at lower temperatures and pressures compared to high-nitrogen pressure solution growth.",
+  "Sapphire and SiC are the best available substrates for III-nitride epitaxial growth, but still have significant lattice and thermal expansion mismatches.",
+  "The Czochralski growth of silicon crystals with diameters above 40 mm exhibits turbulent melt flow, which is challenging to model accurately using traditional RANS turbulence models.",
+  "Direct numerical simulation (DNS) of the Czochralski process is computationally prohibitive for industrial-scale crystals due to the large Reynolds numbers involved.",
+  "The high Schmidt number (Sc \u2248 10) for oxygen in molten silicon requires very fine computational grids to accurately resolve the oxygen transport.",
+  "Modeling of crystal growth processes requires the coupled solution of heat transfer by conduction, convection, and radiation, as well as mass transfer, electromagnetic effects, and crystal quality assessment.",
+  "Verification of crystal growth models is essential and involves both code verification (correct implementation) and model validation (agreement with experimental data).",
+  "Crystal growth modeling is used not only for fundamental research, but also for real-time process control and optimization of growth conditions and equipment design.",
+  "The scale-up of crystal growth equipment is challenging due to the nonlinear nature of the underlying heat and mass transfer processes.",
+  "Solvothermal methods like the ammonothermal process can compensate for the low growth rates by simultaneously growing multiple crystals (over 100 for ZnO, over 2000 for quartz).",
+  "Sublimation growth is used for SiC and AlN crystals, but is less successful for GaN due to the much higher equilibrium nitrogen pressure over the GaN surface.",
+  "Modeling of crystal growth processes often involves a global (furnace-scale) and a local (hot zone) problem, with the solutions coupled through boundary conditions."
+]
