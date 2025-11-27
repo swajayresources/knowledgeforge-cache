@@ -1,0 +1,17 @@
+[
+  "The research object is an 8-stage axial flow compressor.",
+  "The compressor inlet conditions are standard atmospheric pressure (101,325 Pa) and temperature (288\u00b0C).",
+  "The original compressor backpressure is 600,000 Pa.",
+  "The CGNS (CFD General Notation System) standard format is used to extract the 3D numerical simulation data.",
+  "The S2 flow path design parameters and 3D simulation results are compared at the inlet and outlet of each compressor stage.",
+  "After iterative design optimization, the design adiabatic efficiency increased by 0.5% and the surge margin increased by over 5%.",
+  "The relative Mach number at the blade tip of the first stage rotor was found to be supersonic, indicating a need for more accurate subsonic aerodynamic design.",
+  "The first and last stages of the compressor were identified as needing the most improvement.",
+  "The CGNS data extraction method allows for more complete and accurate extraction of 3D simulation data compared to other techniques.",
+  "The iterative process of comparing S2 design and 3D simulation results, and then modifying the blade design accordingly, is an important procedure for improving axial flow compressor performance.",
+  "The authors developed a program to automate the extraction of CGNS format data for multi-stage axial compressors.",
+  "Central difference format is used for spatial discretization in the 3D numerical simulations.",
+  "The 3D simulations use the S-A turbulence model and a fourth-order Runge-Kutta method for time integration.",
+  "There are 61 stations for the S2 flow path design, 17 for radial clearance, and 49 for stationary blades.",
+  "The 3D numerical simulations are performed using the NUMECA Fine Turbo software."
+]
