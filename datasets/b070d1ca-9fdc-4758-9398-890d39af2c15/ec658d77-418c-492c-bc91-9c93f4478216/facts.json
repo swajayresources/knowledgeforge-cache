@@ -1,0 +1,17 @@
+[
+  "Bourdelle2, Y",
+  "Camenen3, F",
+  "van de Plassche1, H",
+  "Weisen5, and JET Contributors* 1DIFFER \u2013 Dutch Institute for Fundamental Energy Research, De Zaale 20, 5612 AJ Eindhoven, the Netherlands 2CEA, IRFM, F-13108 Saint Paul Lez Durance, France 3Aix-Marseille University, CNRS, PIIM, UMR 7345, 13013 Marseille, France 4CCFE, Culham Science Centre, Abingdon, Oxon, OX14 3DB, United Kingdom of Great Britain and Northern Ireland 5Ecole Polytechnique F\u00b4ed\u00b4erale de Lausanne (EPFL), Swiss Plasma Center (SPC), CH-1015 Lausanne, Switzerland *See the author list of E",
+  "Fusion 59 112021 \u2020Corresponding author: a",
+  "Anevaluationofall bottleneck limiting their routine use outside of post- 25 NN output quantities at one radial location takes discharge analysis",
+  "Neural network (NN) surrogates 0",
+  "1ms,104 timesfasterthantheoriginalQuaLiKiz \u223c have been used to accelerate these calculations while model",
+  "This paper extends a previous NN model, 15D resulted in a speed increase of only 60\u2013100 as known as QLKNN-hyper-10D, by incorporating the other physics modules outside of turbulent transport impact of impurities, plasma rotation and magnetic become the bottleneck",
+  "Thisisachievedbyaddingalight impurityfractionaldensity(n /n )anditsnor- imp,light e malized gradient, the normalized pressure gradient 1 Introduction (\u03b1), the toroidal Mach number (M ) and the nor- tor malized toroidal flow velocity gradient",
+  "15D, show good agreement with the original Qua- These tools open new exploratory options to address LiKizmodel,bothbycomparingindividualtransport current issues in fusion plasma analysis and opera- quantity predictions as well as comparing its impact tion [1\u20135]",
+  "The profile- (NNs) [6] as fast surrogate models has already been averaged RMS of the integrated modelling simula- applied to plasma microturbulent transport calcula- tionsis<10%foreachofthe5scenariostested",
+  "This tions [7, 8]",
+  "These NN implementations improve the is non-trivial given the potential numerical instabil- applicability of nuanced physics-based calculations 1 1202 yaM 3 ]hp-msalp",
+  "scisyhp[ 1v86110"
+]
