@@ -1,0 +1,17 @@
+[
+  "The experimental apparatus was designed and developed at the MIT Gas Turbine Laboratory.",
+  "The blade model simulates the leading edge geometry of a real turbine blade and rotates in a vacuum chamber.",
+  "The local heat transfer coefficients are determined from the measured electrical input power and the skin temperature distribution.",
+  "The flows in the supply and impingement regions are both modeled as steady state channel flows, using friction and heat transfer coefficients.",
+  "The maximum difference between the Nusselt numbers calculated using the local fluid temperature versus the inlet coolant temperature is 17 percent.",
+  "Rotation reduces the mean Nusselt numbers by about 30 percent compared to the non-rotating impingement results of Chupp.",
+  "The heat transfer rate is lower at 0 degrees stagger angle by approximately 30% compared to the 30 degree stagger angle.",
+  "As the average jet Reynolds number varies from 17,000 to 74,000, the heat transfer rate increases by about a factor of 3.",
+  "The temperature ratio between the average skin temperature and the coolant temperature has almost no effect on the Nusselt number.",
+  "The modeling reveals important radial variations in the Nusselt number distributions due to rotation.",
+  "The effects of stagger angle on the thermal gradients between the impingement jets are significant.",
+  "The channel flow modeling approach is validated by comparing the calculated Nusselt numbers to correlations from other investigators.",
+  "The modeling and analysis offer a means for more accurate prediction of impingement cooling heat transfer rates.",
+  "The experimental apparatus includes a vacuum chamber to reduce heat transfer by convection and eliminate any absorbing medium.",
+  "The local heat transfer coefficients are determined from the measured electrical input power and skin temperature distribution."
+]
