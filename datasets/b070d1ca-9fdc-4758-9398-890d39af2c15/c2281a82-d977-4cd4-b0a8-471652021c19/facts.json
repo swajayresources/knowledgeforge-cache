@@ -1,0 +1,17 @@
+[
+  "A computational study was performed to predict the distribution of convective heat transfer coefficient and cooling effectiveness on a simulated turbine blade tip with cooling holes.",
+  "The study used a three-dimensional Reynolds-averaged Navier-Stokes solver and compared the results to experimental data from Kim and Metzger.",
+  "The agreement of the computed cooling effectiveness with the experimental data was quite good.",
+  "The agreement with the heat transfer coefficient was not as good as the effectiveness, but improved away from the cooling holes.",
+  "Numerical flow visualization showed that the uniformity of wetting of the surface by the film cooling jet is helped by the reverse flow due to edge separation of the main flow.",
+  "The simulations used the k-\u03c9 turbulence model developed by Wilcox with modifications by Menter.",
+  "The heat transfer coefficient required higher grid resolution than the cooling effectiveness, with a large variation in the heat transfer coefficient with grid density near the cooling holes.",
+  "The study considered a Reynolds number of 45,000 and blowing parameters of 0 and 0.3.",
+  "The three-temperature problem (main flow, film, and wall temperatures) was solved by setting up two cases with differing wall temperatures and solving for the heat transfer coefficient and cooling effectiveness, then repeating the process with a third case to ensure consistency.",
+  "The flow near the cooling holes, still under the influence of the tip clearance entrance effect, was quite complex and nonuniform, leading to the need for higher grid resolution to accurately predict the heat transfer coefficient in that region.",
+  "The uniformity of wetting of the surface by the film cooling jet is helped by the reverse flow due to edge separation of the main flow.",
+  "The agreement of the computed cooling effectiveness with the experimental data was quite good, while the agreement with the heat transfer coefficient improved away from the cooling holes.",
+  "The study used a three-dimensional Reynolds-averaged Navier-Stokes solver to predict the heat transfer and cooling effectiveness on a simulated turbine blade tip with cooling holes.",
+  "The simulations used the k-\u03c9 turbulence model with modifications by Menter.",
+  "The study considered a Reynolds number of 45,000 and blowing parameters of 0 and 0.3."
+]
