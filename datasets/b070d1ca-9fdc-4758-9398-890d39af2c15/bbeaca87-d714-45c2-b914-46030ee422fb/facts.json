@@ -1,0 +1,17 @@
+[
+  "Viscous fingering is a well-known hydrodynamic instability that sets in when a less viscous fluid displaces a more viscous fluid.",
+  "The mathematical model used in this study comprises the advection-dispersion equation, Darcy's law, and the divergence-free velocity condition.",
+  "The simulation used a viscosity ratio of 33 and a P\u00e9clet number of 10,000.",
+  "The less viscous fluid tries to move faster than the more viscous fluid due to its higher mobility, leading to the formation of viscous fingers.",
+  "The tips of the fingers split and smaller fingers emerge, leading to further stretching of the interface and higher mixing rate across the interface.",
+  "Nonlinear mechanisms observed include shielding of one finger by another, merging of fingers, fading of fingers, and channeling of a dominant finger.",
+  "Viscous fingering leads to two competing effects: it enhances mixing by increasing interfacial area, but it also causes channeling of the low viscosity fluid, reducing overall mixing efficiency.",
+  "The authors developed a two-equation dynamic model for the evolution of concentration variance and mean scalar dissipation rate to quantify the degree of mixing.",
+  "The authors used their analysis to predict the range of viscosity contrast that maximizes mixing, though the specific range is not provided.",
+  "The computational strategy used in this study is stable for arbitrary viscosity ratios.",
+  "Periodic boundary conditions were applied in the transverse direction, and the right edge was a natural flow boundary.",
+  "The fluid dynamics video was created from snapshots of the concentration field at successive time steps in the high-resolution numerical simulation.",
+  "The displacement is from left to right, with fresh less viscous fluid entering the domain continuously from the left boundary.",
+  "Intermediate colors in the simulation denote a mixture of the two pure fluids, with an exponential viscosity-concentration relationship.",
+  "The reference frame in the simulation is moving with the average speed of the flow."
+]
