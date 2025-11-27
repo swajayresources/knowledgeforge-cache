@@ -1,0 +1,15 @@
+{
+  "paper_id": "5e9b671a-b2d6-4a5a-8d9e-4714f240a1b2",
+  "title": "Turbofan engine performance optimization based on aircraft cruise thrust level",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5e9b671a-b2d6-4a5a-8d9e-4714f240a1b2/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5e9b671a-b2d6-4a5a-8d9e-4714f240a1b2/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5e9b671a-b2d6-4a5a-8d9e-4714f240a1b2/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/5e9b671a-b2d6-4a5a-8d9e-4714f240a1b2/keywords.json"
+  ]
+}
