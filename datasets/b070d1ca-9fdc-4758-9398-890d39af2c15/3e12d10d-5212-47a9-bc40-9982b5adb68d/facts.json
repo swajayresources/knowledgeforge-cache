@@ -1,0 +1,17 @@
+[
+  "The manufacturing cost of composite blades is about 15-20% of the total wind turbine production cost.",
+  "The air density \u03c1 is taken as 1.29 kg/m^3 and the pressure coefficient Cp is taken as 2.0 in the wind load calculations.",
+  "The maximum internal stress in the composite blades is found to be 718 MPa from the finite element analysis.",
+  "The ultimate stress of the composite material is 1548 MPa.",
+  "The fatigue life cycles N are calculated using the S-N curve model parameters a = 1.816, b = 8.097, and m = 1.",
+  "The gamma process has independent, non-negative gamma distributed increments with a monotonically increasing shape parameter v(t) over time.",
+  "The scale parameter u of the gamma process is estimated using statistical methods like maximum likelihood or method of moments.",
+  "The fatigue damage reaches nearly 50% within the first 2 years, then increases slowly until around 90% damage, after which it rises rapidly to failure.",
+  "At the critical fatigue damage levels of 70%, 80%, 90%, and 95%, the failure probability reaches around 90% at the corresponding time points.",
+  "Proper maintenance is critical to reduce the risk of structural failure and extend the service life of the composite blades.",
+  "The stochastic fatigue damage model based on the gamma process can provide reliable results for time-dependent reliability analysis of composite blades.",
+  "The proposed methodology can assist in optimizing inspection and maintenance strategies for offshore wind turbine composite blades.",
+  "The finite element model includes three main components: rotor, skin, and shear web, with the shear web helping resist bending.",
+  "The fatigue damage evolution in composites involves matrix cracking, fiber breaking, and delamination leading to rapid fracture.",
+  "Stiffness degradation fatigue models can predict damage in the initial and middle stages, but not the whole fatigue life."
+]
