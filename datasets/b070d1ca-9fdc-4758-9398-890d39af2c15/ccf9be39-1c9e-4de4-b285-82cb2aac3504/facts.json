@@ -1,0 +1,17 @@
+[
+  "Automatic Design Optimisation of a Transonic Compressor Rotor for Improving Aeroacoustic and Aerodynamic Performance LongWu\u2217 ResearchFellow Email: longwu777@gmail",
+  "uk InstituteofSoundandVibrationResearch UniversityofSouthampton Southampton,SO171BJ,UnitedKingdom ShahrokhShahpar Rolls-RoyceEngineeringFellow\u2013AerothermalDesignSystem Email: Shahrokh",
+  "Derby,DE248BJ,UnitedKingdom Multidisciplinary design optimisation of transonic rotors, 1 Introduction especially focusing on improving the aeroacoustic perfor- On the route to environmentally friendly and climate mance, hasreceivedlittleattention",
+  "of NASA rotor 37",
+  "and propagates upstream helically along the engine duct in WU,TURBO-21-1084 1 Copyright \u00a9 2022byRolls-Royceplc the stationary frame of reference",
+  "However, acousticmodesoflower-ordercircumferen- tialFourierharmonicsoftheflowfieldcanescapeoutofthe engineductandradiatetothefar-field,duetotheircut-onna- tureatsupersonicrelativespeeds[1]",
+  "Foranideal rotor of identical blades in a circumferentially uniform in- coming flow, only EO tones at the blade passing frequency (BPF)anditsharmonicswouldbeproduced[1,2]",
+  "1: Computationaldomainandboundaryconditions ing and installation, an irregular circumferential pattern, of whichacompleterepetitionoccursonceperrotorrevolution, isassembledbytheshockandexpansionwavesarisingfrom lownoisegeometry",
+  "Asaresult,manymoreEOtonesatmultiplesof reducethenoisecostfunction,withtheaerodynamicandme- the shaft rotation frequency are observed, which are gener- chanicalpropertiestreatedasconstraints,wasperformedon allyreferredasmultiplepuretonesorbuzz-sawnoise[3]",
+  "a5-parameterdesignspace,whichwasspecifiedtoonlyper- At the same time, it is known that for transonic rotors turbthechordwiseleading-edgesweepoftheupperportion thehighpressureriseismainlyachievedbythestrongcom- of the fan blade",
+  "anisms in transonic rotors [4]",
+  "rangemulti-objectivegeneticalgorithm(ARMOGA)[6,17] Driven by the requirement to reduce the time cost for is used to generate the Pareto front for the aeroacoustic- thedesigncycle,automaticmultidisciplinarydesignoptimi- aerodynamictrade-offsanalysis",
+  "Aset 2 CaseDescriptionandNumericalFramework ofoptimalcompromisesbetweencompetingobjectivesfrom 2",
+  "1 CaseConfiguration different disciplines, i",
+  ", the Pareto front, is often desired The case used in the present study is NASA rotor 37, for an MDO problem rather than a single solution because which has been extensively used for turbomachinery CFD theParetofrontcanprovidemoreinformationandchoicesto validations [18\u201320]"
+]
