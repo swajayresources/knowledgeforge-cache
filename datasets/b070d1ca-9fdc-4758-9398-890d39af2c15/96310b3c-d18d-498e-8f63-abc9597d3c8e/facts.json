@@ -1,0 +1,17 @@
+[
+  "A total of 4,768 resonances were detected in 479 plasma discharges during the 2019-2020 JET deuterium campaign.",
+  "The resonant frequencies spanned the range f0 \u2248 30-250 kHz, the damping rates were -\u03b3/\u03c90 \u2248 0-13%, and the toroidal mode numbers were |n| \u2264 30.",
+  "The recently upgraded AEAD system allowed probing of high toroidal mode numbers up to |n| \u2264 20, a significant improvement over the previous |n| \u2264 2 capability.",
+  "The probability of resonance detection decreased with increasing plasma current and external heating power.",
+  "The normalized damping rate increased with edge safety factor but decreased with external heating.",
+  "The measured resonant frequencies showed good agreement with the estimated Toroidal Alfv\u00e9n Eigenmode (TAE) frequencies, with the histogram peaking at a ratio of f0/fTAE = 1.2.",
+  "A correction was applied to the measured damping rates to account for the effects of time-varying antenna and resonant frequencies.",
+  "The 5th to 95th percentile ranges of plasma parameters were: Ip = 1.0-3.0 MA, B0 = 1.7-3.3 T, and ne0 = 2.5-7.5 \u00d7 10^19 m^-3.",
+  "The number of resonances detected increased with frequency, with most having f0 \u2265 200 kHz, a typical range for TAEs in JET.",
+  "The toroidal mode numbers were estimated using two complementary methods: a weighted chi-square calculation using probe phase information, and the SparSpec algorithm which decomposes both probe amplitude and phase data.",
+  "The measured resonant frequencies were generally higher than the estimated TAE frequencies calculated by the MISHKA code, likely due to uncertainties in the safety factor profile.",
+  "The predominance of n = 0 mode number estimates could indicate the presence of Global Alfv\u00e9n Eigenmodes, in addition to potential superposition of modes and limitations in the mode number resolution.",
+  "The absolute difference between the applied antenna and estimated resonance mode numbers showed a peak at zero, confirming the successful operation of the AEAD system.",
+  "The database included resonances measured in both limiter and X-point magnetic configurations, with approximately 17% and 83% of the total, respectively.",
+  "The results from this study provide key information to prepare future experimental campaigns and better understand the physics of Alfv\u00e9n Eigenmode excitation and damping in the presence of alpha particles."
+]
