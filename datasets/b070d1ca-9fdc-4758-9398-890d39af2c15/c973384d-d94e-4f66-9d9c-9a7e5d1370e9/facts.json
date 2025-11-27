@@ -1,0 +1,17 @@
+[
+  "The compressor was designed and fabricated under a NASA contract with 2/3 funding from NASA and 1/3 from UTRC.",
+  "The design target was to increase efficiency at higher work factor while reducing the maximum diameter of the stage.",
+  "The compressor achieved a pressure ratio of 4.68, work factor of 0.81, and design exit corrected flow rate of 3 lbm/s.",
+  "The measured polytropic efficiency was 85.5% and the stall margin was 7.5% at the design flow rate and speed.",
+  "The measured efficiency and stall margin were lower than pre-test CFD predictions by 2.4 percentage points and 4.5 percentage points, respectively.",
+  "The impeller had a 30\u00b0 backsweep and featured 3D aero concepts to improve efficiency.",
+  "The diffuser design explored different topologies and splitter vane placements to optimize the impeller-diffuser interaction.",
+  "Detailed structural analyses were conducted on the impeller, shroud, diffuser, and exit guide vanes to ensure structural integrity.",
+  "Post-test analyses identified unsteady impeller-diffuser interactions, flow-rate mismatch, and flow separation in the radial-to-axial bend as the key reasons for the lower-than-predicted performance.",
+  "The authors recommended redesigning the diffuser and radial-to-axial bend to address the identified issues.",
+  "The authors identified limitations in the implementation of turbulence models and the need for longer integration times in unsteady CFD simulations.",
+  "The authors proposed testing the impeller with a vaneless diffuser to better understand the impeller-diffuser interactions.",
+  "The compressor was designed to fit within the existing Small Engine Components Test Facility at NASA Glenn Research Center.",
+  "The fabrication process encountered some challenges, including issues with the impeller that were resolved.",
+  "The compressor was successfully installed and tested at the NASA Glenn Research Center facility."
+]
