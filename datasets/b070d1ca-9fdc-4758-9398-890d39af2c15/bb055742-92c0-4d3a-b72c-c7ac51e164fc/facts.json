@@ -1,0 +1,12 @@
+[
+  "The author provides a critical analysis of six research papers published by M.A. El-Hakiem and his co-workers.",
+  "The papers were published in International Communications in Heat and Mass Transfer, Journal of Magnetism and Magnetic Materials, and Heat and Mass Transfer.",
+  "The papers cover topics related to magnetohydrodynamic free convection flow, heat and mass transfer in micropolar and non-Newtonian fluids, and the effects of Joule heating, viscous dissipation, thermal radiation, and lateral mass transfer.",
+  "The author identifies that many of the velocity and temperature profiles presented in the six papers do not asymptotically approach the ambient fluid conditions, as expected in boundary layer theory.",
+  "Instead, the profiles intersect the line representing the boundary conditions, which is incorrect.",
+  "The author suggests that the incorrect profiles are likely due to the use of a small calculation domain, which resulted in the profiles being truncated.",
+  "The author provides schematic diagrams to illustrate the correct and incorrect profile shapes.",
+  "The incorrect profiles are found in the following papers and figures: 1) First paper: All profiles in Figure 1; 2) Second paper: All profiles in Figures 1 and 4; 3) Third paper: All profiles in Figures 7 and 10; 4) Fourth paper: Some profiles in Figures 2 and 3; 5) Fifth paper: Some profiles in Figure 6; 6) Sixth paper: Some profiles in Figures 3, 5, 6, and 7.",
+  "The author is an Associate Professor of Fluid Mechanics at the School of Engineering, Democritus University of Thrace, Greece.",
+  "The author's email address is provided as apantokr@civil.duth.gr."
+]
