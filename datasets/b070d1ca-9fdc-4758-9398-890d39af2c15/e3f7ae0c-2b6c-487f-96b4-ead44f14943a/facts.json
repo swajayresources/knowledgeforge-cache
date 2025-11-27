@@ -1,0 +1,17 @@
+[
+  "The inverse design method uses the Reynolds Averaged Navier-Stokes (RANS) equations with the actuator disk model to simulate the effect of the turbine rotor without resolving the blade geometry.",
+  "The Trust-Region-Reflective (TRF) method is used as the optimization algorithm in the inverse design procedure.",
+  "The inverse design method is demonstrated for both conventional single-rotor horizontal axis wind turbines and multi-rotor, specifically dual-rotor wind turbines.",
+  "Manufacturing and transportation constraints on the blade geometry, such as limiting the chord between 0.01R and 0.2R, can be imposed in the inverse design process.",
+  "The mesh sensitivity study shows that a grid resolution of 101x229 cells is sufficient to obtain grid-independent results for the RANS/ADM solver.",
+  "The inverse design method prescribes the desired distributions of angle of attack and axial induction factor, rather than lift coefficient, to avoid issues with the multi-valued nature of the angle of attack-lift coefficient relationship.",
+  "The TRF method is found to be more stable and better handle constraints on the blade geometry compared to the multi-dimensional Newton iteration method, although the Newton method converges faster for unconstrained optimization problems.",
+  "The inverse design methodology is general enough to work for turbines with arbitrary number of rotor disks, and is not limited to dual-rotor wind turbines.",
+  "The RANS/ADM approach used in the inverse design method can better simulate turbulent wake mixing effects compared to potential flow methods like BEM or VLM.",
+  "The inverse design algorithm iteratively updates the blade geometry (twist and chord distributions) to minimize the difference between the calculated and desired aerodynamic performance.",
+  "An initial guess of the blade geometry is provided to the inverse design algorithm, which then converges to the final blade design that satisfies the prescribed aerodynamic performance targets.",
+  "The inverse design method is verified for three different test cases involving single-rotor wind turbines with different airfoil selections and prescribed aerodynamic performance targets.",
+  "The inverse design method is able to reproduce the original blade geometry when the desired aerodynamic performance is prescribed using either the RANS/ADM or the BEM method.",
+  "The Jacobian matrix, which represents the sensitivity of the aerodynamic performance to changes in the blade geometry, is calculated using a forward finite difference approach.",
+  "The inverse design algorithm stops when any of the following criteria are met: maximum number of iterations, minimum value of the target function, minimum change in the independent variables, or minimum norm of the gradient of the target function."
+]
