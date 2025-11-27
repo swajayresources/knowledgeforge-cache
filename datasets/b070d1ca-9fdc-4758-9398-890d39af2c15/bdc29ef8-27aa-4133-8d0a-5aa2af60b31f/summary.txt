@@ -1,0 +1,1 @@
+This paper proposes an automatic workflow for assessing damage on gas turbine blades using deep learning on borescope video feeds. The workflow uses instance segmentation to detect and classify different types of blade damage, and tracks blades across video frames to provide detailed damage statistics for individual blades.
