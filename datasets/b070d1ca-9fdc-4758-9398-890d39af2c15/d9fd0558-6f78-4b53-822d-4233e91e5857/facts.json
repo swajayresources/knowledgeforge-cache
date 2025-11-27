@@ -1,0 +1,17 @@
+[
+  "The blades are among the most expensive components of a wind turbine, accounting for 10-20% of total manufacturing costs.",
+  "Larger and more flexible blades have been designed to harvest more energy, but this has led to lower safety margins.",
+  "Cracks and delaminations are the most common forms of damage in wind turbine blades, typically occurring close to the blade root.",
+  "Damage in wind turbine blades can lead to critical failures that can damage not only the turbine they are attached to, but also other nearby turbines.",
+  "The proposed SHM system uses SCADA data, which has a low-pass filter applied and is logged at 10-minute intervals.",
+  "The GPs are trained on 2500 randomly selected data points from the first 2 years of turbine operation.",
+  "The GPs use a combination of squared-exponential and Bayesian linear covariance functions.",
+  "The hyperparameters of the GPs are learned by maximizing the log marginal likelihood using the Nelder-Mead optimization algorithm.",
+  "The X-bar control charts use 3\u03c3 thresholds calculated over a 6-month period after the initial GP training.",
+  "The case studies showed the proposed SHM system could identify early onset of damage up to 6 months before it was identified through traditional inspection methods.",
+  "The proposed SHM system can help minimize downtime, maximize reliability, reduce operation and maintenance costs, and extend the design lifetime of wind turbine blades.",
+  "By analyzing the relative relationships between the edge frequencies of the three blades, the complex nonstationarities due to environmental and operational variables are transformed into a simpler, more explicable space.",
+  "GPs are more robust to the nonlinear and noisy relationships between the edge frequencies and environmental/operational variables, as the functional forms do not need to be predetermined.",
+  "The use of X-bar control charts with 3\u03c3 thresholds allows the SHM system to balance the trade-off between true and false positives in damage detection.",
+  "The versatility of the proposed methodology means it can also be applied to offshore wind turbines."
+]
