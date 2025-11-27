@@ -1,0 +1,15 @@
+{
+  "paper_id": "53fe92f7-3327-4bcf-a0ba-5ea971280201",
+  "title": "Condition monitoring of wind turbine blades via learning-based methods",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/53fe92f7-3327-4bcf-a0ba-5ea971280201/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/53fe92f7-3327-4bcf-a0ba-5ea971280201/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/53fe92f7-3327-4bcf-a0ba-5ea971280201/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/53fe92f7-3327-4bcf-a0ba-5ea971280201/keywords.json"
+  ]
+}
