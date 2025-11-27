@@ -1,0 +1,1 @@
+This paper presents a stochastic optimization framework for reducing turbofan noise by determining optimal acoustic liner impedance. It uses a parallel reduced-order modeling approach based on proper orthogonal decomposition to dramatically improve computational efficiency of the stochastic optimization solver for a realistic nacelle geometry.
