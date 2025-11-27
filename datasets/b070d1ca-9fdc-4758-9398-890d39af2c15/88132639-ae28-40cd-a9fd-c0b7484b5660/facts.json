@@ -1,0 +1,18 @@
+[
+  "A calculation method to estimate thermal conductivity of high entropy ceramic for thermal barrier coatings Yuxuan Wanga, Guoqiang Lana, Jun Songa,* a Department of Mining and Materials Engineering, McGill, University, Montreal, Quebec, H3A 0C5, Canada \u204e Corresponding author",
+  "song2@mcgill",
+  "Furthermore, we extensively investigate and discuss the atomic relaxation and lattice distortion effects in 5-dopants and 6- dopants rocksalt structures during the process",
+  "Keywords: high entropy ceramics; thermal conductivity; supercell phonon unfolding 1",
+  "Introduction Thermal barrier coating materials have been extensively used in fields of aerospace and power industry[1-6] to resist high temperature environment",
+  "Superalloys used in turbine blades typically have a melting point of approximately 1300 \u00b0C, making them unsuitable for direct exposure to hotter gas streams",
+  "Thermal barrier coating (TBCs) generally refers to the outermost ceramic isolation layer, and two significant performance index of which are low thermal conductivity and high temperature phase stability[3, 7, 8]",
+  "Currently most-used commercial TBC materials is 7~8 wt% Y O stabilized zirconia (7-8YSZ)",
+  "However, when temperature keeps higher 2 3 than 1200 \u00b0C, the t\u2019-tetragonal phase will transform to another tetragonal phase (t) and/or a cubic phase (c) and then to monoclinic (m) phase [9, 10]",
+  "To address this issue and develop the next generation TBC materials, extensive researches have been conducted on complex oxides such as pyrochlore oxides [11-18] and silicate oxides[19-22]",
+  "Alloys containing five or more elements in relatively high concentrations (5-35 at%) or having configurational entropy larger than 1",
+  "5R belong to high entropy alloys[23]",
+  "Besides, according to Gibbs free energy expression G = H \u2013 TS, higher entropy can facilitate the drop of free energy at high temperature and hence encourage the stabilization of phase structure[24]",
+  "Researchers have started applying the concept of high entropy to traditional low-thermal-conductivity structures such as fluorite oxides[25-28] and pyrochlore oxides[29-33] and obtained substantial experimental results",
+  "On one hand, strictly, high entropy oxides lack crystallographic symmetry, which means no primitive cell can be identified for subsequent analysis; On the other hand, for general ceramic materials, thermal conductivity mainly come from phonon-phonon interaction, which can be evaluated by solving the Boltzmann Transport Equation (BTE)[34]",
+  "In this study, we propose a calculation method based on the supercell phonon unfolding (SPU) technique to predict the thermal conductivity of high entropy ceramics, specially focusing on rocksalt oxides structures"
+]
