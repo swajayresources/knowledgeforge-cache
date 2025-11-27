@@ -1,0 +1,1 @@
+This paper presents the application of structural optimization methods to the design of Space Shuttle Main Engine (SSME) turbopump blades. The optimization process incorporates various design variables, constraints, and load conditions to obtain an optimal blade design that meets requirements for clearance, fatigue life, and stress limits.
