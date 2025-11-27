@@ -1,0 +1,12 @@
+[
+  "The total amount of injected argon was 7.39x10^20 atoms for the carbon wall case (#79423) and 5.68x10^20 atoms for the ILW case (#81928), a 30% higher amount in the carbon wall case.",
+  "The current quench time was 18.6 ms for the carbon wall case (#79423) and 35.0 ms for the ILW case (#81928), indicating a significantly slower current quench in the ILW discharge.",
+  "In the carbon wall case (#79423), a runaway electron plateau of 600 kA was observed, while in the ILW case (#81928) the runaway current was negligibly small (less than 70 kA).",
+  "In the ILW case, the temperature dropped during the thermal quench but then recovered to around 300 eV, followed by a slow drop, while in the carbon wall case the temperature dropped continuously down to 10 eV after the thermal quench.",
+  "The numerical modeling showed that the differences in runaway electron generation were due to a complex, combined effect of differences in plasma parameter profiles, radiation characteristics, and injected argon amount between the two cases.",
+  "The modeling included scans of argon and background impurity (carbon or beryllium) content, as these quantities were extremely hard to accurately determine experimentally during the disruption.",
+  "The paper noted that hot tail generation was not expected to be important in these cases, as the cooling times were long enough for Dreicer generation to dominate over hot-tail generation.",
+  "Radial diffusion due to magnetic perturbations was considered as a potential runaway loss mechanism, but the specific level of perturbations needed for suppression was not determined.",
+  "The pre-disruption Zeff was 2.2 \u00b1 20% for the carbon wall case and 2.5 \u00b1 20% for the ILW case, indicating a relatively high impurity content in the ILW discharge.",
+  "The numerical model (GO code) calculated the evolution of the impurity density, ionization, recombination, and radiation, coupled to the plasma temperature, density, and current evolution, in order to self-consistently simulate the disruption dynamics."
+]
