@@ -1,0 +1,1 @@
+This paper discusses the use of thermal barrier coatings (TBCs) in industrial gas turbine applications. It reviews early testing and applications of TBCs, identifies areas of concern from the engine designer's and materials engineer's perspective, and discusses the key factors expected to influence the utilization of TBCs in advanced industrial gas turbine engines.
