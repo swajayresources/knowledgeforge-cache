@@ -1,0 +1,17 @@
+[
+  "Zirconia is a common coating material used for thermal barrier coatings in turbine engines.",
+  "Radiation becomes more significant as temperatures are raised for higher efficiency in advanced engines.",
+  "The two-flux method is used to provide a simplified approach for modeling the radiative heat transfer in the semitransparent thermal barrier coating.",
+  "A two-band approximation is used to model the spectral radiative properties of zirconia, with the band for large wavelengths (small frequencies) considered opaque.",
+  "The presence of a thin opaque soot layer on the exposed surface of the zirconia coating can increase the metal temperatures by absorbing the incident radiation.",
+  "For a clean zirconia coating, the high scattering of zirconia reflects away much of the incident radiation, leading to lower temperatures in the coating.",
+  "The relative positions of the temperature distributions for bare metal, opaque zirconia coating, and semitransparent zirconia coating are the same, regardless of external radiative heating.",
+  "The thickness of the zirconia coatings analyzed in the paper is 0.25 mm.",
+  "Radiative effects are relatively smaller for turbine blades compared to combustor liners due to the higher convective heat transfer coefficients.",
+  "Semitransparency is found to be beneficial in limited conditions where it increases the effective coating thermal conductivity for heating primarily by convection.",
+  "The iterative solution method used in the paper involves solving the two-flux equation for the radiative flux distribution and the heat conduction equation for the temperature distribution.",
+  "The Runge-Kutta numerical integration method is used to solve the two-flux equation for the radiative flux distribution within the semitransparent coating.",
+  "The absorption optical thickness of the zirconia coating is small, and the scattering albedo is close to one, which allows the shooting method to be used for solving the two-point boundary value problem.",
+  "The paper provides an analytical procedure for modeling the radiative heat transfer in semitransparent thermal barrier coatings using the two-flux method.",
+  "The results illustrate how the analysis can be used to examine the effect of semitransparency for various parameters in turbine engine thermal barrier coatings."
+]
