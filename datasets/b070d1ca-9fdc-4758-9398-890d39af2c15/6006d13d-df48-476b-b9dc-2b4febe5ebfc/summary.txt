@@ -1,0 +1,1 @@
+This paper investigates the effects of surface curvature on the performance of film cooling in gas turbine blades, where coolant air is injected through one or two rows of holes. The study also examines the influence of laminar versus turbulent boundary layers and coolant injection on film cooling effectiveness and heat transfer coefficients.
