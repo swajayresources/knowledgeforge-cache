@@ -1,0 +1,17 @@
+[
+  "The computational domain modeled a straight duct with a square cross-section, roughened by square sharp-angled ribs.",
+  "The numerical simulations used Large Eddy Simulation (LES) to resolve the turbulent flow and heat transfer.",
+  "The grid had around 10 million computational cells with boundary layer resolution.",
+  "The Enhancement Factor (EF) was defined as the ratio of local heat transfer coefficient on the ribbed wall to the smooth wall.",
+  "The study identified key flow features such as separation zones, secondary recirculation regions, and coherent structures around the ribs.",
+  "Advanced post-processing techniques like Q-criterion, Principal Component Analysis, and Conditional Averaging were used to investigate the role of coherent structures.",
+  "The addition of cooling holes significantly altered the flow field and heat transfer, with changes in the downstream recirculation regions and secondary flows.",
+  "The numerical results were validated against experimental data, including measurements of pressure drop, flow field characteristics, and local heat transfer coefficients.",
+  "The study found that coherent structures play a crucial role in the heat transfer enhancement in rib-roughened cooling channels.",
+  "The researchers concluded that advanced post-processing techniques are essential to understand the interaction between coherent structures and the thermal field.",
+  "The targeted application of the research is the internal cooling of turbine blades in gas turbine engines.",
+  "The experimental part of the study focused on measurements of turbulence characteristics and local heat flux calculations.",
+  "The numerical part of the study investigated a generic configuration of a straight duct with square ribs, using both RANS and LES approaches.",
+  "The LES simulations used appropriate subgrid-scale models for both momentum and heat transfer.",
+  "The researchers carefully analyzed the impact of the inlet boundary conditions on the developed flow and thermal fields."
+]
