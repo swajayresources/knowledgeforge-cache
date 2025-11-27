@@ -1,0 +1,17 @@
+[
+  "The two-stage axial compressor rig is designed to develop and validate advanced aerodynamic technologies for future aeropropulsion gas turbine engines.",
+  "The preliminary four-stage research configuration was designed to achieve a compression ratio of 12:1.",
+  "Multistage CFD simulations of the preliminary four-stage configuration indicated that its efficiency was better than the state of the art.",
+  "The first two stages of the four-stage configuration were extracted to serve as a proof-of-concept vehicle.",
+  "A blade inverse aerodynamic design method developed by Dang was coupled to the multistage CFD code of Adamczyk to refine the aerodynamics of the two-stage configuration.",
+  "The transonic rotor blades in the two-stage rig are swept forward to achieve a beneficial spanwise loading balance.",
+  "The variable stagger stator in the two-stage rig is employed to rematch the stages at off-design operation.",
+  "The two-stage rig is planned to be manufactured and assembled by the end of fiscal year 2003.",
+  "Progress in aerodynamic design capability is required to maximize the specific thrust of next-generation engines without sacrificing fuel consumption and to reduce parts count by increasing the aerodynamic loading of the compression system.",
+  "The performance-limiting fluid dynamic features identified in the preliminary four-stage configuration were leakage-vortex-dominated endwall action and/or reaction, and strong shock-boundary-layer interactions.",
+  "An efficiency potential significantly higher than the state of the art was projected for the two-stage configuration based on the engineering analysis supported by CFD.",
+  "The two-stage rig will serve as a testbed for verification and calibration of design methods, evaluation of new aerodynamic design concepts, and elucidation of performance-limiting issues in highly loaded multistage compressors.",
+  "The design of the two-stage rig was constrained by current aeromechanical and manufacturing practices, even though a specific application was not defined.",
+  "Three-dimensional blading and spanwise tailoring of vector diagrams guided by CFD were employed in the preliminary four-stage configuration to manage the aerodynamics of the high-loaded endwall regions.",
+  "Further performance gains in highly loaded multistage compressors require design methods that effectively extend the custom-tailored blading philosophy into the endwall regions and allow adequate matching of blade rows."
+]
