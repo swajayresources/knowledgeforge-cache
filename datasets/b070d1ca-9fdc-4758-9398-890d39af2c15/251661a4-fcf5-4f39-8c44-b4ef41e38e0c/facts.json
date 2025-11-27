@@ -1,0 +1,17 @@
+[
+  "Ongoing research and testing are essential in the development of air-breathing hypersonic propulsion technology.",
+  "Recent work was performed for GTX, a rocket-based combined-cycle, single-stage-to-orbit concept.",
+  "Structural optimization was applied to evaluate the feasibility of the GTX concept and determine the gross liftoff weight of the integrated system.",
+  "Achieving low Earth orbit with even a small payload requires an aggressive approach to weight minimization through the use of lightweight, oxidation-resistant composite materials.",
+  "NASA's APAS code was used to generate aerodynamic pressure and temperature profiles at each critical event.",
+  "Heat transfer solutions using NASA's MINIVER code and the SINDA code were calculated at selective points and then extrapolated over the entire exposed surface.",
+  "A detailed finite element model of the propulsion system was generated to establish a flight weight for one engine.",
+  "A second finite element model, more coarsely meshed, of the full integrated system was generated for the overall assessment, mapping of loads, and system optimization.",
+  "Loads were applied in a case-consistent fashion using MSC-NASTRAN for static analysis, with an inertia relief capability to simulate the vehicle in flight.",
+  "The weight of the structure was optimized using HyperSizer, which allows users to optimize a component structure according to the critical case for each component.",
+  "The methods used in this assessment were effective in defining and evaluating the integrated propulsion/vehicle structure.",
+  "The results of the analyses were used to improve scaling laws and increase the accuracy in the GTX sizing tool.",
+  "The research was conducted at the NASA Glenn Research Center.",
+  "The work was performed for the GTX, a rocket-based combined-cycle, single-stage-to-orbit concept.",
+  "The goal was to enable low Earth orbit with even a small payload."
+]
