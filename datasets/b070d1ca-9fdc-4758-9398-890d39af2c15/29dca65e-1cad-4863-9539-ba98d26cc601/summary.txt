@@ -1,0 +1,1 @@
+This paper presents an integrated modeling and multiscale gyrokinetic validation study of electron temperature gradient (ETG) turbulence in a JET hybrid H-mode scenario. The study examines the role of ETG turbulence in this scenario and its impact on isotope confinement scaling predictions.
