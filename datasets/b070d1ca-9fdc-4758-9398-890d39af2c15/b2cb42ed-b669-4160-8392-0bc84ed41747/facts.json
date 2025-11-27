@@ -1,0 +1,17 @@
+[
+  "The laser powder DED system used a 2 kW, 1030 nm Ytterbium laser to melt Mar-M247 powder particles in an inert argon atmosphere.",
+  "A coaxial CMOS camera captured real-time top-view images of the melt pool evolution at 78 frames per second.",
+  "The CFD-based melt pool simulations were validated against metallographic cross-sections, with the predicted melt pool dimensions having less than 20% error compared to experimental measurements.",
+  "The machine learning-based surrogate model, trained on the CFD simulation data and in-situ camera images, was able to predict melt pool dimensions with an average relative error of less than 20%.",
+  "The microstructure simulations, using the predicted melt pool dimensions as input, were validated by comparing the simulated microstructural features like grain size, orientation, and spatial statistics with experimental data.",
+  "The statistical framework introduced four dissimilarity scores to quantify differences in microstructural features, including chord length distribution, orientation distribution function, grain growth direction spread, and two-point spatial statistics.",
+  "The dissimilarity scores were used in a Bayesian optimization framework to automatically calibrate the parameters of the microstructure simulation model, enabling adaptive control of the microstructure during the additive manufacturing process.",
+  "The proposed integrated framework, linking in-situ data, melt pool geometry, and microstructure, was expected to enable real-time adaptive control of the microstructure in directed energy deposition additive manufacturing.",
+  "The technology developed in this project was aimed at strengthening the connection between process parameters and final material properties, facilitating more precise and reliable material design and performance prediction.",
+  "The work was conducted as a technical collaboration project within the Oak Ridge National Laboratory Manufacturing Demonstration Facility, sponsored by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy.",
+  "The research used resources of the Compute and Data Environment for Science (CADES) at the Oak Ridge National Laboratory, supported by the Office of Science of the U.S. Department of Energy.",
+  "The goal of the technical collaboration was to engage industry partners to participate in short-term collaborative projects within the Manufacturing Demonstration Facility to assess the applicability of new energy-efficient manufacturing technologies.",
+  "The paper highlighted the potential commercialization possibilities of the integrated framework, which could enable real-time adaptive control of microstructure in directed energy deposition additive manufacturing.",
+  "The proposed framework was expected to strengthen the connection between process parameters and final material properties, facilitating more precise and reliable material design and performance prediction.",
+  "The work was conducted as part of a Cooperative Research and Development Agreement (CRADA) between Oak Ridge National Laboratory and Siemens Corporation."
+]
