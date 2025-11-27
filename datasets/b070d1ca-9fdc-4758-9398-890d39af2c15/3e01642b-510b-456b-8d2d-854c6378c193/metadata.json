@@ -1,0 +1,15 @@
+{
+  "paper_id": "3e01642b-510b-456b-8d2d-854c6378c193",
+  "title": "The Case for Cleaner Biosignals: High-fidelity Neural Compressor Enables Transfer from Cleaner iEEG to Noisier EEG",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/3e01642b-510b-456b-8d2d-854c6378c193/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/3e01642b-510b-456b-8d2d-854c6378c193/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/3e01642b-510b-456b-8d2d-854c6378c193/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/3e01642b-510b-456b-8d2d-854c6378c193/keywords.json"
+  ]
+}
