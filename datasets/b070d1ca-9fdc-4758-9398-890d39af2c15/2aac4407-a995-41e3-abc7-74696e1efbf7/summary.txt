@@ -1,0 +1,1 @@
+This paper uses synchrotron X-ray imaging to study the deformation of dendrites during the directional solidification of a nickel-based superalloy. The results reveal both permanent and transient deformation modes, including deformation from thermal contraction that can lead to small misorientations in the final casting.
