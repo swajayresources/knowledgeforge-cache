@@ -1,0 +1,17 @@
+[
+  "The compressor was designed under a NASA Research Announcement (NRA) contract with 2/3 funding from NASA and 1/3 from UTRC.",
+  "The design target was to increase efficiency at higher work factor while reducing the maximum diameter of the stage.",
+  "Certain key design parameters were fixed, including impeller tip diameter, impeller rotational speed, and impeller inlet hub and shroud radii.",
+  "The final compressor design had a pressure ratio of 4.68, work factor of 0.81, and design exit corrected flow rate of 3 lbm/s.",
+  "The measured polytropic efficiency was 85.5% and the stall margin was 7.5% at the design flow rate and speed.",
+  "The measured efficiency and stall margin were lower than pre-test CFD predictions by 2.4 percentage points and 4.5 percentage points, respectively.",
+  "Post-test CFD analysis indicated that the performance differences were likely due to unfavorable unsteady impeller-diffuser interactions, an impeller-diffuser flow rate mismatch, and potential flow separation in the radial-to-axial bend.",
+  "Inconsistencies in the implementation of a widely used two-equation turbulence model were identified, and the need for longer integration times in unsteady CFD simulations was highlighted.",
+  "Recommended design changes included redesigning the diffuser to eliminate the flow rate mismatch and optimize the vane geometry, as well as redesigning the radial-to-axial bend to minimize flow separation.",
+  "Testing the impeller with a vaneless diffuser was recommended to further evaluate the impeller-diffuser interactions.",
+  "The mechanical design included detailed structural analyses for low-cycle fatigue, high-cycle fatigue, and burst margin, as well as Campbell diagrams to assess potential resonance issues.",
+  "The fabrication process involved careful control of the impeller runouts, imbalance, and blade tip/hub profile measurements.",
+  "The diffuser and exit guide vane were assembled as a subassembly and then integrated with the shroud using a holding fixture.",
+  "The test instrumentation included steady-state measurements of pressure, temperature, and flow rate, as well as high-response pressure transducers to capture the unsteady impeller-diffuser interactions.",
+  "The data reduction methodology included the calculation of performance parameters such as pressure ratio, efficiency, and stall margin."
+]
