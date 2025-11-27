@@ -1,0 +1,17 @@
+[
+  "PWA 1480 is a modern single crystal nickel-base superalloy used in advanced aircraft gas turbines and being considered for the Space Shuttle Main Engine.",
+  "The alloy has a microstructure consisting of 55-60% volume fraction of cuboidal \u03b3' precipitates with an average size of 0.5 \u03bcm dispersed in a \u03b3 matrix.",
+  "The yield strength of PWA 1480 is constant at around 1100 MPa from 20-760\u00b0C, above which it drops rapidly and becomes strain rate dependent.",
+  "Deformation at low temperatures (below 760\u00b0C) is dominated by shearing of the \u03b3' precipitates by pairs of a/2<110> dislocations on {111} planes.",
+  "At high temperatures (above 815-927\u00b0C depending on strain rate), deformation is dominated by \u03b3' by-pass mechanisms.",
+  "The true activation energy for yielding is zero at low temperatures, but increases to 500 kJ/mol at high temperatures, indicative of a diffusion-controlled process.",
+  "The deformation substructures evolve from planar slip and \u03b3' shearing at low temperatures to more homogeneous and non-planar structures at high temperatures.",
+  "Existing precipitation hardening models cannot adequately describe the low temperature yielding behavior of PWA 1480 due to the observation that precipitate penetration is not the rate-limiting step.",
+  "The Brown-Ham by-pass model provides a reasonable fit to the high temperature yielding data, but does not account for the effects of thermal activation.",
+  "The three distinct temperature regimes observed indicate a fundamental relationship between the deformation mechanisms and activation energies for yielding in this alloy.",
+  "The deformation mechanisms observed at the yield point can differ from those inferred from specimens tested to failure, highlighting the importance of characterizing the initial deformation substructures.",
+  "This work provides critical data and insights to support the development of physically-based constitutive models for PWA 1480 and similar high volume fraction \u03b3/\u03b3' superalloys.",
+  "Single crystal superalloys like PWA 1480 exhibit superior creep, oxidation, and fatigue resistance compared to conventionally cast alloys due to the lack of grain boundaries.",
+  "The alloy composition of PWA 1480 includes Ni, Cr, Co, Al, Ti, Ta, W, and Mo, with Al and Ti being the primary \u03b3' formers.",
+  "The heat treatment of PWA 1480 consists of solutionizing at 1285\u00b0C, followed by two-step aging at 1080\u00b0C and 870\u00b0C."
+]
