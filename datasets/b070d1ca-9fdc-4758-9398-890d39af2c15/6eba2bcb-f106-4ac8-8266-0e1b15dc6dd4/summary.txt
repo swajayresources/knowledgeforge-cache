@@ -1,0 +1,1 @@
+This paper derives a necessary optimality condition for an extended weighted generalized fractional optimal control problem, which generalizes several existing fractional optimal control problems. As an application, a new fractional Euler-Lagrange equation is obtained for a weighted generalized fractional calculus of variations problem.
