@@ -1,0 +1,17 @@
+[
+  "The transition length decreases as the turbulent spot production rate increases.",
+  "Much of the data for predicting the spot production rate comes from low-speed flow experiments.",
+  "Recent data and analysis showed that the spot production rate is affected by Mach number.",
+  "The degree of agreement between analysis and data for turbine blade heat transfer without film cooling is strongly dependent on accurately predicting the length of transition.",
+  "The transition length model of Simon, including the effect of Mach number, is: \u03b3_Simon = 1.0 - exp[-n_0.1\u03c3(Re_s - Re_ST)^2].",
+  "The Solomon, Walker, Gostelow (SWG) model corrected for Mach number effects is: \u03b3_SWG = 1.0 - exp[-n_ST(s - s_ST)^2].",
+  "The modifications to the transition length models were incorporated into the two-dimensional Navier-Stokes code RVCQ3D.",
+  "The Baldwin-Lomax (1978) model was used for the turbulent eddy viscosity, and the Smith and Kuethe (1966) model was used to account for the effects of freestream turbulence on the laminar flow.",
+  "The experimental data used for validation covered a range of exit Mach numbers from 0.8 to 1.3 and exit Reynolds numbers from 1.5 \u00d7 10^6 to 2.5 \u00d7 10^6.",
+  "Using a variable near-wall damping coefficient, A+, resulted in increased leading edge heat transfer due to the reduced length scale in the near-wall region.",
+  "The poorer agreement on the pressure surface at the lower Reynolds number conditions was due to the insufficient increase in A+ to capture the relaminarization behavior.",
+  "The local turbulence intensity was calculated using an algebraic relationship, as the inlet length scale was generally not available.",
+  "The start of transition was specified using Mayle's (1991) method, with the momentum thickness Reynolds number at the start of transition given by Re_\u03b8_ST = 400Tu^(-0.5/7).",
+  "The comparisons were made for isolated blade row test cases to eliminate the necessity of accurately predicting the periodic disturbance effect.",
+  "The test cases chosen showed transition occurring over a significant fraction of the surface distance, as cases with very short transition regions were not suitable."
+]
