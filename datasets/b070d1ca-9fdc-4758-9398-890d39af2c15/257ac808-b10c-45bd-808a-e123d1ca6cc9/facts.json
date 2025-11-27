@@ -1,0 +1,17 @@
+[
+  "The temperature-dependent engineering elastic constants of a DS nickel-base superalloy were estimated from the single-crystal elastic constants of nickel and MAR-MOO2 superalloy.",
+  "The DS superalloy was modeled as a transversely isotropic material with five independent elastic constants.",
+  "The five independent elastic constants of the DS material (A, C, F, L, and N) were expressed in terms of the three independent elastic constants of the cubic single crystal.",
+  "The temperature-dependent stiffness coefficients (C11, C12, and C44) for single-crystal nickel were obtained by fitting second-degree polynomials to the data from the literature.",
+  "The compliance coefficients (S11, S12, and S44) for single-crystal nickel were calculated from the stiffness coefficients.",
+  "The temperature-dependent engineering elastic constants for the DS nickel-base superalloy, including Young's moduli, shear moduli, and Poisson's ratios, were tabulated and plotted.",
+  "The temperature-dependent compliance coefficients for single-crystal MAR-MOO2 were obtained from the literature, and the engineering elastic constants for DS MAR-MOO2 were calculated.",
+  "The estimated longitudinal elastic modulus of DS MAR-M246 from the SC MAR-MOO2 data was closer to the experimental values than the estimation from SC nickel data.",
+  "The Wells method assumes a transversely isotropic material, which may not be valid for DS superalloys with a small number of grains in the transverse direction.",
+  "No experimentally determined temperature-dependent transverse modulus, shear moduli, and Poisson's ratios were available for DS nickel-base superalloys to verify the accuracy of the estimated engineering elastic constants.",
+  "The engineering elastic constants determined in this study are applicable only when a large number of grains are present along the transverse direction in a DS nickel-base superalloy.",
+  "The results of this study can be used as input for performing finite element structural analysis of directionally solidified turbine engine components.",
+  "The Wells method can be used to estimate the engineering elastic constants of any directionally solidified material from the elastic constants of the corresponding cubic single crystal.",
+  "The primary orientation of both the single crystal and the DS superalloy was assumed to be along the [001] direction.",
+  "The DS superalloy was assumed to have a sufficiently large number of columnar grains to be modeled as a transversely isotropic material."
+]
