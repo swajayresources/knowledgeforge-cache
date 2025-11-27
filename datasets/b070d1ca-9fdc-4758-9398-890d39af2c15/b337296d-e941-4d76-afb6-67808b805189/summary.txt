@@ -1,0 +1,1 @@
+This paper investigates the anisotropy of high temperature strength in a precipitation-hardened nickel-base superalloy single crystal, Alloy 454. The study found marked anisotropy in tensile yield strength, creep, and creep rupture strength at around 760°C, with orientations near the -111 and 011 axes showing extremely low strength compared to the 001 axis.
