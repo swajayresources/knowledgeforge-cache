@@ -1,0 +1,17 @@
+[
+  "The low-pressure compressor is composed of four stages with 820 airfoils.",
+  "The average blade aspect ratio is 2.24 and the average gap-chord ratio is 0.9.",
+  "The rotor hub/tip ratios are 0.84 at the inlet and 0.83 at the exit.",
+  "The predicted adiabatic efficiency for the Flight Propulsion System is 90.0%.",
+  "The predicted adiabatic efficiency for the Integrated Core/Low Spool test is 87.5%.",
+  "The inlet corrected airflow is 125.6 lb/sec.",
+  "The low-pressure compressor features an adjustable stator 1 to provide flow capacity flexibility for the Integrated Core/Low Spool test.",
+  "Controlled diffusion airfoils are used to increase the low loss incidence range capability.",
+  "A 15% core mass airflow bleed is incorporated near the low-pressure compressor exit to avoid surge during starting and reverser operation.",
+  "The low-pressure compressor rotor for the Integrated Core/Low Spool test uses a bolted steel design rather than the welded titanium design of the Flight Propulsion System.",
+  "The low-pressure compressor stator assemblies use non-optimized aluminum cases to reduce design and fabrication costs for the Integrated Core/Low Spool test.",
+  "The low-pressure compressor design meets or exceeds all design goals except for surge margin, which is 2% below the 20% goal.",
+  "The low-pressure compressor design was not optimized for flight weight, but rather focused on reducing cost and risk for the Integrated Core/Low Spool test.",
+  "The low-pressure compressor design retains the aerodynamics of the Flight Propulsion System design while utilizing simplified manufacturing techniques.",
+  "The low-pressure compressor rotor critical speeds and mode shapes were analyzed for the Integrated Core/Low Spool test configuration."
+]
