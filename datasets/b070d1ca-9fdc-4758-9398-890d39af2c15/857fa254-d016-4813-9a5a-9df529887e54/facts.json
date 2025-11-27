@@ -1,0 +1,17 @@
+[
+  "The micro gas turbine engine has a dimension of 21.5 mm \u00d7 21.5 mm and a total thickness of 4.4 mm after assembly.",
+  "The micro combustor is made of 7 layers of silicon wafers, with a chamber height of 0.8-1.2 mm.",
+  "Stable combustion was achieved in the micro combustor with an exit temperature as high as 1600 K.",
+  "The micro turbine has a rotor diameter of 8.2 mm and 17 blades, fabricated using DRIE on silicon wafers.",
+  "A stable rotation speed of 15,000 rpm was demonstrated for the micro turbine device driven by compressed air.",
+  "The micro turbine uses dynamic thrust air bearings with pump-in and pump-out spiral groove configurations to support the high-speed rotor.",
+  "Comprehensive CFD simulations were performed to optimize the micro combustor design, including the hairpin-shaped recirculation channel.",
+  "The target design specifications for the micro gas turbine engine include an inlet airflow rate of 0.36 g/s, a compressor ratio of 4:1, a hydrogen fuel consumption rate of 17 g/h, and a net power output of 39 watts.",
+  "The adiabatic efficiencies of the compressor and turbine are estimated to be 0.65 and 0.75, respectively.",
+  "The efficiency and pressure recovery coefficient of the micro combustor are predicted to be 0.74 and 0.92, respectively.",
+  "A pre-bonded silicon wafer with a 1.5 mm SiO2 layer was used to improve the etching uniformity during DRIE fabrication of the micro turbine.",
+  "The thrust air bearing grooves were etched to depths of 15 mm and 36 mm on the top and bottom bearings, respectively, to support the axial load on the micro turbine.",
+  "The micro gas turbine engine is being developed as part of a micro power generation system that uses a piezoelectric converter to generate electricity from the turbine rotation.",
+  "The micro combustor design uses a hairpin-shaped recirculation channel to preheat the fuel/air mixture, cool the outer walls, and sustain a stable flame.",
+  "Stable combustion in the micro combustor was achieved with an equivalence ratio of 0.6 and a chamber height of 0.8-1.0 mm."
+]
