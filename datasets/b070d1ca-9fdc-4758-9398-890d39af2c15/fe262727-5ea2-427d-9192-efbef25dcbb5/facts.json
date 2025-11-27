@@ -1,0 +1,17 @@
+[
+  "A full 3D computational study was carried out using a finite-volume based solver.",
+  "The pin/channel height used was 0.4 mm, and the pin diameters varied from 0.17-0.50 mm.",
+  "This gave hydraulic diameters in the range of 0.13-0.78 mm and volumetric area densities of 5-15 mm2/mm3.",
+  "Various heat exchanger configurations were simulated to determine performance characteristics.",
+  "Nusselt number, friction factor, specific fluid friction power, and Mach number were analyzed in the laminar flow regime.",
+  "The numerical model was validated through grid independence studies, theoretical validations, and comparisons with experimental data.",
+  "The pin surfaces generally had 50-200% higher heat transfer coefficients than the end walls.",
+  "Achieving small increases in heat transfer required disproportionate increases in friction power losses.",
+  "Nusselt number increased with increasing Reynolds number for the different configurations.",
+  "Friction factor decreased with increasing Reynolds number.",
+  "Maximum Mach number increased with Reynolds number but remained below 0.3 for the laminar conditions.",
+  "Using a slug velocity profile resulted in higher Nusselt numbers but also higher friction factors.",
+  "Key challenges include high area densities, managing pressure drops and compressibility, and accurately capturing micro-scale behavior.",
+  "The results can be useful for designing micro heat exchangers for applications like turbine blades and microelectronics.",
+  "The study provides detailed numerical diagnosis of local behavior on pin surfaces, end walls, and flow characteristics."
+]
