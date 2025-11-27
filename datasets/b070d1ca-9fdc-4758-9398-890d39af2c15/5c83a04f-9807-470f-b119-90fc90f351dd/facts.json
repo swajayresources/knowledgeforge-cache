@@ -1,0 +1,17 @@
+[
+  "The low-pressure T106C turbine blade is characterized by a high degree of camber, with sharp leading and trailing edges and a maximum blade thickness at the 35% chord length location.",
+  "The high-pressure C3X turbine blade is characterized by a very thick leading edge with a maximum thickness at the 5% chord length location, a sharp trailing edge, and 10 circular penetrating cooling channels.",
+  "The blades were subjected to a centrifugal load of 109.3 kN and a pressure difference of 316 kPa across the blade.",
+  "Grade 310 Stainless Steel was used as the blade material in this study.",
+  "A mesh dependency study was conducted, and 50,000 linear hexahedral (C3D8R) finite elements were used to discretize the blade geometries.",
+  "The SIMP optimization for the T106C blade converged after 32 iterations, reducing the compliance by 41.6% compared to the original 50% volume structure.",
+  "The SERA optimization for the T106C blade converged after 57 iterations, reducing the compliance by 36.7% compared to the original 50% volume structure.",
+  "The SIMP optimization for the C3X blade converged after 28 iterations, reducing the compliance by 33.6% compared to the original 50% volume structure.",
+  "The SERA optimization for the C3X blade converged after 91 iterations, reducing the compliance by 22.0% compared to the original 50% volume structure.",
+  "The SIMP-derived topologies were characterized by smooth boundaries and an even material distribution across the camber line, while the SERA-derived topologies were composed of intricate features with unrealistic connectivity.",
+  "The SERA method was less computationally efficient, consistently requiring about 2.6 times longer than SIMP to achieve convergence.",
+  "The hypothesis proposed was that the differences between the SIMP and SERA optimization results were caused by the application of a mesh smoothing filter in the ATOM SIMP optimization, which decreased structural performance for increased manufacturability.",
+  "The open-source SERA optimization algorithm was modified to allow the definition of non-designable regions, expanding its capability to geometrically constrained problems.",
+  "The optimized T106C blade design consisted of a thin cavity, centered around the camber line, extending from the blade root to the blade tip.",
+  "The optimized C3X blade design was a hollow geometry, with material reinforcements around the channel boundaries and at high-stress locations along the blade skin."
+]
