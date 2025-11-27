@@ -1,0 +1,17 @@
+[
+  "The paper analyzes a wind turbine cost model published by Rinne et al. (2018).",
+  "The model is a linear combination of basis functions: sqrt(x), x^2, ln(x), and x.",
+  "The model exhibits a strong generalization error, meaning it performs poorly on data that is dissimilar to its training data.",
+  "The model's total cost function has a maximum, meaning that increasing the rated capacity (p) can lead to decreasing total costs, which is counter-intuitive.",
+  "The authors identified 12 turbine models that lie within 20% of the maximum cost predicted by the model, and recommend caution in using these cost estimates.",
+  "The authors found that 8% of the turbines in the dataset have a marginal cost of less than $500/kW for increasing capacity, which they consider implausible.",
+  "The authors argue that the choice of variables, such as specific power, is not well-motivated or validated.",
+  "The authors question the choice of basis functions, suggesting that other functional forms like polynomials of different degrees or exponential functions should have been considered.",
+  "The authors propose two minimal axioms for wind turbine cost models: physical monotonicity and assumptions on returns-to-scale.",
+  "The NREL cost model, which uses linear combinations of polynomials with fractional exponents between 2 and 3, is cited as an example of a model that satisfies the authors' proposed axioms.",
+  "The paper serves as an example of how automated regression analysis can produce flawed models, and cautions against their naive utilization in other studies.",
+  "The authors hope the paper can serve as a starting point towards the axiomatization of wind turbine cost models to improve overall model quality in the field.",
+  "The paper was supported by the Anniversary Fund of the Oesterreichische Nationalbank and the European Research Council's 'reFUEL' project.",
+  "The authors analyzed turbine data from the database provided by 'The Wind Power' (www.thewindpower.net).",
+  "The authors note that their analysis cannot directly point to wrong scaling behavior within the 'plausible region' of the model, but believe the very flat increases in costs around the maximum are likely an artifact of the maximum's wrong existence."
+]
