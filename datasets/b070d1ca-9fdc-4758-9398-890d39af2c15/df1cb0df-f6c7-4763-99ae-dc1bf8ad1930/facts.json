@@ -1,0 +1,17 @@
+[
+  "Thermal protection of gas turbine blades, combustors, and some rocket nozzles is generally provided by thin superficial layer coatings of yttria-stabilized zirconia (YSZ).",
+  "YSZ has exceptionally low thermal conductivity up to high temperatures, but its resistance to radiative heat transport was not well understood.",
+  "The researchers developed a continuum model for combined radiative and conductive heat transport through a coating, implemented in MATLAB.",
+  "Crucial to minimizing radiative heating through a coating is a highly reflecting layer placed in the coating, but preliminary attempts using platinum or gold proved microstructurally unstable.",
+  "The researchers demonstrated that the optical scattering coefficient can be obtained from measurements of the diffuse optical reflectance.",
+  "There appears to be a direct correlation between the spectral optical diffuse reflectance and the thermal diffusivity and thermal conductivity of the coatings examined.",
+  "Infiltration of an EB-PVD coating with an epoxy having a similar refractive index to CMAS significantly decreased the optical scattering coefficient.",
+  "The researchers discovered several oxides with lower thermal conductivity than 7YSZ, as described in reports #6-8.",
+  "The researchers re-examined the commonly used thermal flash test and developed new, numerically-based data reduction methods for extracting thermal diffusivity.",
+  "The researchers described a new method for determining thermal diffusivity of coatings on oxidized bond-coats that takes advantage of the luminescence signal from the underlying oxide scale.",
+  "The researchers investigated the thermal cyclic life of current 7YSZ EB-PVD coatings, as described in reports #14-16.",
+  "The researchers found that the diffuse reflectance correlates well with the coating density, suggesting the potential for non-contact evaluation of coatings.",
+  "Detailed measurements of the optical properties of tetragonal YSZ were made in collaboration with colleagues at the National Institute for Materials Science in Japan.",
+  "The researchers investigated a number of non-contact methods for measuring the temperature of 7YSZ thermal barrier coatings.",
+  "The researchers found that the existing method of determining thermal conductivity of low conductivity oxides and coatings is fraught with measurement uncertainty."
+]
