@@ -1,0 +1,17 @@
+[
+  "The dataset is provided by Goldwind Inc, one of the world's largest wind turbine manufacturers.",
+  "The raw SCADA data is collected every 7 seconds from hundreds of pre-installed sensors on wind turbines.",
+  "The dataset includes 26 continuous variables relevant to frozen blades, covering 306 hours of Machine 1, 695 hours of Machine 2, and 329 hours of Machine 3.",
+  "In the semi-supervised setting, WaveletAE achieves an accuracy of 0.493, precision of 0.471, recall of 0.986, and F1 score of 0.637.",
+  "In the supervised setting, WaveletAE achieves an accuracy of 0.873, precision of 0.857, recall of 0.863, and F1 score of 0.861.",
+  "The sliding window voting schema uses a window size of 512 timestamps and a step size of 16 timestamps.",
+  "Increasing the voting threshold \u03c4 from 0.1 to 0.9 leads to a trade-off between precision (increasing from 0.569 to 0.979) and recall (decreasing from 1.0 to 0.394).",
+  "Traditional physical detectors for wind turbine icing are limited by high costs, energy consumption, and potential inaccuracies.",
+  "The wavelet detail coefficients help WaveletAE capture information in both time and frequency domains.",
+  "The combination of reconstruction loss and classification loss in the supervised setting improves WaveletAE's generalization performance.",
+  "The LSTM encoder-decoder and FCNN baselines are outperformed by WaveletAE in both semi-supervised and supervised settings.",
+  "Goldwind Inc reports up to 25% annual energy production losses due to blade icing on wind turbines.",
+  "Ice accumulation on blades can cause degradation of aerodynamic performance, measurement errors, over-production, mechanical failures, and electrical failures.",
+  "The dataset is split into 60% training, 20% validation, and 20% test sets.",
+  "The proposed sliding window voting schema aims to mimic the real-time monitoring scenario where new signal blocks are fetched every 112 seconds."
+]
