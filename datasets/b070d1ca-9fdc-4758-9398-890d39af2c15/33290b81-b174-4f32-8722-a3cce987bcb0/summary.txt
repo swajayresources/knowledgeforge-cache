@@ -1,0 +1,1 @@
+This paper derives the governing equations for the motion of a fluid-filled cylinder rolling down an inclined curved path and formulates the brachistochrone problem as an optimal control problem. The authors show that the brachistochrone deviates from a cycloid due to the effects of viscous dissipation, and identify the parametric regimes where the deviation is most significant.
