@@ -1,0 +1,23 @@
+[
+  "Two-Scale Optimization of Graded Lattice Structures respecting Buckling on Micro- and Macroscale Daniel Hu\u00a8bner1*, Fabian Wein1 and Michael Stingl1 1Applied Mathematics, Continuous Optimization, Friedrich-Alexander Universit\u00a8at Erlangen-Nu\u00a8rnberg, Cauerstr",
+  "11, Erlangen, 91058, Germany",
+  "Keywords:structuraloptimization,instability,buckling,two-scale,cellularmaterials 1 Introduction Two-scale optimization (Wu et al",
+  "2021) can beusedtodesignsuchstructureswithouttheneed The ongoing progress in additive manufacturing to resolve all the fine details of the full design allows structures with fine details to gain increas- in a single setting",
+  "Lattice structures in particular, both started with the work of Bends\u00f8e and Kikuchi homogeneous and graded, are utilized in many (1988),inwhichthedesignprocessisdividedinto applications, e",
+  "However, fine features are prone to local This technique yields approximate material prop- buckling (Ferrari and Sigmund 2019)",
+  "ertiesofmicrostructuresonthemacroscopicscale, 1 3202 raM 51 ]EC",
+  "sc[ 1v01780",
+  "3032:viXra which can then be used in macroscopic con- (Larsen et al",
+  "2018), penalization of intermedi- stitutive equations",
+  "Choosing a parameterized ate values in the objective (Allaire and Francfort microstructure, Bends\u00f8e and Kikuchi were able 1993; Allaire and Kohn 1993), or element removal to effectively decouple the scales: Prior to any strategies(Behrouetal",
+  "2021;Dalklintetal",
+  "2020; optimization procedure a discrete subset of the Giele et al",
+  "Clustering of eigenvalues can parameter space is chosen and homogenization is bepreventedbyenforcinggapsbetweentheeigen- conducted for each of the microstructures gained values (Bends\u00f8e and Sigmund 2003)",
+  "2008), which compels the use of efficient can later be reused to solve various optimization eigenproblemsolvers(Dunningetal",
+  "For this, we present an approach for concurrent local and global buckling optimization of parameterized graded lattice structures",
+  "Bends\u00f8eandSigmund2003)orapplyinganeigen- In this article, we present a two-scale topol- value shift based on the last iteration and iden- ogy optimization approach, where we incorporate tifying artificial modes by their contribution to buckling on both scales individually, but neglect thetotalstrainenergy(GaoandMa2015)",
+  "We present our method for designing a advantage that essentially arbitrary microstruc- lattice unit cell by rounding corners of an equilat- tures can be treated, including those for which a eral triangle, showing finite element convergence slenderness ratio could not be uniquely defined",
+  "factors will always be underestimated by the For this last example, we showed a homoge- model in regions of tension stress",
+  "We showed that rounding corners can have a considerable influence on the buck- 0",
+  "shear We demonstrated that our method to obtain homogenized properties is equivalent to a special 150\u25e6 30\u25e6 discretization of the Brillouin zone in Floquet- Bloch theory"
+]
