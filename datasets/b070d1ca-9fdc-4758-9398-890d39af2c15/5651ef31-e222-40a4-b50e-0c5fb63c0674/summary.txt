@@ -1,0 +1,1 @@
+This paper investigates the effect of anodizing parameters on the corrosion resistance of purified magnesium coated with stearic acid. The results show that anodizing at 4 volts for 4 minutes at 70°C in borate benzoate electrolyte provides the best corrosion resistance, decreasing the corrosion rate by 1000x compared to bare magnesium.
