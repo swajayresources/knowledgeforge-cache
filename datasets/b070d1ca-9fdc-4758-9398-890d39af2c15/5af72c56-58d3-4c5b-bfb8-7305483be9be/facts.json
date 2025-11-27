@@ -1,0 +1,12 @@
+[
+  "The study was conducted using data from a 2.5 MW wind turbine and a 130 m meteorological tower at the Eolos Wind Energy Research Station in Rosemount, Minnesota.",
+  "The selected one-hour dataset had a mean hub-height wind speed of 7.8 m/s and a mean turbulence intensity ranging from 13% at the bottom tip to 5% at the top tip.",
+  "The normalized flapwise blade root bending moment varied from 0.7 to 1.0, while the normalized edgewise bending moment varied from -1.0 to 1.0.",
+  "The power spectra of the blade root bending moments showed distinct responses in three frequency ranges: lower (f < 0.01 Hz), intermediate (0.01 Hz < f < 0.08 Hz), and higher (f > 0.08 Hz).",
+  "In the higher frequency range, the flapwise bending moment spectrum had a dominant peak at the rotational frequency (0.22 Hz), while the foundation strain spectrum peaked at the blade passing frequency (0.66 Hz).",
+  "The leading-edge and trailing-edge strain spectra showed significantly lower slopes compared to the high-pressure and low-pressure side spectra in the lower and intermediate frequency ranges.",
+  "The magnitude of the high-pressure side strain power spectrum increased at outer radial positions, while the slopes of the high-pressure spectra in the intermediate range decreased, likely due to increased blade elasticity.",
+  "The low-pressure side strain power was highest at the 37.5% blade radius position, potentially due to differences in local flow separation along the blades.",
+  "The edgewise bending moment exhibited strong peaks at 0.97 Hz and 3.1 Hz, associated with the undamped natural frequency of the collective blade pitch control and its multiple.",
+  "The turbine power output was relatively insensitive to the change in turbine structural configurations compared to the blade root bending moments and foundation strains."
+]
