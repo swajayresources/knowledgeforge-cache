@@ -1,0 +1,17 @@
+[
+  "The investigation was conducted on a production turbojet engine with an axial-flow compressor pressure ratio of approximately 7.",
+  "Rotating stall patterns with 4, 5, and 6 stall zones were detected in the compressor.",
+  "The stall frequency relative to the rotor was approximately proportional to engine speed.",
+  "The fundamental bending frequencies of the first-stage rotor blades ranged from 163-178 Hz.",
+  "The highest vibratory stress measured was +34,800 lb/sq in at around 70% of rated engine speed.",
+  "Vibration bursts lasted from 10 to 350 cycles, with longer bursts corresponding to higher vibratory stresses.",
+  "Good correlation was found between the 5-zone stall frequency relative to the rotor and the blade vibration frequency at 65-72% of rated speed.",
+  "Reducing the guide vane turning or jet nozzle area caused the stall patterns to persist to higher speeds, up to 73% of rated speed.",
+  "The reduced guide vane turning increased the radial extent of the stall in the first-stage stator and decreased the amplitude of the flow fluctuations in the third stage.",
+  "The investigation was terminated by a fatigue failure of a first-stage rotor blade due to the high vibratory stresses.",
+  "Blades with magnets installed had lower natural bending frequencies than the standard blades.",
+  "The magneted blade reached its maximum vibratory stress at a lower engine speed than the standard blades.",
+  "Stall patterns with 6 zones were not detected with the standard guide vanes and jet nozzle configurations.",
+  "The duration of the vibration bursts corresponded to the time that the 5-zone and 6-zone stall patterns were present in the compressor.",
+  "The amplitude of the flow fluctuations due to rotating stall varied considerably with time, and were difficult to identify below 50% of design speed."
+]
