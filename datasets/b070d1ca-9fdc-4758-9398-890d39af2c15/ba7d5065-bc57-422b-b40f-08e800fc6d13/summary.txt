@@ -1,0 +1,1 @@
+This paper analyzes the thermal-structural behavior of air-cooled gas turbine blades using advanced computational methods. It examines the effects of different cooling configurations and gas temperature profiles on blade temperatures, stresses, strains, and predicted creep life.
