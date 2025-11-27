@@ -1,0 +1,17 @@
+[
+  "The design of transonic compressor cascades using the hodograph method is presented in this paper.",
+  "Previous research had focused on using the hodograph method for transonic turbine cascades, but not compressor cascades.",
+  "The key design requirements are: uniform and smooth flow in the nozzle, reasonable sonic line location, and desired aerodynamic characteristics in the subsonic region.",
+  "The analytical solution of the mixed-type hodograph equation is used in the supersonic regions, while the numerical solution of the Chaplygin equation is used in the subsonic regions.",
+  "Additional boundary conditions are used to improve the accuracy of the approximate compressible function in the subsonic regions.",
+  "The 'Shock wave-Meanstreamline Turn Method' is used to account for the flow turning caused by strong shock waves.",
+  "Two compressor cascade designs are presented: the J-3-Type and the Ma-Type.",
+  "The J-3-Type cascade has an outlet Mach number of 0.62, outlet flow angle of 45 degrees, and inlet Mach number of 1.22.",
+  "The velocity distribution of the J-3-Type cascade matches well with the Time Marching numerical method.",
+  "The Ma-Type cascade profile matches well with the cascade design provided in Reference 4.",
+  "The hodograph method can accurately model the supersonic and subsonic flow regions in transonic compressor cascades.",
+  "The 'Shock wave-Meanstreamline Turn Method' allows the hodograph method to account for the effects of strong shock waves.",
+  "The systematic design process using analytical and numerical solutions is a key advantage of the hodograph method.",
+  "Potential limitations include the accuracy of the approximate compressible function and the computational effort required.",
+  "The hodograph method provides a comprehensive approach to the design of transonic compressor cascades."
+]
