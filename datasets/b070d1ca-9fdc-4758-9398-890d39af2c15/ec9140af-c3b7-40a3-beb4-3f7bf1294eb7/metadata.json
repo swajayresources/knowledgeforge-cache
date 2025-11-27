@@ -1,0 +1,15 @@
+{
+  "paper_id": "ec9140af-c3b7-40a3-beb4-3f7bf1294eb7",
+  "title": "Thermal barrier coating life-prediction model development",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec9140af-c3b7-40a3-beb4-3f7bf1294eb7/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec9140af-c3b7-40a3-beb4-3f7bf1294eb7/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec9140af-c3b7-40a3-beb4-3f7bf1294eb7/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec9140af-c3b7-40a3-beb4-3f7bf1294eb7/keywords.json"
+  ]
+}
