@@ -1,0 +1,17 @@
+[
+  "The compressor had a design speed of 21,789 ft/s (exit tip speed of 1615 ft/s).",
+  "The impeller had 15 blade/splitter pairs with spanwise varying backsweep, lean, and elliptical leading and trailing edges.",
+  "The diffuser had 20 vane/splitter pairs with the splitters offset to maximize pressure recovery.",
+  "The exit guide vanes (EGVs) had 60 cascade-style airfoils.",
+  "The compressor was designed and tested under a NASA/UTRC cost-share contract.",
+  "The test facility could provide inlet pressures from 2-45 psia and inlet air temperatures from -20\u00b0F to ambient.",
+  "The compressor had a design work factor of 0.7905 and a diameter ratio of 1.45.",
+  "The measured adiabatic efficiency was 82.2% compared to the 84.95% design intent.",
+  "The measured polytropic efficiency was 85.5% compared to the 88.8% design intent.",
+  "The measured stability margin was 7.5% compared to the 12% design intent.",
+  "The measured exit Mach number was 0.18 compared to the 0.15 design intent.",
+  "The measured exit flow angle was 34.3\u00b0 compared to the 14\u00b0 design intent.",
+  "The diffuser static pressure rise increased from choke to stall, but was lower than the design intent.",
+  "The impeller was operating at a lower corrected flow rate than the design intent.",
+  "Comprehensive data sets and geometry will be made publicly available."
+]
