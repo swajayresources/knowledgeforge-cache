@@ -1,0 +1,17 @@
+[
+  "The National Aeronautics and Space Administration (NASA) is sponsoring an experimental and analytical program to investigate heat transfer within rotating turbine blades.",
+  "The Pratt & Whitney 3D-TEACH CFD code was selected as the baseline code for modification to meet the needs of the program.",
+  "The 3D-TEACH code solves the general steady flow equation in cylindrical coordinates, using a two-equation k-epsilon turbulence model for closure.",
+  "The code represents curvilinear surfaces using a 'stair-step' approach, which can lead to inaccuracies in calculating wall shear stress and surface heat transfer.",
+  "The code uses a 'law of the wall' approach with wall functions to handle boundary layer flows, rather than resolving the viscous sublayer.",
+  "Modifications to the 3D-TEACH code for rotating flows included adding additional source terms to the momentum and turbulence equations to account for Coriolis and centrifugal forces.",
+  "The code was verified against three sets of experimental data: Moon's duct flow, Moore's aspect ratio study, and Metzger's sharp bend heat transfer experiment.",
+  "The comparisons showed the 3D-TEACH code could capture the major effects of rotation, but had some discrepancies in predicting fluctuating quantities and heat transfer in the sharp bend.",
+  "The main conclusions were that the 3D-TEACH code shows promise, but has limitations that need to be addressed through further improvements in turbulence modeling, grid generation, and numerical schemes.",
+  "Accurately predicting coolant-side heat transfer and pressure drop in turbine blades is important for improving reliability in predicting blade temperatures and life.",
+  "Key challenges in developing computational methods for rotating turbine blade passages include the complex turbulent flow, effects of rotation, and need to resolve boundary layers and intricate geometries.",
+  "The experimental program aims to generate a comprehensive database that can form the basis of an empirical design system, in addition to the computational modeling efforts.",
+  "The overall objective of the NASA program is to develop and verify improved analysis methods that will result in efficient turbine components with improved durability.",
+  "The computational fluid dynamics approach was selected due to the complexity of the flow within turbine blades, which makes comprehensive empirical correlations difficult to obtain.",
+  "The study is part of a larger NASA program that also includes experimental investigations and the development of a design system based on the combined experimental and computational results."
+]
