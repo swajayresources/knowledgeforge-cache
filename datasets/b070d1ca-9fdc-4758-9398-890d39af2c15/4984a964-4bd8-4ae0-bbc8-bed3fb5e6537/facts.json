@@ -1,0 +1,17 @@
+[
+  "The paper proposes a topology optimization method that considers the geometric constraint of no closed cavities for additive manufacturing.",
+  "The proposed fictitious physical model represents a fictitious steady-state heat flow with a heat source in the void domain.",
+  "The diffusion coefficient a_p should be set to a value between 1x10^2 and 1x10^3 to appropriately express the constraint satisfaction.",
+  "The small diffusion coefficient (epsilon)_p should be set to a value of \u22641x10^-5 to ensure the desired behavior of the fictitious physical field and topological derivative.",
+  "The size of the fixed design domain in the numerical examples is 1.0m x 2.0m x 1.0m.",
+  "The isotropic linear elastic material has a Young's modulus of 210 GPa and a Poisson ratio of 0.3.",
+  "In the minimum mean compliance problem examples, the diffusion coefficients are set to a_p = 1x10^1 and (epsilon)_p = 1x10^-4.",
+  "Without the geometric constraint, the optimal configuration includes a cavity that is not connected to the outside.",
+  "With the geometric constraint, the optimal configuration does not have any closed cavities and the structural type changes from a plate-like structure to a columnar structure.",
+  "The proposed method makes it possible to select an appropriate structural type in consideration of the geometric constraints, which is difficult to obtain based on a shape that was obtained without considering the geometric constraint.",
+  "The proposed fictitious field can detect and suppress closed cavities without imposing excessive constraints on the shape.",
+  "The topological derivative contains information that is close to the constraint violation state, which helps suppress oscillation between the violation state and non-violation state in the optimization process.",
+  "The proposed method can qualitatively control the minimum size of a slit for powder removal by adjusting the diffusion coefficient a_p.",
+  "The fictitious physical models are dimensionless, so the range of parameter settings will always be valid regardless of changes in the size of the design domain.",
+  "The proposed method allows for optimal design for manufacturability in the basic framework of topology optimization by introducing the fictitious physical model."
+]
