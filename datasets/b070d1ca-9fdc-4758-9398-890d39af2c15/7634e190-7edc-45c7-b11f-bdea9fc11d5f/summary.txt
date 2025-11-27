@@ -1,0 +1,1 @@
+This paper reviews the progress made in the past decade on fundamental heat transfer research for gas turbine engines, including advances in computational fluid dynamics, experimental studies of unsteady effects, and boundary layer transition. It highlights key challenges that remain in accurately predicting gas-side heat transfer in turbine engines.
