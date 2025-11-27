@@ -1,0 +1,17 @@
+[
+  "The inlet Mach number is set to 2.0 and the Reynolds number based on the inlet velocity and axial blade chord is 200,000.",
+  "The ratio of specific heats is 1.31 and the Prandtl number is 0.747.",
+  "The grid has approximately 68,000,000 points, with 1200 \u00d7 280 \u00d7 144 points in the O-grid block and 960 \u00d7 280 \u00d7 72 points in the background Cartesian grid block.",
+  "For the adiabatic wall case, the grid resolution in wall units is in the range 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9.",
+  "For the isothermal wall case, the near-wall grid spacing ranges from 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19.",
+  "The time-averaged characteristic length of the separation bubble is (cid:104)Lsb(cid:105) = 0.16cax for the adiabatic wall case and (cid:104)Lsb(cid:105) = 0.10cax for the cooled wall case.",
+  "The separation bubble is formed on 0.70 < x/cax < 0.86 for the adiabatic wall and on 0.75 < x/cax < 0.85 for the cooled wall.",
+  "The pressure coefficient distribution shows a steeper variation downstream of the incident shock for the cooled wall case.",
+  "The wall-normal Reynolds stress (cid:104)unun(cid:105) is higher for the cooled wall compared to the adiabatic wall.",
+  "The maximum temperature values occur within the separation bubble for the adiabatic wall case, while for the cooled wall, higher temperatures are observed along the free shear layer downstream of the bubble.",
+  "The body forcing is applied to transition the boundary layers, ensuring a bypass transition with minimal flow disturbance.",
+  "The LAD-D2-0 approach is employed to compute the artificial bulk viscosity and thermal conductivity, allowing for minimal numerical dissipation in the vicinity of the shocks.",
+  "The high wavenumber compact filter presented by Lele is applied in flow regions far away from solid boundaries at each time step to preserve the stability of the numerical simulations.",
+  "The separation bubble undergoes a contraction/expansion motion for both the adiabatic and isothermal walls, indicating a breathing pattern of the bubble.",
+  "The excursions of the separation bubble length from the mean appear to be similar for both the adiabatic and cooled wall cases."
+]
