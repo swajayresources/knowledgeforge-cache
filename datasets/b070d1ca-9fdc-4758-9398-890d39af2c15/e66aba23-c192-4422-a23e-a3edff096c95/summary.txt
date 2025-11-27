@@ -1,0 +1,1 @@
+This paper describes the development and testing of a two-layer thermal barrier coating system consisting of a NiCrAlY bond coating and a stabilized zirconia thermal barrier coating. The coatings were evaluated through cyclic furnace and burner rig testing, showing the ZrO2-12Y2O3 coating to be the most resistant to cracking, spalling, and erosion.
