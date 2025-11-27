@@ -1,0 +1,17 @@
+[
+  "The research was carried out under a NASA Aeronautics Research Institute (NARI) funded project.",
+  "The objective was to evaluate emerging materials and manufacturing technologies to enable fully non-metallic gas turbine engines.",
+  "The system analysis estimated a 4.9% reduction in fuel burn and 7.7% increase in landing-takeoff NOx margin for the advanced engine with PMCs and CMCs.",
+  "PMCs were envisioned for use in the inlet acoustic duct, fan stator, and first four rows of the high-pressure compressor vanes.",
+  "CMCs were used in the combustor liner, high-pressure turbine vanes/blades, low-pressure turbine vanes/blades, and core nozzle.",
+  "The use of CMCs enabled the elimination of all turbine blade and vane cooling, leading to a 1.5 point efficiency improvement in the high-pressure turbine and 0.5 point improvement in the low-pressure turbine.",
+  "The IGVs were tested in a wind tunnel cascade at velocities ranging from 100 to 600 ft/s and angles from 0 to 60 degrees.",
+  "The maximum displacement of the IGVs increased with increasing velocity and angle of incidence, with the ABS vane with baseline fillet having the largest displacement up to several millimeters.",
+  "No fracture was detected in the IGVs, even at the 'closed' 90 degree position.",
+  "Acoustic liners were fabricated using Fused Deposition Modeling, including a conventional Helmholtz design and an advanced 'Passive-Destructive' design.",
+  "The acoustic liners were tested in the NASA Langley Grazing Flow Impedance Tube.",
+  "An acoustically-treated access panel for a turbofan engine bypass duct was also fabricated using additive manufacturing.",
+  "Detailed experimental results of the polymer composite process development and characterization are described in the second report.",
+  "The ceramic matrix composite components included the high pressure turbine second stage nozzle and the high pressure turbine shroud for auxiliary power units.",
+  "The high pressure turbine nozzle was chosen as it is a static structural component subjected to high temperatures but in a relatively low stress environment."
+]
