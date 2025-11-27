@@ -1,0 +1,17 @@
+[
+  "D-v2v is a dynamic (one-pass) variable-to-variable text compressor.",
+  "D-v2v processes the input text word-wise and gathers variable-length symbols representing sequences of words.",
+  "D-v2v uses a Patricia tree-based structure to efficiently handle the subsequences seen before in the input.",
+  "D-v2v encodes the symbols using dense codes (etdc).",
+  "D-v2v is able to improve the compression ratios of the previous dynamic word-based compressor detdc by more than 10 percentage points on regular English datasets.",
+  "D-v2v completely outperforms detdc on highly repetitive text collections.",
+  "D-v2v is able to overcome the compression ratios of the state-of-the-art semi-static variable-to-variable compressor v2vdc in all datasets tested.",
+  "D-v2v is faster at compression than p7zip, lzma, and re-pair, and is on par with the more complex v2vdcH variant.",
+  "At decompression, D-v2v is the fastest technique in all cases, except for detdc and v2vdc on non-repetitive English texts.",
+  "The current implementation of D-v2v requires a large amount of memory at the compression stage due to the Patricia tree-based structure.",
+  "The authors plan to improve the trie implementation and create an asymmetric lightweight version of D-v2v to reduce memory usage and enable efficient direct searches within the compressed text.",
+  "D-v2v uses a simpler Patricia tree-based approach to detect and encode variable-length sequences of words, compared to the suffix array and longest common prefix structure used by the previous v2vdc compressor.",
+  "On regular English text datasets, D-v2v and p7zip obtain similar compression ratios on the largest dataset, but p7zip, lzma, and re-pair outperform D-v2v on smaller datasets.",
+  "On highly repetitive text collections, the character-level compressors like p7zip and lzma significantly outperform D-v2v in compression ratio.",
+  "The reduced number of codewords in the compressed file by D-v2v helps amortize its more complex decompression approach compared to detdc and v2vdc on non-repetitive English texts."
+]
