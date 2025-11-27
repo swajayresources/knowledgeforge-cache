@@ -1,0 +1,1 @@
+This paper proposes a new 'Survey Descent' method for optimizing nonsmooth functions. It generalizes gradient descent by using a 'survey' of multiple points to build local models. The authors prove linear convergence when the objective is the maximum of smooth functions, and experiments suggest the method may exhibit linear convergence more broadly.
