@@ -1,0 +1,17 @@
+[
+  "The aircraft is powered by two high-bypass-ratio engines with a nominal thrust of about 35,000 lbf.",
+  "The aircraft is designed to carry 150 passengers at a cruise speed of Mach 0.8 over a range of 3000 n mi and to operate on a 6000-ft runway.",
+  "The design optimization used a multioptimizer cascade algorithm that employed sequential linear programming, sequential quadratic programming, the method of feasible directions, and then sequential quadratic programming again.",
+  "The regression-method-based analyzer exhibited a smoother convergence pattern than the FLOPS code.",
+  "The optimum weight obtained by the approximation technique differed by only 1.3% from the FLOPS code.",
+  "The prediction by the approximation technique exhibited no error for the aircraft wing area and turbine entry temperature, whereas it was within 2% for most other parameters.",
+  "The regression method had a tendency to hug the data points, while the neural network exhibited a propensity to follow a mean path.",
+  "The regression training required a fraction of a CPU second, while the neural network training took between 1 and 9 minutes.",
+  "For a single analysis cycle, the 3-second CPU time required by the FLOPS code was reduced to milliseconds by the approximators.",
+  "For design calculations, the time with the FLOPS code was 34 minutes, which was reduced to 2 seconds with the regression method and 4 minutes with the neural network technique.",
+  "The redundancy ratio (defined as the number of input-output pairs to the number of unknown coefficients) was 14 for the small model, 28 for the standard model, and 57 for the large model.",
+  "The performance of the regression and neural network methods was considered adequate and at about the same level for small, standard, and large models with the different redundancy ratios.",
+  "The COMETBOARDS design optimization testbed was coupled with the FLOPS code and the regression and neural-network-analysis approximators to obtain a preliminary aircraft design methodology.",
+  "The cascade strategy was required by FLOPS as well as the approximators.",
+  "The regression method had a tendency to hug the data points, whereas the neural network exhibited a propensity to follow a mean path."
+]
