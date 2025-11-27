@@ -1,0 +1,17 @@
+[
+  "The VAWT design allows adjusting the blade angle from 60\u00b0 to 180\u00b0 to adapt the turbine's characteristics to different wind speeds.",
+  "The maximum power output of 40.5 W was achieved at a rotational speed of 100 rpm and a blade angle of 180\u00b0.",
+  "The maximum torque of 4.8 Nm was achieved at the lowest simulated rotational speed of 20 rpm and a blade angle of 100\u00b0.",
+  "The maximum power coefficient of 0.082 was achieved at a tip-speed ratio (TSR) of 2.1 and a blade angle of 100\u00b0.",
+  "The 180\u00b0, 140\u00b0, and 100\u00b0 blade angle settings had relatively similar maximum power outputs, around 35-40 W, while the 60\u00b0 setting had a noticeably lower maximum power of 19.5 W.",
+  "The torque coefficient showed a non-linear decrease as the rotational speed increased, with the maximum value occurring at a blade angle of 100\u00b0 despite the maximum torque being at 180\u00b0.",
+  "The turbine's height can range from 206 mm (for 30\u00b0 blade angle) to 700 mm (for 180\u00b0 blade angle), while the rotor diameter is almost constant at 700 mm.",
+  "The computational mesh used in the CFD simulations contained 2.8 million elements with an average element quality of 0.76196.",
+  "The simulations were performed using the ANSYS Fluent software with the k-omega SST turbulence model.",
+  "The CFD simulations were run for two full rotations of the turbine, with a time step corresponding to a 2-degree rotation.",
+  "The study compared the CFD results to expected VAWT performance characteristics, finding trends consistent with typical VAWT behavior.",
+  "The simplified turbine geometry and single wind speed of 10 m/s used in the CFD simulations may not capture the full operating range of the VAWT.",
+  "The variable swept area design of the VAWT allows it to adapt its characteristics to different wind speeds and protect the rotor from damage in high wind conditions.",
+  "Vertical axis wind turbines (VAWTs) are more flexible to wind direction, have a smaller footprint, generate less noise, and can operate at lower wind speeds compared to horizontal axis wind turbines (HAWTs).",
+  "The overall efficiency of a wind turbine is affected by both aerodynamic efficiency and mechanical/electrical losses, with the aerodynamic efficiency being one of the key factors."
+]
