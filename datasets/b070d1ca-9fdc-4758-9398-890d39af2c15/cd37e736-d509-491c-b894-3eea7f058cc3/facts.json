@@ -1,0 +1,17 @@
+[
+  "The investigated samples are GaN thin layers with embedded ferromagnetic \u03b3'-Ga_y Fe_4-y N nanocrystals, fabricated by metal-organic vapor phase epitaxy.",
+  "The nanocrystals have sizes ranging from (50 \u00b1 20) nm to (20 \u00b1 8) nm in the layer plane, and (17 \u00b1 8) nm along the c-growth direction.",
+  "The nanocrystal density can be tuned from 3.9 \u00d7 10^9 to 15 \u00d7 10^9 NC/cm^2 by adjusting the Ga supply during growth.",
+  "The Ga atoms preferentially occupy the 3c Wyckoff sites in the face-centered cubic structure of the nanocrystals, rather than the 1a sites.",
+  "The amount of Ga in the 3c sites increases linearly with the Ga supply during the growth process, reaching a maximum occupancy of around 30%.",
+  "The lattice parameter of the nanocrystals along the c-growth direction decreases with decreasing Ga-flow during growth, indicating a reduction in Ga incorporation.",
+  "The magnetization and Curie temperature (T_C) of the nanocrystals display an inverse correlation with the amount of Ga occupying the 3c sites.",
+  "The highest T_C values reach up to 500 K for the samples with the highest Ga incorporation.",
+  "The combination of anomalous X-ray diffraction (AXD) and diffraction anomalous fine structure (DAFS) at the Ga K-edge allows the authors to directly probe the local structure of Ga atoms in the nanocrystals, even in the presence of a Ga-containing matrix.",
+  "The DAFS technique demonstrates the potential for unraveling the local structure of similar magnetic phase-separated systems, even when the nanocrystals and the surrounding matrix contain the same absorbing element.",
+  "The ferromagnetic Ga-doped Fe-nitride nanocrystals embedded in GaN offer potential for applications in magnetic data storage, spin current injection and detection, and the study of frustrated magnetic systems.",
+  "In contrast to Ga-doped Fe-nitride powders where Ga occupies the 1a sites and reduces magnetization, the incorporation of Ga into the 3c sites of the nanocrystals in this study results in an increase in magnetization and Curie temperature.",
+  "The authors' findings suggest that the inclusion of Ga in the 3c sites does not significantly affect the magnetic properties of the \u03b3'-Ga_y Fe_4-y N nanocrystals, in contrast to the case of Ga in the 1a sites.",
+  "The DAFS analysis indicates that a significant number of Ga-free nanocrystals with the pure \u03b3'-Fe_4N phase may be present in the samples.",
+  "The quantitative analysis of the DAFS data reveals that the ideal crystallographic structure of the nanocrystals is distorted, with the Ga-N and Ga-Fe distances slightly different from the natural ones."
+]
