@@ -1,0 +1,1 @@
+This paper demonstrates the existence of a 'frozen mode' in an asymmetric serpentine optical waveguide (ASOW), which exhibits vanishing group velocity and enhanced field amplitude. The frozen mode is associated with a stationary inflection point (SIP) in the Bloch dispersion relation, where three Bloch eigenmodes coalesce at an exceptional point of order three.
