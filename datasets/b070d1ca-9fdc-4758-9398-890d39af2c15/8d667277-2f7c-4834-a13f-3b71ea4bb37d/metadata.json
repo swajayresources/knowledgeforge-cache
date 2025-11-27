@@ -1,0 +1,15 @@
+{
+  "paper_id": "8d667277-2f7c-4834-a13f-3b71ea4bb37d",
+  "title": "Design Process for High Speed Civil Transport Aircraft Improved by Neural Network and Regression Methods",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/8d667277-2f7c-4834-a13f-3b71ea4bb37d/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/8d667277-2f7c-4834-a13f-3b71ea4bb37d/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/8d667277-2f7c-4834-a13f-3b71ea4bb37d/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/8d667277-2f7c-4834-a13f-3b71ea4bb37d/keywords.json"
+  ]
+}
