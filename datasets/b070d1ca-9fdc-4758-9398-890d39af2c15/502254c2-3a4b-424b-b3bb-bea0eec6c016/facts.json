@@ -1,0 +1,17 @@
+[
+  "The design optimization of the HSCT engine was cast as a nonlinear optimization problem.",
+  "The merit function for the optimization was engine thrust.",
+  "The design variables included bypass ratios, fan r-values, fuel flow, and other factors.",
+  "Constraints were specified on factors such as maximum compressor speed, positive surge margins for compressors, discharge temperature, pressure ratios, and mixer Mach number.",
+  "The cascade optimization strategy was necessary because the most reliable optimization algorithm available in COMETBOARDS could only provide feasible optimum results for a portion of the aircraft flight regime.",
+  "The cascade optimization strategy used multiple optimizers in a specified sequence, pseudorandom damping, and reduction of the design space distortion via a global scaling scheme.",
+  "The cascade optimization strategy was able to converge to the same global optimum solution, even when initiated from different design points.",
+  "The HSCT engine concept that was optimized was a Mach-2.4 mixed-flow turbofan engine.",
+  "The optimum thrust of the HSCT engine concept, as determined by the COMETBOARDS solution, was normalized with respect to the NEPP results.",
+  "The COMETBOARDS tool was able to successfully solve a number of engine design problems for their flight regimes, which the most reliable optimization algorithm available could not do.",
+  "The cascade optimization strategy was crucial in solving this complex, multidisciplinary design problem.",
+  "The HSCT air-breathing propulsion system was designed for multimission, variable-cycle operations.",
+  "The NASA Engine Performance Program (NEPP) was used as the engine performance analyzer.",
+  "The COMETBOARDS tool was developed at the NASA Lewis Research Center.",
+  "The optimization problem had a large number of mission points, diverse constraint types, and overall poor conditioning of the design space."
+]
