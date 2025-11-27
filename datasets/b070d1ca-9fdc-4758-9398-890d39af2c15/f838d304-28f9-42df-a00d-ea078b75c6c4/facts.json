@@ -1,0 +1,17 @@
+[
+  "The NASA goals call for 33% reductions in block fuel burn and takeoff field length, and a 60% reduction in oxides of nitrogen (NOx) emissions, relative to the Boeing 737-800/CFM56-7B performance levels.",
+  "The independent design variables include sea level static thrust, wing reference area, fan pressure ratio, overall pressure ratio, fan drive system architecture, bypass nozzle architecture, and high- and low-pressure compressor work split.",
+  "The propulsion system is modeled as a boosted, two-spool, separate-flow turbofan, with performance analyzed using the NPSS code and aeromechanical design analyzed using the WATE code.",
+  "The advanced aircraft model is based on an analytical evolution of the Boeing 737-800, with a design cruise Mach number of 0.80, increased range, and increased use of composite materials.",
+  "Detailed takeoff and approach trajectory calculations are made for each aircraft-engine combination using FLOPS to capture the influence of airplane trajectory and engine throttling on noise certification levels.",
+  "NOx emissions are estimated based on the high-temperature regions inside the engine combustor, where nitrogen from the air oxidizes into nitric oxide (NO) and nitrogen dioxide (NO2).",
+  "The optimization provides insight into the engine design options necessary to achieve multiple performance goals simultaneously, to help guide NASA's technology development efforts.",
+  "The analysis assumes engine and airframe technologies appropriate for a 2015-2020 service entry date, and builds on previous NASA system concept studies from 2008-2009.",
+  "Achieving the NASA goals for fuel burn, noise, emissions, and takeoff field length simultaneously is challenging due to the aggressive and often conflicting nature of these objectives.",
+  "The optimized solutions are expected to provide a broader set of design options compared to the previous NASA studies, by including fuel burn, noise, and emissions as optimization objectives.",
+  "The study uses a multi-objective optimization approach to explore the trade-offs between the various performance metrics for the advanced, single-aisle transport aircraft.",
+  "The propulsion system independent design variables include both continuous variables (e.g., thrust, wing area, fan pressure ratio) and discrete variables (e.g., overall pressure ratio, fan drive system, bypass nozzle architecture).",
+  "The aircraft synthesis and sizing analyses are carried out using NASA's Flight Optimization System (FLOPS) software, with enhancements to capture the impacts of large, ultra-high bypass ratio engines.",
+  "The detailed takeoff and landing trajectory calculations are used to establish the field length and certification noise levels for each aircraft-engine combination designed by the optimizer.",
+  "The exhaust emissions modeling focuses on oxides of nitrogen (NOx), which are produced through the thermal oxidation of nitrogen in the high-temperature regions of the engine combustor."
+]
