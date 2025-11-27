@@ -1,0 +1,1 @@
+This paper experimentally studies the effects of controlled sweeping flows on the dynamics of a solidification interface in a directional solidification device. The major finding is the evidence of large-scale traveling waves on the solidification interface, which induce repetitive striations in the solid phase.
