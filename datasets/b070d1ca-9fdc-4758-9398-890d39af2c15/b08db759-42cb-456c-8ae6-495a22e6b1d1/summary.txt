@@ -1,0 +1,1 @@
+This paper proposes BladeNet, a dual-module convolutional neural network architecture for detecting surface faults on composite wind turbine blades using drone imagery. BladeNet first performs unsupervised blade detection and extraction, then uses semi-supervised anomaly detection methods on the extracted blade regions to identify anomalous areas.
