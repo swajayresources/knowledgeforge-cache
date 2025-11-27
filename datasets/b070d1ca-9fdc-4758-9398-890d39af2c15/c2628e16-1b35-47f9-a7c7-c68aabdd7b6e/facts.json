@@ -1,0 +1,19 @@
+[
+  "Using Computer Vision Techniques for Moving Poster Design Rebelo, S\u00e9rgio1; Martins, Pedro1; Bicker, Jo\u00e3o1; Machado, Penousal1",
+  "pt 1 CISUC, Department of Informatic Engineering, University of Coimbra, 3030 Coimbra, Portugal Abstract: Graphic Design encompasses a wide range of activities from the design of traditional print media (e",
+  "The data is gathered from the environment in two ways: (1) directly using motion tracking; and (2) indirectly via contextual ambient data",
+  "Keywords: Moving Poster; Graphic Design; Computer Vision; Context-Aware Computing; Interaction Design 1 Using Computer Vision Techniques for Moving Poster Design 1",
+  "In this sense, Graphic Design (GD) \u2014 the discipline responsible for organising visual communication in our society (Frascara, 1988) \u2014, has always been keeping a symbiotic development with the technological improvements (Cooper, 1989)",
+  "Nowadays\u2019 practice of GD is located between the traditional approaches and the use of the new information and communication technologies (Neves, 2011)",
+  "Besides, today\u2019s audience is changing and no longer contents to simply digest messages (Armstrong & Stojmirovic, 2011)",
+  "The digital screens, which have infiltrated all kind of spaces, set up a new design challenge, allowing the inclusion of video and animated GIF (Benyon, 2016)",
+  "(Pf\u00e4ffli, 2014), (Studio Feixen & Giger, 2017) or (Creative Review, 2017))",
+  "According to Brechb\u00fchl (Benyon, 2016) it still is a poster, but \"the animation part is more like a fifth colour, or a special print technique",
+  "These posters border on storytelling, but still only communicate the same information (Benyon, 2016)",
+  "(LUST, 2014))",
+  "According to the Screen Design principles point of view, its development and implementation are still not well achieved (see (Macklin, 2008))",
+  "In the coming periods, this kind of posters will become mainstream and will begin to respond to their environment using information gathered by input devices (as such cameras, RFID tags, or audio devices) (Benyon, 2016)",
+  "Thereby, digital technologies will enable dialogues between the artefact and the viewers and will promote the seamless participation of the user and the serendipity of data derived from a process-oriented GD (Armstrong & Stojmirovic, 2011)",
+  "In this sense, we propose an alternative classification to \u2018moving posters\u2019 in two subsets: (1) animated, and (2) interactive",
+  "Following this line of thought, we present a system wherein computer vision techniques are used to shape a moving poster"
+]
