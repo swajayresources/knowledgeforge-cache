@@ -1,0 +1,17 @@
+[
+  "org/0009-0004-4703-7422 Jing Wang https://orcid",
+  "org/0000-0003-2705-1361 Jiawei Mei Hualong Zhao Research Article Keywords: turbine blade, lm cooling holes, adaptive location, blade deformation Posted Date: August 10th, 2023 DOI: https://doi",
+  "rs-3219667/v1 License: \uf25e \uf4e7 This work is licensed under a Creative Commons Attribution 4",
+  "0 International License",
+  "Read Full License Version of Record: A version of this preprint was published at The International Journal of Advanced Manufacturing Technology on March 21st, 2024",
+  "1007/s00170-024-13456-4",
+  "Page 1/16 Abstract Due to the inevitable deviation of the casting process, the dimensional error of the turbine blade is introduced",
+  "After machining experiments, the maximum position deviation of the holes is reduced by approximately 80% compared to the rigid location method of the entire blade, and the average value and standard deviation are also decreased by about 70%",
+  "In order to obtain improved performance in terms of combustion eciency and thrust-weight ratio, the turbine inlet temperature (1700\u20132000 K) has far exceeded the melting point (about 1700 K) of the turbine blade [1]",
+  "The lm cooling method is normally suggested to enhance the high-temperature creep resistance and maintain the normal state of the turbine blade [2]",
+  "The key to increasing the aero-engine's operational eciency is to correctly machine the lm cooling holes of the turbine blade [3], where two accuracy issues need to be resolved: exact dimension and accurate location",
+  "The lm cooling holes have a deep depth and a relatively narrow radius, often between 0",
+  "8 mm, which are typical high aspect ratio micro holes, are therefore challenging to produce using traditional techniques [4]",
+  "With the development of EDM and ultrashort pulse laser processing technology, as well as the maturity of related experiments, mathematical modelling and other process methods [5][6], the machining error of the micro hole gradually satises the accurate dimensional requirements of roundness, taper, contour and other parameters",
+  "However, due to the intricate design and thin-walled structure, the cooling rate of the blade surface varies according to the curvature statues, which inuences the casting process of the turbine blade and causes uneven deformation [7]"
+]
