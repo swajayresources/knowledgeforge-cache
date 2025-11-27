@@ -1,0 +1,17 @@
+[
+  "The simulated system is subjected to an applied tensile stress of 200 MPa.",
+  "After a creep time of 5.4 \u00d7 10^4 s, the \u03b3' precipitate is rafted in the horizontal direction with an aspect ratio of 1.35.",
+  "The interface dislocation density in the simulations is around 5 \u00d7 10^13 m^-2, which is in good agreement with experimental data.",
+  "The initial dislocation density is set to an average of 6 \u00d7 10^12 m^-2 for each slip system.",
+  "The simulated plastic strain increases rapidly in the beginning, but the strain rate constantly decreases due to strain hardening.",
+  "The authors use a phase-field model coupled with a continuum dislocation dynamics model to study the interaction between dislocations and the \u03b3/\u03b3' microstructure.",
+  "The continuum dislocation dynamics model is used to represent the fluxes of positive and negative edge dislocations, from which the geometrically necessary dislocations (GNDs) and statistically stored dislocations (SSDs) can be computed.",
+  "The phase-field model governs the evolution of the \u03b3/\u03b3' microstructure, while the continuum dislocation dynamics model represents the dislocation microstructure.",
+  "The model shows that dislocations predominantly accumulate at the horizontal \u03b3/\u03b3' interfaces, with positive edge dislocations blocking at the lower interface and negative dislocations accumulating at the upper interface.",
+  "The 'N-type rafting', where the rafts form perpendicular to the applied tensile stress, is commonly observed in nickel-based superalloys with a negative \u03b3/\u03b3' misfit and is captured by the model.",
+  "The authors state that future work will consider a more sophisticated phase-field model to represent multiple \u03b3' variants and include climb processes and dislocation-assisted pipe diffusion.",
+  "The continuum dislocation dynamics model used in the study was able to retain short-range dislocation interactions despite using a coarser grid, which is a limitation of previous phase-field descriptions of dislocations.",
+  "The model assumes the same stiffness tensor for both the \u03b3 and \u03b3' phases and only considers the \u03b3/\u03b3' misfit strain and the dislocation eigenstrain as the sources of elastic inhomogeneities.",
+  "The dislocation pileups that form in the horizontal channels reduce the maximum long-range shear stress compared to the case without dislocations, due to the backstress from the pileups.",
+  "The simulated interface dislocation density of around 5 \u00d7 10^13 m^-2 is in good agreement with the experimental data, which typically ranges from 1 \u00d7 10^13 m^-2 to 3-30 \u00d7 10^13 m^-2."
+]
