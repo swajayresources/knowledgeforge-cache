@@ -1,0 +1,17 @@
+[
+  "The IIMCS method is an extension of the Mahalanobis Classification System (MCS) and Integrated Mahalanobis Classification System (IMCS) to address the challenges of measurement uncertainty.",
+  "The IIMCS employs Binary Particle Swarm Optimization (BPSO) to filter out the resonant frequencies that contribute most to the information in the system.",
+  "The IIMCS runs the BPSO optimization multiple times (N1) to identify the most reliable features based on their frequency of occurrence.",
+  "The case study was conducted on 232 equiaxed nickel alloy first-stage turbine blades, of which 193 were healthy and 39 were defective.",
+  "The defective turbine blades contained various types of defects, including microstructural changes, airfoil cracking, intergranular erosion, thin walls, and service wear.",
+  "Vibrant Corporation conducted vibration testing of the turbine blades in the frequency range of [3, 38] kHz using Process Compensated Resonance Testing (PCRT) techniques.",
+  "A total of 15 resonant frequencies (f1 to f15) were identified from the vibration response of the turbine blades for further analysis.",
+  "31 repeated measurements were performed on the nominal turbine blades to assess the potential measurement uncertainty or repeatability.",
+  "The use of the optimal subset of features (f2, f4, f14, f15) significantly reduced the margin of the Interval Mahalanobis Distance (IMD) values.",
+  "The IIMCS method achieved a classification accuracy of 97.85% on the testing dataset, with only 2 misclassifications out of 232 blades.",
+  "The classification reliability indicator 'r' provided by the IIMCS method ranges from -1 to 1, indicating the confidence level of the classification results.",
+  "The Monte Carlo Method (MCM) is used in the IIMCS framework to propagate the measurement uncertainty into the Mahalanobis distance space.",
+  "The IIMCS method aims to provide a more robust classification system compared to previous approaches like MCS and IMCS by accounting for measurement uncertainty.",
+  "The IIMCS method integrates the concept of Interval Mahalanobis Distance (IMD) into the classification scheme to improve the classification procedure and provide an indicator for classification reliability.",
+  "The IIMCS method is demonstrated in an experimental case study of an equiaxed nickel alloy first-stage turbine blade, showing satisfactory performance."
+]
