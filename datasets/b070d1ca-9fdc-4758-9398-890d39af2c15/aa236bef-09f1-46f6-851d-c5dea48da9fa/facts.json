@@ -1,0 +1,17 @@
+[
+  "The authors performed thin-sample directional solidification experiments using a transparent CBr4-1.4 mol% CCl2 alloy with a thermal gradient of 120 \u00b1 20 K/cm.",
+  "The nominal constitutional supercooling and Mullins-Sekerka threshold velocities for the 1.4 mol% CBr4-CCl2 alloy are approximately 15 \u03bcm/s and 20 \u03bcm/s, respectively.",
+  "The actual cellular threshold velocity was estimated to be around 15 \u00b1 4 \u03bcm/s, which is lower than the theoretical predictions.",
+  "At solidification velocities below 6 \u03bcm/s, the solid-liquid interface remained planar over the whole width of the sample.",
+  "In the velocity range of 6-10 \u03bcm/s, a pre-cellulation phenomenon was observed near grain boundary grooves, as predicted by the theory.",
+  "Fully developed cellular patterns were observed for solidification velocities greater than 10 \u03bcm/s.",
+  "Subboundaries exhibit a finite dihedral angle and a much smaller depth of the grain boundary groove compared to high-angle grain boundaries.",
+  "The phase-field model uses an anisotropy function a(\u03b8) with smooth but deep minima to approximate a cusp-like behavior in the grain boundary energy.",
+  "The Laplacian term is added to the free energy functional as a regularization technique to avoid ill-posedness due to missing orientations in the anisotropy function.",
+  "The phase-field simulations demonstrate that the grain boundary mobility plays a crucial role in the observed morphological evolution.",
+  "The experimental results are in good qualitative agreement with the theoretical predictions from the previous linear stability analysis.",
+  "The findings open an avenue for using directional solidification experiments to obtain information about grain boundary energetics and mobility.",
+  "The authors studied the interplay between the diffusion-controlled dynamics of a solidification front and the trajectory of a grain boundary groove at the solid-liquid interface.",
+  "The authors used thin-sample directional solidification experiments of a transparent alloy and numerical simulations with the phase-field method in two dimensions.",
+  "The authors found that low-angle grain boundaries (subboundaries) with an anisotropic interfacial free energy grow tilted at an angle \u03b8 with respect to the temperature gradient axis."
+]
