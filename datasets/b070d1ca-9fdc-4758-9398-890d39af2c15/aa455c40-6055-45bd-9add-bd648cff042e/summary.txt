@@ -1,0 +1,1 @@
+This paper demonstrates that graphene nanostructures can exhibit ultrafast radiative heat transfer, with over 50% of the electronic heat of a hot disk being transferred to a neighboring colder disk within femtoseconds. This is enabled by the strong plasmonic response and low electronic heat capacity of graphene.
