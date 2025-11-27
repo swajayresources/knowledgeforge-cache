@@ -1,0 +1,1 @@
+This paper presents an adaptation of Greenberg's potential flow model to predict the aerodynamic loads on vertical-axis wind turbine blades. The model is extended to handle multi-harmonic oscillations in effective angle of attack and incoming flow velocity, and the results are compared with experimental data from a scaled-down single-bladed H-type Darrieus wind turbine.
