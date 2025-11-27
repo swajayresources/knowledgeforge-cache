@@ -1,0 +1,17 @@
+[
+  "The chord-to-radius ratio (c/R) ranged from 0.25 to 0.74 in the experiments.",
+  "Increasing c/R led to higher virtual camber and virtual incidence.",
+  "More negative preset pitch angles (\u03b1_p) were found to be optimal as c/R increased.",
+  "Positive geometric camber enhanced upstream performance, while negative camber reduced downstream losses.",
+  "The experiments were conducted at diameter-based Reynolds numbers between approximately 1.6 \u00d7 10^5 and 2.7 \u00d7 10^5.",
+  "The optimal performance at a given net camber was found to occur at a relatively constant net incidence of 0\u00b0 to +1\u00b0.",
+  "The paper proposes using net camber (\u03b3_net) and net incidence (\u03b1_net) as composite variables to better understand turbine performance and design behavior.",
+  "The study used two experimental datasets: one varying preset pitch, c/R, blade count, and Reynolds number, and the other examining geometric blade camber and pitch.",
+  "The blockage ratio was approximately 11% across all tests.",
+  "The blade height (h) and outermost diameter (D_o) were held constant at 23.4 cm and ~17.2 cm, respectively.",
+  "The optimal tip-speed ratio ranged from 2.3 to 3.6, with the highest values for low c/R and the lowest for high c/R.",
+  "Increasing toe-out preset pitch (more negative \u03b1_p) reduced upstream performance but increased downstream performance.",
+  "Increasing net camber, whether through virtual or geometric means, had similar effects on phase-averaged performance.",
+  "Changes in c/R, preset pitch, and camber all exhibited comparable magnitudes of influence on turbine performance.",
+  "Reynolds number effects were considered secondary compared to the primary geometric parameters."
+]
