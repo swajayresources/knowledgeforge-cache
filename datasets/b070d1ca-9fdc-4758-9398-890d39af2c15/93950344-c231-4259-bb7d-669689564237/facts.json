@@ -1,0 +1,17 @@
+[
+  "(Dated: March 29, 2018) Abstract",
+  "Patriarca, Statistical correlations in the oscillator model of quantum Brownian motion, Il Nuovo Cimento B, 111(1), 61-72 (1996), doi: 10",
+  "1007/BF02726201, arXiv:1801",
+  "02429], whichhasthepropertyofbeingfiniteandconsistentwiththeclassicallimit",
+  "INTRODUCTION AND BACKGROUND Among the various approaches to quantum Brown- ian motion explored so far, some are known to be un- suited [1], while others, such as the category of models Figure 1",
+  "In the basic scheme of the oscillator model, the based on the oscillator model of a thermal bath, have centralsystem xislinearly coupled totheenvironmentoscil- provided valuable descriptions of that range of physical lators with coordinates q = {q1,q2,",
+  "A linear coupling phenomena, in which both quantum and statistical fluc- does not specify completely the form of total Lagrangian or tuationsplayarelevantrole[2,3]",
+  "the quantum Langevin equation [4, 5] and the Feynman and Vernonmodel [6, 7], with its later However,as discussed below, the prescription of a lin- developments by Caldeira and Leggett [8, 9]",
+  "}iscoupledlinearlyto i 1 2 inRefs",
+  "Dissipation appears in the system in the limit of distribution function acontinuousdistributionintheangularfrequencies{\u03c9 } i of the oscillators, with a suitable density G(\u03c9), related 2\u03b7 G (\u03c9)\u2248 , (1) to the response of the central degree of freedom",
+  "WN \u03c0m\u03c92 where m is the oscillator mass and \u03b7 is the friction coef- ficient appearing in the Langevin equation, Mx\u00a8(t)\u2212f(t)=\u2212\u03b7x\u02d9(t)+R(t)",
+  "(2) Heref(t)anexternalforcingandR(t)theenvironmental noiseforce,whichisaGaussianstochasticprocessdefined \u2217 This paper is a revised version with corrections and addi- by the first two moments tional references and figures of thearticle: Marco Patriarca, FeynmanVernon model of a moving ther- hR(t)i=0 , hR(t)R(s)i=2\u03b7k T\u03b4(t\u2212s), (3) B mal environment, Physica E 29 (2005) 243250, doi 10",
+  "ee plicit treatment of quantum Brownian motion given by Caldeira and Leggett [8] reveals the general ambiguities 8102 raM 72 ]hp-tnauq[ 1v00301",
+  "3081:viXra 2 affectingtheFeynman-Vernonmodel,signalledforexam- ple by the appearance of infinite potential terms related totheoscillatorsectorofthetotalLagrangian",
+  "[10] and summarized here below"
+]
