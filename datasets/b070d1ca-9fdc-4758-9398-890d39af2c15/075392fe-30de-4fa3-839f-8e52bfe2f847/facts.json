@@ -1,0 +1,17 @@
+[
+  "The composition of the Haynes 188 alloy used in the study (in wt%) was: 24.43Ni, 21.48Cr, 13.95W, 1.24Fe, 0.01C, 0.75Mn, 0.40Si, 0.012P, 0.002S, 0.034La, 0.002B, and balance Co.",
+  "The Haynes 188 alloy was solution treated at 1175\u00b0C for 1 hour prior to machining the samples for low cycle fatigue testing.",
+  "The fully-reversed, total axial strain controlled isothermal low cycle fatigue tests were performed at different temperatures in the range of 25 to 1000\u00b0C, employing a triangular waveform and an axial strain range of 0.80%.",
+  "The in-phase thermomechanical fatigue tests were conducted with a mechanical strain rate of 10^-4 s^-1, where the maximum tensile strain coincided with the maximum temperature, and the maximum compressive strain with the minimum temperature.",
+  "Serrated yielding was observed in the stress-strain response during the isothermal tests performed at a strain rate of 10^-3 s^-1 between 300 and 850\u00b0C.",
+  "The occurrence of dynamic strain aging was suggested by several observations, including the maximum cyclic hardening at an intermediate temperature of 650\u00b0C, serrated flow behavior, and the inverse dependence of the maximum cyclic hardening stress and inelastic strain range on strain rate.",
+  "Below the dynamic strain aging range, the deformation substructure was made up of distinctly spaced slip bands consisting of dislocation bundles and dipoles.",
+  "In the dynamic strain aging domain between 400 and 550\u00b0C, dislocations frequently formed planar arrays with well-developed stacking faults.",
+  "Towards the end of the dynamic strain aging regime at 600 and 650\u00b0C, the dislocation density was very high, and the substructures assumed a more homogeneous network.",
+  "At temperatures above 900\u00b0C, the pronounced substructural features associated with thermal recovery effects could be seen, such as the formation of subgrains with sharp walls.",
+  "In the high temperature regime between 750 and 900\u00b0C, the high strain rate tests showed a greater number of dislocations anchored by fine MC precipitates compared to the low strain rate tests.",
+  "The maximum hardening rates and magnitudes experienced by the thermomechanical fatigue compressive peaks at 400\u00b0C substantially exceeded those displayed isothermally at 400\u00b0C.",
+  "Significant mean stresses developed in the thermomechanical fatigue tests when the maximum temperature of the cycle was above, and the minimum temperature was within, the dynamic strain aging range.",
+  "The maximum tensile stresses experienced at the maximum temperature of the thermomechanical fatigue cycles were nearly identical to those attained in corresponding isothermal tests, but the number of cycles needed to attain this stress level was less.",
+  "The maximum compressive stresses attained in the thermomechanical fatigue tests were not well represented by the isothermal tests performed at the corresponding temperatures."
+]
