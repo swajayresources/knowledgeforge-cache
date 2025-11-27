@@ -1,0 +1,1 @@
+This paper analyzes the structural and thermal performance of a gas turbine vane using computational fluid dynamics (CFD) and the Taguchi optimization technique. The study investigates the effects of impingement cooling flow on the temperature distribution of the vane, and evaluates the structural stability under centrifugal forces.
