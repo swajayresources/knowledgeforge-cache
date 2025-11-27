@@ -1,0 +1,17 @@
+[
+  "The test blading had 12 rows of coolant holes, 6 on the suction surface and 6 on the pressure surface.",
+  "The diameter and pitch of the coolant holes were 0.076 cm and 0.114 cm, respectively.",
+  "The single-row and multirow tests were conducted at nominal ideal primary-air exit critical velocity ratios of 0.5, 0.65, and 0.8.",
+  "The range of coolant fractions investigated was from 0 to about 0.04 for the single-row tests and up to about 0.13 for the multirow tests.",
+  "The percent change in primary-air efficiency per percent coolant flow was about 0.8 for coolant rows ejecting to surface static pressures higher than the blade row exit static pressure, compared to about 0.4 for rows ejecting to lower pressures.",
+  "The percent change in primary-air efficiency per percent coolant flow was about 0.8 for the six rows on the pressure surface, compared to about 0.5 for the six rows on the suction surface.",
+  "For full film cooling from all 12 rows, the percent change in primary-air efficiency per percent coolant flow was about 0.6.",
+  "Excellent agreement was obtained between the experimental multirow primary-air efficiency and the multirow efficiency predicted from adding the experimental single-row results.",
+  "Coolant ejected from an upstream row of holes did not affect the output of coolant ejected from downstream rows.",
+  "Primary-air efficiency was selected as the performance metric instead of thermodynamic efficiency to reduce the number of variables when studying the effect of coolant on output energy.",
+  "The key assumptions in predicting multirow performance from single-row data were constant coolant mass flow, constant coolant exit velocity, constant primary-air ideal exit velocity, and constant primary-air efficiency.",
+  "The different trends in efficiency change for different coolant row locations were attributed to the coolant being discharged in the expansion region versus the diffusion region of the blade surface.",
+  "The smaller efficiency change for rows 1 and 7 compared to other rows was likely due to their perpendicular ejection angle relative to the blade surface.",
+  "The efficiency of the single-row configurations with no coolant varied from about 0.965 to 0.975 over the tested primary-air Mach number range.",
+  "The change in primary-air efficiency with increased coolant flow was generally only slightly affected by primary-air exit critical velocity ratio."
+]
