@@ -1,0 +1,12 @@
+[
+  "The ASOW follows a serpentine path with a unit cell length d = 2R, where R is the radius of the loops.",
+  "The difference in phase accumulation between segments B and B' in the unit cell, \u03c6_b \u2260 \u03c6'_b, breaks the left-right symmetry and enables the SIP.",
+  "The authors derive five necessary conditions in Eq. (14) that must be satisfied for the ASOW to exhibit an SIP.",
+  "The SIP is an exceptional point of order three, where three Bloch eigenmodes coalesce.",
+  "At the SIP frequency \u03c9_s, the characteristic equation has the simple form (\u03b6 - \u03b6_s)^3(\u03b6 - \u03b6_s^-1)^3 = 0.",
+  "The authors analyze a finite-length ASOW with N = 32 unit cells and show the frozen mode regime with dramatically enhanced field amplitudes in the middle of the structure.",
+  "The quality factor Q near the SIP frequency is high due to the frozen mode regime, but the ASOW does not behave as an isolated high-Q cavity compared to other exceptional point structures.",
+  "The authors use a coalescence parameter \u03c3 to quantify the degree of eigenvector coalescence at the SIP.",
+  "The ASOW is designed for a target SIP wavelength of 1550 nm, with a silicon waveguide of height 230 nm and width 430 nm.",
+  "The authors assume the ASOW is lossless and restrict the loop radius R \u2265 10 \u03bcm to minimize radiation losses."
+]
