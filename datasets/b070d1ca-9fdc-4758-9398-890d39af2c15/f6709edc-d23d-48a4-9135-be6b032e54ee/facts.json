@@ -1,0 +1,17 @@
+[
+  "The paper presents the Integrated Interval Mahalanobis Classification System (IIMCS) for classifying the vibrational quality of metallic turbine blades under measurement uncertainty.",
+  "IIMCS employs Monte Carlo simulations to propagate measurement uncertainty into the Mahalanobis distance space, resulting in the Interval Mahalanobis Distance (IMD).",
+  "IIMCS uses Binary Particle Swarm Optimization (BPSO) to filter out the resonant frequencies that contribute most to the information in the system and determine the optimal subset of features.",
+  "The classification reliability indicator 'r' ranges from -1 to 1, where the sign indicates whether the sample is classified as 'Bad' or 'Good', and the absolute value indicates the confidence level of the prediction.",
+  "The case study on equiaxed nickel alloy turbine blades showed that using the optimal subset of 4 features (f2, f4, f14, f15) resulted in a significantly narrower range of IMD values compared to using the full set of 15 features.",
+  "The IIMCS achieved a classification accuracy of 97.85% on the testing dataset, with only 2 misclassifications.",
+  "The reliability indicators provided by IIMCS helped identify one of the misclassified blades as having a low reliability value of -0.78.",
+  "The main novelty of IIMCS is the implementation of Monte Carlo simulations to infer the Interval Mahalanobis Distance and provide an indicator of classification reliability.",
+  "IIMCS addresses the challenges of dealing with measurement uncertainties that were not considered in previous Mahalanobis-based classification methods like MCS and IMCS.",
+  "The IIMCS algorithm involves randomly dividing the dataset into training and test sets, using BPSO to search for the optimal feature subset, running the BPSO optimization multiple times, employing Monte Carlo simulations to obtain the IMD, and determining the classification reliability indicator.",
+  "The main advantages of IIMCS are accounting for measurement uncertainty, providing a reliability indicator for the classification results, and employing BPSO to optimize the feature subset, addressing the challenges faced by previous methods.",
+  "The case study on equiaxed nickel alloy turbine blades demonstrated the good and robust classification performance of the IIMCS methodology.",
+  "The paper acknowledges the ICON project DETECT-ION and Vibrant Corporation for providing the anonymous datasets of the turbine blades.",
+  "The paper references previous work on Mahalanobis-based classification systems, such as MCS and IMCS, and their limitations in dealing with measurement uncertainties.",
+  "The paper states that the logarithmic of chi-squared distributed variables is approximately Gaussian distributed, and the scaled IMD approximately corresponds to a Gaussian distribution."
+]
