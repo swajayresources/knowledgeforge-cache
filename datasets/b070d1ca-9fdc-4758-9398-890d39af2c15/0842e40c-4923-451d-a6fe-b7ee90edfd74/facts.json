@@ -1,0 +1,17 @@
+[
+  "The study used three different Savonius rotor wind turbine models with varying blade sizes: Model 1 (height 1 m, diameter 0.4 m), Model 2 (height 0.75 m, diameter 0.3 m), and Model 3 (height 0.5 m, diameter 0.2 m).",
+  "A constant wind speed of 9.2 m/s was used in the simulations.",
+  "The simulations were carried out using a transient time flow with a constant upstream wind speed.",
+  "The SIMPLE algorithm was used for the pressure-velocity coupling scheme in the solution method.",
+  "The power coefficient of all models increased with tip-speed ratio (TSR), and the highest efficiency was obtained at almost a unity (0.9) TSR.",
+  "Model 2 generated the highest power coefficient, followed by Model 3 and Model 1.",
+  "The torque and torque coefficient were higher at low TSR and decreased as the TSR increased for all models.",
+  "Model 3 showed an enhanced performance percentage of 38.54% and 27.87% in power and power coefficient at TSR of 0.7 and 0.9, respectively, compared to the baseline.",
+  "Model 2 had an improvement of 39.08% and 28.10% in power and power coefficient at TSR of 0.7 and 0.9, respectively, compared to the baseline.",
+  "The difference in peak power coefficient between the best performing model (Model 2) and the worst performing model (Model 1) was 25.62%.",
+  "The starting capability of the wind turbine, which could be affected by the blade size, was not covered in the current study.",
+  "The performance of the Savonius rotor wind turbine was influenced by factors such as blade angle, blade shape, and the lift and drag forces acting on the blades.",
+  "The primary goal of the study was to maximize wind energy harvesting and rotational mechanical electric generation of Savonius rotors by varying the rotor blade size.",
+  "The Savonius wind turbine is a vertical-axis wind turbine (VAWT) that is propelled by drag and has strong starting torque and no wind direction issues.",
+  "Compared to horizontal-axis wind turbines (HAWTs), VAWTs like the Savonius rotor receive less attention, and their design research is sparse and unreliable."
+]
