@@ -1,0 +1,12 @@
+[
+  "The energy density and angular distribution of power radiated by a quark undergoing circular motion in strongly coupled N=4 super Yang-Mills theory is computed using gauge/gravity duality.",
+  "The results are qualitatively similar to synchrotron radiation produced by an electron in circular motion in classical electrodynamics.",
+  "At large velocities, the quark emits radiation in a narrow beam along its velocity vector with a characteristic opening angle scaling as 1/\u03b3 and radial thickness scaling as 1/\u03b3^3.",
+  "The total power radiated by the quark is given by the vacuum result P = a^2 \u221a\u03bb / (2\u03c0), where a is the quark's proper acceleration and \u03bb is the 't Hooft coupling.",
+  "The radiation falls off as 1/r^2 and propagates radially outward at the speed of light, without any broadening or isotropization.",
+  "The entire pattern of energy density rotates with the constant angular frequency \u03c9 = v/R_0, where v is the quark's velocity and R_0 is the radius of the circular orbit.",
+  "Negative energy density is observed before and after the radiation pulse, which the authors attribute to quantum effects.",
+  "The authors suggest that extending this calculation to nonzero temperature could provide insights into jet quenching in the strongly coupled quark-gluon plasma of QCD.",
+  "Previous studies had found isotropization of radiation at strong coupling, but this work shows the radiation from an accelerated test charge does not exhibit this isotropization.",
+  "The authors are able to reliably calculate the real-time, strongly coupled radiation pattern using a classical gravitational calculation in the AdS spacetime dual to the N=4 super Yang-Mills theory."
+]
