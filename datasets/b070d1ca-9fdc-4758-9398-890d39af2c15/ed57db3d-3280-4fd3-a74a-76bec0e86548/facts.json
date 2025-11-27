@@ -1,0 +1,17 @@
+[
+  "The authors consider pressure-driven microflow of a power-law fluid with constant but unequal heat fluxes imposed at the upper and lower walls.",
+  "The dimensionless slip coefficients at the lower and upper walls are denoted as K1 and K2, respectively.",
+  "The power-law index n is taken to be either 0.5 (shear-thinning) or 1.5 (shear-thickening).",
+  "The modified Brinkman number Br' is kept constant at 0.2 in the analysis.",
+  "Asymmetric slip shifts the location of the velocity maximum closer to the wall with larger slip coefficient.",
+  "Asymmetric slip redistributes the peaks and plateaus of the Bejan number profile across the microchannel.",
+  "For the same slip coefficient, the Hatzikiriakos slip law predicts a higher Nusselt number and less entropy generation compared to the asymptotic slip law.",
+  "Entropy generation is primarily due to fluid friction in shear-thinning fluids, while it is primarily due to heat transfer in shear-thickening fluids.",
+  "Higher Br' leads to increased entropy generation, and can cause the Nusselt number to become negative for shear-thickening fluids.",
+  "The difference in the imposed heat fluxes leads to starkly different Bejan number profiles depending on which wall is hotter.",
+  "Asymmetric slip is shown to promote uniformity in both the velocity field and the temperature field, thereby reducing irreversibility in the flow.",
+  "The results are relevant to microfluidic devices, unconventional energy applications like hydraulic fracturing, and other industrial processes involving non-Newtonian fluids and slip flow.",
+  "The authors derive exact analytical expressions for the velocity profile, temperature distribution, Nusselt number, and entropy generation rate.",
+  "The study considers the effect of asymmetric slip on heat transfer enhancement and reduction of entropy generation in pressure-driven non-Newtonian microflows.",
+  "The authors use Navier's nonlinear slip law to model the asymmetric slip boundary conditions at the channel walls."
+]
