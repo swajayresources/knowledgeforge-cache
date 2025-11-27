@@ -1,0 +1,1 @@
+This paper presents a turbine blade cooling concept that uses microtextured surfaces to enhance internal impingement cooling effectiveness, which can be combined with microchannel cooling and external film cooling to optimize the cooling system and enable higher combustion temperatures with lower engine penalties.
