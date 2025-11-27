@@ -1,0 +1,17 @@
+[
+  "O August 11, 1950 By W",
+  "In addition to the applicationt o turbine blades, the methods can be applied to any at-transfer 8pparatUS having a profile that cap be approximated by the shapes discussed",
+  "The fundamental c 2 NACA RM E503'09",
+  "I 8 bourtm-layer and heat-transfer theories are therefore being studied at the MclcA Lewis laboratory as a means of predicting local heat- transfer coefficientsf or any given seotf flow conditions",
+  "Three methods were proposed for obtaining these coefficients: (1) boundary-layer surveys usinag hot-wire anemometer,( 2) boundary- layer surveys usin@a;n optical interferometer, an(d3 ) analytical solutions using measured turbine-blade temperatures",
+  "): E 4 hi where % and ty wall temperaturea at tu0 specific locationsl ying in direction of heat flow wall temperature any place in line of heat flaw % (usually taken as either or ts) ' proportionality factor thaits function of wall con- figuration, locationo f temperature measureents t, and try and ratio of outside heat-transfer coefficient to wall thermal conductid- kB; can be mathematically expresseda nd exgerimentally determined proportfonallty factors thaarte functions of wall con- figuration, location of temperature measurement tg, wall thermal conductivity, and ratio of outside heat- transfer coefficientt o wall thermal conductivity; can be mathematically expresseadn d evaluated by use of ratio ht/kB calculated from experimental deter- mination of I' r, ty The mathematfcal expressions for and q are relatively , Van 8-10 for 8 8iDIph Sbpe such as 8 Of UlIifOlTl thiCkneS8, but they becomem re complicated for walls def'ined by concentric circles or for rectagdar- or trapezoidal-shaped fins",
+  "rr et, For a given configuration and thermocouplel ocation, and a kgq can be mathematically evaluated as functionofs at/kB and 4 HACA RM E50FO9 4",
+  "h From equation (1) it can be seen that if kt ty, and te r are knovn from experiment, the value of is eaeily calculated",
+  "The quantity %/kg can thenb e obtained for a matheutatically deter- r milled CUX'V8 Of as 8 fUIlCtiOTi Of %/kB",
+  "is then also The values of ht/kg and kg can then be used to evaluate f and q, and if the coolant temperature tc is known from experiment, the inside heat-transfer coefficient hi can be calculated from equation (2)",
+  "u st be obtained for a constant outside heat-transfer coefficient ht L From equation (I), if h-ty is plotted against & for a constant r, value of the intercept 011 %he +axis will be te (this ie the caee where &- ty = 0) and the slope of thep lotted line wilble L -r",
+  "It 2s often &e cowentent to write equation( 1) in the form where tg is an observed QSS temperature, and -om equation (3), (tx- %)/tg is plbtted against t&, n the intercept on the tdtg-axis will be and the slope bill -r",
+  "again be The effective gas temperature is then calculated from the value of by use of equation (4), and the",
+  "If only one watl temperature tB is the temperature-distribution equation for determining the outside heat- ' transfer coefficientc an be written NACA RM E5OFO3 5 - - tg tc = r(te tc) or t: 5 For the casesw here the temperature gradient in the metal could r be measured by means of two thermocouples, the term was a",
+  "equation (5) or (6) to experimental data is afferent from the method used for equations (1) and (3)"
+]
