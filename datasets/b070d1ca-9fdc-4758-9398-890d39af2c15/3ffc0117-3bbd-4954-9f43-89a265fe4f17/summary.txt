@@ -1,0 +1,1 @@
+This paper presents a coupled blade element momentum - computational fluid dynamics (BEM-CFD) model to simulate the performance of tidal stream turbine arrays. The model is used to evaluate the effects of turbine spacing and arrangement on flow dynamics and rotor performance, and an example is provided to optimize the layout of a 14-turbine array.
