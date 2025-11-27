@@ -1,0 +1,17 @@
+[
+  "The study covers a range of plasma currents from 1.5 to 3 MA and a range of line-averaged plasma densities from 1.69 to 3.93 x 10^19 m^-3, corresponding to a range of Greenwald fractions from 0.1 to 0.7.",
+  "The mean and standard deviation of the ion saturation current increase as plasma current decreases and/or density increases.",
+  "The shape of the normalized PDFs is better described by a log-normal distribution than a Gamma distribution, which is commonly found in the limiter shadow of tokamak devices.",
+  "The temporal width of the burst waveform increases with increasing plasma current and decreasing density, while the frequency of bursts adapts to maintain the invariance of the PDF shape.",
+  "The deviation of the PDFs from a Gamma distribution in the tail, with a higher probability of occurrence than predicted by the Gamma distribution, is a common observation in the limiter shadow of tokamak devices.",
+  "The authors used synthetic data sets to validate the appropriateness of the Langmuir probe data for statistical analysis, despite the relatively low sampling frequency (80 kHz).",
+  "The invariance of the PDF shape is the result of a balance between the temporal width of the burst waveform and the frequency of bursts hitting the probe, as the burst duration and waiting time adapt to changes in plasma current and density.",
+  "The authors suggest that the observed invariance may be an important factor to consider when predicting first wall ion fluxes for future machines, and that it could be a good metric for determining the suitability of non-linear models in capturing the dynamics of SOL turbulence.",
+  "The study is limited to Ohmically heated horizontal target plasmas, and the authors suggest extending the analysis to different plasma shapes, divertor configurations, heating mechanisms, and H-mode regimes to further assess the universality of the plasma wall flux in JET.",
+  "The authors find that the shape of the normalized PDFs collapses onto a single curve over approximately four decades of the ordinate, which, given the wide parameter space over which the data spans, is a strong indication of universality.",
+  "The authors find that the ratio of the standard deviation to the mean of the ion saturation current signal varies from 0.2 to 0.59 across the data set, with the lowest values occurring in the I_p = 3.0 MA time-series.",
+  "The authors attribute the variation in the higher-order moments of the PDFs, such as skewness and kurtosis, to inherent statistical variation and the presence of background random noise in the signals.",
+  "The authors note that the increases in the mean and standard deviation of the ion saturation current occur concomitantly with a broadening of the SOL density profile, but reserve any analysis of this occurrence for future work.",
+  "The authors find that the PDFs do not perfectly collapse, which they attribute to the variation observed in the ratio of the standard deviation to the mean and the skewness of the PDFs, as well as the impact of statistical uncertainty and random noise, particularly in the tails of the distributions.",
+  "The authors find that the intermittency parameter, which links the shaping parameter of the PDF to the ratio of the burst duration time and waiting time, can be considered constant at the JET outer wall during horizontal target Ohmic L-mode operation."
+]
