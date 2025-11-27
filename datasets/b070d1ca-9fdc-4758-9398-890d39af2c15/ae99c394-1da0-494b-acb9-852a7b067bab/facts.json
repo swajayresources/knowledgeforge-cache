@@ -1,0 +1,17 @@
+[
+  "The analysis used the STAN5 two-dimensional boundary layer code to match the heat transfer data and extract transition information.",
+  "Transition starting points were found to be located well ahead of the minimum heat transfer point in many cases.",
+  "Momentum thickness Reynolds numbers at the start of transition ranged from 74 to 400, while at the end of transition they ranged from 330 to 1620.",
+  "Higher free stream turbulence levels were found to cause earlier transition and shorter transition lengths.",
+  "Stronger flow acceleration, characterized by higher values of the acceleration parameter K, resulted in significantly longer transition regions.",
+  "The highest free stream turbulence intensity among the cases analyzed was 18.7%.",
+  "The analysis did not explicitly account for local effects of pressure gradient or turbulence within the transition region.",
+  "The fully laminar and fully turbulent STAN5 calculations provided the upper and lower bounds for the transitional boundary layer results.",
+  "The datasets analyzed covered a wide range of conditions, from low-speed flat plates to high-speed turbine airfoils.",
+  "The results indicate that free stream turbulence and pressure gradient have strong, opposite effects on transition location and length.",
+  "Transition starting points were often located very close to the leading edge stagnation point, especially for the turbine vane cases.",
+  "For the higher turbulence turbine vane case, the calculated boundary layer never fully reached a turbulent state.",
+  "The transient combustion-heated turbine vane case exhibited the highest free stream turbulence and strongest flow acceleration.",
+  "The analysis tabulated the derived transition start and end locations in terms of momentum thickness Reynolds number for each case.",
+  "The datasets included both incompressible flat plate tests and high-speed turbine airfoil tests with compressible flow."
+]
