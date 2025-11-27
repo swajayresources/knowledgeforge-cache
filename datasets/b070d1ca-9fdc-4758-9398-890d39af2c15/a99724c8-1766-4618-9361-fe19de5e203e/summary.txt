@@ -1,0 +1,1 @@
+This paper investigates the as-cast microstructure and properties of the Ni-based superalloy MAR-M247 produced via directional solidification. The study analyzes the effects of mold preheating temperature and withdrawal rate on the casting's microstructure, phase transformations, and mechanical properties.
