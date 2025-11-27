@@ -1,0 +1,1 @@
+This paper describes a study on matching axial and centrifugal compressor stages for a small turboshaft engine. The study explored different compressor configurations and matching schemes to optimize engine performance, particularly at part-load conditions.
