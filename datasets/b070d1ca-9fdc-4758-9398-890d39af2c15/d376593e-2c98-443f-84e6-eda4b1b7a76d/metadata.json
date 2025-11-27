@@ -1,0 +1,15 @@
+{
+  "paper_id": "d376593e-2c98-443f-84e6-eda4b1b7a76d",
+  "title": "Computational Investigation of the Effect of UAV Engine Nozzle Configuration on Infrared Signature",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d376593e-2c98-443f-84e6-eda4b1b7a76d/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d376593e-2c98-443f-84e6-eda4b1b7a76d/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d376593e-2c98-443f-84e6-eda4b1b7a76d/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d376593e-2c98-443f-84e6-eda4b1b7a76d/keywords.json"
+  ]
+}
