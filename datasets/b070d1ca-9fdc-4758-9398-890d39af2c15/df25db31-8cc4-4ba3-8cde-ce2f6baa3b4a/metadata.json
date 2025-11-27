@@ -1,0 +1,15 @@
+{
+  "paper_id": "df25db31-8cc4-4ba3-8cde-ce2f6baa3b4a",
+  "title": "Computing the Field in Proteins and Channels",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df25db31-8cc4-4ba3-8cde-ce2f6baa3b4a/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df25db31-8cc4-4ba3-8cde-ce2f6baa3b4a/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df25db31-8cc4-4ba3-8cde-ce2f6baa3b4a/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df25db31-8cc4-4ba3-8cde-ce2f6baa3b4a/keywords.json"
+  ]
+}
