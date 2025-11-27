@@ -1,0 +1,1 @@
+This paper presents a Navier-Stokes analysis of turbine blade heat transfer using a multiblock code for multistage turbomachinery. It describes the use of characteristic boundary conditions and averaging-plane methods to model the flow between closely-spaced blade rows, and compares results to experimental data for a two-stage fuel turbine.
