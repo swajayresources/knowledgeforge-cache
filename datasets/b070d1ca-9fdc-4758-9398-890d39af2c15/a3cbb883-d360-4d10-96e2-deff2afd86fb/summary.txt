@@ -1,0 +1,1 @@
+This paper presents a detailed analysis of the wake structure of a straight-blade H-Darrieus wind turbine using wind tunnel experiments and computational fluid dynamics (CFD) simulations. The study aims to correlate the main macrostructures of the flow with the aerodynamics of the airfoils in cycloidal motion.
