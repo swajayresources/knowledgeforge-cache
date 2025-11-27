@@ -1,0 +1,17 @@
+[
+  "The Aerosense measurement system uses low-cost, low-power MEMS sensors to measure local pressures, blade motions, and inflow conditions on wind turbine rotor blades.",
+  "The system is composed of sensor nodes installed on the blades, a base station that collects and transmits the data, and a digital twin system for data processing and analysis.",
+  "The pressure distribution is measured using an array of 40 absolute pressure sensors, while 5 differential pressure sensors measure the pressure difference around the leading edge.",
+  "A 9-axis inertial measurement unit is used to measure the blade motion and attitude, which is necessary to correct the pressure measurements for hydrostatic and acceleration effects.",
+  "Careful calibration of the absolute pressure sensors was required to achieve an accuracy of 1% of the full-scale pressure range.",
+  "Photogrammetry was used to measure the 3D shape and sensor positions on the blade section, which is necessary to compute the integrated aerodynamic forces.",
+  "Experiments on a 7kW wind turbine showed that the pressure distribution can vary significantly during a single rotation of the blade, even under stable wind conditions.",
+  "These variations were found to be due to the misalignment of the wind direction with the wind turbine's rotational axis.",
+  "The Aerosense system was able to infer the local inflow conditions using a hybrid method that combines the differential pressure measurements with inviscid flow theory, without requiring a reference pressure measurement.",
+  "The orders of magnitude for the different types of pressure measured on a 5MW wind turbine are: dynamic pressure ~2000 Pa, atmospheric pressure ~100,000 Pa, hydrostatic pressure variation ~800 Pa, and pressure drift ~100 Pa/year.",
+  "Previous field measurement campaigns required complex and costly instrumentation embedded inside the rotor blades, with long pressure tubes that limited the measurement frequency.",
+  "In contrast, the Aerosense system is wireless, self-sufficient, less complex, and less costly, while also allowing higher measurement frequencies to capture unsteady aerodynamic effects.",
+  "The Aerosense system was designed to be easy to install, inexpensive, and non-intrusive, making it a cost-effective solution for the wind energy industry.",
+  "The digital twin system integrated with the Aerosense measurement data allows for automated data processing, analysis, and comparison with simulations.",
+  "The Aerosense system has the potential to provide valuable insights into the aerodynamic behavior of wind turbine rotor blades, which can be used to improve their design and performance."
+]
