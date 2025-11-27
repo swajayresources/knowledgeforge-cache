@@ -1,0 +1,17 @@
+[
+  "The authors developed a custom-built extruder with a torque sensor to measure the extrusion force in real-time.",
+  "The extrusion force is used as feedback in a closed-loop control system to continuously adapt the material flow rate.",
+  "The authors demonstrate a strong linear correlation between the measured extrusion force and the width of the deposited line, with an R^2 of 0.99.",
+  "Force Controlled Printing (FCP) can deposit lines of desired width over a wide range of 33% up to 233% of the nozzle diameter.",
+  "FCP outperforms conventional feed-forward extrusion in print quality and disturbance rejection, while requiring little tuning and automatically adapting to changes in hardware settings.",
+  "With no adaptation, FCP can deposit lines of desired width under severe disturbances in bed leveling, such as layer heights ranging from 20% to 200% of the nominal height.",
+  "The authors use Liquid Crystal Polymers (LCPs) as the feedstock material, which self-assemble into nematic domains and align during extrusion, conferring exceptional mechanical properties.",
+  "The custom extruder design rigidly connects the hot end to the printer body, maintaining the same printing quality as a standard extruder.",
+  "The PID controller used in FCP includes two derivative terms: one for fast disturbances from the machine motion system, and one for slower disturbances from the filament extrusion system.",
+  "At very low layer heights (less than 50 \u03bcm), the linear relationship between reaction force and line width starts to break down, limiting the performance of FCP in this regime.",
+  "The open-loop conventional approach struggles to maintain the desired line width under disturbances in bed leveling, while FCP can consistently produce the desired line width.",
+  "The RMSE performance of the tuned FCP controller when printing a benchmark trajectory is 9.14 x 10^-3 N, which is 4.6% of the 0.2 N reference force.",
+  "The authors use a feed rate of 100 mm/s, a nozzle temperature of 300\u00b0C, a bed temperature of 170\u00b0C, and a nozzle diameter of 0.15 mm in their experiments.",
+  "The authors' custom-built Cartesian FFF machine has a maximum speed of 2 m/s, a maximum acceleration of 40 m/s^2, and an accuracy of 1 \u03bcm.",
+  "The authors use a Mellow Sherpa Micro extruder with an LDO-20-8T stepper motor, customized with their torque sensor configuration."
+]
