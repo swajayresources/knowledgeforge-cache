@@ -1,0 +1,1 @@
+This paper experimentally investigates the impacts of blade camber on the performance and loading of a cross-flow turbine. It compares symmetrical, concave-in, and concave-out cambered blades, finding that a small but positive total camber (geometric plus virtual) is optimal for this turbine design.
