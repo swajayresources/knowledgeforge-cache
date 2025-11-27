@@ -1,0 +1,17 @@
+[
+  "The tested compressor stage is the front stage of a GE highly loaded and high reaction transonic core compressor.",
+  "The LES simulation was performed with 3 IGV blades, 2 rotor blades and 4 stator blades, representing 1/14 of the full machine passage.",
+  "The final LES computation was performed with 400 million grid nodes, with a wall resolution within the range of Dx+ < 20, Dy+ <1.0, and Dz+<2.0.",
+  "The LES calculated a slightly higher choke mass flow rate than the measurement, but the overall trend of the compressor characteristics was calculated properly.",
+  "The LES results showed about two-thirds of the overall loss occurs through the Rotor 1 exit plane.",
+  "The LES calculated higher total temperature and lower total pressure on the pressure side of the stator, indicating higher loss generation on the pressure side.",
+  "The jet velocity in the rotor wake, which is pointing towards the pressure side in the approaching rotor wake, amplifies the effects of the longitudinal curvature on the flow development near the stator blade.",
+  "The RANS and URANS simulations did not accurately capture the transport of the rotor wake and the curvature effects on the stator blade, leading to the failure to predict the high loss generation on the pressure side of the stator.",
+  "The LES simulation requires long computation times, with potentially 100-200 rotor revolutions needed to obtain a periodic unsteady flow field.",
+  "The user's understanding and experience with the LES procedure are important factors in extracting useful physical insights from the simulation.",
+  "Counterclockwise rotating vortices are generated when the rotor wake hits the suction side blade boundary layer due to the jet velocity in the wake.",
+  "The rotor wake becomes significantly wider near the pressure side than near the suction side as the counterclockwise rotating vortices push wake fluid toward the free stream.",
+  "The destabilizing effect of the concave curvature on the pressure side makes the boundary layer thicker with high loss, while the stabilizing effect of the convex curvature on the suction side makes the flow near the suction side clean with a thinner boundary layer.",
+  "The jet velocity in the rotor wake in the stator frame seems to magnify the effects of the longitudinal curvature on the flow development near the stator blade.",
+  "The URANS simulation with a finer grid does not show the high loss region on the pressure side of the stator, as the rotor wake decays much faster compared to the LES results."
+]
