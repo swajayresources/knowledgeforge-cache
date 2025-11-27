@@ -1,0 +1,16 @@
+[
+  "The modular simulation software has a three-level hierarchy structure (Figure 1): \u2212 High Level \u2013 this level of software is based on SCADA WinCC SIEMENS, and it is used to control, visualize and archive the information (Figure 2)",
+  "Cornell University Library \u2212 Middle Level - this level of software is based on PLC TRICONEX 3000 Trident V9, and was developed in the TriStation 1131 programming environment (to run the simulation model, the TriStation 1131 should operate in the emulation mode) \u2212 Lower Level \u2013 this level of the software is based on the VISSIM simulation environment, and this software simulates all operating modes of the GTCU and field equipment (sensors, measurement instrumentation)",
+  "Figure 1 \u2013 The Structure of the simulation model of the GTCU As mentioned above, the Lower Level of the simulation model is based on VISSIM (Visual Simulation) software, version 5",
+  "0, and this software package is fully used to simulate the GTCU in run mode, including all functionality of the main and auxiliary units",
+  "The datas used in this simulation model were analyzed and gathered from real working Gas-Turbine Units GTK 10i, the Turbines located in the compressor station \u201cChizha\u201d(Uralsk)",
+  "Cornell University Library Figure 2 Pictures of SCADA system Figure 3 \u2013 The VISSIM Simulation Model of GTCU based on GTK -10i TMC run mode Cornell University Library The construction of mathematical model based on measurement of inputs and output signals is a approximation of functional dependence",
+  "On the following picture you can find the code of the program: Figure 4 \u2013 The scheme of simulation of the High Power Turbine (HPT) Figure 5\u2013 The scheme of simulation of the Low Power Turbine (LPT) Cornell University Library By carrying out the simulation test procedure the main characteristics of the turbine was plotted (Figure 6): - speed of the High Power Turbine; - speed of the Low Power Turbine; - turbine exhaust temperature",
+  "Figure 6\u2013The result of simulation: the time response of the HPT and LPT speed Cornell University Library Literature: 1",
+  "Dorodnicin, Russian Science Academy, 2003",
+  "Moscow: Nedra, 1979 3",
+  "Moscow: Nedra, 1987 4",
+  "Moscow: Mir, 2001",
+  "Ufa: Ufa State Aviation Technical University, 2003",
+  "Moscow: Oil and Gas, 1999"
+]
