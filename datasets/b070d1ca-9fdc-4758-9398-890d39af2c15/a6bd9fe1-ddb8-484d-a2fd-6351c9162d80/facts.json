@@ -1,0 +1,20 @@
+[
+  "Franck, Ari Athair, Owen Williams, Brian Polagye, Experimental identification of blade-level forces, torque, and pitching moment for cross-flow turbines, Journal of Fluids and Structures, Volume 138, 2025, ISSN 0889-9746) andmaybefoundat(https://doi",
+  "5202 guA 72 ]nyd-ulf",
+  "scisyhp[ 2v35220",
+  "3052:viXra Experimental identification of blade-level forces, torque, and pitching moment for cross-flow turbines AbigaleSnortlanda,KatherineVanNessb,JenniferA",
+  "Franckc,AriAthaird,OwenWilliamsd, BrianPolagyee aPacificNorthwestNationalLab,1100DexterAveN,Seattle,98109,WA,USA bUniversityofWashingtonAppliedPhysicsLab,1013NE40thSt,Seattle,98105,WA,USA cUniversityofWisconsin-MadisonDepartmentofMechanicalEngineering,1500Engineering Dr,Madison,53706,WI,USA dUniversityofWashingtonDepartmentofAeronauticsandAstronautics,3940BentonLane NE,Seattle,98105,WA,USA eUniversityofWashingtonDepartmentofMechanicalEngineering,3900EStevensWayNE,Seattle,98195,WA,USA Abstract Cross-flowturbinepowerisanetsumofpowergenerationfromrotatingbladesandpowerlossfrom rotatingsupportstructures",
+  "Keywords: cross-flowturbine,vertical-axisturbine,currentenergy,pitchingmoment 1",
+  "Further,numericalmodelsofcross-flowturbinesoftenonlyinclude the blades in the simulation domain, either to reduce computational cost for 3D simulation or by necessity for 2D simulation [1, 2, 3, 4]",
+  "PreprintsubmittedtoJournalofFluidsandStructures September5,2025 Unfortunately, it can be difficult to directly measure blade-level forces and torques in experi- ments",
+  "[5, 6, 7] have measured forces on a laboratory-scale cantilevered blade with a custom array of strain gauges",
+  "[8] and Bharath et al",
+  "[9] have performed similar studies for larger turbines in a laboratory flume and open water site, respectively",
+  "[10, 11] have measured blade-level forces from pressure tap measurements in wind tunnel tests",
+  "However, the majority of cross-flow turbine experiments use simpler load cells that necessitate measuring torque and force at the axis of rotation [12, 13, 14, 15, 16, 17, 18]",
+  "The dimensionless form of the rotation rate is the tip-speed ratio, defined as \ud835\udf06 = \ud835\udc5f\ud835\udf14 where \ud835\udc5f is the turbine radius to the quarter chord, \ud835\udc50/4, \ud835\udc48 \ud835\udf14 is the rotation rate, and \ud835\udc48 is the fre\u221e estream velocity",
+  "These forces and torque vary with the \u221e azimuthalposition,\ud835\udf03,because,astheturbinerotates,thebladesencounteracontinuallyfluctuating relative inflow velocity, \ud835\udc48 \ud835\udc5f\ud835\udc52\ud835\udc59, and angle of attack, \ud835\udefc, that affect the direction and magnitude of the blade resultant force (Figure 1a-b)",
+  "Here, we present a physics-based methodology for extracting blade-level forces and torques from experimental measurements at the axis of rotation of a cross-flow turbine, and demonstrate strong agreement with equivalent blade- only simulations",
+  "Here, we present a methodology for extracting blade-level forces and torques from experimental measurements at the axis of rotation",
+  "Our results underscore the importance of considering phase-averaged force maximums in the design of cross-flow systems, as the time-averages often under-predict maximumloads"
+]
