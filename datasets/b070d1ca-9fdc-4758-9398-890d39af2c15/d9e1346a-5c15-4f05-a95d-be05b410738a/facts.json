@@ -1,0 +1,17 @@
+[
+  "The study develops a theoretical model that combines the Sears and Theodorsen functions to predict unsteady lift on a wind turbine blade section undergoing periodic pitch, plunge, and transverse gust disturbances.",
+  "The numerical simulations are performed at a chord-based Reynolds number of Rec = 2.22 \u00d7 105.",
+  "The range of reduced frequencies investigated for the gust disturbance is 0.196 \u2264 kg \u2264 3.93, and for the airfoil oscillations is 0.785 \u2264 kp \u2264 3.93.",
+  "The Strouhal number range investigated is relatively low, between 0.008 \u2264 Stp \u2264 0.020.",
+  "The theoretical model is validated against high-fidelity 2D numerical simulations of a NACA-0012 airfoil.",
+  "Good agreement between the model predictions and the numerical results is found for low to moderate forcing amplitudes and frequencies.",
+  "Deviations from the model predictions are observed when the angle-of-attack amplitudes approach the static flow-separation limit of the airfoil.",
+  "The linear nature of the modeling framework allows for the integration of corrections for non-ideal airfoil effects, such as thickness and camber, from the existing literature.",
+  "The transfer-function form of the model is well-suited for control applications in unsteady aerodynamics, as it can capture nontrivial frequency dependencies and phase relationships.",
+  "The study does not consider the effects of nonlinear coupling between impinging gusts and airfoil oscillations, including gust-induced aeroelastic effects such as flutter.",
+  "The 2D simulation approach matches the theoretical framework's assumptions but may not quantitatively match turbulent statistics obtained from a laboratory experiment.",
+  "The reduced computational cost of 2D simulations relative to 3D ones allows a much wider parameter space to be investigated.",
+  "The Wall-Adapting Local Eddy-viscosity (WALE) model is used to promote smooth transition of the 2D resolved flow to the airfoil surface and ensure that vortical motions in the near-airfoil region are not completely ignored.",
+  "The comparison with experimental data from Wei et al. (2019) validates the simulation approach used in this study for the specific problem of an airfoil in a sinusoidal gust.",
+  "The theoretical framework and numerical evaluation motivate the inclusion of unsteady flow models in design and simulation tools to increase the robustness and operational lifespans of wind turbine blades in real flow conditions."
+]
