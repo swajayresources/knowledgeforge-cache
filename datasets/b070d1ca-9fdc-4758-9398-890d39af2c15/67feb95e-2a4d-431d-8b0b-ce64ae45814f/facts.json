@@ -1,0 +1,12 @@
+[
+  "The paper considers the Skorokhod embedding problem, in particular the Root solution in the formulation of Loynes.",
+  "Root's solution minimizes the expected residual of the stopping time \u03c4, which is important for finding no-arbitrage lower bounds for VIX call options.",
+  "The paper assumes the underlying process X is a continuous Markov process with continuous marginal densities and the target measure \u03bc has no atoms and its absolutely continuous part is locally bounded away from zero.",
+  "A discontinuity in the barrier function leads to thin and thinner corridors, causing the density of the target measure \u03bc to vanish at the end of the corridors approaching the discontinuity.",
+  "The main result is that if the target measure \u03bc has no atoms and its absolutely continuous part is locally bounded away from zero, then the barrier function r is continuous and finite.",
+  "The paper provides lemmata that formalize the heuristics of how a discontinuity in the barrier function affects the target measure.",
+  "The paper concludes with an example that resembles the situation of a discontinuous barrier function, showing that conditions on the density of the target measure are indeed needed to ensure continuity of the barrier function.",
+  "The paper assumes the underlying process X is a continuous Markov process, but the main results only require the process to be continuous with continuous marginal densities.",
+  "The paper uses the regularity of the barrier function r, which ensures uniqueness of the existing barrier function.",
+  "The paper mentions that most progress related to Root's solution has been made in generalizing existence results instead of regularity results."
+]
