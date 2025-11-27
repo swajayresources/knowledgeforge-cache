@@ -1,0 +1,10 @@
+[
+  "The 3S1 compressor is a test model of the last three stages of an 8-stage compressor identified as an optimum configuration for commercial service in the 1980s.",
+  "The 3S1 compressor has an overall pressure ratio of 1.357 and an average diffusion factor of 0.529, while the 3S2 compressor has an overall pressure ratio of 1.324 and an average diffusion factor of 0.491.",
+  "Blockage adjustments were established by matching velocity and static pressure profiles to outer diameter static pressure measurements from tests of three previously tested similar compressors.",
+  "The preliminary meanline design set average stage values of flow coefficient, reaction, and diffusion factor similar to the AMAC compressor, while the detailed full-span design used a streamline analysis program to determine the final blade geometry.",
+  "The airfoil leading and trailing edge angles were affected by the flow conditions in the endwall region as well as the freestream, with overcamber applied at the endwalls to align the blading to the anticipated endwall flow.",
+  "Manufacturing limitations for cast aluminum airfoils indicated a minimum permissible radius of 0.23 mm (0.009 in) for the blade and vane leading and trailing edges.",
+  "The rotating components were analyzed as bodies of revolution subjected to axisymmetric inertia loading, with all disks mass balanced to equalize radial growth and minimize hub distortion.",
+  "The maximum stresses in the rotating hardware were calculated to be 16,380 lbf/in^2 for the 3S1 compressor rotor 1 wheel and 16,260 lbf/in^2 for the 3S2 compressor inlet seal wheel, with minimum factors of safety of 2.44 and 2.46 respectively."
+]
