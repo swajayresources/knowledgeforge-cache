@@ -1,0 +1,17 @@
+[
+  "The paper presents a computational approach that combines crystal plasticity (CP) and extended finite element method (XFEM) to model short crack propagation in a single crystal nickel-based superalloy.",
+  "The onset of fracture is controlled by the cumulative shear strain of individual slip systems, and the direction of crack growth follows the crystallographic slip plane.",
+  "Simulations were carried out for the [111] orientation at 24\u00b0C and 650\u00b0C.",
+  "The critical value of the individual cumulative shear strain (ICSS) was chosen as 0.026 for 24\u00b0C and 0.020 for 650\u00b0C based on observations from the simulations.",
+  "The CP model parameters were calibrated using low-cycle fatigue (LCF) experimental data at 24\u00b0C and 825\u00b0C, and then linearly interpolated to obtain the parameters for 650\u00b0C.",
+  "The simulations were able to predict the tortuous crack path and irregular propagation rate, which are characteristics of short crack growth in single crystal nickel-based superalloys.",
+  "The authors introduced manual control to handle the XFEM limitations of only allowing a single straight crack per element and crack deflection greater than 90 degrees.",
+  "A 2D plane strain model was used instead of a 3D model to facilitate the extremely time-consuming CP-XFEM simulations under fatigue loading conditions.",
+  "The in-situ SEM experiments were conducted at room temperature (24\u00b0C) and 650\u00b0C, while the LCF tests used for CP model calibration were performed at 24\u00b0C and 825\u00b0C.",
+  "The authors found that the crack growth path predicted by the two mesh densities (average element size of ~2.5 \u03bcm and ~1.25 \u03bcm) followed almost the same path, indicating a relatively small effect of the manual control process on the overall crack path.",
+  "The energy-based exponential function used to describe the damage evolution of XFEM elements had an exponent of 2 and a dissipated energy of 0.001 to ensure fast but numerically stable element damage.",
+  "The maximum time increment was set as 0.01 second to avoid numerical instability and reduce the influence of partially damaged elements.",
+  "The deviations of maximum stress level between experiments and simulations were less than 30 MPa at both 24\u00b0C and 825\u00b0C conditions.",
+  "The deviations of maximum and minimum stress between experiments and simulations were less than 90 MPa at both 24\u00b0C and 825\u00b0C conditions.",
+  "The interpolation of CP model parameters from 24\u00b0C and 825\u00b0C to 650\u00b0C can introduce some inaccuracies for the strain-stress behaviour, but it is not expected to significantly affect the ICSS distribution at the crack tip."
+]
