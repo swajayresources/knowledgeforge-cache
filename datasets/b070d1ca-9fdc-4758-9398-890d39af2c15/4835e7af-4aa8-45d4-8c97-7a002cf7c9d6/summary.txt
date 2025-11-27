@@ -1,0 +1,1 @@
+This paper presents a hybrid surrogate-based rubber engine model for use in aircraft multidisciplinary design optimization. The model combines surrogate models for engine parameters with a thermodynamic performance tool to enable evaluation of engine performance over the entire flight mission.
