@@ -1,0 +1,17 @@
+[
+  "The authors analyzed a sequence of JET plasmas with steady H-mode durations of ~5 s, all exhibiting intrinsic ELMing with no external ELM pacing.",
+  "ELM occurrence times were determined from the BeII signal, while the full flux loop signals VLD2 and VLD3 were used to extract the instantaneous phase.",
+  "The authors used the Hilbert transform to compute the analytic signal and determine the instantaneous phase of the VLD2 and VLD3 signals.",
+  "ELMs were found to occur preferentially when the full flux loop signals were at a specific phase, as shown in previous work by the authors.",
+  "In the 2-5 ms leading up to an ELM, the authors found that the phases of the VLD2 and VLD3 signals became progressively more aligned.",
+  "During this 2-5 ms build-up period, the VLD2 and VLD3 signals also became phase synchronized with each other.",
+  "The authors quantified the phase alignment using circular statistics, calculating the Rayleigh number R, standardized angular variance \u03c3_\u03c6, and p-value.",
+  "For \u03b4t < 5 ms before the ELM, the authors found R > 0.3 and small \u03c3_\u03c6, indicating significant phase alignment.",
+  "The authors tested the robustness of the ELM build-up signature by using Hilbert transform windows that stopped at the ELM time, in addition to those that extended beyond it.",
+  "The authors constructed surrogate time series to test the statistical significance of the observed phase alignments, confirming they were distinct from chance occurrence.",
+  "The authors suggest the ELM build-up signature, involving global synchronized plasma motion, is analogous to the global plasma perturbations that trigger ELMs in magnetically-kicked experiments.",
+  "The authors hypothesize that the intrinsic ELM burst follows a global plasma displacement that modifies conditions at the edge, leading to the onset of peeling-ballooning and other instabilities.",
+  "The authors' previous work found that intrinsic ELMs tend to occur preferentially at a specific phase of the full flux loop signals.",
+  "The current results build on this by showing the phases become progressively more aligned in the 2-5 ms leading up to the ELM.",
+  "This suggests a global, synchronized plasma response is part of the intrinsic ELM triggering process."
+]
