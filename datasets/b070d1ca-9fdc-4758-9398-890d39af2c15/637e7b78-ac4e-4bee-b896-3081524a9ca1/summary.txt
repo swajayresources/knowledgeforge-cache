@@ -1,0 +1,1 @@
+This paper presents experimental results from testing the first two stages of an advanced, highly loaded, transonic core compressor under isolated and multi-stage conditions. The goal was to understand the performance differences and identify any loss mechanisms, particularly related to the Rotor 2 bow shock interaction with Stage 1.
