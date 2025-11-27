@@ -1,0 +1,17 @@
+[
+  "BladeNet obtains an Average Precision (AP) of 0.995 for blade detection on the \u00d8rsted turbine blade inspection dataset.",
+  "BladeNet achieves an AP of 0.223 for blade detection when transferred to the DTU NordTank onshore turbine blade dataset.",
+  "The \u00d8rsted turbine blade inspection dataset contains 2637 high-resolution (6720 x 4480) drone images of offshore wind turbine blades.",
+  "The DTU NordTank dataset contains 1170 images of onshore wind turbine blades.",
+  "BladeNet's U-Net based instance segmentation module produces high-quality, tightly-fitted blade masks that capture important edge details.",
+  "Other object detection methods like Mask R-CNN, YOLACT, and Cascade Mask R-CNN exhibit wavy, imprecise blade edge detection.",
+  "BladeNet introduces negative class examples of sky and ground during training to help the model focus on the relevant blade regions.",
+  "The PANDA semi-supervised anomaly detection method in BladeNet achieves an AUC of 0.639 on the \u00d8rsted blade inspection dataset.",
+  "PANDA has a tighter 95% confidence interval (0.631 to 0.648) compared to other semi-supervised anomaly detection methods evaluated.",
+  "PANDA in BladeNet has a faster inference time of 50.3 ms per image compared to other semi-supervised anomaly detection approaches.",
+  "BladeNet's dual-stage architecture of blade detection/extraction followed by semi-supervised anomaly detection enables it to generalize to detect a wide range of real-world blade surface anomalies.",
+  "Accurate blade detection and extraction is crucial for the semi-supervised anomaly detection methods in BladeNet to learn clean representations of normal blade data.",
+  "Conventional object detection methods can fail to capture important blade regions like the tip and triangular edges that are prone to anomalies.",
+  "Semi-supervised anomaly detection avoids the need for comprehensive annotations of all possible anomalous blade defects, which would be difficult to obtain.",
+  "BladeNet demonstrates the ability to transfer its blade detection model trained on the \u00d8rsted offshore dataset to the DTU NordTank onshore dataset with good performance."
+]
