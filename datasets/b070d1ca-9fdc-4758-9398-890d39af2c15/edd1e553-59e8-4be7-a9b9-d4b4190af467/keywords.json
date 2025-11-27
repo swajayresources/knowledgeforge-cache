@@ -1,0 +1,18 @@
+[
+  "Vertical Axis Wind Turbine (VAWT)",
+  "Computational Fluid Dynamics (CFD)",
+  "Pressure distribution",
+  "Turbulence modelling",
+  "Transition modelling",
+  "SST k-\u03c9",
+  "SST k-\u03c9 with intermittency transition (SST k-\u03c9 with \u03b3)",
+  "Mesh independence",
+  "Time step independence",
+  "Tip speed ratio (TSR)",
+  "Reynolds number",
+  "Boundary layer",
+  "Wake interaction",
+  "Sliding mesh",
+  "Coupled scheme",
+  "Hybrid initialization"
+]
