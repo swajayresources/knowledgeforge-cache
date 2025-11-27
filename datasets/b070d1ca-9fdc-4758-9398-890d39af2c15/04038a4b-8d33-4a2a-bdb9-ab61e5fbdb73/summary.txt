@@ -1,0 +1,1 @@
+This paper presents three studies on propulsion options for a high-power orbit transfer vehicle using thin-film solar array technology. The studies evaluated different vehicle configurations and propulsion systems, including Hall thrusters, pulsed plasma thrusters, and ion engines, to determine optimal solutions for counteracting forces on the solar array.
