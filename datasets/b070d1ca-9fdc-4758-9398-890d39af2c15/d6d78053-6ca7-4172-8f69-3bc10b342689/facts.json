@@ -1,0 +1,17 @@
+[
+  "The Ni-based superalloy was manufactured via a powder metallurgy process including hot isostatic pressing and hot extrusion.",
+  "The as-received superalloy contained fabrication-induced voids, which were observed in the microstructure.",
+  "The true stress-strain curves of the superalloy exhibited characteristics of dynamic recovery and dynamic recrystallization.",
+  "The peak stress decreased by ~30% when the deformation temperature increased from 1050 to 1150\u00b0C.",
+  "The peak stress at a strain rate of 0.001 s^-1 was only ~10% of that at a strain rate of 1 s^-1.",
+  "The maximum principal stress was concentrated at the outer bulging surfaces of the samples during hot compression.",
+  "The critical failure strain increased with increasing temperature in a third-order polynomial relationship.",
+  "The failure was found to be strain-controlled and largely insensitive to the range of strain rates considered.",
+  "Varying the friction coefficient between 0.3 and 1.0 did not significantly affect the stress contours and failure behavior.",
+  "The critical failure strain was determined from the FEA simulations based on the first element failure or the evolution of void volume fraction.",
+  "The processing maps with failure domains were used to define an optimized processing window for hot deformation of the superalloy.",
+  "The study established an FEA model capable of quantitatively predicting the failure threshold of powder metallurgy Ni-based superalloys.",
+  "The researchers used the Gurson-Tvergaard-Needleman (GTN) damage model to simulate the cavity-driven intergranular fracture of the superalloy.",
+  "The deformation temperature was a more controlling factor than the strain rate in the failure behaviors of the powder metallurgy Ni-based superalloy.",
+  "The study aimed to guide the production practice of the hot deformation process for powder metallurgy Ni-based superalloys."
+]
