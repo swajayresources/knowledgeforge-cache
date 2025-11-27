@@ -1,0 +1,15 @@
+{
+  "paper_id": "d860f2cf-bcb3-4428-937e-82c4ba1678f4",
+  "title": "Multi-Scale Proper Orthogonal Decomposition of Complex Fluid Flows",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d860f2cf-bcb3-4428-937e-82c4ba1678f4/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d860f2cf-bcb3-4428-937e-82c4ba1678f4/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d860f2cf-bcb3-4428-937e-82c4ba1678f4/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/d860f2cf-bcb3-4428-937e-82c4ba1678f4/keywords.json"
+  ]
+}
