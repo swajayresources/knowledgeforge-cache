@@ -1,0 +1,1 @@
+This paper presents a method for designing transonic compressor cascades using the hodograph method. The authors show how the analytical solution of the mixed-type hodograph equation can be used to design the supersonic and subsonic regions of the compressor cascade, and how the shock wave effects can be accounted for.
