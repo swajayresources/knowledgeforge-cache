@@ -1,0 +1,17 @@
+[
+  "The value of engine maintenance, repair, and overhaul (MRO) for the aviation industry was $27 billion in 2016 and is expected to reach $40 billion by 2026.",
+  "Turbofan engine failures contribute to 60% of all airplane failures.",
+  "The CMAPSS dataset contains data for 100 turbofan engines until failure, with the number of operational cycles to failure ranging from 128 to 362.",
+  "The BLSTM model with dropout regularization achieved an RMSE of 26.68, MAE of 20.56, and R^2 of 0.59 on the CMAPSS dataset.",
+  "The BLSTM model outperformed the standard LSTM model and a Linear Regression baseline in terms of RUL prediction accuracy.",
+  "The BLSTM model uses two LSTM layers, one processing the input sequence in the forward direction and the other in the backward direction.",
+  "The key pre-processing steps included removing low-variance and highly correlated features, adding an RUL feature, normalizing the data, and applying a power transformation.",
+  "The key hyperparameters tuned for the BLSTM model included learning rate, batch size, number of epochs, number of hidden layer units, dropout rate, and batch normalization.",
+  "The error metrics used to evaluate the RUL prediction models were MSE, RMSE, MAE, and R^2 score.",
+  "The paper mentions that there is still room for improvement in further reducing the error metrics and testing the model on other datasets.",
+  "Accurate RUL prediction is important for turbofan engines due to safety concerns, high costs associated with AOG events, and the need for effective MRO planning.",
+  "Model-based approaches for RUL prediction require a deep understanding of the turbomachinery and physics, while data-based approaches use the data history of the system.",
+  "Some of the data-based approaches mentioned in the literature review include Regression Analysis, Fuzzy Logic, Gradient Boosting, Neural Networks, Random Forests, Support Vector Machines, and Relevance Vector Machines.",
+  "The CMAPSS dataset is a simulation framework developed by NASA for examining turbofan engine degradation and contains sensor measurements, operational settings, and cycles until failure.",
+  "The turbofan engine consists of key components like the Fan, Low Pressure Compressor, High Pressure Compressor, Combustor, High Pressure Turbine, and Low Pressure Turbine."
+]
