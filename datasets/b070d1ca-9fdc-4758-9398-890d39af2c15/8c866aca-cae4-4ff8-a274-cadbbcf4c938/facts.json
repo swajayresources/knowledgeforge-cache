@@ -1,0 +1,20 @@
+[
+  "Combinatorial Optimization with Quantum Computers\u22c6 Francisco Chicano1[0000\u22120003\u22121259\u22122990], Gabiel Luque1[0000\u22120001\u22127909\u22121416], Zakaria Abdelmoiz Dahi2[0000\u22120001\u22128022\u22124407], and Rodrigo Gil-Merino3[0000\u22120001\u22127376\u22124499] 1 ITIS Software, University of Malaga, Spain 2 Univ",
+  "Lille,Inria,CNRS,CentraleLille,UMR9189CRIStAL,F-59000Lille,France 3 UNIR, Spain chicano@uma",
+  "1 Introduction Quantum physics, as one of modern physics\u2019s fundamental areas, describes be- havior with nature at small scales similar to atoms and subatomic levels",
+  "Devel- opedintheearlypartofthe20thcentury,itisbasedonaspectsthatareatodds with classical intuition, such as superposition and entanglement",
+  "Entanglementisaphenomenoninwhichtwoormoreparticlesbe- comecorrelatedtooneanothersothatthestateofonecannotbeindependently defined without referencing at least some properties of the other particle(s), \u22c6 ThistutorialisapreprintsubmittedtoEngineeringOptimizationinJuly2024",
+  "1080/0305215X",
+  "5202 raM 41 ]TE",
+  "sc[ 2v87751",
+  "2142:viXra 2 F",
+  "Gil-Merino even when those separated by large distances [18]",
+  "This theoretical framework is currently setting the standard in the field of quantum computing [21] and has created the foundation for the development of advanced technologies like lasers and semiconductors",
+  "Due to quantum superposition, quantum bits, also known as qubits, can exist in a simultaneous superposition of both states, in contrast to classical bits, which can only be either 0 or 1",
+  "Moreover, qubits can be coupled by quantum entanglement in a way that makes it irrelevant how far apart they are from one another and, therefore, the state of one qubit instantly influences the state of another [33]",
+  "Research into these technological obstacles is ongoing since qubit stability and dependability are crucial to the development of quantum computers in the real world[14]",
+  "Themostoften usedparadigmisgate-based,whichisbasedontheapplicationofquantumgates toqubits[5]",
+  "In Figure 3 we show three dif- ferentconnectiontopologiesofD-Wavemachines:Chimera,Pegasus andZephyr",
+  "We show in Figure 8 the main code to minimize the integerfunctioninExample10",
+  "In Table 3 we show the results of a run of the code"
+]
