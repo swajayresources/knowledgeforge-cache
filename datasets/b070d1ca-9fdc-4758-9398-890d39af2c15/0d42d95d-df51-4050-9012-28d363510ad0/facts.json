@@ -1,0 +1,17 @@
+[
+  "The fatigue life of turbine blades is directly related to the safety and reliability of aircraft engines.",
+  "Fatigue damage caused by alternating loads represents a prevalent failure type observed in turbine blade structures.",
+  "Several classic empirical formulas have been derived to establish the relationship between mechanical properties and fatigue life, such as the Coffin-Manson, BM, KBM, FS, and WHS/MWHS criteria.",
+  "The RSL method combines symbolic regression with deep reinforcement learning to derive predictive formulas for turbine blade fatigue life.",
+  "The RSL framework incorporates logical constraints, including dimension removal, arity tracking, function enforcement, constant operation suppression, and irrational nesting suppression.",
+  "The RNN-guided node selection process in RSL is optimized using a risk-seeking policy gradient approach.",
+  "The RSL method was evaluated using the turbine blade materials GH4169 and TC4.",
+  "Compared to six empirical formulas and five machine learning algorithms, RSL produced more interpretable formulas and achieved superior or comparable predictive accuracy.",
+  "The main contributions of the paper include the development of the RSL framework, the introduction of logical constraints, the enhancement with deep reinforcement learning, and the successful application to turbine blade materials.",
+  "Traditional empirical fatigue life prediction models are often limited to specific materials and loading conditions, making them difficult to generalize.",
+  "Machine learning models can achieve high predictive accuracy but often lack transparency and the ability to explain the physical meaning of the parameters.",
+  "Symbolic regression has shown significant potential in generating interpretable and generalizable expressions to describe the intrinsic relationships within data.",
+  "The RSL method addresses the limitations of both empirical formulas and machine learning models by providing interpretable, physically meaningful formulas for predicting turbine blade fatigue life.",
+  "The incorporation of logical constraints in the RSL framework ensures that the generated formulas are structurally valid and aligned with physical laws.",
+  "The deep reinforcement learning component of RSL efficiently guides the symbolic regression towards more accurate and generalizable predictive models."
+]
