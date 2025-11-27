@@ -1,0 +1,1 @@
+This paper describes the development of a fully non-metallic gas turbine engine enabled by additive manufacturing techniques. The researchers fabricated and tested prototype components made from polymer and ceramic matrix composites, and conducted engine system studies to estimate the benefits of this approach in terms of reduced emissions, fuel burn, and cost.
