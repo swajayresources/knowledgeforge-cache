@@ -1,0 +1,1 @@
+This paper presents volumetric 3-component velocimetry measurements of the flow around a Rushton turbine in a stirred tank reactor. The highly unsteady, 3D flow field is characterized by a strong radial jet, large tank-scale ring vortices, and small-scale blade tip vortices. The data offers a comprehensive view of the flow field at three different Reynolds numbers.
