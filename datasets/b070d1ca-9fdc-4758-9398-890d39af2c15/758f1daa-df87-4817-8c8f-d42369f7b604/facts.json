@@ -1,0 +1,17 @@
+[
+  "The compressor research package was designed, fabricated, and acceptance tested by AiResearch Manufacturing Company of Arizona under NASA Contract NAS3-9427.",
+  "The compressor wheel has a diameter of 4.25 inches and is an exact 0.514 scale-down of an existing high-efficiency compressor design.",
+  "The compressor design conditions at the 6.0 kwe reference power level include a pressure ratio of 1.9, mass flow rate of 0.756 lb/sec, and rotating speed of 36,000 rpm.",
+  "The compressor is designed to operate with a XeHe working fluid mixture with an equivalent molecular weight of 83.8.",
+  "The predicted design efficiency of the compressor is greater than 80%.",
+  "The compressor wheel is made of 403 CRES material and has a maximum blade stress of 25,000 psi at the 36,000 rpm operating speed.",
+  "The compressor package uses angular-contact ball bearings with a predicted time-between-overhaul of at least 300 hours.",
+  "The compressor package includes static pressure instrumentation at the inlet, impeller, diffuser, and scroll exit, with provisions for adding total pressure and temperature instrumentation.",
+  "The compressor package successfully completed acceptance testing up to 120% of the 51,200 rpm design speed.",
+  "The compressor package is designed to operate between 25,550 and 66,165 rpm without encountering rigid-body critical speeds.",
+  "The compressor package has a design clearance between the wheel shroud and housing of 0.007-0.009 inch.",
+  "The compressor package is mounted on resilient mounts with a spring rate of 30,000 lb/in to avoid critical speeds.",
+  "The compressor package includes a carbon-face contact seal at the impeller end to accommodate a wide range of back-face pressures.",
+  "The compressor research package will be used at the NASA Lewis Research Center for complete component performance evaluation.",
+  "The compressor design leveraged an existing high-efficiency design rather than developing a new design, as the existing design was expected to meet the performance requirements."
+]
