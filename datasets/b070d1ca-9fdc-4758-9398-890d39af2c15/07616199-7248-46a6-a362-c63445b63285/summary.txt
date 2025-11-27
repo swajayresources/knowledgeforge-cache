@@ -1,0 +1,1 @@
+This paper discusses a turbine blade cooling concept developed by Micro Cooling Concepts, Inc. that uses microtextured surfaces to enhance internal impingement cooling effectiveness, enabling higher combustor outlet temperatures in gas turbine engines with lower performance penalties.
