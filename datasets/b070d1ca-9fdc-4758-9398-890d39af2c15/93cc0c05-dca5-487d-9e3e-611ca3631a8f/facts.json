@@ -1,0 +1,17 @@
+[
+  "The study uses wall-resolved large eddy simulations to investigate the shock-boundary layer interactions in a supersonic turbine cascade.",
+  "The computational grid has approximately 68 million points, with an O-grid block surrounding the airfoil and an H-grid block used to enforce the pitchwise periodicity.",
+  "For the adiabatic wall case, the time-averaged characteristic length of the separation bubble is 0.16c_ax, while for the cooled wall case it is 0.10c_ax.",
+  "The cooled wall case shows a downstream displacement of the separation region compared to the adiabatic wall setup, indicating a smaller separation bubble.",
+  "The incident shock wave penetrates deeper into the boundary layer for the cooled wall case, leading to a steeper pressure rise downstream.",
+  "The peak values of the wall-normal Reynolds stresses are higher for the adiabatic wall case compared to the cooled wall case.",
+  "The turbulent kinetic energy shows a downstream displacement of the maximum turbulence amplification location for the cooled wall case.",
+  "The inlet Mach number is 2.0, and the Reynolds number based on the inlet velocity and axial blade chord is 200,000.",
+  "The ratio of specific heats is 1.31, and the Prandtl number is 0.747.",
+  "The simulations use a sixth-order accurate finite-difference compact scheme for spatial discretization and an implicit second-order scheme for time integration.",
+  "A body-forcing technique is applied to transition the boundary layers, with an unsteady actuation and a random spanwise treatment.",
+  "The localized artificial diffusivity (LAD) method is employed to capture the shock waves while minimizing numerical dissipation.",
+  "The separation bubble undergoes a contraction and expansion motion for both thermal boundary conditions, suggesting a breathing pattern.",
+  "For the adiabatic wall case, the maximum temperature occurs within the separation bubble, while for the cooled wall case, the maximum temperatures are observed along the free shear layer downstream of the bubble.",
+  "The study is funded by the S\u00e3o Paulo Research Foundation (FAPESP) and the National Council for Scientific and Technological Development (CNPq) in Brazil."
+]
