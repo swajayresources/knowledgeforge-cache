@@ -1,0 +1,17 @@
+[
+  "The Aerosense measurement system uses low-cost, low-power MEMS sensors to measure local pressures, blade motions, and inflow conditions on wind turbine blades.",
+  "The system is composed of sensor nodes installed on the blades, a base station that collects and transmits the data, and a digital twin system for data processing and analysis.",
+  "The absolute pressure sensors have an absolute accuracy of \u00b150 Pa and a relative accuracy of \u00b12.5 Pa after calibration.",
+  "The differential pressure sensors have a pressure range of -2000 Pa to 2000 Pa with a precision of \u00b120 Pa.",
+  "The inertial measurement unit measures the blade motion and attitude at 100 Hz, which is used to correct the hydrostatic pressure variations.",
+  "Photogrammetry is used to determine the 3D shape and positions of the sensors on the blade, as the sensor node is manually installed.",
+  "The measurements on the 7 kW wind turbine showed that the pressure distribution can vary significantly during one rotation of the blade, even under stable wind conditions.",
+  "The Aerosense system uses a hybrid method to infer the local inflow conditions, including angle of attack and wind speed, without requiring a reference pressure measurement.",
+  "For a 5 MW wind turbine, the atmospheric pressure is about 50 times higher than the dynamic pressure, the hydrostatic pressure variation is about 40% of the dynamic pressure, and the pressure drift of the barometers is about 5% of the dynamic pressure.",
+  "The Aerosense system is designed to be easy to install, inexpensive, and non-intrusive, making it a cost-effective solution for the wind energy industry.",
+  "The digital twin system integrates the field measurements, automatically analyzes them, and enables comparison and improvement of low and high-fidelity simulations.",
+  "The Aerosense system can measure at up to 1.2 kHz, allowing the unsteady effects on the blade to be examined.",
+  "The researchers developed a dedicated sensor fusion algorithm to account for the large centrifugal accelerations experienced by the sensors on a wind turbine blade.",
+  "The influence of acceleration on the pressure measurements was experimentally quantified, showing a linear increase of 2.4 Pa/g when the sensor cavity is oriented in the direction of the acceleration.",
+  "The Aerosense system is designed to monitor the structural health of the blade in addition to the aerodynamic properties."
+]
