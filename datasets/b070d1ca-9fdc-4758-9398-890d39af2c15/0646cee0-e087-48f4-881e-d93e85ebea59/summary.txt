@@ -1,0 +1,1 @@
+This paper presents a finite element analysis of a thermal barrier coating (TBC) system, including the effects of thermal expansion mismatch and bond coat oxidation. The study aims to understand the mechanical behavior and failure mechanisms of TBCs used in advanced gas turbine applications.
