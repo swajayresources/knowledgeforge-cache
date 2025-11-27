@@ -1,0 +1,1 @@
+This paper proposes a novel approach that combines virtual reality and deep learning techniques to develop an automated and efficient defect detection system for wind turbine blades. The authors use Unity to generate synthetic images of wind turbine blade defects and train a U-Net model to classify and segment the defects.
