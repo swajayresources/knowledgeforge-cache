@@ -1,0 +1,17 @@
+[
+  "The paper emphasizes the importance of studying the gas entropy in galaxy clusters evolving under the influence of radiative cooling.",
+  "The authors develop an analytical model for the evolution of the cluster gas, replacing the conservation of energy equation with an equation for the rate of change of the entropy index.",
+  "The analytical model assumes the radiative cooling is due to pure bremsstrahlung, the entropy index evolution is linear in time, and the entropy index is initially uniform throughout the cluster.",
+  "The analytical model predicts a simple power-law relationship between the cumulative gas mass and the entropy index, consistent with observations of the Hydra and Virgo clusters.",
+  "The numerical solution confirms the assumptions of the analytical model are reasonable, and the power-law relationship persists even with a more realistic cooling function including line emission.",
+  "The model predicts a strongly accelerating evolution of the gas temperature at the cluster center, with a rapid drop to below 1 keV occurring over a short timescale.",
+  "The rapid drop in central gas temperature explains the apparent lack of clusters containing detectable amounts of very cold gas, as this phase exists for only a small fraction of the cluster evolution.",
+  "The uniform initial entropy index assumption is crucial for the analytical solution, though the authors acknowledge this may be an oversimplification of the real situation.",
+  "The analytical solution does not depend on the specific form of the gravitational potential, with both a \u03b2-profile and an NFW profile yielding similar results.",
+  "The model suggests the triggering of a heating mechanism may be closely connected to the arrival of very cold gas at the cluster center.",
+  "The authors find the slope of the power-law entropy index-mass relationship, \u03b5, is roughly 3 for an NFW potential and 3/2 for a \u03b2-profile, consistent with the empirical values found for the Hydra (\u03b5~1.5) and Virgo (\u03b5~2.3) clusters.",
+  "The numerical solution shows the inclusion of radiative cooling due to line emission does not change the power-law entropy index-mass relationship.",
+  "The authors emphasize the need for some form of non-gravitational heating to explain observations of the hot gas in galaxy clusters.",
+  "The paper focuses on the evolution of the cluster gas during passive cooling periods, assuming episodic heating by mechanisms like AGN outflows.",
+  "The authors note that above ~2 keV, the approximation of the cooling function as pure bremsstrahlung is reasonable, but below this temperature line emission becomes important."
+]
