@@ -1,0 +1,17 @@
+[
+  "The TBC system consisted of a zirconia-yttria ceramic layer, a nickel-chromium-aluminum bond coat, and a superalloy substrate.",
+  "The TBC specimens were plasma-sprayed and tested in a burner rig, experiencing thermal cycling and bond coat oxidation.",
+  "The authors introduced a sinusoidal interface between the ceramic layer and the bond coat, with a period of approximately 50 \u03bcm and an amplitude of 15 \u03bcm.",
+  "The finite element models (TBCG and TBCGEP) used a general-purpose computer program (MARC) running on a CRAY-1 supercomputer.",
+  "The TBCG model assumed the materials were homogeneous, isotropic, and elastic, while the TBCGEP model allowed for elastic-plastic behavior in the bond coat.",
+  "The thermal expansion mismatch between the layers led to high tensile radial stresses near the peaks of the sinusoidal interface, which could initiate cracking in the ceramic layer.",
+  "Bond coat oxidation was modeled by assigning alumina properties to the elements bordering the interface, leading to high compressive radial stresses near the peaks and tensile radial stresses above the valleys.",
+  "The presence of a pre-existing crack in the ceramic layer led to a redistribution of the radial stresses, with high tensile stresses near the crack tips but also some compressive stresses that could potentially arrest crack propagation.",
+  "In the elastic-plastic TBCGEP model, the radial stresses in the ceramic layer were significantly lower compared to the elastic TBCG model, suggesting that plasticity in the bond coat can reduce the stress levels.",
+  "The authors proposed a preliminary mechanism for oxidation-induced coating failure, where the growth of the oxide layer leads to high compressive and tensile radial stresses that could promote crack initiation and propagation in the ceramic layer.",
+  "The authors noted that computing power was a limitation, but believed that a reasonable modeling of a coated turbine blade could now be attempted.",
+  "The authors planned to conduct additional elastic-plastic analyses to further evaluate the validity of the proposed failure mechanism.",
+  "The experimental data on the strength and plastic behavior of the bond material and ceramic would be useful for the modeling efforts.",
+  "The approach and methodology developed in this investigation are applicable to analyzing any TBC specimens or engine parts protected by related coatings.",
+  "The latest TBCGEP model can be modified to deal with more complex geometries, as needed."
+]
