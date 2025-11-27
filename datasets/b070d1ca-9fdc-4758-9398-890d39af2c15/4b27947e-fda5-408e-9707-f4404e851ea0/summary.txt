@@ -1,0 +1,1 @@
+This paper proposes a Bi-Directional Long Short-Term Memory (BLSTM) model for predicting the remaining useful life (RUL) of turbofan engines. The BLSTM model outperforms other approaches like Linear Regression and standard LSTM, achieving an RMSE of 26.68 and R^2 of 0.59 on the CMAPSS dataset.
