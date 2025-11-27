@@ -1,0 +1,17 @@
+[
+  "The coupled BEM-CFD model is computationally efficient compared to transient CFD simulations of rotating blades, allowing it to simulate larger numbers of turbines in an array.",
+  "Wake recovery to free-stream conditions downstream of a single turbine was found to be independent of the inlet flow velocity.",
+  "The minimum velocity observed downstream of a single turbine was between 37.8% and 39.3% of the inlet velocity, occurring 2.0 diameters downstream of the rotor.",
+  "By 40 diameters downstream of a single turbine, the velocity had recovered to around 92% of the inlet velocity magnitude.",
+  "For a longitudinally aligned pair of turbines, the performance of the downstream rotor improved significantly with increasing the longitudinal distance between the rotors, even when the spacing was 40 diameters.",
+  "For a longitudinal spacing of 10 diameters between a pair of turbines, the power output of the downstream rotor was only 29.3% of the upstream rotor, compared to 82.8% for a 40 diameter spacing.",
+  "Increasing the lateral spacing between a pair of turbines to 4.0 diameters or greater resulted in flow acceleration between them, with velocities up to 4% higher than the freestream velocity observed 40 diameters downstream.",
+  "For a low lateral spacing between a pair of turbines (3 diameters or less), flow recovery was slow between them because of wake expansion.",
+  "The authors were able to optimize the layout of a 14-turbine staggered array based on the patterns observed for two and three turbine arrangements, increasing the total power output by over 10% compared to a regular staggered configuration.",
+  "The authors calculated turbulence intensity from the predicted velocity and turbulent kinetic energy using the formula T_i = (2k/3)^0.5/U.",
+  "The authors used a variable resolution grid to evaluate the velocity and turbulence characteristics downstream of the turbines, with finer resolution near the turbines and wake regions.",
+  "The blade-box region containing the turbine rotor was modeled using a structured mesh with a resolution of 64 x 64 x 10 elements and cell sizes of 0.2 m x 0.2 m x 0.1 m.",
+  "An unstructured mesh was used in the upstream and downstream regions of the domain, with maximum element sizes ranging from 0.5 m to 4.0 m depending on the distance from the turbine.",
+  "The authors validated the BEM-CFD model against experimental data, with discrepancies in the predicted power coefficients compared to the experiment ranging from -1.07% to 7.95% for tip speed ratios between 4.0 and 8.0.",
+  "The authors also validated the model's ability to predict velocity structures in the wake regions downstream of turbine rotors, with maximum errors of 11.38% observed along the mid-wake of any of the rotors."
+]
