@@ -1,0 +1,18 @@
+[
+  "The8thEuropeanCongressonComputationalMethodsinAppliedSciencesandEngineering ECCOMASCongress2022 5-\u20139June2022,Oslo,Norway MODEL ORDER REDUCTION OF SOLIDIFICATION PROBLEMS ECCOMAS CONGRESS 2022 Florian Arbes1,2, \u00d8yvind Jensen1, Kent-Andre Mardal2 and J\u00f8rgen S",
+  "Dokken3 1 Institute for Energy Technology (IFE) Instituttveien 18 2007 Kjeller, Norway e-mail: {florian",
+  "no 2 Department of Mathematics, University of Oslo (UiO) Moltke Moes vei 35, 0851 Oslo, Norway email: kent-and@math",
+  "no 3 Department of Engineering, University of Cambridge Trumpington St, Cambridge CB2 1PZ, United Kingdom email: jsd55@cam",
+  "This paper studies reduced spaces for 1D step functions that move in time, which can either be seen as advection of a quantity or as a moving solidification front",
+  "Furthermore, the reduced spaceofa2Dsolidificationtestcaseiscomparedwiththereducedspaceofanalloysolidification featuring a mushy zone",
+  "1 INTRODUCTION Solidification processes in the material processing industry are complex and need to be mod- ellednumerically",
+  "Theunderlyingmulti-physicsequationsforfluidflow,heattransfer,andphase change must be coupled to one another [1]",
+  "[2, 3] for overviews",
+  "Often, threestepsareinvolved[4]: firstly, onesolvesforatentativevelocityvectoruI component-wise based on a pressure guess p\u2217",
+  "Secondly, a pressure correction \u03d5 = pn\u22121/2\u2212p\u2217 is computed and lastly a velocity correction is computed",
+  "The k-th velocity component is denoted 1 2202 tcO 21 ]AN",
+  "htam[ 1v96160",
+  "0122:viXra Florian Arbes, \u00d8yvind Jensen, Kent-Andre Mardal and J\u00f8rgen S",
+  "Simo and k Armero [5] outline a general fractional step algorithm as followed: uI \u2212un\u22121 k k +Bn\u22121/2 = \u03bd\u22072u \u2212\u2207 p\u2217+fn\u22121/2 for k = 1,",
+  "In this paper, we demonstrated that not only the PDE itself, but the smoothness of the solution determines the decay of the singular values"
+]
