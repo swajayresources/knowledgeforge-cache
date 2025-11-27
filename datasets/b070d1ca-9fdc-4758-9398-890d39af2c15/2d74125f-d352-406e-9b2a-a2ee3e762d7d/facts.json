@@ -1,0 +1,17 @@
+[
+  "The investigated samples consist of a 1200 nm thick GaN buffer layer, followed by a 50 nm thin (Ga,Fe)N layer containing nanocrystals, and in some cases a 70 nm thick GaN capping layer.",
+  "HRXRD analysis identifies the presence of two crystalline phases in the nanocrystals: \u03b1-Fe and \u03b3'-GayFe4-yN.",
+  "The size of the \u03b1-Fe nanocrystals is estimated to be 17\u00b12 nm, while the \u03b3'-GayFe4-yN nanocrystals are 22\u00b12 nm along the growth direction.",
+  "The magnetic response of the samples is dominated by a superparamagnetic-like behavior and a paramagnetic contribution from dilute Fe3+ ions in the matrix.",
+  "The coercive field values observed in the samples (10-60 mT) are consistent with the presence of ferromagnetic \u03b3'-Fe4N nanocrystals.",
+  "The FMR measurements confirm the presence of an in-plane uniaxial magnetic anisotropy in the embedded nanocrystals.",
+  "The post-growth annealing of Sample A leads to the removal of the \u03b1-Fe nanocrystals and the formation of polycrystalline FeOx at the surface.",
+  "The resistivity of the capped Sample B is enhanced by up to three orders of magnitude compared to the other samples, due to the diffusion of dilute Fe ions into the GaN capping layer.",
+  "The magnetoresistance of the samples shows a transition from Arrhenius-type conduction at high temperatures to Mott variable-range hopping at lower temperatures.",
+  "The anisotropic magnetoresistance (AMR) is observed in all samples containing the (Ga,Fe)N layers, but not in the GaN reference sample.",
+  "The hopping distance Rh is estimated to be 30-70 nm, while the localization length \u03be is 7-10 nm, fulfilling the condition Rh > \u03be for hopping conduction.",
+  "The hysteretic behavior in the magnetoresistance of Sample A* at low fields is attributed to the spin polarization of the embedded nanocrystals.",
+  "The estimated concentration of dilute Fe ions in the GaN matrix is less than 0.1%, suggesting that most of the Fe is incorporated into the nanocrystals.",
+  "The magnetic anisotropy of the nanocrystals, as observed in the FMR measurements, is attributed to shape anisotropy and the hexagonal crystal structure of the GaN matrix.",
+  "The positive anisotropic magnetoresistance observed in the samples containing the (Ga,Fe)N layers is not present in the GaN reference sample, indicating that it is a result of the embedded nanocrystals."
+]
