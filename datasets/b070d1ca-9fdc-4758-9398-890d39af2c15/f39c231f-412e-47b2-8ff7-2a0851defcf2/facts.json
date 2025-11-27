@@ -1,0 +1,17 @@
+[
+  "Experimental erosion tests were performed on 25.4 x 25.4 x 1.5875 mm Inconel 718 coupons coated with EB-PVD 7YSZ.",
+  "The erosion rate, \u03b5, was defined as the ratio of the measured coating erosion mass loss, \u0394W, to the mass of impacting particles, Qp.",
+  "The maximum erosion rate for the EB-PVD TBC coating occurred at a 90 degree impingement angle, while the maximum for the Inconel 718 substrate occurred between 20-30 degrees.",
+  "The erosion rates were found to increase with increased impingement angle, impact velocity, and temperature.",
+  "Experimentally-based correlations were developed for TBC erosion rates and particle restitution characteristics as functions of impact velocity, angle, and temperature.",
+  "Computational grids were generated using Pointwise V16, with grid clustering near the blade surfaces to achieve y+ < 3.",
+  "The three-dimensional flow field solutions used the k-\u03c9 Shear-Stress-Transport (SST) turbulence model in ANSYS CFX.",
+  "An Euler-Lagrangian two-stage, one-way particle interaction model approach was used for the particle trajectory simulations.",
+  "The experimentally-based erosion and restitution models were implemented as user-defined functions in ANSYS CFX.",
+  "For the commercial APU turbine, the maximum local TBC erosion rate was predicted to be 72.94 mg/g/cm^2 on the rotor suction side.",
+  "The overall blade erosion rates for the commercial APU turbine were predicted to be 0.83 mg/g for the stator and 0.87 mg/g for the rotor.",
+  "When particles were only seeded in the 5% of the span near the hub and shroud, the erosion on the stator pressure surface occurred almost exclusively along these thin bands.",
+  "The highest erosion rate was still predicted at the shroud and trailing edge corner of the rotor suction surface, where the particles became concentrated due to centrifugal forces.",
+  "High-speed photography and particle image displacement velocimetry (PIDV) techniques were used to measure particle restitution characteristics.",
+  "The computational simulations were performed for a commercial APU turbine, a NASA designed automotive turbine, and a NASA turbine scaled for modern rotorcraft."
+]
