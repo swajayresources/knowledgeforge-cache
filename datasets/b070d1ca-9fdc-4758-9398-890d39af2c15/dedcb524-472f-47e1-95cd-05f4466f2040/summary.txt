@@ -1,0 +1,1 @@
+This paper provides an overview of the HOST (Hot Section Technology) Structural Analysis Program, which aims to develop and validate integrated time-varying thermomechanical load models, component-specific automated geometric modeling and solution strategy capabilities, and advanced inelastic analysis methods for turbine engine hot section components.
