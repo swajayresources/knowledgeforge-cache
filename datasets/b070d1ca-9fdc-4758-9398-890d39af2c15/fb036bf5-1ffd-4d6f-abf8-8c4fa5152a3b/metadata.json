@@ -1,0 +1,15 @@
+{
+  "paper_id": "fb036bf5-1ffd-4d6f-abf8-8c4fa5152a3b",
+  "title": "Analysis and developpment of a Turbivo compressor for MRV applications",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/fb036bf5-1ffd-4d6f-abf8-8c4fa5152a3b/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/fb036bf5-1ffd-4d6f-abf8-8c4fa5152a3b/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/fb036bf5-1ffd-4d6f-abf8-8c4fa5152a3b/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/fb036bf5-1ffd-4d6f-abf8-8c4fa5152a3b/keywords.json"
+  ]
+}
