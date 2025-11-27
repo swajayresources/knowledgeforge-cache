@@ -1,0 +1,17 @@
+[
+  "The researchers selected a virtual subsonic aircraft and designed a circular convergent nozzle to meet the mission requirements.",
+  "Various nozzle configurations were designed by changing the geometric profiles, including different exit aspect ratios (AR) and curvatures.",
+  "The researchers used a compressible Navier-Stokes-Fourier CFD code to analyze the thermal flow field and nozzle surface temperature distribution.",
+  "The IR signatures of the plume and nozzle surface were calculated using a narrow-band model and the RadThermIR code.",
+  "As the nozzle exit aspect ratio and curvature increased, the plume and nozzle surface temperatures decreased, leading to a reduction in the overall IR signature.",
+  "The non-circular nozzle configurations showed a decrease in thrust of up to 10.7% compared to the circular nozzle.",
+  "The plume IR signature showed peaks in the 4-4.5 \u03bcm and 6-7 \u03bcm wavelength bands, corresponding to the absorption bands of CO2 and H2O.",
+  "The researchers validated the accuracy of their CFD simulations by comparing the results to experimental data from the 1st AIAA Propulsion Aerodynamics Workshop.",
+  "The researchers found that the IR signature reduction must be balanced with other performance considerations, such as thrust, when designing the nozzle configuration.",
+  "The study provides qualitative information on the effects of nozzle configuration on the IR signature of a UAV, which can be useful for IR signature reduction design.",
+  "The researchers designed 20 different nozzle configurations by varying the exit aspect ratio (AR 2, AR 6, AR 8) and curvature (4 levels).",
+  "The maximum reduction in plume and nozzle surface IR signature was observed for the nozzle with the highest exit aspect ratio (AR 10) and largest curvature.",
+  "The researchers found that the nozzle exit aspect ratio and curvature had a greater impact on reducing the IR signature compared to the circular nozzle.",
+  "The study demonstrates the importance of considering both IR signature and other performance metrics, such as thrust, when designing aircraft propulsion systems.",
+  "The narrow-band model used in the study divided the 100-1000 cm-1 wavelength range into smaller bands to calculate the average spectral properties."
+]
