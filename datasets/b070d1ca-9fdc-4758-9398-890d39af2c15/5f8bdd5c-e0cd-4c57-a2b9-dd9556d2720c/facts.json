@@ -1,0 +1,17 @@
+[
+  "The observed Alfv\u00e9nic activity below the TAE frequency is characterized by well-defined frequency lines surrounded by wide (\u223c15 kHz) frequency bands.",
+  "The model used in this paper includes higher-order harmonics of the geodesic field-line curvature caused by plasma shaping, as opposed to just the lower-order toroidicity.",
+  "The predicted frequency range of the HOGAEs is \u03c9_GAM \u2264 \u03c9 \u2264 \u03c9_TAE, significantly above the values predicted by previous lower-order coupling models.",
+  "The theoretical predictions of HOGAE frequency and radial location are in fair agreement with measurements in JET experiments, with the HOGAEs located in the inner half of the plasma (\u03c1_pol < 0.5).",
+  "Plasma elongation is shown to play an essential role in the high-order coupling model, as it contributes to higher-order harmonics of the geodesic curvature.",
+  "The observed HOGAEs have frequencies around one-half of the typical TAE frequency.",
+  "A safety factor larger than 2 (or slightly higher if elongation is increased) prevents the HOGAE gaps from opening, limiting their existence to the inner part of the plasma.",
+  "The plasma rotation frequency measured from the 3/2 neoclassical tearing mode is used to convert between the AE frequencies computed in the plasma frame and the Doppler-shifted frequencies measured in the experiments.",
+  "The HOGAE stability is mainly determined by the interplay between thermal-ion Landau damping and the drive from the anisotropic ICRH-heated ion population.",
+  "The authors consider the effects of thermal-ion dilution due to impurities and the fraction of ICRH-heated ions on the balance of energy exchange between the HOGAEs and the plasma species.",
+  "The major wave-particle resonances are found to be located at energies close to the plasma temperature at the AE location and the fundamental ICRH resonance for the heated H ions.",
+  "The authors employ a hybrid MHD/drift-kinetic code to evaluate the resonant energy exchange between the HOGAEs and the relevant plasma species.",
+  "The authors use the EFIT code to reconstruct the magnetic equilibrium and the CASTOR and CASTOR-K codes to compute the continuous spectra and the linear stability of the observed HOGAEs.",
+  "The authors analyze two JET plasma scenarios, #90198 and #90199, with the former providing a simpler case for analysis due to the presence of a single, well-separated HOGAE.",
+  "The authors use reflectometry and soft X-ray data to constrain the radial location of the observed HOGAEs, finding them to be in the inner half of the plasma."
+]
