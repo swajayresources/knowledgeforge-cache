@@ -1,0 +1,17 @@
+[
+  "The diameter-based Reynolds numbers tested were between 1.6 \u00d7 10^5 and 2.7 \u00d7 10^5.",
+  "The blockage ratio was approximately 11% across all tests.",
+  "The optimal tip-speed ratio ranged from 2.3 to 3.6, with the highest values for low c/R and the lowest for high c/R.",
+  "Increasing toe-out preset pitch (more negative \u03b1 ) at constant c/R caused lower performance in the upstream and higher performance downstream.",
+  "Increasing net camber, either through virtual or geometric camber, resulted in increased upstream peak performance but reduced performance downstream.",
+  "The optimal preset pitch at a given c/R or camber was largely determined by the corresponding virtual incidence, with the optimal performance occurring at a relatively constant net incidence of 0\u00b0 to +1\u00b0.",
+  "The authors calculated the chord-based Reynolds number, Re , and noted that the datasets were not in a Reynolds number independent regime.",
+  "The virtual camber and virtual incidence concepts, derived from the curved blade trajectory, are key to understanding the aerodynamic behavior and performance of cross-flow turbines.",
+  "The main objective is to analyze the individual and combined impacts of c/R, airfoil camber, and preset pitch on cross-flow turbine performance.",
+  "The two experimental datasets used are: (1) performance data for turbines with symmetric NACA 0018 blades and various c/R, \u03b1 , and blade count, and (2) performance data for turbines with \u00b12% cambered NACA 0018 blades and various \u03b1 .",
+  "The authors propose using net camber and net incidence as effective parameters to understand turbine performance and design behavior.",
+  "The authors found that all of the geometric parameters (c/R, camber, and preset pitch) exhibit similar effects on turbine performance and should be considered in conjunction during the design and optimization of turbine geometry.",
+  "The authors note that the effects of Reynolds number and blockage are expected to be secondary compared to the geometric parameter effects.",
+  "The authors use the method of Migliore and Wolfe to calculate the virtual camber and virtual incidence, which are key to understanding the aerodynamic behavior of cross-flow turbines.",
+  "The authors found that the optimal preset pitch at a given c/R or camber was largely determined by the corresponding virtual incidence."
+]
