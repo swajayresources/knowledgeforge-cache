@@ -1,0 +1,15 @@
+{
+  "paper_id": "4b27947e-fda5-408e-9707-f4404e851ea0",
+  "title": "Turbofan Engine Remaining Useful Life (RUL) Prediction Based on Bi-Directional Long Short-Term Memory (BLSTM)",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/4b27947e-fda5-408e-9707-f4404e851ea0/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/4b27947e-fda5-408e-9707-f4404e851ea0/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/4b27947e-fda5-408e-9707-f4404e851ea0/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/4b27947e-fda5-408e-9707-f4404e851ea0/keywords.json"
+  ]
+}
