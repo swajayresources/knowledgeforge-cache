@@ -1,0 +1,17 @@
+[
+  "The Survey Descent iteration solves k parallel quadratic subproblems, each centered around one of the k survey points.",
+  "The paper proves local linear convergence of Survey Descent when the objective is the maximum of k smooth, strongly convex functions.",
+  "Experiments suggest Survey Descent may exhibit linear convergence even on objectives not expressible as the maximum of smooth functions.",
+  "The size of the survey, k, is related to the dimension of the subdifferential of the objective at the minimizer.",
+  "The gradients of the survey points tend to form a convex hull whose dimension matches the subdifferential dimension.",
+  "Survey Descent only requires function and gradient evaluations of the overall objective, not access to the individual component functions.",
+  "The paper discusses connections to other multipoint methods like bundle methods and level-bundle methods.",
+  "The paper's motivation for Survey Descent includes the 'differentiability of every iterate' behavior observed in many first-order methods on nonsmooth objectives.",
+  "The authors suggest that the choice of survey size, k, is an important practical question related to the 'active structure' of the objective at the minimizer.",
+  "Figures 1-4 in the paper present experiments demonstrating the linear convergence behavior of Survey Descent on various nonsmooth objectives.",
+  "The paper contrasts Survey Descent's theoretical guarantees with the generally sublinear convergence rates proven for other first-order methods on nonsmooth objectives.",
+  "The authors note that while Survey Descent is motivated by a 'max-of-smooth' model, the method is broadly applicable beyond objectives with that structure.",
+  "The paper discusses connections between the dimensionality of the subdifferential at the minimizer and the behavior of first-order method iterates near the minimizer.",
+  "The authors suggest that the availability of a 'workable choice' for the survey size, k, is a major assumption for the development and practical implementation of Survey Descent.",
+  "The paper presents empirical heuristics for choosing the survey size k based on the dimensionality of the objective's subdifferential at the minimizer."
+]
