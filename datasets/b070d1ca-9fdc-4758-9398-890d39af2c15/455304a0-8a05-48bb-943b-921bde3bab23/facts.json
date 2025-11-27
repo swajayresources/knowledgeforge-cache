@@ -1,0 +1,12 @@
+[
+  "The primordial lithium abundance is still subject to significant uncertainty, with the measured value in metal-poor stars being three times lower than that predicted by standard Big Bang Nucleosynthesis.",
+  "The critical density for the transition to local thermodynamic equilibrium (LTE) is much higher for LiH (n_LiH,cr ~ 1.8 \u00d7 10^10 cm^-3) compared to H2 (n_H2,cr ~ 400 cm^-3) and HD (n_HD,cr ~ 6000 cm^-3) at T = 100 K.",
+  "The spontaneous-emission Einstein coefficient for the lowest-lying rotational transition of LiH, A_10(LiH) = 1.18 \u00d7 10^-2 s^-1, is much larger than that of HD, A_10(HD) = 5 \u00d7 10^-8 s^-1.",
+  "The maximum LiH abundance achieved in the simulations is only about [LiH/H] ~ 10^-9 at temperatures T < 100 K, even with the primordial lithium abundance enhanced by one order of magnitude.",
+  "The authors find that insufficient LiH is produced in all cases considered, with [LiH/Li] ~ 10^-9 at T < 100 K, due to the low abundance of neutral lithium Li^0.",
+  "The authors state that neglecting photo-destruction processes and potentially underestimating the collisional dissociation rate of LiH renders their results an extreme upper limit on the effect of LiH cooling.",
+  "For the case of shock-heated primordial gas with n_0 = 100 cm^-3, the gas cools to the CMB floor of T_CMB < 30 K in ~10^-2 t_H, where t_H is the Hubble time at z = 5, even without LiH cooling.",
+  "In the case of collapsing primordial gas in minihaloes and relic HII regions, the gas temperature does not reach the CMB floor, even with the maximal LiH cooling scenario.",
+  "The ratio of the cooling rates per molecule, W_LiH/W_HD, is around 10^-3 for n(H^0) ~ 10^6 cm^-3 at T = 40 K, below which the HD cooling efficiency rapidly drops.",
+  "The authors find that the cooling by LiH can safely be neglected for the thermal evolution of Population III star-forming gas, as its contribution is insignificant compared to other molecular coolants like H2 and HD."
+]
