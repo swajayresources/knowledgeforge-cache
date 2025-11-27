@@ -1,0 +1,17 @@
+[
+  "The reversible logic gate is utilized to optimize power consumption by a feature of retrieving input logic from an output logic due to bijective mapping between input and output.",
+  "The proposed 4:2 reversible compressor circuit contains 2 inventive0 gates and has a quantum cost of 20.",
+  "The proposed 5:2 reversible compressor circuit contains 3 inventive0 gates and has a quantum cost of 30.",
+  "The inventive0 gate has a hardware complexity of 7\u03b1+4\u03b2+3\u03b4 and a quantum cost of 10.",
+  "The inventive0 gate can be used to implement various logic functions, including XOR, AND, XNOR, OR, full adder, and full subtractor.",
+  "A reversible n:2 compressor can be realized with (n-2) gates, 10(n-3) quantum cost, and at least (2n-4) garbage outputs.",
+  "A reversible n:2 compressor can be realized with (n-2) ancilla inputs.",
+  "The proposed 4:2 reversible compressor outperforms existing designs in terms of garbage outputs, number of gates, and quantum cost.",
+  "The basic reversible gates, such as CNOT, TG, and PG, are implemented in MOS transistors using the Gate Diffusion Input (GDI) technique, which helps reduce power, delay, and area.",
+  "The compressor can reduce the effect of carry (produced from full adder) in arithmetic frame design, making it useful for low-power VLSI circuits, ALUs, and quantum computers.",
+  "The paper presents a comparative analysis of the MOS transistor count for various basic reversible gates.",
+  "The reversible logic may be especially important in low-power VLSI applications.",
+  "Reversible logic is based on the concepts of logic reversibility and physical reversibility, which help solve the problems of overheating and power saving.",
+  "The amount of heat dissipated for every bit of computation information is KT ln2, where k is the Boltzmann's constant and T is the absolute temperature.",
+  "Cascading of reversible and inverse reversible gates can prevent the loss of information, which is the root cause of power dissipation in irreversible logic circuits."
+]
