@@ -1,0 +1,12 @@
+[
+  "The virial temperature of a halo is completely determined by its mass and redshift, with T_vir \u2248 3.0 \u00d7 10^5 K (M_halo/10^12 M_sun)^(2/3) (1+z).",
+  "Observations show that the gas and baryon fractions of galaxy groups are substantially below the cosmic mean, whereas clusters have fractions much closer to the cosmic mean, likely due to feedback from galaxies removing gas from group-sized halos.",
+  "Semi-analytic models find that the time-scale for ejected gas to be reincorporated into the hot halo is inversely proportional to halo mass, with t_reinc = 1.8x10^10 (10^10 M_sun/M_halo) yr.",
+  "Equilibrium models find that the gas recycling time-scale decreases with increasing halo mass (or stellar mass) and increasing redshift, but with a relatively weak dependence, t_recycle \u221d M_halo^-0.45.",
+  "In the hydrodynamical simulations, accretion onto halos is dominated by first-time accreting gas, with wind recycling accretion being about 1 dex lower at z=0, but wind recycling becomes comparable to first-time accretion for accretion onto galaxies by z=0.",
+  "The hydrodynamical simulations show that the importance of wind recycling increases with decreasing redshift, and it dominates the global star formation rate by about an order of magnitude at z=0.",
+  "Christensen et al. (2016) find that about 50% of the gas ejected from galaxies in their zoom-in simulations (with M_halo < 10^12 M_sun) never re-accretes.",
+  "Feedback can reduce the amount of gas in the ISM and potentially reduce gas accretion rates, but it also makes gas available for feeding galaxies at low redshift that would otherwise be 'locked up' in low-mass galaxies at high redshift.",
+  "The details of the feedback implementation, such as the velocity, momentum, or temperature of the winds, can significantly impact the quantitative results on the importance of wind recycling.",
+  "The virial radius approximately marks the boundary between the unaffected intergalactic medium and the enriched and heated circumgalactic medium, with effects of galaxy formation observed out to 2 R_vir or beyond."
+]
