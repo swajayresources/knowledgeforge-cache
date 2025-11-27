@@ -1,0 +1,17 @@
+[
+  "Vibrissae (whiskers) of harbor seals and elephant seals possess undulations along their length.",
+  "Harbor seal vibrissae have been shown to reduce vortex-induced vibrations and drag compared to appropriately scaled cylinders and ellipses.",
+  "The researchers obtained seal whisker samples from the Marine Mammal Center in California and used CT scanning, microscopy, and 3D scanning to characterize the whisker geometries.",
+  "The computational fluid dynamics simulations were conducted using the NASA in-house Unsteady Reynolds-Averaged Navier-Stokes code, Glenn-HT, with the SST-transition enabled two-equation model.",
+  "The baseline untreated variable speed power turbine (VSPT) blade showed separation at negative and high positive incidence angles.",
+  "The seal-inspired blades were created by sweeping the VSPT airfoil section through sinusoidal profiles with varying pitch and amplitude to match the seal whisker characteristics.",
+  "The seal blades showed a reduction in total pressure loss coefficient of up to 50% compared to the untreated baseline blade at a Reynolds number of 100,000.",
+  "Hotwire surveys in the wake of the seal-inspired blades showed a reduction in broadband frequency content and turbulence intensity.",
+  "The seal blades were found to be insensitive to incidence angle, maintaining improved performance over the untreated blade at angles ranging from -37 to +10 degrees.",
+  "The researchers estimated a potential fuel burn reduction of approximately 5% for a fixed-wing aircraft using the seal-inspired turbine blades.",
+  "Other biological inspirations reviewed in the study included owl wings, whale tubercles, dragonfly wings, cactus and palm tree trunks, and sailfish skin.",
+  "The computational fluid dynamics simulations were validated against experimental data from the NASA CW-22 wind tunnel facility for the baseline untreated turbine blade.",
+  "The researchers hypothesized that the seal-inspired undulations could delay or mitigate separation, thin the boundary layer, and modify the wake structure to reduce drag and noise.",
+  "Future work identified by the researchers includes investigating the effect of undulation sweep along the chord and the potential for acoustic attenuation.",
+  "The researchers conducted the study on a variable speed power turbine (VSPT) blade due to its large thickness-to-chord ratio and the existence of separation, which provided a suitable case for initial testing of the concept."
+]
