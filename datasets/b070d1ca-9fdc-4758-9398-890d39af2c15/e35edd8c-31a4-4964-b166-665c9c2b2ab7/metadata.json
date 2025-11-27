@@ -1,0 +1,15 @@
+{
+  "paper_id": "e35edd8c-31a4-4964-b166-665c9c2b2ab7",
+  "title": "Deep learning modelling of manufacturing and build variations on multi-stage axial compressors aerodynamics",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/e35edd8c-31a4-4964-b166-665c9c2b2ab7/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/e35edd8c-31a4-4964-b166-665c9c2b2ab7/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/e35edd8c-31a4-4964-b166-665c9c2b2ab7/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/e35edd8c-31a4-4964-b166-665c9c2b2ab7/keywords.json"
+  ]
+}
