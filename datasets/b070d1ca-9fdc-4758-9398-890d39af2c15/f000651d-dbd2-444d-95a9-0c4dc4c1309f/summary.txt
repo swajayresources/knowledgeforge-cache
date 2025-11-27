@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics (CFD) study of a vertical axis wind turbine (VAWT) with a variable swept area. The VAWT design allows adjusting the blade angle to adapt the turbine's characteristics to different wind speeds, improving its operating range. The study analyzes the performance of the VAWT at various blade angles and rotational speeds.
