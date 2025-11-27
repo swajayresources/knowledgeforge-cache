@@ -1,0 +1,17 @@
+[
+  "The paper proposes an automatic workflow for assessing damage on gas turbine blades using deep learning on borescope video feeds.",
+  "The workflow uses a Mask R-CNN network with a PointRend module for instance segmentation to detect and classify different types of blade damage.",
+  "The network is trained to detect five damage classes: casing, compressor-rotor, surface-damage, material-separation, and material-deformation.",
+  "Out of 4881 video frames, 104 images were manually labelled, with 89 used for training and 15 used for testing.",
+  "The network achieves better instance segmentation performance after 2000 training iterations compared to 500 iterations, as measured by mAP and mean matched IoU.",
+  "A post-processing step is introduced that applies a high-pass filter and mask erosion to highlight small-scale surface features and discontinuities missed by the network.",
+  "The algorithm tracks blades across video frames and calculates the damage area as a fraction of the projected blade area for each blade.",
+  "The blade tracking algorithm assumes blades do not move significantly across adjacent frames and travel approximately horizontally.",
+  "The PointRend module is added to the Mask R-CNN network to improve segmentation accuracy, particularly for smaller objects like surface damage marks.",
+  "The two key performance metrics used to evaluate the instance segmentation results are mean average precision (mAP) and mean matched intersection-over-union (IoU), calculated at an IoU threshold of 0.5.",
+  "The automatic workflow removes human biases, enables faster decision-making, and can quantify uncertainty via confidence scores.",
+  "The workflow extends previous work on semantic segmentation of borescope images by classifying multiple types of damage and tracking individual blades across video frames.",
+  "The authors note that the introduction of manual labelling may involve biases, but argue that the automatic framework should mitigate the impact of these biases compared to a fully manual procedure.",
+  "The authors find that the testing loss is not an adequate metric for judging the quality of the network, as it does not penalize missing detections severely enough.",
+  "The authors demonstrate the workflow on two borescope videos of high-pressure compressor blades, one with 97 blades and the other with 38 blades."
+]
