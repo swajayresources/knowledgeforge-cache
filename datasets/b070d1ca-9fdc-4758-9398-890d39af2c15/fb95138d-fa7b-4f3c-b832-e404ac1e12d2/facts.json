@@ -1,0 +1,12 @@
+[
+  "The model uses a 27 x 18 x 7 element grid in the x, r, and \u03b8 directions to represent the combustor geometry.",
+  "The air flow was divided such that 7.8% entered through the swirler, 25.5% through the primary jets, 29.9% through the secondary jets, and 36.8% through the dilution jets.",
+  "The Rosin-Rammler parameters used to represent the fuel spray were D = 60 \u03bcm and n = 2.2, based on experimental measurements.",
+  "The total air flow rate was 2.125 x 10^-2 kg/s, the fuel flow rate was 6.92 x 10^-4 kg/s, and the air inlet temperature was 351 K.",
+  "The swirl number of the inlet air flow was 0.8, and the initial droplet velocity was -20 m/s.",
+  "The model was able to accurately predict the high temperature region following the hollow spray cone, as well as the cooler core caused by the major recirculation eddy.",
+  "A large number of droplets were found to hit the combustor walls, although the majority of the fuel was evaporated near the spray.",
+  "The presence of combustion significantly enhanced the recirculation vortex and increased the overall velocity magnitudes compared to the cold, droplet-free case.",
+  "The exit temperature profile exhibited a minimum on the axis and a maximum near the walls, consistent with experimental observations.",
+  "The authors note that the generality of the computational procedure allows it to be applied to other gas-particle flow problems beyond gas turbine combustors."
+]
