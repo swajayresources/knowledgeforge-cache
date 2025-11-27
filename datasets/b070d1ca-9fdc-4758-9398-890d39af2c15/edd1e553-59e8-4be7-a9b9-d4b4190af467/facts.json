@@ -1,0 +1,17 @@
+[
+  "The study focuses on a two-bladed vertical axis wind turbine with a diameter of 1.7 m and NACA0015 airfoil-shaped blades.",
+  "The selected operating condition has a wind speed of 7 m/s and a tip speed ratio of 2.29, corresponding to an averaged Reynolds number of about 2.5x10^5.",
+  "The 2D computational domain is divided into four subdomains connected via non-conformal mesh interfaces, and the sliding mesh method is used to model the turbine rotation.",
+  "The baseline 2D mesh has 920,600 total elements with 1,000 nodes along each blade profile and a unity maximum y+ to resolve the boundary layer.",
+  "The sensitivity of the upstream torque coefficient to the domain size is less than 1% when going from the baseline to the extended domain.",
+  "The sensitivity of the upstream torque coefficient to the time step size is less than 1% when going from 360 to 1080 time steps per cycle.",
+  "The sensitivity of the upstream torque coefficient to mesh refinement is less than 1.1% when going from the baseline to a 3.1 times finer mesh.",
+  "The results based on the SST k-\u03c9 with \u03b3 model are generally more sensitive to mesh attributes compared to the SST k-\u03c9 model.",
+  "The 2D predictions of the SST k-\u03c9 with \u03b3 model show more deviation from the experimental data compared to the 3D predictions.",
+  "The paper highlights the need for detailed experimental data, such as pressure distributions, to properly assess the quality of CFD turbulence model predictions for VAWTs.",
+  "The study finds that the 2D results based on the SST k-\u03c9 with \u03b3 model deviate from the experimental data in ways that have not been previously investigated.",
+  "The use of the Coupled Scheme and Hybrid Initialization helps reduce the required number of cycles for a time-periodic solution compared to the SIMPLE Scheme.",
+  "The paper suggests that the 3D effects, such as tip losses, are important for accurate VAWT performance prediction, especially at higher tip speed ratios.",
+  "The study demonstrates the value of using detailed experimental data, beyond just the power coefficient, to critically evaluate CFD turbulence model performance for VAWTs.",
+  "The findings highlight the need for further research to improve the predictive capability of CFD models, especially for the SST k-\u03c9 with \u03b3 transition model, in 2D and 3D VAWT simulations."
+]
