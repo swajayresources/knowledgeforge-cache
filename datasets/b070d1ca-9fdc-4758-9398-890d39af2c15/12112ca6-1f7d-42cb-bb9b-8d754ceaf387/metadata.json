@@ -1,0 +1,15 @@
+{
+  "paper_id": "12112ca6-1f7d-42cb-bb9b-8d754ceaf387",
+  "title": "Unsteady Flow in a Supersonic Turbine with Variable Specific Heats",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/12112ca6-1f7d-42cb-bb9b-8d754ceaf387/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/12112ca6-1f7d-42cb-bb9b-8d754ceaf387/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/12112ca6-1f7d-42cb-bb9b-8d754ceaf387/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/12112ca6-1f7d-42cb-bb9b-8d754ceaf387/keywords.json"
+  ]
+}
