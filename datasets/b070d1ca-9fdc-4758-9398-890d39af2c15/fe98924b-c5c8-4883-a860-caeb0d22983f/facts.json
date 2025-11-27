@@ -1,0 +1,17 @@
+[
+  "Superhydrophilic (SHPi) surfaces have an apparent water contact angle close to 0 degrees, while superhydrophobic (SHPo) surfaces have a contact angle larger than 150 degrees.",
+  "The authors fabricate six types of surfaces: hydrophilic, hydrophobic, SHPi, SHPo, biphilic (combining hydrophilic and hydrophobic regions), and superbiphilic (combining SHPi and SHPo regions).",
+  "Nucleation on SHPo surfaces occurs at superheats about 2 orders of magnitude lower than on hydrophilic surfaces.",
+  "The maximum heat transfer coefficient (HTC) of the biphilic surfaces is 2-4 times higher than the hydrophilic and hydrophobic surfaces, respectively.",
+  "Biphilic surfaces combine the advantages of hydrophilic and hydrophobic regions, generating large bubbles while also offering more nucleation sites at low superheats.",
+  "The size of the hydrophobic spots on the biphilic surface affects the HTC, with smaller 50 \u03bcm spots outperforming larger 400 \u03bcm spots at high superheats.",
+  "The superbiphilic surfaces exhibit exceptional performance, with critical heat fluxes over 100 W/cm^2 and HTCs over 100 kW/m^2K.",
+  "The authors develop an analytical model based on the Mikic and Rohsenow micro-convection theory to describe the HTC on these surfaces.",
+  "The model incorporates the measured density of active nucleation sites, bubble departure diameter, and bubble departure frequency for each surface type.",
+  "The model and experimental results show good agreement in terms of trends and absolute values of HTC for the different surface types.",
+  "Enhancing nucleation on hydrophobic and SHPo surfaces comes with the drawback of reaching critical heat flux at lower heat fluxes due to the formation of an insulating vapor film.",
+  "The random nanostructuring process used to fabricate the SHPi surfaces leads to some variation in surface topography and nucleation behavior.",
+  "The biphilic surfaces outperform the hydrophilic and hydrophobic surfaces by combining the advantages of both wettability regimes.",
+  "The superbiphilic surfaces push the biphilic concept to the extreme, juxtaposing SHPi and SHPo regions for exceptional boiling performance.",
+  "The authors provide the first experimental measurements of nucleation site density on SHPi and SHPo surfaces, an important parameter for modeling boiling on these surfaces."
+]
