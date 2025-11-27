@@ -1,0 +1,1 @@
+This paper analyzes the global build-up to intrinsic edge localized mode (ELM) bursts in the divertor region of the JET tokamak, using measurements from full flux loops. The authors find a signature of synchronized global plasma dynamics in the 2-5 ms leading up to an ELM, with the full flux loop signals becoming phase-aligned and phase-synchronized during this period.
