@@ -1,0 +1,15 @@
+{
+  "paper_id": "93a57827-cc37-480f-bab5-5f9826217ade",
+  "title": "Modelling short crack propagation in a single crystal nickel-based superalloy using crystal plasticity and XFEM",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/93a57827-cc37-480f-bab5-5f9826217ade/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/93a57827-cc37-480f-bab5-5f9826217ade/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/93a57827-cc37-480f-bab5-5f9826217ade/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/93a57827-cc37-480f-bab5-5f9826217ade/keywords.json"
+  ]
+}
