@@ -1,0 +1,17 @@
+[
+  "The researchers used SolidWorks 2021 to design a virtual 3D model of a wind turbine.",
+  "They generated a total of 642 synthetic images with variations in background, camera angle, and lighting effects for the four defect types.",
+  "The U-Net deep learning model was trained using the Adam optimizer and Dice Loss function.",
+  "The trained U-Net model achieved a Dice Coefficient of 0.658 on the test data.",
+  "The researchers used the Unity game engine and its Perception Package to generate the synthetic images and corresponding semantic segmentation ground truth.",
+  "Wind turbines provided almost 8.4% of the total generated electricity in the United States in 2020.",
+  "There are more than 700,800 wind turbines running across 44 states in the United States.",
+  "Blade cracks, leading edge erosion, delamination, and lightning strike damage are four common types of wind turbine blade defects.",
+  "Blade cracks can lead to eventual failure of the turbine if not identified in the initial stages.",
+  "Leading edge erosion can reduce the efficiency of power generation over time.",
+  "Delamination of wind turbine blades is caused by extreme weather, humidity, or mechanical stresses.",
+  "Lightning strike damage can affect the generator, control systems, power electronics, or blades of a wind turbine.",
+  "Detecting blade defects early is critical for ensuring uninterrupted power generation and avoiding catastrophic failures.",
+  "Traditional manual inspection methods for wind turbine blades are time-consuming and expensive.",
+  "The researchers used the Dice Coefficient as the loss function during model training and as the evaluation metric for the test set."
+]
