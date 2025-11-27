@@ -1,0 +1,1 @@
+This paper describes a simple and low-cost method for measuring the thermal diffusivity of materials with high thermal conductivity, such as aluminum, in a student laboratory setting. The method uses two thermocouples to measure the temperature at different positions in a cylindrical specimen and a numerical approach to determine the thermal diffusivity from the temperature data.
