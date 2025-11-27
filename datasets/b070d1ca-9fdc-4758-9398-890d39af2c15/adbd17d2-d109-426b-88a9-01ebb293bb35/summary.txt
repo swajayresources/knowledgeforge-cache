@@ -1,0 +1,1 @@
+This paper presents a stochastic model for estimating the aerodynamic forces on wind turbine blades in unsteady wind inflow conditions. The model is integrated into the AeroDyn software and compared to classical BEM and dynamic stall models, showing that the stochastic model generates additional dynamic response in terms of local force fluctuations.
