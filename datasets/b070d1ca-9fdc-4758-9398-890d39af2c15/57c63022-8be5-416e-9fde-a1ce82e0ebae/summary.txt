@@ -1,0 +1,1 @@
+This paper presents the design, modeling, development, and aerodynamics analysis of a new miniature robotic blimp called the Robotic Gliding Blimp (RGBlimp). The RGBlimp combines the advantages of a robotic blimp and a fixed-wing glider, using a helium-filled envelope for buoyant lift and a pair of wings for aerodynamic lift, along with a moving mass for attitude control.
