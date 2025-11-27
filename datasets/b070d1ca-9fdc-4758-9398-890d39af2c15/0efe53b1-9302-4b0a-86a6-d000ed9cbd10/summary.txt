@@ -1,0 +1,1 @@
+This paper presents a channel flow model to analyze the effects of rotation on impingement cooling of turbine blades. The model is used to correct measured heat transfer coefficients to local fluid conditions, and the results are compared to previous studies on impingement cooling and rotating passages.
