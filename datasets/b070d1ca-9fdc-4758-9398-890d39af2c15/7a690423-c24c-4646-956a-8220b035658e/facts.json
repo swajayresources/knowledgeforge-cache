@@ -1,0 +1,17 @@
+[
+  "The inverse design method prescribes desired distributions of angle of attack (\u03b1) and axial induction factor (a) along the blade span.",
+  "The Trust-Region-Reflective (TRF) optimization method is used to iterate on the blade geometry (twist and chord) to match the prescribed \u03b1 and a distributions.",
+  "The TRF method is found to be more stable than the multi-dimensional Newton iteration method in constrained blade design problems.",
+  "The inverse design method is demonstrated for conventional single-rotor horizontal axis wind turbines and then extended to dual-rotor wind turbines.",
+  "The effect of the spinning blades on the airflow is modeled using the Actuator Disk Method (ADM), which introduces body forces in the Navier-Stokes equations.",
+  "The computational setup uses a uniform, smooth inflow, assumes all rotor blades are identical, and investigates only mean (time-steady) performance.",
+  "A mesh sensitivity study is performed, and a grid resolution of 101x229 cells is found to be sufficient for the RANS/ADM solver.",
+  "The inverse design algorithm is tested on three different single-rotor wind turbine cases, including the Betz optimum rotor and the NREL 5 MW turbine.",
+  "The algorithm is able to successfully reproduce the original blade geometry (twist and chord distributions) for the NREL 5 MW turbine case.",
+  "When the desired \u03b1 and a distributions are prescribed using the BEM method, the inverse design algorithm can still yield a blade geometry consistent with the RANS/ADM direct solver.",
+  "The inverse design method is general and can be applied to wind turbines with an arbitrary number of rotor disks, not just dual-rotor configurations.",
+  "Manufacturing and transportation constraints on conventional wind turbine blades can lead to aerodynamically sub-optimal designs in the blade root region.",
+  "Dual-rotor wind turbines can efficiently harness energy from the blade root region and enhance wake mixing to reduce wake losses.",
+  "The inverse design methodology presented in this paper is a computationally efficient approach to explore blade designs that maximize wake mixing.",
+  "The use of RANS CFD in the inverse design process allows for the exploration of designs that can better model turbulent wake mixing compared to potential flow methods."
+]
