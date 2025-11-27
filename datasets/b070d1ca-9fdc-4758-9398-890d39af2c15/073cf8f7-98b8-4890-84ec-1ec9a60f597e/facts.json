@@ -1,0 +1,17 @@
+[
+  "The inverse design method prescribes desired distributions of angle of attack and axial induction factor along the blade.",
+  "The RANS/ADM computational model is used for the aerodynamic analysis, which models the effect of the turbine rotor as momentum sources without resolving the blade geometry.",
+  "The inverse design problem is solved using an iterative approach with the Trust-Region-Reflective optimization method.",
+  "The inverse design method is demonstrated for three test cases of conventional single-rotor wind turbines, including designing for the Betz optimum condition and reproducing the NREL 5 MW reference turbine blade geometry.",
+  "The inverse design methodology is extended to multi-rotor wind turbines, specifically the dual-rotor wind turbine configuration.",
+  "The mesh sensitivity study found that a grid resolution of 101x229 cells is sufficient for the RANS/ADM solver.",
+  "The Trust-Region-Reflective method is found to be more stable and better able to handle constraints on the blade design compared to the multi-dimensional Newton iteration method.",
+  "Prescribing angle of attack distributions in the inverse design avoids the multi-valued nature of the angle of attack-lift coefficient curve.",
+  "RANS CFD can simulate turbulent wake mixing effects, which potential flow methods cannot, allowing the inverse design to explore designs that maximize wake mixing and minimize wake losses.",
+  "The inverse design method is general enough to work for turbines with an arbitrary number of rotor disks, and is not limited to dual-rotor configurations.",
+  "The initial guess of the blade geometry has a significant impact on the convergence rate of the inverse design algorithm.",
+  "The inverse design algorithm is able to converge to the desired blade designs in all the test cases considered.",
+  "The final blade designs obtained using the inverse method have typical wind turbine blade characteristics, such as tapering chord and twist distributions.",
+  "The inverse design method can be used to explore blade designs that maximize annual energy production while satisfying manufacturing and transportation constraints.",
+  "The RANS/ADM computational model used in this study has been previously validated against experimental data for wind turbine aerodynamic performance prediction."
+]
