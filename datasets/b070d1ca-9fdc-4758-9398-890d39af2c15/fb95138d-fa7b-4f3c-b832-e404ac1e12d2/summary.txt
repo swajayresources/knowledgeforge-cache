@@ -1,0 +1,1 @@
+This paper presents a three-dimensional mathematical model of spray combustion in gas turbine combustors. The model accounts for the mass, momentum, and energy coupling between the gas and liquid phases, and is solved using a mixed Lagrangian-Eulerian approach. The results are validated against experimental data and show good agreement.
