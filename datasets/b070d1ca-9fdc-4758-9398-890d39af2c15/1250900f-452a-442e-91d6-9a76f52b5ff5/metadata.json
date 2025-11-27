@@ -1,0 +1,15 @@
+{
+  "paper_id": "1250900f-452a-442e-91d6-9a76f52b5ff5",
+  "title": "Conic-Optimization Based Algorithms for Nonnegative Matrix Factorization",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1250900f-452a-442e-91d6-9a76f52b5ff5/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1250900f-452a-442e-91d6-9a76f52b5ff5/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1250900f-452a-442e-91d6-9a76f52b5ff5/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1250900f-452a-442e-91d6-9a76f52b5ff5/keywords.json"
+  ]
+}
