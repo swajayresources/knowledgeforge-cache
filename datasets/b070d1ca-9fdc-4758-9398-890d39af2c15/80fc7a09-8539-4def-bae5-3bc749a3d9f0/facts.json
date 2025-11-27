@@ -1,0 +1,10 @@
+[
+  "The airfoil was 3.8 cm in span and chord with a hub-to-tip radius ratio of 0.85.",
+  "The assumed flight mission consisted of 5 seconds from idle to max takeoff, 5 minutes at max takeoff, 30 minutes at max climb, 90 minutes at cruise, and 5 seconds from cruise back to idle.",
+  "At max takeoff, the gas inlet total pressure was 2858 kPa and the coolant-to-gas flow ratio was 0.116 to 0.118.",
+  "The maximum metal temperature reached during the mission was about 1050\u00b0C at max takeoff.",
+  "The critical location for maximum creep strain was at the inside wall of the leading edge region for the all-impingement cooled cases and adjacent to the film cooling hole rim for the film cooled cases.",
+  "The maximum effective total strain ranges were 0.00234, 0.00248, 0.00602, and 0.00523 for cases 1-4 respectively.",
+  "The predicted nondimensional creep lives were 1.0, 1.21, 0.50, and 0.72 for cases 1-4 respectively.",
+  "Fatigue life predictions indicated the fatigue lives would be at least an order of magnitude greater than the predicted creep lives."
+]
