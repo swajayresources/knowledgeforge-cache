@@ -1,0 +1,9 @@
+[
+  "The ARC pilot plant is designed to produce ~525 MW of fusion power in a compact, high-field (B = 9.2 T) tokamak with a major radius of 3.3 m.",
+  "The study identified an X-point target (XPT) divertor configuration in a balanced double-null magnetic equilibrium as a promising solution for power exhaust management in ARC.",
+  "Recent modeling indicates the XPT divertor configuration can attain a stable, fully detached divertor state, accommodating upstream power densities up to 10 times higher than standard vertical target divertors.",
+  "The superconducting poloidal field coils were positioned inside the demountable toroidal field magnets, allowing the implementation of the XPT divertor without increasing the size of the toroidal field magnets.",
+  "Advanced neutron transport calculations (MCNP) indicate a tritium breeding ratio of ~1.08 and a neutron damage rate (DPA/year) of the remote divertor targets that is 3-30 times lower than the first wall.",
+  "A tungsten swirl tube FLiBe coolant channel design is considered for the divertor heat removal and shown capable of exhausting divertor heat flux levels of up to 12 MW/m2.",
+  "The optical transparency of the FLiBe blanket enables novel diagnostics such as measuring the divertor detachment front location using microwave interferometry and monitoring 'hotspots' on the divertor walls via infrared imaging."
+]
