@@ -1,0 +1,17 @@
+[
+  "The paper presents a new, open-source numerical tool to compute Brownian thermal noise in amorphous and crystalline thin coatings for gravitational-wave detectors.",
+  "The tool uses a finite-element method, adaptive mesh refinement, and parallel processing to accurately resolve the thin coating layer.",
+  "Thermal noise is expected to be one of the key noise sources limiting the sensitivity of second-generation gravitational-wave detectors like Advanced LIGO and future third-generation detectors.",
+  "The paper focuses on modeling a cylindrical mirror with a single-layer, thin, reflective coating, with dimensions and properties similar to those considered in a previous experimental study.",
+  "The paper verifies the numerical convergence of the tool, estimating the numerical uncertainty in the coating energy to be around 0.1%.",
+  "For amorphous coatings, the numerical results agree well with approximate analytic solutions, capturing effects of edge boundaries and coating thickness.",
+  "Treating the crystalline AlGaAs coating as a cubic crystal increases the thermal noise by about 3% compared to modeling it as an effective isotropic material.",
+  "The paper's numerical calculations differ from an approximate analytic solution for an amorphous, semi-infinite mirror with a thin coating by around 4%.",
+  "The tool's computational time scales well with the number of compute cores used, with 50-100 cores providing a significant performance improvement.",
+  "Using hundreds of cores enables reaching higher resolutions by increasing the total available memory for the calculation.",
+  "Thermal noise is also a limiting factor in applications beyond gravitational-wave detectors, such as atomic clocks.",
+  "The paper's primary motivation is to help understand and reduce thermal noise in order to increase the sensitivity and reach of future gravitational-wave detectors.",
+  "The paper notes that while the tool is currently limited to single-layer coatings, future work will consider multi-layer coatings.",
+  "Experimental measurements of separate loss angles for the bulk and shear moduli of crystalline materials are still needed to fully model their thermal noise.",
+  "The paper's numerical tool is based on existing open-source frameworks, including deal.ii and PETSc, making it accessible for further development and use by the community."
+]
