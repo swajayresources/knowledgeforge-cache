@@ -1,0 +1,15 @@
+{
+  "paper_id": "90179517-06f9-4bfb-ade3-04a0de75072e",
+  "title": "Transient Optimization of a Gas Turbine Engine",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/90179517-06f9-4bfb-ade3-04a0de75072e/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/90179517-06f9-4bfb-ade3-04a0de75072e/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/90179517-06f9-4bfb-ade3-04a0de75072e/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/90179517-06f9-4bfb-ade3-04a0de75072e/keywords.json"
+  ]
+}
