@@ -1,0 +1,17 @@
+[
+  "SSME blades are subject to severe thermal, pressure, and forced vibration environments.",
+  "SSME/STAEBL is a stand-alone code for the automated design of SSME turbopump blades.",
+  "The SSME/STAEBL code was developed by systematically modifying and enhancing the STAEBL (Structural Tailoring of Engine Blades) code.",
+  "Additions and modifications to the STAEBL code include thermal stress analysis, gas dynamic (pressure) loads, temperature-dependent material and thermal properties, forced vibrations, and blade cross-section stacking offsets.",
+  "Optimization studies showed that the additional thermal and pressure loads, as well as temperature-dependent properties, require additional weight in the optimized SSME blade design.",
+  "For the blade designs dominated by root stress constraints, the crystal axis orientation was found to have a relatively insignificant effect on the optimal design.",
+  "Blade cross-section stacking offsets were shown to have a very significant effect on root stress-dominated SSME blade designs.",
+  "The initial SSME blade design violated the root stress constraint, which is extremely sensitive to the offset variables.",
+  "The optimized SSME blade design recommended a significant change in blade stacking to meet the root stress constraint.",
+  "Structural optimization provides a practical and flexible approach to SSME blade design, allowing the incorporation of many design variables, constraints, loads, and analysis options.",
+  "Typical design variables for SSME blade optimization include blade thickness distribution and root chord.",
+  "Typical constraints for SSME blade optimization include resonance margins, root stress, root-to-chord ratios, and tip displacement.",
+  "The SSME/STAEBL code includes capabilities for data transfer from finite element models and stand-alone analysis.",
+  "Optimization studies were undertaken to assess the influence of blade cross-section offsets on the optimal SSME blade design.",
+  "The difference between the designs optimized under centrifugal loads only and under centrifugal, thermal, and pressure loads with temperature-dependent blade properties can be attributed to material property temperature dependence."
+]
