@@ -1,0 +1,12 @@
+[
+  "The Glenn-HT code is based on the TRAF3D code and uses the full compressible Navier-Stokes equations.",
+  "The code employs a multi-stage Runge-Kutta scheme to march in pseudo time and uses multi-grid and implicit residual smoothing to accelerate convergence.",
+  "The k-\u03c9 turbulence model used in the code does not require the computation of wall distance y+, which is advantageous for handling complicated geometries.",
+  "The code has been used to simulate a variety of flows including turbine blades, tip clearance flows, film cooling holes, and coolant channels.",
+  "Experimental and numerical studies on rib roughened channels with and without rotation are discussed, providing context for the current work.",
+  "The MWD algorithm is able to reduce the initial number of blocks by 50-90% on average for complex test cases.",
+  "The MWD chooses which internal face to remove to minimize the number of other candidates that are disqualified, thus depleting the set of candidates at the slowest rate.",
+  "Repeated application of the MWD increases the likelihood of realizing the actual minimum number of blocks for a given geometry.",
+  "The MWD is a fully 3D algorithm that uses only connectivity data, requiring very little memory.",
+  "The final number of blocks produced by the MWD is close to the expected minimum in most cases tested."
+]
