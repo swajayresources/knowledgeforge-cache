@@ -1,0 +1,1 @@
+This paper describes the design, fabrication, and testing of a high-efficiency centrifugal compressor stage for rotorcraft applications. The compressor was designed to meet challenging targets for increased efficiency and reduced diameter, and was successfully tested at NASA Glenn Research Center.
