@@ -1,0 +1,15 @@
+{
+  "paper_id": "ec658d77-418c-492c-bc91-9c93f4478216",
+  "title": "Neural network surrogate of QuaLiKiz using JET experimental data to populate training space",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec658d77-418c-492c-bc91-9c93f4478216/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec658d77-418c-492c-bc91-9c93f4478216/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec658d77-418c-492c-bc91-9c93f4478216/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/ec658d77-418c-492c-bc91-9c93f4478216/keywords.json"
+  ]
+}
