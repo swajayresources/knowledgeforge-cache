@@ -1,0 +1,17 @@
+[
+  "The experimental model featured a four-pass serpentine arrangement with a square cross-section of 12.7 mm x 12.7 mm.",
+  "The copper wall sections were 10.7 mm x 49.3 mm and were thermally isolated from each other.",
+  "A total of 30 tests were conducted to study the effects of rotation rate, flow rate, coolant-to-wall temperature variations, radius length, and passage angle.",
+  "In the smooth wall channel, the first passage exhibited classical thermal development behavior, while the rough wall showed nearly constant augmentation (factor of 3) throughout the first leg.",
+  "In the rough wall channel, the turn heat transfer decreased through the turns, followed by an immediate increase just downstream of the turn, and the second and third passages exhibited progressively decreasing average Nusselt numbers.",
+  "Rotation reduced the leading surface heat transfer by 40-50% in both the smooth and rough wall channels, while the trailing surface showed only a 30% augmentation.",
+  "The subsequent passages in the rough wall channel were strongly affected by the turn-generated secondary flows, in contrast to the first passage which behaved like a straight duct.",
+  "The trailing surface heat transfer was more sensitive to density (temperature) variations than the leading surface, and the rough wall leading surface showed significantly smaller variation in heat transfer for a given temperature difference compared to the smooth wall.",
+  "At low values of the Buoyancy Parameter, the rough wall had a significant heat transfer advantage over the smooth wall, but at high values, the trip strip advantage was significantly diminished.",
+  "The Reynolds numbers tested ranged from 12,500 to 75,000, the rotation numbers (Ro) ranged from 0 to 0.36, and the temperature differences (\u0394T) ranged from 25\u00b0F to 160\u00b0F.",
+  "The experimental data and correlations developed in this study are crucial for the design of turbine blades in advanced gas turbine engines.",
+  "The model is being modified to include normal turbulators on the leading and trailing surfaces, and a 30-point test matrix will be executed.",
+  "The experimental and analytical program aims to develop a heat transfer and pressure drop database, computational fluid dynamic techniques, and correlations for multi-pass rotating coolant passages.",
+  "Accurate prediction of local heat transfer coefficients enables the designer to optimize cooling configurations to minimize metal temperature levels and thermal gradients, improving blade life and engine efficiency.",
+  "The effects of Coriolis and buoyancy forces on the coolant side flow are currently not adequately included in the heat transfer designs of turbine blades, and this study aims to address this gap."
+]
