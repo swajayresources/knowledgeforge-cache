@@ -1,0 +1,17 @@
+[
+  "Three variants of a new Ni-based superalloy (Alloy1, Alloy2, Alloy3) were designed and studied, with equal equilibrium \u03b3' volume fraction at 900\u00b0C but varying (Nb+Ta)/Al ratios.",
+  "The new alloy variants showed no evidence of cracking in the bulk during L-PBF processing, unlike CM247LC which exhibited solid-state, solidification, and liquation cracking.",
+  "All compositions showed some gas porosity, especially at thin wall sections like the trailing edge of the turbine blade geometry.",
+  "A novel sub-solvus heat treatment (HT3) was found to be most appropriate for the new alloys, avoiding the embrittlement seen with super-solvus heat treatment (HT1).",
+  "The tensile strength of the new superalloy was greatest when the Nb+Ta content was highest (in Alloy3) and exceeded that of CM247LC up to ~900\u00b0C.",
+  "The creep resistance of CM247LC following HT3 exceeded that of the new alloy variants, likely due to CM247LC's greater \u03b3' volume fraction and higher C and B contents.",
+  "Atom probe tomography showed the concentrations of Nb and Ta in the \u03b3' of Alloy3 were approximately twice as high as those in Alloy1.",
+  "Micro-XCT revealed cracking throughout the top 1 mm of the CM247LC turbine blade, with the cracks appearing plate-like in the build direction and skeleton-like in the XY plane.",
+  "Oxidation resistance was best when the Al content was highest, and oxidation-assisted cracking resistance was maximized when the (Nb+Ta)/Al ratio was balanced.",
+  "Oxidation-assisted cracking testing at 800\u00b0C and various strain rates allowed for the assessment of the influence of oxidation on crack growth.",
+  "The new alloy variants were designed using the Alloys-by-Design (ABD) method, considering processability, creep resistance, oxidation resistance, strength, and density.",
+  "The powder feedstock had a median particle diameter (D50) between 32.3 and 33.0 \u03bcm, with D10 and D90 values of ~19 and 55 \u03bcm respectively.",
+  "L-PBF processing was carried out using a Renishaw AM 400 system with a 200 W pulsed fiber laser, 30 \u03bcm layer thickness, and 0.875 m/s scan speed.",
+  "Differential scanning calorimetry was used to determine the \u03b3' solvus temperatures, which were 1172, 1179, 1182, and 1249\u00b0C for Alloy1, Alloy2, Alloy3, and CM247LC respectively.",
+  "Thermo-gravimetric analysis was used to assess the oxidation resistance of the alloys at 1000\u00b0C in laboratory air."
+]
