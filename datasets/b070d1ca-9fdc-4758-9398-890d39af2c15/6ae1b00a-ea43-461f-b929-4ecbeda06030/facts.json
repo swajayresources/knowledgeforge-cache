@@ -1,0 +1,13 @@
+[
+  "HSCT engines will have much higher jet exhaust speeds compared to today's subsonic airliners.",
+  "Jet noise, caused by the turbulent mixing of high-speed exhaust with the surrounding air, poses a significant challenge for HSCT engine designers.",
+  "HSCT engines use advanced mixer-ejector nozzles to entrain and mix large quantities of ambient air with the jet stream, reducing noise to airport noise certification levels.",
+  "As the HSCT gains speed and climbs, poor ejector inlet recovery and ejector ram drag contribute to poor thrust, making it advantageous to turn off the ejector.",
+  "Turning off the ejector prematurely can cause unacceptable noise levels to propagate to the ground, even when the aircraft is many miles from the airport.",
+  "The optimizer dynamically chooses the best altitude-velocity path and throttle setting history to minimize the noise propagated to the ground.",
+  "High altitudes are desirable to reduce noise, but the HSCT can either climb quickly to high altitudes using a high, noisy throttle setting or climb more slowly at a lower, quieter throttle setting.",
+  "The noise metrics used in the calculations are based on recommendations from researchers at NASA Langley, who have correlated the flyover noise annoyance levels of actual laboratory subjects with a variety of noise measurements.",
+  "The HSCT's climb noise is characterized by relatively low noise levels, long durations, and low-frequency spectra.",
+  "Analysis of the data from the optimizer has shown that significant reductions in noise may be obtained with trajectory optimization.",
+  "Only small penalties in HSCT range or fuel performance occur since the throttling operations are performed in the subsonic portion of the climb path where thrust is plentiful."
+]
