@@ -1,0 +1,18 @@
+[
+  "Electrical characteristics of vertical-geometry Schottky junction to magnetic insulator (Ga,Mn)N heteroepitaxially grown on sapphire Karolina Kalbarczyk1*, Krzysztof Dybko1,2, Katarzyna Gas1,3, Dariusz Sztenkiel1, Marek Foltyn1, Magdalena Majewicz1, Piotr Nowicki1, El\u017cbieta \u0141usakowska1, Detlef Hommel3,4, and Maciej Sawicki1* 1Institute of Physics, Polish Academy of Sciences, Aleja Lotnikow 32/46, PL-02668 Warsaw, Poland 2International Research Centre MagTop, Institute of Physics, Polish Academy of Sciences, Aleja Lotnikow 32/46, PL-02668 Warsaw, Poland 3Institute of Experimental Physics, University of Wroc\u0142aw, Pl",
+  "Maxa Borna 9, 50-204 Wroc\u0142aw, Poland 4Polish Center of Technology Development, ul",
+  "Stab\u0142owicka 147, 54-066, Wroc\u0142aw, Poland *E-mail: kalbarczyk@ifpan",
+  "The observed above 10 M\uf057 resistances already at room temperature are indicative that a nearly conductive-dislocation-free electrical properties are achieved",
+  "However, the large magnitudes of the ideality factor \uf068 > 1",
+  "5 for T \uf0a3 300 K, point to a sizable current blocking in the structure",
+  "Keywords: (Ga,Mn)N, Schottky junction, Schottky barrier height, Dilute magnetic semiconductors, GaN, Vertical structures 1 1",
+  "Introduction Besides becoming the material system of choice for nowadays optoelectronic [1] and high-power applications [2], GaN-based and related alloys and heterostructures are expected also to play a major role in the realization of spin-related functionalities based on semiconductors [3][4][5]",
+  "While the search for a technology-viable nitride semiconductor exhibiting (ferro-)magnetic properties at room temperature is still the subject of active research, a great deal of knowledge on the underlying physical processes has been accumulated from the investigation of these system at their relevant temperatures [6][7][8]",
+  "In the line of our research is (Ga,Mn)N \u2013 an emerging ferromagnetic semiconductor whose long range ferromagnetic ordering has been confirmed at the low end of cryogenic temperatures [9][10]",
+  "This magnetic form of GaN, in which a small percentage of Ga atoms is randomly substituted by Mn, belongs to increasingly important group of Rashba materials [3]",
+  "The established strong mid-gap Fermi-level pinning [11][12] and the absence of a depletion layer, in combination with its insulating character [13][14][15][16] and a sizable dielectric strength of at least 5 MV/cm [17], points at Mn containing GaN as a worthwhile insulating buffer material for applications in (high power) nitride devices",
+  "By the same token this ferromagnetic insulator appears to be an ideal building block for nitride based spin harnessing concepts, which could further stimulate the development of all-nitride low power information processing and wireless communication technologies based on spin waves, the so called magnonics [18]",
+  "On the other hand, in the field of spintronics, an experimental verification of theoretical predictions suggesting large spin filtering capabilities of spin filters [19] and resonant tunneling devices [20] with (Ga,Mn)N as the barrier material is still lacking",
+  "However, the observation of the last effect proved futile in the GaN based structures [21] due to the presence of a large number of conducting dislocations [22][23], which provide a short-circuiting path across the (Ga,Mn)N barrier layer",
+  "We show that the devices fabricated by this approach can be characterized by typical magnitudes of the metal-nitride semiconductor barrier heights, however some deviations from the thermionic emission model are clearly observed"
+]
