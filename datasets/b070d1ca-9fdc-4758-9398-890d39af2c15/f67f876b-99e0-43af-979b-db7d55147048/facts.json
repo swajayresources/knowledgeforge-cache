@@ -1,0 +1,17 @@
+[
+  "The MPFC model used in this study includes an inertial term for the atomic density field, allowing it to capture fast propagation of the solidification front.",
+  "The study investigated the growth of the (100), (110), and (111) faces of a BCC crystal lattice invading a homogeneous liquid.",
+  "The sequence of growth velocities observed was V(100) > V(111) > V(110), which agrees with the Bravais law of crystallography.",
+  "The growth anisotropy, defined as the ratio V(100)/V(110), was around 1.29 at low driving forces and decreased towards 1 as the driving force increased.",
+  "Increasing the relaxation time \u03c4 led to a nonlinear decrease in the front velocities for all the BCC faces.",
+  "At high driving forces \u03b5 and relaxation times \u03c4, the MPFC model predicted the formation of disordered crystal structures near the solidification front.",
+  "The systematic error in the determination of front velocities was estimated to be around 4.2%.",
+  "The computational domain used in the simulations was a slab with periodic boundary conditions along the elongated sides and isolation on the other surfaces.",
+  "The position of the solid-liquid interface was determined by the minimum of the time derivative of the atomic density field, corresponding to the highest gradients of the chemical potential.",
+  "The velocity scale V0 used in the dimensionless results was calculated from the scales of front position, time, and material parameters.",
+  "The free energy functional of the MPFC model includes terms for the atomic density field, atomic flux, and their interactions.",
+  "The MPFC model utilizes a one-mode approximation with r0 = 0 and q0 = 1, corresponding to a stable BCC structure.",
+  "The equilibrium lattice parameter and initial average density were determined from the free energy minimization.",
+  "The numerical simulations were performed using a finite element method with Lagrange-C2 elements in a three-dimensional computational domain.",
+  "The hyperbolic term in the MPFC equation was proposed to incorporate both mass diffusion and fast elastic relaxation."
+]
