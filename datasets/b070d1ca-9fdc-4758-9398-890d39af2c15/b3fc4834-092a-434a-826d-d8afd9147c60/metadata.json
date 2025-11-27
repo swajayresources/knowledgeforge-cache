@@ -1,0 +1,15 @@
+{
+  "paper_id": "b3fc4834-092a-434a-826d-d8afd9147c60",
+  "title": "Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b3fc4834-092a-434a-826d-d8afd9147c60/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b3fc4834-092a-434a-826d-d8afd9147c60/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b3fc4834-092a-434a-826d-d8afd9147c60/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b3fc4834-092a-434a-826d-d8afd9147c60/keywords.json"
+  ]
+}
