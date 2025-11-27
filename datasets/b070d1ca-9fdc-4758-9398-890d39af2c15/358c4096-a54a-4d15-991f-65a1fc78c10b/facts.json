@@ -1,0 +1,17 @@
+[
+  "Wind turbines provided almost 8.4% of the total electricity generation in the United States in 2020.",
+  "There are more than 700,800 wind turbines running across 44 states in the US.",
+  "The four main types of wind turbine blade defects studied are: blade cracks, leading edge erosion, delamination, and lightning strike damage.",
+  "The virtual wind turbine models were designed using CAD software like SolidWorks and then modified to simulate 40 different defect scenarios.",
+  "A total of 642 synthetic images with corresponding semantic segmentation ground truth were generated using the Unity game engine and Perception Package.",
+  "The U-Net convolutional network architecture was used for image segmentation, trained for 100 epochs using the Adam optimizer and Dice Loss function.",
+  "The final Dice Coefficient on the test set was 0.658, indicating moderate segmentation accuracy.",
+  "The paper notes that using synthetic data helped overcome challenges like lack of real-world data, background biases, and inaccessibility of remote wind turbine locations.",
+  "Future work includes improving the segmentation model, adding a classification module, and evaluating on a wider range of defects and real wind turbine images.",
+  "Automated and accurate defect detection is crucial for wind turbine operations to avoid catastrophic failures and ensure uninterrupted power generation.",
+  "Traditional manual inspection of wind turbine blades is time-consuming and expensive, motivating the need for an automated solution.",
+  "The two-step approach of generating synthetic data and training a deep learning model addresses the challenge of limited real-world data.",
+  "Key advantages of the virtual reality and synthetic data approach include simulating diverse defect scenarios, controlling for background biases, and enabling remote and autonomous inspection.",
+  "The paper used the Jaccard Index and Dice Coefficient as evaluation metrics for the segmentation performance of the U-Net model.",
+  "The proposed methodology provides reasonable defect detection accuracy, making it suitable for autonomous and remote inspection through aerial vehicles like drones."
+]
