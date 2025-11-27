@@ -1,0 +1,17 @@
+[
+  "The FedHPb model communicates class prototypes between clients and the server, instead of exchanging gradients or model parameters.",
+  "FedHPb uses a contrastive supervised loss function to handle class imbalance, without relying on data sampling.",
+  "The experiments tested imbalance ratios of 20:1, 50:1, and 100:1 for non-icing to icing samples.",
+  "FedHPb outperformed all other methods, achieving average improvements of 19.64% in mF-score and 5.73% in mBalanced Accuracy compared to the second-best method, BiFL.",
+  "The testing set had a sample imbalance ratio of 10:1 for non-icing to icing samples.",
+  "The main evaluation metrics were F-score (with \u03b2=2) and Balanced Accuracy.",
+  "Even at the highest imbalance ratio of 100:1, FedHPb maintained high mF-score (73.08%) and mBalanced Accuracy (85.35%).",
+  "Methods like BiFL that used a knowledge preservation mechanism may degrade prototype quality and introduce bias if the encoding is not sufficiently refined.",
+  "The FedHPb model was evaluated using real data from two wind farms located approximately 700 kilometers apart.",
+  "The data from the two wind farms were representative of different climatic conditions, allowing the model to adapt to heterogeneous environments.",
+  "The data preprocessing steps included denoising, outlier handling, and missing value imputation to ensure data quality and consistency.",
+  "The training set comprised 60% of the data, while the testing set comprised 40%.",
+  "The Stochastic Gradient Descent (SGD) optimizer was used with a learning rate of 0.01.",
+  "The hyper-parameter \u03bb was set to 0.25, and the temperature \u03c4 was set to 0.5.",
+  "The communication rounds (R) between clients and the server were configured to 20, while the local training epochs (E) were set to 100."
+]
