@@ -1,0 +1,17 @@
+[
+  "The dataset consists of 520 expert-validated discharges from the ILW campaigns at JET, with 322 disruptive and 198 non-disruptive shots.",
+  "The sequence-based model achieves a cross-validated success rate of 96.2% and a false alarm rate of 8.18% when combined with a mode lock indicator for disruption prediction.",
+  "The learned latent space representation is zero-centered and has a spherical shape, likely due to the chosen spherical prior.",
+  "The visualization of the latent space reveals two main diverging paths towards the disruptive boundary, corresponding to different physical disruptive paths.",
+  "Many false alarms were found to be correlated with labeled precursor events like radiative collapse and impurity accumulation.",
+  "The sequence-based model showed a mean warning time of 1.3 seconds on unseen test discharges for the hybrid disruption detector.",
+  "The dataset was preprocessed to have a balanced ratio of disruptive to stable states using the T_predisr label.",
+  "The model was trained using multi-task learning, with four tasks: disruptivity classification, time-to-boundary regression, state reconstruction, and smooth latent trajectory movements.",
+  "The sequence-based model outperformed the state-based model in terms of disruption prediction success rate and false alarm rate.",
+  "The latent space visualization shows distinct regions for stable flat-top, stable ramp-down, and disruptive states.",
+  "The scattered disruptive tails in the fast disruptive region were found to have a mode lock precursor event.",
+  "The stable flat-top region is characterized by the area enclosed by green stars and blue squares in the latent space.",
+  "The stable ramp-down operational space is enclosed by the blue squares and blue stars in the latent space.",
+  "The transitional region is located between the stable flat-top and disruptive regions in the latent space.",
+  "The fast disruptive region corresponds to the shorter branch converging towards the lower right corner of the latent space."
+]
