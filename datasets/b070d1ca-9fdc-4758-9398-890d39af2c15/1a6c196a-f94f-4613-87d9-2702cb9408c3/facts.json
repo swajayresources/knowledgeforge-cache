@@ -1,0 +1,17 @@
+[
+  "The HOST Turbine Heat Transfer Subproject was allocated a little less than $5.5 million in net research funding.",
+  "Industry provided almost half of the research effort in the Turbine Heat Transfer Subproject.",
+  "The Allison Gas Turbine Division conducted extensive experiments on the effects of Reynolds number, turbulence level, Mach number, temperature ratio, acceleration, and boundary layer transition on heat transfer coefficients for various airfoil geometries.",
+  "The United Technologies Research Center conducted experiments in a large, low-speed rotating turbine, measuring aerodynamic and heat transfer quantities for both the first stator and rotor under high and low inlet turbulence conditions.",
+  "The Arizona State University experiments on blade tip cavity heat transfer showed strong dependence on the cavity aspect ratio and angle-of-attack to the mean crossflow direction.",
+  "The Stanford University experiments on high free-stream turbulence intensity showed heat transfer augmentation rates of 3-5 times the baseline, depending on the turbulence length scale.",
+  "The Pratt & Whitney three-dimensional Navier-Stokes code was modified to incorporate rotational terms and applied to internal turbine passages, but significant work remains to bring these codes to the same level of proficiency as the external flow codes.",
+  "The University of Tennessee Space Institute developed a three-dimensional viscous flow analysis capability for the curved duct experiment, but found current turbulence models had difficulty predicting the thin turbulent boundary layer results.",
+  "The University of Minnesota developed a modified form of the Lam-Bremhorst low-Reynolds-number k-\u03b5 turbulence model to better predict transitional boundary layer flows under gas turbine conditions.",
+  "The Scientific Research Associates (SRA) developed a fully elliptic three-dimensional Navier-Stokes code for turbine airfoils, including turbulence modeling, an energy equation, and improved user-friendliness.",
+  "Future research needs include improving the ability to predict unsteady flowfields with significant secondary flow phenomena and coupled thermal/velocity profiles, as well as expanding the focus beyond just the airfoils and combustor liners to other hot-section components.",
+  "The HOST Turbine Heat Transfer Subproject was successful in building a large experimental database and advancing analytical capabilities, which are expected to provide benchmarks for turbine heat transfer research for many years to come.",
+  "The Turbine Heat Transfer Subproject was part of the multidisciplinary HOST Project, which aimed to improve the performance, durability, and operating costs of aircraft gas turbine engines.",
+  "An uncertainty analysis by Stepka (1980) prior to the HOST Project estimated that the then-current ability to predict metal temperatures in an operating engine was within 100 K, which could be refined to within 50 K by testing prototypes.",
+  "The Turbine Heat Transfer Subproject took a building-block approach, ranging from the study of fundamental phenomena and modeling to experiments in simulated real engine environments."
+]
