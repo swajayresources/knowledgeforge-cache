@@ -1,0 +1,10 @@
+[
+  "The Turbine software can simulate network dynamics on very large networks (millions of nodes and edges) on a standard desktop computer.",
+  "The 'communicating vessels' model used in Turbine gives an exponential decay of perturbations, in agreement with several earlier findings.",
+  "Benchmark graphs with pronounced modular structure trapped high-intensity perturbations within their modules, while those with fuzzy modules did not show this 'module encapsulation' effect.",
+  "Perturbation centrality is defined as the reciprocal of the 'silencing time', which is the first time when all nodes have an energy value less than a pre-set threshold after an initial perturbation.",
+  "Perturbation centrality was highly correlated with closeness centrality (r=0.67), community centrality (r=0.65), and weighted degree (r=0.69) across various networks.",
+  "In networks with pronounced modules, inter-modular non-hubs had 87% larger perturbation centrality than intra-modular hubs on average.",
+  "Perturbation centrality correctly identified amino acids involved in intra-protein communication and substrate binding sites in the Met-tRNA synthetase protein structure network.",
+  "Changes in perturbation centralities of yeast interactome nodes recapitulated the functional changes of stressed yeast cells, with heat-shocked cells showing a 40.5% lower average perturbation centrality compared to unstressed cells."
+]
