@@ -1,0 +1,17 @@
+[
+  "SSME blades are subject to severe thermal, pressure, and forced vibration environments.",
+  "SSME/STAEBL is a stand-alone code for automated design of SSME turbopump blades, developed by modifying and enhancing the STAEBL code.",
+  "Typical design variables in SSME/STAEBL include blade thickness distribution and root chord.",
+  "Typical constraints include resonance margins, root stress, and root-to-chord ratios.",
+  "Additions and modifications in SSME/STAEBL include thermal stress analysis, gas dynamic loads, temperature-dependent properties, forced vibrations, and blade cross-section stacking offsets.",
+  "Optimization studies showed that including thermal and pressure loads, as well as temperature-dependent properties, requires additional weight in the optimized design to meet all constraints.",
+  "Crystal axis orientation had a relatively small effect on the optimal design of a single-crystal SSME turbopump blade, which was dominated by a root stress constraint.",
+  "Blade cross-section stacking offsets were shown to have a very significant effect on root stress-dominated designs.",
+  "The natural frequencies of the optimized SSME turbopump blade design under centrifugal loads only were 3562, 3854, 4383, 4866, and 7916 Hz.",
+  "The root stress of the optimized SSME turbopump blade design under centrifugal loads only was 106 ksi, compared to 83 ksi for the initial design.",
+  "The root stress of the optimized SSME turbopump blade design under centrifugal, thermal, and pressure loads with temperature-dependent properties was 65 ksi.",
+  "The blade weight of the optimized SSME turbopump blade design under centrifugal loads only was 3.14 lb, compared to 3.0 lb for the initial design.",
+  "The optimized SSME turbopump blade design under centrifugal, thermal, and pressure loads with temperature-dependent properties had a tip displacement of 0.209 in, compared to 0.0027 in for the design optimized under centrifugal loads only.",
+  "The forced response margin for the optimized SSME turbopump blade design under centrifugal, thermal, and pressure loads with temperature-dependent properties was 0.010, compared to 0.000 for the design optimized under centrifugal loads only.",
+  "The stage weight of the optimized SSME turbopump blade design under centrifugal, thermal, and pressure loads with temperature-dependent properties was 4.15 lb, compared to 3.0 lb for the design optimized under centrifugal loads only."
+]
