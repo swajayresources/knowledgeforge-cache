@@ -1,0 +1,1 @@
+This paper analyzes the relative cooling flow factor (FAC) used in the Coolit subroutine for estimating turbine cooling flow requirements. It compares film cooling and internal convection cooling methods using heat transfer correlations on flat plates, and provides insights into the limitations and assumptions in the Coolit approach.
