@@ -1,0 +1,17 @@
+[
+  "The JET bolometer system (KB5) has one horizontal camera (KB5H) and one vertical camera (KB5V) with 24 bolometer channels each.",
+  "The authors collected data from all JET experimental campaigns since the installation of the ITER-like wall in September 2011, resulting in a total of around 18,000 tomographic reconstructions.",
+  "The available tomographic reconstructions had a resolution of 115x196 pixels, which the authors padded to 120x200 pixels to facilitate the network design.",
+  "Principal component analysis (PCA) showed that 50 components were sufficient to explain 100% of the variance in the 52-channel bolometer input data.",
+  "The network was trained using stochastic gradient descent with a learning rate of 0.001 and a batch size of 10, taking about 17 hours to train on each dataset.",
+  "The average structural similarity (SSIM) of the network's reconstructions was 0.98-0.99, the peak signal-to-noise ratio (PSNR) was 33-41 dB, and the normalized root mean square error (NRMSE) was 0.02-0.04.",
+  "The authors note that the network was able to reproduce the existing tomographic reconstructions with a very low error, indicating that it can match the accuracy of traditional methods based on regularization techniques.",
+  "The authors suggest that this deep learning approach could enable real-time tomographic reconstructions to be used as input for the real-time control of fusion experiments.",
+  "The authors also note that the approach could be adapted to other tomography diagnostics beyond the JET bolometer system.",
+  "The network architecture consisted of two fully-connected layers followed by a series of up-convolutional layers to increase the 1D input to a 2D output image.",
+  "The authors conducted preliminary experiments training the network on randomly-generated phantoms, where it was able to reproduce each phantom with an average error per pixel below 2%.",
+  "The authors did not observe any significant overfitting during the training process, as the validation loss continued to decrease along with the training loss.",
+  "The authors highlight that all tomographic reconstructions can be affected by artifacts due to noise in the projection data or the smoothing constraints applied during the reconstruction process.",
+  "The network was able to reproduce not only the inner shape of the plasma, but also the details of the divertor region in the tomographic reconstructions.",
+  "The authors note that the up-convolutional network architecture used in this work is the inverse of a typical convolutional neural network (CNN), which usually takes a 2D image as input and produces a 1D output."
+]
