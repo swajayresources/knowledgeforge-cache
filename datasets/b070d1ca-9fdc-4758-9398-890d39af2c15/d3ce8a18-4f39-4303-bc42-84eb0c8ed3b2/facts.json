@@ -1,0 +1,17 @@
+[
+  "The heat exchanger geometry consists of a single tube with a length of 200mm and a shell diameter of 20mm.",
+  "The geometry is simplified to account for planar symmetry and is cut in half vertically.",
+  "The k-omega turbulence model had lower RMS residual levels, around 1e-06, compared to the k-epsilon model, which had residual levels around 1e-03.",
+  "The k-omega model had a higher total heat transfer rate at the outlet of the inner tube compared to the k-epsilon model.",
+  "The inlet boundary conditions include a velocity of 0.01 m/s and temperature of 30\u00b0C for the inner tube, and a velocity of 0.05 m/s and temperature of 25\u00b0C for the outer tube.",
+  "The outlet boundary conditions are pressure outlets with a backflow total temperature of 26.85\u00b0C.",
+  "The solid components, such as the tube and shell, were modeled using aluminum and copper materials.",
+  "The temperature contours showed a more uniform temperature distribution in the k-omega model compared to the k-epsilon model.",
+  "The study concluded that the k-omega model is best suited for the heat exchanger analysis, as it provided better heat transfer rates and a tighter numerical convergence.",
+  "Heat exchangers have a wide range of applications, including in the food and beverage, petroleum, hydrocarbon processing, pharmaceutical, automotive, and power industries.",
+  "The three main heat transfer mechanisms discussed are conduction, convection, and radiation, with conduction and convection being the most common in manufacturing industries.",
+  "The overall heat transfer coefficient is defined by the equation: 1/U = 1/h_h + 1/h_c + \u0394x/k + R_f, where h_h and h_c are the hot and cold side heat transfer coefficients, \u0394x/k is the wall resistance, and R_f is the fouling resistance.",
+  "The logarithmic mean temperature difference (LMTD) is used to estimate the average temperature difference across the heat exchanger, and a higher LMTD will result in a smaller heat transfer area.",
+  "The energy balance equations for the hot and cold fluids are: Q = m_h C_p,h (T_h,i - T_h,o) and Q = m_c C_p,c (T_c,o - T_c,i).",
+  "The Navier-Stokes equations and the energy equation are the governing equations solved in the CFD analysis."
+]
