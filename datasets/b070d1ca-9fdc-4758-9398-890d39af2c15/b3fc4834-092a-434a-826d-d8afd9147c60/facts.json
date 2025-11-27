@@ -1,0 +1,17 @@
+[
+  "The proposed FedHPb model achieved average improvements of 19.64% in mF-score and 5.73% in mBalanced Accuracy compared to the second-best method, BiFL, across the tested imbalance ratios.",
+  "The experiments tested imbalance ratios of 20:1, 50:1, and 100:1 non-icing to icing samples.",
+  "The client model, LCNN, combines LSTM and CNN modules with Squeeze-and-Excitation attention to extract time-dependent and spatial features from the wind turbine data.",
+  "FedHPb communicates abstract class prototypes between clients and the central server, instead of exchanging gradients or model parameters.",
+  "The contrastive supervised loss function used in FedHPb balances the influence of majority and minority classes without relying on data sampling.",
+  "The global prototype aggregation at the server side calculates a weighted average of the received prototypes, with the weights determined by the size of each client's label dataset.",
+  "The study used F-score (with \u03b2=2) and Balanced Accuracy as the main performance evaluation metrics.",
+  "Traditional federated learning methods like FedAvg and FedProto performed poorly in handling the class imbalance in the wind turbine icing data.",
+  "The data for the study were collected from two wind farms located approximately 700 kilometers apart, with a total of 20 wind turbines.",
+  "The data preprocessing steps included denoising, outlier handling, and missing value imputation to ensure data quality and consistency.",
+  "The training and testing data were divided in a 60:40 ratio, with the testing set having a 10:1 imbalance ratio of non-icing to icing samples.",
+  "The study found that the accuracy of all methods decreased as the imbalance ratio increased.",
+  "The knowledge preservation mechanism used in the BiFL method added complexity, and if the encoding of the prototype feature maps was not sufficiently refined, it could degrade prototype quality and negatively affect performance.",
+  "The experiments were conducted on a server equipped with an NVIDIA GeForce RTX 4090 GPU.",
+  "The Stochastic Gradient Descent (SGD) optimizer was used with a learning rate of 0.01, and the hyper-parameters \u03bb and \u03c4 were set to 0.25 and 0.5, respectively."
+]
