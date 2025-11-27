@@ -1,0 +1,1 @@
+This paper introduces Turbine, a versatile network dynamics simulation tool, and a novel centrality measure called perturbation centrality. The authors show that perturbation centrality can identify key nodes involved in signal propagation and is sensitive to structural changes in biological networks under different stress conditions.
