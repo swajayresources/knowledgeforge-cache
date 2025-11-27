@@ -1,0 +1,17 @@
+[
+  "The most severe and damaging stresses and strains are those induced by the steep thermal gradients during the engine start-up transient.",
+  "The HOST program is developing improved time-varying thermal-mechanical load models for the entire engine mission cycle from start-up to shutdown.",
+  "The program is developing an automated component-specific geometric modeling capability to produce 3D finite element models of the components.",
+  "New and improved nonlinear 3D finite elements and associated structural analysis programs are being developed, including temporal elements with time-dependent properties to account for creep effects.",
+  "Improved constitutive modeling methods are under development to facilitate better prediction of cyclic thermomechanical viscoplastic material behavior.",
+  "Experimental facilities such as the burner liner cyclic rig and high-temperature structures laboratory are being established to aid in developing and verifying theories and models.",
+  "The thermal data transfer module automates the transfer of temperatures from heat transfer codes or experimental data sets to the structural analysis code.",
+  "Self-adaptive solution strategies are being developed to facilitate selection of appropriate elements, mesh sizes, etc. for the structural analysis.",
+  "Two recent contracts were signed to accomplish the development of new and improved nonlinear 3D finite elements and associated structural analysis programs.",
+  "The HOST program is supported by industry, universities, and in-house research at NASA Lewis.",
+  "The program is addressing the problems at both the basic and applied levels.",
+  "The thermal model refinements will be consistent with the requirements of the structural code, including considerations of mesh-point density, strain concentrations, and thermal gradients.",
+  "Models are being developed for the burner liner, turbine vane, and turbine blade.",
+  "The program is developing improved constitutive modeling methods to facilitate better prediction of cyclic thermomechanical viscoplastic material behavior.",
+  "The experimental facilities include the burner liner cyclic rig and the high-temperature structures laboratory."
+]
