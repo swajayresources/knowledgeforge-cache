@@ -1,0 +1,17 @@
+[
+  "The 10 MW blade from the AVATAR project was used in the present investigation.",
+  "The calculations were performed at a wind speed of 10.5 m/s and a rotational speed of 9.0218 rpm.",
+  "Grid convergence index (GCI) studies showed that the medium mesh with 10.9 million cells provided grid-converged results.",
+  "The FLOWer CFD results for power and thrust showed good agreement with numerical results from other project partners.",
+  "The 3D lift coefficients showed a significant increase (up to 40% radius) compared to the 2D airfoil data, demonstrating the rotational augmentation effect.",
+  "The rotational augmentation of the lift coefficient became smaller towards the blade tip due to the influence of trailing vortices.",
+  "The centrifugal force transports the separated flow at the near-hub region towards the middle part of the blade, reducing the wake size.",
+  "The Coriolis force delays the separation point, further contributing to the increase in lift coefficient.",
+  "Boundary layer codes like XFOIL have limitations in accurately predicting the aerodynamics of thick airfoils due to higher adverse pressure gradients.",
+  "The 3D CFD simulations showed a significant delay in the separation point and a reduction in the wake size at the inboard blade sections compared to the 2D case.",
+  "The rotational effects are influenced by the local solidity (chord-to-radius ratio) and the airfoil characteristics, in addition to the centrifugal and Coriolis forces.",
+  "The present work provides more information on the rotational augmentation occurring in the near-hub region of wind turbine blades.",
+  "The unsteady RANS simulations were performed using the SST-k\u03c9 turbulence model, which provides reasonable accuracy for high adverse pressure gradient flows.",
+  "The calculations were conducted at a pitch angle of 0.0\u00b0 to isolate the rotational effects from unsteady phenomena like dynamic stall.",
+  "The blade mesh was constructed using an automatic grid generator script, and the Chimera interpolation method was employed in the overlapping grid areas."
+]
