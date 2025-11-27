@@ -1,0 +1,1 @@
+This paper investigates the effects of low gravity on the solidification behavior of the superalloy PWA-1480, including secondary arm coarsening kinetics and microsegregation. The results show that short-duration changes in gravity levels (0.02 to 1.7 g) do not significantly influence the secondary arm coarsening or microsegregation in this alloy.
