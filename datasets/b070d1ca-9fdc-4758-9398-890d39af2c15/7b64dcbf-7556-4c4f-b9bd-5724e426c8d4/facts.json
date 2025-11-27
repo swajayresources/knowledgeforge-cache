@@ -1,0 +1,17 @@
+[
+  "The calculations were performed on the 10 MW blade of the AVATAR project at a wind speed of 10.5 m/s and a rotational speed of 9.0218 rpm.",
+  "The CFD simulations were conducted using the FLOWer code with the URANS SST-k\u03c9 turbulence model.",
+  "A C-type mesh with 10.9 million cells was used, which was shown to be grid-independent based on the grid convergence index (GCI) study.",
+  "The 3D results from the rotating blade were compared to 2D simulations of the blade sections at the same inflow conditions to isolate the rotational effects.",
+  "The rotational augmentation of the lift coefficient was observed to be largest at the inboard sections (r/R < 0.4) and decreased towards the blade tip.",
+  "The authors attributed the differences between the 3D and 2D lift coefficients to the centrifugal force transporting the separated flow towards the middle part of the blade and the Coriolis force delaying the separation point.",
+  "The findings regarding the delay in separation and reduction in wake size at the inboard sections agreed with previous studies, but contradicted the conclusions of Sicot et al. (2008) regarding the influence of rotation on the separation point.",
+  "The CFD results were validated by comparing the predicted power and thrust with numerical results from other project partners, showing good agreement with the DTU EllipSys3D and DTU Miras codes.",
+  "The authors suggest that the differences between the XFOIL and CFD lift coefficient predictions are due to the AVATAR blade having relatively thick airfoils and the sensitivity of the thick airfoils to the location of the transition point.",
+  "The grid convergence study showed that the medium mesh (10.9 million cells) was sufficient to resolve the flow field, with GCI values of 0.003% for power and 0.0497% for thrust.",
+  "The calculations were performed at a pitch angle of 0.0\u00b0 to isolate the rotational effects from unsteady phenomena, such as dynamic stall.",
+  "The authors observed a massive reduction of the wake size and a delay in separation at the inboard blade sections due to the radial flow development.",
+  "The rotational effects were found to be airfoil dependent, apart from the dependency on the local solidity (c/r).",
+  "The XFOIL calculations consistently showed higher lift coefficient values compared to the CFD results, which the authors attributed to the AVATAR blade having relatively thick airfoils.",
+  "The authors noted that the prediction of separation position is a challenging issue, even for modern computational methods, due to the strong radial flow that occurs at the inboard sections."
+]
