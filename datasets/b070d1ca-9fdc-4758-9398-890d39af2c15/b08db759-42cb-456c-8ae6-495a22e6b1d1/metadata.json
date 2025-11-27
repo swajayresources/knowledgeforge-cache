@@ -1,0 +1,15 @@
+{
+  "paper_id": "b08db759-42cb-456c-8ae6-495a22e6b1d1",
+  "title": "Semi-Supervised Surface Anomaly Detection of Composite Wind Turbine Blades From Drone Imagery",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b08db759-42cb-456c-8ae6-495a22e6b1d1/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b08db759-42cb-456c-8ae6-495a22e6b1d1/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b08db759-42cb-456c-8ae6-495a22e6b1d1/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/b08db759-42cb-456c-8ae6-495a22e6b1d1/keywords.json"
+  ]
+}
