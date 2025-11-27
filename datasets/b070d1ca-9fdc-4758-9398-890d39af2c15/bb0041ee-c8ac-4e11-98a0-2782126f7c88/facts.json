@@ -1,0 +1,17 @@
+[
+  "The analysis is for laminar, constant-property, two-dimensional planar, boundary-layer-type flow without appreciable viscous dissipation.",
+  "The plate is idealized as a thin flat plate of thickness b with its lower surface exposed to coolant at a constant temperature Tc and a constant surface coefficient of heat transfer h.",
+  "The transient is initiated by a step change in the fluid inlet temperature from Tc to T\u221e at time t = 0.",
+  "The exact analytical solution is obtained using two successive Laplace transformations.",
+  "The coupling parameter \u03b5 is a measure of the ratio of the thermal storage capacity of the boundary-layer fluid per unit length to the thermal storage capacity of the solid plate per unit length.",
+  "The parameter \u03b7 is a measure of the ratio of the coolant-side surface coefficient to the local gas-side surface coefficient.",
+  "The transient solution does not exhibit infinite or very large heat fluxes at the beginning, unlike the transient induced by a step change in wall temperature.",
+  "A criterion is developed to determine the minimum value of the time parameter \u03b5(\u03c4-1) for which the solution is within 5% of the steady-state values.",
+  "For the case where the fluid and plate are initially at the steady-state conditions, the transient solution is obtained by decomposing the temperature into a steady-state component and a transient component.",
+  "The unit step function in the solution indicates that the surface heat flux and temperature are zero for \u03c4 < 1, and only attain nonzero values for \u03c4 \u2265 1.",
+  "The 'plane wave' phenomenon in slug flow refers to the separation of the thermal fluid field into two regions - conduction with no mixing ahead of the front, and mixing behind the front.",
+  "The eventual steady-state surface heat flux and temperature are independent of the coupling parameter \u03b5 and dependent only on the parameter \u03b7.",
+  "As \u03b5 approaches infinity, the plate has essentially zero thermal storage capacity compared to the fluid, and the surface heat flux is zero for \u03c4 < 1 and equal to its steady-state value for \u03c4 \u2265 1.",
+  "For \u03b7 = 0, corresponding to an insulated lower surface, the steady-state surface heat flux and temperature are both zero.",
+  "The quasi-steady approximation can induce appreciable error, especially for short times, highlighting the importance of using the exact transient solution."
+]
