@@ -1,0 +1,17 @@
+[
+  "The experimental apparatus consists of a rotating blade model that simulates the leading edge geometry of a real turbine blade.",
+  "The blade model is electrically heated and cooled by impinging jets of refrigerant gas (Freon 12).",
+  "The local heat transfer coefficients are determined from the measured electrical input power and the skin temperature distribution.",
+  "The test section geometry includes a span of 101.6 mm, hub radius of 406.4 mm, tip radius of 508.0 mm, and leading edge diameter of 12.7 mm.",
+  "The impingement hole diameter is 2.1 mm and the hole pitch is 6.1 mm.",
+  "The tests were conducted at stagger angles of -30 degrees and 0 degrees.",
+  "The average jet Reynolds number varied from 17,000 to 74,000 in the tests.",
+  "Rotation reduces the mean Nusselt numbers by about 30% compared to non-rotating cases.",
+  "The thermal gradients between the jet holes along the passage are more pronounced at higher rotational speeds.",
+  "The heat transfer rates are lower by approximately 30% at 0 degree stagger angle compared to 30 degree stagger angle.",
+  "The maximum difference between Nusselt numbers calculated using local fluid temperature versus inlet coolant temperature is 17%.",
+  "The modeling and analysis offer a means for more accurate prediction of impingement cooling heat transfer rates.",
+  "The study provides insights into the effects of rotation and stagger angle on the local heat transfer distribution in turbine blade impingement cooling.",
+  "The channel flow model is used to correct the measured heat transfer coefficients to local fluid conditions.",
+  "The corrected results are compared to previous correlations for impingement cooling and rotating passages."
+]
