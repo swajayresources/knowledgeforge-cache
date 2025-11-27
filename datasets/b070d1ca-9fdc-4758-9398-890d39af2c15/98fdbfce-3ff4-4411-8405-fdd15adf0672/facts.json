@@ -1,0 +1,17 @@
+[
+  "The two methods proposed for 3D printing fibrous sound absorbers are the fiber bridging method and the extrude-and-pull method.",
+  "Both methods can produce fibers with aspect ratios (length-to-thickness ratio) greater than 100.",
+  "Decreasing the horizontal or vertical separation between fibers (i.e., increasing the fiber density) increases the sound absorption at all frequencies and shifts the peak absorption frequency to lower values.",
+  "For the fiber bridging method, higher extruder travel rates produce thinner fibers, which results in lower sound absorption coefficients.",
+  "For the extrude-and-pull method, higher pull speeds produce relatively thicker fibers overall, which can lead to improved sound absorption.",
+  "The fiber bridging method generally produces thicker fibers, while the extrude-and-pull method results in hair-like fibers with a thick base and progressively decreasing thickness along the length.",
+  "On average, the fiber bridging method results in higher sound absorption due to the thicker fibers, but the extrude-and-pull method offers the ability to easily incorporate fibers within existing additive manufacturing routines.",
+  "The sound absorption of the printed samples was measured using a two-microphone normal incidence impedance tube setup.",
+  "The experimental results were modeled using the Johnson-Champoux-Allard semi-empirical analytical model, which was informed by an inverse characterization approach to determine the key microstructural parameters.",
+  "The researchers used the JCA model to understand how the different printing parameters affect the underlying microstructural properties and, consequently, the overall sound absorption behavior.",
+  "Potential applications for the additively manufactured fibrous sound absorbers include aeronautics, computer server design, automotive engineering, and other fields where absorbing unwanted sound waves without constraining air flow is a challenge.",
+  "The key printing parameters investigated include the horizontal and vertical separation between fibers, the angle offset between successive fiber layers, the extruder travel rate (for the fiber bridging method), and the extrusion amount and pull speed (for the extrude-and-pull method).",
+  "The fiber bridging method involves extruding the filament between two points with no underlying support, while the extrude-and-pull method involves extruding a filament droplet and then rapidly pulling away the extruder to generate thin fibers.",
+  "The researchers used an inverse characterization approach with the JCA model to determine the key microstructural parameters (porosity, flow resistivity, tortuosity, etc.) of the printed fibrous absorbers.",
+  "The researchers found that not accounting for fabrication defects inherent in the FDM process may lead to underestimation of the absorption coefficient of the printed samples."
+]
