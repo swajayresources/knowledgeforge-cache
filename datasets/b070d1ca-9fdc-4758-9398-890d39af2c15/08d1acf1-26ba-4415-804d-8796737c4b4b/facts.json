@@ -1,0 +1,17 @@
+[
+  "The paper presents a method to adapt Greenberg's potential flow model for coupled pitching and surging flow to predict the loads on a vertical-axis wind turbine blade.",
+  "The effective angle of attack and effective flow velocity variations are approximated using Fourier sine and cosine series, respectively, to better represent the non-sinusoidal variations at low tip-speed ratios.",
+  "The experiments were conducted on a scaled-down model of a single-bladed H-type Darrieus wind turbine in a recirculating water channel.",
+  "The turbine blade had a NACA0018 profile, with a chord of 6 cm and a span of 15 cm, and a chord-to-diameter ratio of 0.2.",
+  "The experiments were performed at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "The static stall angle of the NACA0018 airfoil was 13.1\u00b0 at a Reynolds number of 50,000.",
+  "The unsteady blade loads were measured using twenty strain gauges forming five full Wheatstone bridge channels on the blade shaft.",
+  "The Greenberg model predicts the radial forces well at the start of the cycle and the maximum force coefficient during the upwind portion, but fails during the downwind portion due to flow separation and blade-wake interaction.",
+  "For the low tip-speed ratio case (\u03bb = 1.5), the Greenberg model deviates from the experimental results once the effective angle of attack exceeds the critical stall angle.",
+  "For the high tip-speed ratio case (\u03bb = 4.5), the Greenberg model predicts the maximum radial load coefficient and its timing well, but underestimates the magnitude during the downwind portion due to blade-wake interaction.",
+  "The paper shows the potential of the Greenberg model to diagnose regions of separated flow and quantify the relative influences of dynamic stall and turbine kinematics on the blade loading.",
+  "The proposed method can be readily extended to any airfoil undergoing an arbitrary combination of pitching, surging, and heaving motions.",
+  "The experiments were conducted in a recirculating water channel with a test section of 0.6 m \u00d7 0.6 m \u00d7 3 m and a maximum flow velocity of 1 m/s.",
+  "The turbine radius was kept constant at 15 cm, and the pitching axis of the blade was set at the quarter-chord.",
+  "The inertial centripetal force of the turbine was quantified by operating the turbine in air and removing the results from the measured signal to obtain the aerodynamic load responses."
+]
