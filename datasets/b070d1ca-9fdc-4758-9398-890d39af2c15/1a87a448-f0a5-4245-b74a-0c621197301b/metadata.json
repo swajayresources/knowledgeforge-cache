@@ -1,0 +1,15 @@
+{
+  "paper_id": "1a87a448-f0a5-4245-b74a-0c621197301b",
+  "title": "Computational fluid dynamics (CFD) modeling of actual eroded wind turbine blades",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1a87a448-f0a5-4245-b74a-0c621197301b/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1a87a448-f0a5-4245-b74a-0c621197301b/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1a87a448-f0a5-4245-b74a-0c621197301b/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/1a87a448-f0a5-4245-b74a-0c621197301b/keywords.json"
+  ]
+}
