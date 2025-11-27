@@ -1,0 +1,1 @@
+This paper presents a transparent and data-driven methodology to monitor the plasma state in the JET tokamak device, combining supervised and unsupervised learning techniques. The goal is to provide an interpretable plasma state representation and enhance the understanding of plasma state evolution, with a focus on disruption prediction.
