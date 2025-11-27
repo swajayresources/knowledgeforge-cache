@@ -1,0 +1,17 @@
+[
+  "The Fastrac turbine is designed to produce 895 kW of power at 20,000 RPM.",
+  "The turbine has 24 converging-diverging nozzles, 147 impulse-type shrouded blades, and 67 exit guide vanes (EGVs).",
+  "The nozzle exit Mach number is predicted to be 2.11, with a total-to-static pressure ratio of 11.2.",
+  "For the small gap case (0.102 cm), the turbine produced 890 kW of power with a work per pound of 276.3 kJ/kg.",
+  "For the large gap case (0.838 cm), the turbine produced 867 kW of power with a work per pound of 269.1 kJ/kg.",
+  "The modal analysis indicated possible resonance near the nominal design speed due to excitations from the nozzle count and EGVs.",
+  "Implementing MPI software enabled the CFD simulations to be run at the required speed.",
+  "The uncoupled nozzle and blade/EGV simulation under-predicted the losses and did not adequately capture the mixing in the axial gap region.",
+  "Highly unsteady pressures were predicted at the blade leading edge, particularly at the nozzle passing frequency and its second harmonic.",
+  "Boundary layer separation on the blade suction surface and the EGV pressure surface was observed, triggered by the wakes from the nozzle lip regions.",
+  "The small gap case showed higher unsteadiness but better aerodynamic performance compared to the large gap case.",
+  "Thick boundary layers were observed at the blade inlet for the small gap case due to the nozzle jet not fully expanding.",
+  "The large gap case had higher losses in the region between the nozzle and blade due to jet interaction.",
+  "The uncoupled simulation over-specified the inlet conditions and under-predicted the losses.",
+  "More detailed simulations of different axial spacings are planned to further understand the flow physics in this region."
+]
