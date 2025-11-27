@@ -1,0 +1,17 @@
+[
+  "The paper presents a stochastic optimization framework for reducing turbofan noise by determining optimal acoustic liner impedance.",
+  "The stochastic optimization problem is formulated based on the conditional value-at-risk (CVaR) measure to determine a robust optimal impedance factor.",
+  "A parallel reduced-order modeling framework based on proper orthogonal decomposition (POD) is developed to dramatically improve the computational efficiency of the stochastic optimization solver.",
+  "The reduced stochastic optimization problem can be solved in less than 500 seconds, whereas the computation of the full-order Helmholtz solutions would be computationally forbidding.",
+  "The numerical experiments show that with 95% certainty, the acoustic noise energy can be optimally controlled within 48.66% of the noise level associated with the hard-wall condition without an acoustic liner.",
+  "The paper considers uncertainties in the acoustic wavenumber due to variability in weather conditions, and in the fan noise source amplitude due to incomplete knowledge.",
+  "The POD basis is constructed by solving the full-order Helmholtz equation for a set of parameter samples and determining the optimal POD basis that can best approximate these snapshots.",
+  "POD is the most efficient method for reduced-order modeling of the non-coercive Helmholtz equation, as it does not require computing the inf-sup constant needed by the greedy reduced basis method.",
+  "The realistic nacelle geometry used in the simulations has a fan radius of 1.2 m, an acoustic liner length of 1.08 m starting at 0.21 m from the fan plane, and a far-field boundary 5 m away from the fan noise source.",
+  "The wavenumber range considered is \u039b = [5, 10], corresponding to wavelengths \u03bb = 2\u03c0/k \u2208 [0.2\u03c0, 0.4\u03c0], and the mesh resolution is chosen to have about 10 points per wavelength.",
+  "The parallel computation of the cost function involves each processor independently solving the reduced-order Helmholtz equation for its assigned random samples, and then communicating the noise energy values to sum them up.",
+  "The paper provides well-posedness and finite element error analyses of the state system and optimization problem.",
+  "The stochastic optimization problem is solved using a BFGS quasi-Newton method with a line search based on cubic interpolation and the Armijo condition.",
+  "The reduced-order modeling approach dramatically reduces the computational cost of the stochastic optimization solver, enabling it to be solved within 500 seconds.",
+  "The paper demonstrates the effectiveness of the stochastic optimization framework and the parallel reduced-order modeling approach for turbofan noise reduction."
+]
