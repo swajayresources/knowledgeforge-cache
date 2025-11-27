@@ -1,0 +1,17 @@
+[
+  "The analyzed JET hybrid discharge #94875 had a toroidal magnetic field of 2.8 T, plasma current of 2.2 MA, NBI power of 27 MW, and ICRH power of 6.1 MW.",
+  "Two versions of the QuaLiKiz turbulence model were compared: 2.6.1 (used in a previous study) and the newer 2.8.2, which included improvements to the trapped electron mode dependence on collisionality and a recalibration of the ETG saturation rule.",
+  "The integrated modeling with QuaLiKiz 2.6.1 reproduced the experimental profiles well but predicted a significant role for ETG turbulence and an associated anti-GyroBohm isotope scaling.",
+  "The QuaLiKiz 2.8.2 simulations showed a reduced impact of removing ETG turbulence compared to 2.6.1, leading to a significantly diminished anti-GyroBohm isotope scaling prediction.",
+  "In QuaLiKiz 2.8.2, TEM modes were found to dominate the ion-scale spectrum at k_\u03b8\u03c1_s \u2265 0.5, contributing to the electron heat flux, whereas in 2.6.1 the ion-scale modes were purely ITG.",
+  "The gyrokinetic analysis using the GENE code showed that multiscale simulations produced no significant ETG heat flux, contradicting the rules-of-thumb used to predict the onset of ETG turbulence in the integrated modeling.",
+  "The authors concluded that the newer QuaLiKiz 2.8.2 version shows a reduced importance of ETG turbulence compared to the previous 2.6.1 version, and that simple rules-of-thumb are insufficient criteria for predicting the onset of ETG turbulence.",
+  "The authors investigated the sensitivity of ETG turbulence predictions to impurity content by considering both a nominal case and a case with 15% reduced line-averaged Z_eff.",
+  "The improved ion heat confinement regime typical of the hybrid scenario was predicted to rely on both E\u00d7B rotation shear and electromagnetic stabilization of ITG turbulence.",
+  "The ad-hoc nature of the electromagnetic stabilization model in QuaLiKiz was identified as a caveat that requires further investigation.",
+  "The integrated modeling results were within 1\u03c3 of the experimental measurements for the bulk of the profiles, demonstrating the overall success of the QuaLiKiz model in reproducing the scenario.",
+  "The gyrokinetic analysis served as a validation of the QuaLiKiz predictions and a test of its assumptions regarding the onset and importance of ETG turbulence.",
+  "The study focused on the validation of ETG turbulence predictions, but a related work has recently been published that studies the isotope scaling predictions of this discharge more generally using integrated modeling.",
+  "The extreme computational expense of multiscale gyrokinetic simulations, typically 10^7 CPU hours for a single converged simulation, precludes extensive parameter variations for testing the rules-of-thumb robustness.",
+  "A counter-example to a literal interpretation of the rules-of-thumb for predicting the onset of significant ETG turbulence was recently shown in the analysis of dedicated JET experiments."
+]
