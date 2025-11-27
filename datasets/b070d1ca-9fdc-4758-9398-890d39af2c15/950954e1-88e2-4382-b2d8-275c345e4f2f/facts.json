@@ -1,0 +1,17 @@
+[
+  "The nickel-base single crystal superalloy PWA 1480 is a candidate blading material for the advanced turbopump development (ATD) program of the space shuttle main engine (SSME).",
+  "In advanced liquid propellent rocket engines such as the SSME, the turbine blades are subjected to severe thermal gradients, both along the span and through the thickness during startup and shutdown cycles, as well as centrifugal and vibratory loads.",
+  "The single crystal superalloy PWA 1480 is grown along the low modulus [001] crystal orientation by a directional solidification process.",
+  "Unless a seed crystal is used during the solidification process, the secondary crystal orientation [010] tends to be randomly oriented with respect to the geometry of the turbine blade.",
+  "Cubic single crystal materials such as PWA 1480 exhibit anisotropic elastic behavior.",
+  "The temperature-dependent elastic constants used in the study were: C11 = 250 GPa, C12 = 163 GPa, and C44 = 129 GPa at 38\u00b0C.",
+  "The finite-element model of the square plate consisted of 500 8-noded, isoparametric elements.",
+  "The variations in the stress components with the secondary orientation angle were dependent on the type of loading (mechanical, thermal, or combined) imposed on the square plate.",
+  "For the case involving a thermal gradient through the thickness of the square plate, the secondary orientation angle of 0\u00b0 minimized thermal stresses, whereas the secondary orientation angle of 45\u00b0 maximized the thermal stresses.",
+  "The commercially available MARC code was used to conduct the elastic stress analyses.",
+  "The square plate samples had a side length of 25.4 mm and a thickness of 3.2 mm.",
+  "The study investigated the effects of secondary crystal orientation on the elastic response of single crystal PWA 1480 superalloy under mechanical, thermal, and combined thermal and mechanical loads.",
+  "The elastic stiffness matrices for different secondary orientation angles were computed using the simplified method of Liebermen and Zirinsky.",
+  "The primary orientation of the square plate was assumed to be along the [001] crystallographic direction.",
+  "The secondary crystallographic orientation was offset with respect to the geometric axes of the square plate from 0\u00b0 to 90\u00b0 in increments of 10\u00b0."
+]
