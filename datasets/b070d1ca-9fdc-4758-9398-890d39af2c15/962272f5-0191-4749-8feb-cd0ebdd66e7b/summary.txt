@@ -1,0 +1,1 @@
+This paper presents the co-design of a novel CMOS neural network accelerator called the NV-1, which achieves 10x higher parallel processing and over 100x lower energy consumption compared to existing solutions through a drastically non-von Neumann architecture with many parallel combined processor-memory units.
