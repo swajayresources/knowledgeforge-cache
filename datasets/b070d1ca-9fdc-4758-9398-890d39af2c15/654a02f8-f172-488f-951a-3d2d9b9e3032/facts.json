@@ -1,0 +1,17 @@
+[
+  "The majority of JET-ILW Hybrid pulses have core n=1 activity, while n=2 and n=3 activity is more common in JET-C.",
+  "The average maximum normalized pressure (\u03b2N) is 2.44 in JET-ILW and 3.03 in JET-C Hybrid pulses.",
+  "In JET-C, n=2 modes lead to a modest 12% reduction in confinement, while in JET-ILW the n=2 modes can rapidly accelerate on-axis peaking of tungsten impurities, leading to much larger confinement degradation.",
+  "Sawteeth are beneficial in the JET-ILW in flushing out core impurities, while fishbones inhibit core impurity peaking.",
+  "The n=2 island is generally located close to the q=3/2 surface, indicating an m=3, n=2 tearing mode.",
+  "At the highest \u03b2N (>~3), the m=3, n=2 neoclassical tearing modes (NTMs) are intrinsically unstable, whereas at lower \u03b2N they are often sawtooth triggered.",
+  "The tungsten impurity density tends to be radially localized just outside the radius at which the n=2 island forms, when the tungsten is still off-axis.",
+  "As the n=1 mode parity changes from kink to tearing, there is no discernible effect on impurity peaking, but the impurity peaking is likely assisted by the reduction in central temperature gradients.",
+  "Long duration (>3s at \u03b2N>3) high performance JET-C Hybrid pulses have not been achieved in the JET-ILW, largely due to constraints on the divertor power handling.",
+  "The n=3 modes almost always occur concurrently with n=1 modes during JET-ILW operation, and such concurrent MHD activity has the most deleterious effect on confinement.",
+  "Modeling shows that the n=2 island can increase the inward diffusion of tungsten, or affect the background deuterium fuel ion profiles, leading to enhanced neoclassical and turbulent transport of the tungsten impurity.",
+  "Once the tungsten density starts to peak on-axis, its evolution can undergo a non-linear feedback, where the associated increase in radiation reduces temperature screening, further enhancing the impurity peaking.",
+  "The magnitude of the enhanced tungsten diffusion coefficient inside the n=2 island region is a key parameter in determining the rate of on-axis tungsten peaking in the modeling.",
+  "The modeling predicts significant increases in central tungsten peaking due to the effects of the n=2 island on the fuel ion profiles and transport.",
+  "The edge tungsten density boundary condition is a key parameter determining the absolute magnitude of the on-axis tungsten density in the modeling."
+]
