@@ -1,0 +1,17 @@
+[
+  "The study used 2D and 3D Reynolds-averaged Navier-Stokes (RANS) CFD models to investigate wind turbine blade sections in the Reynolds number range of 3-6 million.",
+  "The calibrated CFD model for modeling flow transition accounting for roughness showed good agreement of the aerodynamic forces for airfoils with leading-edge roughness heights on the order of 140-200 \u03bcm.",
+  "The results from the second part of the study indicated that up to a 3.3% reduction in annual energy production (AEP) can be expected when the leading edge shape is degraded by 0.8% of the chord, based on the NREL 5 MW turbine.",
+  "The novel aspect of the second part was the modeling of high-resolution leading edge surfaces of an actual blade with leading edge erosion damage, captured using 3D scanning technologies.",
+  "The study found that under fully turbulent conditions, the degree of eroded leading edge shapes studied showed minimal effect on the aerodynamic performances, resulting in a negligible difference to AEP.",
+  "The roughness amplification model uses an additional transport equation to trigger boundary layer transition accounting for the effect of surface roughness.",
+  "The study used the original NACA 63-418 geometry from Abbott et al. (1945) rather than a B\u00e9zier curve representation, as it showed better agreement with the experimental data.",
+  "The first part of the study focused on accurate prediction tools for simulating various roughness distributions due to light erosion or contamination and its influence on boundary layer transition.",
+  "The second part of the study modeled high-resolution scanned leading edge surfaces from an actual blade with leading edge erosion damage and evaluated the impact on aerodynamic performance.",
+  "The study used Menter's k-\u03c9 shear stress transport (SST) model with the Langtry-Menter local correlation-based transition model (SSTLM) as the underlying transition model.",
+  "The calibration of the roughness amplification model was performed using experimental data from Ehrmann et al. (2017) for the NACA 63-418 airfoil at Reynolds numbers of 2.4 million, 3.2 million, and 4.0 million.",
+  "The study found that the calibrated CFD model fails to predict the measured aerodynamic forces for small leading edge roughnesses (100 \u03bcm), despite matching the transition locations.",
+  "The roughness amplification model was implemented in the open-source CFD code OpenFOAM and calibrated using experimental data.",
+  "The study conducted verification and validation studies to establish realistic results for predicting roughness-induced flow transition for wind turbine applications.",
+  "The results from the first part of the study showed that the newly developed CFD model, calibrated with the measured transition locations, can accurately predict the aerodynamic forces for airfoils with leading-edge roughness heights on the order of 140-200 \u03bcm."
+]
