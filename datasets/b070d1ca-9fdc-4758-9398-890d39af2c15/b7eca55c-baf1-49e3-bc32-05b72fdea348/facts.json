@@ -1,0 +1,12 @@
+[
+  "The Brownian thermal noise in the dielectric coatings of mirrors is currently a limit for fixed spacer Fabry-Perot used in optical clock experiments and is estimated to be the dominant noise source in the most sensitive band of modern gravitational wave detectors.",
+  "The authors assume the coating material to be isotropic, and therefore study thermal noises arising from shear and bulk losses of the coating materials.",
+  "The thickness fluctuations of different layers are statistically independent, but there exists a finite coherence between layers and the substrate-coating interface.",
+  "When the coating thickness is much less than the beam spot size, the only significant contribution to the refractive index fluctuations arises from longitudinal (thickness) fluctuations.",
+  "The non-zero photoelastic coefficients of the thin films modify the influence of the thermal noise on the laser field.",
+  "The authors show that coating noise arises not only from layer thickness fluctuations, but also from fluctuations of the interface between the coating and substrate, driven by internal fluctuating stresses of the coating.",
+  "The authors introduce the loss angles of isotropic coating materials, \u03c6_B and \u03c6_S, associated with the dissipation of expansion energy density and shear energy density, respectively.",
+  "The combination of \u03c6_B and \u03c6_S that enters the thermal noise formula differs significantly from the combination \u03c6_\u2225 + 2\u03c6_\u22a5 that has been measured by previous ring-down experiments.",
+  "The authors show that the thickness fluctuations and the fluctuations of the coating-substrate interface are driven by both bulk and shear fluctuations in the coating.",
+  "The authors provide intuitive interpretations of the cross spectra of the various components of the coating structure fluctuation, thereby obtaining the full formula for coating thermal noise, taking light penetration into account."
+]
