@@ -1,0 +1,20 @@
+[
+  "Dynamic compression",
+  "Variable-to-variable compression",
+  "Word-based compression",
+  "Patricia tree",
+  "Dense codes",
+  "Sequence detection",
+  "Repetitive text",
+  "Compression ratio",
+  "Compression performance",
+  "Decompression performance",
+  "Memory usage",
+  "Suffix array",
+  "Longest common prefix",
+  "Lempel-Ziv",
+  "Arithmetic coding",
+  "PPM modeling",
+  "Huffman coding",
+  "Searchable compression"
+]
