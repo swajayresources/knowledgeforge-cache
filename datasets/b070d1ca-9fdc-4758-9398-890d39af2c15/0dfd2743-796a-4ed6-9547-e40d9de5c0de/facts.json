@@ -1,0 +1,17 @@
+[
+  "The Hodograph method can transform the nonlinear fluid dynamic equations into linear equations.",
+  "The well-known Karman-Tsien formula was obtained from the Hodograph equation.",
+  "The Hodograph method started to be used in the inverse problem of fluid dynamics, such as the design problem, in the 1970s.",
+  "The researchers at Tsinghua University conducted systematic research on the Hodograph method in the 1980s and made significant progress.",
+  "The various analytical solutions of the Hodograph Mixed-Type equation have limits on the boundary conditions, restricting their application scope.",
+  "The researchers presented a new analytical solution of the Hodograph Mixed-Type equation that corresponds to parabolic coordinates, allowing for a curved mean streamline.",
+  "The researchers' method for designing transonic turbine and compressor cascades using the Hodograph method applies the numerical solution of the Chaplygin equation to the subsonic area and the analytical solution of the Hodograph Mixed-Type equation to the supersonic area.",
+  "The researchers presented a method to design the profile by specifying the location of the shock wave and compared the designed shock wave location with experimental results.",
+  "The researchers obtained the basic equations of the three-dimensional Hodograph method, including the streamfunction equation and the integral equations for returning from the Hodograph to the physical surfaces.",
+  "The researchers presented the Hodograph equation and the integral equations for returning from the Hodograph to the revolutionary surface, as well as an analytical solution of the Hodograph Mixed-Type equation corresponding to the revolutionary surface.",
+  "The design parameters used in the example of the transonic turbine cascade design on the revolutionary surface were: r = 1.29, M\u221e = 0.2238, \u03b80 = 0\u00b0, T0 = 1490 K, \u03b82 = 73\u00b0, M2 = 1.15, R0 = 300 mm, and \u03b11 = 26.56\u00b0.",
+  "The researchers identified that the Hodograph method has some restricted conditions in application for designing transonic turbine and compressor cascades, but it is suitable for both transonic turbine and compressor cascades.",
+  "The researchers noted that the three-dimensional Hodograph method will be further developed after obtaining the basic equations.",
+  "The researchers presented the differences among various analytical solutions of the Hodograph Mixed-Type equations and their application conditions, showing that the differences are obvious.",
+  "The researchers presented the application scope of the four nozzle-solutions of the Hodograph method in Table 1."
+]
