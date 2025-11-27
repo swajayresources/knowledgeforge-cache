@@ -1,0 +1,15 @@
+{
+  "paper_id": "df56aed6-da11-4127-997f-974788b4a32a",
+  "title": "Compressor and Turbine Matching",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df56aed6-da11-4127-997f-974788b4a32a/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df56aed6-da11-4127-997f-974788b4a32a/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df56aed6-da11-4127-997f-974788b4a32a/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/df56aed6-da11-4127-997f-974788b4a32a/keywords.json"
+  ]
+}
