@@ -1,0 +1,17 @@
+[
+  "The nominal composition of the RR1000 superalloy is Ni-15Cr-18.5Co-5Mo-3Al-3.6Ti-2Ta-0.5Hf-0.06Zr-0.03C-0.015B-0.5Si (in wt.%).",
+  "The mean thickness of the surface oxide scale (chromia + rutile) was 2.0 \u00b1 0.2 \u03bcm, and the alumina depth was 4.3 \u00b1 1.4 \u03bcm, adding up to a total oxidation damage depth of 6.3 \u03bcm.",
+  "The APT analysis revealed that the chemical composition of the chromia scale was 23 at.% Cr, 11 at.% Al, 5 at.% Ni, and 1 at.% Ti.",
+  "The Ti concentration in the bulk chromia scale was around 1 at.%, while it was around 4 at.% at the grain boundaries.",
+  "The authors estimated that the thickening rate in the polycrystalline scale due to outward diffusion of Ti through the grain boundaries was 3.77\u00d710^-12 m/s, which would add about 0.3 \u03bcm of rutile in 24 hours.",
+  "Chromia (Cr2O3) can exhibit different semiconductor behavior depending on the oxygen partial pressure (PO2): p-type at high PO2, intrinsic at intermediate PO2, and n-type at low PO2.",
+  "Cations with a lower valence than Cr3+ (e.g., Ni2+) will reduce the concentration of negatively charged defects in p-type chromia, leading to slower oxide scale growth, while cations with a higher valence (e.g., Ti4+) will increase the concentration of negatively charged defects, leading to faster oxide scale growth.",
+  "The authors noted that the diffusion modeling did not include the effect of scale growth or multicomponent diffusion, which are challenging problems, and only considered the outward diffusion of Ti without accounting for the inward diffusion of oxygen or the depletion of other alloying elements.",
+  "The authors suggest that the coupling of atomistic-resolution characterization of oxide scales with diffusion modeling methods can open new avenues for improved oxidation lifing models of engineering components.",
+  "Atom probe tomography provided the spatial and chemical resolution required to quantify the differences in Ti concentration between the grain boundaries and the bulk of the chromia scale, which could not be observed using lower-resolution techniques like SEM-EDX.",
+  "The authors found that the deleterious effect of Ti on the oxidation resistance of the superalloy is directly correlated to the segregation of Ti to the grain boundaries in the chromia scale, leading to enhanced outward diffusion of Ti and faster oxide scale growth.",
+  "The presence of rutile in the oxide scale was confirmed through XRD, and the authors used isotopic abundances to deconvolute the contribution of TiO2 and O to the peak.",
+  "The authors noted that literature on oxidation modeling is largely focused on oxygen ingress and subsurface elemental depletion, but not on the outward diffusion of alloying elements.",
+  "The authors used the diffusivities of Mn in Cr2O3 and Cr2O3 grain boundaries as an approximation for the diffusivity of Ti, as no data on Ti diffusivity in chromia were found.",
+  "The authors estimated the grain size of the chromia scale to be around 300 nm, with 10 nm wide grain boundaries, based on the APT data."
+]
