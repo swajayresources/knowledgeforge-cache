@@ -1,0 +1,1 @@
+This paper presents the research progress on the Hodograph method of aerodynamic design at Tsinghua University. The Hodograph method is used to solve the transonic flow equation and design transonic turbine and compressor cascades. The paper also discusses the development of the three-dimensional Hodograph method and its application to revolutionary surface aerodynamic design.
