@@ -1,0 +1,12 @@
+[
+  "The Reynolds number range covered in the experiments is 10,000 to 172,000, based on inlet velocity and axial chord.",
+  "The freestream turbulence intensity ranges from 0.08% to 4% in the experiments.",
+  "The intermittency transport model reproduces the streamwise intermittency distribution of Dhawan and Narasimha and also produces a realistic variation of intermittency in the cross-stream direction.",
+  "For the Re=86,000, FSTI=1% case, the computations underpredict the extent of the separation bubble compared to the experiments.",
+  "For the Re=172,000 case, the computations underpredict the total pressure loss coefficient compared to the experiments for both FSTI=1% and FSTI=4%.",
+  "The onset of separation location moves upstream with decreasing freestream turbulence intensity, and the separated flow region becomes smaller with increasing Reynolds number.",
+  "At Re=100,000, the flow separates at x/Cx=0.725 and transitions and reattaches around x/Cx=0.80 in the computations.",
+  "At Re=50,000, the separation bubble extends until x/Cx~0.93 in the computations, compared to x/Cx~0.975 in the experiments.",
+  "The intermittency model is able to accurately predict the velocity profiles in the separated and transitional regions for the different flow conditions.",
+  "The computations show that the cascade losses decrease as the Reynolds number increases from 25,000 to 50,000, due to the reduction in the size of the separated flow region."
+]
