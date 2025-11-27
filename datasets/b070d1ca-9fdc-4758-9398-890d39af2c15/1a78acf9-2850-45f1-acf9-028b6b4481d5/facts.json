@@ -1,0 +1,17 @@
+[
+  "/,,,v-o NASA Technical Memorandum 106954 J ' > Effect of Velocity and Temperature Distribution at the Hole Exit on Film Cooling of Turbine Blades Vijay K",
+  "Gaugler Lewis Research Center Cleveland, Ohio Prepared for the 40th Gas Turbine and Aeroengine Congress and Exposition sponsored by the American Society of Mechanical Engineers Houston, Texas, June 5-8, 1995 N95-30702 VELOCITY AND",
+  "TEMPERATURE (NA 3A-TM-I06954) EFFECT OF L)ISTRI_UTTON AT THE HOLE EXIT ON FIL_ CODLINS OF TURBINE I_LA_ES Unclas Nalional Aeronautics and (NASA",
+  "Le_is R_s_)3rch C_nter) IA, Space Administration 0056578 EFFECT OF VELOCITY AND TEMPERATURE DISTRIBUTION AT THE HOLE EXIT ON FILM COOLING OF TURBINE BLADES Vijay K",
+  "Garg1 AYT Corporation Brookpark, OH Raymond E",
+  "Gaugler 1 Turbomachinery Flow PhysicsBranch Internal Fluid Mechanics Division NASA Lewis Research Center Mail Stop 5-11, Cleveland, OH ABSTRACT M Mach number An existing three-dimensional Navier-Stokes code (Amone et p pressure al",
+  ", 1991), modified to include film cooling considerations (Garg PD penetration distance (Crawford's model) and Gaugler, 1994), has been used to study the effect of coolant r coolant hole radius (= d/2) velocity and temperature distribution at the hole exit on the heat Re Reynolds number based on the true chord length transfer coefficient on three film-cooled turbine blades, namely, s distance from the leading edge along the pressure or the C3X vane, the VKI rotor, and the ACE rotor",
+  "coordinates of the center of hole exit on the blade surface Moreover, Mayle's transition criterion (Mayle, 1991), Forest's T temperature model for augmentation of leading edge heat transfer due to free- Tu turbulent intensity stream turbulence (Forest, 1977), and Crawford's model for U main-flow velocity augmentation of eddy viscosity due to film cooling (Crawford et V coolant velocity at any point within the hole exit al",
+  ", 1980) are used",
+  "It is found that, in some cases, the surface effect of distribution of coolant velocity and temperature at the z distance along the span hole exit can be as much as 60% on the heat transfer coefficient boundary layer thickness at the blade suction surface, and 50% at the pressure surface",
+  "eu eddy diffusivity for momentum Also, different effects are observed on the pressure and suction 7 ratio of specific heats surface depending upon the blade as well as upon the hole shape, rl,_ coordinates from the center of hole exit (see equation 1) conical or cylindrical",
+  "v kinematic viscosity p density NOMENCLATURE 0 momentum thickness a,b semi-axes of the ellipse describing the hole exit on the blade surface Subscripts ao-a3 coefficients in equation (1) 1 at inlet B, blowing ratio [= (pcVc)/(p",
+  "U_)] 2 at exit c true chord of the blade c for coolant (average value) CF coefficient in equation (2) e edge of boundary layer d coolant hole diameter m maximum value h heat transfer coefficient based on (To-T,,) n corresponding to uncooled blade h",
+  "standard value (= 1135",
+  "6 W/m:-K = 200 Btu/hr-ft2-R) o stagnation value k von Karman constant w at the blade surface Q mixing length o_ local free-stream value L length of the injection pipe _Fellow ASME 1"
+]
