@@ -1,0 +1,17 @@
+[
+  "The most sensitive measurements of time and space are made with resonant optical cavities, and these measurements are limited by coating thermal noise.",
+  "The mechanical and optical performance requirements placed on coating materials, especially for interferometric gravitational wave detectors, have proven extremely difficult to meet.",
+  "The authors generalize previous work on thermal noise in two-material coatings to an arbitrary multi-material stack.",
+  "The authors develop a means of estimating absorption in these multi-material coatings.",
+  "The baseline 20-layer SiO2-Ta2O5 coating has a transmission of 0.1% and an absorption of 0.5 ppm.",
+  "Replacing the high-index material below the top 3 coating doublets with MOA, which has a lower Young's modulus and mechanical loss, reduces the Brownian noise to 70% of the baseline.",
+  "A coating with 4 SiO2-Ta2O5 doublets and 3 SiO2-MOB doublets has less than 70% of the Brownian noise of the baseline coating and only 0.8 ppm absorption.",
+  "The high refractive index of MOB means that fewer and thinner layers are needed relative to Ta2O5 to produce the same transmission.",
+  "The authors' examples show that a high-index material with low mechanical loss, but not necessarily low optical absorption, can be used to make lower noise coatings.",
+  "The material properties of a given coating layer depend not only on its constituents, but also on the manufacturing process.",
+  "The authors' expressions are related to those of previous works, with some differences in notation and conventions.",
+  "The authors ignore several correction factors, such as the thick coating correction and finite size test-mass corrections, to keep the formalism simple.",
+  "The sensitivity of the coating reflection phase to a change in layer thickness is given by a recursive relation.",
+  "The total optical absorption for the coating is calculated by summing the absorption in each layer, weighted by the power attenuation.",
+  "The authors' key conclusion is that the search for coating materials should focus on a pallet of materials that can be used together, rather than a single material that satisfies all requirements."
+]
