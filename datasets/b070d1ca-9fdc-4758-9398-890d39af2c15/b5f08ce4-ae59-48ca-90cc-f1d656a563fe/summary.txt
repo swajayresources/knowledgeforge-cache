@@ -1,0 +1,1 @@
+This paper describes the aerodynamic design of a transonic fan/compressor rotor, called the Phase III rotor, which was designed to have a steeper average suction surface angle in the supersonic region ahead of the shock compared to a baseline rotor. This was done to reduce shock losses while maintaining sufficient throat area to pass the desired flow.
