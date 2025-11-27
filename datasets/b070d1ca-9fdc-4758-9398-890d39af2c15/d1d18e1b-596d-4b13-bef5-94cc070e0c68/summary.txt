@@ -1,0 +1,1 @@
+This paper presents the aerodynamic performance analysis of a compact, high work-factor centrifugal compressor at both the stage and subcomponent level. The results show the stage performance and stability were lower than the design intent, with differences observed between predicted and measured impeller efficiency, flow characteristics, and diffuser loss.
