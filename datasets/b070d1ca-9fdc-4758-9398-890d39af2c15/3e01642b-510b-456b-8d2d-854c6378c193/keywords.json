@@ -1,0 +1,17 @@
+[
+  "EEG",
+  "iEEG",
+  "neural compression",
+  "quantized autoencoder",
+  "high-fidelity reconstruction",
+  "signal-to-noise ratio",
+  "seizure detection",
+  "motor imagery",
+  "STFT-based discriminator",
+  "cross-modal compression",
+  "mixed-modal compression",
+  "compression ratio",
+  "percentage root-mean-square distortion",
+  "downstream task performance",
+  "expert evaluation"
+]
