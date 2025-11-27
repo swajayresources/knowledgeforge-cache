@@ -1,0 +1,1 @@
+This paper demonstrates the first additively manufactured ultra-high vacuum (UHV) chamber that reaches pressures below 10^-10 mbar, with a mass less than one third of industry standard equivalents. The chamber is used to trap a cloud of cold 85Rb atoms, showing its suitability for quantum technologies.
