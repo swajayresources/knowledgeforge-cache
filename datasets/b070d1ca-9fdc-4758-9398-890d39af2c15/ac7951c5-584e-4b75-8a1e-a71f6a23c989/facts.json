@@ -1,0 +1,17 @@
+[
+  "The turbine blade of the Space Shuttle Main Engine (SSME) is made of the single-crystal superalloy PWA 1480 and is directionally cast such that the [001] crystallographic direction (primary orientation) is offset from the span direction by no more than 10\u00b0.",
+  "The thermal gradient through the thickness of the SSME turbine blade can be as high as 875\u00b0C/cm, while the gradient along the span is much milder.",
+  "The plate dimensions used in the finite element analysis were 25.4 mm \u00d7 25.4 mm \u00d7 3.2 mm, representing the wall thickness of the hollow core blade's airfoil-shank region.",
+  "The finite element model consisted of 500 isoparametric eight-noded solid elements with 1040 nodes.",
+  "The thermal boundary conditions imposed in the analysis were representative of the full power level conditions experienced by the SSME turbine blade, with temperatures ranging from 449\u00b0C to 760\u00b0C.",
+  "The stiffness coefficient matrices for the various primary orientations (0\u00b0 to 10\u00b0 in 2\u00b0 increments) and the selected secondary orientations (0\u00b0 and 45\u00b0) were incorporated into the finite element calculations.",
+  "The stresses were analyzed at three specific elements (295, 445, and 245) to capture the true effects of the loading conditions and not the effects of the thermal and mechanical constraints.",
+  "Under mechanical loading, the variations in the individual and normalized stress components with the primary orientation angle were not found to be significant.",
+  "Under thermal loading along the X-direction, the magnitudes of the \u03c3yy and \u03c3zz stress components were 41% and 29% larger, respectively, for the 45\u00b0 secondary orientation compared to the 0\u00b0 orientation.",
+  "Under combined thermal (along X-direction) and mechanical loading, the influence of the primary orientation angle on the stress components was found to be small, with the magnitudes of \u03c3yy and \u03c3zz being 41% and 29% larger, respectively, for the 45\u00b0 secondary orientation compared to the 0\u00b0 orientation.",
+  "The influence of the primary orientation angle, when constrained between 0\u00b0 and 10\u00b0, on the elastic stresses generated within the single-crystal PWA 1480 is substantially lower than the influence of the secondary orientation angle, which is not typically controlled.",
+  "The thermal gradient through the thickness of the plate produced much larger stresses than the gradient along the length (primary orientation of [001]) of the plate.",
+  "The temperature bounds used in the current analysis were in agreement with the temperature range used in a previous investigation by Lee et al. (1991).",
+  "The choice of the plate dimensions was based on convenience and simplicity, except for the thickness, which represented the wall thickness of the hollow core blade's airfoil-shank region.",
+  "The stress analyses were conducted by running a heat transfer analysis followed by a subsequent elastic stress analysis to ensure equilibrium and avoid rigid body motion."
+]
