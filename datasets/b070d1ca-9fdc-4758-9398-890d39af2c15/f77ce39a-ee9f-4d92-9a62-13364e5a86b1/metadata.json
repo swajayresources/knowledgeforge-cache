@@ -1,0 +1,15 @@
+{
+  "paper_id": "f77ce39a-ee9f-4d92-9a62-13364e5a86b1",
+  "title": "Extending Jacobian matrix in proving stability for nonlinear systems with one equilibrium point such as compressor",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f77ce39a-ee9f-4d92-9a62-13364e5a86b1/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f77ce39a-ee9f-4d92-9a62-13364e5a86b1/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f77ce39a-ee9f-4d92-9a62-13364e5a86b1/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/f77ce39a-ee9f-4d92-9a62-13364e5a86b1/keywords.json"
+  ]
+}
