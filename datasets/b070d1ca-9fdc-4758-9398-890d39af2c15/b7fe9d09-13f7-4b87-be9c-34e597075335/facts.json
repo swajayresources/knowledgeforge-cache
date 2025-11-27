@@ -1,0 +1,17 @@
+[
+  "The experiments were conducted on a scaled-down model of a single-bladed H-type Darrieus wind turbine in a recirculating water channel.",
+  "The turbine blade had a NACA0018 profile, a chord of 6 cm, and a span of 15 cm, resulting in a chord-to-diameter ratio of 0.2.",
+  "The experiments were performed at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "The pitching axis of the blade was set at the quarter-chord position, with d = -1/4.",
+  "The unsteady blade loads were measured using twenty strain gauges forming five full Wheatstone bridge channels on the blade shaft.",
+  "The Greenberg model predicts the radial force coefficient well during the upwind portion of the cycle, including the maximum value, even for the low tip-speed ratio case where dynamic stall occurs.",
+  "The Greenberg model deviates from the experimental results once the effective angle of attack exceeds the critical stall angle and during the downwind portion of the cycle due to flow separation and blade-wake interactions.",
+  "For higher tip-speed ratios, the Greenberg model accurately predicts the maximum radial load coefficient and its timing, but fails during the downwind portion of the cycle.",
+  "The proposed method can be readily extended to any airfoil undergoing an arbitrary combination of pitching, surging, and heaving, following a kinematic profile that can be approximated by a Fourier series.",
+  "The authors used N = 8 Fourier terms to accurately fit the effective angle of attack and free-stream velocity variations for tip-speed ratios greater than or equal to 1.2.",
+  "The static stall angle of the NACA0018 airfoil used for the turbine blade was 13.1\u00b0 at a Reynolds number of 50,000.",
+  "The inertial centripetal force of the turbine was quantified by operating the turbine in air and removing the results from the measured signal to obtain the aerodynamic load responses.",
+  "The experimental data was phase-averaged over 100 cycles and conditioned using a low-pass filter with a cut-off frequency of 30 Hz.",
+  "The maximum value of the radial force coefficient was well predicted by the Greenberg model, but its timing was not for the low tip-speed ratio case.",
+  "During the downwind portion of the cycle, the magnitude of the experimental radial force coefficient was lower than predicted by the Greenberg model due to blade-wake interactions."
+]
