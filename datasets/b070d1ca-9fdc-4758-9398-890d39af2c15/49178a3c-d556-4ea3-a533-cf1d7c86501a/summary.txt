@@ -1,0 +1,1 @@
+The paper investigates the aerodynamic performance of a fully film-cooled core turbine vane tested in a two-dimensional cascade. It compares the performance of the cooled vane to an uncooled vane and examines the effects of using a single cooled vane versus three cooled vanes in the cascade.
