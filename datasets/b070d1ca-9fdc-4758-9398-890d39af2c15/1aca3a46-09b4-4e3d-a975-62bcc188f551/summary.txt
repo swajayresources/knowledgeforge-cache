@@ -1,0 +1,1 @@
+This paper describes the design, analysis, and experimental evaluation of a transpiration-cooled single-stage axial flow turbine component capable of operating at an average turbine inlet temperature of 2500°F. The goal was to develop a turbine stage suitable for a gas generator with an 8-10 pressure ratio compressor and 4 lb/s airflow.
