@@ -1,0 +1,1 @@
+This paper presents the development of a silicon-based micro gas turbine engine for power generation, including the design and fabrication of a micro combustor and micro turbine. The micro combustor can sustain stable combustion with an exit temperature up to 1600 K, and the micro turbine has achieved a rotation speed of 15,000 rpm.
