@@ -1,0 +1,17 @@
+[
+  "The test section had a 3-leg serpentine channel with a square cross-section of 6.67 x 6.67 cm in the first two legs, and 6.67 x 3.3 cm in the third leg.",
+  "Rounded trip strips were attached to the lower surface, spaced 5.08 cm apart and oriented 90 degrees to the airflow.",
+  "The rib height-to-channel height ratio was 0.076 and the rib pitch-to-height ratio was 10.",
+  "Eight 0.38 cm diameter bleed holes were drilled into the lower surface of the first leg, spaced 5.08 cm apart.",
+  "Heat transfer measurements were obtained using a transient liquid crystal technique.",
+  "Four bleed flow conditions were tested: no bleed, uniform bleed, increasing bleed, and decreasing bleed.",
+  "The bleed flow rates ranged from 5-10% of the total inlet mass flow.",
+  "Placing the ribs near the bleed holes (0.51 cm upstream) resulted in greater heat transfer enhancement compared to ribs placed between the bleed holes.",
+  "Higher bleed flow rates yielded higher heat transfer values near and away from the bleed holes.",
+  "Increasing the Reynolds number from 31,000 to 96,000 decreased the Nusselt number ratio slightly.",
+  "The highest heat transfer occurred on the top surface of the rib and downstream of the bleed hole.",
+  "Static pressure changed little through the first passage and first turn, then began to decrease halfway down the second passage.",
+  "The average cross-sectional air temperatures remained fairly constant along the first passage, with a noticeable increase between the first and second passages.",
+  "Spanwise temperature variations were generally greater than streamwise variations.",
+  "The uncertainty in the heat transfer coefficients ranged from 8 to 13 percent."
+]
