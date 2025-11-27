@@ -1,0 +1,17 @@
+[
+  "The gas turbine diagnostic system is designed for simulation and control of gas turbine units, protection and simulation of automatic control functions, and adjustment and stabilization of process variables.",
+  "The simulation model reflects the main functionality and dependencies between the essential characteristics and key parameters of the gas turbine process.",
+  "The simulation system can be used to create optimal schedules for equipment operation according to a production plan.",
+  "The three-level hierarchy of the simulation system includes SCADA software, PLC software, and VISSIM simulation software.",
+  "The lower level VISSIM simulation models pressure and temperature sensors, lube and seal oil pumps, cooling fans, and other field equipment.",
+  "The transfer functions for the gas turbine model were identified by analyzing data from a real GTK 10i gas turbine unit at the Chizha compressor station.",
+  "The simulation system can be used to test and debug the control algorithms for the gas turbine main and auxiliary equipment, as well as the SCADA system functionality.",
+  "The simulation model was developed using version 5.0 of the VISSIM (Visual Simulation) software package.",
+  "The paper references literature on prediction models, foreign gas turbines, energy equipment maintenance, mathematical modeling, and gas compression station maintenance.",
+  "The gas turbine diagnostic system has a modular software architecture with three hierarchical levels.",
+  "The system can be used to train compressor station personnel on the principles of operation of the gas turbine control system.",
+  "The simulation model was developed based on analysis of data from a real GTK 10i gas turbine unit.",
+  "Dynamic Data Exchange (DDE) protocol is used to transmit data between the hierarchical levels of the simulation system.",
+  "The simulation system can be used to test and optimize the software for gas turbine automation systems.",
+  "The adequacy of the mathematical model to the real gas turbine process is a critical factor for successful diagnostics and optimization."
+]
