@@ -1,0 +1,1 @@
+This paper explores the feasibility of using Laser Engineered Net Shape (LENS) technology to repair single-crystal nickel superalloy turbine blades. The study examines the effects of deposition parameters, surface preparation, and crystallographic orientation on the microstructure and integrity of the deposits.
