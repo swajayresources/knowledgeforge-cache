@@ -1,0 +1,17 @@
+[
+  "The paper proposes an automatic workflow for assessing damage on gas turbine blades using deep learning-based instance segmentation on borescope video feeds.",
+  "The workflow can track individual blades across frames and extract damage statistics for each blade, enabling a more comprehensive assessment compared to manual inspection.",
+  "The neural network architecture used is Mask R-CNN with a ResNet50-FPN backbone, and the PointRend module is incorporated to improve segmentation accuracy.",
+  "The algorithm for tracking blades across frames assumes a high frame rate relative to the blade rotation speed and that blades travel approximately horizontally.",
+  "Damage is quantified as a fraction of the projected area of the blade visible in each frame, allowing for a comprehensive assessment across the full blade trajectory.",
+  "A post-processing step involving high-pass filtering, masked erosion, and thresholding is introduced to improve the detection of small surface damage marks.",
+  "Out of 4,881 video frames, 104 images were manually labeled and used for training (89 images) and testing (15 images).",
+  "The training loss continued decreasing with more iterations, but the testing loss started increasing after around 200 iterations, indicating overfitting.",
+  "The detection quality improved when comparing the network at a later stage of training (2,000 iterations) to an earlier stage (500 iterations).",
+  "The mean average precision (mAP) and mean matched IoU are used as performance metrics for the instance segmentation network.",
+  "The mAP score increased significantly as the network was trained for more iterations, while the mean matched IoU remained relatively constant.",
+  "The paper aims to classify multiple types of damage, including surface damage, material separation, and material deformation, unlike previous work that focused on only a single type of damage.",
+  "The paper also aims to deduce the structure of the scene by separately identifying multiple blades, unlike previous work that only performed semantic segmentation.",
+  "The introduction of the post-processing step helps address the challenge of detecting small surface damage marks on the blades, which are difficult to identify through manual inspection.",
+  "The automatic workflow proposed in the paper can remove human biases, enable faster decision-making, and quantify uncertainty via confidence scores, compared to manual borescope inspections."
+]
