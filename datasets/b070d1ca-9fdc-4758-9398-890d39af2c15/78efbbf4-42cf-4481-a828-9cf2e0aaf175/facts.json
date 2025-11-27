@@ -1,0 +1,17 @@
+[
+  "The material investigated was a new high gamma-prime content polycrystalline nickel-based alloy, referred to as Alloy 11.",
+  "The as-forged microstructure of Alloy 11 exhibited a trimodal distribution of gamma-prime precipitates: primary (mean size 430 nm), secondary (mean size 76 nm), and tertiary (mean size 25 nm).",
+  "In-situ heating of the thin TEM lamella samples was performed in a STEM from room temperature up to 1150\u00b0C, with EELS analysis conducted at each temperature step.",
+  "The dissolution of the tertiary gamma-prime precipitates was observed to initiate at lower temperatures than the secondary gamma-prime precipitates.",
+  "The authors used the Gibbs-Thomson relation and the reversed-growth approximation to explain the faster dissolution of the smaller tertiary gamma-prime precipitates compared to the larger secondary gamma-prime precipitates.",
+  "The EELS data analysis employed a model-based quantification approach to improve accuracy, incorporating plural scattering effects while excluding the analysis of electron loss near-edge fine-structure (ELNES) features.",
+  "The in-situ STEM-EELS approach provided high-resolution local information on the compositional evolution of the different gamma-prime precipitate populations during heating.",
+  "The findings have important implications for optimizing heat treatment schedules to maintain the desired microstructure and properties of nickel-based superalloys.",
+  "The authors noted that the small interaction volume and reduced diffusion paths in the thin TEM samples may have led to accelerated diffusional phenomena compared to the bulk material.",
+  "The observations of the different dissolution behavior of secondary and primary gamma-prime precipitates were consistent with previous studies using techniques like differential thermal analysis.",
+  "The material analyzed was obtained from a pancake forging of Alloy 11, produced by isothermally forging a powder isostatic pressed cylindrical compact.",
+  "The thin TEM lamella samples were prepared using a focused ion beam (FIB) system with an optimized thinning technique to minimize FIB-induced damage.",
+  "The in-situ heating experiments were performed using a DENSsolutions heating chip mounted on a 45\u00b0 pre-tilted support, with temperature accuracy better than 5%.",
+  "The STEM-EELS analysis was carried out using a probe-corrected JEOL ARM200CF microscope operated at 200 kV, with a Gatan Quantum Dual EELS spectrometer.",
+  "The EELS data analysis and quantification were performed using the Gatan Microscopy Suite (GMS) software, with model-based quantification to improve accuracy."
+]
