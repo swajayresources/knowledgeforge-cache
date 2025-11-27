@@ -1,0 +1,1 @@
+This paper describes the development and verification of computational fluid dynamics (CFD) techniques for predicting heat transfer and pressure drop within the coolant passages of rotating turbine blades. The Pratt & Whitney 3D-TEACH CFD code was selected and modified to account for rotational effects, and the results were compared against benchmark experimental data.
