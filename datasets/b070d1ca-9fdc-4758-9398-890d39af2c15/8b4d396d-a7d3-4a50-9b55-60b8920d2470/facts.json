@@ -1,0 +1,17 @@
+[
+  "Wind turbines provided almost 8.4% of the total generated electricity in the United States in 2020.",
+  "More than 700,800 wind turbines are running across 44 states in the United States.",
+  "The authors used SolidWorks 2021 to design 3D models of the wind turbine blades with 40 different defect variations.",
+  "The authors used the Unity Perception Package to capture synthetic images with variations in background, camera angle, and lighting effects.",
+  "The authors trained a U-Net model, a popular convolutional neural network for image segmentation, using the synthetic images and their corresponding semantic segmentation ground truth labels.",
+  "The authors obtained a Dice Coefficient of 0.658 for the U-Net model, indicating moderate segmentation accuracy.",
+  "The Dice Loss function is calculated as 1 - Dice Coefficient, where the Dice Coefficient measures the overlap between the predicted segmentation mask and the ground truth mask.",
+  "The authors plan to work on improving the U-Net model for better segmentation accuracy and adding a classification module.",
+  "The authors also plan to investigate the approach using a wider range of defects and real wind turbine images.",
+  "The proposed approach can generate a large volume of synthetic training data, which is useful when real-world data is limited or expensive to obtain.",
+  "The proposed approach allows for automated and efficient defect detection, reducing the time and cost of manual inspections.",
+  "The authors used Google Colab for model training and testing.",
+  "The authors used the Adam optimizer, a well-known optimization algorithm for deep neural network training.",
+  "The authors divided the dataset into 75% for training and 25% for testing.",
+  "The authors trained the U-Net model for 100 epochs."
+]
