@@ -1,0 +1,15 @@
+{
+  "paper_id": "afb4f52f-91cc-4bf1-98b7-0d5fb59323bd",
+  "title": "Fabrication of Turbine Disk Materials by Additive Manufacturing",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/afb4f52f-91cc-4bf1-98b7-0d5fb59323bd/summary.txt",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/afb4f52f-91cc-4bf1-98b7-0d5fb59323bd/qa_pairs.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/afb4f52f-91cc-4bf1-98b7-0d5fb59323bd/facts.json",
+    "datasets/b070d1ca-9fdc-4758-9398-890d39af2c15/afb4f52f-91cc-4bf1-98b7-0d5fb59323bd/keywords.json"
+  ]
+}
