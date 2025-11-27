@@ -1,0 +1,17 @@
+[
+  "The paper revisits the cloud-crushing problem with radiative cooling, where a dense cloud interacts with a diffuse hot wind.",
+  "The authors find that the efficient radiative cooling of the mixed gas in the turbulent boundary layer can lead to the continuous growth of the dense cloud.",
+  "The Gronke-Oh criterion states that cloud growth occurs when the cooling time of the mixed gas is shorter than the cloud-crushing time.",
+  "The Li criterion states that cloud growth occurs when the cooling time of the hot gas is shorter than the predicted cloud lifetime.",
+  "For typical parameters (T_cl = 10^4 K, M = 1.0, \u03c7 = 100, n_cl = 0.1 cm^-3), the Gronke-Oh and Li radii are approximately 1.1 pc and 26.5 pc, respectively.",
+  "The authors' simulations agree with the Gronke-Oh criterion, where cloud growth occurs for cloud sizes larger than the Gronke-Oh radius.",
+  "Clouds smaller than the Gronke-Oh radius are ultimately destroyed, consistent with the Li criterion.",
+  "The authors observe the formation of a turbulent wake with intermediate densities and temperatures, where the cooling of the mixed gas leads to the growth of the dense cloud mass at late times.",
+  "In the absence of cooling, the dense/cold cloud is mixed into the hot wind over a few cloud-crushing timescales.",
+  "With cooling, larger clouds (a few times the Gronke-Oh radius) show a late-time increase in dense mass as the mixed gas in the boundary layer cools and accretes onto the cloud.",
+  "The simulation domain should be large enough that the mixed gas in the turbulent boundary layer is not lost through the boundaries.",
+  "Higher resolution simulations (up to 64 cells per cloud radius) are able to resolve the small-scale features and fractal-like structure of the turbulent wake more clearly.",
+  "The paper's findings have important implications for understanding the multiphase structure and dynamics of the circumgalactic medium, galactic/AGN outflows, and other astrophysical systems.",
+  "Future work should consider the impact of magnetic fields, thermal conduction, and self-gravity on the cloud-crushing problem with radiative cooling.",
+  "The discrepancy between the Gronke-Oh and Li criteria highlights the need for careful modeling of the radiative cooling processes in these systems."
+]
