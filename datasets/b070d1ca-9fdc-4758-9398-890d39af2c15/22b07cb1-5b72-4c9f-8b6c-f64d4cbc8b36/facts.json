@@ -1,0 +1,17 @@
+[
+  "The nickel-base single crystal superalloy PWA 1480 is a candidate blading material for the advanced turbopump development (ATD) program of the space shuttle main engine (SSME).",
+  "In advanced liquid propellent rocket engines, the turbine blades are subjected to severe thermal gradients, centrifugal loads, and vibratory loads.",
+  "The single crystal superalloy PWA 1480 is grown along the low modulus [001] crystal orientation to improve thermal fatigue resistance.",
+  "Unless a seed crystal is used, the secondary crystal orientation [010] tends to be randomly oriented with respect to the geometry of the turbine blade.",
+  "Cubic single crystal materials like PWA 1480 exhibit anisotropic elastic behavior, so the stresses developed within the material are likely to be affected by the secondary crystallographic orientation.",
+  "Temperature-dependent elastic constants and the thermal coefficient of expansion for single crystal PWA 1480 were determined by Pratt & Whitney under a NASA contract.",
+  "The elastic stiffness matrices for different secondary orientation angles were computed using the simplified method of Liebermen and Zirinsky.",
+  "The finite-element model of the square plate consisted of 500 8-noded, isoparametric elements.",
+  "For the case of a thermal gradient through the thickness of the plate, the secondary orientation angle of 0\u00b0 minimized thermal stresses, while the angle of 45\u00b0 maximized the thermal stresses.",
+  "The variations in the stress components with the secondary orientation angle were dependent on the type of loading (mechanical, thermal, or combined) imposed on the plate.",
+  "The elastic stresses developed within the single crystal PWA 1480 plate were computed with elastic finite-element stress analysis for each combination of loading condition and secondary orientation angle.",
+  "The commercially available MARC code was used to conduct the elastic stress analyses.",
+  "The primary orientation of the square plate was assumed to be along the [001] crystallographic direction.",
+  "The secondary crystallographic orientation was offset with respect to the geometric axes of the square plate from 0\u00b0 to 90\u00b0 in increments of 10\u00b0.",
+  "The square plate had a side length of 25.4 mm and a thickness of 3.2 mm."
+]
