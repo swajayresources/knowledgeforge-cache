@@ -1,0 +1,17 @@
+[
+  "The reversible logic gate is utilized to optimize power consumption by a feature of retrieving input logic from an output logic because of bijective mapping between input and output.",
+  "The proposed inventive0 gate has a hardware complexity of 7\u03b1+4\u03b2+3\u03b4 and a quantum cost of 10.",
+  "The proposed 4:2 reversible compressor circuit contains 2 inventive0 gates and has a quantum cost of 20.",
+  "The proposed 5:2 reversible compressor circuit contains 3 inventive0 gates and has a quantum cost of 30.",
+  "The total logical calculation (T) for the 4:2 compressor circuit is 6, and for the 5:2 compressor circuit is 21\u03b1+12\u03b2+9\u03b4.",
+  "The 4:2 compressor circuit generates at least 4 garbage outputs, and the n:2 compressor circuit generates at least (2n-4) garbage outputs.",
+  "The 4:2 compressor circuit requires 2 ancilla inputs, and the n:2 compressor circuit requires at least (n-2) ancilla inputs.",
+  "The proposed compressor circuits outperform existing designs in terms of garbage outputs, number of gates, and quantum cost.",
+  "The compressor can reduce the effect of carry (produced from full adder) in arithmetic frame design.",
+  "The authors implemented basic reversible gates like CNOT, TG, F2G, PG, FRG, BJN, and URG in MOS transistors using the Gate Diffusion Input (GDI) technique.",
+  "The MOS transistor count for the basic reversible gates is provided, showing the efficiency of the GDI-based implementation.",
+  "The compressor structure can be used in low-power circuits, ALUs, and quantum computers.",
+  "The authors propose an algorithm for designing a compressor structure and provide lemmas related to the number of gates, quantum cost, garbage outputs, and ancilla inputs for an n:2 reversible compressor.",
+  "The comparative analysis table shows that the proposed 4:2 compressor circuit outperforms existing designs.",
+  "The authors conclude that the proposed compressor circuits will be useful in low-power VLSI circuit design, arithmetic logic units, and quantum computers."
+]
