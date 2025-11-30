@@ -1,0 +1,1 @@
+This paper presents a deep learning approach to perform plasma tomography using the bolometer system at the Joint European Torus (JET) fusion device. The authors devise an up-convolutional neural network that can accurately reproduce existing tomographic reconstructions, achieving high structural similarity, peak signal-to-noise ratio, and low normalized root mean square error.
