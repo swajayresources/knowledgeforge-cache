@@ -1,0 +1,17 @@
+[
+  "PREPRINT - accepted at IEEE International Conference on Computer Design (ICCD), 2021",
+  "1 QFlow: Quantitative Information Flow for Security-Aware Hardware Design in Verilog Lennart M",
+  "de Abstract\u2014The enormous amount of code required to design cases [5]",
+  "State- mationfromsensitivesignalsflowstowardsoutputsoruntrusted of-the-art methods, such as QIF-Verilog [9], use Quantitative componentsofthesystem",
+  "To address this issue, there are approaches to quantify the information [10] [11]",
+  "INTRODUCTION QIF formulas that removes the possibility of false negative Manysecurityissuesareeithercausedaccidentallybyinex- predictions, while only enabling false positives, as shown perienced hardware designers or by malicious modifications, empirically and iii) User-adjustable input probabilities for the suchashardwareTrojans[1][2]",
+  "In this work, we assume tensive with the increasing design complexity [3], thus not all that the attacker can observe the outputs and the non-secret testcasescanbeelaboratedinareasonabletime",
+  "Additionally, inputs of the selected hardware modules at a random moment theoremprovers[4],propertycheckers,andformalapproaches in time",
+  "A variety of solutions exist working on models and the data that is carried in them [12]",
+  "In most virtualprototypes[5]orRegister-TransferLevel(RTL)[6]\u2013[8] information flow models the system of interest is separated to analyze the flow of information of marked signals, either into two partitions: High (H) and Low (L)",
+  "When labeling the hardware com- onlyguaranteethesecurityofahardwaredesignforgiventest ponents, the trusted components would be labeled H, while 1202 ceD 22 ]RC",
+  "sc[ 2v97320",
+  "9012:viXra PREPRINT - accepted at IEEE International Conference on Computer Design (ICCD), 2021",
+  "2 the remaining components are labeled L",
+  "Quantitative Information Flow The assumptions and appraisals lead to our mathematical Inmanypreviousworks[13][14],thevulnerability,ametric model, called QModel, implemented in our tool QFlow"
+]
