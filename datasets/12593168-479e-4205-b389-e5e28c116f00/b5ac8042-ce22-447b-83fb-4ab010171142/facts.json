@@ -1,0 +1,17 @@
+[
+  "Several hundred lithium fluoride detectors of various types were produced for the measurements, including highly sensitive LiF:Mg,Cu,P (MCP-N) and standard LiF:Mg,Ti (MTS-N) detectors.",
+  "The MCP detectors have a much higher sensitivity compared to the MTS detectors, with a detection threshold below 1 \u03bcGy and the ability to measure doses up to 1 MGy.",
+  "Pairs of 6LiF/7LiF detectors were used to distinguish between the neutron and non-neutron components of the radiation field.",
+  "Sixteen cylindrical polyethylene (PE-300) moderators were used to detect higher energy neutrons.",
+  "The TLD measurements were calibrated in terms of neutron fluence using calibration data from the PTB Thermal Neutron Reference Field at GeNF.",
+  "The neutron fluence varied over more than four orders of magnitude, from around 10^4 n/cm^2 in the labyrinth to over 10^12 n/cm^2 near the tokamak.",
+  "The MTS detectors showed higher measured doses compared to the MCP detectors due to their higher efficiency for detecting high-LET radiation like thermal neutrons.",
+  "The MCNP simulations generally underestimated the measurements in positions close to the machine and overestimated them in positions far from the machine.",
+  "The background neutron fluence was estimated to be around 5x10^5 n/cm^2 for the dosimeters stored in the J1D lab and about half that for the ones in the office.",
+  "The experiences gained from this study will provide a firm basis for implementing TLD technology for area radiation monitoring at ITER to minimize personnel dose.",
+  "A total of 1.21x10^18 neutrons were produced by JET plasmas during the two-week exposure period.",
+  "The MCP detectors have a linear-sublinear dose response, while the MTS detectors have a linear-supralinear response.",
+  "The 6Li-enriched detectors showed a higher dispersion in their measurements due to self-shielding effects.",
+  "The largest discrepancies between the MCNP simulations and measurements were found for the 6Li-enriched TLDs, which have the largest self-shielding effect.",
+  "The orientation of the TLD cylinders with respect to the neutron source was not recorded, which contributed to uncertainties in the shielding and shadowing effects."
+]
