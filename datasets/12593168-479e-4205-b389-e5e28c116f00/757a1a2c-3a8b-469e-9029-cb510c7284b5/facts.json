@@ -1,0 +1,20 @@
+[
+  "Taylora,\u2217, Gareth Conduita aCavendish Laboratory University of Cambridge CB3 0HE UK Abstract We propose an element-agnostic set of descriptors to model superalloy properties with Gaussian pro- cess regression",
+  "Keywords: Superalloys, machine learning, Gaussian process regression, phase composition, microstructure, creep strength, CALPHAD 1",
+  "Introduction Hume-Rotheryfirstdevelopedhiseponymoussetofrulesin1935[1,2]",
+  "Further developments to solubility rules include the Pettifor scale and its 2016 proposed update by Glawe et al [3, 4]",
+  "However, the Calculation of Phase Diagram (CALPHAD) methodology\u2014which has become the industry standard approach due to the promulgation of software such as ThermoCalc\u2014typically relies on thermodynamic models that have been constructed element- by-element, limiting their broad applicability [5, 6, 7]",
+  "Such models have beenusedtomodelNi-basedsuperalloymicrostructures,anddesignhighentropyalloysandsuperalloys foradiverserangeofapplications[8,9,10,11]",
+  "Otherresearchershavetakentheapproachofmapping alloycomponentstophysicaldescriptorsbasedondomainknowledge[12,13,14]",
+  "Thisstrategygreatly improves models trained on small datasets, whereas models trained on suitably large datasets were already able to self-encode the physical descriptions of a system in their latent space [15], see Hart et al (2021) for a thorough review [16]",
+  "Superalloysareprecipitationhardened\u2014theirimportantbulkproperties,suchashigh-temperature creep and yield strength, derive from their two-phase microstructure [17, 18, 19, 20, 21]",
+  "However,eachgenerationofsuperalloyshastypicallyincludedadditionalelements[22], the most recent being the inclusion of ruthenium [23, 24, 25, 26, 27]",
+  "The trend of additional elements improving properties is naturally extended by high-entropy superalloys (HESA) [28, 29, 30, 31, 32]",
+  "\u2217Correspondingauthorat: CavendishLaboratory,UniversityofCambridge,CB30HE,UK",
+  "Email: pt409@cam",
+  "uk Preprint submitted to TBC December 14, 2022 2202 ceD 31 ]ics-lrtm",
+  "tam-dnoc[ 1v55760",
+  "We propose a physics-inspired set of descriptors to describe superalloys that is element-agnostic",
+  "Putting this altogether, we propose representing m -stage heat treatments with the following descriptors: HT (cid:40)(cid:80)j ln(\u03c4 )\u2212ln(T ) , j \u2264m h(cid:48) = k=1 k k HT (1) j 1/T , m <j \u22642m",
+  "3 we show that this set of heat treatment descriptors accurately capture the evolution of the alloys\u2019 microstructures"
+]
