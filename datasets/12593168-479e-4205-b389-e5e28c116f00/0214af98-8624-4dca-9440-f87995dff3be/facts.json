@@ -1,0 +1,17 @@
+[
+  "The paper presents a two-part study on CFD modeling of eroded wind turbine blades.",
+  "Part 1 focuses on developing and calibrating a roughness amplification model to account for the effects of leading edge erosion on boundary layer transition.",
+  "Part 2 applies the model to high-resolution scanned geometries of an actual eroded blade, quantifying the impact on aerodynamic performance and annual energy production.",
+  "The novel aspect of this work is the modeling of high-resolution leading edge surfaces of an actual blade with leading edge erosion damage, captured using 3D scanning technologies.",
+  "The calibrated CFD model showed good agreement of the aerodynamic forces for airfoils with leading-edge roughness heights on the order of 140-200 \u03bcm, but poor agreement for smaller roughness heights on the order of 100 \u03bcm.",
+  "The results from Part 2 indicated that up to a 3.3% reduction in annual energy production (AEP) can be expected when the leading edge shape is degraded by 0.8% of the chord, based on the NREL 5MW turbine.",
+  "Under fully turbulent conditions, the degree of eroded leading edge shapes studied showed a minimal effect on the aerodynamic performances, resulting in a negligible difference to AEP.",
+  "The study used Menter's k-\u03c9 shear stress transport (SST) model with the Langtry-Menter's local correlation-based transition model (SSTLM) as the underlying transition model.",
+  "An additional transport equation for modeling roughness onto the pre-existing SSTLM transition model was implemented, using the roughness amplification quantity (Ar) to generate a region of influence due to the prescribed roughness.",
+  "The verification study on the T3A flat plate case showed that the underlying SSTLM transition model accurately predicts the decay of measured turbulence intensity, but the transition point is predicted earlier than measured.",
+  "The calibration of the roughness amplification model showed good agreement of the aerodynamic forces for airfoils with leading-edge roughness heights on the order of 140-200 \u03bcm, but poor agreement for smaller roughness heights on the order of 100 \u03bcm.",
+  "The EROCOFT T3A (zero pressure gradient) flat plate experiments and Sandia's experimental study (LEES-Dataset) on the NACA 63-418 airfoil were used to validate the underlying transition model.",
+  "The study used the original geometry of Abbott et al. (1945) for the NACA 63-418 airfoil, rather than the B\u00e9zier geometry, as it showed better validation results.",
+  "The calibration of the roughness amplification model was performed for three different roughness heights (100, 140, and 200 \u03bcm) and three different roughness densities (3%, 9%, and 15%) at a Reynolds number of 3.2\u00d710^6.",
+  "The calibration equation for the sand grain roughness height (ks) as a function of roughness height (Rh) and density (RD) was explicitly used to generate the results presented in the paper."
+]
