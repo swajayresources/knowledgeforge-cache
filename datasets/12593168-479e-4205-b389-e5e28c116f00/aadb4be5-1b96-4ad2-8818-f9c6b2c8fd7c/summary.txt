@@ -1,0 +1,1 @@
+This paper presents a learning-based approach for condition monitoring and fault detection in wind turbine blades. It utilizes Principal Components Analysis and Autoencoders to derive data-driven models from sensor measurements, and employs statistical change detection techniques to identify deviations from nominal operation.
