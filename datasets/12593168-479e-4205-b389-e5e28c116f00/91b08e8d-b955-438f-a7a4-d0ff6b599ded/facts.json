@@ -1,0 +1,17 @@
+[
+  "The Glenn-HT code is a general-purpose flow solver designed for simulations of flows in complicated geometries, based on the TRAF3D code.",
+  "The code employs the full compressible Navier-Stokes equations and uses a multi-stage Runge-Kutta scheme to march in pseudo time.",
+  "Convergence acceleration techniques used include local time stepping, implicit residual smoothing, and multigrid methods.",
+  "The k-\u03c9 turbulence model developed by Wilcox is used in the code, as it does not require the computation of the dimensionless wall distance y+.",
+  "The code has been used to simulate flow and heat transfer in a variety of geometries, including rectangular ducts with 180-degree turns, straight channels with ribs and bleed holes, and rotating channels with ribs and 180-degree turns.",
+  "The Method of Weakest Descent (MWD) is an automatic block merging algorithm that aims to produce the minimum number of blocks for a multi-block grid system.",
+  "Tests have shown that the MWD can typically produce a near-optimal number of blocks, with the probability of realizing the actual minimum increasing with repeated applications.",
+  "Structured multi-block grids require less memory and can take full advantage of convergence acceleration schemes compared to unstructured grids.",
+  "The rotating reference frame formulation in the code allows the grid system for the rotating geometry to be stationary, leading to computational savings.",
+  "The code uses inlet conditions specifying total temperature and pressure, exit pressure conditions, and wall conditions enforcing no-slip, specified temperature or heat flux, and special treatments for the turbulence quantities near walls.",
+  "The discretization in the code is formally second-order accurate, and artificial dissipation is added to prevent odd-even decoupling.",
+  "The code has been used for many types of flow fields including turbine blades, tip clearance flows, film cooling holes, and coolant channels.",
+  "The low-Reynolds number k-\u03c9 turbulence model used in the code has been shown to perform well in predicting heat transfer from flat plates and turbine blades.",
+  "The multi-block grid generation approach allows for accurate modeling of the complicated coolant passage geometries, which is essential for predicting heat transfer.",
+  "The convergence acceleration techniques employed in the code, such as local time stepping and multigrid, are crucial for enabling efficient simulations of these complex flow fields."
+]
