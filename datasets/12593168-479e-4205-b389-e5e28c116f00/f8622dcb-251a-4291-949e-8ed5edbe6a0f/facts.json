@@ -1,0 +1,12 @@
+[
+  "The trap design is composed of three concentric planar ring electrodes with outer radii of 126 \u03bcm, 600 \u03bcm, and 1100 \u03bcm.",
+  "The trap potential has a minimum at a radius of ~58 \u03bcm, a height of 385 \u03bcm, and a trap depth of 0.134 eV.",
+  "The single-ion trap frequencies are 1.03 MHz in the radial direction and 1.02 MHz in the vertical direction.",
+  "Molecular dynamics simulations show that a ring crystal of up to 92 ions can be formed with the given trap parameters.",
+  "Adding one more ion to the 92-ion ring results in a two-layer structure with a ~1 \u03bcm separation between the layers.",
+  "The energy barrier caused by a homogeneous electric field can be drastically reduced by increasing the number of ions in the ring.",
+  "A 10 \u03bcm \u00d7 10 \u03bcm square electrode with a voltage difference of up to 50 V can create an electric field of 100 V/m at the center of the ion ring.",
+  "For a 25-ion ring, the energy barrier caused by the square electrode imperfection is already sufficiently small.",
+  "The maximum torque from the radiation pressure of a displaced laser beam can be counteracted by applying a 75 V/m homogeneous electric field.",
+  "The equilibrium rotation frequency of the 30-ion ring is approximately 1.04 kHz per 1 \u03bcm displacement of the cooling laser beam."
+]
