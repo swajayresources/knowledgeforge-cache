@@ -1,0 +1,17 @@
+[
+  "Two methods for 3D printing fibers are proposed: the fiber bridging method and the extrude-and-pull method.",
+  "Both methods can produce fibers with aspect ratios (length-to-thickness ratio) greater than 100.",
+  "The fiber bridging method results in thicker fibers on average compared to the extrude-and-pull method.",
+  "Decreasing the horizontal or vertical separation between fibers increases the sound absorption, especially at lower frequencies.",
+  "Increasing the extruder travel rate for the bridging method produces thinner fibers and lower sound absorption.",
+  "For the extrude-and-pull method, the fibers are thickest near the extrusion location and the thickness gradually decreases along the length.",
+  "The dominant absorption mechanism for the 3D printed fibrous absorbers is the dissipation of incident acoustic energy through visco-inertial and thermal losses.",
+  "The sound absorption behavior of the 3D printed fibrous absorbers is modeled using the Johnson-Champoux-Allard (JCA) semi-empirical analytical model.",
+  "The 3D printed fibrous absorbers provide good sound absorption performance in the medium-to-high frequency range, typically between 1000-6000 Hz.",
+  "Previous research on 3D printed porous sound absorbers has focused on fabricating foams, lattices, and perforated panels, but not fibrous absorbers.",
+  "Potential applications for the 3D printed fibrous sound absorbers include aeronautics, computer server design, automotive engineering, and automatic hand dryer manufacturing.",
+  "The average printing time for the fiber bridging method was 90 minutes, while for the extrude-and-pull method it was 110 minutes.",
+  "The fiber bridging method sometimes resulted in fiber bending due to heat from the extruder warping adjacent fibers.",
+  "For the extrude-and-pull method, too small extrusion amounts resulted in unformed, under-extruded fibers, while over-extrusion left globs of filament behind each fiber.",
+  "Changing the inter-layer angle did not result in any appreciable change in the sound absorption performance for the bridging method."
+]
