@@ -1,0 +1,17 @@
+[
+  "N93-31578 SECONDARY ORIENTATION EFFECTS IN A SINGLE CRYSTAL SUPERALLOY UNDER MECHANICAL AND THERMAL LOADS Sreeramesh Kalluri and Ali AbduI-Aziz SverdrupTechnology, Inc",
+  "I Brook Park, Ohio 44142 and Michael A",
+  "McGaw NASA Lewis Research Center Cleveland, Ohio 44135 The nickel-base single crystal superalloy PWA 1480 is a candidate blading material for the advanced turbopump development (ATD) program of the space shuttle main engine (SSME)",
+  "superalloy PWA 1480 is grown along the low modulus [001] crystal orientation by a directional solidification process",
+  "Unless a seed crystal is used during the solidification process, the secondary crystal orientation [010] tends to be randomly oriented with respect to the geometry of the turbine blade (ref",
+  "Since cubic single crystal materials such as PWA 1480 exhibit anisotropic elastic behavior (ref",
+  "2), the stresses developed within the single crystal superalloy due to mechanical and thermal loads are likely to be affected by the exact orientation of the secondary crystallographic direction with respect to the geometry of the turbine blade",
+  "The effects of secondary crystal orientation on the e|astic response of single crystal PWA 1480 superalloy were investigated by using a square plate (25",
+  "4-mm side) with a thickness of 3",
+  "This was accomplished by a parame- tric study in which the secondary crystallographic orientation was offset with respect to the geometric axes of the square plate from 0\u00b0 to 90\u00b0 in increments of 10\u00b0",
+  "The primary orientation of the square plate was assumed to be along the [001] crystallographic direction",
+  "The square plate was subjected to mech- anical, thermal, and combined thermal and mechanical loads; the elastic stresses developed within the single crystal PWA 1480 plate were computed with elastic finite-element stress analysis for each combination of loading condi- tion and secondary orientation angle",
+  "Temperature-dependent elastic constants and the thermal coefficient of expansion for single crystal PWA 1480 were determined by the engineering divi- sion of Pratt & Whitney, United Technologies Corporation under the NASA Lewis Research Center Contract NAS3-23939 (ref",
+  "The finite-element model of the square plate consisted of 500 8-noded, 197 _i_ iii_\" _%_\u00b8_\u00b8_r _ isoparametric elements",
+  "Results of the parametric study indicated that the variations in the stress components with the secondary orientation angle were dependent on the type of loading {mechanical, thermal, or combined) imposed on the square plate, It was also found that, for a case involving thermal gradient through the thickness of the square plate, the secondary orientation angle of 0\u00b0 minimizes thermal stresses whereas the secondary orientation angle of 45\" maximizes the thermal stresses"
+]
