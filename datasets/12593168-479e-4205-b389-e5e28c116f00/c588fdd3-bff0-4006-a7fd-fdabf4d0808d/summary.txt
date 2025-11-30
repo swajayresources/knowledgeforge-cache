@@ -1,0 +1,1 @@
+This paper presents a computational study of heat transfer and film cooling effectiveness on a rotating high-pressure turbine blade with 172 film-cooling holes in 8 rows. The study uses a multi-block Navier-Stokes solver with the k-ω turbulence model to analyze the heat transfer on the isothermal, cooled blade and the film cooling effectiveness on the adiabatic blade.
