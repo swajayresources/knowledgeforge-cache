@@ -1,0 +1,1 @@
+This paper provides an overview of the NASA HOST Surface Protection R&T program, with a focus on the development of thermal barrier coating (TBC) life prediction models. The program involves contract, grant, and in-house efforts to produce engine-capable TBC life prediction models, study the mechanical behavior of TBCs, and correlate rig and engine testing.
