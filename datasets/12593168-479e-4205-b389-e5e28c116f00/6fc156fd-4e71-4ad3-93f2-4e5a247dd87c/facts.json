@@ -1,0 +1,21 @@
+[
+  "The phase-field method is used to investigate the influence of anisotropy on the evolution of interfacial morphologies in directional solidification.",
+  "Anisotropy plays an important role in directional solidification as it affects the evolution of interfacial morphologies.",
+  "The planar growth stage is the initial stage of solidification where the interface is flat and the solute concentration ahead of the interface is uniform.",
+  "The planar instability is the onset of cellular growth at the planar growth stage.",
+  "Anisotropy determines the solidification evolution by adjusting the surface energy and/or surface stiffness.",
+  "The planar-cellular-transition stage is the stage where the planar growth stage transitions to cellular growth.",
+  "Anisotropy affects the evolution of interfacial morphologies, particularly the solute concentration ahead of the interface and the instantaneous velocity of the interface.",
+  "Interface stiffness determines the curvature undercooling, which affects the evolution of interfacial morphologies.",
+  "The thermal gradient used in this study is 100K/mm.",
+  "The pulling speed used in this study increases from 0 to 300\u03bcm/s.",
+  "The computational domain used in this study is 2400\u00d72400 grids, corresponding to 288.0\u03bcm\u00d7288.0\u03bcm in the real unit.",
+  "The time step size used in this study is 0.013\u03c4.",
+  "The thin interface limitation makes W just need to be one order of magnitude smaller than the characteristic length of the structure.",
+  "The characteristic length of alloy solidification is L ~\u221ad *D /V.",
+  "The material parameters of Al-2.0wt.%Cu are used in this study.",
+  "The solute diffusion coefficient in the liquid is 3.0\u00d710-9 m2/s.",
+  "The equilibrium partition coefficient is 0.14.",
+  "The liquidus temperature is 927.8 K.",
+  "The solidus temperature is 896.8 K."
+]
