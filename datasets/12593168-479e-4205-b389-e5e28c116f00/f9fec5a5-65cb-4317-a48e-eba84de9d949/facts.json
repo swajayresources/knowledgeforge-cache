@@ -1,0 +1,17 @@
+[
+  "The paper proposes an automatic workflow for assessing damage on gas turbine blades using deep learning on borescope video feeds.",
+  "The workflow uses a Mask R-CNN neural network with PointRend for instance segmentation to detect and classify different types of blade damage.",
+  "The workflow can detect and classify five types of blade damage: casing, compressor-rotor, surface-damage, material-separation, and material-deformation.",
+  "The blade tracking algorithm matches blades between adjacent frames based on the Euclidean distance between the centers of their bounding boxes, assuming blades do not move significantly between frames.",
+  "Damage is quantified for each blade as a fraction of the projected area of the blade visible in that frame.",
+  "A post-processing step applies a high-pass filter and masked erosion to highlight small surface damage features that may have been missed by the neural network.",
+  "The Mask R-CNN network was trained on 89 manually labeled images and evaluated on 15 test images.",
+  "The mean average precision (mAP) and mean matched IoU were used as evaluation metrics, showing improved performance after 2000 training iterations.",
+  "The workflow was able to track individual blades across the video frames and provide detailed damage statistics for each blade.",
+  "The manual labeling process used to generate training data may introduce human biases, and the training dataset size is small compared to common computer vision benchmarks.",
+  "Incorporating factors beyond just the area/size of damage, such as the location of damage, could provide a more comprehensive assessment.",
+  "The blade tracking algorithm would need to be extended for cases where the borescope camera is non-stationary during inspection.",
+  "The authors find that the classification of defects on gas turbine blades presented from various sources is inconsistent and sometimes incomplete, leading to variability in practices among different parties.",
+  "Borescope imaging is a popular technique that allows an inspector to probe the interior of an engine with minimal disassembly.",
+  "The cost of repairing damage caused by foreign object debris (FOD) can exceed $1 million for a single overhaul operation per engine, exceeding 20% of the engine's list price."
+]
