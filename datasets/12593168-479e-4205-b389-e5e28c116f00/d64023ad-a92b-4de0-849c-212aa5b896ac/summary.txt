@@ -1,0 +1,1 @@
+This paper investigates the nuances of data sampling for the Dynamic Mode Decomposition (DMD) algorithm, focusing on the effects of sampling range and resolution on the convergence of DMD modes. The authors employ a turbulent free-shear flow over a prism as the test case and use Large-Eddy Simulation with Near-Wall Resolution to obtain high-fidelity data for the parametric study.
