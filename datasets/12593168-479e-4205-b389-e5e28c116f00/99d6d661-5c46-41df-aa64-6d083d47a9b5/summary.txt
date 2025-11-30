@@ -1,0 +1,1 @@
+This paper presents a system that uses computer vision techniques to design a 'moving poster' that responds to user motion and environmental data. The poster's graphical elements are shaped by tracking the user's head position and using contextual ambient data like temperature to determine the color palette.
