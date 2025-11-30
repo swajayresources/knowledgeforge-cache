@@ -1,0 +1,1 @@
+This paper presents an automatic design optimisation approach to improve the aeroacoustic and aerodynamic performance of a transonic compressor rotor. The study employs a multidisciplinary design optimisation (MDO) method using a genetic algorithm to search for optimal design solutions. The results show significant noise reduction and efficiency increase for the NASA rotor 37.
