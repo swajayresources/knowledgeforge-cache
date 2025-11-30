@@ -1,0 +1,17 @@
+[
+  "The investigated samples consist of a 1200 nm thick GaN buffer layer, followed by a 50 nm thin Ga\u03b4FeN layer containing nanocrystals.",
+  "HRXRD analysis identified the presence of \u03b1-Fe and \u03b3'-GayFe4-yN nanocrystal phases in the uncapped Sample A, while only the \u03b3'-GayFe4-yN phase was detected in the capped Sample B.",
+  "The average size of the nanocrystals is estimated to be 17\u00b12 nm for \u03b1-Fe and 22\u00b12 nm for \u03b3'-GayFe4-yN, based on the Scherrer analysis of the HRXRD peaks.",
+  "The magnetization of the samples shows a strongly non-linear superparamagnetic-like response, along with a paramagnetic contribution from dilute substitutional Fe3+ ions in the matrix.",
+  "The coercive field values observed in the samples range between 10-60 mT, consistent with the presence of ferromagnetic \u03b3'-Fe4N and \u03b1-Fe nanocrystals.",
+  "The FMR measurements confirm the uniaxial out-of-plane anisotropy and in-plane hexagonal anisotropy of the \u03b3'-GayFe4-yN nanocrystals.",
+  "The resistivity of the samples shows two distinct conduction regimes: Arrhenius-type down to 50K, and Mott variable-range hopping at lower temperatures.",
+  "The transition from Arrhenius to Mott VRH conduction occurs between 50-25K for the uncapped samples, and between 130-100K for the capped Sample B.",
+  "The estimated hopping distance Rh ranges from 30-70 nm, while the localization length \u03be varies from 7-10 nm, fulfilling the condition Rh > \u03be for hopping conduction.",
+  "A hysteretic behavior in the MR is observed at low fields (<1T) and below 25K for the uncapped Sample A*, attributed to the spin polarization of the embedded nanocrystals.",
+  "All samples containing the (Ga,Fe)N layers exhibit a positive anisotropic magnetoresistance (AMR) throughout the 2-300K temperature range, in contrast to the GaN reference layer.",
+  "Annealing of the uncapped Sample A removes the \u03b1-Fe nanocrystals, leading to a quenching of the magnetization and a shift in the saturation field.",
+  "The GaN capping layer in Sample B results in a significant increase in the resistivity, due to the diffusion of dilute Fe ions from the (Ga,Fe)N layer into the capping layer.",
+  "The spatial localization of the \u03b3'-GayFe4-yN nanocrystals with in-plane uniaxial magnetic anisotropy opens new perspectives for these material systems in FM and AF-spintronics.",
+  "The magnetotransport properties of the (Ga,Fe)N layers are significantly affected by the presence and characteristics of the embedded nanocrystals."
+]
