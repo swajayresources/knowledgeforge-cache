@@ -1,0 +1,17 @@
+[
+  "The authors fabricated six types of surfaces: hydrophilic, hydrophobic, superhydrophilic (SHPi), superhydrophobic (SHPo), biphilic, and superbiphilic.",
+  "SHPi surfaces nucleated at a surface superheat about 3 times lower than hydrophilic surfaces.",
+  "Hydrophobic surfaces nucleated at superheats about 10 times lower than hydrophilic surfaces, and SHPo surfaces nucleated at superheats another order of magnitude lower than hydrophobic surfaces.",
+  "The maximum heat transfer coefficient (HTC) of the biphilic surface was 2-4 times larger than the HTC of the hydrophilic and hydrophobic surfaces, respectively.",
+  "Biphilic surfaces with 50 \u03bcm hydrophobic spots had higher HTCs at high superheat compared to surfaces with 400 \u03bcm spots.",
+  "Superbiphilic surfaces achieved critical heat fluxes over 100 W/cm^2 and heat transfer coefficients over 100 kW/m^2K.",
+  "The authors developed an analytical model to describe how the wettability and topography of biphilic surfaces affect boiling heat transfer.",
+  "Nucleation measurements showed that SHPo surfaces nucleated at superheat temperatures significantly lower than the typical thermocouple measurement uncertainty of \u00b11.5 K.",
+  "The authors found that the wettability that optimizes HTC is a function of the superheat at which the surface operates.",
+  "The random nature of the nanostructuring process used to create SHPi surfaces led to significant measurement noise in the HTC data.",
+  "The authors assumed that the wetting line of the bubble on a biphilic surface advances until pinning occurs at the edge of the hydrophobic spot.",
+  "The number of active nucleation sites on the hydrophobic regions of a biphilic surface cannot exceed the number of hydrophobic spots.",
+  "The modeling results underpredicted the very high HTC values obtained on SHPi surfaces, likely due to additional wicking effects not captured by the model.",
+  "The agreement between the model and experiments was better at low superheat (T<15K) than at larger superheat (T>15K) for biphilic surfaces, probably because the modeling neglected shear forces.",
+  "The authors were not able to manufacture surfaces with 3\u00b0 wetting angles on the hydrophilic regions, so only modeling results were shown for that case."
+]
