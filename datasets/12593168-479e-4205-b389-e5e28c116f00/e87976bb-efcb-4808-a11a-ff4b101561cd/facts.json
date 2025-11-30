@@ -1,0 +1,12 @@
+[
+  "The authors emphasize the importance of the gas entropy in studying the evolution of cluster gas under the influence of radiative cooling.",
+  "The authors develop an analytical model for the evolution of the cluster gas, replacing the conservation of energy equation with an expression for the rate of change of the entropy index.",
+  "The analytical model predicts a simple power-law relationship between the cumulative gas mass and the entropy index, consistent with observations of the Hydra and Virgo clusters.",
+  "The numerical solution confirms the assumptions of the analytical model, including the linear evolution of the entropy index over time.",
+  "The numerical solution shows the temperature of the gas at the cluster center drops gradually to ~2 keV, then rapidly to below 1 keV.",
+  "The authors estimate that in a flux-limited sample of clusters, only a small fraction would contain a detectable amount of gas with temperatures below 1 keV, consistent with the lack of such observations.",
+  "The authors postulate that the heating of the cluster gas is triggered when the central gas temperature falls to very low values, preventing the accumulation of large amounts of cold gas.",
+  "The power-law slope, \u03b5, in the entropy index-mass relation is found to be roughly 3 for an NFW gravitational potential profile and 3/2 for a \u03b2-profile, consistent with the observed values of 1.5 for Hydra and 2.3 for Virgo.",
+  "The authors assume a uniform entropy index throughout the cluster atmosphere at t=0, which may be an oversimplification but could result from a comprehensive heating phase affecting the entire cluster.",
+  "The analytical solution does not depend on the specific form of the gravitational potential \u03a6, but the numerical solution shows differences in the density and temperature distributions for NFW and \u03b2-profiles."
+]
