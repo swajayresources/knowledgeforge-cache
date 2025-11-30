@@ -1,0 +1,1 @@
+This paper analyzes the effect of coolant velocity and temperature distribution at the hole exit on the heat transfer coefficient of film-cooled turbine blades. It uses a 3D Navier-Stokes code to study three different turbine blades and compares the results with experimental data.
