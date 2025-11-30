@@ -1,0 +1,17 @@
+[
+  "The ASOW has a periodic serpentine structure with broken longitudinal symmetry, achieved by having different phase accumulation in the left and right segments of the unit cell.",
+  "The authors derive a 6x6 transfer matrix formalism to model the electromagnetic fields in the ASOW and obtain the Bloch eigenmodes.",
+  "An SIP is defined as a third-order exceptional point of degeneracy, where three Bloch eigenmodes with the same sign of the real part of the wavenumber coalesce.",
+  "The authors provide a set of five necessary conditions in Eq. (14) that must be satisfied for the ASOW to exhibit an SIP.",
+  "The finite-length ASOW supporting an SIP shows a frozen mode regime with dramatically enhanced field amplitudes in the middle of the structure compared to the edges.",
+  "The transfer function of the finite-length ASOW reaches a maximum near the SIP frequency, while the reflection function is minimized.",
+  "The quality factor (Q) is high in the vicinity of the SIP due to the frozen mode regime, but does not reach extremely high values as the SIP is not a cavity resonance.",
+  "The ASOW can support both SIPs and regular band edges (RBEs) in a small frequency range, which could be problematic for applications like lasers.",
+  "The authors use a coalescence parameter \u03c3 to quantify the degree of coalescence of the Bloch eigenmodes at the SIP.",
+  "The ASOW is modeled using a silicon-on-insulator waveguide structure with a height of 230 nm and a width of 430 nm, operating at a wavelength of 1550 nm.",
+  "The authors consider ASOW loops with a radius R \u2265 10 \u03bcm to minimize radiation losses at optical frequencies.",
+  "The transfer matrix of the ASOW unit cell satisfies det(T_u) = 1 due to the reciprocity of the structure.",
+  "The dispersion diagram of the ASOW is symmetric with respect to the center of the Brillouin zone due to the reciprocity of the structure.",
+  "The authors calculate the field amplitudes along the finite-length ASOW by applying the boundary conditions at the input and output.",
+  "The distance between peaks in the transfer and reflection functions decreases as the number of unit cells N increases."
+]
