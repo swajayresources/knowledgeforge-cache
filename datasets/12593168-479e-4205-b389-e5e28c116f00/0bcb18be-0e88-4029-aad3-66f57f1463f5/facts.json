@@ -1,0 +1,17 @@
+[
+  "Turbine is a network dynamics simulation tool that can model the propagation and dissipation of perturbations in complex networks.",
+  "The 'communicating vessels' model used in Turbine results in an exponential decay of perturbations, consistent with prior findings.",
+  "Networks with pronounced modular structure were found to trap and dissipate perturbations more slowly compared to networks with fuzzy modules.",
+  "High-intensity perturbations were 2.6 times slower to dissipate in networks with pronounced modules compared to those with fuzzy modules.",
+  "Perturbation centrality is defined as the reciprocal of the 'silencing time', which is the time needed for a perturbation to dissipate below a threshold across the entire network.",
+  "Perturbation centrality correlates with closeness centrality, community centrality, and weighted degree, but is a distinct mesoscopic-level centrality measure.",
+  "In networks with pronounced modular structure, inter-modular non-hub nodes had higher perturbation centrality than intra-modular hubs, but in networks with fuzzy modules, intra-modular hubs had higher perturbation centrality.",
+  "Real-world networks were found to resemble the fuzzy module case, where intra-modular hubs had higher perturbation centrality than inter-modular non-hubs.",
+  "In the Met-tRNA synthetase protein structure network, perturbation centrality correctly identified the active site and tRNA binding sites as having the largest increases upon substrate binding.",
+  "Under heat shock, the average perturbation centrality of the yeast interactome decreased by 40.5% compared to the unstressed interactome.",
+  "Stress led to down-regulation of ribosome synthesis and protein translation in the yeast interactome based on changes in perturbation centrality.",
+  "The starting perturbation energy in Turbine was set to 10 times the number of nodes, and the dissipation rate was set to 1, resulting in perturbation centrality values typically ranging from 0.33 to 0.0001.",
+  "Turbine can efficiently simulate large networks of millions of nodes and edges on a desktop computer and provides complete time-domain simulation results.",
+  "Turbine and perturbation centrality may have applications in assessing signaling, drug action, environmental changes, and social interventions in complex systems.",
+  "The authors state that Turbine is a versatile tool that can accommodate a variety of dynamical models and handle multiple, repeated, or continuous perturbations."
+]
