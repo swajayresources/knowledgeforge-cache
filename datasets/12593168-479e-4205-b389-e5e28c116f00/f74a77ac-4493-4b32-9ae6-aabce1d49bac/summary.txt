@@ -1,0 +1,1 @@
+This paper investigates new internal cooling designs for turbine blades that generate swirling flow to enhance heat transfer, without the need for rib turbulators. It presents detailed local heat transfer coefficient data for the proposed designs using a transient liquid crystal technique, and also examines the effects of channel taper on heat transfer.
