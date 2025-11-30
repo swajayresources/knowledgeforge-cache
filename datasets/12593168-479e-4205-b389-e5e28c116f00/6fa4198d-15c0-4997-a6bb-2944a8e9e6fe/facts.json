@@ -1,0 +1,17 @@
+[
+  "The study is part of the NASA ERA (Environmentally Responsible Aviation) program, focusing on the physics of loss generation in a highly-loaded transonic compressor.",
+  "The compressor stage analyzed has 42 IGV, 28 R1, and 56 S1 blades (scaled down from the original 42 IGV, 28 R1, and 58 S1).",
+  "The LES analysis was performed on 3 IGV, 2 R1, and 4 S1 passages with a periodic boundary condition.",
+  "The LES computational grid had 500 million nodes for the 9 passages, with a grid size of 384x356x650 for each Stator 1 passage.",
+  "The LES results show good agreement with the measured compressor characteristics, including the corrected speedline and the IGV exit swirl angle.",
+  "The LES results capture the higher total temperature and lower total pressure on the pressure side of the stator exit, which is not predicted by the URANS approach.",
+  "The key reason for the higher total temperature and lower total pressure on the pressure side is the different 3D unsteady vortex interactions due to the curvature effects on the suction and pressure sides.",
+  "The wake stretching also contributes to a wider rotor wake near the pressure side, leading to the higher total temperature at the stator exit.",
+  "The concave curvature on the suction side has an unstable effect, while the convex curvature on the pressure side has a stabilizing effect, leading to the different vortex interactions.",
+  "The jet velocity in the rotor wake decays very quickly, and the rotor wake is not like a simple 2D inviscid wake, which is why the URANS approach fails to capture the higher total temperature on the pressure side.",
+  "The authors suggest that further focused experimental and analytical studies will be needed to lead to advanced compressor designs that can reduce the unsteady loss generation.",
+  "LES can better capture the vortex interactions, flow separation, and wake development compared to RANS/URANS models, but it also has a significantly higher computational cost.",
+  "The measured total pressure and total temperature distributions at the stator exit show the unsteady loss generation, with higher total temperature and lower total pressure on the pressure side.",
+  "The LES results are able to reproduce the measured trends in the total pressure and total temperature distributions at the stator exit.",
+  "The unsteady loss generation in the stator passage is a key factor limiting the performance of highly-loaded transonic compressors."
+]
