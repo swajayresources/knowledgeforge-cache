@@ -1,0 +1,17 @@
+[
+  "The GENX 1B70 engine is used as the propulsion system for aircraft like the Boeing 747 and Boeing 787-8.",
+  "The thermal value (FHV) of hydrogen fuel is 134.778 MJ/kg, while for JP10 and natural gas it is 44.921 MJ/kg and 55.168 MJ/kg respectively.",
+  "With a 20\u00b0C reduction in inlet air temperature, the engine's thermal efficiency increases by 1.85% and the entropy generation rate decreases by 16.51%.",
+  "The nitrogen oxide emission index (SNOx) is calculated as a function of the combustor exit pressure, temperature, and the ratio of liquid water to air.",
+  "The exergetic efficiency of the fan, compressor, turbine, and combustor are calculated as the ratio of output exergy to input exergy minus the component's power consumption.",
+  "The genetic algorithm optimization was performed with three separate objective functions: thrust maximization, thermal efficiency maximization, and propulsive efficiency maximization.",
+  "For the optimal cycle selected based on the economic approach, the entropy generation rate increased by 18.89% and NOx emissions increased by 10.01% compared to the base engine.",
+  "For the optimal cycle selected based on the exero-environmental approach, the entropy generation rate decreased by 54.03% and NOx emissions decreased by 42.02% compared to the base engine.",
+  "The GENX 1B70 engine has a fan pressure ratio of 1.5, low-pressure compressor pressure ratio of 1.3, high-pressure compressor pressure ratio of 23, and a bypass ratio of 9.1.",
+  "Compared to the base engine with JP10 fuel, the optimized cycle with hydrogen fuel showed a 2.65% increase in thermal efficiency.",
+  "The TOPSIS method was used to select the best optimized cycles from the Pareto front based on economic and exero-environmental approaches.",
+  "Previous studies on turbofan engine optimization focused on lower bypass ratio mixed flow engines, whereas this study analyzes the high-bypass unmixed flow GENX 1B70 engine.",
+  "The genetic algorithm optimization involved five main phases: initial population, fitness function, selection, crossover, and mutation.",
+  "The thrust-specific fuel consumption (TSFC) of the engine decreased by 2.15% with a 20\u00b0C reduction in inlet air temperature.",
+  "The nitrogen oxide emission index (SNOx) is an important parameter that indicates the environmental impact of the engine."
+]
