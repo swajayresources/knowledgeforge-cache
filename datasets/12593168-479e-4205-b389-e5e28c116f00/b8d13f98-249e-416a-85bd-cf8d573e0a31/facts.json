@@ -1,0 +1,19 @@
+[
+  "201-217 Availableonlineathttp://jano",
+  "02 MODEL PREDICTIVE CONTROL OF DISCRETE-TIME LINEAR SYSTEMS BY ADMM WITH APPLICATIONS TO TURBOFAN ENGINE CONTROL PROBLEMS JIAOTENG1,XIANDU2,LEIWANG3,\u2217,XINWEIWANG4,JUNMEIWU3 1DepartmentofAppliedMathematics,TheHongKongPolytechnicUniversity,HongKong 2SchoolofControlScienceandEngineering,DalianUniversityofTechnology,Dalian,China 3SchoolofMathematicalSciences,DalianUniversityofTechnology,Dalian,China 4DepartmentofEngineeringMechanics,StateKeyLaboratoryofStructuralAnalysisforIndustrial Equipment,DalianUniversityofTechnology,Dalian,China Abstract",
+  "2020MathematicsSubjectClassification",
+  "90C20,49N05",
+  "E-mailaddresses:jtengmath@163",
+  "Wang),15738519912@163",
+  "ReceivedMarch8,2022;AcceptedJanuary14,2023",
+  "(cid:13)c2023JournalofAppliedandNumericalOptimization 201 202 J",
+  "ModelPredictiveControl(MPC)whichfirstappearedinthe late 1970s and is now known as rolling horizon control [2], is a type of control algorithm withexcellentdynamiccontrolperformance[3]",
+  "Inrecentyears,MPCalgorithmsreceived wide attention in the field of engine control [4, 5] because of its advantages of explicitly processing engine constraints [6, 7], simplifying the engine control system structure [8], andachievingreal-timerollingoptimization",
+  "MPC essentially requires solving a series of optimization problems [11, 12]",
+  "Traditionally,1-normandinfinite-normperformancefunctionsuselinearprogram- mingoptimizationalgorithms;quadraticperformancemetrics,whichinthemostcommon case use quadratic programming algorithms",
+  "Commonly used quadratic programming al- gorithms in MPC are the interior point method [13, 14] and the active-set method [15]",
+  "There have been many improved works in this area, for example, the extended Newton Raphson algorithm [16], the gra- dient algorithm [17], and the ADMM algorithm (the common MPC problems: the Lasso MPC problem for time-varying systems [18], the MPCT problem [19], the MPC problem for systems with feedback gain [20], the BCMPC problem [21], and the symmetric MPC problem[22])",
+  "The traditional approach to solve the turbofan engine MPC problem usually converts it into a series of quadratic programming problems, then solves with the assistance of the SNOPT based on active set methods and the IPOPT based on interior methods, however, thedimensionalityofthevariablesofthequadraticprogrammingproblemdependsonthe choiceofthepredictionandcontrolhorizon,whichwillbringtwodilemmas: 1)itisdiffi- cult to obtain its analytical solution directly for the quadratic programming problem with MODELPREDICTIVECONTROLOFDISCRETE-TIMELINEARSYSTEMSBYADMM 203 inequality constraints; 2) as the control and prediction horizon keep increasing, the num- ber of inequality constraints increases, and at each sampling, the quadratic programming subproblem needs to repeatedly solve the corresponding KKT system, which will greatly reducetheproblemsolvingefficiency",
+  "Based on the previous discussion, we propose an improvedMPC algorithm,MPC-ADMM algorithm,under theMPCproblem correspond- ing to linear discrete state-space models of turbofan engine",
+  "In Section 5, we present and analyze the comparison results to show the efficiency of our method"
+]
