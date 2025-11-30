@@ -1,0 +1,17 @@
+[
+  "The sensitivity of interferometric gravitational wave observatories is limited by fundamental noise sources, including thermal noise from the internal degrees of freedom of the interferometer test masses.",
+  "LIGO uses fused silica for the interferometer test masses, beam splitter, and other optics due to its very low internal friction and availability of high quality, large optics.",
+  "Sapphire is currently proposed as the material for the optics in advanced LIGO due to its even lower internal friction and superior thermal conductivity.",
+  "The researchers measured the quality factor, Q, of vibrations of uncoated fused silica samples and compared them to the Q when a Ta2O5/SiO2 coating was applied.",
+  "The loss angle of the coating material for strains parallel to the coated surface was found to be 4.2 \u00b1 0.3 x 10^-4 for coatings on commercially polished slides, and 1.0 \u00b1 0.3 x 10^-4 for a coating on a superpolished disk.",
+  "The researchers estimated the effect of the coatings on thermal noise in the initial LIGO and advanced LIGO interferometers using the measured loss angles.",
+  "The prediction for thermal noise in the 40m LIGO prototype at Caltech was found to be consistent with the noise data.",
+  "The researchers found that the loss angle in the coatings for strains parallel to the substrate surface was different from the loss angle for strains perpendicular to the surface, indicating anisotropic loss.",
+  "The researchers were unable to directly measure the loss angle associated with strains perpendicular to the coating surface, introducing uncertainty in the thermal noise estimates.",
+  "The results in this paper on Ta2O5/SiO2 coatings are complemented by similar results on Al2O3/Ta2O5 coatings in a companion paper.",
+  "Future work will focus on directly measuring the loss angle associated with strains perpendicular to the coating surface to improve the accuracy of the thermal noise estimates.",
+  "The researchers used a monolithic silica suspension and a birefringence sensor to reduce excess loss and improve the accuracy of the Q measurements.",
+  "The coating was deposited using Argon ion beam sputtering, followed by annealing at 450\u00b0C.",
+  "The researchers studied rectangular prism samples made of Suprasil 2 brand fused silica, with and without the Ta2O5/SiO2 coating.",
+  "The coated samples had a reflectance of 3% for normally incident, 1 \u03bcm wavelength light."
+]
