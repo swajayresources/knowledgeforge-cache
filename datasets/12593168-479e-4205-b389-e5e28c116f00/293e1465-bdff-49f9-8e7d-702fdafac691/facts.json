@@ -1,0 +1,12 @@
+[
+  "The Czochralski method is the main industrial process for producing over 95% of high-quality (semiconductor grade) silicon single crystals and about 45% of lower-quality (solar grade) silicon crystals.",
+  "Crystals of SiC, AlN, and GaN cannot be grown from the melt at atmospheric pressure due to their thermal instability and decomposition at high temperatures.",
+  "The Grashof number (Gr) and the Reynolds number (Re) are key dimensionless numbers that characterize natural and forced convection, respectively, in crystal growth processes.",
+  "The Prandtl number (Pr) varies widely in crystal growth, from 0.01 for Si and Si-Ge melts to tens for oxide melts, which leads to qualitative differences in the convection patterns.",
+  "Modeling the turbulent flow in Czochralski growth of large-diameter silicon crystals (>300 mm) requires Reynolds numbers based on the crystal and crucible rotation speeds of the order of 10^5 and 3x10^5, respectively.",
+  "Direct numerical simulation (DNS) of turbulence in crystal growth setups is computationally prohibitive, requiring grid sizes on the order of 10^9-10^10 cells to resolve the wide range of length scales.",
+  "The Schmidt number (Sc) for oxygen in silicon melts is around 10, necessitating very fine computational grids to accurately model the oxygen transport.",
+  "Sublimation growth is used to produce SiC, AlN, and ZnO crystals, taking advantage of the congruent transfer of material from the solid source to the growing crystal.",
+  "Ammonothermal growth and the alkali metal method have been developed to grow III-nitride crystals at lower temperatures and pressures compared to the high-pressure solution growth approach.",
+  "Modeling of crystal growth processes requires the coupled solution of heat transfer by conduction, convection, and radiation, as well as mass transfer, electromagnetic effects, and crystal quality assessment."
+]
