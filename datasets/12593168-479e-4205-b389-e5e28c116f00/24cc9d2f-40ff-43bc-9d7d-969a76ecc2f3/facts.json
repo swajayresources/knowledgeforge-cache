@@ -1,0 +1,12 @@
+[
+  "The chord-to-radius ratio (c/R) ranged from 0.25 to 0.74 in the experiments.",
+  "The diameter-based Reynolds numbers tested were between approximately 1.6 \u00d7 10^5 and 2.7 \u00d7 10^5.",
+  "The optimal tip-speed ratio (\u03bb) ranged from 2.3 to 3.6, with the highest values for low c/R and the lowest for high c/R.",
+  "Increasing toe-out preset pitch (more negative \u03b1_p) resulted in lower performance in the upstream region but higher performance in the downstream region.",
+  "Increasing net camber, whether through virtual or geometric camber, led to higher upstream performance but lower downstream performance.",
+  "The authors proposed using net camber (\u03b3_net) and net incidence (\u03b1_net) as composite variables to better understand turbine performance and design behavior.",
+  "The optimal preset pitch angle (\u03b1_p) was found to be more negative as c/R increased, in order to reduce the upstream angle-of-attack and delay stall.",
+  "The authors found that the optimal performance occurred at a relatively constant net incidence of 0\u00b0 to +1\u00b0, suggesting that virtual incidence is the main driver of optimal preset pitch at a given c/R or camber.",
+  "The authors noted that the effects of increasing chord length (c) dominated, causing the chord-based Reynolds number (Re_c) to grow with increasing c/R.",
+  "The authors assumed that the simple summation of virtual and geometric factors best represents their combined influence on turbine performance, though they acknowledged this as a significant assumption."
+]
