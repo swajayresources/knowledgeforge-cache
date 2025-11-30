@@ -1,0 +1,17 @@
+[
+  "The paper presents an automated system for detecting visual damages on wind turbine blades.",
+  "The system is based on a Mask R-CNN model trained on over 250,000 inspection pictures with 370,000+ annotations.",
+  "The model was trained on a p3.2x large AWS EC2 instance with a NVIDIA Tesla V100 GPU.",
+  "On a test set of 18,318 images, the model achieved a damage recall of 94.4% and a damage precision of 40.48%.",
+  "The model generates 'clues' which are the tightest bounding boxes around the predicted damage areas, and presents them to human analysts for review.",
+  "In A/B testing, the analysts using the automated system had reduced average time for quality checks and fewer missed damages compared to the previous manual process.",
+  "Future work includes improving the bounding box shapes, training on segmented blade images, and exploring real-time inference on the drone.",
+  "Detecting wind turbine blade damages early is critical for reducing the high operational costs of wind energy and enabling it to be cost-competitive with fossil fuels.",
+  "Blade damages are the leading cause of wind turbine failures during operations.",
+  "The paper argues for prioritizing the actual values and needs of end-users (analysts) in designing and evaluating the automated system, rather than just optimizing traditional machine learning metrics.",
+  "The automated system is part of a commercialized product aimed at enabling more automated wind farms.",
+  "Over 90,000 wind turbines have been inspected across more than 26 countries using the system.",
+  "The inspection pictures are captured using a Sony UMC-R10C camera with a resolution of 5456x3632.",
+  "The ground truth damage annotations are provided by trained human analysts.",
+  "The model was trained on down-sampled 1500x998 resolution images due to the large original size."
+]
