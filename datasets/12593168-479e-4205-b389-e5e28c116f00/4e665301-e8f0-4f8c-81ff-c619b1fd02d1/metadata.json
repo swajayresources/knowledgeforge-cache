@@ -1,0 +1,15 @@
+{
+  "paper_id": "4e665301-e8f0-4f8c-81ff-c619b1fd02d1",
+  "title": "Additive Manufacturing of Nickel Based Superalloy",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/4e665301-e8f0-4f8c-81ff-c619b1fd02d1/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/4e665301-e8f0-4f8c-81ff-c619b1fd02d1/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/4e665301-e8f0-4f8c-81ff-c619b1fd02d1/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/4e665301-e8f0-4f8c-81ff-c619b1fd02d1/keywords.json"
+  ]
+}
