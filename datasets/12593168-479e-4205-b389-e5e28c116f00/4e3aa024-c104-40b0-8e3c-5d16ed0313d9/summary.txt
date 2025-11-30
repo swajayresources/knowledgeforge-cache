@@ -1,0 +1,1 @@
+This paper presents a finite element analysis of the thermal and structural response of a hollow-core, single-crystal nickel-base superalloy turbine blade used in the Space Shuttle Main Engine. The influence of the blade's primary and secondary crystal orientations on the elastic stress response under combined thermal and mechanical loading conditions is investigated.
