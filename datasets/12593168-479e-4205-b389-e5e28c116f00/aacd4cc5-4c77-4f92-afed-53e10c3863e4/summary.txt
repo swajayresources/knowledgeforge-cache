@@ -1,0 +1,1 @@
+This paper presents a three-dimensional Navier-Stokes analysis and redesign of an embedded bellmouth nozzle in the inlet section of a turbine cascade. The analysis showed that the bellmouth nozzle caused flow non-uniformity due to a pair of vortices, and a redesigned inlet section without the bellmouth resulted in a more uniform flow.
