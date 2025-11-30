@@ -1,0 +1,17 @@
+[
+  "HSCT engines will have much higher jet exhaust speeds compared to today's subsonic airliners.",
+  "Jet noise, caused by the turbulent mixing of high-speed exhaust with surrounding air, poses a significant challenge for HSCT engine designers.",
+  "HSCT engines use advanced mixer-ejector nozzles to entrain and mix large quantities of ambient air with the jet streams, reducing jet noise to airport noise certification levels.",
+  "As the HSCT gains speed and climbs, poor ejector inlet recovery and ejector ram drag contribute to poor thrust, making it advantageous to turn off the ejector.",
+  "Turning off the ejector prematurely can cause unacceptable noise levels to propagate to the ground, even when the aircraft is many miles from the airport.",
+  "The optimization method employs a variation of the classic energy state approximation technique to dynamically choose the best altitude-velocity path and throttle setting history.",
+  "The noise metrics used in the calculations are based on recommendations from researchers at NASA Langley, who have correlated flyover noise annoyance levels with various noise measurements.",
+  "HSCT climb noise is characterized by relatively low levels, long durations, and low-frequency spectra, unlike airport noise.",
+  "Analysis of the optimizer results has shown significant reductions in noise propagation to the ground can be achieved with only small penalties in HSCT range or fuel performance.",
+  "The optimizer is programmed into NASA's existing aircraft and noise analysis codes to balance the tradeoffs between rapid high-altitude climb and quieter low-throttle settings.",
+  "The aircraft trajectory, throttle setting, and ejector setting are varied subject to practical aircraft constraints to minimize noise propagation to the ground.",
+  "High aircraft altitudes are desirable to minimize noise propagation, but the HSCT may either climb quickly to high altitudes using a high, noisy throttle setting or climb more slowly at a lower, quieter throttle setting.",
+  "Throttling operations are performed in the subsonic portion of the climb path where thrust is plentiful, minimizing penalties in HSCT range or fuel performance.",
+  "The optimization method aims to determine the optimal timing for turning off the ejector nozzles to balance noise reduction and thrust performance.",
+  "The proposed U.S. High Speed Civil Transport (HSCT) will revolutionize commercial air travel by providing economical supersonic passenger service worldwide."
+]
