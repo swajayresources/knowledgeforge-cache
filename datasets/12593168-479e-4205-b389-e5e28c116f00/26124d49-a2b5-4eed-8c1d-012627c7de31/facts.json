@@ -1,0 +1,12 @@
+[
+  "Turbine inlet gas temperatures in advanced aircraft engines can reach 2500\u00b0F (1371\u00b0C) and above.",
+  "Turbine inlet pressures in advanced engines can reach 25 to 30 atmospheres, with future plans for 40 atmospheres.",
+  "Current 2D boundary layer analysis programs can have errors up to 35% in predicting heat transfer coefficients on the suction side of turbine blades.",
+  "A 100\u00b0F (55.5\u00b0C) error in predicted blade surface temperature can reduce the estimated blade life by an order of magnitude.",
+  "Stagnation region Nusselt numbers are directly proportional to the square root of the Reynolds number, with a proportionality constant sensitive to upstream turbulence level.",
+  "Increased upstream turbulence can amplify turbulence levels near the stagnation region, enhancing local heat transfer by up to 19%.",
+  "Analytical models have struggled to accurately predict the level of heat transfer augmentation due to upstream turbulence effects.",
+  "The flow through a turbine blade row is highly complex, involving stagnation, curvature effects, acceleration, secondary flows, and transition/detransition processes.",
+  "Unsteadiness in the flow entering the turbine, due to the compressor and combustion processes, can significantly impact the heat transfer.",
+  "Three different definitions have been proposed to quantify flow unsteadiness: overall disturbance level, free-stream turbulence level, and unsteadiness level."
+]
