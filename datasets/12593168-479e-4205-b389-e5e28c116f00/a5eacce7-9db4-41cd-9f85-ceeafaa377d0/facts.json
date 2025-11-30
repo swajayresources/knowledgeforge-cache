@@ -1,0 +1,20 @@
+[
+  "The optimal tip-speed ratio for cross-flow turbines is not explicitly stated.",
+  "Power generation from the upstream sweep continues to increase beyond the optimal tip-speed ratio.",
+  "The downstream sweep consumes power beyond the optimal tip-speed ratio due to unfavorable lift and drag directions.",
+  "Induction modifies the nominal kinematics, leading to differences in the angle of attack and relative velocity between the upstream and downstream sweeps.",
+  "Dynamic stall is a non-linear phenomenon that can lead to performance degradation in the downstream sweep.",
+  "The upstream sweep contributes the most to power production, but the downstream sweep determines the optimal tip-speed ratio.",
+  "The preset pitch angle affects the maximum angle of attack magnitude in the upstream and downstream sweeps.",
+  "The Reynolds number affects the performance of cross-flow turbines, with higher Reynolds numbers leading to improved performance.",
+  "The experimental setup consists of a one-bladed turbine and a particle image velocimetry (PIV) system.",
+  "The tip-speed ratios used in the experiments are \u03bb = 1.4, 2.4, and 3.4.",
+  "The blockage ratio affects the performance of cross-flow turbines, with higher blockage ratios leading to reduced performance.",
+  "The chord-to-radius ratio affects the performance of cross-flow turbines, with higher ratios leading to improved performance.",
+  "The nominal angle of attack and relative velocity do not accurately represent the true angle of attack and relative velocity due to induction.",
+  "The angle of attack range experienced by the blade affects the severity of dynamic stall.",
+  "The near-blade flow structures differ substantially between the upstream and downstream sweeps.",
+  "The topology of the near-blade flow structures is affected by the angle of attack range and the Reynolds number.",
+  "The induction-modified inflow affects the true relative velocity magnitude and the true angle of attack.",
+  "The true relative velocity magnitude and the true angle of attack vary with blade azimuthal position."
+]
