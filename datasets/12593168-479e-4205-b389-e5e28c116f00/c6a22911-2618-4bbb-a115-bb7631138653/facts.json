@@ -1,0 +1,13 @@
+[
+  "The time-averaged characteristic length of the separation bubble is 0.16c_ax for the adiabatic wall and 0.10c_ax for the cooled wall.",
+  "The cooled wall case shows a downstream displacement of the separation region compared to the adiabatic wall setup.",
+  "For the cooled wall, the incident shock penetrates deeper into the boundary layer, leading to a steeper variation in the pressure coefficient downstream.",
+  "In the adiabatic case, the region of maximum temperature occurs within the separation bubble, while for the cooled wall, higher temperatures are observed in the free shear layer downstream of the bubble.",
+  "The separation bubble undergoes a contraction and expansion motion for both the adiabatic and cooled wall cases, with similar excursions from the mean.",
+  "The tangential Reynolds stresses (u_t u_t) show similar peak values for both cases, but the wall-normal component (u_n u_n) is lower for the cooled wall case.",
+  "The grid resolution in wall units ranges from 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9 for the adiabatic wall case, and 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19 for the isothermal wall case.",
+  "The inlet Mach number is 2.0 and the Reynolds number based on the inlet velocity and axial blade chord is 200,000.",
+  "The ratio of specific heats is 1.31 and the Prandtl number is 0.747.",
+  "A body forcing is applied on the RHS of the Navier-Stokes equations to transition the boundary layers, with an unsteady actuation and random spanwise treatment.",
+  "The simulations employ a high-order overset compressible LES methodology with sixth-order accurate compact finite-difference schemes, sixth-order compact interpolation, and a localized artificial diffusivity method."
+]
