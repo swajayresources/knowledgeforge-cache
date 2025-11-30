@@ -1,0 +1,12 @@
+[
+  "The transition length decreases as the turbulent spot production rate increases.",
+  "Much of the data used to develop transition length correlations was obtained at low Mach number, incompressible flow conditions.",
+  "Recent experimental data showed that the turbulent spot parameters are affected by Mach number, even at Mach numbers less than 1.",
+  "The paper used the turbulent spot data of Clark (1993) and the Tollmien-Schlichting wave frequency analysis of Mack (1969) to derive modifications to account for Mach number effects in the transition length models.",
+  "The modified transition length models were incorporated into the RVCQ3D Navier-Stokes code for comparison with experimental turbomachinery data.",
+  "For the stator cases examined, the Mach number at the start of transition ranged from 0.78 to 0.97.",
+  "For the rotor cases, the exit Mach numbers ranged from 0.8 to 1.3, with the start of transition occurring at Mach numbers up to 1.1.",
+  "Accounting for Mach number effects significantly improved the agreement between predicted and measured midspan surface heat transfer for both stator and rotor turbine blades.",
+  "The paper found that accurately predicting the start and length of transition is crucial for accurately predicting turbine blade heat transfer, especially in the absence of film cooling.",
+  "The Smith and Kuethe (1966) model was used to account for the effects of freestream turbulence on the laminar flow region."
+]
