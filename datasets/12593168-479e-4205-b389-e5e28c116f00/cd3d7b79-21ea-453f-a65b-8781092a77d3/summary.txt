@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics (CFD) analysis of Savonius rotor wind turbines with three different blade sizes. The study evaluates the aerodynamic characteristics, including torque, torque coefficient, power, and power coefficient, to determine the optimal blade size for efficient wind energy harvesting.
