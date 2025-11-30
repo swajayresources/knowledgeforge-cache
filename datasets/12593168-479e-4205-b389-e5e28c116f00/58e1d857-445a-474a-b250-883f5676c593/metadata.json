@@ -1,0 +1,15 @@
+{
+  "paper_id": "58e1d857-445a-474a-b250-883f5676c593",
+  "title": "An Automated System for Detecting Visual Damages of Wind Turbine Blades",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/58e1d857-445a-474a-b250-883f5676c593/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/58e1d857-445a-474a-b250-883f5676c593/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/58e1d857-445a-474a-b250-883f5676c593/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/58e1d857-445a-474a-b250-883f5676c593/keywords.json"
+  ]
+}
