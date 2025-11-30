@@ -1,0 +1,1 @@
+This paper evaluates different methods for determining the angle of attack (AoA) and induced velocity on wind turbine blades using computational fluid dynamics (CFD) results under axial inflow conditions. Several methods are examined, and their advantages and shortcomings are presented for two 10 MW reference wind turbines.
