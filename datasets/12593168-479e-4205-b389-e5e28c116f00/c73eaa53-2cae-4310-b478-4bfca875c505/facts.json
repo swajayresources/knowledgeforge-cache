@@ -1,0 +1,17 @@
+[
+  "The paper presents a numerical simulation of the mixing process in a viscously unstable flow, generated using a high-resolution computational strategy that is stable for arbitrary viscosity ratios.",
+  "The simulation has a viscosity ratio of 33 and a P\u00e9clet number of 10,000.",
+  "The authors observed nonlinear mechanisms such as shielding of one finger by another, merging of fingers, fading of fingers, and channeling of a dominant finger through the more viscous domain.",
+  "The authors developed a two-equation dynamic model for the evolution of the concentration variance and mean scalar dissipation rate to quantify the degree of mixing in the viscously unstable displacement process.",
+  "The initial conditions of the simulation include a slightly perturbed flat interface separating the two fluids, with periodic boundary conditions applied in the transverse direction.",
+  "The less viscous fluid enters the domain continuously from the left boundary, and the right edge is a natural flow boundary.",
+  "Viscous fingering enhances mixing by inducing disorder in the velocity field and increasing the interfacial area between the fluids, but it also causes channeling of the low viscosity fluid, which reduces the overall mixing efficiency.",
+  "The authors use their analysis to predict the range of viscosity contrast that maximizes mixing, indicating a nontrivial interplay between the creation of fluid-fluid interfacial area and channeling.",
+  "The fluid dynamics video accompanying the paper is created from the high-resolution numerical simulation and is intended to demonstrate and help understand the mixing between the two fluids due to viscous fingering.",
+  "The mathematical model used in the study is comprised of the advection-dispersion equation, Darcy's law, and the divergence-free velocity condition.",
+  "The authors use an exponential viscosity-concentration relationship for the mixture, where the viscosity of the mixture is proportional to the exponential of the concentration of the more viscous fluid.",
+  "The displacement in the simulation is from left to right, with the reference frame moving at the average speed of the flow.",
+  "The tips of the viscous fingers split and smaller fingers emerge from them continuously, leading to further stretching of the interface and overall higher mixing rate across the interface.",
+  "The non-local coupling between the concentration and the pressure fields due to the concentration-dependent viscosity results in the observed nonlinear mechanisms during the fingering process.",
+  "The authors' analysis and model provide insights into the nontrivial interplay between the creation of fluid-fluid interfacial area and channeling, which determines the overall mixing efficiency in viscously unstable displacements."
+]
