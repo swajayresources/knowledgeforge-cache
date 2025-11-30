@@ -1,0 +1,17 @@
+[
+  "The tested H-Darrieus wind turbine had a swept area of 1.5 m^2 and was equipped with dihedral blades composed of NACA0021 airfoils with a chord of 0.086 m.",
+  "The wind tunnel had a test section of 4 m wide, 3.84 m high, and 6 m long, with a free-stream turbulence intensity less than 1%.",
+  "The 2D CFD simulations used the k-\u03c9 shear stress transport turbulence model, with a computational grid of 1.2 million elements in the rotating region and 200,000 in the stationary region.",
+  "The CFD simulations were able to accurately predict the power coefficient over the entire range of tip-speed ratios tested, after accounting for parasitic effects.",
+  "At low tip-speed ratios (TSR=1.5, 1.8), the wake profiles showed strong localized regions of velocity fluctuations and the presence of large vortices shed from the blades.",
+  "At higher TSR=2.4, the wake was more stable with a smoother velocity deficit profile.",
+  "The periodic unsteadiness in the wake, measured as the root-mean-square of the phase-resolved velocity component, was higher in the negative Y/D region where the vortex shedding was more intense.",
+  "The unsteadiness decreased as the tip-speed ratio increased towards the stable part of the power curve.",
+  "The authors estimated that the tip flow effects adversely affect the turbine performance for a span length of approximately 2.6 times the blade chord.",
+  "The authors used a lumped-parameter model to estimate the parasitic torque loss due to the supporting spokes, which was applied to correct the CFD power curve predictions.",
+  "The 2D CFD approach was unable to fully capture the 3D effects like tip losses, and the authors noted that fully 3D simulations would be required to accurately describe the flow around these turbines.",
+  "The CFD approach was validated against detailed experimental data from wind tunnel tests, including turbine performance, velocity profiles, and unsteadiness in the wake.",
+  "The authors found good agreement between the CFD simulations and experimental data, especially at higher tip-speed ratios.",
+  "The study aimed to correlate the main macrostructures of the flow in the wake to the unsteady aerodynamics of the airfoils in cycloidal motion.",
+  "The experimental measurements included turbine performance, velocity magnitude and turbulence intensity in the wake using hot-wire probes, and 3D flow direction using a pneumatic five-hole probe."
+]
