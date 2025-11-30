@@ -1,0 +1,1 @@
+This paper develops an analytical model and a numerical solution to study the evolution of the hot gas in galaxy clusters under the influence of radiative cooling. The model demonstrates that the simple power-law relationship between gas entropy and mass can persist under radiative cooling, and explains the apparent lack of clusters with very cold gas at their centers.
