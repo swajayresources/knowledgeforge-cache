@@ -1,0 +1,17 @@
+[
+  "Wind turbines provided almost 8.4% of the total generated electricity in the United States in 2020.",
+  "There are more than 700,800 wind turbines running across 44 states in the US, making wind the number one renewable energy source for power generation.",
+  "The authors designed 40 different defect models in SolidWorks to simulate blade cracks, leading edge erosion, delamination, and lightning strike damage.",
+  "The authors used the Unity game engine and its Perception Package to generate 642 synthetic images with variations in background, camera angle, and lighting effects.",
+  "The authors trained a customized U-Net architecture for 100 epochs using the Adam optimizer and Dice Loss function.",
+  "The trained U-Net model achieved a Dice Coefficient of 0.658 on the test set, indicating it correctly segmented 65.8% of the pixels in the images.",
+  "The authors note that the U-Net model's performance still has room for improvement, and they plan to investigate ways to enhance the segmentation accuracy in future work.",
+  "The authors state that the proposed approach using virtual reality and deep learning can reduce inspection time and cost while improving the accuracy and effectiveness of defect detection compared to traditional methods.",
+  "The authors used SolidWorks 2021 for modeling the wind turbine, and Keyshot 10 for adding textures and materials to the virtual models.",
+  "The authors divided the dataset into 75% for training and 25% for testing the U-Net model.",
+  "The authors used the Jaccard Index to measure the similarity between the predicted segmentation masks and the ground truth masks.",
+  "The authors mention that the use of synthetic data generation can help overcome the challenge of limited real-world data availability for training deep learning models.",
+  "The authors note that in addition to the U-Net architecture, other deep learning models like Multilevel Convolutional Recurrent Neural Networks (MCRNN) have also been used for wind turbine blade defect detection.",
+  "The authors state that the proposed approach can be suitable for autonomous and remote inspection of wind turbines through aerial vehicles like drones.",
+  "The authors used Google Colab for training and testing the U-Net model in their experiments."
+]
