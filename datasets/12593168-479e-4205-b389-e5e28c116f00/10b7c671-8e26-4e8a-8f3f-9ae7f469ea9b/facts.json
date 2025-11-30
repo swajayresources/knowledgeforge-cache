@@ -1,0 +1,17 @@
+[
+  "A computational study was performed to predict the distribution of convective heat transfer coefficient and cooling effectiveness on a simulated turbine blade tip with cooling holes.",
+  "The study used a 3D Reynolds-averaged Navier-Stokes solver and compared the results to experimental data from Kim and Metzger.",
+  "The agreement of the computed cooling effectiveness with the experimental data was quite good.",
+  "The agreement with the heat transfer coefficient was not as good as the effectiveness, but improved away from the cooling holes.",
+  "Numerical flow visualization showed that the uniformity of wetting of the surface by the film cooling jet is helped by the reverse flow due to edge separation of the main flow.",
+  "The study used the k-\u03c9 turbulence model developed by Wilcox with modifications by Menter.",
+  "The study tested coarse, medium, and fine grid resolutions, finding that the medium and fine grids differed by less than 3% away from the hole and less than 10% within two diameters of the hole.",
+  "The study simulated cases with a Reynolds number of 45,000, a height-to-width ratio (H/b) of 2.5, and blowing ratios (M) of 0 and 0.3.",
+  "The study repeated the calculations using three cases with differing wall temperatures to ensure the consistency of the method for determining the heat transfer coefficient and cooling effectiveness.",
+  "The heat transfer coefficient required higher grid resolution than the cooling effectiveness, as the flow near the hole is quite complex and nonuniform.",
+  "The study found that the proximity of the hole to the pressure side edge of the blade may be an important factor in tip film cooling.",
+  "The agreement with the experimental effectiveness measurements was quite similar between the fine grid and a 2/3 coarse grid solution.",
+  "The near hole area is generally overcooled and not normally a failure region, so the near hole results if used in a design would lead to a conservative design.",
+  "The study concluded that the effectiveness can be computed with better reliability than the heat transfer coefficient using the computational approach.",
+  "The study demonstrated the ability of a 3D Reynolds-averaged Navier-Stokes solver to predict the rate of tip heat transfer and the distribution of cooling effectiveness on a turbine blade tip with cooling holes."
+]
