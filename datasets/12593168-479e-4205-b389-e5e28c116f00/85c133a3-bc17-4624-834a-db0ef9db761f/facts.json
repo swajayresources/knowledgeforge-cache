@@ -1,0 +1,12 @@
+[
+  "The five grids analyzed were all 177 x 53 in size, chosen based on requirements for 3D Navier-Stokes analyses.",
+  "Grid A was generated using the GRAPE code, while grids B-E used a two-step process with an embedded viscous grid.",
+  "Grids C-E differed in their treatment of the matching condition along the cut line between the trailing edge and downstream boundary.",
+  "The heat transfer predictions were in good agreement with experimental data for the low turbulence intensity case (1%), but showed more sensitivity to transition modeling assumptions for the high turbulence intensity case (6%).",
+  "Reducing the near-wall grid spacing by a factor of 4 did not significantly improve the heat transfer predictions.",
+  "The pitchwise variation in total pressure was predicted less accurately than the heat transfer, with the grids enforcing matching along the cut line (A-D) showing a narrower wake and lower minimum total pressure compared to the experimental data.",
+  "Grid E, with a bent downstream boundary, showed better agreement with the experimental wake profile, but this may have been due to numerical diffusion from the coarser grid on the suction side.",
+  "Using a two-equation turbulence model (Chien's model) resulted in a wider wake prediction compared to the Baldwin-Lomax model, but did not significantly change the depth of the wake.",
+  "The overall loss coefficients calculated using the two flow solvers were reasonably close to the experimental value of 0.029, with the best agreement using grid D.",
+  "Over 50 spanwise grid planes are needed to achieve grid-independent heat transfer results for a typical turbine blade, limiting the maximum size of blade-to-blade grids to around 10,000 points."
+]
