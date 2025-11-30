@@ -1,0 +1,17 @@
+[
+  "COMETBOARDS is a general-purpose optimization tool developed at NASA Lewis Research Center for multidisciplinary design applications in aerospace industries.",
+  "COMETBOARDS can optimize a system defined through up to ten different disciplines, with a maximum of five subproblems per discipline.",
+  "The modular organization of COMETBOARDS includes several analyzers, such as RPK/NASTRAN for structural analysis, NEPP for air-breathing engine performance analysis, and FLOPS for aircraft performance analysis.",
+  "COMETBOARDS employs a cascade optimization strategy, using multiple state-of-the-art optimization algorithms, to solve complex multidisciplinary design problems.",
+  "In the design optimization of the support system for the International Space Station, the substructure optimization strategy in COMETBOARDS led to an optimum weight of 34.71 lb.",
+  "COMETBOARDS successfully solved five different supersonic aircraft design test cases, with the average optimum takeoff gross weight being about 1% lighter than the results from other optimizers.",
+  "For the design optimization of a mixed flow turbofan engine for a high-speed civil transport system, COMETBOARDS' cascade strategy was essential in solving the 122-mission-point problem.",
+  "COMETBOARDS is written in Fortran 77 and has been tested on Cray, Convex, SGI, and Sun Unix platforms.",
+  "The unique features of COMETBOARDS, such as design variable formulation, constraint formulation, global scaling technique, and analysis approximations, help improve convergence and reduce CPU time for solving difficult optimization problems.",
+  "COMETBOARDS has been successfully used to solve a variety of problems, including structural design, aircraft design, and air-breathing propulsion engine design.",
+  "The modular organization of COMETBOARDS allows for quick integration of new analyzers and optimizers, making it a versatile design tool for the aerospace industry.",
+  "The substructure optimization strategy in COMETBOARDS, with adequate design variable coupling and separation of local and global constraints, is an important feature for the successful optimization of large structural systems.",
+  "COMETBOARDS' cascade optimization strategy, which utilizes multiple optimizers with varying convergence criteria and analysis approximations, was crucial in solving the mixed flow turbofan engine design problem with a large number of mission points and diverse constraints.",
+  "The robustness and versatility of COMETBOARDS have been corroborated by its successful application to a number of diverse industrial problems from different disciplines in the aerospace industry.",
+  "With further enhancements and modifications, the research-level COMETBOARDS has the potential to become a useful design tool for the aerospace industry."
+]
