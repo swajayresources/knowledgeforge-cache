@@ -1,0 +1,1 @@
+This paper discusses the basic aspects of gas turbine heat transfer, highlighting the importance of thermal design in gas turbines, and presenting various heat transfer technologies and methods for validating thermal designs.
