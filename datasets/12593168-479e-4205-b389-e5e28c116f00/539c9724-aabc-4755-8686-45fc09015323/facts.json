@@ -1,0 +1,17 @@
+[
+  "The paper presents a method to optimize the material properties of flexible blades for wind turbines.",
+  "The method uses a universal scaling approach based on two dimensionless parameters: the Cauchy number and the centrifugal number.",
+  "The Cauchy number represents the aerodynamic intensity compared to the restoring force of the torsion spring.",
+  "The centrifugal number represents the centrifugal intensity compared to the restoring force of the torsion spring.",
+  "The Blade Element Momentum (BEM) theory is used to study wind turbines aerodynamics.",
+  "The pitch angle distribution is optimized to maximize the efficiency of the turbine.",
+  "The optimal pitch angle distribution is found to be a decreasing function of the radius and the tip-speed ratio.",
+  "The optimization method reduces the problem to two dimensionless parameters, making it easier to apply to different wind turbine geometries.",
+  "The results show a significant increase in efficiency and harvested power, up to +35%, for a commercial wind turbine.",
+  "The method can be applied to any wind turbine geometry.",
+  "The Cauchy number and the centrifugal number are found to be scale-independent.",
+  "The pitch angle distribution is found to be sensitive to the Cauchy number and the centrifugal number.",
+  "The optimization method can be used to find the optimal material properties for flexible blades.",
+  "The results are validated using a commercial wind turbine geometry.",
+  "The method can be used to improve the efficiency and versatility of wind turbines."
+]
