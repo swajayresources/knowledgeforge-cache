@@ -1,0 +1,12 @@
+[
+  "The inlet Mach number is set to 2.0 and the Reynolds number based on inlet velocity and axial blade chord is 200,000.",
+  "The computational grid has approximately 68 million points, with an O-grid block of 1200 x 280 x 144 points embedded in a background Cartesian grid block of 960 x 280 x 72 points.",
+  "For the adiabatic wall case, the maximum temperature values are observed within the separation bubble, while for the cooled wall, the highest temperatures are along the free shear layer downstream of the bubble.",
+  "The temporal evolution of the separation bubble length shows a contraction and expansion pattern for both the adiabatic and cooled wall cases.",
+  "The tangential Reynolds stress distributions reach maximum values just upstream of the shock-bubble interactions, with similar magnitudes for both wall conditions.",
+  "The wall-normal Reynolds stresses are more pronounced for the adiabatic wall case compared to the cooled wall.",
+  "The study uses a sixth-order accurate compact finite-difference scheme for spatial discretization and an implicit second-order scheme for time integration in the O-grid block.",
+  "A localized artificial diffusivity (LAD) method is employed to capture shock waves while minimizing numerical dissipation in the vicinity of the shocks.",
+  "Body forcing is applied to the Navier-Stokes equations to trigger boundary layer transition with minimal flow disturbance.",
+  "Periodic boundary conditions are used in the spanwise direction to enforce a statistically homogeneous flow along the span."
+]
