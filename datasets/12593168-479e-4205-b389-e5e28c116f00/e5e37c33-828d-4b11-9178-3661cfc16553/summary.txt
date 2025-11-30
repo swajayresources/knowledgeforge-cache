@@ -1,0 +1,1 @@
+This paper experimentally investigates the impact of blade camber on the performance and loading of a cross-flow turbine. It compares symmetrical, concave-in, and concave-out cambered blades, finding that a small amount of negative camber can enhance downstream flow reattachment and reduce peak loading, often outweighing the benefits of positive camber in the upstream region.
