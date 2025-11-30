@@ -1,0 +1,17 @@
+[
+  "The compressor is a compact, high work-factor centrifugal compressor.",
+  "The design speed is 21,789 rpm, corrected to inlet conditions.",
+  "The impeller exit speed is 1615 ft/s.",
+  "The maximum tip clearance at the impeller trailing edge is 0.012 in.",
+  "The backplate leakage flow is controlled through the use of buffer air injected into the center of a multi-row labyrinth seal.",
+  "The uncertainty of the orifice-based mass flow measurement system is \u00b1 0.1 lb/s.",
+  "The relative humidity range during the testing timeframe is 40 to 75 percent.",
+  "The uncertainty of the temperature measurements is \u00b1 2.3 R for inlet conditions and \u00b1 2.5 R for stage exit measurements.",
+  "The sampling rate of the data system is 1 Hz.",
+  "A minimum dwell time of 2 min is observed prior to data collection.",
+  "The compressor meets the goal-set for a new state-of-the-art centrifugal compressor.",
+  "The compressor achieves efficient pressure rise at low corrected flows and compact size.",
+  "The impeller has 15 main-blade/splitter-blade pairs with a spanwise varying backsweep between 32\u00b0 to 42\u00b0 from radial.",
+  "The vaned diffuser comprises 20 main/splitter vane pairs with the splitters slightly offset to maximize pressure recovery.",
+  "The EGV blade row comprises 60 cascade style airfoils."
+]
