@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics study of transitional flows in low-pressure turbines under a wide range of operating conditions. The study uses an intermittency transport model to predict the transitional behavior and compares the results to three sets of recent low-pressure turbine experiments on the Pack B blade.
