@@ -1,0 +1,17 @@
+[
+  "The model was 1.15 times the actual scale of the NASA LeRC High-Temperature, Cooled, Radial Turbine.",
+  "Twelve orifices were used in the discharge flow-control plate at the model exit to regulate the distribution of trailing edge flow.",
+  "The inner passage exit orifice diameter was twice that of the middle and outer exit passages.",
+  "The model was oriented 32.7 degrees from the plane of the test section to match the full-scale rotor.",
+  "Chromel-Alumel, thin-film surface thermocouples (13 microns thick) were used to measure local wall temperatures.",
+  "Liquid crystal temperature indicating paints were used in addition to the thermocouples.",
+  "The maximum shaft speed for the experiments was 750 RPM, producing body forces up to 10,000 g's at the model root.",
+  "Transient heat transfer tests were conducted at Reynolds numbers of 1/4, 1/2, and equal to the full-scale turbine.",
+  "Rotation generally increased heat transfer on some sides of the radial passages and decreased it on others.",
+  "Heat transfer in the tri-passage axial flow region was relatively unaffected by rotation.",
+  "In the transitional region, heat transfer on one surface decreased to 20% of the stationary values with rotation.",
+  "Comparisons to previous 3D numerical studies showed both agreement and disagreement with the experimental results.",
+  "The thermocouple data was smoothed using a second-order least squares fit to remove random noise.",
+  "The maximum air flowrate to the model was approximately 0.02 kg/s (0.044 lbm/s).",
+  "The model air was cooled to -12\u00b0C (10\u00b0F) before entering the rotating shaft and heated to 10\u00b0C (50\u00b0F) at the model inlet."
+]
