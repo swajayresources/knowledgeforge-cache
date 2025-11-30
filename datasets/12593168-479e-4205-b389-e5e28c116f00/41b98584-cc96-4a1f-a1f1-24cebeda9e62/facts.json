@@ -1,0 +1,17 @@
+[
+  "The three turbine blades analyzed were the C3X vane, the VKI rotor, and the ACE rotor.",
+  "The C3X vane had 9 rows of film cooling holes, the VKI rotor had 6 rows, and the ACE rotor had 3 rows.",
+  "The hole diameter on all the blades was less than 1 mm.",
+  "The grid size was varied along the blade chord to maintain a ratio of 0.76 to 1.3 between adjacent grid sizes.",
+  "The C3X vane grid had 281 x 45 x 81 grid points, the VKI rotor grid had 353 x 53 x 17 grid points, and the ACE rotor grid had 313 x 53 x 17 grid points.",
+  "The y+ value for the first point off the blade surface was kept less than 1.",
+  "The computational time on the C-90 supercomputer was about 20 seconds per iteration for one million grid points.",
+  "The first case required about 1100 iterations to converge, while subsequent cases required about 300 iterations.",
+  "The incoming flow turbulence intensity was 6.5% for the C3X vane, 5.2% for the VKI rotor, and 4.0% for the ACE rotor.",
+  "The blowing ratio (Bc) ranged from 0.20 to 0.411 for the C3X vane, 0.092 to 0.352 for the VKI rotor, and 0.0 to 0.7 for the ACE rotor.",
+  "The coolant temperature ratio (Tc/T\u221e) ranged from 0.426 to 0.826 for the C3X vane, 0.176 to 0.352 for the VKI rotor, and 0.18 to 0.7 for the ACE rotor.",
+  "The effect of coolant distribution at the hole exit was observed to be as high as 60% on the suction surface and 50% on the pressure surface.",
+  "Mayle's transition criterion was used only for the ACE rotor, as the C3X vane and VKI rotor had turbulent flow at the leading edge due to showerhead injection.",
+  "Forest's and Crawford's models were used to account for the augmentation of heat transfer due to free-stream turbulence and film cooling, respectively.",
+  "The experimental heat transfer data was obtained using thermocouples, thin-film gages, and platinum resistance thermometers for the three blades."
+]
