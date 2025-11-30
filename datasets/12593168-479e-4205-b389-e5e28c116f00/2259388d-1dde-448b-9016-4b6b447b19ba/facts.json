@@ -1,0 +1,17 @@
+[
+  "The Fastrac turbine is required to produce 895 kW of power and spins at 20,000 RPM.",
+  "The turbine has 24 converging-diverging nozzles, 147 impulse-type shrouded blades, and 67 exit guide vanes (EGVs).",
+  "The nozzle exit Mach number is predicted to be 2.11, with a total-to-static pressure ratio of 11.2 across the nozzle.",
+  "The small nozzle-to-blade gap case (0.102 cm) predicted a work output of 276.3 kJ/kg and a power output of 890 kW.",
+  "The large nozzle-to-blade gap case (0.838 cm) predicted a work output of 269.1 kJ/kg and a power output of 867 kW.",
+  "The uncoupled nozzle and blade/EGV simulation under-predicted the losses and did not accurately capture the mixing and unsteadiness in the axial gap region.",
+  "The modal analysis of the turbine blades indicated possible resonance near the nominal design speed due to excitations from the nozzle count and the EGVs.",
+  "The unsteady CFD analysis showed high levels of unsteadiness at the blade leading edge, particularly at the nozzle passing frequency and its second harmonic.",
+  "Increasing the nozzle-to-blade gap reduced the unsteadiness at the nozzle passing frequency but increased unsteadiness at the second harmonic.",
+  "The CFD grid had a total of 1,545,987 grid points, with 41 radial planes, chosen based on a compromise between accuracy and computational time.",
+  "The numerical algorithm used was third-order spatially accurate and second-order temporally accurate, with two Newton sub-iterations per time step.",
+  "The turbulent viscosity was calculated using the two-layer Baldwin-Lomax algebraic turbulence model.",
+  "Message Passing Interface (MPI) software was implemented to enable parallel processing and reduce computational run times.",
+  "The unsteady CFD analysis provided data to support the aerodynamic and structural dynamic assessments of the turbine design.",
+  "The authors plan to perform further studies on the effects of different nozzle-to-blade axial spacings and the detailed flow physics in the axial gap region."
+]
