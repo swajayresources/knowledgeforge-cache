@@ -1,0 +1,17 @@
+[
+  "The functional form of the wind turbine cost model is a linear combination of several basis functions: \u221ax, x\u00b2, ln(x), and \u221ax.",
+  "The model exhibits a quadratic term in the rated power p with a negative coefficient, leading to a maximum in the total cost curve and unrealistic scaling behavior.",
+  "The 'plausible' region refers to parameter values below the maximum cost, while the 'implausible' region refers to values above the maximum, where increasing turbine capacity decreases total costs.",
+  "The Best-Romani 800KVA and Enercon E-44/800 turbines lie in the 'implausible' region of the cost model.",
+  "The selection of variables, such as specific power, is not well-motivated or validated in the model.",
+  "The choice of basis functions, such as the square root of age, can lead to unrealistic predictions, such as negative costs for turbines built after 2016.",
+  "The authors propose two minimal axioms for wind turbine cost models: physical monotonicity and assumptions on returns-of-scale.",
+  "The NREL cost model, which uses linear combinations of polynomials with fractional exponents, satisfies the proposed axioms.",
+  "Using the flawed cost model in other contexts, such as optimization problems, may generate implausible results.",
+  "The authors hope the proposed axiomatization can serve as a starting point for improving the overall quality of wind turbine cost models.",
+  "The paper highlights the need to carefully consider the choice of variables and basis functions, as well as to enforce basic axioms and assumptions, when deriving cost models through automated regression analysis.",
+  "The authors caution against the naive utilization of the wind turbine cost model in other studies, as it may lead to unreasonable results.",
+  "The authors found 12 turbine models that reside within 20% of the maximum of the cost model, and whose cost estimates should be used with caution.",
+  "Figure 2 shows that 8% of all turbines in the dataset have a very low marginal cost of less than $500/kW, which is likely an artifact of the model's flaws.",
+  "The authors believe that a sound axiomatization of wind turbine cost models could increase the overall model quality in the field."
+]
