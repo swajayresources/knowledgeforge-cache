@@ -1,0 +1,1 @@
+This paper investigates a new class of nickel-based superalloy designed for additive manufacturing. The alloy compositions are optimized for processability, high-temperature strength, and oxidation resistance, and are compared to the heritage alloy CM247LC. The paper examines the microstructure, heat treatment response, and mechanical properties of the new alloys.
