@@ -1,0 +1,17 @@
+[
+  "The turbine had a chord-to-radius ratio (c/R) of 0.49.",
+  "The chord length (c) of the blades was 4.06 cm, the span (h) was 23.4 cm, and the preset pitch angle (\u03b1p) was -6\u00b0.",
+  "The turbine radius to the quarter chord (R) was 8.23 cm.",
+  "The Reynolds number based on chord and freestream was 44,000.",
+  "The Froude numbers based on water depth (H) and submergence (S) were 0.37 and 0.67, respectively.",
+  "The turbine blockage ratio (\u03b2) was 9.3%, and the solidity (\u03c3) was 0.16 for the two-bladed configuration and 0.08 for the single-bladed configuration.",
+  "The positively cambered blades exhibited sub-optimal performance compared to the symmetrical blades.",
+  "The negatively cambered blades slightly improved on the symmetrical blade performance by enhancing downstream flow reattachment.",
+  "The negatively cambered blades reduced peak loading by 13% compared to the symmetrical blades.",
+  "The optimal tip-speed ratio (\u03bb) decreased slightly with increased camber, from 2.15 for the negatively cambered blades to 1.98 for the positively cambered blades.",
+  "The researchers used the method of Migliore and Wolfe to estimate the virtual camber and incidence of the blades.",
+  "The virtual camber of the symmetrical NACA 0018 foil was estimated to be 6% at infinite tip-speed ratio (\u03bb=\u221e).",
+  "The position of maximum virtual camber was approximately 0.49c for the c/R=0.49 turbine.",
+  "The virtual incidence (\u03b1i) was estimated to be 7\u00b0 for the c/R=0.49 turbine, opposing the preset pitch of -6\u00b0.",
+  "The study found that the influence of geometric camber is non-linear, and that using a simplistic summation of geometric and virtual camber may be overly simplistic."
+]
