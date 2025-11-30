@@ -1,0 +1,17 @@
+[
+  "The experiments were performed at JET with mixed H-D plasmas and varying NBI and gas-puff sources.",
+  "The core Deuterium density was derived from the neutron rate, with around 80% of the neutrons originating from the \u03c1 < 0.5 region.",
+  "The edge composition was measured by comparing the relative amplitude of Balmer H\u03b1 and D\u03b1 spectral lines.",
+  "The effective electron particle diffusion coefficient D_e was expected to lie within 0.2\u03c7_eff < D_e < 0.6\u03c7_eff based on previous studies.",
+  "The previous experimental analysis indicated a disparity in magnitude between the ion and electron particle transport coefficients, with D_i/D_e >> 1.",
+  "The magnetic equilibrium was calculated self-consistently, and additional transport was added within the sawteeth inversion radius around \u03c1 ~ 0.3.",
+  "The T_i/T_e ratio at the internal boundary condition (\u03c1=0.8) had a considerable impact on the density peaking predictions.",
+  "The simulations successfully reproduced the experimental temperature and density profiles, providing confidence that the correct ITG regime was being captured.",
+  "The model was able to quantitatively reproduce the experimental deuterium to electron density ratio, with only a slight overestimation for one pulse.",
+  "Tungsten (W) contribution to dilution and Z_eff was almost negligible in these discharges, so W was not included in the modeling.",
+  "Fast ion species were not included in the integrated modeling, as their impact was found to be negligible.",
+  "The pulses studied had plasma current I_p = 1.38 MA, magnetic field B_t = 1.7 T, and 8 MW of NBI heating power.",
+  "The edge composition was measured to have Z_eff around 1.15-1.2 for all discharges.",
+  "The experimental data were averaged for ~400 ms during flat-top, as defined by kinetic profile quasi-stationarity over several confinement times.",
+  "The simulations were constrained to the core, with a boundary condition taken at \u03c1 = 0.8 from the Gaussian Process Regression (GPR) fit."
+]
