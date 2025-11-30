@@ -1,0 +1,15 @@
+{
+  "paper_id": "086a16a0-4ece-4231-a520-ff379d45969a",
+  "title": "Airfoil GAN: Encoding and Synthesizing Airfoils for Aerodynamic Shape Optimization",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/086a16a0-4ece-4231-a520-ff379d45969a/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/086a16a0-4ece-4231-a520-ff379d45969a/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/086a16a0-4ece-4231-a520-ff379d45969a/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/086a16a0-4ece-4231-a520-ff379d45969a/keywords.json"
+  ]
+}
