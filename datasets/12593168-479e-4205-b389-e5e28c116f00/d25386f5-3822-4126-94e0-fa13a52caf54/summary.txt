@@ -1,0 +1,1 @@
+This paper describes the design and development of a 2 lb/sec, 6:1 pressure ratio centrifugal compressor under a NASA contract. It evaluates different impeller and diffuser configurations, selects a tandem-bladed impeller and cascade diffuser design, and provides detailed aerodynamic and mechanical design details.
