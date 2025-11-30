@@ -1,0 +1,17 @@
+[
+  "The paper uses data from a 2.2 MW variable-speed, variable-pitch horizontal axis wind turbine.",
+  "The measured signals used for training the models include flap bending moments, edge bending moments, rotor speed, wind speed, and grid power.",
+  "The time window for the dynamic PCA (dPCA) model is set to 10 seconds, corresponding to 100 data points.",
+  "The number of principal components retained in the PCA model is chosen to explain 90% of the cumulative variance in the data, ranging from 4 to 8 components across the 4 operating regions.",
+  "The Autoencoder model uses a combination of convolutional and LSTM layers to capture the non-linear and time-varying dynamics of the wind turbine data.",
+  "The Autoencoder model is trained to minimize the Mean Absolute Error (MAE) between the original and reconstructed measurements.",
+  "The Generalized Likelihood Ratio (GLR) test is used to enhance the signal separation between healthy and faulty cases, compared to direct thresholding.",
+  "The threshold values for the fault detection statistics (SPE and MAE) are computed to achieve a 1% probability of false alarms.",
+  "Both the PCA and Autoencoder models achieve detection rates close to 100% for faults related to the flap bending moment sensor.",
+  "The Autoencoder model outperforms the PCA model in detecting faults related to the edge bending moment sensor.",
+  "The statistical evaluation shows the Autoencoder generally has higher detection rates, with some exceptions during the transient phase of certain fault scenarios.",
+  "The PCA model requires separate models for each operating region, while the Autoencoder can learn a single global non-linear model covering all regions.",
+  "Real-life blade fault data is used to validate the proposed condition monitoring framework, in addition to simulated fault scenarios.",
+  "The paper focuses on developing a condition monitoring framework for detecting blade faults in wind turbines, which is an important but sparsely reported topic in the literature.",
+  "The proposed learning-based approach leverages both linear (PCA) and non-linear (Autoencoder) models to capture the complex dynamics of wind turbine systems."
+]
