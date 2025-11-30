@@ -1,0 +1,17 @@
+[
+  "The computational domain consists of a modern 10-stage industrial axial compressor, with each stage comprising a row of rotor blades and a row of stator blades.",
+  "The full computational mesh has over 15 million nodes.",
+  "The data is pre-processed to extract only the relevant engineering data, reducing the dimensionality from over 15 million nodes to around 100,000 nodes.",
+  "The neural network architecture is based on a 3D U-Net with double residual convolutional blocks.",
+  "The input to the model includes the tip clearance, surface roughness, and blade geometry parameters.",
+  "The output of the model is a tensor of size (6x24x64x64) representing the 3D flow field variables.",
+  "The dataset is divided into 70% training, 20% validation, and 10% hold-out data.",
+  "The model is trained using the AdamW optimizer and Huber loss function.",
+  "The training is performed with 5 different random seeds, and the results are reported as the mean and standard deviation of the losses.",
+  "The final model showed a training loss of (1.29 \u00b1 0.16)\u00b710^-3 and a test loss of (1.96 \u00b1 0.40)\u00b710^-3 (Huber Loss \u00b1 standard deviation).",
+  "The tip clearance and surface roughness were varied for each blade row within out-of-tolerance conditions up to 50% larger and tighter than the drawing specifications.",
+  "The proposed C(NN)FD architecture is proven to achieve an accuracy comparable to that of the CFD benchmark, in real-time, for an industrially relevant application.",
+  "The C(NN)FD framework provides explainability to the overall performance predictions by identifying the corresponding aerodynamic drivers.",
+  "The C(NN)FD framework is readily integrated within the manufacturing and build process of gas turbines, providing the opportunity to analytically assess the impact on performance with actionable and explainable data.",
+  "The C(NN)FD framework reduces the requirements for expensive physical tests by avoiding the high computational costs and long lead times of traditional CFD analyses."
+]
