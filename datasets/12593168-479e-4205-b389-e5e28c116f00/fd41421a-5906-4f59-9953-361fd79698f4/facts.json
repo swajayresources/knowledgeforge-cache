@@ -1,0 +1,17 @@
+[
+  "The three turbine blades analyzed are the C3X vane, the VKI rotor, and the ACE rotor.",
+  "Typical gas turbine film cooling situations involve steep polynomial profiles with their maxima shifted in upstream or downstream direction from the jet centerline.",
+  "The effect of coolant distribution at the hole exit can be as much as 60% on the heat transfer coefficient at the blade suction surface, and 50% at the pressure surface.",
+  "Different effects are observed on the pressure and suction surface depending upon the blade as well as upon the hole shape, conical or cylindrical.",
+  "The algebraic mixing length turbulence model of Baldwin and Lomax was used, along with Mayle's transition criterion and Forest's and Crawford's models for augmentation of heat transfer.",
+  "The incoming flow in the experimental tests on the ACE rotor had a turbulence intensity of 4.0 percent.",
+  "For the C3X vane, the heat transfer coefficient for each radial cooling hole was calculated from the measured coolant flow rate, coolant temperature, and a correction for thermal entry region effects.",
+  "For the VKI rotor, the local wall convective heat flux was deduced from the corresponding time-dependent surface temperature evolution provided by platinum thin-film gages.",
+  "For the ACE rotor, thin film platinum resistance thermometers were used to measure the heat transfer.",
+  "The grid size used for the C3X vane was 281 x 45 x 81, for the VKI rotor was 353 x 53 x 17, and for the ACE rotor was 313 x 53 x 17.",
+  "The code requires about 60 million words of storage and takes about 20 seconds per iteration (full-multigrid) on the C-90 machine for one million grid points.",
+  "The first case requires about 1100 iterations to converge, while subsequent cases for the same grid require about 300 iterations starting with the solution for the previous case.",
+  "The computational span is different from the real span for the blades to accommodate all the rows of holes.",
+  "The ratio of two adjacent grid sizes in any direction was kept within 0.76 to 1.3 for computational accuracy.",
+  "Periodic boundary conditions were used for the C3X vane and VKI rotor due to showerhead injection, while symmetry conditions were used for the ACE rotor."
+]
