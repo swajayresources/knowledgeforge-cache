@@ -1,0 +1,15 @@
+{
+  "paper_id": "d2747413-aae4-43c9-bb1f-c81b7045cce9",
+  "title": "Cascade Optimization Strategy with Neural Network and Regression Approximations Demonstrated on a Preliminary Aircraft Engine Design",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d2747413-aae4-43c9-bb1f-c81b7045cce9/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d2747413-aae4-43c9-bb1f-c81b7045cce9/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d2747413-aae4-43c9-bb1f-c81b7045cce9/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d2747413-aae4-43c9-bb1f-c81b7045cce9/keywords.json"
+  ]
+}
