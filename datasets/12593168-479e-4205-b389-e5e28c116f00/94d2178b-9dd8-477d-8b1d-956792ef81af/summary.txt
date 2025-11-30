@@ -1,0 +1,1 @@
+This paper investigates the aerodynamic and aeroacoustic performance of a small Darrieus vertical axis wind turbine (VAWT) with V-shaped blades and trailing-edge serrations. The V-shaped blades are shown to effectively improve the power performance of the VAWT over a wide range of tip speed ratios, while the trailing-edge serrations realize the expected noise reduction effect.
