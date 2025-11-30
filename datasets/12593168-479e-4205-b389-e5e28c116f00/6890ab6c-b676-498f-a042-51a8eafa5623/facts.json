@@ -1,0 +1,16 @@
+[
+  "The authors used the hyperbolic (modified) phase-field-crystal (MPFC) model, which accounts for relaxation of both the atomic density field and the atomic flux.",
+  "The authors simulated the growth of the (100), (110), and (111) faces of a body-centered cubic (BCC) crystal lattice.",
+  "The authors obtained the following sequence of growth velocities: V(100) = 0.519, V(111) = 0.4623, V(110) = 0.4027.",
+  "The growth velocity anisotropy V(100)/V(110) was around 1.29 at low driving forces and decreased to around 1.06 at intermediate driving forces.",
+  "The anisotropy of the growth velocities also decreased with increasing relaxation time \u03c4.",
+  "At high driving forces and relaxation times, the authors observed the formation of disordered crystal structures due to a mismatch between the selected lattice parameter and the equilibrium lattice spacing.",
+  "The authors found that the observed sequence of growth velocities agrees with the Bravais law, which states that the faster growth occurs for faces with lower reticular atomic densities.",
+  "The reticular atomic densities for the BCC lattice faces are: \u03c1(100) = a^2, \u03c1(111) = 27a^2, \u03c1(110) = a^2, where a is the lattice parameter.",
+  "The authors used a computational domain of 27x27x300 dimensionless units with up to 230 grid points and periodic boundary conditions.",
+  "The front velocity scale V0 was calculated using the Boltzmann constant kB, temperature T, one-particle number density \u03c1*, and mobility M.",
+  "The authors compared their results to previous studies on the parabolic PFC model, which showed a decreasing front velocity with increasing relaxation time \u03c4.",
+  "The authors noted that the contribution of the flux term in the MPFC equation is isotropic and influences each crystal face identically.",
+  "The authors suggest that quantitative estimation of the disordered zone around the solidification front is a perspective topic for future study.",
+  "The authors acknowledge support from the Russian Science Foundation under Grant RSF 18-12-00438."
+]
