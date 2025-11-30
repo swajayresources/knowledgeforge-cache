@@ -1,0 +1,17 @@
+[
+  "The authors use the anelastic approximation to model the fully-compressible fluid equations, which relaxes the assumptions of the Boussinesq approximation used in previous studies.",
+  "The authors find that the bifurcations and the abrupt nature of the transitions between flow states are evident in the time-averaged kinetic energy densities plotted as a function of baroclinicity Z.",
+  "In the basic axisymmetric state A, the toroidal kinetic energy dominates, while the non-axisymmetric components emerge in state B with the equatorially asymmetric ones being larger than the corresponding equatorially symmetric ones.",
+  "The authors find regions of hysteretic bistability, where either of the states B or C, or D or C, may be realized depending on the initial conditions.",
+  "The dynamo solution obtained has a negligible quadrupolar component and a large-scale dipolar topology, resembling the surface fields of Ap-Bp stars.",
+  "The azimuthally-averaged toroidal magnetic field shows a pair of hook-shaped toroidal flux tubes largely filling the outer layer of the shell at lower latitudes, as well as a pair of toroidal flux tubes in the polar regions and parallel to the rotation axis.",
+  "The azimuthally-averaged poloidal field shows a pair of octupole poloidal flux tubes confined to the interior of the shell.",
+  "The authors argue that magnetic fields in stably stratified stellar interiors may not necessarily be of fossil origin, and that dynamo action may possibly occur in the radiative zones of rotating stars.",
+  "The authors note that the details of the bifurcation sequence depend on the choice of parameter values, but that the general picture persists when parameter values are changed by up to a factor of 10.",
+  "The authors use a Prandtl number of 0.1 in their study, as the eddy diffusivities in a stably stratified system are not likely to yield an effective Prandtl number of the order unity.",
+  "The authors choose a Coriolis number of 300, which offers a good compromise between the effect of rotation being strong enough to govern the dynamics and not causing a significant increase in computational expenses.",
+  "The authors use a negative Rayleigh number of -5x10^4 to model a convectively stable situation.",
+  "The authors note that while they have not strived to adjust the values of the dimensionless parameters in their model to physically realistic ones, the general picture described in the paper persists when parameter values are changed by up to a factor of 10.",
+  "The authors speculate that even in the solar interior below the convection zone, magnetic fields may be generated through dynamo action in the radiative zone, a possibility that has not yet been investigated.",
+  "The authors remark that the details of the bifurcation sequence depend on the choice of parameter values, but that the general picture described in the paper persists when parameter values are changed by up to a factor of 10."
+]
