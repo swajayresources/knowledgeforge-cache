@@ -1,0 +1,17 @@
+[
+  "The LCTR vehicle requires a main-rotor speed range from 650 ft/s in VTOL mode to 350 ft/s in cruise mode, resulting in 50\u00b0 or more variations in VSPT blade incidence angles.",
+  "The transonic turbine cascade facility was modified to accommodate a wider range of incidence angles, from a minimum of -46.5\u00b0 to a maximum of +29.1\u00b0.",
+  "The key measurements included total pressure, flow angles, blade and endwall static pressures, and 12 new exit static pressure taps.",
+  "At negative incidence angles, the non-uniform exit static pressures were observed, with the blade row and back wall establishing a converging exhaust section.",
+  "The exit flow surveys showed significant changes in the total pressure and flow angle distributions with variations in incidence angle and Reynolds number.",
+  "The blade loading showed that as the incidence angle became more negative, the suction side pressure coefficient decreased, indicating reduced loading.",
+  "The loss levels were observed to decrease with negative incidence and increase with decreasing Reynolds number, resulting in a narrower loss bucket at lower Reynolds numbers.",
+  "The exit flow angles also varied significantly with incidence angle and Reynolds number.",
+  "The cascade facility was operated over a wide range of Reynolds numbers, from 6.83x10^5 to 0.85x10^5, and two isentropic exit Mach numbers of 0.74 and 0.34.",
+  "The key conclusions were that the facility modifications were successful, the data showed good repeatability and consistency, and the dataset provides a valuable case for CFD code validation.",
+  "The main technical challenges were accommodating the large incidence angle variations and addressing the transitional Reynolds number effects.",
+  "The study supports the development of variable-speed power turbine (VSPT) technology for the NASA Large Civil Tilt Rotor (LCTR) vehicle.",
+  "The GE EEE tip section blade with a design inlet angle of 29.7\u00b0 and design exit angle of 64.4\u00b0 was used in the study.",
+  "Midspan exit total pressure and flow angle measurements were obtained at seven inlet flow angles, ranging from +29.1\u00b0 to -46.5\u00b0.",
+  "For each inlet angle, data were obtained at five flow conditions with inlet Reynolds numbers varying from 6.83x10^5 to 0.85x10^5 and two isentropic exit Mach numbers of 0.74 and 0.34."
+]
