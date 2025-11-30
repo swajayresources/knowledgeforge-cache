@@ -1,0 +1,17 @@
+[
+  "The paper presents a capillary-wave description of binary-alloy solidification, generalizing a previously introduced model to include the procedure of directional solidification.",
+  "A universal dispersion relation of the unstable eigenmodes of a planar steady-state solidification front is derived, which readjusts previously known stability considerations.",
+  "The paper establishes a differential equation for oscillatory motions of a planar interface that offers a limit-cycle scenario for the formation of solute bands and banded structures.",
+  "The model considers the simplest case of a planar interface, neglecting heat diffusion and assuming an overall constant diffusion coefficient for the solute component.",
+  "For a class of model systems, the resulting integro-differential equation for the interface position can be reduced to the differential equation of a damped nonlinear oscillator.",
+  "Stationary solutions of the oscillator equation are found to exist in some region, limited by the threshold of the Cahn instability.",
+  "The nature of the periodic solutions can be tuned from almost-harmonic to distinctive relaxation oscillations by changing the pulling velocity.",
+  "The inclusion of the inertial term in the oscillator equation is crucial for providing the necessary turnaround of the trajectories at low velocities.",
+  "The projection of the limit cycle enters the unstable region of the Mullins-Sekerka instability, leading to the development of a dendritic microstructure at low velocities.",
+  "The period of the limit cycle is proportional to m near the threshold, and proportional to m\u00b2 deep inside the limit-cycle regime, where m is a parameter related to the temperature gradient.",
+  "The reduced model equations emerge in the limit of an infinite heat conductivity from a more general model involving energy density as an additional field variable.",
+  "The paper demonstrates that the periodic motion of a planar solidification front can only be explained by going one step beyond the quasi-stationary approximation.",
+  "The Cahn instability, similar to that found in grain-boundary motion, acts as a seed for the limit-cycle behavior in the unstable regime.",
+  "The inertial term in the oscillator equation proves to be important for the formation of a hysteresis loop, which represents the limit cycle describing the defect oscillations necessary for the creation of banded structures.",
+  "The model choice of the solute concentration profile U(z-Z) leads to explicit expressions for the quantities G(v) and C(Z(t),t), which are used in the analysis."
+]
