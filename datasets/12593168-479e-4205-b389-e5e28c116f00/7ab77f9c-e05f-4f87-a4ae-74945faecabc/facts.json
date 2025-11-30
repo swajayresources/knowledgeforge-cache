@@ -1,0 +1,17 @@
+[
+  "The CODYRUN software uses a nodal analysis approach to model the heat transfer in buildings, considering conduction, convection, and radiation.",
+  "The CODYRUN software couples the thermal and airflow modules through an iterative process, using a pressure model to calculate the inter-zonal airflow rates.",
+  "The CODYRUN software has been validated through inter-model comparisons with other building simulation tools and against experimental data from test cells and real buildings.",
+  "The air solar collector is modeled in CODYRUN as a zone with a glazed window, exterior walls, and an inner absorber wall, with a specific solar radiation absorption process.",
+  "The key parameters that influence the performance of a Trombe wall system are the external glazing emissivity, the window type, and the wall absorptivity.",
+  "The CODYRUN model is able to capture the inverse thermocirculation that can occur in a Trombe wall system, where the flow reverses at night and the system cools the room.",
+  "The impact of the hole closing system in the Trombe wall is relatively minor in the studied case, as the mass flow has low sensitivity to the opening state.",
+  "To improve the performance of a Trombe wall, increasing the wall surface area and/or adding reflectors to raise the incoming sunlight intensity could be effective, as well as using a double-glazed system.",
+  "The CODYRUN simulations provide a range of outputs for the Trombe wall system, including the conductive heat flux, the sensible power outputs, the global heat flux, and comfort indices.",
+  "The CODYRUN software uses a specific solar radiation absorption model for the air solar collector, as the solar irradiation typically does not directly impact an internal wall in building simulations.",
+  "The CODYRUN software has been validated through the BESTEST procedure, which involves simulating various buildings with increasing complexity and comparing the results with other simulation codes.",
+  "The CODYRUN software has recently been supplemented by a CO2 propagation model in buildings, in addition to the thermal and airflow modeling capabilities.",
+  "The CODYRUN software is able to handle the modeling of mechanical ventilation systems by considering their known airflow values, without the need for detailed flow-pressure characteristics.",
+  "The CODYRUN software uses a finite difference scheme for the numerical solution of the humidity transfer model, which includes the use of a hygroscopic buffer.",
+  "The CODYRUN software has been used to study the application of Trombe wall systems in a developing country context, such as classrooms in Antananarivo, Madagascar, to help address low temperatures during the winter season."
+]
