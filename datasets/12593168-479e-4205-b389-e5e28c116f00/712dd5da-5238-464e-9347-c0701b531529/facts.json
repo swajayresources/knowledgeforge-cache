@@ -1,0 +1,23 @@
+[
+  "Box 14115-134, Tehran, Iran bCenter for Research and Development in Mathematics and Applications (CIDMA), Department of Mathematics, University of Aveiro, 3810-193 Aveiro, Portugal (This is a preprint of a paper whose final and definite form is published in \u2019Optimization\u2019 at https://doi",
+  "1080/02331934",
+  "2232141) Abstract We study an optimal control problem for a stochastic model of tumour growth with drug ap- plication",
+  "MSC 2020 49J55; 49J20; 49J15; 49K45; 49K20; 49K15",
+  "1 Introduction Cancer is one of the most leading causes of death throughout the world",
+  "Mathematicians, who are active in the cancer research field, study mathematical models of tumour growth with different approaches (forinstancesee[1\u20136])",
+  "Inmostofthemodels,itisassumedthatthetumoursgrowradiallysymmetric (for instance, see [1,6]) because in vitro observations suggest that in early stages the solid tumour growth is approximately radially symmetric [5]",
+  "1 3202 luJ 81 ]CO",
+  "htam[ 1v47590",
+  "7032:viXra Figure 1: Unstainedequatorialcryosectionof10\u00b5mthicknessthroughaWiDrhumancolonadenocarcinoma spheroid as visualized by a phase contrast microscope (bar, 250 \u00b5m) [11] (A)",
+  "The inner necrotic core is surrounded by a layer of quiescent cells, which, in turn, is surrounded by a layer of viable cells [12]; Patho- physiological gradients in a 3D tumour spheroid [13] (B)",
+  "of glucose and oxygen in the inner regions of spheroids may contribute to the formation of quiescent, hypoxic, anoxic and necrotic cell sub-populations [7] (see Figure 1)",
+  "Therefore, in many tumour growthmodelsalivecellsaredividedintoproliferativecellsandquiescentcells(forinstance,see[1,6])",
+  "Therefore many researchers have studied the stochastic models of tumour growthto consider random perturbationsand uncertainties (forinstance, see[8\u201310])",
+  "For example in [1], the author studied a model of tumour growth, which is under treatment",
+  "\u2202\u03c1 L\u221e(Q\u2217) 1 \u2202\u03c1 L\u221e(Q\u2217) T T 3 Model In this section, first we present a deterministic mathematical model of tumour growth introduced in[1]",
+  "Now, we present the following deterministic parabolic-hyperbolic free boundary problem mod- elling tumour growth with drug application, which is introduced in [1] \u2202C(x,t) = D \u2206C(x,t)\u2212(K (C)P +K (C)Q), x \u2208 \u2126(t) \u2282 R3, t > 0, (2) 1 1 2 \u2202t C(x,t) = C(t) on \u2202\u2126(t), t > 0, C(x,0) = C (x) x \u2208 \u2126(0), (3) 0 \u2202W(x,t) = D \u2206W(x,t)\u2212(K (W)P +K (W)Q), x \u2208 \u2126(t), t > 0, (4) 2 3 4 \u2202t W (x,t) = W(t) on \u2202\u2126(t), t > 0, W (x,0) = W (x) x \u2208 \u2126(0), (5) 0 \u2202P(x,t) \u2192\u2212 +div(P(x,t)v (x,t)) \u2202t = [K (C)\u2212K (C)\u2212K (C)\u2212G (W)]P +K (C)Q x \u2208 \u2126(t), t > 0, (6) B Q A 1 P \u2202Q(x,t) \u2192\u2212 +div(Q(x,t)v (x,t)) = K (C)P \u2212[K (C)+K (C)+G (W)]Q x \u2208 \u2126(t), t > 0, (7) Q P D 2 \u2202t \u2202D(x,t) \u2192\u2212 +div(D(x,t)v (x,t)) = [K (C)+G (W)]P+[K (C)+G (W)]Q\u2212K D x \u2208 \u2126(t), t > 0, A 1 D 2 R \u2202t (8) P(x,t)+Q(x,t)+D(x,t) = N x \u2208 \u2126(t), t > 0, (9) P (x,0) = P (x), Q(x,0) = Q (x), D(x,0) = D (x), x \u2208 \u2126(0), (10) 0 0 0 6 where\u2126(t) \u2282 R3 isthetumourdomainattimetand\u2192\u2212 v isthevelocityoftumourcells\u2019movement",
+  "T 4 Optimal control problem In this section, we present the following stochastic optimal control problem (SOCP) in which we add the control variables to the stochastic model to control the concentrations of drug and nutrient on the boundary and inside the tumour to destroy the tumour cells",
+  "After that we show the stochastic model has a unique solution",
+  "1, we show that the following inequality holds ||z1,T \u2212z2,T\u2225k +||z1,T \u2212z2,T||k c c L\u221e([0,1]) w w L\u221e([0,1]) +\u2225(z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T)\u2225k p p q q a a \u03b7 \u03b7 L\u221e([0,1]) (cid:16)(cid:90) t \u2264 \u03ba (\u03c9) \u2225(cT \u2212cT,wT \u2212wT,pT \u2212pT,qT \u2212qT,aT \u2212aT,\u03b7T \u2212\u03b7T)\u2225k ds 1 1 2 1 2 1 2 1 2 1 2 1 2 L\u221e([0,1]) 0 17 (cid:90) t (cid:17) + \u2225(z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T,z1,T \u2212z2,T)\u2225k ds a",
+  "In the following theorem we show that this problem has a unique optimal control"
+]
