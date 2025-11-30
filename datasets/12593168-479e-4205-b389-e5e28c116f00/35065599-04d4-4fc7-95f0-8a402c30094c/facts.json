@@ -1,0 +1,17 @@
+[
+  "The experiments were performed in a steady-flow annular turbine cascade facility equipped with an upstream rotating row of cylindrical rods to produce a periodic wake field.",
+  "Spanwise, chordwise, and temporal resolution of the blade surface temperature were achieved through the use of an array of nickel thin-film surface gauges.",
+  "Film effectiveness and Nusselt numbers were determined for a test matrix of various injectants, injectant blowing ratios, and wake Strouhal numbers (St).",
+  "Results indicate a demonstrable reduction in film effectiveness with increasing Strouhal number.",
+  "An equation was developed to correlate the span-average film effectiveness data.",
+  "The primary effect of wake unsteadiness was found to be correlated well by a chordwise-constant decrement of 0.094 St.",
+  "Measurable spanwise film effectiveness variations were found near the showerhead region, but meaningful unsteady variations and downstream spanwise variations were not found.",
+  "Nusselt numbers were less sensitive to wake and injection changes.",
+  "Steady computations were found to be in excellent agreement with experimental Nusselt numbers but to overpredict experimental film effectiveness values.",
+  "Unsteady computations were found to agree well with steady computations when the proper time-average blowing ratio and pressure/suction surface flow split were matched.",
+  "The remaining differences between unsteady and steady computations were found to be due to enhanced mixing in the unsteady solution caused by the wake sweeping normally on the pressure surface.",
+  "The computational modeling was used to complement the experimental investigations and provide additional insights into the effect of wake passing on turbine blade film cooling.",
+  "The study combined experimental and computational methods to analyze film effectiveness, Nusselt numbers, and the impact of wake Strouhal number and blowing ratio on these parameters.",
+  "The experiments were performed in a steady-flow annular turbine cascade facility with an upstream rotating row of cylindrical rods to produce a periodic wake field.",
+  "The primary effect of wake unsteadiness was found to be correlated well by a chordwise-constant decrement of 0.094 St."
+]
