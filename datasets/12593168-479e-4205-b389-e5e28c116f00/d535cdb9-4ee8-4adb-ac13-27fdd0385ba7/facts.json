@@ -1,0 +1,21 @@
+[
+  "1 Introduction To approach our target\u2014a fast local iteration for nonsmooth optimization\u2014let us recall, as motivation, the classical foundations of gradient descent (GD)",
+  "For some function h, denote the linear approximation of h centered at some differentiable iterate x\u02dc by (cid:96)h(x)\u2261h(x\u02dc)+\u2207h(x\u02dc)T(x\u2212x\u02dc), x\u02dc where \u2207h(\u00b7) is the gradient of h",
+  "When h is smooth, given a step-size 1, the canonical GD step x\u02dc+ = L x\u02dc\u22121\u2207h(x\u02dc) produces the global minimum of the following local model",
+  "L L hGD(x)=(cid:96)h(x)+ (cid:107)x\u2212x\u02dc(cid:107)2",
+  "(1) x\u02dc x\u02dc 2 2 The model hGD incorporates the local linear behavior observed around x\u02dc through the gradient \u2207h(x\u02dc) as x\u02dc well as the prior belief that the gradients themselves are L-Lipschitz functions of x",
+  "Indeed\u2014on convex, L-smooth objectives\u2014 canonical results (as described in standard texts such as Beck (2017, Chapter 10)) guarantee that every GD iteration will both reduce the objective value and move closer to the true global minimizer of h",
+  "When the Hessian is available, one can alternatively consider the Newton model 1 hNewton(x)=(cid:96)h(x)+ (x\u2212x\u02dc)T \u22072h(x\u02dc)(x\u2212x\u02dc)",
+  "(2) x\u02dc x\u02dc 2 For first-order methods, however, the Hessian \u22072h(x\u02dc) is inaccessible",
+  "This motivates popular quasi-Newton approachessuchastheBroyden-Fletcher-Goldfarb-Shanno(BFGS)algorithm(asdescribedinstandardtexts such as Nocedal and Wright (2006, Chapter 6)) that minimizes an approximation to (2) after estimating \u22072h(x\u02dc) using only gradient differences and then performs a line-search",
+  "xh332@cornell",
+  "edu/aslewis ResearchsupportedinpartbyNationalScienceFoundationGrantDMS-2006990 1 2202 peS 72 ]CO",
+  "htam[ 5v54651",
+  "1112:viXra capture the discontinuity of objective gradients",
+  "For example, one class of multipoint methods (discussed later in Section 1",
+  "4) adaptively refines a lower cutting-plane model of the objective through a series of \u201cnull steps\u201d around each iterate until it achieves descent in a \u201cserious step\u201d",
+  "With this terminology, we present our primary theoretical setting as well as our first result",
+  "B Geometric Proof of Theorem 5 Although Theorem 5 can be proven by verifying first-order optimality conditions and applying the implicit function theorem, we present here a more direct, computationally revealing approach that highlights the underlying geometry of Survey Descent",
+  "In contrast, we show in this paper that the Survey Descent iteration\u2014at least in the case of strongly convex, max-of-smooth function objectives\u2014achieves a local, linear convergence rate",
+  "i To prove local linear convergence, we show below that the survey points contract towards x\u00af"
+]
