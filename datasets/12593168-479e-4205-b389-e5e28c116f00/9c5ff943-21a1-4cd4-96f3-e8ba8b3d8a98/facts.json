@@ -1,0 +1,17 @@
+[
+  "The analysis considers a 5-MW composite wind turbine blade made of T300/QY8911 material.",
+  "The maximum internal stress in the composite blade is 718 MPa, and the ultimate stress is 1548 MPa.",
+  "The fatigue life cycles N are calculated using the S-N curve model with parameters a = 1.816, b = 8.097, and m = 1.",
+  "The gamma process shape parameter v(t) and scale parameter u are used to model the stochastic fatigue damage accumulation.",
+  "The failure probability is calculated by integrating the gamma process probability density function from the critical fatigue damage to infinity.",
+  "The numerical results show the fatigue damage grows rapidly in the first 2 years, then increases gradually until around 90% damage.",
+  "The failure probability curves show a rapid increase as the fatigue damage approaches the critical level.",
+  "The proposed model can be used to determine optimal inspection and maintenance schedules to prevent structural failure.",
+  "Composite materials are used for wind turbine blades due to their better fatigue resistance and lighter weight compared to traditional materials like metals.",
+  "Offshore wind turbines operate in harsh marine environments with high-frequency and high-amplitude cyclic wind loads.",
+  "Monitoring-based fatigue damage prognosis is critical to prevent catastrophic failure of wind turbine blades.",
+  "The manufacturing cost of composite blades is about 15-20% of the total wind turbine production cost.",
+  "The design life of offshore wind turbines is usually 25-30 years.",
+  "Finite element analysis is used to accurately obtain the internal stresses in the composite blade under the wind loads.",
+  "The gamma process is proven to be more versatile and increasingly used in optimal maintenance strategies."
+]
