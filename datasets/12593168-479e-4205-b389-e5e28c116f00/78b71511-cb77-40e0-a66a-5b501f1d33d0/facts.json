@@ -1,0 +1,17 @@
+[
+  "The authors performed Monte Carlo simulations of the colloidal epitaxy of hard spheres on a square pattern.",
+  "The groove width of the square pattern was 0.707106781\u03c3, and the separation between neighboring groove edges was 0.338\u03c3.",
+  "The authors used system sizes of L_x = L_y = 12.55\u03c3 and L_x = L_y = 25.09\u03c3, with a fixed vertical system size of L_z = 200\u03c3.",
+  "The authors increased the gravitational number g* stepwise to avoid trapping the system in a metastable state.",
+  "For the N=6656 system, defect disappearance was observed at g* less than 0.9 in two simulations, and at g* greater than 0.9 in four simulations.",
+  "For the N=26624 system, defect disappearance was observed at g* less than 0.9 in all three simulations, occurring during g* = 0.5 or g* = 0.7.",
+  "The authors observed the formation of a few crystalline layers at the bottom that matched the square pattern, even at low gravitational numbers.",
+  "In the snapshots, the authors identified potential stacking fault tetrahedra, which appeared to be sessile (stationary) defects.",
+  "The evolution of the center of gravity was smooth and of a single relaxation mode for cases where defect disappearance occurred at lower gravitational numbers, but exhibited multiple relaxation modes when defect disappearance occurred at higher gravitational numbers.",
+  "For the larger N=26624 system, the authors observed an increase in disorder in the appearance of the system at large gravitational numbers in one of the projected snapshots.",
+  "The authors noted that accomplishing detailed analyses to observe the manner of defect disappearance and identify the structure of defects are left as future research.",
+  "The authors aim to systematically enlarge the system size and optimize the control of the gravitational number to efficiently erase defects in the colloidal crystals.",
+  "The authors found that the use of a square pattern on the bottom wall, instead of a small periodic boundary simulation box, provides a realizable condition to drive the fcc (001) stacking.",
+  "The authors observed the disappearance of stacking faults through the glide of Shockley partial dislocations, which was an answer to the question of why defects in colloidal crystals are reduced by gravity.",
+  "The authors noted that the intrinsic stacking fault is one of the metastable configurations, and there exist mechanisms connecting other metastable configurations."
+]
