@@ -1,0 +1,17 @@
+[
+  "Pre-printsubmittedtotheProceedingsoftheASMETurboExpo2024 TurbomachineryTechnicalConferenceandExposition GT2025 June17-19,2025,Memphis,USA - C(NN)FD-DEEPLEARNINGMODELLINGOFMULTI-STAGEAXIALCOMPRESSORSAERODYNAMICS GiuseppeBruni1,2\u2217,SepehrMaleki2 SenthilK",
+  "Krishnababu1,2 1SiemensEnergyIndustrialTurbomachineryLtd,Lincoln,UnitedKingdom 2LincolnAILab,UniversityofLincoln,UnitedKingdom ABSTRACT aerodynamic assessments",
+  "Aphysics-baseddimension- \ud835\udc49 \ud835\udc65 AxialVelocity alityreductionunlocksthepotentialforflow-fieldpredictionsfor \ud835\udc49 \ud835\udc61 TangentialVelocity large-scaledomains,re-formulatingtheregressionproblemfrom \ud835\udc49 \ud835\udc5f RadialVelocity anunstructuredtoastructuredoneandreducingthenumberof \ud835\udc452 CoefficientofDetermination degreesoffreedom",
+  "Compared to \u201cblack-box\u201d approaches, theproposedframeworkhastheadvantageofphysicallyexplain- 1",
+  "INTRODUCTION able predictions of overall performance, as the corresponding Advancementsinmodelingandnumericalmethodshavepro- aerodynamicdriverscanbeidentifiedona0D/1D/2D/3Dlevel",
+  "com tive methods that can provide accurate predictions of the flow 1 Copyright\u00a92025bySiemensEnergyGlobalGmbH&Co",
+  "KG 5202 raM 81 ]nyd-ulf",
+  "scisyhp[ 1v96341",
+  "3052:viXra fieldandaerodynamicperformance,withreducedcomputational mance predictions [12]",
+  "[13]forthesemanticsegmentationofanaero-engine andanalysisactivitiesforavarietyofaerodynamicassessments, intakeusingU-NetandU-Net++architectures",
+  "Earlyattemptsto includingpredictingtheeffectofvariationsin: tipclearance,sur- apply structured approaches through voxelization of a fan stage face roughness, in-tolerance geometries, Variable Guide Vanes 3D domain were found to have limited accuracy, especially for (VGVs)settings,operatingconditions,oracombinationofthese estimating overall performance figures [14]",
+  "Moreover, in case of design structured approaches based on convolutional neural networks activities,surrogatemodelscanbeusedtoprovidequickassess- forturbomachineryhaveledtoagrowinginterestingraphneural ment for manual design iterations, or supporting optimisation networks[15][16],whichhavebeenappliedto3Dturbomachin- activitiesbyperforminglow-fidelityanalysesinparalleltohigh- ery,onasinglerowcompressor[17]andturbine[18],aswellas fidelityones",
+  "Conventionalsurrogatemodels,maprelationships forunsteadypredictions[19]",
+  "Evenwhenadoptingamulti-scale betweenspecificinputandoutputvariables,andhavetobebuilt approachtoaddressmemorylimitations[19],challengesrelated fromscratchforeachoptimisationsetup",
+  "In a recent work, a transformer architec- learningmethodshaveunlockedthepotentialformoredetailed, ture was used to approximate the 3D flow field of multi-stage accurateandre-usablemodels"
+]
