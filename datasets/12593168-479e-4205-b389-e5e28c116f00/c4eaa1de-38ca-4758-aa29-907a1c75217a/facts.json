@@ -1,0 +1,17 @@
+[
+  "The TBC system being investigated, designated PWA264, consists of an inner low pressure chamber plasma-sprayed NiCoCrAIY metallic bond coat (4-6 mils thick) and an outer air plasma-sprayed 7 w/o Y2O3 - ZrO2 (8-12 mils thick) ceramic top layer.",
+  "The primary mode of TBC failure is ceramic spallation resulting from the formation of a dominant crack in the ceramic phase, parallel to and adjacent to, but not co-incident with, the metal-ceramic interface.",
+  "Static furnace tests will be conducted in both air and non-oxidizing environments to separate the influence of oxidation from other potential thermal exposure effects.",
+  "Cyclic burner rig tests will be conducted at two cycle rates, on as-fabricated coatings, and on coatings pre-exposed in oxidizing and non-oxidizing environments, to determine the relative importance of thermal exposure and cyclic thermal stress effects.",
+  "Fractional exposure tests will involve destructive examination of unfailed coatings exposed for various fractions of the anticipated ceramic spalling life to provide information about the nature and rate of coating damage accumulation.",
+  "The instrumented specimen for the cyclic burner rig tests will have temperature measurement at the ceramic surface and approximately 10 mils below the metal-ceramic interface in five equally distributed circumferential locations.",
+  "A minimum of 20 single-specimen, cooled burner rig tests will be conducted in Phase II to obtain data for the major mode life prediction model development.",
+  "Transient thermal and thermoelastic analyses will be conducted for each Phase II test condition using the MARC program, which provides elastic, elastic-plastic, creep, large displacement, buckling and heat transfer analysis capabilities.",
+  "Dimensional analysis and multiple linear and nonlinear regression techniques will be used to obtain the best correlation between the established parameter groups for the life prediction models.",
+  "Analytical studies of the stress increase in the ceramic layer due to oxidation of the bond layer will be conducted to account for the effects of oxidation.",
+  "A unified correlation model will be developed in Phase II to account for all failure modes and their ranges, with thermal cyclic stress as the main failure mode, and incorporating creep and long-time exposure effects.",
+  "The validity of the models developed in Phase II will be assessed through a series of benchmark engine mission simulation tests.",
+  "If necessary, recommendations for further research or refinement required for satisfactory engine life prediction methodology will be made based on the Phase III model verification results.",
+  "The bulk specimen microstructure produced for the property tests provides a relatively good approximation of the desired thin coating structure of the PWA264 TBC system.",
+  "The single rotating specimen geometry used for the Phase I verification testing and Phase II model development has a 1-inch outside diameter, 1/2-inch inside diameter, and is approximately 5 inches long."
+]
