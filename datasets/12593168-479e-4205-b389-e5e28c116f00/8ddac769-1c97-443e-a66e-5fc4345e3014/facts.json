@@ -1,0 +1,17 @@
+[
+  "The permeability coefficient (or mushy zone constant) is highly uncertain, with values reported in the literature ranging from 10^3 to 10^15 kg/s/m^3.",
+  "For isothermal phase change problems, the numerical predictions were found to be independent of the permeability coefficient for sufficiently fine meshes.",
+  "For non-isothermal phase change problems, the sensitivity to the permeability coefficient was much stronger and did not vanish with decreasing grid size, even in the steady-state.",
+  "The sensitivity to the permeability coefficient was lower when the mushy zone thickness was smaller, i.e., for smaller temperature differences between the hot and cold walls.",
+  "The authors used dimensionless parameters such as Fourier number (Fo), Prandtl number (Pr), Grashof number (Gr), Rayleigh number (Ra), and Stefan number (Ste) to analyze the results.",
+  "The authors quantified the sensitivity using the relative difference in the predicted liquid fraction (\u0394\u03c6) and the difference in the solid-liquid interface morphology (\u0393).",
+  "The authors found that for magnitudes of the sink term (CD^2/(\u03bc\u03b5)) roughly larger than 2.5x10^7, the predicted liquid fraction is independent of the sink term.",
+  "The sensitivity to the permeability coefficient was lower for materials with higher thermal diffusivity, as conductive heat transfer dominated over convective heat transfer in the mushy zone.",
+  "The authors highlighted the limitations of the enthalpy-porosity method in terms of its sensitivity to the chosen value of the permeability coefficient, especially in regions where convective heat transfer is dominant.",
+  "The authors provided guidelines for assessing the appropriate value of the permeability coefficient to avoid excessive computation in simulations of melting and solidification.",
+  "The authors studied isothermal and non-isothermal phase change problems in a two-dimensional rectangular enclosure with a hot left wall and a cold right wall.",
+  "The authors used finite-volume based numerical simulations with dynamic solution-adaptive mesh refinement to capture the sharp solid-liquid interface.",
+  "The authors validated their numerical model against available experimental, theoretical, and numerical data for various phase change benchmark problems.",
+  "The authors considered artificial materials with a wide range of thermophysical properties, including metallic and non-metallic phase change materials.",
+  "The authors analyzed the sensitivity of the numerical predictions to the permeability coefficient as a function of numerical simulation parameters and physical process parameters."
+]
