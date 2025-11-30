@@ -1,0 +1,17 @@
+[
+  "The analyzed JET hybrid discharge #94875 had a toroidal magnetic field of 2.8 T, plasma current of 2.2 MA, 27 MW of neutral beam injection power, and 6.1 MW of ion cyclotron resonance heating power.",
+  "The authors considered two versions of impurity profiles - a nominal case and a case with 15% reduced Z_eff, to investigate the sensitivity of ETG turbulence predictions to impurity content.",
+  "QuaLiKiz 2.8.2 included improvements to the trapped electron mode (TEM) dependence on collisionality and a recalibration of the ETG saturation rule, reducing the ETG saturation level by a factor of 1/3 compared to 2.6.1.",
+  "With QuaLiKiz 2.6.1, the inclusion of ETG turbulence led to an anti-GyroBohm isotope scaling prediction, where increasing the main ion mass improved confinement. This effect was significantly reduced in the newer QuaLiKiz 2.8.2 version.",
+  "The improved ion heat confinement in the hybrid scenario was attributed to increased E\u00d7B rotation shear and electromagnetic (EM) stabilization of ion temperature gradient (ITG) turbulence, leading to higher T_i/T_e ratios.",
+  "The multiscale GENE simulations did not produce significant ETG heat flux, contradicting the rules-of-thumb used in QuaLiKiz 2.6.1 to predict the onset of ETG turbulence.",
+  "The improved trapped electron mode (TEM) modeling and recalibrated ETG saturation rule in QuaLiKiz 2.8.2 reduced the predicted importance of ETG turbulence and the associated anti-GyroBohm isotope scaling compared to the 2.6.1 version.",
+  "The authors noted that the ad-hoc nature of the electromagnetic (EM) stabilization model in QuaLiKiz is a caveat, and that the model's inability to capture ballooning modes and non-local effects in the inner core region is a limitation.",
+  "The time window analyzed for discharge #94875 was 8.25-8.55 seconds, at the beginning of the stationary-state flattop following the density buildup after the L-H transition.",
+  "The kinetic profiles, source and equilibrium data, and impurity profiles were averaged within the 8.25-8.55 second time window for the analysis.",
+  "The initial q-profile applied within the integrated modeling was calculated by EFIT++, and the kinetic profile fits were carried out with Gaussian Process Regression using EX2GK.",
+  "The NBI and ICRH deposition profiles were calculated by TRANSP using NUBEAM and TORIC, respectively.",
+  "The impurity profiles for Be, Ni, and W were inferred by a method incorporating multiple diagnostics for constrained consistency.",
+  "The measured radiation characteristics (total P_rad = 9.2 MW) were kept constant through simultaneous modification of Ni and W impurity profiles.",
+  "The JINTRAC-QuaLiKiz integrated modeling reproduced the experimental measurements of T_i, T_e, and n_e within the 1\u03c3 error envelopes for the base-case simulations."
+]
