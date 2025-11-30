@@ -1,0 +1,17 @@
+[
+  "D-v2v is a dynamic (one-pass) variable-to-variable text compressor.",
+  "D-v2v processes the input text word-wise and gathers symbols that represent sequences with a variable number of words.",
+  "D-v2v uses a Patricia tree-like structure to efficiently handle the variable-length sequences of words.",
+  "D-v2v encodes the symbols using etdc (End-Tagged Dense Code), a dense coding scheme that assigns shorter codewords to more frequent symbols.",
+  "On English text datasets, D-v2v achieves compression ratios similar to the state-of-the-art p7zip compressor.",
+  "D-v2v outperforms the previous dynamic word-based compressor detdc by over 10 percentage points in compression ratio.",
+  "D-v2v is faster at compression than p7zip, lzma, and re-pair, and is the fastest at decompression in all cases except for detdc and v2vdc on non-repetitive English texts.",
+  "The current implementation of D-v2v requires a large amount of memory at compression time to handle the variable-length sequences (non-terminals) in the Patricia tree-like structure.",
+  "The authors plan to improve the implementation of the Patricia tree-like structure to reduce the memory requirements and create an asymmetric lightweight version of D-v2v.",
+  "D-v2v can represent variable-length sequences of words as non-terminal symbols, whereas the previous detdc compressor was limited to single-word symbols.",
+  "D-v2v outperforms the compression ratios of the semi-static v2vdc compressor in all datasets tested, despite sending new words in plain form.",
+  "The encoding and decoding procedures in D-v2v have O(|c_i|) time complexity, where c_i is the codeword of the i-th symbol.",
+  "D-v2v uses a sort of trie to help the parser detect sequences of words that appeared before in the input text.",
+  "The decompressor in D-v2v is simpler than the compressor, as it only has to decode the received codewords and keep the table of symbols sorted by frequency.",
+  "D-v2v keeps the symbols in the vocabulary sorted by frequency, allowing it to use the etdc encoder to encode them directly from their positions in the vocabulary."
+]
