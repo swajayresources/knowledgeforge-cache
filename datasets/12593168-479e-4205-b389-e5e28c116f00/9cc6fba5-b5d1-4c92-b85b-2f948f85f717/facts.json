@@ -1,0 +1,20 @@
+[
+  "The design of industrial gas turbines is a multi-disciplinary, complex process that requires numerous iterations across different teams to achieve multiple design objectives.",
+  "The sequential nature of iterations forces long design cycle times, ranging from several months to years.",
+  "Inverse design aims to generate a design explicitly from target performance metrics, rather than iteratively adjusting design parameters.",
+  "The PMI framework uses a cINN to explicitly map design parameters to performance targets.",
+  "The cINN is trained using data generated in the forward modeling step.",
+  "The real NVP architecture is used in the cINN to explicitly learn the data distribution with exact log-likelihood evaluation.",
+  "The conditioning network is used in the cINN to map noisy observations to conditioning inputs.",
+  "The PMI framework is demonstrated on a 3D blade design problem.",
+  "The cINN achieves significant improvements in design efficiency and accuracy.",
+  "The number of affine coupling layers used in the cINN is L.",
+  "The number of hidden layers used in the cINN is empirically determined through extensive search.",
+  "The learning rate used in the cINN is empirically determined through extensive search.",
+  "The weight decay used in the cINN is empirically determined through extensive search.",
+  "The number of epochs used in the cINN is empirically determined through extensive search.",
+  "The PMI framework is a probabilistic machine learning framework for inverse aerodynamic design of gas turbine blades.",
+  "The cINN is a conditional invertible neural network that maps design parameters to performance targets.",
+  "The forward modeling step in the PMI framework uses a probabilistic multi-fidelity Gaussian Process (MFGP) regression model.",
+  "The inverse modeling step in the PMI framework trains a cINN using data generated in the forward modeling step."
+]
