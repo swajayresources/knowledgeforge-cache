@@ -1,0 +1,17 @@
+[
+  "The turbine has an inlet Mach number of 0.12, an inlet static pressure of 15.2 MPa, and an inlet static temperature of 1232 K.",
+  "The rotor rotates at 31,300 RPM, and the Reynolds number (based on the inlet conditions and the rotor axial chord) is approximately 5 x 10^5.",
+  "The ratio of the rotor exit static pressure to vane inlet total pressure is 0.1875.",
+  "The operating fluid in the turbine is a gaseous hydrogen mixture.",
+  "The computational grid has 1,363,022 total grid points, with 38 spanwise planes to resolve the predominant flow features.",
+  "The average value of y+ is approximately 1.5 for the airfoil surfaces and 3.5 for the endwalls.",
+  "The simulations were run for 12.5 global cycles (in excess of one complete rotor revolution) at 25,000 iterations per cycle.",
+  "Each iteration required approximately 16 seconds of computation time on seven 250 MHz processors of an SGI Origin2000.",
+  "The meanline analysis predicts insignificant changes in efficiency for variable specific heats, while the Navier-Stokes analysis predicts a small decrease in efficiency.",
+  "Both analyses predict a slight decrease in the work extracted by the turbine for the variable specific heats case.",
+  "The largest differences in unsteady pressure traces between the constant and variable specific heats cases are seen in the endwall regions, with the variable specific heats case showing significantly more unsteadiness at the vane passing frequency and increased unsteadiness below and above that frequency.",
+  "The variable specific heats case displays slightly lower pressures downstream of the vane throat and increased loading on the rotor at 50% and 90% span.",
+  "The differences in unsteady pressures between the two cases appear to be confined to the regions normally associated with strong secondary flows.",
+  "The addition of the subroutine to calculate the local values of the specific heats resulted in less than a 5% increase in CPU time.",
+  "The meanline analysis relies on empirical loss models for which there is limited data for supersonic turbomachinery flows, leading to differences with the Navier-Stokes results in the rotor passage."
+]
