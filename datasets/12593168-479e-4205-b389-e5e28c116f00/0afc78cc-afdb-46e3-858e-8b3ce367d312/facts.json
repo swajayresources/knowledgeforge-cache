@@ -1,0 +1,17 @@
+[
+  "Typical turbine-inlet temperatures are around 1650 K (2500\u00b0F) or higher.",
+  "Typical heat fluxes in turbine blades are of the order of 5.5 x 10^6 watts per square meter.",
+  "Typical wall-to-coolant temperature ratios in turbine blades are of the order of 2.5 to 1.",
+  "Rotational speeds for large gas turbines are around 17,000 rpm, and for small turbines around 65,000 rpm.",
+  "Acceleration levels for large gas turbines are around 75,000 g's, and for small turbines around 400,000 g's.",
+  "The Dittus-Boelter correlation has remained a favorite for predicting heat transfer in turbine blade cooling passages.",
+  "Experimental data showed the Dittus-Boelter correlation overpredicted heat transfer in a square duct by about 50%.",
+  "The heat transfer coefficient was found to decrease as the wall-to-bulk temperature ratio increased.",
+  "Pressure drop can be greater than predicted for constant property conditions due to variable fluid properties.",
+  "Coriolis forces generate secondary flows within the cooling passages at high rotation speeds.",
+  "Free-convection heat transfer can become significant at high centrifugal forces and density gradients.",
+  "A 10% inaccuracy in the coolant-side heat transfer coefficient can lead to a \u00b127\u00b0F uncertainty in blade metal temperature.",
+  "Turbine blade cooling passages often have non-fully developed velocity profiles and noncircular cross-sections.",
+  "The literature review covers both analytical and experimental studies on forced-convection heat transfer.",
+  "Correlations have been developed to account for the effects of variable fluid properties on heat transfer and pressure drop."
+]
