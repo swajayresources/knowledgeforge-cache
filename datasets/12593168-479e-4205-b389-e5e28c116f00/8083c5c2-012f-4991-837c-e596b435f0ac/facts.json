@@ -1,0 +1,17 @@
+[
+  "The AM process typically results in higher surface roughness compared to conventional manufacturing.",
+  "Surface roughness can lead to significant deviations in aerodynamic characteristics and combustion processes compared to design concepts.",
+  "The new integral wall model for LES (iWLES) is implemented as a user-defined function in the ANSYS Fluent software.",
+  "The iWLES model can capture changes in flow dynamics due to surface roughness, such as swirler effective area, bulk swirl number, pressure distribution, velocity profiles, and turbulence kinetic energy.",
+  "The periodic channel flow simulation showed good agreement between the wall shear stress computed using the iWLES UDF and the no-slip boundary condition.",
+  "The flat plate benchmark case simulates a subsonic boundary layer developing over a flat plate with distributed roughness elements.",
+  "The iWLES model uses a drag coefficient of 0.1 and a roughness areal density of 1 as parameters for the flat plate case.",
+  "Applying the improvements to a fleet of 5,000 turbofan engines could result in $6 billion in annual fuel cost savings and a reduction of more than 25 million tons of CO2 emissions per year.",
+  "The project faced delays due to administrative issues, changes in personnel, and difficulties in securing the necessary high-performance computing resources and ANSYS software licenses.",
+  "Further LES studies focusing on the turbulence-boundary layer interaction and the impact of rough surfaces on pressure gradients and complex turbulent features can be conducted.",
+  "The wall models can be improved in combination with combustion models to make the simulations more predictive.",
+  "This work provides an opportunity for a major US manufacturing company to remain competitive with the EU in the context of the significant FP-7 FACTOR project.",
+  "The algorithm developed using the ANSYS/Fluent software would provide the foundation for entirely new avenues of research and development with potential multi-billion dollar impact to the US economy.",
+  "Accurately capturing near wall physics will elucidate the impact of rough surfaces on interactions between pressure gradients and highly complex turbulent features.",
+  "The formulation of the iWLES model is generic and allows to capture the changes in flow dynamics that have a significant impact on the wall bounded flow characteristics."
+]
