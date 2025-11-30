@@ -1,0 +1,16 @@
+[
+  "The paper studies a robust optimal stopping problem with respect to a set of mutually singular probabilities.",
+  "The optimal stopping problem can be interpreted as a zero-sum controller-stopper game.",
+  "The authors construct an optimal stopping time and show that the corresponding game has a value.",
+  "The upper Snell envelope of the reward process is a supermartingale with respect to an appropriately defined nonlinear expectation.",
+  "The upper Snell envelope is further an E-martingale up to the first time it meets the reward process.",
+  "The proof of the main result involves overcoming technical challenges due to the lack of a dominated convergence theorem and a measurable selection theorem.",
+  "The paper makes assumptions on the regularity of the reward process, the adaptedness and weak stability under pasting of the probability class, and the integrability of the shifted reward process.",
+  "The weak stability under pasting assumption is crucial for the dynamic programming result to hold.",
+  "The paper provides an example of path-dependent SDEs with controls that satisfies all the assumptions made in the paper.",
+  "The paper extends the results in the literature by considering a more general setting where the set of probabilities contain mutually singular probabilities and the controller can influence both the drift and the volatility.",
+  "The paper uses a global approach rather than a local approach, starting with a dynamic programming principle and carefully constructing approximating stopping times.",
+  "The first time the upper Snell envelope meets the reward process is shown to be the optimal stopping time for the robust optimal stopping problem.",
+  "The paper establishes a connection between the nonlinear expectation and the upper Snell envelope, which plays a crucial role in the main result.",
+  "The paper's technical setup closely follows that of Ekren, Touzi, and Zhang (2014), which analyzed a control problem with discretionary stopping in a non-Markovian framework with mutually singular probability priors."
+]
