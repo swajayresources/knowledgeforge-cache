@@ -1,0 +1,17 @@
+[
+  "The paper investigates the time-dependent, non-equilibrium thermal and ionization history of gas cooling radiatively from 10^6 K.",
+  "The model uses a one-dimensional, planar, steady-state flow model of the galactic fountain.",
+  "The initial flow velocity was ~100 km/s, comparable to the sound speed of 10^6 K gas.",
+  "The initial density was n_H,0 ~2x10^-2 cm^-3, in reasonable agreement with other observational estimates.",
+  "The new calculations that include radiative transfer allow for a much larger range of cooling region sizes, up to D \u2264 0.15 pc, compared to the previous limit of D \u2264 1 kpc.",
+  "Self-ionization was found to be sufficient to cause the flow to match the observed galactic halo column densities and UV emission.",
+  "For the case with v_0 = 100 km/s and n_H,0 = 2x10^-2 cm^-3, the cooling region size was found to be D ~40 pc.",
+  "The model also compared predicted Ha fluxes, UV line emission, and broadband X-ray fluxes with observed values.",
+  "One-dimensional numerical hydrodynamical calculations including the effects of radiative cooling were also presented.",
+  "The left panel of Fig. 1 shows the predicted column density ratios N(N V)/N(C IV), N(Si IV)/N(C IV), and N(O VI)/N(C IV) as a function of (n_H,0 * t).",
+  "The right panel of Fig. 1 shows the temperature and log(10^7 * N(C IV)) evolution during the radiative cooling process.",
+  "The observed range for the column density ratios is indicated by vertical bars in the left panel of Fig. 1.",
+  "The paper demonstrates the importance of self-ionization in enabling the galactic fountain model to match observational data.",
+  "The new calculations that include radiative transfer confirm the importance of self-ionization but allow for a much larger range of cooling region sizes.",
+  "The model provides insights into the thermal and ionization history of gas in the galactic fountain."
+]
