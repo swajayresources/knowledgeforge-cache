@@ -1,0 +1,12 @@
+[
+  "The authors performed thin-sample directional solidification experiments on a transparent CBr4-1.4 mol% C2Cl6 alloy with a thermal gradient of 120 \u00b1 20 K/cm.",
+  "The nominal constitutional supercooling and Mullins-Sekerka threshold velocities for this alloy composition are V_CS \u2248 15 \u03bcm/s and V_MS \u2248 20 \u03bcm/s, respectively.",
+  "For solidification velocities V < 6 \u03bcm/s, the solid-liquid interface remained planar across the entire sample width, with subboundary grooves having a depth comparable to the equilibrium state.",
+  "In the velocity range 6-10 \u03bcm/s, the authors observed a pre-cellulation of the interface near grain boundary grooves, as predicted by the theory of Coriell and Sekerka.",
+  "Fully developed cellular patterns were observed for solidification velocities greater than 15 \u00b1 4 \u03bcm/s.",
+  "The phase-field simulations used a grand-canonical multi-phase-field formulation with three phase fields representing the two solid grains and the liquid.",
+  "The grain boundary energy anisotropy was modeled using a smooth, cusp-like function with deep but smooth minima to avoid numerical issues.",
+  "The ratio of the capillary length d_0 to the interface thickness parameter \u03b5 was fixed at 1.58 in the simulations.",
+  "The temperature gradient G was chosen such that the thermal diffusion length l_T was 100 times the capillary length d_0.",
+  "The authors implemented a regularization technique by adding the square of the Laplacian of each phase field to the free energy functional, with a prefactor \u03b2."
+]
