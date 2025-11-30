@@ -1,0 +1,17 @@
+[
+  "The alloy PWA 1480 is a nickel-base superalloy.",
+  "The tensile tests were conducted in the range from 20-1093\u00b0C.",
+  "The strain rate range of the tensile tests was 0.5 and 50%/min.",
+  "The yield strength of the alloy is constant from 20 to 760\u00b0C.",
+  "Deformation is dominated by y1 shearing by pairs of {111}a/2<110> dislocations at low temperatures.",
+  "The activation energy for yielding is zero at low temperatures.",
+  "Deformation is dominated by y* by-pass at high temperatures.",
+  "The true activation energy for yielding is 500 kJ/mol at high temperatures.",
+  "The deformation mechanism at intermediate temperatures is transitional.",
+  "The Brown-Ham model is a micro-mechanical model of the yielding process.",
+  "The Ardell model is a modification of the Brown-Ham model for high Vf alloys.",
+  "The Huther-Reppich model is a model for high Vf alloys that allows for a transition from 'weak' to 'strong' dislocation pair coupling.",
+  "The Copley-Kear model is a model for alloys such as Mar-M 200 that assumes penetration of the first dislocation into the particle is the rate-limiting step.",
+  "The Brown-Ham by-pass model is a model for precipitate by-pass by dislocations at high temperatures.",
+  "The mismatch effects between the y and y1 phases were not considered in the models discussed in the paper."
+]
