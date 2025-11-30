@@ -1,0 +1,17 @@
+[
+  "The Omnimagnet is comprised of four frames, three solenoids, wire insulation, a ferromagnetic core, cover insulation, insulating paper, and material in the innermost region.",
+  "Due to the small size of the Omnimagnet, the Biot number is less than 0.1 for each element, allowing the use of a lumped capacitance thermal model.",
+  "The thermal model incorporates conduction, convection, and radiation heat transfer modes, and is represented by a system of ordinary differential equations.",
+  "The maximum root-mean-square error between the model and experimental results was approximately 8% (4\u00b0C).",
+  "The model was optimized by adding correction coefficients to account for uncertainties in dimensions and contact resistances.",
+  "The maximum safe operating time and maximum safe input current depend on the size and structure of the Omnimagnet, as well as the lowest melting point of the materials.",
+  "Increasing the convection heat transfer coefficient during cooling and at low input currents was found to be an effective method to increase the maximum operational time of the Omnimagnet.",
+  "The thermal model was presented in a state-space equation format to facilitate its use in a real-time Kalman filter current controller.",
+  "The Omnimagnet is typically a relatively small device, so the transient temperature increase is more important than the spatial temperature distribution, unlike larger devices like power transformers.",
+  "The paper discusses the use of modified nanomaterials and magnetic fluid coolants as potential methods to improve the thermal performance of the Omnimagnet.",
+  "The Omnimagnet is used for robotically assisted insertion of cochlear-implant electrode arrays, where it is placed adjacent to the patient's head during surgery.",
+  "The electrical current flowing through the Omnimagnet's solenoids produces Joule heating, which can lead to device failure if the temperature exceeds the melting point of the wire insulation.",
+  "The thermal model was validated against 40 independent experiments on a lab-scale Omnimagnet, with different combinations of powered solenoids and input currents.",
+  "The optimization process used a quasi-Newton method to minimize the maximum solenoid temperature difference between the experiments and simulations.",
+  "The correction coefficients added to the model ranged from 0 to 1 for the conduction terms, and up to the upper limit for the type of convection used to cool the Omnimagnet."
+]
