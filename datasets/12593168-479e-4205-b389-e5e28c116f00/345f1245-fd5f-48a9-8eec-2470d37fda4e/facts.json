@@ -1,0 +1,19 @@
+[
+  "The study uses a hybrid FEM-ANN technique to establish relationships between material design and product design domains.",
+  "The authors use artificial neural networks to optimize the development of new alloys with necessitated improvements in properties and chemical mixture.",
+  "The study focuses on the ASTM A487 Gr 4C high-pressure application material.",
+  "The maximum allowable thickness of the valve body is 5.92 *10^-5 m.",
+  "The maximum stress achieved in the regions around the inner walls is 4.3302*10^8 Pascal.",
+  "The minimum life of the casting design is 2116.1 cycles.",
+  "The number of hidden layers used in the ANN model is 2.",
+  "The number of hidden neurons used in the ANN model is 10 for layer 1 and 5 for layer 2.",
+  "The type of network used in this study is a feed-forward back propagation network.",
+  "The type of transfer functions used in the ANN model are tansig and log sig for layer 1, and purelin for layer 2.",
+  "The performance goal for the network is zero.",
+  "The type of training function used in the ANN model is traingdm.",
+  "The type of adaption learning function used in the ANN model is learngdm.",
+  "The study uses computational fluid dynamics and finite element analysis to validate the results.",
+  "The ANN model is trained using a dataset of 95 experimental data points.",
+  "The ANN model is tested using a dataset of 40 experimental data points.",
+  "The ANN model is validated using a dataset of 11 experimental data points."
+]
