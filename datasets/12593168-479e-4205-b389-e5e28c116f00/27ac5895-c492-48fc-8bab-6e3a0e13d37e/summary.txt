@@ -1,0 +1,1 @@
+This paper proposes a prototype-based heterogeneous federated learning (FedHPb) model to detect blade icing on wind turbines, addressing challenges of data heterogeneity and class imbalance. The model uses contrastive supervised learning to improve classification of minority icing events, and outperforms existing federated learning and class imbalance methods.
