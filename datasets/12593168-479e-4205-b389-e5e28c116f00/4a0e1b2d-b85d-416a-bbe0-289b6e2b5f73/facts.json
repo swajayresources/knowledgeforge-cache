@@ -1,0 +1,12 @@
+[
+  "The COMETBOARDS optimization tool is written in FORTRAN 77 and is available on Cray, Convex, Iris, and Sun computing platforms.",
+  "The cascade optimization strategy in COMETBOARDS involves using multiple optimizers in sequence, with the solution from one optimizer perturbed and used as the starting point for the next optimizer.",
+  "For the subsonic aircraft optimization, the final optimum design had a takeoff weight of 199,275.6 lb and had four active constraints: takeoff field length, excess fuel, maximum pressure ratio, and maximum turbine inlet temperature.",
+  "The wave-rotor-topped turbofan engine optimization problem was formulated as a sequence of 47 optimization subproblems, one for each mission point defined by Mach number, altitude, and power setting combination.",
+  "The active design variables for the wave-rotor engine were the rotor's rotational speed and the heat added, while the key constraints included compressor speed limits and surge margins.",
+  "Compared to using NEPP alone, the combined COMETBOARDS-NEPP tool produced higher thrust values across the 47 mission points for the wave-rotor engine, with maximum increases around mission points 12, 26, and 32.",
+  "The cascade optimization strategy in COMETBOARDS was able to converge to the same global optimum solution for both the subsonic aircraft and wave-rotor engine problems, even when starting from different initial design points.",
+  "COMETBOARDS has a modular organization that allows for the soft-coupling and integration of various analysis tools like FLOPS, NEPP, and RPK_NASTRAN.",
+  "Some of the unique features of COMETBOARDS that aided in the optimization of aircraft and engines include the cascade strategy, variable and constraint formulations, and a global scaling strategy.",
+  "The combined COMETBOARDS-FLOPS-NEPP design tool eliminates the need for manual intervention in the design of aircraft and air-breathing propulsion engines, making the design process easier and more automated."
+]
