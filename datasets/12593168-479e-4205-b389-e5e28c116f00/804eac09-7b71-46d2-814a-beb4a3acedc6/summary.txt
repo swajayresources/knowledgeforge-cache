@@ -1,0 +1,1 @@
+This paper presents a framework to link in-situ monitoring data, process parameters, and microstructure evolution in laser-directed energy deposition (DED) additive manufacturing. It combines machine learning-based melt pool prediction models with physics-based microstructure simulations, and introduces statistical metrics to quantify and compare microstructural differences.
