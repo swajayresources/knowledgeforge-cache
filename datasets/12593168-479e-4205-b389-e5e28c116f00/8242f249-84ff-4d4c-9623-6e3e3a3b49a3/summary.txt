@@ -1,0 +1,1 @@
+This paper investigates the evolution of micro-pores in a single crystal nickel-based superalloy during high-temperature creep at 980°C and 220 MPa. The study uses X-ray computed tomography to quantify changes in the number, volume fraction, size, and morphology of the micro-pores over time, and relates these changes to the creep damage mechanism.
