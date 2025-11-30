@@ -1,0 +1,17 @@
+[
+  "The paper presents a deep learning approach for plasma tomography using the bolometer system at the Joint European Torus (JET) fusion device.",
+  "The authors used an up-convolutional neural network architecture, which is the inverse of a typical convolutional neural network (CNN).",
+  "The network was trained and tested on 4 separate datasets, each corresponding to a different JET campaign, with a total of around 18,000 sample reconstructions.",
+  "The authors used Principal Component Analysis (PCA) to preprocess the input data from the 52 bolometer channels, determining that 50 components were sufficient to explain 100% of the variance.",
+  "The network was trained using stochastic gradient descent (SGD) with a learning rate of 0.001, a batch size of 10, and Glorot-uniform weight initialization.",
+  "The training process for each dataset took around 17 hours to complete, with the network training for approximately 2000 epochs.",
+  "The authors evaluated the quality of the reconstructions using structural similarity (SSIM), peak signal-to-noise ratio (PSNR), and normalized root mean square error (NRMSE).",
+  "The average SSIM was around 0.99, indicating a high level of structural similarity between the original and reconstructed images.",
+  "The average PSNR was in the range of 30-50 dB, which is typical for high-quality image reconstruction.",
+  "The average NRMSE was between 2-4%, meaning the reconstruction error for each pixel was around 2-4% on average.",
+  "The authors suggest that this deep learning approach could be applied to other tomography diagnostics, such as soft X-ray cameras and neutron cameras, and could enable real-time tomographic reconstructions for plasma control.",
+  "The paper does not discuss potential limitations or future work, but notes that the approach could be used in other fusion devices besides JET.",
+  "The bolometer system at JET, known as KB5, comprises one horizontal camera (KB5H) and one vertical camera (KB5V) with a total of 24 bolometers each.",
+  "The KB5 system is able to collect readings at a sampling rate of 5 kHz, with each reading including the 24 channels of KB5H, the 24 channels of KB5V, and up to 8 additional reserve channels.",
+  "Previous tomographic reconstructions at JET were obtained through a series expansion of the plasma profile with a set of basis functions, with only a few reconstructions available per pulse."
+]
