@@ -1,0 +1,1 @@
+This paper presents a gas turbine diagnostic system that uses mathematical modeling and simulation to test and optimize software for gas turbine automation systems, train personnel, and perform diagnostics and prediction tasks. The system has a modular three-level software architecture and uses VISSIM simulation software to model the gas turbine unit and its components.
