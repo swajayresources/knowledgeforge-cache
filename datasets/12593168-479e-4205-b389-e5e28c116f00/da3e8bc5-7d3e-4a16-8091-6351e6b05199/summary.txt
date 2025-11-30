@@ -1,0 +1,1 @@
+This paper experimentally investigates the impacts of blade camber on the performance and loading of a cross-flow turbine. It compares symmetrical and positively/negatively cambered blades, finding that a small negative camber can enhance downstream flow recovery and reduce peak loading, often outweighing reductions in upstream power generation.
