@@ -1,0 +1,21 @@
+[
+  "Optimal Design of Frame Structures with Mixed Categorical and \u2217 Continuous Design Variables Using the Gumbel-Softmax Method Mehran Ebrahimi\u2020,a, Hyunmin Cheonga, Pradeep Kumar Jayaramana, and Farhad Javida aAutodesk Research, 661 University Avenue, Toronto, ON M5G 1M1, Canada Abstract In optimizing real-world structures, due to fabrication or budgetary restraints, the design vari- ables may be restricted to a set of standard engineering choices",
+  "Keywords Categorical design variables, Gumbel-Softmax method, Frame structures, Structural optimization, Differentiable sampling, Sensitivity analysis 1 Introduction The application of frame structures composed of interconnected beams and columns is ubiquitous in various fields of engineering making their simulation and optimization attractive subjects of interest in both academia and industry [1\u20134]",
+  "1007/s00158-024-03745-7",
+  "com 1 4202 ceD 13 ]EC",
+  "sc[ 1v85200",
+  "1052:viXra elements that can handle only the first one",
+  "Accurately capturing these deformation modes and their interactions makes the simulation of frame structures computationally more demanding than that for truss structures [4]",
+  "The challenges associated with considering categorical design variables are not exclusive to frame structures and have been explored significantly in other application areas [5\u20139]",
+  "A worthwhile review of the available techniques for truss structures can be found in[10]",
+  "Themajorityofmethodsdeveloped for these problems utilize gradient-free optimizers such as the branch-and-bound [2,11], genetic algorithm(GA)[12,13],simulatedannealing[14,15]andparticleswarmoptimization[16,17],among others",
+  "It is well-known that due to the combinatorial nature of problems with categorical design variables, the computational cost associated with exploring their design space, which typically grows exponentially with the number of variables, becomes intractable for large-scale problems using the gradient-free optimization routines [18\u201320]",
+  "Employing gradient-based optimization techniques can be considered as a remedy to alleviate the scalability issue [10,19,21]",
+  "There are hence rare precedents of incorporating gradient-based optimiz- ers in the optimal design of beam and truss structures with categorical design variables [22\u201325]",
+  ", relaxation of discrete to continuous variables [23], which only makes sense if the variables are ordered) along with rounding techniques to enforce the discreteness of the categorical variables",
+  "In another body of work [22,24], the weights associated 2 with each categorical choice, in their case material types, are treated as design variables",
+  "In this paper, incorporating the Gumbel-Softmax (GSM) method, we propose a new gradient-based optimizer for handling such variables in the optimal design of large-scale frame structures",
+  "In this paper, we propose a technique for resolving the aforementioned issues in computing the gradients with respect to categorical variables, thus enabling the use of gradient-based optimizers in structural design problems",
+  "Firstly, we propose reparametrizing the categorical design variables and taking the probability of using them in the structure as their corresponding design variables",
+  "In Section 3, we present the GSM method; the pivotal ingredient of the proposed optimization technique in this study"
+]
