@@ -1,0 +1,1 @@
+This paper investigates the effect of upstream blade-row wake passing on the showerhead (leading edge) film cooling of a downstream turbine. The study combines experimental and computational methods to analyze film effectiveness, Nusselt numbers, and the impact of wake Strouhal number and blowing ratio on these parameters.
