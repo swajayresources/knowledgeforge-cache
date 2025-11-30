@@ -1,0 +1,19 @@
+[
+  "Mateo-Gab\u00edn\u2020 \u2217 AirbusDefenceandSpaceGmbH,FlightPhysics,RechlinerStra\u00dfe,85077Manching,Germany \u2020 AirbusDefenceandSpaceSAU,FlightPhysics,PaseodeJohnLennon,28906Getafe,Spain Abstract The optimization of geometries for aerodynamic design often relies on a large number of expensive simula- tions to evaluate and iteratively improve the geometries",
+  "Keywords Aerodynamicshapedesign;Generativemodeling;Deeplearning NOMENCLATURE Re Reynoldsnumber Symbols x Sample \u03b1 Angleofattack t Timestep B Bernsteinpolynomial \u03b2 Variance b Bernsteinbasispolynomial A Bernsteinpolynomialcoefficient C Coefficient y Height c Chord Subscripts f Features D drag I Identitymatrix l lower T Maximumtimestep max Maximum N Firstshapecoefficient 1 M moment N Secondshapecoefficient 2 u upper \u03f5 Noise L lift N Normaldistribution z Normalsample Abbreviations \u03b8 Neuralnetworkparameters CFD ComputationalFluidDynamics q Datasetsamplingfunction DPM DiffusionProbabilisticModel 1 4202 peS 02 ]EC",
+  "sc[ 1v82331",
+  "9042:viXra GAN GenerativeAdversarialNetwork and Tan et al",
+  "[9] use conditional Generative Adver- sarialNetworks(GANs)togenerateairfoilsbasedon MAPE MeanAbsolutePercentageError desired performance classes",
+  "[10] reduced this issue by adding an additional smoothness objective",
+  "Since RMSE RootMeanSquareError onlyahandfulofperformanceclassesareconsidered tostartthegeneration,otherauthorsextendthemeth- odstoworkwithfullpolars[11]orranges[12]",
+  "INTRODUCTION While using GANs for deep generative aerodynamic Aerodynamic shape optimization often involves a shapedesignispromising,theirtrainingprocedureis large design space, which allows for more detailed unstable and therefore tedious [13]",
+  "At the same image generation, from which GANs originate, they time, larger design spaces are more tedious to have already been superseded by Diffusion Proba- explore because evaluations of designs rely on com- bilisticModels(DPMs)[14]",
+  "As exploring the entire design established for topology optimization [15]",
+  "itive simulations of intermediate designs to iteratively While the usage of DPMs for geometry generation improve aerodynamic shapes [1]",
+  "The number of hasalreadybeeninvestigatedinseveralfields,forex- simulations is only increased when additional dis- ampletomakeageneralframework[16],togenerate ciplines besides aerodynamics are considered in molecules [17] and to generate various objects [18], a multi-disciplinary optimization procedure, as this theirapplication toaerodynamicsremains limited",
+  "aerodynamic shape optimization so far still relies on Fortunately, recent advances in machine learning an iterative optimization procedure to generate air- methods promise to accelerate aerodynamic shape foils[19]",
+  "optimizationmethods[2]",
+  "Secondly, we provide a systematic way of feasible designs [3,4]",
+  "We show that generative models have the potential to providesuchstartinggeometriesbygeneralizinggeometriesoveralargedatasetofsimulations",
+  "We show that the models are able to generatediversecandidatedesignsforidenticalrequirementsandconstraints,effectivelyexploringthedesign space to provide multiple starting points to optimization procedures"
+]
