@@ -1,0 +1,17 @@
+[
+  "The researchers selected a virtual subsonic aircraft as the reference for this study.",
+  "A circular convergent nozzle was designed to meet the mission requirements of the virtual aircraft.",
+  "Various nozzle configurations were designed by changing the aspect ratio and curvature of the nozzle.",
+  "Computational fluid dynamics (CFD) analysis was used to study the thermal flow fields and nozzle surface temperature distributions.",
+  "A narrow-band model and the RadThermIR code were used to calculate the IR signatures of the plume and nozzle surface.",
+  "As the nozzle exit aspect ratio increased and the curvature increased, the IR signature of the plume and nozzle surface decreased.",
+  "The maximum reduction in IR signature for the non-circular nozzle configurations was 10.7% compared to the circular nozzle.",
+  "As the nozzle exit aspect ratio and curvature increased, the engine thrust decreased by up to 10.7%.",
+  "The researchers found that the changes in the temperature distribution and mixing with the surrounding air were the main factors contributing to the reduced IR signature.",
+  "The study highlights the trade-off between IR signature reduction and engine performance, suggesting the need for further optimization and integration of these factors.",
+  "The researchers used a compressible Navier-Stokes-Fourier CFD code to analyze the thermal flow fields and nozzle surface temperature distributions.",
+  "The narrow-band model used in the study considers the absorption and emission of radiation in specific wavelength bands.",
+  "The RadThermIR code is a widely used tool for calculating the infrared signatures of aerospace vehicles.",
+  "The researchers selected the nEUROn unmanned combat aerial vehicle (UCAV) as a reference for the nozzle design and analysis.",
+  "The mission profile of the virtual subsonic aircraft included takeoff, subsonic cruise, and high-speed cruise at an altitude of 36,000 feet."
+]
