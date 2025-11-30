@@ -1,0 +1,1 @@
+This paper presents Monte Carlo simulations of the growth of hard-sphere crystals on a square pattern, which is an extension of previous simulations. The authors observed the disappearance of stacking faults through the glide of Shockley partial dislocations, and studied the evolution of the center of gravity under different gravitational conditions.
