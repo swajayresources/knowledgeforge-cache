@@ -1,0 +1,17 @@
+[
+  "The authors focused on optimizing a single mixing element rather than the entire mixing section to reduce the computational complexity.",
+  "Free-form deformation (FFD) was used to parameterize the shape of the mixing element, allowing for a low-dimensional set of control points to define the shape.",
+  "The authors proposed a new objective function to assess distributive mixing based on the increase in interfacial area between the inlet and outlet of the mixing element.",
+  "The computational domain was based on a section of an unwound screw channel, with a height of 7.5 mm, a width of 31.5 mm, and a length of approximately 24.05 mm.",
+  "The material properties used in the study were: density (736 kg/m^3), specific heat capacity (2900 J/kg/K), thermal conductivity (0.4 W/m/K), and Carreau model parameters (A = 9.472 Pa\u00b7s, B = 0.1871 s, C = 0.655).",
+  "The authors used the steady, incompressible Navier-Stokes equations coupled with a steady heat equation to model the flow and temperature fields, and employed a Carreau model to capture the shear-thinning behavior of the polymer melt.",
+  "The Elastic Mesh Update Method (EMUM) was used to deform the computational domain based on the displacements of the boundary mesh, which was updated according to the free-form deformation of the mixing element's surface.",
+  "The authors divided the inlet of the computational domain into a grid of rectangular subdomains, tracked their deformation through the mixing element, and calculated the increase in the perimeter of the convex hulls as a measure of the increase in interfacial area.",
+  "The mixing element was rotated by 5.7 degrees in the negative z-direction to approximate the pitch angle of the screw in an actual extruder.",
+  "The authors used a velocity profile at the inlet with a maximum velocity of 0.027646 m/s, corresponding to a rotational speed of 8.8 min^-1 for a 60 mm screw diameter.",
+  "Slip boundary conditions were applied on the sides of the flow channel, no-slip on the bottom and mixing element, and a stress-free boundary condition at the outlet.",
+  "The temperature boundary conditions were 494 K at the bottom (screw) and 488 K at the top (barrel).",
+  "The authors used a reference temperature of 237 K for the Williams-Landel-Ferry temperature correction.",
+  "The length of the computational domain was chosen empirically to ensure no backward flow over the outlet boundary.",
+  "The authors argued that centrifugal and Coriolis forces are negligible and that the melt temperature is frame-invariant, justifying the use of the inverse kinematics approach."
+]
