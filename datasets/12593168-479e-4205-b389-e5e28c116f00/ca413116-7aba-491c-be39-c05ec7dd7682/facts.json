@@ -1,0 +1,12 @@
+[
+  "Current gas turbine engines operate at pressure ratios up to 25:1 and turbine inlet temperatures up to 1600 K (2400\u00b0F).",
+  "Cycle study results indicate further fuel savings can be achieved by increasing pressure ratios up to 64:1 and turbine inlet temperatures over 1650 K (2500\u00b0F).",
+  "Metal temperature prediction uncertainties of up to 100 K (180\u00b0F) are commonly encountered, leading to an iterative design process and 'overcooling' to ensure reliability.",
+  "A 2D modeling program has been developed to predict temperatures in a reacting flow field with reasonable qualitative agreement.",
+  "An interactive numerical model is being developed to predict temperature profiles downstream of dilution jet holes in combustors.",
+  "Experiments in a return loop tunnel are being used to develop empirical representations of boundary layer transition length characteristics.",
+  "Experiments on film cooling effectiveness have shown a sharp discontinuity in Stanton number where curvature begins in the flow path.",
+  "Laser anemometer measurements in turbine blade passages are being compared to 3D computational codes, with the Denton inviscid code performing the best.",
+  "Experiments on multi-pass coolant tubes have shown dramatic spikes in heat transfer at 180\u00b0 bends compared to fully developed flow.",
+  "Experiments on pin fin geometries have shown much lower heat transfer coefficients for short L/D pins compared to long L/D rods."
+]
