@@ -1,0 +1,17 @@
+[
+  "The dataset was collected from 20 wind turbines across two wind farms located 700 km apart.",
+  "The dataset contained 15-16 days of data, with some days having icing events.",
+  "The dataset was split into 60% training and 40% testing.",
+  "Three imbalance ratios were tested: 20:1, 50:1, and 100:1 (non-icing to icing samples).",
+  "FedHPb outperformed the second-best method, BiFL, by an average of 19.64% in F-beta score and 5.73% in balanced accuracy across the three imbalance ratios.",
+  "Even at the highest imbalance ratio of 100:1, FedHPb maintained high F-beta (73.08%) and balanced accuracy (85.35%) scores.",
+  "The client-side LCNN model uses LSTM for time-series feature extraction, followed by a CNN module with attention, normalization, and activation layers.",
+  "The FedHPb server aggregates class prototypes from clients by calculating a weighted average, with weights based on the size of each client's label dataset.",
+  "The main evaluation metrics used were F-beta score (with beta=2) and balanced accuracy.",
+  "FedHPb's prototype-based approach handled data heterogeneity better than gradient-based communication used in other FL methods.",
+  "FedHPb's contrastive supervised loss function improved classification of minority icing events compared to standard FL and class imbalance techniques.",
+  "The wind turbine data exhibited significant heterogeneity due to differences in geographical locations, operating environments, and hardware configurations.",
+  "Icing events on wind turbine blades can decrease global annual power generation by nearly 30%.",
+  "Traditional centralized training methods for blade icing detection raise serious privacy concerns.",
+  "Traditional federated learning methods are still limited in addressing data heterogeneity and class imbalance issues in wind turbine data."
+]
