@@ -1,0 +1,17 @@
+[
+  "The JET Li-BES system consists of 26 spatial channels along the neutral lithium beam.",
+  "The 26 lines of sight are not perpendicular to the beam direction, causing Doppler shifts of the lithium beam emission.",
+  "The instrumental function and interference filter curve are modeled using Gaussian processes with hyperparameters determined by maximizing the evidence.",
+  "The Poisson noise from photon statistics and electronic noise are included in the likelihood function.",
+  "The prior distributions for the lithium line intensity, Bremsstrahlung background, and instrumental offset are chosen as Gaussians with large standard deviations.",
+  "The posterior distributions are obtained using Bayesian linear Gaussian inversion.",
+  "The estimated spectra agree well with the measured spectra for the analyzed channels.",
+  "For channel 16, an extra peak in the measured spectrum is observed due to impurity line radiation, which is not captured by the model.",
+  "The intensity profile of the lithium line radiation is subsequently used to reconstruct the edge electron density profile.",
+  "The Bayesian approach allows the separation of signal and background without the need for beam modulation.",
+  "The method can be applied generally to improve spectral fitting for other systems.",
+  "The work was supported by the National Research Foundation of Korea and the EUROfusion Consortium.",
+  "The authors include researchers from KAIST, Max-Planck-Institut f\u00fcr Plasmaphysik, and Culham Science Centre.",
+  "The paper was published in the Journal of Applied Physics in 2018.",
+  "The JET Li-BES system is widely used to measure edge electron density profiles in fusion research."
+]
