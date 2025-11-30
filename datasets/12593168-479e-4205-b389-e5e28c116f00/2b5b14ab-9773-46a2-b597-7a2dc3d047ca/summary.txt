@@ -1,0 +1,1 @@
+This paper presents results from the Alfvén Eigenmode Active Diagnostic (AEAD) during the 2019-2020 JET deuterium campaign. The AEAD was used to actively excite and measure stable Alfvén Eigenmodes, providing key information on their resonant frequencies, damping rates, and toroidal mode numbers across a wide parameter space.
