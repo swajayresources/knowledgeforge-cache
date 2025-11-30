@@ -1,0 +1,1 @@
+This paper analyzes the effects of thermal radiation on temperatures in turbine engine thermal barrier coatings, particularly for zirconia coatings. It provides an analytical procedure using the two-flux method to account for radiative heat transfer within the coating and presents illustrative solutions for typical conditions in an aircraft engine.
