@@ -1,0 +1,17 @@
+[
+  "The proposed radar-absorbing material (RAM) design showed more than -10 dB reflection loss from 4 to 18 GHz of frequencies.",
+  "Three different rivet configurations were studied: RAS C1 (rivet at the center of unit cell), RAS C2 (rivet between two unit cells), and RAS C3 (rivet at the center of four unit cells).",
+  "The study considered three cases with varying the percentage of rivet heads area to RAS surface area: 9.8%, 4.4%, and 2.5%.",
+  "Rivet surface area of 9.8% led to significant degradation in reflection coefficient across the frequencies at normal incidence, while rivet surface area of 4.4% and 2.5% showed maximum degradation of 5 dB and 3 dB, respectively.",
+  "The flat panel RAS sample showed mono-static RCS reduction of 0 dB and 0 dB at normal incidence for horizontal (HH) and vertical (VV) polarizations, respectively.",
+  "The mono-static RCS of the RAS air intake duct showed improvement with an increase in duct length, with the RAS C1 configuration showing the worst performance.",
+  "The median RCS of the RAS air intake duct showed a reduction of approximately 10 dB from 4 to 18 GHz of frequencies compared to the PEC air intake duct when installed on the open-source aircraft CAD model.",
+  "The impact of rivets was found to be negligible on the RCS performance of the RAS air intake duct when installed on the open-source aircraft CAD model.",
+  "The study suggests that further research on different shapes, sizes, and patterns of rivets installed on air intake ducts, as well as the impact of rivets on low-observable aircraft, are open research areas.",
+  "The high-frequency electromagnetic simulations using the shooting and bouncing rays method were employed for the analysis of the air intake duct cavities.",
+  "The study considered air intake ducts of different lengths (1 m, 4 m, etc.) to investigate the impact of duct length on the RCS performance.",
+  "The open-source aircraft CAD model was used to evaluate the performance of the RAS air intake with and without rivets, and the results were compared with the aircraft having a non-RAS air intake.",
+  "The RAS air intake showed a mono-static RCS reduction of around 10 dB from \u03d5=180 degree (nose of the aircraft) to \u03d5=240 degree when installed on the open-source aircraft CAD model.",
+  "The study found that the RAS air intake showed better RCS performance compared to the PEC air intake duct when installed on the open-source aircraft CAD model.",
+  "The impact of rivets on the RCS performance was found to be negligible for the open-source aircraft CAD model, but the authors suggest that the impact may be significant for a low-RCS aircraft model."
+]
