@@ -1,0 +1,17 @@
+[
+  "The paper introduces a novel representation of 2D airfoil shapes and 3D blade/wing designs called the separable shape tensor framework.",
+  "The key idea is to decouple affine deformations (scaling, rotation, shear) from higher-order undulations in the shape.",
+  "Discrete airfoil shapes are represented as elements of the Grassmannian G(n,2), where n is the number of landmarks defining the shape.",
+  "The Landmark-Affine (LA) standardization is used to map discrete shapes to the Grassmannian in a scale and translation invariant manner.",
+  "The separable representation enables independent control over different types of shape deformations, facilitating more flexible and interpretable aerodynamic design optimization.",
+  "The framework also enables consistent interpolation of 2D airfoil shapes into 3D blade/wing designs, reducing the parameter count compared to traditional approaches.",
+  "The authors note that the separable shape tensor representation is closely related to the concept of Kendall shape spaces developed in the 1970s.",
+  "The proposed approach is presented as an analytic generative model for airfoil shapes, in contrast to alternative AI-based generative models and nonlinear dimension reduction techniques.",
+  "The authors provide detailed computational routines for learning the manifold-valued generative model of shapes in seconds, based on the Grassmannian structure.",
+  "Key benefits of the approach include decoupling affine and higher-order deformations, representation independence, and consistent 3D blade/wing design.",
+  "The work aims to enable more flexible, interpretable, and computationally efficient aerodynamic design optimization compared to traditional methods.",
+  "The separable shape tensor framework is motivated by the need to study the impacts of manufacturing defects and damage on aerodynamic performance.",
+  "The authors highlight the importance of innovations in computational domains for the future of computational fluid dynamics research.",
+  "The proposed representation is intended to inform rotation- and reflection-invariant designs of 2D airfoil shapes and enable new interpretations of the shape space.",
+  "Implementations and examples of the separable shape tensor framework are available on GitHub (Doronina et al. 2022)."
+]
