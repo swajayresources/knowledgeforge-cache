@@ -1,0 +1,17 @@
+[
+  "The 10 MW blade of the AVATAR project was used in the investigation.",
+  "The calculations were conducted at a wind speed of 10.5 m/s and a rotational speed of 9.0218 rpm.",
+  "The authors used the CFD code FLOWer with the SST-k\u03c9 turbulence model for the 3D simulations.",
+  "The authors performed a grid convergence index (GCI) study using three different mesh resolutions, with the medium mesh (10.9 million cells) providing grid-independent results.",
+  "The 3D lift coefficient showed a remarkable increase at the inner part of the blade (up to 40% radius) compared to the 2D simulations.",
+  "The 3D simulations showed a delayed separation point and a significantly smaller wake size compared to the 2D case, particularly at the inboard blade sections.",
+  "The authors attributed the rotational augmentation of lift coefficient to the centrifugal and Coriolis forces, which transport the separated flow towards the middle part of the blade and delay the separation point.",
+  "The XFOIL calculations consistently showed higher lift coefficients compared to the CFD results, which the authors attributed to the relatively thick airfoils used in the AVATAR blade and the sensitivity of these airfoils to the location of the transition point.",
+  "The authors stated that their results, showing a delay in separation point due to rotation, were consistent with the findings of Du and Selig (2000) and Herr\u00e1ez et al. (2014), and contradicted the conclusions of Sicot et al. (2008).",
+  "The authors suggested that the rotational effects on lift coefficient are airfoil dependent, in addition to the dependency on the local solidity (chord-to-radius ratio) as mentioned in previous studies.",
+  "The authors used a uniform inflow condition to isolate the rotational effects from unsteady phenomena, such as dynamic stall.",
+  "The authors performed an unsteady calculation until it reached periodic convergence of power and thrust, which was achieved after 15 revolutions.",
+  "The authors used the Chimera interpolation method to handle the overlapping grid areas in their simulations.",
+  "The background domain size was at least 6 and 14 blade radii in length and background radius, respectively.",
+  "The authors applied a periodic boundary condition to simulate only one blade, reducing the computational cost."
+]
