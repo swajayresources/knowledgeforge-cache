@@ -1,0 +1,17 @@
+[
+  "The experiments were conducted in the Alice C. Tyler recirculating water flume at the University of Washington.",
+  "The free stream velocity was 1.1 m/s, the dynamic depth was 0.48 m, and the water temperature was 38.9 \u00b1 0.1\u00b0C.",
+  "The diameter-based Reynolds number (Re_D) ranged from 1.6 \u00d7 10^5 to 2.7 \u00d7 10^5, and the Froude number (Fr_h) was 0.51.",
+  "The blade height (h) was 23.4 cm, and the outermost diameter (D_o) was approximately 17.2 cm.",
+  "The blockage ratio was around 11% across all tests.",
+  "Positive camber is defined as having an outward concavity away from the turbine axis.",
+  "Virtual camber is positioned such that it would have an outward concavity away from the turbine axis throughout the cycle.",
+  "Increasing c/R leads to an increase in both virtual camber and virtual incidence.",
+  "Increasing toe-out preset pitch (more negative \u03b1_p) results in lower performance in the upstream and higher performance in the downstream.",
+  "Increasing net camber, either through virtual or geometric camber, increases upstream power production but reduces downstream performance.",
+  "The optimal tip-speed ratio ranged from 2.3 to 3.6, with the highest values for low c/R and the lowest for high c/R.",
+  "The optimal preset pitch angle was found to be more negative as c/R increased.",
+  "The optimal performance at a given net camber occurs at a relatively constant net incidence of 0\u00b0 to +1\u00b0.",
+  "The effects of increasing c/R and decreasing optimal \u03bb have opposing effects on the chord-based Reynolds number (Re_c), with the effect of increasing c/R dominating.",
+  "The datasets from Hunt et al. and Chi were obtained using the same experimental setup and under similar flow conditions."
+]
