@@ -1,0 +1,17 @@
+[
+  "The authors analyzed a sequence of JET plasmas (83769-83775) that had a flat-top H-mode duration of ~5 s and exhibited intrinsic ELMing.",
+  "ELM occurrence times were determined from the Be II signal, while the full flux loop signals VLD2 and VLD3 were used to measure the voltage induced by changes in poloidal magnetic flux.",
+  "The authors used the Hilbert transform to determine the instantaneous phase of the full flux loop signals, subtracting a local mean to ensure the signals oscillate about zero.",
+  "ELMs were found to occur preferentially when the full flux loop signals were at a specific phase, with respect to the phase of the preceding ELM.",
+  "In the 2-5 ms before an ELM, the authors found that the phases of the VLD2 and VLD3 signals became progressively more aligned, and the two signals became phase synchronized with each other.",
+  "The authors quantified the degree of phase alignment using circular statistics, including the Rayleigh number R, the standardized angular variance \u03c3_\u03c6, and the p-value.",
+  "For times \u03b4t < 5 ms before the ELM, the authors found R > 0.3, small \u03c3_\u03c6, and small p-values, indicating a significant departure from a uniform phase distribution.",
+  "The authors constructed surrogate time-series to test for the possibility of phase alignment by chance coincidence, and found that the observed phase alignments were statistically distinct from chance occurrence.",
+  "The authors suggest that the emergence of coherent global dynamics in the integrated current density as part of the build-up to an intrinsic ELM may be analogous to the global plasma motion that precedes externally triggered ELMs.",
+  "The authors hypothesize that the build-up of coherent global dynamics could indicate a nonlinear feedback between the control system and the plasma, where the two behave as a single nonlinearly coupled system.",
+  "The authors note that the details of the short-lived fluctuations in the circular statistics are not entirely robust, but the overall trends, particularly the alignment of phases around a single value for \u03b4t < 5 ms, are found to be robust.",
+  "The authors' findings suggest that the full flux loop signals could potentially assist in ELM prediction or mitigation, as they contain information on the build-up to an intrinsic ELM.",
+  "The authors' analysis provides new insights into the global dynamics involved in the initiation of intrinsic ELMs, which is an important topic for understanding and controlling ELMs in tokamak plasmas.",
+  "The study demonstrates the value of high time-resolution diagnostics, such as the full flux loops, in revealing the complex spatio-temporal dynamics underlying ELM events.",
+  "The authors' approach of combining high time-resolution measurements, time-domain analysis, and circular statistics provides a powerful framework for investigating the global signatures of plasma instabilities like ELMs."
+]
