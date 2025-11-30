@@ -1,0 +1,10 @@
+[
+  "The paper presents an adaptation of Greenberg's potential flow model to predict the aerodynamic loads on a vertical-axis wind turbine blade.",
+  "The model is extended to handle multi-harmonic oscillations in effective angle of attack and incoming flow velocity, which are more representative of the blade kinematics at low tip-speed ratios.",
+  "The experimental data is from a scaled-down single-bladed H-type Darrieus wind turbine with a NACA0018 airfoil profile, chord length of 6 cm, and span of 15 cm.",
+  "The experiments were conducted at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "For low tip-speed ratios (\u03bb=1.5), the Greenberg model predicts the maximum radial force coefficient well, but deviates from the experimental results once the effective angle of attack exceeds the critical stall angle of 13.1\u00b0.",
+  "For higher tip-speed ratios (\u03bb=4.5), the Greenberg model predicts the maximum radial load coefficient and its timing well, but underestimates the magnitude during the downwind portion of the cycle due to blade-wake interactions.",
+  "The paper states that the proposed application of the Greenberg model to vertical-axis wind turbine kinematics shows great potential to diagnose regions of separated flow and quantify the relative influences of dynamic stall and turbine kinematics on the blade loading.",
+  "The authors note that future research can readily extend this method to any airfoil undergoing an arbitrary combination of pitching, surging and heaving, following a kinematic profile which can be approximated by a Fourier series."
+]
