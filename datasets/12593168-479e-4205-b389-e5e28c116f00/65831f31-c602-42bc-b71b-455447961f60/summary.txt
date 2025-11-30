@@ -1,0 +1,1 @@
+This paper investigates the use of silicon nitride plates with cooling channels as a potential material for turbine blade applications in gas turbine engines. The study involves finite element analysis and non-destructive evaluation to characterize and optimize the thermal performance of the cooled silicon nitride plates.
