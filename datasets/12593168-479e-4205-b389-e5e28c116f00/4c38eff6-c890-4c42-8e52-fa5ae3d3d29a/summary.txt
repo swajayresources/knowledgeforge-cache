@@ -1,0 +1,1 @@
+The paper presents a capillary-wave description of rapid directional solidification in binary alloys, deriving a universal dispersion relation for the unstable eigenmodes of a planar solidification front and demonstrating the formation of limit-cycle oscillations and banded structures.
