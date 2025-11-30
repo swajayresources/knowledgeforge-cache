@@ -1,0 +1,17 @@
+[
+  "CaF2 and SrF2 exhibit unlimited mutual solubility in both the liquid and solid phases.",
+  "The azeotropic point in the CaF2-SrF2 phase diagram occurs at a composition of Ca0.582Sr0.418F2 with a minimum melting temperature of 1373\u00b0C.",
+  "Mixed crystals of Ca1-xSrxF2 were grown in the composition range 0.38 \u2264 x \u2264 0.479 by the Czochralski method.",
+  "The pulling rate for 18mm diameter Ca1-xSrxF2 crystals was 1.5-2 mm/h.",
+  "Homogeneous single crystals of Ca0.582Sr0.418F2 up to 30mm in diameter could be grown by the Czochralski method.",
+  "The chemical composition of the crystals and melts was measured using ICP-OES with a precision of around 3% relative standard deviation.",
+  "The thermodynamic assessment used non-ideal models for the liquid and solid phases that accounted for independent mixing of the cations and anions.",
+  "The thermodynamic assessment agreed with the experimental DTA results within 1K.",
+  "The width of the DTA peaks (\u0394T = Toffset - Tonset) was 8.1K for pure CaF2 and 9.3K for pure SrF2.",
+  "The maximum measured \u0394T was 12.3K, observed for compositions of x = 0.5932 and x = 0.1317.",
+  "The thermodynamic model for the solid (Ca,Sr)F2 phase used 4 parameters: a = 2046.1957, b1 = -2.3570417, d1 = -0.0045433252, and a31 = -844.93984.",
+  "The deviation from ideality was much smaller for the liquid phase compared to the solid phase in the thermodynamic model.",
+  "The azeotropic point in the thermodynamic assessment occurred at x(Tmin) \u2248 0.418, slightly different from the experimental value of x = 0.4651.",
+  "The measured Sr concentration in the grown crystals matched the starting composition only for the x = 0.40 growth run.",
+  "A small positive deviation from the ideality line x_meas = x_0 was attributed to experimental errors in the concentration measurements."
+]
