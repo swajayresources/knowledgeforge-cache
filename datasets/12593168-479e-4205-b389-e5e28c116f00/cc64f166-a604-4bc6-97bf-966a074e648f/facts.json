@@ -1,0 +1,21 @@
+[
+  "The study aims to investigate conjugate heat transfer in rib-roughened ducts.",
+  "The experimental project involves creating a baseline database for numerical investigations.",
+  "The targeted application is the ribbed internal cooling channels used in turbine blades.",
+  "LES is used to simulate turbulent flows in this study.",
+  "Turbulence characterization is crucial for interpreting the experimental-based local heat flux calculations.",
+  "Coherent structures play a significant role in heat transfer.",
+  "The Enhancement Factor (EF) is a measure of the heat transfer enhancement due to the presence of ribs and other features in the duct.",
+  "Cooling holes can alter the flow field and heat transfer characteristics.",
+  "The computational domain consists of a square test section with a rib-roughened surface.",
+  "The resolution of the wall layer is crucial for accurately capturing the heat transfer and flow field characteristics.",
+  "The Courant cell number is a measure of the numerical stability of the simulations.",
+  "The inflow boundary condition affects the flow field.",
+  "The study's results provide valuable insights into the development of conjugate numerical models.",
+  "PCA is used to investigate the covariance matrix and identify the principal components of the flow and thermal field around the ribs.",
+  "The active orifice can alter the coherent structures and heat transfer characteristics.",
+  "The study's findings provide valuable insights into the design of turbine blades.",
+  "The numerical simulations are conducted using a high-resolution mesh.",
+  "The simulations are accurately capturing the flow field and heat transfer characteristics.",
+  "The study's results are applicable to a wide range of engineering applications."
+]
