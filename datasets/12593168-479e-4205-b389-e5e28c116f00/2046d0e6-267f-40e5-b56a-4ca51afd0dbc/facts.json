@@ -1,0 +1,17 @@
+[
+  "The study uses a two-dimensional heat conduction problem.",
+  "The finite difference method is used to solve the heat conduction problem.",
+  "The coolant to primary mass flow ratio is 3% of the main flow rate.",
+  "The impingement tubes provide cooling near the leading edge of the blade.",
+  "The film coefficient is higher over the intermediate portion of the blade surface.",
+  "The empirical relation used to calculate the adiabatic wall temperature is equation (11).",
+  "The heat transfer coefficient differs by less than 10% starting with a distance d/w = 22.",
+  "The ratio of the density pc times the exit velocity uc from the slot to the external mass velocity pgug is less than 0.4.",
+  "The empirical relation used to calculate the convective heat transfer coefficients due to the coolant flow is equation (12).",
+  "The characteristic length used in the calculation of Nusselt and Reynolds numbers is the mean hydraulic diameter.",
+  "The study uses a radial turbine guide vane blade.",
+  "The study uses a combination of impingement and film cooling techniques.",
+  "The study aims to provide valuable information about the temperature distributions resulting from different cooling techniques.",
+  "The study uses the Gauss-Seidel iteration procedure to solve the equations.",
+  "The study uses a computer program to calculate the temperature distribution in the blade cross-section."
+]
