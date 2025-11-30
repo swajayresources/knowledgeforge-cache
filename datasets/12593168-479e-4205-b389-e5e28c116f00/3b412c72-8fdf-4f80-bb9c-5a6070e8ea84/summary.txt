@@ -1,0 +1,1 @@
+This paper describes heat transfer measurements conducted in NASA Glenn's Transonic Turbine Blade Cascade facility, which can reproduce engine conditions to help validate computational fluid dynamics (CFD) models for turbine blade and endwall heat transfer prediction.
