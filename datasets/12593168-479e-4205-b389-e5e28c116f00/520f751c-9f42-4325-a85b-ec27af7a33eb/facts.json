@@ -1,0 +1,17 @@
+[
+  "Optimal Transport is the canonical method for comparing probability measures and has been successfully applied in a wide range of areas such as computer vision, computer graphics, and natural language processing.",
+  "The Kantorovitch OT problem is a Linear Program (LP) and the complexity of the LP scales at least in O(d^3 log(d)), where d = max(n,m) and n, m are the number of discrete states in the source and target spaces, respectively.",
+  "The entropy-regularized OT problem introduces a Kullback-Leibler divergence (KLD) term with respect to a fixed pdf \u03c6, which makes the problem strongly convex and allows for efficient iterative scaling algorithms to compute an approximate transport plan.",
+  "The FPD-OT framework establishes that the entropy-regularized OT problem is a special case of the FPD framework, where the ideal design \u03c0I is the extended Gibbs kernel that depends on the transportation cost function c(x,y) and the reference pdf \u03c6.",
+  "The FPD-OT framework can endow the conventional OT framework with the necessary mechanisms for processing more sophisticated, probabilistic knowledge constraints beyond just the marginal constraints.",
+  "The FPD-OT framework allows designing robust pdfs by explicitly modeling the uncertainty in the marginals \u03bc and \u03bd, making \u03c0(x,y|K) a stochastic object with its own Hierarchical Bayesian model.",
+  "The KLD being 1-strongly convex, the FPD-OT problem is \u03b5-strongly convex, guaranteeing a unique solution.",
+  "When \u03b5 \u2192 \u221e, the ideal design \u03c0I in the FPD-OT framework is completely defined by the reference pdf \u03c6, and when \u03b5 \u2192 0, the FPD-OT framework recovers the original Kantorovitch OT problem in the limit.",
+  "The Boltzmann-Shannon entropy-regularized OT problem is a special case of the FPD-OT framework, where the ideal design \u03c0I is the Boltzmann distribution with the transportation cost c(x,y) as the energy and the regularization term \u03b5 as the inverse temperature.",
+  "The FPD-OT framework can be used to process more sophisticated knowledge constraints in the form of moment constraints, i.e., \u03c0(x,y)\u03c7(x,y)d\u03bb(x,y) \u2264 \u03b7, where \u03c7 is a measurable function and \u03b7 is a constant.",
+  "The FPD-OT framework can be used to design robust pdfs by explicitly modeling the uncertainty in the marginals \u03bc and \u03bd, allowing \u03c0(x,y|K) to become a stochastic object with its own Hierarchical Bayesian model.",
+  "The main contribution of this paper is to establish the connection between OT and FPD, providing new theoretical insights for both frameworks and laying the foundations for the application of FPD-OT in subsequent work.",
+  "The FPD-OT framework is a generalization of the classical Bayesian conditioning, allowing the processing of probabilistic knowledge constraints in the design of the pdf \u03c0(x,y|K) without requiring a specified joint model \u03c0(x,y,K).",
+  "The ideal design \u03c0I in the FPD-OT framework is composed of two factors: (i) the Gibbs kernel, which is a function of the transportation cost c(x,y), and (ii) the reference pdf \u03c6, which encodes the designer's preferences about the optimal pdf \u03c0^o.",
+  "The KLD is proven to be the most appropriate utility function for ranking preferences in an inference problem, and hence the FPD-OT solution is the pdf minimizing the KLD with respect to the ideal design, while being consistent with the constraint set \u03a0_K."
+]
