@@ -1,0 +1,17 @@
+[
+  "The paper evaluates different methods for determining the angle of attack (AoA) and induced velocity on wind turbine blades using computational fluid dynamics (CFD) under axial inflow conditions.",
+  "The two 10 MW reference wind turbines used in the study were the INNWIND.EU/DTU and AVATAR turbines.",
+  "The free-stream velocities considered were 6 m/s and 9 m/s, with rotor speeds of 6 RPM and 7.3 RPM, respectively.",
+  "The computational grid used for the CFD simulations had a total of 14 million cells.",
+  "The y+ values at the blade surface were kept below 1 everywhere with a cell size of 2 \u00d7 10^-6 normal to the wall.",
+  "The results show good agreement between the evaluated methods at the mid-span, though some deviations are observed at the root and tip regions of the blades.",
+  "The discrepancies at the root and tip regions are attributed to the 2D assumptions of the methods not capturing the 3D effects of the bound circulation.",
+  "The 3-Point method is able to reproduce the dynamic behavior of the induction and AoA near the tip and root of the blade, which is important for yawed flow.",
+  "The Shen 2 method has a lower dependency on the monitoring point locations compared to the Shen 1 method, especially near the root.",
+  "The CFD results were compared to BEM calculations using FAST V8, where the polars from the CFD computations were used, and no 3D correction models were applied.",
+  "The paper aims to assess available methods to extract AoA from CFD simulations, so that CFD results can be used for calibration of induction modelling in BEM.",
+  "The investigations were performed for two 10 MW reference wind turbines under axial inflow conditions, namely the turbines designed in the EU AVATAR and INNWIND.EU projects.",
+  "The Ellipsis3D CFD solver was used for the numerical simulations, which is a multi-block finite volume discretization of the incompressible Reynolds Averaged Navier-Stokes (RANS) equations.",
+  "The computations were performed using the k-\u03c9 SST turbulence model and the Drela/Giles version of the En transition model.",
+  "The computational grid was fully structured based on hexahedral cells, with 256 cells around the airfoils, 129 cells in the span-wise direction for each blade, and 129 cells in the wall normal direction."
+]
