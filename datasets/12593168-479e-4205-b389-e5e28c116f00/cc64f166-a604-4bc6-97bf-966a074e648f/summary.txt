@@ -1,0 +1,1 @@
+This research paper investigates conjugate heat transfer in rib-roughened ducts using experimental and numerical methods. The study aims to understand the underlying physics of heat transfer and turbulence in such systems, with applications in turbine blades. The results provide valuable insights into the role of coherent structures and heat transfer enhancement factors.
