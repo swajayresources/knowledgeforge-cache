@@ -1,0 +1,19 @@
+[
+  "Barker1,NeelanjanBhowmik1 andToby",
+  "Breckon1,2 Departmentof{ComputerScience1|Engineering2},DurhamUniversity,Durham,UK Keywords: Semi-supervised,anomalydetection,GFRPcompositematerial,faultdetection",
+  "BladeNetproducesanAveragePrecision(AP)of0",
+  "995acrossour\u00d8rstedbladeinspectiondatasetforoffshore wind turbines and 0",
+  "223 across the Danish Technical University (DTU) NordTank turbine blade inspection dataset",
+  "BladeNetalsoobtainsanAUCof0",
+  "639forsurfaceanomalydetectionacrossthe\u00d8rstedbladeinspec- tiondataset",
+  "1 Introduction Globalenergydemandisincreasingsignificantly",
+  "Be- tween 1971 to 2010, demand for energy increased 1 2 3 4 2",
+  "4 fold (+134%) and is predicted to increase by Figure 1: Transfer detection of an out-of-dataset turbine +204",
+  "2% by the year 2030 (Yuhji Matsuo, 2013)",
+  "blade illustrating the robust ability of our method 1) Im- The \u20181992 - Kyoto Protocol\u2019, introduced by the age of wind turbine with marked region on the blade and United Nations Framework Convention on Climate nacelle,2)Croppedregionofturbineblade,3)Rawmodel output,4)Thresholdmodeloutputproducingfinalbladede- Change(UNFCCC),enteredintoforcein2005",
+  "Kyoto Protocol regulates 192 member countries to limit and reduce Greenhouse Gas (GHG) emissions shutdownasasafetymeasure(Sinden,2007)",
+  "Renewable energy sources emit negligible CO 2 Fewlocationsprovidereliableandsufficientsup- emissions and can supply for the increase in de- ply of wind to meet energy demands",
+  "The Global Wind Energy Council wind farms are now favoured due to factors which (GWEC)estimatesa17-foldincreaseinwindpower include: the availability of large continuous areas generation,providingasmuchas25\u221230%ofglobal suitable to major projects, and the reduction of vi- electricitybytheyear2050(GWEC,2008),equating sual or noise impact",
+  ",2015)furtherimprovesinference timebyreplacingselectivesearchwithaRegionPro- In this work, we propose BladeNet, a dual mod- posalNetwork(RPN)",
+  "In this work we propose BladeNet, an application- (2018)"
+]
