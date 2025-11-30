@@ -1,0 +1,17 @@
+[
+  "The proposed topology optimization method considers the geometric constraint of no closed cavities to improve the effectiveness of additive manufacturing.",
+  "The fictitious physical model represents a steady-state heat flow with a heat source in the void domain, where the temperature is almost zero if the void domain is connected to the boundary, and approaches 1 if the void domain is enclosed by the material domain.",
+  "The diffusion coefficient a_p in the fictitious physical model should be set to a value between 1x10^2 and 1x10^3 to properly express the cases where the constraints are met or not met.",
+  "The small diffusion coefficient (epsilon)_p should be set to a value of less than or equal to 1x10^-5 to obtain the desired behavior of the fictitious physical field and its topological derivative.",
+  "The minimum size of a slit for powder removal can be qualitatively controlled by adjusting the diffusion coefficient a_p in the fictitious physical model.",
+  "The finite element method (FEM) is used to solve the governing equations for both the target physics and the fictitious physical model, using the FreeFEM software.",
+  "Without the geometric constraint, the optimal configuration includes a cavity that is not connected to the outside, whereas with the constraint, all void domains are connected to the outside.",
+  "The constrained configuration has a columnar structure to ensure stiffness, rather than the plate-like structure of the unconstrained configuration.",
+  "The proposed fictitious physical model does not impose excessive constraints on the shape and allows for an appropriate search for the optimal shape without directly considering constraint violations.",
+  "The proposed method is based on the fictitious physical model approach, which introduces a fictitious physical field and its governing equations to evaluate manufacturability in the basic framework of topology optimization.",
+  "The geometric constraint of no closed cavities is formulated using the fictitious physical model, where the temperature is directed toward 1 in the void domain and 0 in the material domain.",
+  "The constraint function for the geometric constraint is defined as the integral of the ramp function of the fictitious physical field over the design domain.",
+  "The topological derivative of the constraint function is derived and used in the optimization algorithm, which is based on the level-set-based topology optimization method.",
+  "The optimization algorithm solves the equilibrium equations for the target physics and fictitious field, computes the adjoint equation for the fictitious field, calculates the design sensitivities, and updates the level set function using the reaction-diffusion equation.",
+  "The numerical examples validate the proposed fictitious physical model and demonstrate the utility of the proposed topology optimization method with the geometric constraint."
+]
