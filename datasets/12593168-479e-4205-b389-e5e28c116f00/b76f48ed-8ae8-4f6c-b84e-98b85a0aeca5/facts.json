@@ -1,0 +1,17 @@
+[
+  "The proposed enhanced compressor uses two cylindrical lenses placed between the gratings of a traditional Treacy compressor.",
+  "The central wavelength of the laser system is 1030 nm, which is optimal for Yb:YAG lasers commonly used in high-power ultrafast applications.",
+  "The wavelength spread of the laser pulse is 3.1 nm (FWHM).",
+  "The grating period is 1702 lines/mm, and the incidence angle is 61.2 degrees.",
+  "The total separation between the gratings is 1 m, with the two lenses positioned such that the central wavelength passes through their centers.",
+  "The focal lengths of the two lenses are -0.1 m and 0.5 m, respectively.",
+  "The numerical simulations show that the enhanced compressor increases the GDD by a factor of over 5 compared to a standard Treacy compressor with the same parameters.",
+  "The enhanced compressor design significantly reduces the physical size of the compressor, making it more suitable for out-of-lab applications.",
+  "The enhanced compressor design allows for greater pulse stretching, which helps to alleviate the risk of optical damage in high-power laser systems.",
+  "The enhanced compressor design leads to a substantial increase in the third-order dispersion (TOD), which needs to be pre-compensated, for example, by using a chirped fiber Bragg grating (CFBG).",
+  "The analytical model developed in the paper, particularly Eq. 9, provides a good theoretical description of the GDD of the enhanced compressor, with the numerical simulations showing good agreement.",
+  "The simplified Eq. 10 provides a good estimate of the GDD only near the central wavelength of 1030 nm.",
+  "The enhanced compressor design is well-suited for high-power ultrafast laser systems, enabling their use in applications outside of laboratory environments, such as manufacturing, defense, and medical applications.",
+  "Compared to the design by Yang and Towe, which integrates the gratings into a solid fused silica block, the enhanced compressor proposed in this paper is more easily achievable and avoids potential issues like spectral distortions or optical damage from long propagation through a solid medium.",
+  "The key challenges of the enhanced compressor design include the increased TOD, sensitivity to precise positioning and alignment of the lenses, and potential for optical aberrations due to the off-axis propagation through the lenses."
+]
