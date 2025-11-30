@@ -1,0 +1,17 @@
+[
+  "The authors developed a high-resolution additive manufacturing technique that uses upconversion nanoparticles and wavefront shaping to focus near-infrared light through highly scattering media.",
+  "Upconversion nanoparticles convert near-infrared light to ultraviolet light for photopolymerization and to visible light that is used as a guide star for wavefront shaping.",
+  "The authors used a digital micromirror device (DMD) to modulate the amplitude of the input light, rather than a liquid crystal spatial light modulator which modulates the phase.",
+  "The optical memory effect, where a shifted or tilted input wavefront results in an equally shifted or tilted output wavefront, was exploited to dynamically shift the focal spot through the scattering medium.",
+  "A nonlinearity parameter n of 2.4 was observed for the upconverted fluorescence signal at lower light intensities, indicating a multi-photon process.",
+  "Through the holographic diffuser, features as small as 1.5 \u03bcm were printed, while through the 300 \u03bcm thick chicken tissue, features as small as 2 \u03bcm were printed.",
+  "The FWHM of the optical memory effect was 16 \u03bcm for the holographic diffuser and 8 \u03bcm for the 300 \u03bcm thick chicken tissue.",
+  "Dynamic focusing, where the focal spot was shifted in 5 \u03bcm increments and the wavefront re-optimized, was used to maintain a uniform light dose during the printing process.",
+  "Printing through the chicken tissue showed more non-uniformity and over-polymerization in some regions, suggesting the need for real-time adjustment of the laser power and optimization parameters.",
+  "The optimization speed in the non-invasive configuration was limited by the low signal intensity from the back-scattered upconverted fluorescence.",
+  "The authors were able to print features that were over 5 times smaller than the speckle size within the scattering medium.",
+  "The authors demonstrated successful printing through both a holographic diffuser and a 300 \u03bcm thick slice of chicken breast tissue.",
+  "The authors note that the time required to focus light in their approach cannot exceed the ms range due to the dynamic nature of biological tissues.",
+  "The authors suggest that improving the upconversion efficiency of the nanoparticles and using more sensitive detectors could increase the optimization speed.",
+  "The authors were unable to pre-determine the absolute position of the printed voxels, as the global maximum of the focused spot could shift to different hot spots within the illuminated resin."
+]
