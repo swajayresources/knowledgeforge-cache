@@ -1,0 +1,15 @@
+{
+  "paper_id": "d9183cc2-c7ec-4ad4-82fb-89f6bc0407fa",
+  "title": "Evaluation of different methods for determining the angle of attack on wind turbine blades with CFD results under axial inflow conditions",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d9183cc2-c7ec-4ad4-82fb-89f6bc0407fa/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d9183cc2-c7ec-4ad4-82fb-89f6bc0407fa/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d9183cc2-c7ec-4ad4-82fb-89f6bc0407fa/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/d9183cc2-c7ec-4ad4-82fb-89f6bc0407fa/keywords.json"
+  ]
+}
