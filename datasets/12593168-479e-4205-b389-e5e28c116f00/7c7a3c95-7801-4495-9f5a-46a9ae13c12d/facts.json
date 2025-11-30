@@ -1,0 +1,17 @@
+[
+  "Seal vibrissae from harbor seals, elephant seals, and California sea lions were obtained and analyzed using 3D scanning, microscopy, and CT scans.",
+  "The pitch (P) and amplitude (a) of the undulations on the seal blades were varied, with some designs matching the specific P/a ratio and P/leading edge radius of the actual seal vibrissae.",
+  "CFD simulations were conducted at a Reynolds number of 100,000 based on inlet conditions and blade axial chord.",
+  "For the Sin1R0P5 seal blade, the average total pressure loss coefficient was reduced by around 50% to 0.069 compared to the baseline untreated blade.",
+  "The seal blades showed consistent performance improvements over the baseline configuration at incidence angles ranging from -37 to +10 degrees.",
+  "At the negative incidence angle of -37 degrees, the seal blade prevented separation on the pressure side that was observed for the untreated blade.",
+  "Hotwire surveys in the wake of the Sin1R0P5 seal blade showed a reduction in broadband frequency content and turbulence intensity compared to the untreated blade.",
+  "The researchers estimated that a fuel burn reduction of approximately 5% could be achieved for a fixed-wing aircraft by using the seal blade design.",
+  "The large thickness-to-chord ratio of the baseline turbine blade provided enough volume for potential internal flow control activities.",
+  "The researchers conducted a comprehensive literature review on biomimetic aerodynamic and acoustic applications, covering features from owls, whales, sharks, dragonflies, and more.",
+  "The researchers noted that the undulation amplitude could potentially be reduced towards the trailing edge, or undulation sweep could be introduced, to further optimize the blade design.",
+  "The experimental setup included the NASA SW-2 cascade wind tunnel facility, which was modified to accommodate testing of biomimetic and flow control test articles.",
+  "The CFD simulations used the NASA in-house Unsteady Reynolds-Averaged Navier-Stokes code, Glenn-HT, with the SST - transition enabled two-equation model.",
+  "The researchers validated the CFD model against previous experimental data for the baseline turbine blade geometry.",
+  "The researchers observed that a smaller undulation pitch had a larger benefit on performance, while the amplitude of the undulation did not have a significant effect."
+]
