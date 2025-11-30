@@ -1,0 +1,17 @@
+[
+  "The experiments were conducted in the Allison Aerothermodynamic Cascade Facility, which can simulate a wide range of engine operating conditions.",
+  "The test vane had a total of 123 surface thermocouples and 46 surface static pressure taps, with 11 redundant thermocouples and pressure taps.",
+  "The leading edge film cooling array had 5 rows of holes with a hole diameter of 0.099 cm (0.039 in) and a length-to-diameter ratio of 3.35.",
+  "The downstream film cooling arrays on the suction and pressure surfaces each had 2 rows of holes with the same hole diameter and length-to-diameter ratio as the leading edge.",
+  "The coolant flow rates to each of the three film cooling arrays were independently controlled and measured using calibrated orifice meters.",
+  "Heat transfer coefficients for the 10 internal radial cooling holes were calculated from the hole diameter, coolant flow rate, and coolant temperature, with a correction for thermal entry region effects.",
+  "The vane was fabricated in two pieces, with the film cooled leading edge section thermally isolated from the rest of the vane by a sealed air gap.",
+  "The exit Mach numbers tested were 0.75 and 0.90, with a true chord Reynolds number on the order of 10^6.",
+  "The coolant-to-gas temperature ratio and coolant-to-gas pressure ratio were varied to study the effects on heat transfer.",
+  "Cascade throat static pressures were measured using seven-element pressure rakes installed in grooves on the pressure and suction surfaces.",
+  "The data from this study extend the database generated in previous studies on non-film cooled and leading edge film cooled turbine vanes.",
+  "The results show that downstream film cooling can provide significant cooling benefits, but the process is complex due to competing thermal dilution and turbulence augmentation effects.",
+  "The data and analysis from this study are intended to help improve heat transfer design capabilities for film cooled turbine airfoils.",
+  "The C3X vane profile used in this study was the same as in previous studies, allowing the data to be directly compared.",
+  "The redundant thermocouples and pressure taps were used to verify the two-dimensionality of the heat transfer and pressure measurements."
+]
