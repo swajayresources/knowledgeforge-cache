@@ -1,0 +1,1 @@
+This paper presents a cascade optimization strategy that combines neural network and regression approximations to improve the computational efficiency and robustness of preliminary aircraft engine design. The methodology is demonstrated on a subsonic turbofan engine with a wave rotor, showing significant improvements in maximum thrust compared to a manual design approach.
