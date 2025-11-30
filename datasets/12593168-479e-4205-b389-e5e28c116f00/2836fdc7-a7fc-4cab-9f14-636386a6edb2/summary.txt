@@ -1,0 +1,1 @@
+This paper investigates the impact of fasteners (rivets) on the radar cross-section (RCS) performance of radar-absorbing air intake ducts. It presents detailed modeling, simulation, and analysis of different rivet configurations and their effects on RCS reduction across various frequencies and duct lengths.
