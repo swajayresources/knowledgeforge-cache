@@ -1,0 +1,12 @@
+[
+  "The paper analyzes the Brownian thermal noise in multilayer dielectric coatings used in high-precision optical measurements, including interferometric gravitational-wave detectors.",
+  "The coating noise arises not only from layer thickness fluctuations, but also from fluctuations of the interface between the coating and substrate, driven by internal fluctuating stresses of the coating.",
+  "The thickness fluctuations of different coating layers are statistically independent, but there exists a finite coherence between the layers and the substrate-coating interface.",
+  "When the coating thickness is much less than the beam spot size, the only significant contribution to refractive index fluctuations arises from longitudinal (thickness) fluctuations.",
+  "The non-zero photoelastic coefficients of the thin films modify the influence of the thermal noise on the laser field.",
+  "The paper shows that significant uncertainties still exist in estimating coating Brownian noise due to uncertainties in material parameters.",
+  "The paper identifies three main sources of coating noise: thickness fluctuations, fluctuations of the coating-substrate interface, and refractive index fluctuations.",
+  "The paper uses the fluctuation-dissipation theorem to calculate the cross-spectral densities of the coating noise components.",
+  "The paper discusses the effect of light penetration into the multilayer coating on the coating thermal noise, showing that it modifies the influence of the thermal noise on the laser field.",
+  "The paper optimizes the coating structure in order to lower the thermal noise, and discusses how different combinations of the two loss angles can be measured using a new experimental geometry."
+]
