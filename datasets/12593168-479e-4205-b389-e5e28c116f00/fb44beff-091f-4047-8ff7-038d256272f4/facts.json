@@ -1,0 +1,12 @@
+[
+  "The turbine inlet temperature (1700\u20132000 K) has far exceeded the melting point (about 1700 K) of the turbine blade, requiring the use of film cooling to enhance high-temperature creep resistance.",
+  "The film cooling holes have a deep depth and a relatively narrow radius, often between 0.2 and 0.8 mm, making them challenging to produce using traditional techniques.",
+  "The real surface of the blade is not the same as the theoretical surface due to uneven deformation during the casting process, causing position deviations in the theoretical film cooling hole locations.",
+  "The adaptive location method divides the entire deformation of the blade cross-section curve into deformation combinations of the mean line curve based on the blade design intent.",
+  "The flexible deformation approach uses a translation matrix and rotation matrix to deform the theoretical mean line curve to match the real mean line curve, preserving the relative geometric position of the discrete points.",
+  "The optimization method fits a low-order virtual curve for the flexibly deformed holes in a group, projects it onto the real blade surface, and uses Quaternionic interpolation to optimize the axial direction.",
+  "The machining experiments showed the adaptive location method can reduce the maximum position deviation of the film cooling holes by approximately 80% compared to the rigid location method.",
+  "The total computation time for the flexible deformation and adaptive location of the film cooling holes on a blade with 4 cross-sections was under 22 minutes.",
+  "The paper uses a 3D scanner to measure the casting turbine blade and create a point cloud, then aligns the measured data with the theoretical blade using the ICP algorithm as a first step.",
+  "The flexible deformation approach considers the blade design intent, which includes the influence of the mean line curve, thickness, and other design parameters on the geometric shape."
+]
