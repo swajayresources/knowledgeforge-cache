@@ -1,0 +1,18 @@
+[
+  "The study uses four machine learning algorithms: Gaussian Process Regression, Support Vector Machine, Random Forest Regression, and Artificial Neural Network.",
+  "The proposed framework is based on the sequential model-based optimization method.",
+  "The RFR surrogate model is used to represent the relation between hyperparameters and accuracy measures.",
+  "The termination criterion is the maximum number of iterations (N).",
+  "The design space shrinking procedure is a recursive process that refines the design space iteratively.",
+  "Latin Hypercube Sampling (LHS) is used to spread a group of samples almost uniformly over the design space.",
+  "The study shows that hyperparameter optimization can improve the performance of machine learning models in structure design problems.",
+  "The proposed framework is a multi-objective hyperparameter optimization framework.",
+  "The study uses a maximum of 10 iterations for hyperparameter optimization.",
+  "The study uses a maximum of 1000 evaluations for hyperparameter optimization.",
+  "The study shows that the proposed framework can improve the performance of machine learning models in structure design problems.",
+  "The study uses a total of 4 machine learning algorithms.",
+  "The study uses a total of 4 benchmark examples.",
+  "The study shows that the proposed framework can be used for structure design problems.",
+  "The study uses a maximum of 10 design variables.",
+  "The study uses a maximum of 1000 design points."
+]
