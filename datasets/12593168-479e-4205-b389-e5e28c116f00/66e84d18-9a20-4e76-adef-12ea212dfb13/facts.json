@@ -1,0 +1,17 @@
+[
+  "The Weber number describes the amount of kinetic energy needed to overcome the surface tension and create a free-flying droplet with positive momentum.",
+  "According to the literature, Weber numbers above 12 assure the creation and safe break-up of liquid droplets.",
+  "The researchers used a PipeJet P9 dispenser from BioFluidix, GmbH, which is based on a piezo stack actuated piston providing a precisely controlled displacement to a 500 micrometer wide liquid filled polyimide tube with an open end (nozzle).",
+  "The PipeJet P9 dispenser can produce droplets with adjustable volumes between 15 and 60 nl.",
+  "The researchers used a high-speed camera with a frame rate of 10,602 fps to record the droplet formations, break-ups, and free flights.",
+  "When the total supplied kinetic energy is slightly below the surface energy of the droplet, the total droplet momentum becomes negative to maintain energy conservation.",
+  "The protruding liquid jet reaches a state where its kinetic energy falls to zero, and the velocity of the jet head begins to revert towards the nozzle direction due to the surface tension slowing down the jet.",
+  "The droplet tail can still neck-off to form a temporarily free-flying droplet, while the average droplet momentum is already inverted, causing the droplet to return back into the nozzle.",
+  "The researchers performed 2D computational fluid dynamics simulations using the Volume of Fluid method to model surface tension effects, which showed droplet break-up with negative momentum similar to the experimental observations.",
+  "The researchers state that the droplet break-up can occur at Weber numbers below 8, where the kinetic energy alone is not sufficient to separate the droplet from the bulk fluid.",
+  "The researchers found a good qualitative agreement between the simulation and the experiments, with the velocity field visualized inside the droplet clearly indicating the inverted momentum.",
+  "The video of the experiments was submitted to the Gallery of Fluid Motion 2012, which is an annual showcase of fluid dynamics videos.",
+  "The researchers used the PipeJet P9 dispenser to precisely control the droplet volume and velocity by adjusting the displacement and velocity of the piston.",
+  "The researchers incrementally reduced the velocity of the piston to control the kinetic energy transmitted to the droplet, while keeping the droplet mass approximately constant.",
+  "The researchers observed that the droplet break-up with negative momentum only occurs for a narrow range of velocities, requiring precise adjustment of the displacement velocity."
+]
