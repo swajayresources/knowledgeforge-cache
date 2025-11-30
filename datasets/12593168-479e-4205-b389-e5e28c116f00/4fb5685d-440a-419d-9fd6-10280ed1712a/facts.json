@@ -1,0 +1,17 @@
+[
+  "The DNN model is a multiscale approach that bridges the scale gap between phase-field and coarse-grained models for dendritic solidification.",
+  "The DNN simulations were able to reproduce the oscillatory growth behavior observed during directional solidification of the Ni-based superalloy CMSX-4.",
+  "The DNN model predicts a scaling law for the effect of gravity on primary dendrite arm spacing in Al-Cu alloy, which agrees well with phase-field results and experimental data.",
+  "The DNN simulations show good agreement with phase-field predictions and experimental measurements for the reduction of primary dendrite arm spacing under increasing gravity levels in Ti-Al alloy.",
+  "The Flux Intensity Factor (FIF) is used in the DNN model to calculate the normal solute flux towards the dendrite tips, and is integrated over a circular domain enclosing the needle tip.",
+  "The DNN model solves the incompressible Navier-Stokes equation in the liquid phase to account for buoyancy-driven convection, using the Boussinesq approximation for the buoyancy force term.",
+  "The Gibbs-Thomson relation is used in the sharp-interface formulation of the DNN model to relate the interface concentration to the undercooling at the needle tips.",
+  "The solvability condition is used in the DNN model to determine the tip radius and growth velocity, based on the requirement that the free boundary problem has a solution.",
+  "The DNN model incorporates a side-branching mechanism, where new branches are periodically generated perpendicular to the parent dendrite at a randomized distance behind the tip.",
+  "The DNN simulations were performed on a GPU, allowing for a substantial acceleration compared to phase-field simulations, with computation times ranging from a few hours to a few weeks depending on the gravity conditions.",
+  "The DNN model is able to simulate dendritic growth over entire arrays of primary dendrites at experimentally relevant length and time scales, in contrast to the limited domain sizes typically accessible with phase-field methods.",
+  "The DNN model's ability to reproduce the oscillatory growth behavior in the Ni-based superalloy CMSX-4 provides insights into the fundamental mechanisms behind this nontrivial phenomenon.",
+  "The good agreement between DNN simulations, phase-field results, and experimental data for primary spacing selection in Al-Cu and Ti-Al alloys under different gravity conditions validates the DNN model as a reliable tool for studying the effects of fluid flow on dendritic solidification.",
+  "The DNN model's incorporation of buoyancy-driven convection in the liquid phase, as well as its efficient numerical implementation on GPUs, make it a powerful tool for investigating the complex interplay between processing conditions, fluid flow, and microstructure selection in solidification processes.",
+  "The differences observed between 2D DNN simulations and 3D experimental results for primary dendrite arm spacings in the Al-Cu alloy highlight the importance of dimensionality effects in accurately capturing the influence of fluid flow on dendritic growth."
+]
