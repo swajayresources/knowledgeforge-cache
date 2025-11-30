@@ -1,0 +1,17 @@
+[
+  "The engine design should be selected optimally in terms of the overall aircraft system, as the engine size, weight, and fuel consumption have a large influence on both the structural aircraft sizing process and the aerodynamics.",
+  "The reference engine model was based on the Trent 1000-R3 engine, which is a three-spool unmixed turbofan engine similar to the one used on the Boeing 787 family.",
+  "The reference engine model had a bypass ratio of 8.86, an overall pressure ratio of 49.4, and a thrust-specific fuel consumption of 7.92 g/kNs at the maximum take-off condition.",
+  "The temperature limits specified for the thermodynamic cycle design were 989 K for the high pressure compressor outlet, 1932 K for the high pressure turbine inlet, and 1270 K for the low pressure turbine inlet.",
+  "The effects of component size on efficiency were accounted for by correcting the baseline efficiencies of the reference model based on the actual reduced mass flow through each component.",
+  "The key parameters used to define the rubber engine model included the required thrust, design flight Mach number, and engine diameter, as these cover the most important coupling influences between the aircraft and the engine.",
+  "The reference engine model was compared to available performance data on certified Trent 1000 engine versions, showing good agreement in parameters like bypass ratio, overall pressure ratio, and thrust-specific fuel consumption.",
+  "The engine design process utilized the DLR's Gas Turbine Laboratory (GTlab) framework, DLR Performance Program (DLRp2) for thermodynamic cycle calculations, Piano-X for flight mission analysis, and the DLR's SMARTy toolbox for surrogate modeling.",
+  "The hybrid surrogate-based rubber engine model combines surrogate models for engine parameters with a thermodynamic performance tool to enable evaluation of engine performance over the entire flight mission.",
+  "Compared to directly integrating the engine design process, the surrogate-based rubber engine model reduces the complexity of the MDO process and increases its robustness, while still providing detailed engine performance information.",
+  "The reference engine model was built based on available data for the Trent 1000-R3 engine, including thermodynamic cycle characteristics, geometry, and weight, with missing parameters estimated using statistical methods and information from published sources.",
+  "The engine geometry was estimated using a knowledge-based process that leveraged dimensionless geometrical parameters from a general arrangement similar to the Trent 1000 engine.",
+  "The engine design process considered the major dependencies of the engine components as well as restricting constraints to ensure physically reasonable and comparable engines with a constant technological level.",
+  "The hybrid surrogate-based rubber engine model facilitates the exchange with other organizations or departments, as only common tools for meta-modeling and thermodynamic calculation are required.",
+  "The hybrid surrogate-based rubber engine model enables the optimal selection of an engine design while reducing additional complexity to a minimum in the MDO process."
+]
