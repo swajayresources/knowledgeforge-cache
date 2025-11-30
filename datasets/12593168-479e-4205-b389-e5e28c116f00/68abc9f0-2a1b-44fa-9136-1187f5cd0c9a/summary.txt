@@ -1,0 +1,1 @@
+This paper investigates the application of pinniped (seal) vibrissae to improve the aerodynamic performance and reduce noise in turbine blades. Computational fluid dynamics simulations and wind tunnel experiments were conducted to study the effects of incorporating undulations inspired by seal whiskers on a variable speed power turbine blade.
