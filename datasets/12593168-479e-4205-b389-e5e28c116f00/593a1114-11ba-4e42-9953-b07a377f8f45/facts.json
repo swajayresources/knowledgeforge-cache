@@ -1,0 +1,17 @@
+[
+  "The proposed WaveletAE model outperforms state-of-the-art time series anomaly detection methods like LSTM encoder-decoder and FCNN on a real-world wind turbine SCADA dataset.",
+  "WaveletAE achieves an accuracy of 0.493, precision of 0.471, recall of 0.986, and F1 score of 0.637 in the semi-supervised setting, compared to the LSTM encoder-decoder baseline's 0.428 accuracy, 0.437 precision, 0.928 recall, and 0.594 F1 score.",
+  "In the supervised setting, WaveletAE's performance improves further, reaching an accuracy of 0.873, precision of 0.857, recall of 0.863, and F1 score of 0.861, outperforming the LSTM encoder-decoder and FCNN baselines.",
+  "The proposed sliding window voting schema allows WaveletAE to make incremental predictions and improve robustness, with the voting threshold \u03c4 determining the trade-off between precision and recall.",
+  "Traditional methods of installing physical icing detectors on wind turbine blades are limited by high costs, energy consumption, and unreliable sensor readings.",
+  "WaveletAE avoids the need for physical icing detectors by analyzing the multivariate SCADA signals, without requiring any mechanical changes to the wind turbine.",
+  "The WaveletAE architecture combines wavelet decomposition, convolutional encoders, and LSTM encoders to capture complex channel-wise and temporal patterns in the SCADA data.",
+  "Wavelet detail coefficients are used to augment the original SCADA signals, allowing WaveletAE to extract information in both time and frequency domains.",
+  "The convolutional encoder in WaveletAE learns global correlations among the signal channels, while the LSTM encoder-decoder captures temporal dynamics.",
+  "The reconstruction loss and classification loss are combined in the supervised setting to improve WaveletAE's performance compared to using only reconstruction error.",
+  "Increasing the voting threshold \u03c4 in the sliding window schema leads to higher precision but lower recall in WaveletAE's predictions.",
+  "The sliding window voting schema can enable low-latency monitoring and incremental updates to the icing detection results in real-time deployment.",
+  "Wind turbines located in high-altitude areas with a high probability of ice occurrence can experience up to 25% annual energy production losses due to blade icing.",
+  "Ice accumulation on wind turbine blades can cause degradation of aerodynamic performance, measurement errors, mechanical failures, and electrical failures.",
+  "The SCADA dataset used in the study was provided by Goldwind Inc, one of the world's largest wind turbine manufacturers."
+]
