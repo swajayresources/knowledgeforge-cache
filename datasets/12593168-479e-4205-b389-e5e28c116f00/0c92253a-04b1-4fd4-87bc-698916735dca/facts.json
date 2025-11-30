@@ -1,0 +1,17 @@
+[
+  "The pin/channel height used was 0.4 mm, and the pin diameters varied from 0.17-0.50 mm to give hydraulic diameters in the range of 0.13-0.78 mm.",
+  "This gave volumetric area densities for the heat exchangers in the range of 5-15 mm2/mm3.",
+  "The researchers performed grid independence studies, theoretical validations, and comparisons with historical and parallel experimental data to validate the computational model.",
+  "The pin surfaces generally had 50-200% higher heat transfer coefficients than the endwalls.",
+  "Small increases in heat transfer required disproportionately large increases in friction power losses.",
+  "The Nusselt number increased with increasing Reynolds number, with the researchers developing correlations to capture this relationship.",
+  "Increasing the number of pin rows generally improved the heat transfer performance, but the temperature profile stabilized after around 10 rows.",
+  "The researchers developed correlations to predict the maximum Mach number as a function of Reynolds number to assess compressibility effects.",
+  "Using a slug velocity profile at the inlet resulted in higher Nusselt numbers but also higher friction factors compared to using a fully developed velocity profile.",
+  "The transition from laminar to turbulent flow occurred around a Reynolds number of 2000 for the configurations studied.",
+  "The researchers noted that the results would be useful for designing micro heat exchangers for applications like turbine blades and microelectronic systems.",
+  "A full 3D model was necessary to capture the pin-endwall interactions and their contribution to the overall heat transfer.",
+  "The researchers carried out a detailed numerical diagnosis to identify regions of high and low heat transfer, and locations for possible shock formation.",
+  "The range of heat exchanger configurations simulated had hydraulic diameters from 0.13-0.78 mm and area densities from 5-15 mm2/mm3.",
+  "The researchers compared their computational results with historical experimental data as well as their own parallel experimental work to validate the model."
+]
