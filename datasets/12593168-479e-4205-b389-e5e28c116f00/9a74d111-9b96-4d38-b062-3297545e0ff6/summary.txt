@@ -1,0 +1,1 @@
+This paper analyzes the transient convective instabilities that occur during the initial stages of a directional solidification experiment in a vertical configuration. The authors derive an analytical dispersion relation and perform an asymptotic expansion to gain insights into the transient instability behavior.
