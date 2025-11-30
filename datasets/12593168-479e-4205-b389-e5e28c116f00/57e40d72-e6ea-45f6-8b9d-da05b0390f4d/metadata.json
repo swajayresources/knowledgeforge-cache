@@ -1,0 +1,15 @@
+{
+  "paper_id": "57e40d72-e6ea-45f6-8b9d-da05b0390f4d",
+  "title": "Dv2v: A Dynamic Variable-to-Variable Compressor",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/57e40d72-e6ea-45f6-8b9d-da05b0390f4d/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/57e40d72-e6ea-45f6-8b9d-da05b0390f4d/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/57e40d72-e6ea-45f6-8b9d-da05b0390f4d/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/57e40d72-e6ea-45f6-8b9d-da05b0390f4d/keywords.json"
+  ]
+}
