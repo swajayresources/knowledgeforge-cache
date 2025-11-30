@@ -1,0 +1,15 @@
+{
+  "paper_id": "b2885e4b-4888-49d7-a4db-33fb3f63a9e2",
+  "title": "Full-coverage film cooling",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b2885e4b-4888-49d7-a4db-33fb3f63a9e2/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b2885e4b-4888-49d7-a4db-33fb3f63a9e2/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b2885e4b-4888-49d7-a4db-33fb3f63a9e2/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b2885e4b-4888-49d7-a4db-33fb3f63a9e2/keywords.json"
+  ]
+}
