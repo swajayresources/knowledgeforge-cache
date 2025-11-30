@@ -1,0 +1,1 @@
+This paper discusses Pratt & Whitney's experience with thermal barrier coatings (TBCs) on turbine airfoils in gas turbine engines. TBCs provide thermal insulation and oxidation resistance, consisting of a ceramic outer layer and a metallic bond coat layer.
