@@ -1,0 +1,17 @@
+[
+  "P1-89 Deuterium Balmer/Stark spectroscopy and impurity profiles: first results from mirror-link divertor spectroscopy system on the JET ITER-like wall A",
+  "Stampa, K-D Zastrowa, and JET EFDA Contributors# JET-EFDA, Culham Science Centre, Abingdon, OX14 3DB, UK aEURATOM/CCFE Fusion Association, Culham Science Centre, Abingdon, OX14 3DB, UK bInstitute of Energy and Climate Research \u2013Plasma Physics, Forschungszentrum J\u00fclich cMax-Planck-Institut for Plasma Physics, EURATOM Association, Greifswald, Germany dDept",
+  "of Physics, University of Strathclyde, Glasgow G4 0NG For the ITER-like wall, the JET mirror link divertor spectroscopy system was redesigned to fully cover the tungsten horizontal strike plate with faster time resolution and improved near- UV performance",
+  "L-Mode results at the density limit from Stark broadening/line ratio analysis will be presented and compared to Langmuir probe profiles and 2D-tomography of low-n Balmer emission [1]",
+  "Comparison with other diagnostics will be vital for modelling attempts with the EDGE2D-EIRENE code[2] as the best possible data sets need to be provided to study detachment behaviour",
+  "This work was also part-funded by the RCUK Energy Programme under grant EP/I501045",
+  ", Proceedings of the 23rd IAEA Fusion Energy Conference 2010, Daejeon, Korea PACS: 52",
+  "Kj JNM keywords: B0100 Beryllium, C 0100 Carbon, D0500 \u2013 Divertor materials, F0400 \u2013First wall materials, P0500 Plasma-material interaction PSI-20 keywords: carbon, beryllium, tungsten, JET *Corresponding author address: JET-EFDA, Culham Science Centre, Abingdon, OX14 3DB, UK Presenting author: Andrew Meigs Presenting author e-mail: Andrew",
+  "uk 1/2 P1-89 Introduction Spatially resolved spectroscopy in the near-UV to near-IR of the outer divertor of JET is extremely important to many different aspects of characterizing and modelling the behaviour of the main ions and impurity ions in the divertor",
+  "This means that the diagnostic can transmit light from 200nm up to around 2",
+  "5microns from the plasma to the spectrometers",
+  "The near-UV access allows measurement of W I transitions [3] which are not hampered by any thermal continuum radiation, thus, measurement of sputtering yields at high power loads and energies of the outer target plate",
+  "The design and upgraded capabilities of the diagnostic were presented at HTPD 2010[4]",
+  "Typically, the near-UV and visible system can acquire 21 LOS with 40msec exposure time and 18mm spatial resolution",
+  "The near-IR system using an old camera acquires 14 LOS at 125msec pre frame and ~25mm per LOS"
+]
