@@ -1,0 +1,1 @@
+This paper investigates the effect of Mach number on the length of transition for turbine blade flows. It presents methods for incorporating Mach number effects into two different transition length models and demonstrates that accounting for Mach number significantly improves the agreement between predicted and experimental turbine blade heat transfer data.
