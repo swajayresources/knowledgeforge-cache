@@ -1,0 +1,22 @@
+[
+  "The study uses a combination of physical and computational experiments.",
+  "The flow conditions studied are subsonic and moderately transonic turbine flows.",
+  "The film cooling scheme used is a showerhead film cooling arrangement with five staggered rows of holes.",
+  "The pitch-to-diameter ratio of the film holes is 4.0.",
+  "The angle of the film holes to the blade surface is 30 degrees in the spanwise direction and 90 degrees in the streamwise direction.",
+  "The steady computation is used to isolate the time-average effect of wake passing on film cooling performance.",
+  "The maximum time step used in the unsteady calculation is limited by grid spacing at the wall.",
+  "The number of grid points used in the blade-to-blade direction is 305 points tangential to the blade and 90 points normal to the blade.",
+  "The maximum CFL number used in the unsteady calculation is about 7.7.",
+  "The difference in film effectiveness between the unsteady and steady solutions is up to 8 percent.",
+  "Wake passing can cause the coolant flow to be turned more in the chordwise direction on the suction side and more in the spanwise direction on the pressure side.",
+  "The staggered hole arrangement can cause flow from adjacent rows to merge, resulting in the appearance of discrete jets at the surface.",
+  "Time-average particle traces are used to visualize the flow from the film holes.",
+  "The study uses a rotating rod arrangement to produce a periodic wake pattern.",
+  "The NASALewis Rotor-Wake Heat Transfer Rig is used as an experimental facility.",
+  "The study uses a three-dimensional viscous turbulent calculation to model the flow field.",
+  "The Baldwin-Lomax turbulence model is used in the calculation.",
+  "The code RVC3D is used to solve the thin-layer Navier-Stokes equations.",
+  "The study uses a C-grid with implicit residual smoothing.",
+  "The maximum number of wake passings required for the solution to converge is 13."
+]
