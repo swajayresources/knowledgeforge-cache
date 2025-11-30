@@ -1,0 +1,21 @@
+[
+  "The brachistochrone problem is a mathematical problem that involves finding the curve that a point particle or an object would follow in the shortest time to reach a given endpoint under the influence of gravity.",
+  "The classical Bernoulli's problem is a non-conservative system, whereas the fluid dynamic variant is a conservative system.",
+  "Viscous dissipation causes the brachistochrone to deviate from a cycloid.",
+  "The authors use optimal control theory and numerical methods to solve the brachistochrone problem.",
+  "The two dimensionless parameters that govern the dynamics of the fluid-filled bottle are \u03c0 = M gR3 / (m \u03bd2) and \u03c0 = m g / (m \u03bd2).",
+  "The brachistochrone deviates from a cycloid as the ratio of the cylinder mass to the fluid mass increases.",
+  "The brachistochrone deviates from a cycloid as the ratio of the viscous time scale to the gravitational time scale increases.",
+  "The geometric norm \u03b4 is a measure of the deviation of the brachistochrone from a cycloid and is defined as the area contained between the actual brachistochrone and a cycloid passing through the same start and end points.",
+  "The normalized time T\u2217 is a ratio of the total travel time of the fluid bottle on the brachistochrone to the time taken by a point particle on a cycloid passing through the same two points.",
+  "The brachistochrone deviates from a cycloid as the fluid's mass decreases in relation to the cylinder's mass.",
+  "The brachistochrone deviates from a cycloid as the cylinder's mass increases in relation to the fluid's mass.",
+  "The brachistochrone deviates from a cycloid as the kinematic viscosity of the fluid increases.",
+  "The brachistochrone deviates from a cycloid as the acceleration due to gravity increases.",
+  "The brachistochrone deviates from a cycloid as the radius of the cylinder increases.",
+  "The maximum deviation of the brachistochrone from a cycloid occurs at \u03c0 \u2248 3981.",
+  "The normalized time T\u2217 increases first and then decreases as \u03c0 increases.",
+  "The geometric norm \u03b4 decreases and tends to 0 as \u03c0 \u2192 \u221e.",
+  "The brachistochrone deviates from a cycloid as the ratio of the cylinder mass to the fluid mass increases.",
+  "The brachistochrone deviates from a cycloid as the ratio of the viscous time scale to the gravitational time scale increases."
+]
