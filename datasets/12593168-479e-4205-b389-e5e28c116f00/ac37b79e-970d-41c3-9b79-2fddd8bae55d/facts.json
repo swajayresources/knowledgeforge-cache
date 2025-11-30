@@ -1,0 +1,17 @@
+[
+  "The TACT1 program can handle a turbine blade or vane that is equipped with a central coolant-plenum insert from which coolant air flows through holes to impinge on the inner surface of the blade shell.",
+  "The spent impingement air is assumed to flow chordwise and be dumped through a split or drilled trailing edge and through film-cooling holes.",
+  "The program does not allow for radial flow of the spent impingement air.",
+  "The blade wall can have two layers of different materials, such as a ceramic thermal-barrier coating over a metallic substrate.",
+  "The program output includes the temperature at each node, the coolant pressures and flow rates, and the coolant-side heat-transfer coefficients.",
+  "The Kercher-Tabakoff correlation is used for impingement cooling with crossflow if the user does not specify correlation constants.",
+  "The Metzger, Yamashita, and Jenkins correlation is used for impingement into a concave surface at the leading edge stagnation point if the user does not specify correlation constants.",
+  "The program includes a correlation from the literature for forced convection in an equilateral triangular array of pin fins.",
+  "The program can handle mixed radial-axial flow of the hot gas stream, so the chordwise cutting planes do not have to be at a constant radius.",
+  "The program is limited to a maximum of 15 chordwise slices and 79 calculational stations per slice.",
+  "Typical running times are 1.4 seconds of CPU time per calculational station for a steady-state run, and 0.4 second of CPU time per station per time step for a transient run.",
+  "The program is written in FORTRAN IV and requires about 60,000 words of storage.",
+  "The program is used at the NASA Lewis Research Center on an IBM TSS/360-67 computer.",
+  "The source program consists of approximately 6200 lines of code.",
+  "The program allows the user to specify either the coolant-supply pressure or the coolant-inlet flow rate, and the program will adjust the other to achieve an overall coolant mass balance."
+]
