@@ -1,0 +1,15 @@
+{
+  "paper_id": "b0146fce-f4df-4b31-b2de-59231bb2a40e",
+  "title": "Benchmark modeling and 3D applications of solidification and macro-segregation based on an operator-splitting and fully decoupled scheme with term-wise matrix assembly",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b0146fce-f4df-4b31-b2de-59231bb2a40e/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b0146fce-f4df-4b31-b2de-59231bb2a40e/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b0146fce-f4df-4b31-b2de-59231bb2a40e/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b0146fce-f4df-4b31-b2de-59231bb2a40e/keywords.json"
+  ]
+}
