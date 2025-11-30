@@ -1,0 +1,22 @@
+[
+  "The chord-to-radius ratio (c/R) has a significant impact on cross-flow turbine performance.",
+  "Virtual camber and incidence effects are important in cross-flow turbine optimization.",
+  "The conformal transformation method is used to quantify virtual camber and incidence.",
+  "Higher c/R values result in higher performance, particularly at lower Reynolds numbers.",
+  "The optimal preset pitch angle is strongly dependent on c/R.",
+  "Positive camber increases upstream lift, while negative camber reduces downstream losses.",
+  "Flow curvature has a noticeable effect on performance.",
+  "The experimental datasets analyzed in this paper were collected using the same experimental setup and under similar flow conditions.",
+  "The time-averaged power coefficient (Cp) is used to characterize overall turbine performance.",
+  "The power coefficient (Cp) is defined as the ratio of mechanical work power to kinetic power in the flow.",
+  "The Reynolds number (ReD) is used to characterize the flow regime.",
+  "The Froude number (Frh) is used to characterize the flow regime.",
+  "The blockage ratio is approximately 11% across all tests.",
+  "The blade height and outermost diameter are held constant at 23.4 cm and 17.2 cm, respectively.",
+  "The chord length and blade preset pitch are varied across the experiments.",
+  "The tip-speed ratio is swept across a range of values for each turbine configuration.",
+  "Data are logged using MATLAB at a sample frequency of 1 kHz.",
+  "The experiments are conducted in a recirculating water flume at the University of Washington.",
+  "The free stream velocity is 1.1 m/s, and the dynamic depth is 0.48 m.",
+  "The temperature is 38.9 \u00b1 0.1\u00b0C, and the turbulence intensity is 2-4%."
+]
