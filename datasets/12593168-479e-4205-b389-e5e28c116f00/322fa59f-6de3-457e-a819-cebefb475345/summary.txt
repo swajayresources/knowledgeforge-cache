@@ -1,0 +1,1 @@
+This paper reviews the current state of functional and smart coatings produced using thermal spraying deposition techniques. It discusses the various thermal spraying technologies and how they can be used to create coatings with new functionalities beyond traditional protective capabilities, such as anti-microbial, anti-fouling, and self-healing properties.
