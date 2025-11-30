@@ -1,0 +1,1 @@
+This paper presents a two-scale optimization approach for designing graded lattice structures with improved global and local buckling resistance. The method combines asymptotic homogenization with a worst-case model for buckling load factors to reduce computational effort. Numerical examples demonstrate the effectiveness of the approach.
