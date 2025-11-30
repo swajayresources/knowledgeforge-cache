@@ -1,0 +1,1 @@
+This paper presents an analytical approach to predict the response and failure of two-edges-free reinforced concrete slabs subjected to intermediate blast loadings. The analysis uses stationary and moving plastic hinge mechanisms with linearly varying time-dependent loadings, and the results show reasonable agreement with experimental observations.
