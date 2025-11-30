@@ -1,0 +1,17 @@
+[
+  "The micro gas turbine engine is composed of a centrifugal compressor, a combustor, and a radial inflow turbine.",
+  "The micro gas turbine engine has a dimension of 21.5 mm \u00d7 21.5 mm and a total thickness of about 4.4 mm after assembly.",
+  "The micro combustor is made of seven layers of silicon structures.",
+  "A hairpin-shaped fuel/air recirculation channel is used in the micro combustor design.",
+  "The micro combustor can sustain a stable combustion with an exit temperature as high as 1600 K.",
+  "The micro turbine device has achieved a stable rotation speed of 15,000 rpm during lab tests.",
+  "The micro turbine uses dynamic and self-acting thrust air bearings with pump-in and pump-out groove configurations.",
+  "The targeted inlet airflow rate for the micro gas turbine engine is 0.36 g/s.",
+  "The targeted compressor ratio for the micro gas turbine engine is 4:1.",
+  "The targeted hydrogen fuel consumption rate for the micro gas turbine engine is 17 g/h.",
+  "The net power output of the designed micro gas turbine engine is expected to be 39 watts.",
+  "DRIE (Deep Reactive Ion Etching) is the major fabrication process used for the micro combustor and micro turbine.",
+  "Pre-bonded silicon wafers with a 1.5 mm-thick SiO2 layer were used to improve the etching uniformity for the micro turbine fabrication.",
+  "The etching depths of the grooves on the top and bottom thrust air bearings are 15 mm and 36 mm, respectively.",
+  "The adiabatic efficiencies of the compressor and turbine are estimated to be 0.65 and 0.75, respectively."
+]
