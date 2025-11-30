@@ -1,0 +1,1 @@
+This paper presents a new numerical tool to compute Brownian thermal noise in amorphous and crystalline thin coatings on mirrors, which is important for improving the sensitivity of gravitational wave detectors. The tool uses finite-element methods and adaptive mesh refinement to solve the auxiliary elastic problem and apply the fluctuation-dissipation theorem.
