@@ -1,0 +1,1 @@
+This paper presents an off-design axial-flow compressor code that can predict the aerodynamic performance maps of fans and compressors. The code uses a streamline curvature method to solve the two-dimensional flow field in the meridional plane and includes models for flow losses and deviation angles.
