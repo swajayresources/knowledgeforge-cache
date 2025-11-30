@@ -1,0 +1,17 @@
+[
+  "The Mahalanobis-Taguchi System (MTS) is a pattern recognition method that incorporates the Mahalanobis Distance (MD) to differentiate patterns between different groups.",
+  "The MTS involves two main components: Orthogonal Array (OA) and Signal-to-Noise Ratio (SNR).",
+  "The authors proposed the Mahalanobis Classification System (MCS) and its integrated version (IMCS) to alleviate the shortcomings of the original MTS approach.",
+  "The MCS employs Binary Particle Swarm Optimization (BPSO) and PSO/Machine Learning tools (ML) to filter out high dependable features and address the threshold determination issues, respectively.",
+  "The IMCS improved the classification performance by incorporating threshold determination as part of the feature selection process.",
+  "The IIMCS classifier is proposed to address the challenges in dealing with measurement uncertainties in the context of the Mahalanobis-Taguchi System (MTS).",
+  "The IIMCS employs a Monte Carlo method framework to propagate the measurement uncertainty into the Mahalanobis distance space and assigns an indicator to evaluate classification reliability.",
+  "The proposed IIMCS is demonstrated in an experimental case study of an equiaxed nickel alloy first-stage turbine blade, showing satisfactory performance.",
+  "The case study used 232 blades, consisting of 193 healthy and 39 defective blades.",
+  "The classification accuracy of the proposed system in the case study is 97.85%.",
+  "The reliability value of the misclassified turbine blade is -0.78.",
+  "The frequency range used in the vibration testing of turbine blades is [3, 38] kHz.",
+  "31 repeated measurements were performed on the nominal turbine blades.",
+  "The Interval Mahalanobis Distance (IMD) is used in IIMCS to provide an effective indicator for classification reliability.",
+  "The definition of classification reliability in IIMCS is a value between -1 and 1, where a positive value indicates a good classification and a negative value indicates a bad classification."
+]
