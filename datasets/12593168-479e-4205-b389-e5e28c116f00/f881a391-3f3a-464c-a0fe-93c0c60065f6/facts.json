@@ -1,0 +1,17 @@
+[
+  "Wind turbines provided almost 8.4% of the total generated electricity in the United States in 2020.",
+  "There are more than 700,800 wind turbines running across 44 states in the United States.",
+  "The researchers designed virtual wind turbine models using SolidWorks 2021 and imported them into Unity for generating synthetic images.",
+  "A total of 40 defective wind turbine blade models were created with variations in crack, leading edge erosion, delamination, and lightning strike damage.",
+  "The Unity Perception Package was used to capture 642 images from the virtual scenes, along with their corresponding semantic segmentation/ground truth labels.",
+  "The basic U-Net architecture was used for image segmentation, and the model was trained for 100 epochs using the Adam optimizer and Dice Loss function.",
+  "The trained U-Net model achieved a Dice Coefficient of 0.658 on the test set, indicating it correctly segmented 65.8% of the pixels in the images.",
+  "The researchers plan to improve the segmentation accuracy and add a classification module to the system in future work.",
+  "Using synthetic data generated in the virtual environment helped overcome the challenge of obtaining sufficient real-world data for training the deep learning model.",
+  "The automated and efficient defect detection system can contribute to the reliable and uninterrupted operation of wind turbines, which are a crucial source of renewable energy.",
+  "The proposed approach can reduce the time and cost of inspecting wind turbine blades, while also improving the accuracy and effectiveness of the process.",
+  "The researchers used Solid Works 2021 for modeling the wind turbine components, including the base, mast, motor housing, and rotor.",
+  "The wind turbine blades were bent and twisted in the virtual models to simulate delamination, and defects like cracks, erosion, and lightning strike damage were added.",
+  "The Dice Loss function, which is 1 minus the Dice Coefficient, was used as the loss function during model training to optimize the segmentation performance.",
+  "The researchers plan to investigate the approach using a wider range of defects and real wind turbine images in future work."
+]
