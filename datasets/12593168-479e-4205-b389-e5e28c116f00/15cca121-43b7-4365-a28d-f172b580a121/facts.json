@@ -1,0 +1,17 @@
+[
+  "The AM1 superalloy is a second-generation nickel-based single crystal alloy with a nominal composition of Ni-5Co-3Cr-12.5Al-2.5W-2Ta-0.4Mo-1.2Ti (atomic %).",
+  "The \u03b3 and \u03b3' phases in the AM1 superalloy are coherent, with the \u03b3' phase making up about 70% of the total volume at room temperature.",
+  "The misfit between the \u03b3 and \u03b3' phases is negative and equal to -10^-3 at 950\u00b0C.",
+  "Repeated fatigue tests (R=0) were performed at 950\u00b0C with a frequency of 0.25 Hz, varying the number of cycles (N) from 1 to 20,000 and the total strain amplitude (\u03b5t) from 1.6% to 2.2%.",
+  "Two main types of deformation microstructures were observed: anisotropic microstructures (domain A) and homogeneous microstructures (domain H).",
+  "The anisotropy in the deformation microstructure is due to a partition of plasticity in the \u03b3 channels or oriented coarsening of the \u03b3' precipitates.",
+  "As the number of cycles increases, the deformation spreads from the horizontal channels perpendicular to the loading axis to the vertical channels parallel to the loading axis.",
+  "The negative misfit between the \u03b3 and \u03b3' phases leads to compressive internal stresses in the vertical channels, making the horizontal channels easier to deform initially.",
+  "Only 4-6 dislocations at the \u03b3/\u03b3' interfaces are needed to fully relax the misfit on the {001} interfaces.",
+  "At high total strain amplitudes (\u03b5t=2.2%), significant shearing of the \u03b3' precipitates is observed, reducing the anisotropy of the deformation microstructure.",
+  "Alternate fatigue (R=-1) leads to a microstructure that is a combination of the microstructures observed under simple tension and simple compression, with shearing of the \u03b3' precipitates and the formation of extrinsic stacking faults.",
+  "V\u00e9ron's model explains the type N coarsening of the \u03b3' precipitates under repeated fatigue as a consequence of the anisotropy and nature of the deformation at the precipitate scale.",
+  "At lower temperatures, precipitate shearing is expected to be more significant, while at higher temperatures, diffusion processes would be stronger, leading to easier dislocation climb and a shift of the homogeneous deformation domain.",
+  "Under simple compression, the dislocations are primarily located in the {010} and {100} channels, in contrast to the simple tension case where they are mainly at the {001} interfaces.",
+  "The critical number of cycles (No) at which the misfit is effectively relaxed is estimated to be in the range of 1 to 25 cycles, depending on the total strain amplitude."
+]
