@@ -1,0 +1,17 @@
+[
+  "Experimental research accounted for 75% of the HOST Turbine Heat Transfer subproject, while analytical efforts accounted for approximately 25%.",
+  "The project covered phenomena like film-cooled airfoils, passage curvature, endwall flows, boundary layer transition, tip regions, free-stream turbulence, impingement, and turbulated serpentine passages.",
+  "The stator-airfoil heat transfer experiments showed the effects of Reynolds number, turbulence level, Mach number, temperature ratio, acceleration, and boundary layer transition on heat transfer coefficients.",
+  "The experiments on three-dimensional flow in curved passages showed the development of a vortex in the duct corner near the low pressure surface.",
+  "The real-engine environment experiments showed substantial differences between experimental airfoil temperatures and typical design system temperatures for full-coverage, film-cooled airfoils.",
+  "The high free-stream turbulence experiments showed heat transfer augmentation up to 5X at high turbulence intensities, but only 3X if the turbulence length scale was changed.",
+  "The rotor-stator interaction experiments showed a substantial impact of inlet turbulence on the first stator heat transfer, but a minimal impact on the rotor heat transfer.",
+  "The STAN5 boundary layer code required empirical coefficients to modify the free-stream turbulence intensity and gas stream enthalpy boundary conditions to predict the Stanton number reduction for showerhead film cooling.",
+  "The modified Lam-Bremhorst k-epsilon turbulence model was able to reasonably well predict the augmentation of heat transfer on the pressure surface over the fully turbulent value.",
+  "The Navier-Stokes MINT code was able to provide good heat transfer predictions compared to the Allison Gas Turbine data, but required the location of boundary layer transition to be specified.",
+  "The HOST project was a building-block approach that ranged from studying fundamental phenomena and analytical modeling to experiments in simulated real-engine environments.",
+  "The project created extensive experimental datasets depicting three-dimensional flow fields, high free-stream turbulence, boundary layer transition, film cooling effects, rough-wall cooling enhancement, and rotor-stator interaction effects.",
+  "The project aimed to move from a correlation-based approach to a more analytical-based approach for turbine heat transfer technology.",
+  "The project involved a collaboration between government, industry, and universities to advance turbine heat transfer modeling and understanding.",
+  "The project identified that existing data was insufficient to support the move to a more analytical-based approach, and increasing both the size and quality of the data was essential."
+]
