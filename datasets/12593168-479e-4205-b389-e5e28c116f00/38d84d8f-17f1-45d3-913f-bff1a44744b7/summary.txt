@@ -1,0 +1,1 @@
+This paper investigates the effects of unsteady flow on film cooling in a high-speed, full-scale turbine vane and rotor stage. Experiments were conducted at the Turbine Research Facility to measure pressure, temperature, and heat flux, and determine key film cooling parameters like heat transfer coefficients and effectiveness.
