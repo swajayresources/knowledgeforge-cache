@@ -1,0 +1,18 @@
+[
+  "The 2d-NTMDI is a novel two-dimensional nonlinear tuned mass damper inerter.",
+  "The 2d-NTMDI consists of a mass and two sets of springs, dashpots, and inerters configured in two axes.",
+  "The 2d-NTMDI exhibits geometric nonlinearity due to the springs' configuration.",
+  "The 2d-NTMDI reduces bi-directional vibrations by converting linear motion to rotational motion.",
+  "The 2d-NTMDI can reduce bi-directional vibrations by 35%.",
+  "The 2d-NTMDI is applied to wind turbine blades to mitigate bi-directional vibrations and prolong fatigue life.",
+  "The 2d-NTMDI has the capability of reducing multi-mode vibrations.",
+  "The wind loading is calculated using the Blade Element Momentum (BEM) method.",
+  "The mean wind speed used in the study is 9 m/s.",
+  "The turbulent intensity used in the study is 15%.",
+  "The dimension of the mass matrix M\u02dc is 4x4.",
+  "The dimension of the stiffness matrix K\u02dc is 4x4.",
+  "The dimension of the damping matrix C\u02dc is 4x4.",
+  "The 2d-NTMDI is a passive controller.",
+  "The 2d-NTMDI has the potential to be used in other applications beyond wind turbine blades.",
+  "The 2d-NTMDI can be optimized using numerical search methods."
+]
