@@ -1,0 +1,17 @@
+[
+  "The authors study the convective instability of the melt during the initial transient in a directional solidification experiment in a vertical configuration.",
+  "They obtain the dispersion relation for the instability analytically and perform an asymptotic expansion for large solutal Rayleigh number Ra_S.",
+  "The authors find a transient instability regime where the system destabilizes during the transient even though the final unperturbed steady state is stable.",
+  "The Rayleigh number Ra_S is defined as gD\u03b1C_\u221e(K-1)/v_p^3, where g is gravity, D is the solute diffusion coefficient, \u03b1 is the solute expansion coefficient, C_\u221e is the initial concentration, K is the segregation constant, and v_p is the pulling velocity.",
+  "The segregation constant K is assumed to be less than 1, corresponding to a buoyant solute that can drive the convective instability.",
+  "The authors perform a linear perturbation analysis and derive a dispersion relation in the form of a transcendental equation involving the growth rate \u03c3 and wavenumber a.",
+  "The asymptotic expansion for large Ra_S allows the authors to obtain a simpler analytical expression for the dispersion relation.",
+  "Higher values of the parameter \u03c4 = 1 - KDG_L/[(K-1)v_p m_L C_\u221e], corresponding to slower pulling velocities, tend to destabilize the system and lead to earlier onset of the transient instability.",
+  "The authors show that a simple scaling approximation, where lengths are rescaled by the diffusion length l = D/v_p, provides a good prediction of the Rayleigh number dependence of the instability boundary, but fails to capture the full transient effects.",
+  "The transient instability is expected to affect the final selected growth mode, such as the wavelength of cellular or dendritic structures.",
+  "The authors note that the direct numerical solution of the full dispersion relation is difficult, especially for high Rayleigh numbers, due to the complex structure of the hypergeometric functions involved.",
+  "The authors find that the dispersion relation has an infinite number of solutions as Ra_S/Sc is increased, corresponding to bifurcations of the unstable 'flat' state.",
+  "The authors argue that the transient instability is controlled by the time-dependent value of the diffusion length l(t), which can exhibit significant overshooting behavior before reaching the steady state.",
+  "The authors emphasize that the transient dynamics, rather than just the steady state instability, are crucial for understanding and predicting the final microstructure in solidification processes.",
+  "The vertical configuration studied in this paper, with a stabilizing thermal gradient, allows the authors to isolate the effects of solutal convection from thermal convection."
+]
