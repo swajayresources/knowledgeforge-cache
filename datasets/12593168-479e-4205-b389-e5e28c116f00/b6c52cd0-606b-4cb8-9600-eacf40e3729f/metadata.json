@@ -1,0 +1,15 @@
+{
+  "paper_id": "b6c52cd0-606b-4cb8-9600-eacf40e3729f",
+  "title": "Compressor design system",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b6c52cd0-606b-4cb8-9600-eacf40e3729f/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b6c52cd0-606b-4cb8-9600-eacf40e3729f/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b6c52cd0-606b-4cb8-9600-eacf40e3729f/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b6c52cd0-606b-4cb8-9600-eacf40e3729f/keywords.json"
+  ]
+}
