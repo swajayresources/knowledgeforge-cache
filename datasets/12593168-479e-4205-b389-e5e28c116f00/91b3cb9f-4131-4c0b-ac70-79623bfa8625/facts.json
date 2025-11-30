@@ -1,0 +1,17 @@
+[
+  "Three variants of a new Ni-based superalloy (Alloy1, Alloy2, Alloy3) were studied and compared to the benchmark CM247LC alloy.",
+  "The new alloy compositions were designed using the Alloys-by-Design (ABD) method to optimize processability, creep resistance, oxidation resistance, and other properties.",
+  "The new alloy compositions had equal equilibrium \u03b3' volume fraction at 900\u00b0C but varying (Nb+Ta)/Al ratios.",
+  "Laser-powder bed fusion (L-PBF) was used to additively manufacture the alloy samples, with a laser power of 200W, layer thickness of 30 \u03bcm, and scan speed of 0.875 m/s.",
+  "Optical microscopy and X-ray computed tomography (XCT) revealed that the new alloys printed with no evidence of cracks, while CM247LC exhibited crack-like defects.",
+  "All compositions showed some gas-related porosity, particularly at thin wall sections like the turbine blade trailing edge.",
+  "Atom probe tomography (APT) showed that the Nb and Ta concentrations in the \u03b3' of Alloy3 were approximately twice as high as in Alloy1.",
+  "A novel sub-solvus heat treatment (HT3) was proposed for the new alloys, avoiding the embrittlement seen with super-solvus heat treatment.",
+  "Alloy3, with the highest (Nb+Ta) content, exhibited the greatest flow stress up to 900\u00b0C, exceeding that of CM247LC.",
+  "The creep resistance of CM247LC was superior to the new alloy variants, likely due to CM247LC's greater \u03b3' volume fraction and higher C and B contents.",
+  "Oxidation-assisted cracking (OAC) testing was performed to assess the influence of oxidation on crack growth.",
+  "The median particle size (D50) of the alloy powders used for additive manufacturing was between 32.3 and 33.0 \u03bcm.",
+  "The new alloy compositions were designed using the Alloys-by-Design (ABD) method to optimize multiple properties.",
+  "The sub-solvus HT3 heat treatment exhibited greater high-temperature ductility compared to the super-solvus HT1 treatment.",
+  "The directionality of cracks in CM247LC, parallel to the build direction, helped maintain its creep resistance despite the processing-induced defects."
+]
