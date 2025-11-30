@@ -1,0 +1,17 @@
+[
+  "Seven JET-ILW deuterium discharges with varying line-averaged density n_e and plasma triangularity \u03b4_u were analyzed.",
+  "The L-H transition power threshold P_L-H exhibited a minimum that separated the low and high-density branches, varying by a factor of 2 between 3.4 MW and 6.6 MW.",
+  "Gaussian process regression was used to fit the experimental profiles of electron density n_e, electron temperature T_e, and ion temperature T_i.",
+  "The low triangularity discharges had lower n_e and larger a/L_ne towards the separatrix compared to the high triangularity discharges.",
+  "At \u03c1_tor = 0.85 and 0.9, trapped-electron modes (TEMs) were dominant at the lowest densities, while ion-temperature-gradient (ITG) modes were dominant at higher densities.",
+  "The experimental collisionality range corresponded to a region of minimum linear drive between ITG-TEM and resistive mode branches.",
+  "The quasilinear particle flux was directed inward only in the collisionality domain where the linear drive was minimized at \u03c1_tor = 0.85 for all densities and 0.9 for the highest densities.",
+  "QuaLiKiz was found to be inadequate beyond \u03c1_tor = 0.85, while TGLF-SAT2 agreed well with the GENE linear spectra and quasilinear heat fluxes up to and including \u03c1_tor = 0.9.",
+  "Electromagnetic effects, including finite-\u03b2 and parallel magnetic fluctuations \u03b4B||, were included in the GENE simulations and found to have a typical impact of less than 3% on the ion-scale growth rates.",
+  "The effective ion charge Z_eff ranged from 1.2 to 1.4, with all three impurity species (Be, Ni, W) contributing significantly in the low-density branch discharges.",
+  "Plasma rotation was not included in most of the simulations due to missing measurements for two out of the seven discharges.",
+  "The high triangularity discharges consistently had lower T_e in the pedestal-forming region compared to the low triangularity discharges.",
+  "The normalized logarithmic temperature gradients a/L_Te changed little in the pedestal-forming region across the ranges of n_e and \u03b4_u, varying consistently less than 20%.",
+  "The high-fidelity Sugama collision operator was used in the GENE simulations, and the impact of finite-Larmor radius effects on the collision operator was found to be negligible.",
+  "Numerical equilibria generated with the fixed-boundary ESCO code were used to provide the magnetic geometry for the GENE simulations."
+]
