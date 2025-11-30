@@ -1,0 +1,17 @@
+[
+  "The inlet Mach number is set to 2.0 and the Reynolds number based on the inlet velocity and axial blade chord is 200,000.",
+  "The ratio of specific heats is 1.31 and the Prandtl number is 0.747.",
+  "For the adiabatic wall case, the grid resolution in wall units is kept in the range 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9.",
+  "For the isothermal wall simulation, the near-wall grid spacing ranges from 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19.",
+  "For the adiabatic wall case, the time-averaged characteristic length of the separation bubble is (cid:104)Lsb(cid:105) = 0.16cax and it is observed along 0.70 < x/cax < 0.86.",
+  "For the cooled wall, (cid:104)Lsb(cid:105) = 0.10cax and it is formed on 0.75 < x/cax < 0.85, indicating a smaller separation bubble.",
+  "The pressure coefficient distributions show a steeper variation downstream of the incident shock wave for the cooled wall case.",
+  "The levels of the tangential Reynolds stress (cid:104)utut(cid:105) are similar for the cases analyzed, but the wall-normal component (cid:104)unun(cid:105) is higher for the cooled wall.",
+  "The separation bubble undergoes a contraction/expansion motion for both the adiabatic and isothermal walls.",
+  "For the adiabatic case, the maximum temperature values are observed within the separation bubble, while for the cooled wall, higher temperatures are seen along the free shear layer downstream of the bubble.",
+  "The wall-normal Reynolds stress (cid:104)unun(cid:105) reaches maximum amplitudes downstream of the SBLI and is more pronounced for the adiabatic wall case.",
+  "For the cooled wall case, the incident shock penetrates deeper into the boundary layer due to the displacement of the sonic line towards the wall.",
+  "The shear layer downstream of the separation bubble is more diffused for the adiabatic case, while more concentrated vorticity values are observed when cooling is applied.",
+  "The turbulent kinetic energy combines the trends observed for the (cid:104)utut(cid:105) and (cid:104)unun(cid:105) components, showing a downstream displacement of the maximum turbulence amplification location for the cooled wall case.",
+  "The excursions of the separation bubble length from the mean appear to be similar for both the adiabatic and isothermal wall cases."
+]
