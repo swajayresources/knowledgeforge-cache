@@ -1,0 +1,21 @@
+[
+  "The scrape-off layer is the interface between the hot plasma core and cold material surfaces that must be protected.",
+  "Filamentary motion refers to the radial propagation of coherent structures, commonly termed blobs or filaments, in the scrape-off layer.",
+  "The Militello-Omotani (MO) model is a statistical description of filamentary motion that relates spatial profiles in the scrape-off layer to the dynamics of filaments.",
+  "The stochastic framework used in this paper is based on the MO model and uses a one-dimensional (radial) density signal constructed by the superposition of statistically distributed pulses with a given spatial waveform.",
+  "The filament ejection rate is given by f = N /\u2206t, where N is the total number of filaments ejected and \u2206t is the time interval.",
+  "The sink timescale is the time-scale of the source/sink, which can depend on spatial position or time.",
+  "The filament velocity relation is given by v = v v\u02dc(x,t)\u03b71/2, where v is a scaling parameter for the velocity and v\u02dc(x,t) contains any spatial and temporal dependance of the filament velocity.",
+  "The amplitude distribution function is an exponential function, P(\u03b7) = exp(-\u03b7/\u03b7\u2217), where \u03b7\u2217 is the e-folding amplitude.",
+  "The width distribution function is a log-normal function, P(\u03b4) = (1/\u221a(2\u03c0\u03c3^2)) exp(-(ln(\u03b4)-ln(\u03b4))^2/(2\u03c3^2)), where \u03b4 is the most probable value of \u03b4 and \u03c3 is the spread parameter.",
+  "The baseline simulation is a simulation that matches the experimental measurements early in the density ramps.",
+  "The localized reduction in the density sink is a reduction in the density sink acting on the filaments within the model, which occurs over a highly localized region.",
+  "The filament acceleration is a change in the velocity of the filaments, which is necessary to explain the expansion and flattening of the shoulder region.",
+  "The simulation time is 1.8 s, and the number of samples in \u2206t is 600,000.",
+  "The filament ejection rate is 1.5 \u00d7 10^5 s^-1.",
+  "The sink timescale is 1.5 \u00d7 10^-4 s.",
+  "The filament velocity relation is v = v v\u02dc(x,t)\u03b71/2, where v is a scaling parameter for the velocity and v\u02dc(x,t) contains any spatial and temporal dependance of the filament velocity.",
+  "The amplitude distribution function is an exponential function, P(\u03b7) = exp(-\u03b7/\u03b7\u2217), where \u03b7\u2217 is the e-folding amplitude.",
+  "The width distribution function is a log-normal function, P(\u03b4) = (1/\u221a(2\u03c0\u03c3^2)) exp(-(ln(\u03b4)-ln(\u03b4))^2/(2\u03c3^2)), where \u03b4 is the most probable value of \u03b4 and \u03c3 is the spread parameter.",
+  "The localized reduction in the density sink occurs over a highly localized region with a timescale of 25 times the original sink timescale."
+]
