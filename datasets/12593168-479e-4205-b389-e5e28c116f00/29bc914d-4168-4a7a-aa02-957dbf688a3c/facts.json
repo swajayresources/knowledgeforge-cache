@@ -1,0 +1,17 @@
+[
+  "Volumetric 3-component velocimetry measurements were taken of the flow field near a Rushton turbine in a stirred tank reactor.",
+  "The flow field was characterized by a strong radial jet, large tank-scale ring vortices, and small-scale blade tip vortices.",
+  "Approximately 15,000 3D velocity vectors were obtained in a cubic measurement volume.",
+  "Measurements were performed at three Reynolds numbers: 15,000, 107,000, and 137,000.",
+  "Three methods were used to identify the tip vortices: calculation of circumferential vorticity, calculation of local pressure minima via an eigenvalue approach ('\u03bb2'), and calculation of swirling strength via an eigenvalue approach ('\u03bbci').",
+  "The 'swirl strength' criterion provided the clearest identification of the tip vortices.",
+  "Visualization of tip vortices up to 140 degrees past blade passage was observed in the highest Reynolds number case (137,000), which had not been previously shown.",
+  "The related article appears in the online first section of Experiments in Fluids (2009), doi 10.1007/s00348-009-0711-9.",
+  "The associated video can be viewed in MPEG-2 and MPEG-1 formats.",
+  "Rushton turbines are commonly used impellers in stirred tank reactors, which are widely used in chemical, biochemical, and pharmaceutical industries.",
+  "Understanding the complex, 3D flow field around a Rushton turbine is crucial for optimizing the design and operation of stirred tank reactors.",
+  "The volumetric nature of the data enabled tip vortex identification, vortex trajectory analysis, and calculation of vortex strength, providing the most comprehensive view of the flow field to date.",
+  "The study was a collaboration between researchers from Penn State University and TSI Incorporated.",
+  "The measurements were taken in a cubic volume, allowing for a detailed 3D characterization of the flow field.",
+  "The high-resolution data offers new insights into the complex flow dynamics around a Rushton turbine."
+]
