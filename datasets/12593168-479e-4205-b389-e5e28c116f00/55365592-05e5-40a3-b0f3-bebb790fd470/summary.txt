@@ -1,0 +1,1 @@
+This paper reports the fabrication and characterization of graphene nanoplatelets (GNP) and zinc oxide (ZnO) nanocomposites using planetary ball milling. The nanocomposites exhibited excellent microwave absorption properties, with the lowest reflection loss of -28.21 dB at 8.45 GHz and a through power of 99.84%.
