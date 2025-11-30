@@ -1,0 +1,12 @@
+[
+  "The (Ga,Fe)N layers were grown by metal-organic vapor phase epitaxy (MOVPE) on GaN buffer layers deposited on c-plane sapphire substrates.",
+  "Sample A contains both \u03b1-Fe and \u03b3'-GayFe4-yN nanocrystals, while Sample B and the annealed Sample A* (A*) contain only the \u03b3'-GayFe4-yN phase.",
+  "The size of the nanocrystals is estimated to be 17\u00b12 nm for \u03b1-Fe and 22\u00b12 nm for \u03b3'-GayFe4-yN from the HRXRD analysis.",
+  "The magnetic response of the layers is dominated by a superparamagnetic-like behavior from the nanocrystals and a paramagnetic contribution from dilute Fe3+ ions in the GaN matrix.",
+  "The coercive field values observed (10-60 mT) are consistent with the presence of ferromagnetic \u03b3'-Fe4N nanoparticles.",
+  "The resistivity of Sample B is enhanced by about 3 orders of magnitude below 100K compared to the other samples, attributed to the diffusion of dilute Fe into the GaN capping layer.",
+  "The transition from Arrhenius-type to Mott variable-range hopping conduction occurs between 50-25K for Samples A, A*, and GaN, and between 130-100K for Sample B.",
+  "The Mott hopping temperature (T0Mott) values obtained are in good agreement with previous reports for Gd-doped GaN and GaN.",
+  "Sample A* shows a hysteretic behavior in the magnetoresistance at low fields (<1T) and low temperatures (<25K), related to the spin polarization of the embedded nanocrystals.",
+  "All samples containing the (Ga,Fe)N layers exhibit a positive anisotropic magnetoresistance (AMR) over the entire temperature range, which is not observed in the GaN reference layer."
+]
