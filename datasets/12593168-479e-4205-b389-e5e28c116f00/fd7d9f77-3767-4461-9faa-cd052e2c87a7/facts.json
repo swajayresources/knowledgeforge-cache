@@ -1,0 +1,17 @@
+[
+  "The study uses computational fluid dynamics (CFD) and the Taguchi optimization technique to analyze the structural and thermal performance of a gas turbine vane.",
+  "The three airfoil profiles studied are RAE 2822, SG 6043, and NACA 8312, with a chord length of 300 mm and a 70-degree twist angle.",
+  "The airfoils are tested with an inlet velocity of 8 m/s and an inlet temperature of 60\u00b0C, at angle of attack (AOA) ranging from 0\u00b0 to 15\u00b0 in 2.5\u00b0 increments.",
+  "The RAE 2822 airfoil has the best lift-to-drag ratio at 0\u00b0 AOA among the three profiles studied.",
+  "The RAE 2822 airfoil is tested with coolant flow rates of 0.01, 0.02, and 0.03 kg/s, and inlet gas temperatures of 60\u00b0C, 120\u00b0C, and 180\u00b0C.",
+  "The Taguchi optimization identifies the optimal combination as a coolant flow rate of 0.03 kg/s and an inlet gas temperature of 60\u00b0C.",
+  "The RAE 2822 airfoil is subjected to a centrifugal force of 5100 RPM, resulting in a maximum stress of 3.996 x 10^8 N/m^2 and a maximum strain of 4.015 x 10^-3.",
+  "The vane material used in the study is ZAMAK, and it is coated with a 0.1 mm layer of zirconia.",
+  "The study aims to optimize the design of a gas turbine vane to improve its structural and thermal performance.",
+  "The use of CFD and Taguchi optimization techniques allows the researchers to evaluate the performance of the vane without the need for extensive experimental testing.",
+  "The study provides insights into the impact of impingement cooling flow on the temperature distribution of the gas turbine vane.",
+  "The results of the study can be used to inform the design and development of more efficient and reliable gas turbine systems.",
+  "The paper highlights the importance of considering both structural and thermal factors in the design of gas turbine components.",
+  "The study demonstrates the potential of computational techniques, such as CFD and optimization methods, to enhance the design and performance of gas turbine systems.",
+  "The use of advanced materials and coatings, such as ZAMAK and zirconia, can contribute to the improved thermal and structural characteristics of gas turbine components."
+]
