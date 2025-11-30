@@ -1,0 +1,1 @@
+This paper proposes a novel approach that combines virtual reality and deep learning techniques to develop an automated and efficient defect detection system for wind turbine blades. The system aims to reduce inspection time and cost while improving the accuracy and effectiveness of defect detection from synthetic images.
