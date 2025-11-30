@@ -1,0 +1,17 @@
+[
+  "Condition monitoring of wind turbine blades via learning-based methods GiovanniZanibonia,AlessioDallabonab,\u2217,JohnnyNielsenc,DimitriosPapageorgioub aDepartmentofElectronics,InformationandBioengineering(DEIB),ViaPonzio34/5,Milano,20133,Italy bDepartmentofElectricalandPhotonicsEngineering,TechnicalUniversityofDenmark,Elektrovej326,Lyngby,2800,Denmark cVestasWindSystemA/S,Hedeager42,Aarhus,8200,Denmark Abstract Thispaperaddressesthetopicofconditionmonitoringofwindturbinebladesandpresentsalearning-basedapproach to fault detection",
+  "Keywords: WindTurbines,FaultDetection,ConditionMonitoring,Principalcomponentsanalysis,Autoencoders 1",
+  "Introduction complexity and prolonged expositionto strong dynam- ical loads [3]",
+  "A comprehensive review of the research ting substantial resources to transition towards renew- methodsispresentedin[6,7]",
+  "able energy sources, aiming for complete carbon neu- Model-based Fault Detection (FD) strategies are the tralityby2050[1]",
+  "mosttraditionalschemesusedinwindturbinesandtheir Asthenumberofwindturbinescontinuestorise,there subsystems[8]",
+  "Thelimitedavailabilityofoptimalsites Kalman filters and the collected data [9]",
+  "In [10] and is reflected in the trend of constructing taller turbines [11]aclosed-loopschemethatdescribestheWTmodel withbiggerbladesformakingtheinvestmenteconomi- isprovided,whichwasthenusedforresidualgeneration callyviableinlessoptimalareas",
+  "Evenwiththecurrentbladedesigns local wind speed measurements [12]",
+  "This issue was state,about14",
+  "9%ofthefaultsonWTarebladefailures addressedin[13],wheretheauthorsestimatedthewind [2], caused by both endogenous and exogenous factors speedviaestimatingtheaerodynamictorque",
+  "posedtoestimatingunmeasuredsignals[14]",
+  "it Component Analysis (PCA) was implemented in [15] (GiovanniZaniboni),aldall@dtu",
+  "dk(AlessioDallabona), and [16] to detect sensors and actuator faults in wind jynie@vestas",
+  "In [17], a fault detection algorithm was de- PreprintsubmittedtoEngineeringApplicationsofArtificialIntelligence November1,2024 4202 tcO 13 ]YS"
+]
