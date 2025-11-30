@@ -1,0 +1,17 @@
+[
+  "The poster design is created using the Processing programming environment and the OpenCV library for computer vision.",
+  "The system tracks the user's head position using a face detection algorithm and maps the motion to graphical transformations of the poster elements.",
+  "The temperature data is obtained using the public IP address of the system to determine the location, and then the current temperature is normalized based on the average minimum and maximum temperatures for that location.",
+  "The color palette of the poster is determined by interpolating between five control points in a color spectrum based on the normalized temperature value.",
+  "The sphere elements move along the x or y axis based on the user's head motion, with the translation distance normalized using cosine and sine functions.",
+  "The box elements rotate around a randomly selected axis (x or y) in response to the user's head motion.",
+  "The letter elements have three types of interactions: rotation, rotation with dragging, and translation with dragging.",
+  "The 'rotation with dragging' effect on the letters can operate in a fixed mode, where the dragging is not created, or a non-fixed mode, where a new dragging is created with each rotation.",
+  "This project is presented as a proof-of-concept, with plans to explore more advanced motion tracking, image processing, and automatic poster composition in future work.",
+  "The researchers aim to increase the number of features tracked from the user and environment, develop an automatic poster composition system, and create a physical implementation of the system.",
+  "The use of computer vision techniques in moving poster design is seen as a natural step towards creating posters that can seamlessly integrate with and respond to their surrounding environment.",
+  "The researchers classify 'moving posters' into two main categories: animated, where the information is presented sequentially, and interactive, where the user can reshape the presentation of information.",
+  "The interactive moving posters allow for the incorporation of data through computational techniques like computer vision and pattern recognition, keeping the poster in a perpetual unfinished state.",
+  "The researchers cite examples of existing interactive moving poster projects, such as the 'Camera Postura' installation by LUST, which uses computer vision to match user poses with movie scenes.",
+  "The goal of this research is to explore how computer vision techniques can be used to design moving posters that respond to user interaction and environmental data, creating a unique and dynamic experience with each interaction."
+]
