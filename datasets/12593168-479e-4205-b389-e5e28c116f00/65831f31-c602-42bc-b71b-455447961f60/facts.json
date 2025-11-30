@@ -1,0 +1,17 @@
+[
+  "The objectives of this program at the NASA Glenn Research Center are to develop manufacturing technology, a thermal barrier coating/environmental barrier coating (TBC/EBC), and an analytical modeling capability to predict thermomechanical stresses, and to do minimal burner rig tests of silicon nitride (Si3N4) and SiC/SiC turbine nozzle vanes under simulated engine conditions.",
+  "The test specimen size for the cooled monolithic silicon nitride (Si3N4) plates was 6 by 1 by 0.125 inches.",
+  "The finite element analysis showed that the maximum temperature was at the middle section of the plate, and the temperature difference between two plates with different cooling channel configurations was 573 \u00b0F.",
+  "Computed tomography (CT) scanning was used to analyze the silicon nitride plates, which allowed visualization of the location, shape, and uniformity of the cooling channels, as well as the presence of any processing defects such as pores, cracks, and other geometric abnormalities.",
+  "Diverting part of the air from the compressor, which would have been used in the combustor for combustion purposes, into the turbine components (active cooling) can improve the efficiency of the engine.",
+  "The finite element analysis was carried out using the ANSYS and MSC/PATRAN software packages.",
+  "Ceramics like silicon nitride have low density, high-temperature strength, and good thermal conductivity, which makes them attractive for replacing metals in engine hot section components.",
+  "Ceramic structures can withstand higher operating temperatures and harsh environmental factors, and their low density helps reduce component mass.",
+  "The temperature distribution in the silicon nitride plates is highly dependent on the cooling channel configuration and the boundary conditions applied.",
+  "The non-destructive evaluation using computed tomography revealed the location, shape, and uniformity of the cooling channels, as well as the presence of any processing defects.",
+  "Increasing the operating temperature, decreasing the cooling air, or both can improve the efficiency of the engine.",
+  "Lightweight, strong, tough high-temperature materials are required to complement efficiency improvement for next-generation gas turbine engines that can operate with minimum cooling.",
+  "The finite element analysis showed that the cooling channel size and shape are major factors in optimizing the desired thermal profile of the silicon nitride plates.",
+  "The paper does not explicitly mention any future plans or next steps, but the overall objectives of the research program include developing manufacturing technology, thermal barrier coatings, and analytical modeling capabilities, as well as conducting minimal burner rig tests.",
+  "The paper focuses on the finite element analysis and non-destructive evaluation of the cooled silicon nitride plates."
+]
