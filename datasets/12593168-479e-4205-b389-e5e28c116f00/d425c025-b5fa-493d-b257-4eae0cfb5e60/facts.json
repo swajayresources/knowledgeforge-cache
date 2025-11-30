@@ -1,0 +1,12 @@
+[
+  "The Aerosense system uses low-cost, low-power MEMS sensors to measure local pressures and blade motions, and transmits the data wirelessly to a base station.",
+  "The absolute pressure sensors can measure pressures from 260 hPa to 1260 hPa with an absolute accuracy of \u00b150 Pa after calibration.",
+  "The differential pressure sensors have a range of -2000 Pa to 2000 Pa with a precision of \u00b120 Pa, and are used to infer the local inflow conditions.",
+  "The hydrostatic pressure variation due to blade rotation can be up to 40% of the aerodynamic pressure on a 5 MW wind turbine.",
+  "The influence of centrifugal acceleration on the pressure sensors was found to be negligible for horizontal axis wind turbines, but should be accounted for in vertical axis wind turbines.",
+  "Photogrammetry was used to accurately measure the 3D shape and sensor positions on the blade section.",
+  "The field measurements on the 7 kW wind turbine showed that the pressure distribution can vary significantly during a single blade rotation, even under stable wind conditions.",
+  "The variations in pressure distribution were found to be due to the misalignment between the wind direction and the turbine's rotational axis.",
+  "The Aerosense system can provide comprehensive data on the aerodynamic behavior of wind turbine blades, including time-resolved pressure distributions and local inflow conditions.",
+  "The Aerosense system is designed to be a cost-effective and easy-to-install solution for the wind energy industry to obtain field measurements and improve blade designs."
+]
