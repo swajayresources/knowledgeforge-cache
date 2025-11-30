@@ -1,0 +1,17 @@
+[
+  "The traditional understanding of Digital Manufacturing describes the utilization of a suite of tools to facilitate the integration of product and process design.",
+  "The emergence of 'Industrie 4.0' has led to a greater focus on the utilization of real-time data in closed-loop control architectures obtained via ubiquitous sensing and computing.",
+  "Additive Manufacturing (AM) is an archetypal process for Digital Manufacturing, as the absence of physical tooling allows the deposition of complex product geometries without many constraints.",
+  "AM can efficiently manufacture very small quantities of products, down to a single unit.",
+  "The integrated framework for assessing Digital Manufacturing combines a Digital Manufacturing model, a generic AM process map, and a life cycle assessment framework.",
+  "The framework describes the Digital Manufacturing workflow as an integrated optimization problem, simultaneously addressing multiple interrelated elements.",
+  "Data science techniques, including machine learning, have been used in automated manufacturing for predictive maintenance, demand forecasting, process monitoring, and optimization.",
+  "The growing amount of data in a manufacturing environment has turned some existing issues into Big Data problems, requiring an integrated data infrastructure and specialized knowledge.",
+  "The integrated framework provides a conceptual basis for the development of integrated approaches to address the complex, interconnected problems in Digital Manufacturing.",
+  "Martin Baumers is interested in the economic and operational aspects of Digital Manufacturing technologies, with an emphasis on understanding the total cost, build speed, and energy consumption of 3D Printing/Additive Manufacturing.",
+  "Ender \u00d6zcan's research interests and activities lie at the interface of Computer Science, Artificial Intelligence, and Operational Research, focusing on intelligent decision support systems combining data science techniques and (hyper/meta)heuristics applied to real-world problems.",
+  "The paper discusses how the notion of 'Digital Manufacturing' is transforming from a term describing a suite of software tools to a more general concept incorporating computerized manufacturing, supply chains, and product life cycles.",
+  "The paper uses the example of Additive Manufacturing to identify an integrated multi-objective optimization problem underlying Digital Manufacturing.",
+  "The paper outlines challenges for the development and application of Machine Learning tools in Digital Manufacturing, including the need for expertise in both data science and optimization.",
+  "The paper emphasizes the importance of an integrated data infrastructure and compliance with standards to enable direct communication between data science and optimization techniques in Digital Manufacturing."
+]
