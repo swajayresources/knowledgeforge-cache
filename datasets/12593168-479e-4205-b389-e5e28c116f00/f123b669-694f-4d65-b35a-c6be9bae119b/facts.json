@@ -1,0 +1,18 @@
+[
+  "Convergence Results for Optimal Control Problems Governed by Elliptic Quasivariational Inequalities Mircea Sofonea1\u2217 and Domingo A",
+  "Tarzia2 1 Laboratoire de Math\u00b4ematiques et Physique University of Perpignan Via Domitia 52 Avenue Paul Alduy, 66860 Perpignan, France 2 Departamento de Matematica-CONICET Universidad Austral Paraguay 1950, S2000FZF Rosario, Argentina Abstract",
+  "The existence of optimal pairs of the problem is a well known result, see [28], for instance",
+  "2010 Mathematics Subject Classification: 47J20,49J27,49J40,49K20,74M15,74M10",
+  "fr 0202 yaM 42 ]CO",
+  "htam[ 1v88711",
+  "5002:viXra 1 Introduction The study of optimal control problems is motivated by important applications in Physics, Mechanics, Automatics and Systems Theory",
+  "Basic references in the field are[1, 6, 12, 16, 18], for instance",
+  "Results in thestudy of optimal control for variational and variational-hemivariational inequalities have been discussed in several works, including [2, 3, 11, 17, 22, 23, 24] and [27, 29], respectively",
+  "Applications of variational inequalities in Mechanics could be found in the books [8, 9, 10, 13, 14, 15, 26], for instance",
+  "Refer- ence on optimal control for inequality problems arising in Mechanics and Physics include [4, 5, 7, 19, 20, 21, 25, 28, 32]",
+  "1) X Y We associate to Problem P the set of admissible pairs defined by V = {(u,f) \u2208 K \u00d7Y such that (1",
+  "1) holds} (1",
+  "2) ad and we consider a cost functional L : X \u00d7Y \u2192 R",
+  "3) (u,f)\u2208Vad Next, consider a set K \u2282 X, an operator A : X \u2192 X and an element f \u2208 Y",
+  "Next, we show that u is a solution to Problem P"
+]
