@@ -1,0 +1,17 @@
+[
+  "The simulated system is subjected to an applied tensile stress of 200 MPa.",
+  "After 54,000 seconds of creep time, the \u03b3' precipitate is rafted in the horizontal direction with an aspect ratio of 1.35.",
+  "The calculated interface energy is 0.036 J/m^2, and the interface region is discretized by 6 grid points.",
+  "The material parameters correspond to a temperature range of 1253-1293 K.",
+  "The \u03b3/\u03b3' misfit strain is -0.003, and the elastic stiffness constants are C11 = 198 GPa, C12 = 138 GPa, and C44 = 97 GPa.",
+  "The dislocation drag coefficient B is 10^-13 GPa\u00b7s.",
+  "The dimensionless parameter D governing the back stress is 0.6.",
+  "The Taylor factor a used in the yield stress calculation is 0.4.",
+  "The interface dislocation density typically increases from about 1 \u00d7 10^13 m^-2 up to 3-30 \u00d7 10^13 m^-2 in experiments.",
+  "The simulated interface dislocation density of around 5 \u00d7 10^13 m^-2 is in good agreement with experimental data.",
+  "Positive dislocations accumulate at the lower horizontal \u03b3/\u03b3' interface, while negative dislocations accumulate at the upper horizontal interface.",
+  "No significant GND accumulation is observed in the vertical channels, indicating the presence of statistically stored dislocations.",
+  "The presence of dislocations reduces the maximum long-range shear stress compared to the system without dislocations.",
+  "The plastic strain increases rapidly at first due to fast dislocation motion, then saturates as the dislocations are slowed down within the \u03b3/\u03b3' interfaces.",
+  "Without dislocations, the plastic strain increases linearly, which is not observed in experiments."
+]
