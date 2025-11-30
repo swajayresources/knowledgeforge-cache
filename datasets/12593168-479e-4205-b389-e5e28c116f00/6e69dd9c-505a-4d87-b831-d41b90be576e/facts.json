@@ -1,0 +1,17 @@
+[
+  "The blade had a span of approximately 1.4 inches and a chord of 0.7 inches.",
+  "The blade was fabricated from two parts: an integrally cast base, airfoil suction surface, and cooling fins; and a formed sheet-metal pressure surface.",
+  "The gas-to-blade heat transfer coefficient was calculated using a correlation equation from previous research.",
+  "The blade-to-coolant heat transfer coefficient was calculated using two methods: one assuming fully developed flow, and one considering the length-to-diameter ratio of the coolant passage.",
+  "The calculated blade temperatures agreed within 3% at the midspan and tip regions compared to experimental data.",
+  "At the root region, the agreement was within 3% for turbulent flow and 10% for laminar flow.",
+  "The calculated cooling-air pressure losses agreed with experimental data within 5%.",
+  "The blade entrance loss coefficient determined experimentally was 0.37.",
+  "The entrance loss was 1-6% of the overall pressure loss for the range of cooling airflows tested.",
+  "The experimental cooling airflow rates ranged from 7x10^-4 to 8.6x10^-3 lb/s.",
+  "For the high-temperature turboprop conditions, the calculated blade temperatures agreed within 2% above midspan and 10% at 3/16 inch above the root compared to extrapolated experimental data.",
+  "The allowable blade temperature distribution was based on a stress ratio factor of 2.8 and 1000 hour life for the alloy 116-31.",
+  "The assumed turboprop engine had a compressor pressure ratio of 10.9, airflow of 13.4 lb/s, and turbine-inlet temperature of 2000\u00b0F.",
+  "The assumed flight condition was 300 knots at 30,000 ft altitude.",
+  "The shape of the effective gas temperature profile relative to the rotor blades was assumed similar to the experimental static cascade data."
+]
