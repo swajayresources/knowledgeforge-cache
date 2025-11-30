@@ -1,0 +1,22 @@
+[
+  "Li July 3, 2024 Abstract ThispaperpresentsexactSemi-DefiniteProgram(SDP)reformulationsforinfinite-dimensional moment optimization problems involving a new class of piecewise Sum-of-Squares (SOS)- convex functions and projected spectrahedral support sets",
+  "Moment Optimization; Sum-of-Squares Convex Polynomials; Piecewise Functions; Generalized moment problems; Semi-Definite Programming 1 Introduction Consider the generalized moment problem (cid:20) (cid:21) (cid:110) (cid:111) min E\u2126 min max gk(\u03c9) : E\u2126[h (\u03c9)] \u2264 \u03b3 ,j = 1,",
+  ",J (P) \u00b5 \u2113 \u00b5 j j \u00b5\u2208P\u2126 k=1,",
+  ",L where gk, \u2113 = 1,",
+  ",r, and h , j = 1,",
+  "Department of Applied Mathematics, University of New South Wales, Sydney 2052, Australia",
+  "\u2020Department of Applied Mathematics, University of New South Wales, Sydney 2052, Australia",
+  "\u2021Department of Applied Mathematics, University of New South Wales, Sydney 2052, Australia",
+  "Research of Prof Guoyin Li was supported by a grant from the Australian Research Council 1 4202 luJ 2 ]CO",
+  "htam[ 6v46070",
+  "2042:viXra since checking whether a polynomial is SOS-convex or not can be achieved by solving an SDP [1, 15]",
+  "Recent applications of SOS-convexity in optimization may be found in [25, 18]",
+  "\u2126 \u00b5 Our model (P) is closely related to generalized moment problems [24] where gk, \u2113 = 1,",
+  ",L, \u2113 k = 1,",
+  "(iii) Finally, as an application and a proof-of-concept illustration, we present numerical results for two important practical models, i",
+  "We present a recovery result under a stronger condition that is easy to verify",
+  "As applications, we presented numerical results for a class of generalized Newsvendor and revenue maximization problems with higher-order moments by solving their equivalent SDP reformula- tions",
+  "Moreover, under 3 suitable conditions, we show how to recover an optimal probability measure for (P) by solving a single SDP",
+  "\u2126 \u2126 Now, we show that (D) is an exact SOS reformulation for (P) in the sense that min(P) = max(D)",
+  "1 2 5 Conclusion and Outlook We showed how to derive Sum-of-Squares (SOS) reformulations for important classes of infinite- dimensional moment optimization problems involving piecewise SOS-convex functions"
+]
