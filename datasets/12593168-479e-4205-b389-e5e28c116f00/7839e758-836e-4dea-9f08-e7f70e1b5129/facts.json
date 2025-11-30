@@ -1,0 +1,17 @@
+[
+  "The mean and standard deviation of the ion saturation current measured by the outer wall-mounted Langmuir probe increase with increasing line-averaged density or decreasing plasma current.",
+  "After normalization by subtracting the mean and rescaling by the standard deviation, the PDFs of the ion saturation current time series collapse onto a single curve.",
+  "The shape of the collapsed PDF is better described by a log-normal distribution than a Gamma distribution.",
+  "The PDF collapse occurs over 4 decades of the ordinate, indicating a strong universality.",
+  "The intermittency parameter, which relates the burst duration time and waiting time, remains constant across the wide parameter scan.",
+  "The constancy of the intermittency parameter is attributed to a balance between the expansion of the burst waveform duration and the increase in burst frequency as plasma current increases or density decreases.",
+  "The study covers a wide range of plasma currents from 1.5 to 3 MA and line-averaged densities from 1.69 to 3.93 x 10^19 m^-3, corresponding to Greenwald fractions from 0.1 to 0.7.",
+  "Synthetic data analysis shows the 80 kHz sampling rate of the Langmuir probe is sufficient to capture the key statistical features of the ion flux, despite the short timescales of the burst events.",
+  "The study is limited to Ohmically heated horizontal target plasmas, and the authors suggest extending the analysis to different plasma configurations and heating mechanisms.",
+  "The constancy of the intermittency parameter may be an important factor to consider when predicting first wall ion fluxes for future machines.",
+  "The paper finds that the conditionally averaged waveforms and waiting time distributions of burst events vary with plasma current and density, despite the invariance of the PDF shape.",
+  "Negative spikes in the ion saturation current signal, likely due to arcing of the Langmuir probe, are removed from the data analysis.",
+  "The variation in higher-order moments of the PDF, such as skewness and kurtosis, is attributed to inherent statistical uncertainty and random noise in the measurements.",
+  "The log-normal distribution provides a better fit to the positive tail of the normalized PDF compared to the commonly used Gamma distribution.",
+  "The authors note that extending this analysis to externally heated plasmas in JET may help explain disparities with previous studies on the variation of the autocorrelation time with density."
+]
