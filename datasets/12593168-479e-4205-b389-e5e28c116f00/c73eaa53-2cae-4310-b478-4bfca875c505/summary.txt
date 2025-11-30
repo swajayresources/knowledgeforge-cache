@@ -1,0 +1,1 @@
+This paper investigates the process of fluid mixing due to viscous fingering, a hydrodynamic instability that occurs when a less viscous fluid displaces a more viscous fluid. The authors present a numerical simulation of the mixing process and develop a two-equation dynamic model to quantify the degree of mixing in such a displacement process.
