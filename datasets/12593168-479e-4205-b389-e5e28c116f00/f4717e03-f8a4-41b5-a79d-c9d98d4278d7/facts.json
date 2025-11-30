@@ -1,0 +1,17 @@
+[
+  "The inverse design method prescribes desired distributions of angle of attack (\u03b1) and axial induction factor (a) along the blade span.",
+  "The RANS/ADM CFD model is used to compute the aerodynamic performance of the blade geometry during the inverse design iterations.",
+  "The Trust-Region-Reflective optimization method is used to update the blade geometry (twist and chord distributions) to match the desired \u03b1 and a targets.",
+  "The inverse design method is demonstrated for both conventional single-rotor wind turbines and dual-rotor wind turbines (DRWTs).",
+  "Manufacturing and transportation constraints on conventional turbine blades lead to aerodynamically suboptimal designs in the blade root region.",
+  "The DRWT configuration uses a secondary smaller rotor in front of the main rotor to more efficiently extract energy from the blade root region.",
+  "The DRWT can also enhance flow entrainment and wake mixing, leading to reduced wake losses compared to a conventional single-rotor design.",
+  "The inverse design method is general and can be applied to wind turbines with an arbitrary number of rotor disks, not just DRWTs.",
+  "A mesh sensitivity study showed that a grid resolution of 101x229 cells was sufficient to obtain grid-independent results for the RANS/ADM solver.",
+  "The Trust-Region-Reflective method was found to be more stable than the multi-dimensional Newton iteration method when there are constraints on the blade design.",
+  "The multi-dimensional Newton method converged faster than the Trust-Region-Reflective method for unconstrained blade optimization problems.",
+  "The inverse design algorithm was able to reproduce the original blade geometry of the NREL 5 MW wind turbine with less than 1% error.",
+  "The inverse design approach allows the designer to directly specify the desired aerodynamic performance targets (\u03b1 and a distributions) and obtain the corresponding blade geometry.",
+  "The RANS/ADM model used in this study has been previously validated against experimental data for wind turbine aerodynamic performance prediction.",
+  "The inverse design methodology presented in this paper is general and can be applied to a wide range of wind turbine configurations, not just single-rotor and dual-rotor designs."
+]
