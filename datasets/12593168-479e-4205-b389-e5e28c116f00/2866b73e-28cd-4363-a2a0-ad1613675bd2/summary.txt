@@ -1,0 +1,1 @@
+The paper analyzes the limitations of an automated wind turbine cost model, showing that it exhibits unrealistic scaling behavior and fails to generalize well for certain turbine parameters. The authors propose a set of axioms for investment cost models to ensure they adhere to the fundamental dynamics of wind turbine costs.
