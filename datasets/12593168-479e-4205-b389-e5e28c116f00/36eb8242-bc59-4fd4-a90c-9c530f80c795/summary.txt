@@ -1,0 +1,1 @@
+This paper presents the design and development of the Model GTP305-2 aircraft auxiliary power unit (APU), which is a single-shaft engine with an axial-centrifugal compressor, reverse flow annular combustor, and radial-axial turbine. The APU was designed to produce 186.3 shaft horsepower at a design speed of 76,585 rpm and turbine rotor inlet temperature of 2050°F.
