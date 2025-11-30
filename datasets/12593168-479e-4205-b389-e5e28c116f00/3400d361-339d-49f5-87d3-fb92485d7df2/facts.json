@@ -1,0 +1,17 @@
+[
+  "Turbine inlet gas temperatures in modern aircraft engines range from 2000\u00b0F (1094\u00b0C) to 2800\u00b0F (1538\u00b0C) and pressures from 20 to 40 atmospheres.",
+  "Current 2D boundary layer analysis programs can have errors up to 35% in predicting the heat transfer coefficient on the suction side of turbine blades, leading to errors of at least 100\u00b0F (55.5\u00b0C) in the estimated blade surface temperature.",
+  "The Nusselt number in the stagnation region of a turbine blade is directly proportional to the square root of the Reynolds number, with the constant of proportionality dependent on the upstream turbulence level.",
+  "Concave curvature on the pressure surface of a turbine blade tends to stabilize the boundary layer and delay transition, while convex curvature on the suction surface promotes transition and turbulence.",
+  "The unsteadiness and turbulence of the flow entering the turbine, influenced by the compressor and combustion processes, can lead to large perturbations in the heat transfer response, up to an order of magnitude compared to steady-state predictions.",
+  "The flow through a turbine blade row is highly complex, with three-dimensional secondary viscous flow patterns, stagnation effects, curvature effects, and flow acceleration that all influence the local heat transfer.",
+  "Transition from laminar to turbulent boundary layer on the turbine blades is a major uncertainty in predicting heat transfer, as it is affected by factors such as Reynolds number, pressure gradient, and upstream flow disturbances.",
+  "The radiation component of gas-side heat transfer to the first stage of the turbine can be a significant fraction of the total heat transfer.",
+  "The unsteady flow entering the turbine is defined by the unsteady flow component normalized with respect to the average flow velocity, which can result in rather large values of intensity compared to ordinary turbulence.",
+  "Analytical studies of unsteady laminar boundary layers on rotating turbine blades have predicted large perturbations in the heat transfer response, up to an order of magnitude compared to flat plate values.",
+  "Increasing the upstream turbulence level can enhance the stagnation heat transfer on turbine blades by amplifying the vortical structures that form in the stagnation region.",
+  "Secondary cross-flows that vary in intensity and direction along the span of the turbine blade passage can also influence the local heat transfer distribution.",
+  "The flow field in the stagnation region of a turbine blade has a vortical structure that results from an instability different from the classic G\u00f6rtler-type, and this vortical structure interacts with the boundary layer to promote transition.",
+  "Experimental studies have shown that free-stream turbulence can significantly thicken the turbulent boundary layer on a flat plate and influence the wake region.",
+  "Curvature effects on turbulent flow in channels or pipes have been extensively studied, but their specific implications for heat transfer on turbine blades warrant further research."
+]
