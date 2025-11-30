@@ -1,0 +1,17 @@
+[
+  "Two-layer thermal barrier coating systems (TBS) consisting of a NiCrAlY bond coating and yttria-stabilized zirconia (YSZ) thermal barrier coating were evaluated on a nickel-aluminum-molybdenum (\u03b3/\u03b3' - \u03b1) alloy substrate.",
+  "At 995\u00b0C, decreasing the yttrium concentration in the NiCrAlY bond coating from 0.35 to 0.15 wt% significantly improved the TBS life, from 346-375 cycles to over 2000 cycles.",
+  "At 1095\u00b0C, the TBS with a 6.1 wt% Y2O3 YSZ coating had a significantly longer life (356 cycles) than the 7.8 wt% Y2O3 (246 cycles) or 4.0 wt% Y2O3 (175 cycles) coatings, when paired with the same 0.15 wt% Y bond coating.",
+  "In the 1250\u00b0C torch rig tests, the TBS lives were about twice as long as in the 1095\u00b0C cyclic furnace tests, likely due to the small heated area in the torch rig allowing the rest of the specimen to act as a heat sink.",
+  "Electron microprobe analysis showed that yttrium, aluminum, and chromium were non-uniformly distributed in the as-deposited bond coatings, and yttrium was depleted from the inner regions of the bond coating during testing.",
+  "Increasing the bond coating thickness from 0.008 to 0.017 cm increased the oxidation rate, but the thinner bond coatings failed more rapidly at 1095\u00b0C.",
+  "Increasing the yttrium content in the bond coating beyond 0.15 wt% also increased the oxidation rate and decreased the TBS life.",
+  "The low thermal expansion coefficient of the \u03b3/\u03b3' - \u03b1 substrate improved the TBS life by over 130% compared to the B-1900 + Hf substrate, and by about 50% compared to the MAR-M200 + Hf substrates.",
+  "In the 1250\u00b0C torch rig tests, the TBS on \u03b3/\u03b3' - \u03b1 had a life about 30% longer than on the MAR-M200 + Hf substrate, and about 60% longer than on the cobalt-based MAR-M509 substrate.",
+  "Failures in the cyclic furnace tests occurred primarily at the specimen corners, whereas in the torch rig tests, failures occurred along the edges, likely due to the more uniform YSZ coating thicknesses on the torch rig specimens.",
+  "The presence of localized areas of complete bond coating oxidation was not found to be the primary cause of failure, as these areas were observed on the flat surfaces rather than at the failure locations.",
+  "The compositions of the bond coating and thermal barrier coating had a more significant effect on TBS life than the coefficient of thermal expansion of the substrate material.",
+  "A bond coating with 0.15 wt% Y and a zirconia coating with 6.1 wt% Y2O3 provided the longest TBS life, likely due to the optimal balance of phases and thermal expansion mismatch accommodation.",
+  "Chromium from the bond coating diffused into the \u03b3/\u03b3' - \u03b1 substrate, and molybdenum from the substrate diffused into the bond coating during testing, which may have affected the TBS life.",
+  "The data showed that highly reproducible results (\u00b15% in the furnace tests, \u00b14% in the torch rig tests) could be obtained for the thermal barrier coating systems."
+]
