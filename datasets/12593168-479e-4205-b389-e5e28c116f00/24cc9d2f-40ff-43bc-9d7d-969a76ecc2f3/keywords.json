@@ -1,0 +1,17 @@
+[
+  "Cross-flow turbines",
+  "Chord-to-radius ratio (c/R)",
+  "Blade camber",
+  "Preset pitch angle (\u03b1_p)",
+  "Virtual camber",
+  "Virtual incidence",
+  "Net camber (\u03b3_net)",
+  "Net incidence (\u03b1_net)",
+  "Lift and pitching moment",
+  "Tip-speed ratio (\u03bb)",
+  "Power coefficient (C_P)",
+  "Reynolds number (Re_D, Re_c)",
+  "Conformal transformation",
+  "Aerodynamic optimization",
+  "Experimental methods"
+]
