@@ -1,0 +1,17 @@
+[
+  "The Eolos Wind Energy Research Station at the University of Minnesota consists of a 2.5 MW wind turbine and a 130 m meteorological tower.",
+  "The selected one-hour dataset had a mean wind direction of 178\u00b0 at hub height with a small deviation of 3.7\u00b0, and a mean wind speed of 7.8 m/s.",
+  "The turbulence intensity ranged from 13% at the bottom tip to 5% at the top tip of the rotor during the selected period.",
+  "The boundary layer frequency (f_L) was about 0.01 Hz, and the rotor frequency (f_D) was about 0.08 Hz.",
+  "The normalized flapwise blade root bending moment varied from -1.0 to 1.0, indicating moments along and against the rotation direction.",
+  "The flapwise bending moment spectrum exhibited a dominant peak at the turbine rotational frequency (f = 0.22 Hz), in contrast to the foundation strain spectrum which peaked at the blade passing frequency (f_BPF = 0.66 Hz).",
+  "The edgewise bending moment spectrum showed strong peaks at 0.97 Hz and 3.1 Hz, associated with the undamped natural frequency of the collective blade pitch control.",
+  "The magnitude of the high-pressure strain power spectrum increased outward from the blade root due to increased blade elasticity.",
+  "The high-pressure and low-pressure side strain spectra matched well with a slope of f^-5/3 to f^-2 in the lower and intermediate frequency ranges.",
+  "The leading-edge and trailing-edge regions of the blade were much less responsive to the turbulent inflow in the lower and intermediate frequency ranges.",
+  "The normalized fluctuation (standard deviation) of the flapwise bending moment was higher than that of the edgewise bending moment, suggesting higher sensitivity to the change of turbine structural configuration.",
+  "The researchers applied several restrictions on wind direction, yaw error, turbine operating conditions, and atmospheric stability to select the one-hour dataset for analysis.",
+  "The blade sensor system used fiber-optic strain gauges installed at different radial positions along each blade to measure the blade deformation.",
+  "The researchers leveraged the unique facility of the Eolos Wind Energy Research Station, which has a well-instrumented 2.5 MW wind turbine and a meteorological tower, to conduct this field study.",
+  "The researchers calculated the edgewise and flapwise blade root bending moments from the strain gauge measurements at the leading-edge, trailing-edge, high-pressure, and low-pressure regions of the blade cross-section."
+]
