@@ -1,0 +1,17 @@
+[
+  "Most of the efforts in the HOST Surface Protection Subproject in FY 1986 were focused on thermal barrier coating (TBC) life prediction.",
+  "The TBC life prediction element is divided into contractual, grant, and in-house efforts.",
+  "The contracts with Pratt & Whitney Aircraft, General Electric Co., and Garrett Turbine Engine Co. are designed to produce 'engine-capable' TBC life-prediction models.",
+  "The grant with Cleveland State University is focused on finite-element modeling of TBC stress states.",
+  "The in-house work is focused on developing laboratory burner rig tests that can simulate the pressures and heat fluxes of aircraft gas-turbine engines.",
+  "The airfoil deposition modeling program element is concerned with modeling the deposition of corrodants onto turbine airfoils.",
+  "The chemically frozen boundary layer (CFBL) theory has been verified for segmented collectors simulating the turbine nose region.",
+  "The recently developed local thermochemical equilibrium (LTCE) theory agrees within 7% in predicting deposition rates compared to the CFBL theory.",
+  "Pratt & Whitney Aircraft has developed a preliminary TBC life model as part of the FY 1986 accomplishments.",
+  "Garrett Turbine Engine Co. has conducted an engine test as part of the FY 1986 accomplishments.",
+  "The rig development work includes modernizing the burner rig, adding computer data acquisition and limit monitoring, and implementing computer control.",
+  "The mechanical behavior of TBCs is being studied through a grant with Cleveland State University, with a focus on modeling the residual stresses.",
+  "The modeling strategy involves developing failure mechanisms models, mechanical behavior models, and a comprehensive life prediction model for the 'prime mode' design of components with TBCs.",
+  "The full benefits of TBCs can only be achieved when it becomes possible to use them in the 'prime-reliant' mode, where a failed TBC would lead directly to a failed component.",
+  "Advanced TBC life prediction models combined with other coating technology advances will be required before designers will be willing to use TBCs in the 'prime-reliant' mode."
+]
