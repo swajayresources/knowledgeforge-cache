@@ -1,0 +1,20 @@
+[
+  "Algorithms and analyses for stochastic optimization for turbofan noise reduction using parallel reduced-order modeling HuanhuanYang,MaxGunzburger DepartmentofScientificComputing,FloridaStateUniversity,Tallahassee,FL32306,USA Abstract Simulation-based optimization of acoustic liner design in a turbofan engine nacelle for noise reduction purposes can dramatically reduce the cost and time needed for experimental designs",
+  "The reduced stochastic optimization solver takes less than 500 seconds to execute",
+  "Keywords: stochasticHelmholtzequation,conditionalvalueatrisk,properorthogonaldecomposition, turbofannoisereduction 1",
+  "With the popularization of air transportation, aviation noise mitigation has always been an interesting topic for researchers and engineers [39, 4]",
+  "Noise emission at take-off and landing from the high-bypass turbofan, the only choice of engine for commercial aircrafts because of its lower fuel consumption[2],ismainlycontributedbytheenginefannoise[19]",
+  "Attake-off,thefanrotationalspeed is supersonic and this makes the noise (known as \u201cbuzz-saw\u201d noise) propagate upstream the inlet [26]",
+  "Theperformanceofacousticlinerscan be evaluated in experiments by means of ground tests [33] or in dedicated experimental test rigs [11]",
+  "In particular, simulations have been performed in [5] for the search of liner impedance factors, by solving an optimization problem towards minimizing fan noise radiation",
+  "Weformulatetheoptimizationonthe conditionalvalue-at-risk(CVaR)measure[32],whichquantifiestheconditionalexpectationofthesound energy provided that the sound is above a certain threshold",
+  "The optimization based on CVaR measure Emailaddresses:hyang3@fsu",
+  "edu(MaxGunzburger) PreprintsubmittedtoElsevier November3,2016 6102 voN 2 ]CO",
+  "htam[ 1v17600",
+  "1161:viXra isexpectedtodetermineoptimalimpedancefactorthatarerobusttouncertainty",
+  "The POD method has been used in many different fields such as fluid-structure interaction [3] and electrophysiology [40], and has been applied to the Helmholtz equation for a dif- ferent purpose [37]",
+  "Infact,greedyreducedbasismethodapplyingtonon-coerciveelliptic problemsismoreinvolvedthancoerciveproblems[34]",
+  "r We present in Table 3 the computational results for the probability levels \u03b2 \u2208 {0",
+  "We present a parallel reduced-order modeling framework that dramatically improves the computa- tional efficiency of the stochastic optimization solver on a realistic geometry",
+  "To be more precise about the size of h, we show under the constraints in Propo- sition 1 that a sufficient condition for quasi-optimality is k2h (cid:28) 1"
+]
