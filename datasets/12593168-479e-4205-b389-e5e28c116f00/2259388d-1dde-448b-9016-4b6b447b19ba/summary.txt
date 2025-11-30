@@ -1,0 +1,1 @@
+This paper presents simulations of the unsteady flow through the Fastrac supersonic turbine, a key component of a low-cost rocket engine. The study analyzes the aerodynamic environment, including potential blade resonance, and compares results for different nozzle-to-blade axial spacings to understand the effects on flow unsteadiness and efficiency.
