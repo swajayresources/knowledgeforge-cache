@@ -1,0 +1,17 @@
+[
+  "The MQ-9 Reaper is a newer and upgraded version of the MQ-1 UAV.",
+  "The altitude of 5,000 m above sea level was chosen for the simulations, with an air pressure of 54,930 Pa.",
+  "The air density at 5,000 m altitude is 0.746 kg/m^3, and the dynamic viscosity is 1.63 x 10^-5 kg/(m*s).",
+  "The maximum speed of the MQ-9 Reaper is approximately 240 knots, or 123.467 m/s.",
+  "A high-order scheme with a 4th order difference and 3rd order time integral was used for the numerical scheme in the Flowsquare simulations.",
+  "The simulations were run for 5,000 time steps, with each time step lasting around 6.1138 x 10^-5 seconds.",
+  "The angles of attack simulated ranged from 0 to 20 degrees, in increments of 1 degree.",
+  "The critical angle of attack, where the airflow separates from the top surface of the wing, is around 16 degrees.",
+  "The NASA FoilSimJS software was used to approximate the lift and drag coefficients based on the airfoil parameters.",
+  "The lift coefficient steadily increased as the angle of attack increased, until the critical angle of attack was reached.",
+  "The drag coefficient also gradually increased as the angle of attack was increased.",
+  "The peak lift-to-drag ratio was found to be around 2 degrees angle of attack.",
+  "The Drela GW-19 airfoil is the root airfoil used in the MQ-9 Reaper.",
+  "UAVs like the MQ-9 Reaper can transmit data back to control stations about information such as altitude, aircraft speed, and target detection.",
+  "Intelligent UAVs can automatically respond to certain conditions, such as returning to the starting destination if they run out of fuel."
+]
