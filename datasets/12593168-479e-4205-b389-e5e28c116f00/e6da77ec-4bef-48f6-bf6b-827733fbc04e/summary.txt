@@ -1,0 +1,1 @@
+This paper presents an automated system for detecting visual damages on wind turbine blades using a Mask R-CNN model. The system aims to improve the accuracy and productivity of human analysts in identifying blade damages, which is critical for reducing the high operational costs of wind energy.
