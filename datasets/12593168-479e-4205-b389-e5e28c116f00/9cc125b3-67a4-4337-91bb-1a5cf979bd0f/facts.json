@@ -1,0 +1,17 @@
+[
+  "The RSL framework combines symbolic regression with deep reinforcement learning to predict turbine blade fatigue life.",
+  "The RSL method was evaluated on two turbine blade materials: GH4169 and TC4.",
+  "The RSL method produced more accurate and interpretable predictive formulas compared to six empirical formulas and five machine learning algorithms.",
+  "The RSL framework incorporates logical constraints, such as dimension removal, arity tracking, and function enforcement, to ensure the generated formulas are structurally valid and aligned with physical laws.",
+  "The deep reinforcement learning component of RSL uses a Recurrent Neural Network (RNN) to guide the symbolic regression process towards more accurate and generalizable predictive models.",
+  "Finite element simulations were conducted to assess mechanical properties at critical points on the turbine blades and predict fatigue life under various operating conditions.",
+  "The RSL method demonstrated superior or comparable predictive performance to both empirical formulas and machine learning models for the GH4169 and TC4 turbine blade materials.",
+  "Traditional empirical formulas for fatigue life prediction, such as the Coffin-Manson, BM, KBM, FS, and WHS criteria, rely on mechanical properties like tensile strength, ductility, hardness, and strain components.",
+  "One of the key challenges in predicting turbine blade fatigue life is the inherent complexity of failure mechanisms and the microscopic scale of crack initiation, which make defect detection challenging.",
+  "The RSL method addresses the limitations of traditional approaches by generating interpretable predictive formulas that are aligned with physical laws and principles.",
+  "The incorporation of logical constraints and deep reinforcement learning in the RSL framework significantly improves the efficiency and performance of the symbolic regression process.",
+  "The RSL method demonstrates the potential of combining symbolic regression and deep reinforcement learning to derive accurate, interpretable, and physically meaningful predictive models for critical engineering applications.",
+  "The RSL framework offers a novel approach for advancing research on the fatigue life prediction of critical components in aircraft engines.",
+  "The paper highlights the importance of accurate and efficient prediction of turbine blade fatigue life for ensuring the safety and reliability of aircraft engines.",
+  "The RSL method's ability to generate interpretable formulas that capture the intrinsic relationship between material properties and fatigue life is a key advantage over traditional black-box machine learning models."
+]
