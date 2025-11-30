@@ -1,0 +1,1 @@
+This paper proposes a deep learning-based method called Airfoil GAN to encode and synthesize novel airfoil designs for aerodynamic shape optimization. The model learns a low-dimensional latent representation of existing airfoils and uses it to generate new airfoil shapes, some of which possess competitive or even better aerodynamic properties compared to the training data.
