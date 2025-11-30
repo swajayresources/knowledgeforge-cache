@@ -1,0 +1,17 @@
+[
+  "The coupled BEM-CFD model was used to conduct simulations of single, double, and triple turbine arrangements.",
+  "Wake recovery to free-stream conditions was found to be independent of flow velocity.",
+  "Maximizing the longitudinal spacing between a longitudinally aligned pair of turbines significantly improved the performance of the downstream turbine.",
+  "Maintaining a lateral spacing of 2 diameters or greater between turbines increased the potential for flow acceleration between them, which could improve the performance of a downstream device.",
+  "The most benefit from flow acceleration between turbines was gained by minimizing the longitudinal spacing between the two rows of devices.",
+  "For a small lateral spacing (3 diameters or less), the performance of the downstream device was compromised.",
+  "Based on the observed trends for two and three turbine arrangements, the overall performance of a 14 turbine staggered array was improved by over 10% compared to a regular staggered configuration.",
+  "The computational efficiency of the BEM-CFD model allowed it to simulate larger numbers of turbine devices in an array, unlike more detailed transient CFD simulations.",
+  "The minimum velocity observed downstream of a single turbine was between 37.8% and 39.3% of the inlet velocity, occurring 2.0 diameters downstream.",
+  "The wake velocity recovered to around 92% of the inlet velocity by 40 diameters downstream of a single turbine.",
+  "For a longitudinally aligned pair of turbines, the power output of the downstream turbine improved from 29.3% to 82.8% of the upstream turbine as the longitudinal spacing increased from 10 to 40 diameters.",
+  "With a lateral spacing of 2.0 diameters or less between a pair of turbines, the flow recovery between them was hindered, resulting in velocities around 91% of the freestream 40 diameters downstream.",
+  "Increasing the lateral spacing between a pair of turbines to 4.0 diameters or more led to flow acceleration between them, with velocities up to 4% higher than freestream 40 diameters downstream.",
+  "The turbulence intensity was greatest where the lateral spacing was small (1.5 diameters) but the longitudinal spacing was large (10 diameters).",
+  "The BEM-CFD approach used in this study fails to resolve any transient flow features due to the time-averaged representation of the blade forces."
+]
