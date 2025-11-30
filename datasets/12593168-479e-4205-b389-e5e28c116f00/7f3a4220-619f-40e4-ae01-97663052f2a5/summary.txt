@@ -1,0 +1,1 @@
+This paper describes the design, fabrication, and testing of a high-efficiency centrifugal compressor stage for rotorcraft applications. The compressor was designed to achieve high pressure ratio and efficiency while reducing the maximum diameter, and the results of the initial testing are presented along with a detailed post-test analysis.
