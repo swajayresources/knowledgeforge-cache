@@ -1,0 +1,1 @@
+This paper discusses the fundamental mechanisms that influence the estimation of heat transfer to gas turbine blades, including the complex flow patterns, stagnation effects, curvature effects, and turbulence effects. It highlights the need for further basic research to improve the capability for predicting gas-side heat transfer on turbine blades and vanes.
