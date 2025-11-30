@@ -1,0 +1,15 @@
+{
+  "paper_id": "99d6d661-5c46-41df-aa64-6d083d47a9b5",
+  "title": "Using Computer Vision Techniques for Moving Poster Design",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/99d6d661-5c46-41df-aa64-6d083d47a9b5/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/99d6d661-5c46-41df-aa64-6d083d47a9b5/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/99d6d661-5c46-41df-aa64-6d083d47a9b5/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/99d6d661-5c46-41df-aa64-6d083d47a9b5/keywords.json"
+  ]
+}
