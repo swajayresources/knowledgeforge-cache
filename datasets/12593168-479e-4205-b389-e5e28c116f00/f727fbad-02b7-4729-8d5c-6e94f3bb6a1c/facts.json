@@ -1,0 +1,18 @@
+[
+  "VKI Lecture Series 1999-2000 Aero-Thermal Performance of Internal Cooling Systems in Turbomachines NUMERICAL SIMULATION OF NON-ROTATING AND ROTATING COOLANT CHANNEL FLOW FIELDS Parti David L",
+  "Contents Page 1",
+  "Introduction 3 2",
+  "Overview of Glenn-HT Code 5 2",
+  "Overview 5 2",
+  "Governing Equations 5 2",
+  "Navier-Stokes Equations 5 2",
+  "Formulation for Rotating Reference Frame 7 2",
+  "Turbulence Model 8 2",
+  "Boundary Conditions 9 2",
+  "Time Stepping Scheme 10 2",
+  "Convergence Acceleration 10 2",
+  "Local Time Stepping 10 2",
+  "Implicit Residual Smoothing 10 2",
+  "Multigrid 11 3",
+  "Below we present the dimensionless equations describing the turbulence in tensor notation"
+]
