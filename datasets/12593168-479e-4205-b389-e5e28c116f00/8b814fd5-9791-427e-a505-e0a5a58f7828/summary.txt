@@ -1,0 +1,1 @@
+This paper investigates compressor-blade vibration and performance in a J47-23 turbojet engine under conditions of rotating stall. It measures blade vibration using strain gages and rotating stall using hot-wire anemometers, and presents compressor performance data under different operating conditions.
