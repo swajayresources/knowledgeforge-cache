@@ -1,0 +1,16 @@
+[
+  "com ScienceDirect Procedia CIRP 00 (2024) 000\u2013000 www",
+  "com/locate/procedia 18th CIRP Conference on Intelligent Computation in Manufacturing Engineering Physics-Informed Machine Learning for Smart Additive Manufacturing Rahul Sharmaa,b, Maziar Raissic, Y",
+  "of Mechanical and Aerospace Engineering, Rutgers University-New Brunswick, Piscataway, NJ 08854, USA b New Jersey Advanced Manufacturing Institute, Rutgers University-New Brunswick, Piscataway, NJ 08854, USA C Dept",
+  "of Mathematics, University of California, Riverside, CA 92521, USA * Corresponding author",
+  ": +1-848-445-2225; fax: +1-732-445-3124",
+  "\u00a9 2024 The Authors",
+  "org/licenses/by-nc-nd/4",
+  "0) Peer-review under responsibility of the scientific committee of the 18th CIRP Conference on Intelligent Computation in Manufacturing Engineering, 10-12 July, Gulf of Naples, Italy Keywords: Physics-informed machine learning; Additive manufacturing; Laser metal deposition; Smart manufacturing 1",
+  "through automatic differentiation (2)",
+  "Differing from traditional deep introduced a new paradigm that leverages deep learning for learning frameworks, PIML models can often be developed solving partial differential equations (PDE) (1)",
+  "Furthermore, with the 2212-8271 \u00a9 2024 The Authors",
+  "0) Peer-review under responsibility of the scientific committee of the 18th CIRP Conference on Intelligent Computation in Manufacturing Engineering, 10-12 July, Gulf of Naples, Italy 2 Sharma et al",
+  "/ Procedia CIRP 00 (2024) 000\u2013000 advent of GPUs, these models can be trained significantly faster including manufacturing (12,13), but very few discussed than conventional physics-based simulations",
+  "The capability of PINN to accurately predict the velocity technologies, metal additive manufacturing (AM) has been and pressure field within the melt pool by using only the widely popular due to its unique ability to fabricate components temperature training data has been investigated (14)"
+]
