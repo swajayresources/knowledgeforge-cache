@@ -1,0 +1,17 @@
+[
+  "The nanowires were grown by molecular beam epitaxy using the vapor-liquid-solid growth mode with gold catalyst particles on a GaAs(111)B substrate.",
+  "The (In,Ga)As core nanowires were grown at a high temperature of around 500\u00b0C, while the (Ga,Mn)As shells were deposited at a much lower temperature of 220\u00b0C.",
+  "The (In,Ga)As core nanowires have a diameter of 70-100 nm and a length of up to 1.6 micrometers.",
+  "The nominal indium content in the (In,Ga)As core is around 13%, but the actual concentration is likely lower at around 10%.",
+  "The (Ga,Mn)As shell has a thickness of around 12 nanometers and a manganese content of approximately 5%.",
+  "High-resolution transmission electron microscopy and Raman scattering measurements confirm that both the (In,Ga)As core and (Ga,Mn)As shell have a wurtzite crystal structure.",
+  "The (Ga,Mn)As shell exhibits ferromagnetic coupling at temperatures above 33 K, but the overall magnetic behavior is superparamagnetic due to the material being in a blocked state below around 17 K.",
+  "The growth of the (Ga,Mn)As shell at low temperature (220\u00b0C) is crucial for achieving the high manganese content necessary for ferromagnetism, as higher growth temperatures limit the manganese incorporation.",
+  "The growth rate of the (In,Ga)As nanowires is about 5 times faster than the growth rate of planar (In,Ga)As layers under the same flux conditions.",
+  "A (Ga,Mn)As layer also grows in between the nanowires during the shell deposition, with a thickness of up to 70 nm.",
+  "Magnetic measurements on the nanowires were performed after transferring them to a diamagnetic substrate to separate the nanowire signal from the magnetic contributions of the original substrate and other contaminants.",
+  "The absence of the GaAs-like LO phonon mode in the Raman spectra indicates the high quality of the (In,Ga)As nanowire cores, with minimal structural defects.",
+  "The shift in the TO phonon mode frequency in the Raman spectra is used to estimate the indium content in the (In,Ga)As cores as around 12 \u00b1 4%.",
+  "The presence of a shoulder in the Raman spectra at 274.5 cm^-1 is attributed to a hole-concentration-induced coupled plasmon-LO-phonon mode, indicating a hole concentration of around 3x10^19 cm^-3 in the (Ga,Mn)As shell.",
+  "The wurtzite crystal structure of the nanowires is different from the typical zinc-blende structure observed in planar layers of these materials, opening up new possibilities for device applications."
+]
