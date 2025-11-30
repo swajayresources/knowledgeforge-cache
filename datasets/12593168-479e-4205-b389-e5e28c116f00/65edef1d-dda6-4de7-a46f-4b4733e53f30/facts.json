@@ -1,0 +1,12 @@
+[
+  "Industry 4.0 is the fourth wave of technological advancement, introducing new digital technologies that transform industrial production.",
+  "Smart manufacturing integrates manufacturing assets with sensors, computing platforms, communication technology, data-intensive modeling, control, simulation, and predictive engineering.",
+  "The digital thread in smart manufacturing encompasses design, manufacturing, and product support operations driven by a digital flow of technical data and information.",
+  "Cyber threats to smart manufacturing can be motivated by espionage, financial gain, or other reasons to compromise data confidentiality, integrity, and availability.",
+  "NIST has established the Cybersecurity Framework (CSF) to help manufacturing entities enhance the security of their infrastructure.",
+  "Additive Layer Manufacturing (ALM) faces the challenge of intellectual property protection when outsourcing production, which can increase the attack surface.",
+  "Cloud manufacturing aims to enable full sharing, circulation, high utilization, and on-demand use of various manufacturing resources and capabilities.",
+  "Health-CPS is a cyber-physical system for patient-centric healthcare applications and services, built on cloud and big data analytics technologies.",
+  "Remote attestation is a key mechanism to verify the integrity of a system's software configuration and detect unintended or malicious modifications.",
+  "Hierarchical privacy preservation mechanisms are proposed to ensure the security of sensitive data in cloud manufacturing and health-CPS applications."
+]
