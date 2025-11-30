@@ -1,0 +1,12 @@
+[
+  "Single crystal nickel base superalloy turbine blades are being utilized in rocket engine turbopumps and turbine engines due to their superior creep, stress rupture, melt resistance, and thermomechanical fatigue capabilities over polycrystalline alloys.",
+  "The most widely used single crystal nickel base turbine blade superalloys are PWA 1480/1493 and PWA 1484, which play an important role in commercial, military, and space propulsion systems.",
+  "Crystallographic crack growth along (111) planes under mixed mode loading can be an order of magnitude faster than under pure mode I loading, which has important implications for fretting fatigue.",
+  "Strain-controlled low-cycle fatigue tests on PWA1480/1493 single crystal specimens showed a wide scatter in the data, with poor correlation for a power law fit.",
+  "Plotting the maximum shear stress amplitude (\u0394\u03c4Max) against cycles to failure showed a good correlation for a power law fit for the PWA1480/1493 material at 1200\u00b0F.",
+  "Many SSME turbine blades have failed during testing due to fretting/galling fatigue cracks in the attachment regions and the initiation and propagation of fatigue cracks from the blade tip leading edge.",
+  "For the SSME turbine blades, a secondary orientation of \u03b2 = 45 \u00b1 15 degrees was found to be associated with tip cracks that either arrested after some growth or did not initiate at all.",
+  "The finite element model of the SSME turbine blade was constructed from a large 3D cyclic symmetry model and accounted for 297 different primary and secondary crystal orientation combinations.",
+  "The finite element model used ANSYS SOLID45 elements and included the first and second stage blades, retainers, interstage spacer, disk and shaft, and disk covers.",
+  "The finite element analysis showed that fretting stresses at the blade attachment region vary significantly as a function of crystal orientation."
+]
