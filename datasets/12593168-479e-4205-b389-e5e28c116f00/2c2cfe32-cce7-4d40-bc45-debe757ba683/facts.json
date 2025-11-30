@@ -1,0 +1,17 @@
+[
+  "Effects of blockage, arrangement, and channel dynamics on performance of turbines in a tidal array Xianliang Gong,1 Ye Li,1,a) and Zhiliang Lin1 School of Naval Architecture, Ocean & Civil Engineering, Shanghai Jiao Tong University, Shanghai 200240, China (Dated: 19 October 2018) The performance and economics of turbines in a tidal array are largely dependent on the power per turbine, and so approaches that can increase this power are crucial for the development of tidal energy",
+  "1 8102 naJ 6 ]nyd-ulf",
+  "scisyhp[ 3v46300",
+  "1171:viXra I",
+  "1 The power lost to drag, the power lost to the array, and the power available for the array are all measures of array performance that are extremely important in predicting the power potential of a chosen site",
+  "For simplicity, a constant flow has normally been assumed in such studies,2\u20138 which have made great progress in guiding the design of tidal arrays",
+  "Garrett and Cummins2 (hereinafter GC07) investigated the effects of blockage on power coefficients and turbine efficiency for arrays spanning the whole channel width",
+  "They showed that blockage effects increase the maximum power coefficient by (1\u2212B)\u22122, where B is the blockageratio",
+  "Houlsby, Draper,andOldfield3 andWhelan, Graham,andPeiro\u00b44 considered free-surface effects, assuming static-pressure conditions",
+  "9 Besidesblockageeffects, turbineperformancecanalsobenefitgreatlyfromanappropriate arrangement of the turbines",
+  "Nishino and Willden5 (hereinafter NW12) derived a two-scale coupled model to measure the performance of partial arrays by introducing the concept of scale separation between the flow around each device and the flow around the array",
+  "Numerical simulations9 and laboratory experiments10 have given similar results",
+  "Cooke, Willden, and Byrne8 used a three-scale model to describe a partial array containing many smaller arrays",
+  "11 modeled a two-dimensional array that partially 2 block the channel in both the lateral and vertical directions, showing further benefits of an appropriate arrangement",
+  "Draper and Nishino7 modeled the dynamics of two-row arrays in the streamwise direction and concluded that arranging turbines in one row is preferable to arranging them in two rows"
+]
