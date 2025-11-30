@@ -1,0 +1,17 @@
+[
+  "The paper presents a new, open-source numerical tool to compute Brownian coating and substrate thermal noise for mirrors with single-layer, thin, reflective coatings.",
+  "The tool uses finite-element methods, adaptive mesh refinement, and parallel processing to resolve the thin coating and handle both amorphous and anisotropic crystalline materials.",
+  "For the specific case considered, treating the crystalline AlGaAs coating as a cubic crystal increases the Brownian thermal noise by about 3% compared to modeling it as an effective isotropic material.",
+  "The numerical results for amorphous coatings agree with approximate analytical solutions, capturing expected effects from edge and coating thickness.",
+  "The authors estimate the numerical uncertainty in the coating energy calculation to be approximately 0.1%.",
+  "Running the calculations on hundreds of compute cores enabled higher resolutions by increasing the total available memory.",
+  "The tool is designed to be flexible enough to incorporate both amorphous and crystalline materials, helping to understand and reduce Brownian coating noise in future gravitational wave detectors.",
+  "Thermal noise is also a limiting factor in other applications like atomic clocks, so the numerical methods developed here could be useful beyond gravitational wave detection.",
+  "The authors note that the method can be extended in the future to handle multi-layer coatings and incorporate experimental measurements of independent loss angles for crystalline materials.",
+  "The paper's primary motivation is to improve the sensitivity of second-generation gravitational wave detectors like Advanced LIGO and third-generation detectors.",
+  "Brownian coating thermal noise is one of the most important noise sources limiting the sensitivity of Advanced LIGO in its most sensitive frequency band around 100 Hz.",
+  "The authors use the same mirror dimensions, coating thickness, laser beam width, temperature, and elastic properties as a previous experimental study by Cole et al. to facilitate comparison.",
+  "The numerical tool solves the auxiliary elastic problem using a quasistatic approximation, where the oscillating applied force is replaced with a static force.",
+  "The fluctuation-dissipation theorem relates the dissipated power in the auxiliary elastic problem to the spectral density of the mirror's thermal fluctuations.",
+  "Existing thermal noise models typically treat the elastic properties of materials isotropically, which is appropriate for amorphous materials but not for crystalline materials."
+]
