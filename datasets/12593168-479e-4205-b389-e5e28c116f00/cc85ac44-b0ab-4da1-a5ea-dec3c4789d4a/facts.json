@@ -1,0 +1,17 @@
+[
+  "The global accretion rate density onto halos is substantially higher than the accretion rate onto galaxies, indicating most gas accreting onto halos never participates in star formation.",
+  "At high redshift (z~4), the wind recycling accretion rate density is about an order of magnitude lower than the first-time accretion rate density onto galaxies.",
+  "The importance of wind recycling increases over time, and by z=0 it rivals first-time accretion, though first-time accretion still dominates the growth of halos by about 1 dex.",
+  "At high redshift, most stars form from gas accreted for the first time, but the importance of wind recycling increases with decreasing redshift, dominating the global star formation rate density after z=1.7.",
+  "Equilibrium models find the gas recycling time-scale decreases with increasing halo mass and increasing redshift, scaling as M_halo^-0.45.",
+  "Observations show the gas and baryon fractions of galaxy groups are substantially below the cosmic mean, whereas clusters have fractions closer to the cosmic mean, due to feedback removing gas from group-sized halos.",
+  "The virial temperature of a halo scales as T_vir \u2248 3.0 x 10^5 K (M_halo/10^12 M_sun)^(2/3) (1+z).",
+  "The cooling time of gas is inversely proportional to its density, t_cool \u221d 1/\u03c1, because the cooling rate depends on the number densities of the colliding particle species.",
+  "Wind recycling refers to gas reaching larger distances in the halo before rejoining the galaxy, as opposed to galactic fountains where the gas stays within the halo.",
+  "Different hydrodynamical simulations show varying results on the importance of wind recycling, with some finding it subdominant and others finding it dominant, due to differences in the treatment of sub-grid feedback.",
+  "Feedback can both eject gas from galaxies ('ejective' feedback) and prevent gas from accreting in the first place ('preventive' feedback), with implications for the availability of gas to feed galaxies at low redshift.",
+  "In the absence of galactic winds, most baryons remain 'locked up' in relatively low-mass galaxies at high redshift, but can be ejected or prevented from accreting and then feed galaxies at low redshift.",
+  "The baryon fraction decreases towards lower halo masses, as stellar feedback can more easily expel gas from the halo.",
+  "Higher density gas cools more rapidly, with the cooling time scaling as t_cool \u221d 1/\u03c1.",
+  "The difference between 'wind recycling' and 'galactic fountains' is that wind recycling involves gas reaching larger distances in the halo before rejoining the galaxy."
+]
