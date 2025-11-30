@@ -1,0 +1,17 @@
+[
+  "The AEAD system in JET comprises two arrays of four toroidally spaced antennas (eight in total) that can excite a spectrum of toroidal mode numbers up to n \u2264 20.",
+  "The probability of resonance detection decreases as the plasma-antenna separation increases, from ~62% for separations around 15 cm to ~38% for separations around 10 cm or more.",
+  "The measured damping rate of the low-frequency AE mode increased with increasing plasma-antenna separation, from |\u03b3/\u03c90| \u2248 0.2% at 15 cm to |\u03b3/\u03c90| \u2248 1.2% at 10 cm, while the high-frequency mode had a consistent damping rate of |\u03b3/\u03c90| \u2248 0.4%.",
+  "The computational modeling using CASTOR indicated that the high-frequency mode was an n=0 Global Alfv\u00e9n Eigenmode (GAE) and the low-frequency mode was likely an n=2 Toroidal Alfv\u00e9n Eigenmode (TAE).",
+  "In the transition from limiter to X-point configuration, the high-frequency AE mode was detected throughout, but its damping rate increased, while the low-frequency mode became unidentifiable.",
+  "The computational results showed that the antenna-driven mode energy decreased with increasing plasma-antenna separation, but the mode damping rate did not change for a given magnetic configuration.",
+  "The studied discharges had a toroidal magnetic field of 3 T, plasma current of 1.7 MA, central electron density of ~3.8x10^19 m^-3, and central electron temperature of ~1.5 keV.",
+  "Decreasing the plasma-antenna separation from ~15 cm to ~10 cm improved the plasma-antenna coupling and AE excitation, but also increased the distance between the antenna and some magnetic probes, potentially making AE detection more difficult.",
+  "The computational modeling in CASTOR included up to 7 poloidal harmonics for the plasma and 9 vacuum harmonics, with a normalized resistivity of \u03b7\u02c6 = 1.6x10^-9.",
+  "The CASTOR code modeled an external antenna in the vacuum region between the plasma and the wall, and scanned the antenna frequency to diagnose the plasma response for a given toroidal mode number.",
+  "The probability of resonance detection was higher in limiter configuration (62%) compared to X-point configuration (38%), suggesting reduced plasma-antenna coupling in the X-point configuration.",
+  "The transition from limiter to X-point configuration was found to increase the damping rate of AEs by approximately threefold in previous JET studies.",
+  "Inspired by JET experiments, two poloidally separated antennas were installed at one toroidal location in Alcator C-Mod to actively probe stable AEs, with lower damping rates measured in X-point compared to limiter configuration.",
+  "The computational work by Dvornova et al. accurately modeled the plasma-antenna coupling and explained some of the experimental observations, motivating the current study.",
+  "The CASTOR code was recently updated by the authors to allow the toroidal mode number n=0, which caused divergences in previous versions."
+]
