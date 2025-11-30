@@ -1,0 +1,17 @@
+[
+  "The gas turbine diagnostic system is designed for simulation and control of gas turbine units, to protect and perform simulation of automatic control functions, and to adjust and stabilize process variables in different operating modes.",
+  "The mathematical model of the technological process reflects the main functionality and dependency between the most essential characteristics of the process and its key parameters and entrance conditions.",
+  "The simulation model has a three-level hierarchy structure: High Level (SCADA WinCC SIEMENS), Middle Level (PLC TRICONEX 3000 Trident V9), and Lower Level (VISSIM simulation environment).",
+  "The Lower Level of the simulation model is based on VISSIM 5.0 software and is used to simulate all operating modes of the Gas Turbine Compressor Unit (GTCU) and field equipment.",
+  "The data used in the simulation model was analyzed and gathered from a real working Gas-Turbine Unit GTK 10i located at the Chizha compressor station.",
+  "Transfer functions were identified to create an exact simulation model of the GTCU based on the dependencies between different parameters of the turbine.",
+  "The key parameters plotted from the simulation results were the speed of the High Power Turbine, the speed of the Low Power Turbine, and the turbine exhaust temperature.",
+  "The simulation model can be used to train compressor station personnel on the main principles of operation of the microprocessor-based Automatic Control System (ACS) for the GTCU.",
+  "Testing the ACS GTCU control program on the simulation software allows verification of the control algorithm performance and testing of the SCADA system functionality.",
+  "The Lower Level of the software model simulates pressure and temperature sensors, the main and auxiliary Lube and Seal oil pumps, emergency Lube oil pumps, the liquid cooling supply system fans, and roof fans.",
+  "The construction of the mathematical model based on measurement of inputs and outputs is an approximation of the functional dependence, which is necessary to create an adequate model of the gas turbine.",
+  "Identification tools are used to find the transfer functions between input and output parameters, which allows the creation of an accurate simulation model of the gas turbine.",
+  "The gas turbine diagnostic system is designed to test and optimize software for gas turbine automation systems, study station personnel, and perform diagnostics and prediction tasks to analyze the efficiency of the gas turbine.",
+  "The modular simulation software has a three-level hierarchy structure, with the Lower Level using VISSIM simulation environment to model all operating modes of the GTCU and field equipment.",
+  "The data used in the simulation model was gathered from a real working Gas-Turbine Unit GTK 10i located at the Chizha compressor station."
+]
