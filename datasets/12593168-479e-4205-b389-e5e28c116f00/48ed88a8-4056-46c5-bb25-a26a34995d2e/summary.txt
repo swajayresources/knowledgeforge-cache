@@ -1,0 +1,1 @@
+This paper presents an experimental study of heat transfer in the internal cooling passages of a cooled radial turbine rotor. The study aimed to measure and analyze the heat transfer characteristics and provide data to evaluate and improve CFD models of internal coolant flows.
