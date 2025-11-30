@@ -1,0 +1,17 @@
+[
+  "The proposed lattice unit cell is designed with a pyramidal geometry to provide high structural rigidity and efficient material usage.",
+  "The lattice unit cell is fully parameterized based on the dimensions of the bounding box (A, B, C) and the thickness of the lattice struts (T), as well as aspect ratios (\u03b3x, \u03b3y, \u03b3z).",
+  "The structural behavior of the lattice unit cell is analyzed using a rigidity model and 3D unidirectional beam elements, with the results validated through FEM simulations.",
+  "The pyramidal lattice design eliminates the need for support structures during 3D printing, simplifying the manufacturing process.",
+  "In a case study involving a plastic part with a defined bounding box, the proposed lattice structure demonstrated 32-39% higher structural efficiency (ratio of maximum displacement to mass) compared to cross and hexagonal lattice patterns.",
+  "The structural efficiency of the proposed lattice was particularly improved under load scenarios resulting in larger displacements, highlighting its suitability for applications requiring high strength-to-weight ratios.",
+  "The FEM analysis used second-order tetrahedral elements with a size of 0.5 mm for the lattice structures and 3 mm for the exterior plastic part, with node-to-node coupling at the interface.",
+  "The plastic material used for the lattice structures in the case study was PETG, with an elastic modulus of 2,800 MPa and a Poisson's ratio of 0.33.",
+  "The parametric and adaptive nature of the proposed lattice design, combined with its high structural efficiency and support-free manufacturability, make it a promising candidate for lightweight and high-performance applications in various engineering fields.",
+  "Challenges such as retraction, beam deflection due to thermal effects, and material deposition accuracy must still be addressed to ensure the reliable manufacturing of the proposed lattice structure using 3D additive manufacturing technologies.",
+  "The analytical model employed, rooted in the rigidity model of unidirectional 3D beam elements, provides a robust framework for understanding the structural behavior of the lattice unit cell.",
+  "The case study involved a plastic part with defined bounding box dimensions and two commonly used lattice patterns (cross and hexagonal) for comparison.",
+  "The structural efficiency parameter, defined as the ratio between the maximum displacements and mass, was used to highlight the optimized use of material in the proposed lattice design.",
+  "The relative consistency in the structural efficiency across different load scenarios and lattice geometries emphasized the reliability and versatility of the proposed lattice structure.",
+  "The design of the proposed lattice accounts for manufacturing challenges by incorporating relatively larger cross-sections and a simplified, support-free geometry to reduce complexity."
+]
