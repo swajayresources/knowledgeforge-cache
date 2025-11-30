@@ -1,0 +1,17 @@
+[
+  "Stieven1 Erb F",
+  "Lins1,\u2217 Edilma P",
+  "Oliveira2 1 Faculty of Mechanical Engineering, Federal University of Para\u00b4 Av",
+  "Augusto Correa, No 1 - Bel\u00b4em, PA, 66075-900, Brazil 2Faculty of Mechanical Engineering, Federal University of South and Southeast of Para\u00b4 Folha 17, Quadra 04, Lote Especial, Nova Maraba\u00b4, Marab\u00b4a, PA, 68505-080, Brazil \u2217 Corresponding author: E",
+  "br) July 31, 2020 Abstract In this paper is proposed an evaluation of ten metaheuristic optimization algorithms applied on the inverse optimization of the Interfacial Heat Transfer Coefficient (IHTC) coupled on the solidifi- cation phenomenon",
+  "It was considered an upward directional solidification system for Al-7wt",
+  "Based on average, quantiles 95% and 5%, kurtosis, average iterations and absolute errorsofthemetaheuristicmethods,inrelationtoMCMCresults,theFlowerPollinationAlgorithm (FPA)andMoth-FlameOptimization(MFO)presentedthemostappropriateresults,outperforming theothermethodsinthisparticularphenomenon,basedonthesemetrics",
+  "Keywords\u2014Castingprocessoptimization,Stochasticmethodapplication,Nature-inspiredalgorithms,A444",
+  "0 alloy, Permanent mold casting 1 Introduction Manyproblemsinsciencedealwithparametersuncertainty",
+  "In this group of algorithms, it is worth pointing out widely used ones to predict parameters, such as Simulated Annealing [27], Ant Colony Optimization [17, 30], Cuckoo Search [64, 13], Wind Driven Algorithm [5, 2], Tree-Seed Algorithm [26, 7], Water Wave Optimization [67, 45], Tree-Growth Algorithm [12], Sailfish Optimizer [44] and Manta Ray Foraging Optimization [66]",
+  "Due to easy of implementation, exploration and exploitation search, convergence speed and operational versatility, these algorithmshavebecomepopularinparameterestimationinseveralapplications,suchascrackpropagation[11], design of heat exchangers [15], photovoltaic systems [53], power control of wind turbine [6], strategic aircraft deconfliction [14], optimal power flow problems [3], hybrid renewable systems [41] and others",
+  "By No Free Lunch (NFL) theorems [63, 24], originally established for search in [56] and for optimization in [57], it is known that no optimization algorithm is better than others over all possible functions and real-world problems",
+  "However,ssremindedby[31],despiteofsomeincorrectideasaboutNFL,theoriginalstatementdoes notignorethefactthatthereissomealgorithmAthatcanoutperformB,onceAcouldbespecializedtotheset ofproblemsanalyzedinthecase",
+  "NFLencouragesresearcherstoidentifythisspecialization[61]",
+  "Onecandothat 1 0202 luJ 81 ]PS"
+]
