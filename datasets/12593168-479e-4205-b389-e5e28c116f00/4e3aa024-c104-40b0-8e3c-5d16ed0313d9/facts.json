@@ -1,0 +1,17 @@
+[
+  "The turbine blade is a hollow blade made of single-crystal PWA 1480 superalloy.",
+  "The blade span is along the [001] crystallographic direction (primary orientation) with a maximum allowable angular deviation of 10 degrees.",
+  "The thermal gradient through the blade thickness is much higher (875 \u00b0C/cm) than the gradient along the span.",
+  "The finite element model consisted of 959 eight-node isoparametric brick elements and 1575 nodes.",
+  "The thermal boundary conditions incorporated conduction through the thickness, convection between the blade surface and the flow of hot-cold gases, and convection along the surface of the hollow core section.",
+  "The mechanical loads included gas pressures and centrifugal forces produced by the blade rotational speed of 37,000 rpm.",
+  "The highest stresses were observed at the 45 degree secondary orientation.",
+  "The influence of the primary orientation angle (0-10 degrees) was much lower than the influence of the secondary orientation.",
+  "Stress concentrations were observed at the airfoil base near the leading edge, the shank leading and trailing edges below the platform, and the shank base center section.",
+  "Hardware evidence showed that these critical locations experienced cracking and other durability problems.",
+  "The effect of crystal orientation on the stresses under predominantly mechanical loading was minimal.",
+  "The current analysis was limited to an elastic stress analysis, restricting the applicability to inelastic conditions.",
+  "This study aimed to further investigate the crystal orientation effects on the elastic response of the SSME turbine blade under actual operating conditions.",
+  "The main difference from previous investigations was the use of actual operating conditions rather than simulated conditions.",
+  "The study confirmed the previous findings that the influence of secondary orientation is more significant than the primary orientation."
+]
