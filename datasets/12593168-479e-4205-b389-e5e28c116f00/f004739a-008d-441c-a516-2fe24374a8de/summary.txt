@@ -1,0 +1,1 @@
+This paper investigates the flow patterns and heat transfer around six in-line circular cylinders at low Reynolds numbers. The study uses numerical simulations to analyze the effects of spacing ratio on the flow and heat transfer. The results show a transition in the flow and heat transfer at a spacing ratio of 3.6, leading to an enhancement of heat transfer up to 25%.
