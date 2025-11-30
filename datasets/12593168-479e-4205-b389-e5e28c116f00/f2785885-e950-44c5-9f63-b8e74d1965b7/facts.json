@@ -1,0 +1,17 @@
+[
+  "The Glenn-HT code is based on the TRAF3D code, an efficient computer code designed for simulations of flows in turbine cascades.",
+  "The code employs the full compressible Navier-Stokes equations and uses a multi-stage Runge-Kutta scheme to march in pseudo time.",
+  "The code utilizes multi-grid and implicit residual smoothing to accelerate convergence to steady state.",
+  "The k-\u03c9 turbulence model used in the code does not require the computation of the dimensionless wall distance y+, which is advantageous for complicated geometries.",
+  "The formulation for the rotating reference frame introduces additional source terms in the governing equations, but allows the grid system for the rotating geometry to be stationary.",
+  "The boundary conditions at the inlet specify the relative total temperature, relative total pressure, and inlet angle profiles, while at the exit the pressure is specified.",
+  "At walls, the normal pressure gradient is set to zero, and either the temperature or heat flux is specified, along with boundary conditions for the turbulence quantities k and \u03c9.",
+  "The Method of Weakest Descent (MWD) is used for automatic block merging, reducing the initial number of blocks by 50-90% while maintaining grid quality.",
+  "The MWD chooses which internal face to remove to minimize the number of disqualified faces, thus diminishing the set of available faces at the slowest rate.",
+  "The MWD is able to produce results near the expected minimum number of blocks, and repeated application increases the likelihood of realizing the actual minimum.",
+  "The Glenn-HT code has been applied to study flow and heat transfer in rectangular ducts with 180-degree turns, straight channels with ribs and bleed holes, and rotating channels with ribs and 180-degree turns.",
+  "The code uses local time stepping, implicit residual smoothing, and multigrid methods to accelerate convergence to the steady-state solution.",
+  "The discretization in the Glenn-HT code is formally second-order accurate, and artificial dissipation is added to prevent odd-even decoupling.",
+  "The code can handle grids with non-contiguous grid lines across branch cuts, in addition to contiguous multi-block grid systems.",
+  "The low-Reynolds number k-\u03c9 turbulence model used in the code can model flows involving separation and adverse pressure gradients."
+]
