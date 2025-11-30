@@ -1,0 +1,1 @@
+This paper presents the growth and characterization of all-wurtzite (In,Ga)As-(Ga,Mn)As core-shell nanowires using molecular beam epitaxy (MBE). The nanowires exhibit ferromagnetic coupling and superparamagnetic behavior, with a Mn content of 5% in the (Ga,Mn)As shell. The results demonstrate the potential of these nanowires for spintronics applications.
