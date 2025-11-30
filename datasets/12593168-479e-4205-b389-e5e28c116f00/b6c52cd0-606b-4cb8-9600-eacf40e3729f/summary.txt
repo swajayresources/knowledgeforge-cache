@@ -1,0 +1,1 @@
+This paper describes a wind tunnel test program that assessed the flow field of an underwing, dual-propulsion, pod-per-wing installation for a High-Speed Civil Transport (HSCT) during an engine compressor stall and inlet unstart. The objective was to acquire aerodynamic data to help design effective control systems to avoid and/or alleviate the effects of these transient events.
