@@ -1,0 +1,12 @@
+[
+  "The authors used a deformation approach to represent the blade geometry, starting from a given baseline design and encoding changes via optimization parameters.",
+  "Three independently deformable sections were used near the hub, mid-span, and shroud of the blade, with the in-between sections linearly interpolated.",
+  "The CMA-ES optimization used a population size of \u03bb=12 with \u03bc=4 parents and an initial step size of \u03c3=0.05, while the PSO used 12 particles with \u03c9=0.8, \u03c61=1.7, and \u03c62=1.4.",
+  "The best normalized efficiencies found were 1.0342 for the PSO and 1.0345 for the CMA-ES, but the resulting optimized blade geometries were quite different.",
+  "Using different random seed values for the CMA-ES optimization led to diverging results in the initial generations, but the final efficiency values were similar (1.0397, 1.0391, 1.0405).",
+  "Comparing CMA-ES runs with \u03bb=12 and \u03bb=24 evaluations per generation, the optimization progress in terms of actual evaluations was very similar.",
+  "Exploring 3 to 12 Hicks-Henne shape functions per deformable section, the authors found that a small number of 3-5 shape functions could already realize considerable efficiency improvements.",
+  "The authors' key finding is that the fitness landscape is highly multi-modal, with many local optima, making it challenging to obtain a representative optimized design.",
+  "The current study only investigated a single operating condition (cruise) and the rotor passage, without the downstream stator blade.",
+  "The authors expect that a more realistic scenario including multiple operating conditions and the stator blade would still exhibit a multi-modal fitness landscape, but potentially to a lesser extent."
+]
