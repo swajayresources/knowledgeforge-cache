@@ -1,0 +1,1 @@
+This paper revisits the problem of the growth of dense/cold gas in the cloud-crushing setup with radiative cooling. The authors perform 3D hydrodynamical simulations to study the discrepancy between two existing analytical criteria for the growth of cold gas due to radiative cooling in the cloud-crushing problem.
