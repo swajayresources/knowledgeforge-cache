@@ -1,0 +1,17 @@
+[
+  "The 10 MW blade of the AVATAR project was used in the present investigation.",
+  "The calculations were performed at a wind speed of 10.5 m/s and a rotational speed of 9.0218 rpm.",
+  "The CFD simulations were conducted using the FLOWer code with the URANS SST-k\u03c9 turbulence model.",
+  "A C-type mesh with 10.9 million cells was used, which was shown to be grid-independent based on the GCI study.",
+  "The lift coefficient (CL) of the 3D case showed a remarkable increase at the inner part of the blade (up to r/R = 0.4) compared to the 2D simulations.",
+  "The rotational augmentation of CL became smaller towards the middle and tip regions of the blade.",
+  "The XFOIL calculations consistently showed higher CL values compared to the FLOWer CFD results, especially at the inboard sections.",
+  "The 3D case exhibited a significantly smaller wake size and delayed separation at the inboard sections compared to the 2D case.",
+  "The radial flow development caused by the centrifugal and Coriolis forces reduced the pressure level on the suction side and increased the lift.",
+  "The FLOWer CFD results showed good agreement with the DTU EllipSys3D predictions for power and thrust.",
+  "The rotational effects were found to be airfoil-dependent, in addition to the dependency on the local solidity (c/r).",
+  "The grid convergence index (GCI) values for power and thrust were 0.003% and 0.0497%, respectively, indicating grid independence.",
+  "The present results agree with previous studies that the rotation decreases the pressure level on the suction side of the blade, which increases the lift coefficient.",
+  "The separation delay and wake size reduction observed in the 3D case contradict the findings of Sicot et al. (2008), which showed earlier separation in the rotating case.",
+  "The authors acknowledge the High Performance Computing Center Stuttgart (HLRS), the AVATAR project, the Indonesian Directorate General of Higher Education (DIKTI), and the members of the Aircraft Aerodynamics and Wind Energy research group at the IAG for their support."
+]
