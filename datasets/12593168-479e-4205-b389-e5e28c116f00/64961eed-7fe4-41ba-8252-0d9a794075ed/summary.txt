@@ -1,0 +1,1 @@
+This paper reports on an experimental study to investigate the effects of leading edge and downstream film cooling on turbine vane heat transfer. The study was conducted in a 2D linear cascade facility and measured heat transfer and pressure data for a turbine vane with various film cooling configurations.
