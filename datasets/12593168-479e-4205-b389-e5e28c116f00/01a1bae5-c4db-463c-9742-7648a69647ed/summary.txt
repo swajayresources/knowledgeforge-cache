@@ -1,0 +1,1 @@
+This paper proposes using an etalon, a Fabry-Perot optical resonator, to reduce coating thermal noise in optical interferometers like gravitational-wave detectors. The etalon has a few coating layers on the front surface and significantly more on the back surface, which helps separate the thermal fluctuations and reduce the overall noise level compared to a single mirror.
