@@ -1,0 +1,1 @@
+This paper uses contactless electroreflectance spectroscopy to determine the Fermi level position in insulating (Ga,Mn)N layers with Mn concentrations ranging from 0.1% to 10%. The results show strong mid-gap Fermi level pinning and negligible surface depletion, indicating (Ga,Mn)N is a promising insulating buffer material for nitride devices.
