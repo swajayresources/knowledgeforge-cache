@@ -1,0 +1,17 @@
+[
+  "The calculations were performed at the wind and rotational speeds of 10.5 m/s and 9.0218 rpm, respectively.",
+  "The pitch angle of the blade was 0.0\u00b0.",
+  "The authors used the URANS SST-k\u03c9 turbulence model in their CFD simulations.",
+  "The blade mesh had a C-type topology and was constructed using an automatic grid generator script.",
+  "The background, hub and nacelle, and shaft grids had 4.38 million, 0.69 million, and 1.08 million cells, respectively.",
+  "The grid convergence index (GCI) values for power and thrust were 0.003% and 0.0497%, respectively, indicating grid-converged results.",
+  "The 3D CFD results were compared with 2D calculations using both the FLOWer CFD code and the XFOIL boundary layer code.",
+  "The 3D lift coefficients showed a remarkable increase at the inner part of the blade (r/R < 0.4) compared to the 2D results.",
+  "The rotational effects were observed to be airfoil-dependent, in addition to their dependence on the local solidity (c/r).",
+  "The 3D simulations showed a significant reduction in the wake size and a delay in the separation point at the inboard blade section compared to the 2D case.",
+  "The centrifugal force was found to transport the separated flow at the near-hub region towards the middle part of the blade, reducing the pressure level on the suction side and increasing the lift coefficient.",
+  "The Coriolis force was observed to contribute to the delay in the separation point along the blade span.",
+  "The XFOIL calculations consistently showed higher lift coefficients compared to the FLOWer CFD results, which was attributed to the sensitivity of thick airfoils to the transition point location.",
+  "The authors validated their CFD setup by comparing the total power and thrust results with numerical results from other project partners, showing good agreement.",
+  "The authors acknowledged the High Performance Computing Center Stuttgart (HLRS) for the computational resources, the AVATAR project for the blade and validation data, and the Indonesian Directorate General of Higher Education (DIKTI) for the scholarship grant."
+]
