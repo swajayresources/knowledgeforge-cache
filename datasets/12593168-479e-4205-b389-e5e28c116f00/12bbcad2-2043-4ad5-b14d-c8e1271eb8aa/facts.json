@@ -1,0 +1,17 @@
+[
+  "The paper proposes an automatic workflow for assessing damage on gas turbine blades using deep learning on borescope video feeds.",
+  "The workflow uses instance segmentation with a Mask R-CNN network and a PointRend module for improved segmentation accuracy.",
+  "The workflow classifies five types of blade damage: casing, compressor-rotor, surface-damage, material-separation, and material-deformation.",
+  "104 images from borescope videos were manually labeled using polygons, with 89 used for training and 15 for testing.",
+  "The network was initialized with pre-trained weights from the COCO dataset.",
+  "The authors used mean average precision (mAP) and mean matched IoU at an IoU threshold of 0.5 to evaluate the instance segmentation performance.",
+  "The network performed better after 2000 training iterations compared to 500 iterations.",
+  "The authors tracked blades across video frames and plotted time series graphs showing the extent of different damage types as a fraction of the blade area for each blade.",
+  "A high-pass filtering and mask erosion step was added as a post-processing step to improve detection of small-scale surface damage.",
+  "The blade tracking algorithm assumed high frame rate relative to blade rotation speed and approximately horizontal blade travel.",
+  "The authors acknowledged potential human biases in the manual labeling of the training data.",
+  "The training dataset was relatively small compared to common computer vision benchmarks, but the authors noted this was sufficient due to the similarity of frames within a single video feed.",
+  "The authors found that the loss on the testing data increased after about 200 training iterations, suggesting overfitting, but the detection quality improved with more training.",
+  "The authors reported that the classification of defects on gas turbine blades presented from various sources is inconsistent and sometimes incomplete, leading to variability in practices.",
+  "The authors noted that the sentencing of an engine must be performed prudently but quickly to minimise downtime, as the cost of repairing damage can exceed $1 million for a single overhaul operation per engine."
+]
