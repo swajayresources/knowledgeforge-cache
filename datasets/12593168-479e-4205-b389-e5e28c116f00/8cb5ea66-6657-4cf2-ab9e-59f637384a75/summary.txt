@@ -1,0 +1,1 @@
+This paper reviews the near-field radiative heat transfer between multilayer hyperbolic metamaterials (mHMM). It discusses the formation of hyperbolic bands, the impact of ordering of the multilayer slabs, and the contribution of surface modes versus hyperbolic modes to the heat transfer. The paper compares the exact results with predictions from effective medium theory.
