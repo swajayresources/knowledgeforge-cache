@@ -1,0 +1,20 @@
+[
+  "The downstream sweep consumes power beyond the optimal tip-speed ratio",
+  "The downstream sweep determines the optimal tip-speed ratio",
+  "The upstream sweep contributes the most to power production",
+  "The downstream sweep performance degrades faster than upstream power generation",
+  "The tip-speed ratio affects the power generation and consumption in the upstream and downstream sweeps",
+  "The preset pitch angle affects the maximum angle of attack magnitude in the upstream and downstream sweeps",
+  "Induction modifies the nominal kinematics of cross-flow turbines",
+  "The analytical model describes the limiting case where in-rotor velocities are negligible",
+  "55 unique combinations of chord-to-radius ratio, preset pitch angle, and Reynolds number are studied",
+  "Three tip-speed ratios (\u03bb = 1.4, 2.4, and 3.4) are studied",
+  "Particle image velocimetry (PIV) is used to measure the flow fields",
+  "The Reynolds number is 5.5 \u00d7 10^4",
+  "The blockage ratio is 10.3%",
+  "The turbine solidity is 0.078",
+  "The NACA 0018 profile is used for the blade",
+  "The blade chord length is 4.06 cm",
+  "The blade span is 23.4 cm",
+  "The turbine radius is 8.2 cm to the quarter-chord mounting location"
+]
