@@ -1,0 +1,17 @@
+[
+  "The paper derives accurate formulas for calculating thermal fluctuations in multilayer interferometric coatings, taking into account light propagation inside the coating.",
+  "The authors use a transmission line model to describe the interferometric coating, consisting of alternating quarter-wavelength layers with different refractive indices.",
+  "The paper calculates the reflected wave phase as a function of small displacements of the boundaries between the coating layers.",
+  "The main contribution to the coating Brownian noise spectrum comes from the fluctuation displacements of the odd-numbered layers.",
+  "The paper's explicit calculations of coating Brownian noise give a slightly lower value of the spectral density compared to previous approximate methods, by about 5-17%.",
+  "The Khalili etalon is a double-mirror design where some of the coating layers are displaced to the rear surface of the mirror, which can potentially reduce the contribution of coating Brownian noise.",
+  "The paper states that its formulas can be applied to analyze coatings with non-quarter-wavelength layer thicknesses, such as those proposed to reduce thermal noise.",
+  "The numerical calculations in the paper use parameters for a Ta2O5/SiO2 coating on a fused silica substrate, with 20 Ta2O5 layers, 19 SiO2 layers, and a half-wavelength SiO2 cap layer.",
+  "The paper uses the Fluctuation-Dissipation Theorem to relate the spectral density of coating Brownian noise to the dissipated power when forces are applied to the layer positions.",
+  "The paper's approach provides a more accurate calculation of thermal noise in multilayer coatings compared to previous methods that assumed perfect reflection from the front surface.",
+  "The authors derive formulas for the reflected wave phase that account for the light propagation and reflections within the multilayer coating.",
+  "The paper's analysis shows that the contribution of even-numbered layer displacements to the reflected wave phase is negligible compared to the odd-numbered layers.",
+  "The paper's results suggest that the Khalili etalon design may be effective in reducing the contribution of coating Brownian noise to the overall noise spectrum.",
+  "The paper's formulas can be applied to analyze the thermal noise of coatings with non-quarter-wavelength layer thicknesses, which may be useful for designing coatings with reduced thermal noise.",
+  "The paper's approach provides a more detailed and accurate treatment of the light propagation within the multilayer coating, which is important for understanding the thermal noise mechanisms."
+]
