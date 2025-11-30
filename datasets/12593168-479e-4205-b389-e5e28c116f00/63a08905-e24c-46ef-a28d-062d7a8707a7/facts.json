@@ -1,0 +1,17 @@
+[
+  "The serpentine manipulator simulated in the paper has a 13-ft mast, 5 manipulator stages, a wrist, and a gripper end-effector.",
+  "The 3 rigid segments in stages 1-3 can bend in the pitch direction from 0-45 degrees.",
+  "The flexible couplings in stages 4 and 5 can bend in both pitch and yaw directions, with a pitch range of +/-30 degrees and a yaw range of +/-15 degrees.",
+  "The wrist has 2 degrees of freedom: roll (+/-180 degrees) and pitch (+/-60 degrees).",
+  "The workspace was discretized into a 21x28 ft. grid with 1 ft. spacing between points.",
+  "The evolutionary strategy used a population size of 1 and a mutation operator, with an exponentially decaying annealing factor for the mutation variance.",
+  "The authors were able to find inverse kinematic solutions that positioned the end-effector within 1 inch of each target grid point.",
+  "The co-evolution process resulted in a solution set with smooth motion, allowing for smooth trajectory generation and following.",
+  "The authors' method is the only practically implementable general-purpose approach for determining inverse kinematics in 3D for multi-linked hyper-redundant manipulators.",
+  "Prior work on hyper-redundant manipulators relied on simplifying assumptions or was limited to 2D planar manipulators.",
+  "The authors had to implement resets and alternate between co-evolving to reduce penalties and improve distances to handle configurations getting 'stuck' during co-evolution.",
+  "The authors used bi-linear interpolation of the cell vertex configurations to achieve continuous indexing into the lookup table for inverse kinematics.",
+  "The authors incorporated constraints such as joint angle bending restrictions, joint constraints within each stage, and requirements to stay off the hard stops and keep the manipulator above the end-effector.",
+  "The authors' approach is applicable for learning the inverse kinematics of a wide variety of hyper-redundant robot designs.",
+  "The inverse kinematic solution set obtained using the authors' approach is not unique, but possesses an observable smoothness of motion."
+]
