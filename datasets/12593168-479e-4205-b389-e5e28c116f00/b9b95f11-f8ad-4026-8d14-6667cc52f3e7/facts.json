@@ -1,0 +1,17 @@
+[
+  "The physical model includes heat transfer in the powder particle, chemical reaction on the particle surface, and mass transfer in the gases.",
+  "The temperature distribution in the powder particle is modeled using an integral approximate solution, with a second-degree polynomial function used to approximate the temperature profile.",
+  "Decreasing the laser pulse width from 350 ns to 300 ns increases the maximum surface temperature during the pulse from 1531.7 K to 1610.5 K.",
+  "Increasing the initial particle temperature from 293 K to 393 K increases the maximum surface temperature during the pulse from 1531.7 K to 1631.7 K.",
+  "The mass penetration depth, \u03b4_m, is used to model the mass transfer of TiCl4 in the gases and calculate the consumption rate of TiCl4 at the particle surface.",
+  "The deposition rate of TiN is calculated using Eq. (11), which relates the deposition rate to the reaction rate constant, the concentrations of the reactants, and the sticking coefficient of TiN.",
+  "The key parameters investigated include laser fluence (1688 J/m^2), laser pulse width (75 ns, 300 ns, 350 ns), initial particle temperature (293 K, 393 K), particle radius (11 \u03bcm), and total pressure in the reaction chamber (700 kPa).",
+  "The thickness of the deposited film initially increases as the laser pulse width decreases, but after a certain point, the lower sticking coefficient at higher surface temperatures starts to dominate, leading to a slower growth of the deposited film thickness.",
+  "Increasing the initial particle temperature from 293 K to 393 K leads to a higher maximum surface temperature during the laser pulse (1631.7 K vs. 1531.7 K) and a higher production rate of TiN, but the lower sticking coefficient at these higher temperatures results in a slower growth of the deposited film thickness.",
+  "The chemical reaction on the particle surface is described by the overall reaction: TiCl4(g) + 2H2(g) + N2(g) \u2192 TiN(s) + 4HCl(g).",
+  "The production rate of TiN is defined as the mass of TiN produced per unit area per unit time and is calculated using Eq. (9).",
+  "The sticking coefficient, \u03b3_TiN, is defined as the ratio of the mass of TiN that can be stuck on the particle surface to the total mass of TiN produced, and is calculated using Eq. (12).",
+  "The concentration of TiCl4 at the particle surface is obtained from the mass diffusion equation (Eq. 13) and the boundary conditions (Eqs. 45 and 46).",
+  "The thickness of the deposited film is obtained by iteratively solving for the consumption rate of TiCl4 and the deposition rate of TiN.",
+  "The laser energy absorbed by the particle surface is distributed between conduction into the powder grain and the chemical reaction."
+]
