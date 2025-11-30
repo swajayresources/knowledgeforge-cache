@@ -1,0 +1,17 @@
+[
+  "The cylindrical specimen used in the experiments was 16 cm long and made of commercial aluminum.",
+  "The actual length of the specimen considered in the calculations was 15.7 cm, which is the distance between the lower thermocouple and the upper base.",
+  "The thermal guard used was a hollow cylinder made of the same material as the specimen, with an outer diameter of 4 cm and an inner diameter of 2 cm.",
+  "The temperature was measured at two different positions in the specimen: one thermocouple was placed 2 mm from the lower base, and the other was placed at the upper base.",
+  "The heat source was applied at the lower base of the specimen, either using an electric resistive coil or a lighter.",
+  "The temperature data was recorded at 10-second intervals during the heating of the specimen, which lasted approximately 3 minutes.",
+  "The numerical method used a recurrence relation to solve the thermal transport equation in the cylindrical specimen, with the temperature measured by the lower thermocouple as the boundary condition.",
+  "The thermal diffusivity value that provided the best agreement between the calculated and experimentally measured temperatures at the upper base was 0.79 cm^2/s.",
+  "Repeated measurements on the same specimen yielded a thermal diffusivity value of (0.75 \u00b1 0.07) cm^2/s, which is in good agreement with values obtained in more controlled environments.",
+  "The numerical recurrence relation used in the calculations is relatively simple and can be implemented by undergraduate students on a personal computer.",
+  "The experimental setup has a low cost, allowing for the preparation of multiple replicas without excessive financial burden on the laboratory.",
+  "The method is suitable for materials with high thermal conductivity, such as aluminum, but may not be as suitable for low-conducting materials.",
+  "The paper mentions the possibility of convective heat flows during the heating of the specimen, which can introduce some dispersion in the measured values.",
+  "The theoretical model assumes a one-dimensional heat transfer, which may not fully capture the actual heat transfer in the cylindrical specimen.",
+  "The paper suggests that the experimental setup could be improved by creating a small box around it and evacuating it to reduce the effects of convective heat flows."
+]
