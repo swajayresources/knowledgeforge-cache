@@ -1,0 +1,17 @@
+[
+  "The study presents analytical predictions of the response and failure of two-edges-free reinforced concrete slabs subjected to intermediate blast loadings.",
+  "The analysis uses stationary and moving plastic hinge mechanisms with linearly varying time-dependent loadings.",
+  "The failure criteria is chosen as steel fracture, with the localized plastic strain to fracture being more easily estimated than the stress at failure.",
+  "Experimental tests showed two main failure modes: 1) plastic hinge formation at the ends and middle with no significant concrete cracking, and 2) failure of the reinforcing elements at the sides and middle with large areas of cracked concrete.",
+  "The analytical predictions showed reasonable agreement with the experimental observations, accurately capturing the initial response mechanism and predicting the deflections and failure modes.",
+  "Experimental evidence showed that for the 28 inch (0.71 m) long slabs, some reinforcing steel was fractured for all rotations above 0.20 radians, corresponding to an estimated strain to failure of 0.125.",
+  "The distinction between the mechanism 1 and mechanism 2 failure modes is based on the location of the hinge relative to the midspan - if the hinge is within half the hinge length of the midspan, it is classified as a mechanism 1 mode.",
+  "The key parameters in the analytical model included the applied edge load ratio A, the beam mass per unit area m, the weight per unit area w, and the plastic hinge moment M_p per unit length.",
+  "The pressure loadings used in the analysis were estimated from the measured pressure-time curves from the experimental tests, requiring knowledge of the maximum pressure and total impulse.",
+  "The simplified nature of the analytical model may require adjustments in resistive forces after initial fracture of the steel to better predict the failure of the remaining steel, especially for slabs exhibiting the mechanism 1 failure mode.",
+  "The experimental tests were performed on reinforced concrete slabs with two edges fixed, using 6000 psi compression concrete and a steel wire 4 in x 4 in (10.16 x 10.16 cm) mesh both top and bottom.",
+  "The explosive charges were placed at various distances from the center of the slab, and pressure wave speeds were measured at various distances from the charge.",
+  "The specimens were covered with soil to a height of approximately 3 ft (0.91 m) above the top of the specimen to provide the experimental confinement weight.",
+  "Post-test measurements of the reinforcing elements showed a very localized reduction in area near the fracture points, with laboratory measurements verifying the observed strain to failure of 0.10 to 0.15.",
+  "The analytical model assumes a rigid perfectly plastic stress-strain behavior for the reinforcing elements, neglecting the concrete tensile strength compared to the reinforcing strength."
+]
