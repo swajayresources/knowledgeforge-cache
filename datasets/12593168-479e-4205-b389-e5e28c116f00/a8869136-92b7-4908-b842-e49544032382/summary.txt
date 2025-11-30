@@ -1,0 +1,1 @@
+This paper analyzes the effect of coolant velocity and temperature distribution at the hole exit on the heat transfer coefficient of three film-cooled turbine blades - the C3X vane, the VKI rotor, and the ACE rotor. The authors use a modified 3D Navier-Stokes code to study these effects and compare the results with experimental data for the three blades.
