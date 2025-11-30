@@ -1,0 +1,19 @@
+[
+  "The paper presents a two-scale optimization approach for designing graded lattice structures.",
+  "The approach combines asymptotic homogenization with a worst-case model for buckling load factors.",
+  "The worst-case model acts as a safeguard against pure local buckling.",
+  "The proposed approach can handle arbitrary microstructures.",
+  "The approach is limited to sizing problems with a lower bound on the lattice density.",
+  "A lattice consisting of equilateral triangles is used as the numerical example.",
+  "The proposed approach can effectively design graded lattice structures with improved global and local buckling resistance.",
+  "The computational effort is reduced compared to full-scale analyses.",
+  "The approach can be applied to various fields, including thermal management, energy absorption, and biomedical engineering.",
+  "The paper uses a worst-case model for buckling load factors.",
+  "The approach is based on asymptotic homogenization.",
+  "The paper presents a novel approach to include upscaled properties on the macroscopic scale.",
+  "The approach uses a piecewise cubic interpolation scheme.",
+  "The paper presents a numerical example to demonstrate the effectiveness of the proposed approach.",
+  "The approach can be extended to non-linear regimes.",
+  "The paper presents a two-dimensional setting in this article to keep notations simple.",
+  "The approach can be extended to three-dimensional settings."
+]
