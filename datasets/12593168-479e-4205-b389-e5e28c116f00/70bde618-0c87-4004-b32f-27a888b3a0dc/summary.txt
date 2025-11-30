@@ -1,0 +1,1 @@
+The paper investigates the control of iron oxidation state during the crystal growth of FeO (wustite) and olivine (Mg,Fe)2SiO4. It demonstrates the importance of adjusting the oxygen partial pressure (pO2) in the growth atmosphere to maintain the desired Fe2+ valence state, and shows that a gas mixture of 85% Ar, 10% CO2, and 5% CO is effective for this purpose.
