@@ -1,0 +1,1 @@
+This paper investigates the accuracy and limitations of unsteady lifting-line theory (ULLT) for predicting aerodynamic loads on oscillating finite wings. It compares a 'complete' ULLT model against Euler CFD simulations, and also explores simplified ULLT models with different wake assumptions.
