@@ -1,0 +1,1 @@
+This paper characterizes reduced-order turbulence models in the L-mode pedestal-forming region of the JET tokamak. It analyzes the linear instabilities across a range of JET discharges with varying density and plasma shaping, and compares the results to the QuaLiKiz and TGLF reduced-order models.
