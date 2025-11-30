@@ -1,0 +1,17 @@
+[
+  "The Ni-based superalloy was manufactured via a powder metallurgy process including hot isostatic pressing and hot extrusion.",
+  "The chemical composition of the Ni-based superalloy is provided in Table 1.",
+  "The isothermal hot compression experiments were conducted using a Gleeble 3500-GTC thermal-mechanical testing system.",
+  "The total true strain applied during the hot compression experiments was -0.69.",
+  "The microstructure examination revealed the presence of fabrication-induced voids and pores in the as-received powder metallurgy superalloy.",
+  "The true stress-strain curves exhibited characteristics of dynamic recrystallization and dynamic strain aging.",
+  "The peak stress and peak strain increased at lower temperatures and higher strain rates.",
+  "The finite element analysis showed that the maximum tensile stress was located at the outer bulging surfaces of the samples, causing failure initiation.",
+  "The critical failure strain, \u03b5_f, was extracted from the FEA simulation and also determined based on the evolution of void volume fraction.",
+  "The failure strain remained nearly insensitive to the range of strain rates considered, while it increased with the increase of temperature in a third-order polynomial relationship.",
+  "The processing maps with failure domains were constructed by combining the power dissipation map, flow instability map, and the failure map derived from the FEA simulations.",
+  "The Gurson-Tvergaard-Needleman (GTN) damage model was employed in the finite element analysis to predict the failure threshold of the powder metallurgy superalloy.",
+  "The variation of friction coefficients between 0.3 and 1.0 did not significantly affect the stress contours of the samples during hot compression.",
+  "Temperature was found to be a more controlling factor than strain rate in the failure behaviors of the powder metallurgy Ni-based superalloy.",
+  "Lower temperatures and higher strain rates resulted in more severe tensile stress and earlier failure in the samples."
+]
