@@ -1,0 +1,17 @@
+[
+  "The material used in the study was a nickel-based single-crystal superalloy G-Ni 135SX (MD2).",
+  "The single-crystal rods were prepared in the [111] orientation and used to manufacture cylindrical dog-bone specimens for low-cycle fatigue (LCF) experiments.",
+  "The LCF tests were performed at room temperature (24\u00b0C) and 825\u00b0C, with strain amplitudes of 0.6%, 0.8%, and 1.0%.",
+  "The in-situ SEM fatigue crack growth experiments were carried out at room temperature (24\u00b0C) and 650\u00b0C, with a peak stress of 680 MPa and a load ratio of 0.1.",
+  "The CP model considered only 12 equivalent {111} <110> slip systems, as there was no evidence of the activation of cubic slip systems in FCC crystals.",
+  "The elastic moduli for the cubic crystal (C11, C12, C44) were determined from the monotonic part of the cyclic loading curves.",
+  "The exponent n and the reference shear strain rate \u03b30 were chosen to consider the rate-dependent sensitivity and numerical stability.",
+  "The other CP model parameters related to the octahedral slip systems were determined by matching the [111] loading experiment data.",
+  "The critical ICSS value was linearly interpolated from 0.026 at 24\u00b0C to 0.020 at 650\u00b0C based on the critical resolved shear stress and stage I stress.",
+  "The energy-based exponential function used to describe the damage evolution of XFEM elements had an exponent of 2 and a dissipated energy of 0.001.",
+  "The maximum time increment was set to 0.01 seconds to avoid numerical instability and reduce the influence of partially damaged elements.",
+  "The 2D plane strain model covered an area of 2000\u00d75000 \u03bcm2 near the notch root of the specimen, with a dense mesh of quadrilateral linear plane strain XFEM elements.",
+  "A predefined crack was introduced at the center of the notch in the XFEM area to reflect the initiation of the crack observed experimentally.",
+  "The manual control procedure was introduced to handle situations where the XFEM method could not properly capture sharp crack deflections or conflicting crack growth directions.",
+  "The mesh sensitivity study showed that the crack growth predictions from the two mesh sizes were similar, as long as the manual control of the crack path was kept consistent."
+]
