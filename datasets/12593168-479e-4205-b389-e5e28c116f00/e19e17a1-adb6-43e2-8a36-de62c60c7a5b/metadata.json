@@ -1,0 +1,15 @@
+{
+  "paper_id": "e19e17a1-adb6-43e2-8a36-de62c60c7a5b",
+  "title": "Automated UAV-based Wind Turbine Blade Inspection: Blade Stop Angle Estimation and Blade Detail Prioritized Exposure Adjustment",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/e19e17a1-adb6-43e2-8a36-de62c60c7a5b/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/e19e17a1-adb6-43e2-8a36-de62c60c7a5b/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/e19e17a1-adb6-43e2-8a36-de62c60c7a5b/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/e19e17a1-adb6-43e2-8a36-de62c60c7a5b/keywords.json"
+  ]
+}
