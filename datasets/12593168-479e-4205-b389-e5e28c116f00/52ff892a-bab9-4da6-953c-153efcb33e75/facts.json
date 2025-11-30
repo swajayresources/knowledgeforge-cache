@@ -1,0 +1,17 @@
+[
+  "Grid generation can consume up to 70 percent of the total analysis time for a typical three-dimensional viscous flow simulation for a practical engineering device.",
+  "The DRAGON grid approach combines the flexibility and high-quality grids of structured grids with the low memory requirement of unstructured grids.",
+  "The DRAGON grid uses structured grids around individual components and unstructured grids to connect them, eliminating the need for nonconservative interpolation.",
+  "The DRAGON grid was tested on a typical film-cooled turbine vane with 33 holes and 3 plenum compartments.",
+  "The DRAGON grid-generation tools were developed and tested by Glenn researchers in fiscal year 1999.",
+  "A flow solver suitable for the DRAGON grid has been developed, and a series of validation tests are underway.",
+  "The Chimera grid is used to generate high-quality, mostly orthogonal meshes around individual components.",
+  "The DRAGON grid approach aims to reduce analysis time and increase accuracy for viscous flow simulations of practical engineering devices.",
+  "The key goals of the DRAGON grid research are to reduce analysis time and increase accuracy through a flexible, high-quality grid approach.",
+  "The DRAGON grid combines the strengths of structured and unstructured grids while minimizing their weaknesses.",
+  "The DRAGON grid ensures conservation of the solution throughout the entire computational domain.",
+  "The DRAGON grid approach has the potential to lead to significant cost savings and increased throughput.",
+  "The DRAGON grid research addresses the high computational cost of grid generation and the need for high-quality grids to accurately resolve viscous regions.",
+  "The DRAGON grid eliminates the issues with nonconservative interpolation between overlapping grids.",
+  "The DRAGON grid-generation tools were developed and tested at the NASA Glenn Research Center."
+]
