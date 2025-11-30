@@ -1,0 +1,1 @@
+This paper reviews the NASA HOST Turbine Heat Transfer subproject, which aimed to improve the understanding and modeling of heat transfer in high-performance gas turbine engines. The project combined experimental and analytical research to study phenomena like film cooling, passage curvature, boundary layer transition, and rotor-stator interactions.
