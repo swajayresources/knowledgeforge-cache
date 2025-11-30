@@ -1,0 +1,18 @@
+[
+  "The study used a dataset of 150 JET plasmas with approximately 8 minutes of steady-state plasma and 15,000 ELMs.",
+  "The Beryllium II (527nm) radiation signal was used to identify ELMs.",
+  "ELM energies are independent of waiting times beyond 0.02 seconds.",
+  "The ELM waiting time probability density function (pdf) shows a series of maxima and zeros at approximately 0.08 second intervals.",
+  "The average energy of ELMs in the first large group is roughly 60% of the ELMs in later groups.",
+  "The 10 millisecond timescale is consistent with a resistive relaxation of the plasma's edge.",
+  "The study found that ELM energies are not inversely proportional to waiting time.",
+  "The JET plasmas used in the study had approximately 12 MW of NBI heating.",
+  "The fuelling rate of the JET plasmas was 1.4 x 10^22 Ds^-1.",
+  "The effective charge (Z_eff) of the JET plasmas was 1.2.",
+  "The triangularity (\u03b4) of the JET plasmas was 0.2.",
+  "The plasmas had approximately 6 seconds of steady H-mode, with 2.3 seconds of exceptionally steady plasma between 11.5 and 13.8 seconds.",
+  "The line-integrated plasma density and thermal energy were used as measures of the density and energy losses associated with ELMs.",
+  "The study found that the line-integrated plasma density and thermal energy have two timescales: 0.005 seconds and 0.01 seconds.",
+  "The 0.005 second timescale is consistent with a rapid rise in heat flux, while the 0.01 second timescale is consistent with a slower transport process.",
+  "The study found that the thermal plasma energy relaxes to a minimum on a timescale of 10 milliseconds after an ELM."
+]
