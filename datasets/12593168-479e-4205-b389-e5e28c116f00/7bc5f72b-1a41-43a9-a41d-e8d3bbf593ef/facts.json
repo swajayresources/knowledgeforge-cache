@@ -1,0 +1,17 @@
+[
+  "The turbine blade was made of a single crystal nickel-based superalloy called DD6, which is similar to Rene N5, PWA1484, and CMSX-4.",
+  "The turbine blade underwent a series of heat treatments, resulting in a two-phase microstructure with coherent and cuboidal \u03b3' precipitates embedded in the \u03b3 matrix.",
+  "The TMF test rig consisted of a servo-hydraulic testing machine, a gripping fixture, a high frequency induction heater, a load synchronizer, and air/water cooling devices.",
+  "The TMF loading waveform was a trapezoidal stress/temperature wave with 35s rise/heating, 20s dwell at maximum load/temperature, and 25s fall/cooling.",
+  "The minimum temperature in the thermal cycle was 200\u00b0C.",
+  "The TMF test was conducted under load control with a stress ratio R = 0.05.",
+  "The experiment was terminated after 325 cycles when a crack emerged at the suction side near the trailing edge.",
+  "No cracks were observed at the film-cooling holes or other locations on the specimen.",
+  "The crack surface was almost perpendicular to the loading direction.",
+  "The crack propagated from the inside wall towards the outside, as evidenced by the variation in oxidation layer thickness and fatigue striations.",
+  "The crack propagation life was estimated to be 64 cycles, accounting for 19.7% of the total fatigue life.",
+  "The finite element simulation results showed that the pin-fin fillet near the trailing edge suffered the most severe TMF damage.",
+  "The maximum accumulated slip strain at the pin-fin fillet was 54.8% higher than at the film-cooling holes.",
+  "Increasing the pin-fin fillet radius and lowering the temperature in that region were suggested to improve the TMF resistance.",
+  "The high frequency induction heating system provided convenient temperature control and a high heating rate."
+]
