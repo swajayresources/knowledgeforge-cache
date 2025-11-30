@@ -1,0 +1,17 @@
+[
+  "The inlet Mach number is 2.0 and the Reynolds number based on inlet velocity and axial blade chord is 200,000.",
+  "For the adiabatic wall case, the time-averaged characteristic length of the suction side separation bubble is 0.16 axial chord.",
+  "For the cooled wall case, the time-averaged characteristic length of the suction side separation bubble is 0.10 axial chord.",
+  "The separation bubble is displaced downstream for the cooled wall case compared to the adiabatic case.",
+  "The cooled wall case shows a steeper variation in the pressure coefficient downstream of the incident shock.",
+  "The wall-normal Reynolds stresses are higher for the adiabatic wall case compared to the cooled wall case.",
+  "The grid resolution in wall units for the adiabatic wall case ranges from 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9.",
+  "The grid resolution in wall units for the cooled wall case ranges from 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19.",
+  "The separation and reattachment points of the suction side separation bubble exhibit a breathing pattern of contraction and expansion.",
+  "The peak turbulent kinetic energy values are displaced downstream for the cooled wall case compared to the adiabatic case.",
+  "The shear layer downstream of the separation bubble is more diffused for the adiabatic case, while more concentrated vorticity values are observed for the cooled wall case.",
+  "For the adiabatic wall case, the aerodynamic heating from the surrounding shear layer is transferred into the separation bubble, leading to higher temperatures within the bubble.",
+  "Wall cooling induces the formation of a thinner boundary layer, and the sonic line forms closer to the wall for the cooled wall case.",
+  "The tangential Reynolds stress distributions reach maximum values just upstream of the shock-bubble interactions, and are similar for both the adiabatic and isothermal walls.",
+  "The wall-normal Reynolds stresses reach maximum amplitudes downstream of the shock-boundary layer interaction and are more pronounced for the adiabatic wall."
+]
