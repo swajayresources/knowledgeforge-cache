@@ -1,0 +1,13 @@
+[
+  "The paper starts with a deterministic multi-scale Lagrangian particle system, where the Lagrangian flow map is split into a slow mean component g_bar and a rapidly fluctuating component g'.",
+  "The rapidly fluctuating vector displacement field is defined as \u03b6 = g' - Id, where \u03b5 << 1 is the scale separation parameter.",
+  "The full Lagrangian trajectory is given by q(l,t) = g_bar(l,t) + \u03b6(q_bar(l,t),t/\u03b5), where q_bar is the trajectory of the slow mean component.",
+  "The centering condition requires that the mean of the fluctuating deviations \u03b6 is small when pulled back to the mean flow, i.e., \u27e8(Id+\u2207\u03b6)^(-1) \u2202_t \u03b6\u27e9 = 0.",
+  "Homogenization theory is applied to the deterministic multi-scale Lagrangian system, assuming sufficiently chaotic fast dynamics for the fluctuations.",
+  "The homogenization analysis shows that the slow dynamics of the Lagrangian particle system is described by a stochastic differential equation dQ_bar = U_bar(Q_bar)dt + \u03c3(Q_bar)dW, where U_bar and \u03c3 are the derived drift and diffusion terms.",
+  "The drift term U_bar has two contributions: the average of the full velocity over the fluctuations, and an additional term arising from the statistics of the fluctuation time-derivative.",
+  "The diffusion tensor \u03c3 \u03c3^T depends on the autocorrelation function of the fast fluctuating flow map g'.",
+  "The derived stochastic Lagrangian dynamics matches the structure of the stochastic vector field Ansatz used in the previous variational approach [8, 3].",
+  "To compute the EOF eigenvectors \u03be_i for the stochastic model, one can analyze time series of Lagrangian displacement vectors \u03b6 obtained from high-resolution simulations or observational data.",
+  "The performance of the stochastic model constructed this way is currently being evaluated using data assimilation algorithms."
+]
