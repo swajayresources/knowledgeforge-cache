@@ -1,0 +1,1 @@
+This paper discusses the development of a life-prediction model for Partially Stabilized Zirconia (PSZ) Thermal Barrier Coatings (TBCs). The authors investigate the role of microstructure and phase distribution in the failure mechanisms of PSZ coatings during thermal cycling. A new x-ray diffraction technique is applied to understand phase transformations and strain development.
