@@ -1,0 +1,17 @@
+[
+  "Optimisation of Energy and Exergy of Two-Spool Turbofan Engines using Genetic Algorithms Vin Cent Tai1, Phen Chiak See1, Cristinel Mares2, and Kjetil Uhlen1 1Norwegian University of Science and Technology, Norway 2Brunel University, UK July 3, 2012 Abstract",
+  "A computer program called TurboJet-Engine Optimizer v1",
+  "0) was developed by the authors to perform calculations of thermodynamic properties of the engine and implement the optimisations",
+  "The caloric properties of the working fluids are obtained by using an 8th-order polynomial fluid model taken from an existing literature",
+  "0 is integrated with Pyevolve, an open source GA optimisation framework built for used with Python programming language",
+  "The optimal design created by TJEO-1",
+  "0 was evaluated with the following criteria: (1",
+  ") energy efficiency, (2",
+  ") exergy efficiency, and (3",
+  "The results suggest that the design of turbofan engine optimised based on the third criterion is able to produce higher specific thrust (by more than 30 %), compared with the ones optimised based on the first and the second criteria",
+  "1 Introduction specific fuel consumption (TSFC) as the performance measurement, and [Atashkari et al",
+  ", 2005] measured The design of aircraft engines are complex as they the engine performance with TSFC, specific thrust, contain tens of thousands of components [Homaifar propulsive efficiency, and thermal efficiency",
+  "It begins with parametric cycle analysis [Shwin, 2010], which includes the determination of The quantity and quality of the energy have to be compressors\u2019 compression ratios, burner outlet taken into account for effective and efficient use of temperature, bypass ratio, etc",
+  "[Bejan and Siems, 2001] and life-cycle before it (the fault) is discovered",
+  "[Riggins, 2003] pointed out the need to incorporate exergy analysis and thermodynamic optimisation in Many different criteria have been used to evaluate aircraft engine design"
+]
