@@ -1,0 +1,17 @@
+[
+  "The cascade optimization strategy employs different optimization algorithms in a specified sequence.",
+  "The neural network and regression methods are used to approximate solutions obtained from the NASA Engine Performance Program (NEPP).",
+  "The new methodology is more robust and computationally efficient than the conventional optimization approach of using a single optimization algorithm with direct reanalysis.",
+  "The methodology is demonstrated on a preliminary design problem for a novel subsonic turbofan engine concept that incorporates a wave rotor as a cycle-topping device.",
+  "The computations of maximum thrust were obtained for a specific design point in the engine mission profile.",
+  "The results show a significant improvement in the maximum thrust obtained using the new cascade optimization methodology compared to benchmark solutions obtained using NEPP in a manual design mode.",
+  "The best performing optimization strategy is the Cascade 3 strategy, which uses an interspersed approach with NLPQ and neural network, FD and regression, and NLPQ with NEPP reanalysis.",
+  "The Cascade 1 strategy uses three algorithms: the Method of Feasible Directions (FD) followed by the Sequential Unconstrained Minimization Technique (SUMT) and the quadratic programming algorithm (NLPQ).",
+  "The authors are Dale A. Hopkins and Dr. Surya N. Patnaik from the NASA Glenn Research Center.",
+  "The research is part of the Propulsion System R&T program under the OAST Programs/Projects.",
+  "The novel subsonic turbofan engine concept incorporates a wave rotor as a cycle-topping device.",
+  "The benchmark solutions were obtained using NEPP in a manual design mode.",
+  "The cascade optimization strategies (Cascade 1, Cascade 2, and Cascade 3) are compared using both neural network and regression approximations.",
+  "The single optimization algorithm (NLPQ) is also compared using both neural network and regression approximations.",
+  "The results are depicted in a figure showing the optimum thrust for the subsonic wave-rotor-topped engine."
+]
