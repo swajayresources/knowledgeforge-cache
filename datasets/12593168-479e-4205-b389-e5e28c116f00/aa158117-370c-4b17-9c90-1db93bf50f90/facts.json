@@ -1,0 +1,17 @@
+[
+  "The paper provides a critical analysis of six research papers published by M.A. El-Hakiem and his co-workers.",
+  "The six papers were published in the journals International Communications in Heat and Mass Transfer, Journal of Magnetism and Magnetic Materials, and Heat and Mass Transfer.",
+  "The papers deal with magnetohydrodynamic (MHD) free convection flow and heat and mass transfer in micropolar fluids.",
+  "The author identifies issues with the velocity and temperature profiles presented in the papers, stating that they do not asymptotically approach the ambient fluid conditions as expected in boundary layer theory.",
+  "The incorrect profiles are likely due to the use of a small calculation domain, which resulted in the profiles being truncated.",
+  "The first paper analyzes the effects of Joule heating on MHD free convection flow of a micropolar fluid.",
+  "The second paper investigates the effects of viscous dissipation on MHD free convection flow over a non-isothermal surface in a micropolar fluid.",
+  "The third paper studies heat and mass transfer in MHD flow of a micropolar fluid on a circular cylinder with uniform heat and mass flux.",
+  "The fourth paper examines the effect of thermal radiation on non-Darcy natural convection with lateral mass transfer.",
+  "The fifth paper investigates the effects of mass transfer on non-Newtonian fluids past a vertical plate embedded in a porous medium with non-uniform surface heat flux.",
+  "The sixth paper analyzes combined convection in non-Newtonian fluids along a non-isothermal vertical plate in a porous medium with lateral mass flux.",
+  "The author provides a schematic illustration of a correct velocity or temperature profile and an incorrect profile that intersects the boundary condition line.",
+  "The author identifies incorrect profiles in multiple figures across the six papers analyzed.",
+  "The author suggests that the incorrect profiles are likely due to the use of a small calculation domain, which resulted in the profiles being truncated.",
+  "The paper provides a critical evaluation of the research presented in the six papers published by M.A. El-Hakiem and his co-workers."
+]
