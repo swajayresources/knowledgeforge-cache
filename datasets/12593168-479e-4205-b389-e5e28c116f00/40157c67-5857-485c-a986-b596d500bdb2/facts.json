@@ -1,0 +1,17 @@
+[
+  "The paper develops a two-fluid model (TFM) for heat transfer in dense non-Brownian suspensions.",
+  "The TFM includes separate mass, momentum, and energy conservation equations for the particle and fluid phases.",
+  "The particle phase stress tensor is modeled using rheological closures that capture the anisotropy due to shearing.",
+  "The paper proposes a shear-dependent inter-phase heat transfer coefficient \ud835\udc3e = \ud835\udc3e [1 + \ud835\udefd\ud835\udf19(\u2016\ud835\udc7a\u0307 \u2016\ud835\udc51 /\ud835\udefc )^\ud835\udc5a], where \ud835\udefd = 0.2 and \ud835\udc5a = 1 are calibrated parameters.",
+  "The 'thermo-rheological' migration force opposes the classical shear-induced migration and is oriented in the direction of the temperature gradient.",
+  "The TFM was calibrated against the heat pulse experiments of Metzger et al. for a Couette cell flow with \ud835\udefe\u0307 = 10 s^-1.",
+  "The particle and fluid had identical thermal conductivity \ud835\udc58 = 0.19 W/m-K, specific heat \ud835\udc36 = 1260 J/kg-K, and density \ud835\udf0c = 1180 kg/m^3.",
+  "During the 5s heating period, the inner cylinder was held at 298 K, while the outer cylinder was insulated. During cooling, an adiabatic BC was applied at the inner cylinder.",
+  "The paper showed that the geometric eccentricity of the Couette cell can be used to tune the thermal performance of the suspension flow.",
+  "Potential applications include geothermal energy recovery, hydraulic fracturing, hemodynamics, microfluidics, electronic cooling, and food processing.",
+  "Unlike the DFM and SBM, the TFM solves separate governing equations for the particle and fluid phases, without assuming thermal equilibrium.",
+  "The TFM can capture the inter-phase heat transfer and its coupling with particle migration, which is not possible in the DFM and SBM.",
+  "The paper identified a 'thermo-rheological' migration force that arises from the interplay between temperature-dependent fluid viscosity and anisotropic particle stresses.",
+  "The TFM was implemented in OpenFOAM using a finite volume method with a structured mesh and second-order discretization schemes.",
+  "A grid independence study was performed to determine the optimal number of mesh elements for accurate results."
+]
