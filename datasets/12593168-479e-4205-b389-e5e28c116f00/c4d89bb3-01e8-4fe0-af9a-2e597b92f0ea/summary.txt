@@ -1,0 +1,1 @@
+This paper presents a conceptual design study for managing the heat exhaust in the ARC fusion pilot plant, a compact high-field tokamak. The study explores the implementation of an advanced X-point target divertor configuration, taking advantage of ARC's unique design features such as demountable superconducting magnets and a molten salt FLiBe blanket.
