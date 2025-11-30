@@ -1,0 +1,20 @@
+[
+  "The study employs a genetic algorithm to search for optimal design solutions.",
+  "The NASA rotor 37 has 36 blades.",
+  "The design speed of the rotor is 1800 rad/s.",
+  "The total number of grid points in the mesh is 7.16 million cells.",
+  "The number of grid points in the radial direction is 169.",
+  "The exponent of the power law that describes the nonlinear decay of sound power is -1.2.",
+  "The correlation between the total pressure ratio and mass flow of the rotor is strong, positive, and linear.",
+  "The percentage of the choke mass flow rate predicted by the present simulations is 99.5% of the experimental value.",
+  "The discrepancy in the total pressure ratio between the present simulation and the experiment is distinct near the blade hub.",
+  "The possible cause of the discrepancy in the total pressure ratio is the lack of upstream hub cavity in numerical simulations.",
+  "The design space of the optimisation problem consists of 25 design variables, 5 engineering parameters each.",
+  "The optimisation problem aims to reduce the shock-associated tone noise and increase the aerodynamic performance of the rotor.",
+  "The study uses a multidisciplinary design optimisation (MDO) method.",
+  "The genetic algorithm is used to search for optimal design solutions.",
+  "The CFD simulation uses an H-O-H grid topology.",
+  "The mesh has 7.16 million cells.",
+  "The number of grid points in the radial direction is 169.",
+  "The exponent of the power law that describes the nonlinear decay of sound power is -1.2."
+]
