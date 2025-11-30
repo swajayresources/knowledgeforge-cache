@@ -1,0 +1,20 @@
+[
+  "The metal-to-metal clearances of a steam turbine are among the main drivers of efficiency.",
+  "The requirement to add clearances is driven by a number of factors, including relative movements of the steam turbine shell and rotor during transient conditions.",
+  "The installation of electric blankets on the outside of the steam turbine shell has been reported in many combined cycle and solar thermal units.",
+  "The main purpose of these installations is to keep the turbine warm during shutdown periods.",
+  "The proposed method is tolerant of changes in heat loss characteristics and simultaneous component failures.",
+  "The system uses external heating blankets to control temperature differentials between the shell halves.",
+  "The thermal model of the steam turbine shell is represented by a finite difference model with a total of N elements.",
+  "Each shell half is discretized into a total of 10 elements.",
+  "The heating blankets can be modeled as lumped thermal masses with electrical heaters embedded in them.",
+  "The generation of heat is assumed to be instantaneous.",
+  "The contact resistance between the heating blankets and the shell is challenging to determine due to installation variations.",
+  "The overall control system is required to be relatively insensitive to external installation variations.",
+  "The rotor can be modeled in a lumped parameter fashion as a single node.",
+  "The prediction of the rotor temperature is critical for the proper budgeting and management of low-cycle fatigue.",
+  "The deflection model described in Section III-B is used to estimate the current deflection profile of the shell.",
+  "The feedback gain matrix, K, is configured as a scalar matrix with all diagonal values equal to 50.",
+  "The outer loop of the controller is used to estimate the current deflection profile of the shell using the deflection model described in Section III-B.",
+  "The simulation results shown elsewhere in this study were obtained with 5 beam elements."
+]
