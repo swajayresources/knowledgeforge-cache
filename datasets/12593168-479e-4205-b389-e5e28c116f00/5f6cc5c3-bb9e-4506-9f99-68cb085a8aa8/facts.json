@@ -1,0 +1,17 @@
+[
+  "Contactless electroreflectance (CER) spectroscopy was used to study the Fermi level position and band offsets in insulating (Ga,Mn)N/GaN structures.",
+  "For (Ga,Mn)N samples with Mn concentrations above 0.1%, the Fermi level was found to be strongly pinned in the middle of the band gap, at 1.25 - 1.55 eV above the valence band.",
+  "The Fermi level position was consistent across samples with different GaN cap thicknesses, indicating it is predominantly determined by the bulk properties of the (Ga,Mn)N layer.",
+  "The researchers estimated that most of the band gap change in (Ga,Mn)N, compared to GaN, occurs in the valence band, with a shift of -0.028 \u00b1 0.008 eV per % Mn.",
+  "The insulating properties of (Ga,Mn)N, including strong Fermi level pinning and negligible surface depletion, make it a promising buffer material for nitride-based devices.",
+  "The undoped GaN cap layer provided a depletion-like region with a known width, allowing the built-in electric field and Fermi level position in the underlying (Ga,Mn)N layer to be determined.",
+  "The researchers assumed the Fermi level at the GaN surface was pinned at around 1.7 eV below the conduction band, based on previous studies of the surface density of states.",
+  "For samples with Mn concentrations above 0.1%, the CER signal showed a clear band-to-band transition followed by Franz-Keldysh oscillations, indicating a strong built-in electric field.",
+  "In contrast, the low-Mn sample (0.1% Mn) had a much weaker CER signal with an opposite phase Franz-Keldysh oscillation, suggesting the bands were bent in the opposite direction.",
+  "The strong Fermi level pinning, lack of a surface depletion layer, and high resistivity of (Ga,Mn)N make it a superior insulating buffer material compared to Fe- or C-doped GaN.",
+  "By assuming a fixed Fermi level position in (Ga,Mn)N, the researchers were able to estimate the valence band offset between GaN and (Ga,Mn)N to be -0.028 \u00b1 0.008 eV per % Mn.",
+  "The low-temperature ferromagnetism observed in (Ga,Mn)N samples is likely due to superexchange Mn3+-Mn3+ coupling, as the Fermi level is pinned in the middle of the band gap and not conducive to carrier-mediated ferromagnetism.",
+  "The GaN/(Ga,Mn)N structures were grown by molecular beam epitaxy, with Mn concentrations ranging from 0.1% to 7%.",
+  "X-ray diffraction, secondary ion mass spectrometry, and superconducting quantum interference device magnetometry were used to characterize the structural and magnetic properties of the samples.",
+  "The thickness of the GaN cap layer was varied from 31 to 170 nm to study the effect on the built-in electric field and Fermi level position."
+]
