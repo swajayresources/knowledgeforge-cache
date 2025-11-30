@@ -1,0 +1,23 @@
+[
+  "Derivative-free optimization is competitive for aerodynamic design optimization in moderate dimensions Punya Plaban\u22171, Peter Bachman\u20201, and Ashwin Renganathan\u20211,2 1The Pennsylvania State University, University Park, PA, 16802 2Penn State Institute of Computational and Data Sciences, University Park, PA, 16802 Abstract Aerodynamic design optimization is an important problem in aircraft design that depends on the interplay between a numerical optimizer and a high-fidelity flow physics solver",
+  "We provide a systematic benchmarking of a select sample of widely used derivative- based and derivative-free optimization algorithms on the design optimization of three canonical aerodynamic bodies, namely, the NACA0012 and RAE2822 airfoils, and the ONERAM6 wing",
+  "1 Introduction The environmental impact of aircraft, via reduced fuel burn, is achieved primarily by opti- mizing the aircraft wing and control surface shapes for better aerodynamic efficiency (e",
+  ", \u2217Graduate assistant, Aerospace Engineering, 556 White Course drive",
+  "\u2020Undergraduate research assistant, Aerospace Engineering, 556 White Course drive",
+  "\u2021Assistant professor, Aerospace Engineering, 556 White Course drive",
+  "1 5202 yaM 41 ]CO",
+  "htam[ 1v88090",
+  "5052:viXra higher lift-drag ratios)",
+  "Aerodynamic shape optimization (ASO), which refers to optimizing parametrized shapes of aerodynamic bodies for aerodynamic performance, under various constraints, is a popular and active research area [31]",
+  "Derivative-based optimization, with sensitivities computed via the adjoint method [19], makes high-fidelity gradient computation feasible at only an additional cost of one primal (forward) solution",
+  "Second, convergence of adjoint solvers can be very sensitive to mesh quality and changes in boundary conditions [31, 32]",
+  "[48] showed that gradient-free approaches can be 10\u00d7 computationally cheaper than adjoint-based approaches for ASO",
+  "Finally, in the presence of non-computable constraints, such as due to numerical divergence, derivative-based methods often lack robustness [21]",
+  "Generally speaking, derivative-free methods, such as Nelder-Mead [36], COBYLA [40], and DIRECT [22], are at a disadvantage due to the additional work they have to do to identify descent directions in the absence of derivative information",
+  "In Section 3, we present the results and the associated discussion",
+  "5 Constrained ONERA M6 Finally, we present results on the constrained optimization of ONERAM6 under inviscid conditions",
+  "4 Conclusions and future work We present the first of a sequence of studies aimed at evaluating the feasibility of derivative- free optimization methods for practical aerodynamic design optimization problems",
+  "3 Unconstrained ONERAM6 For the ONERAM6 test case, the approach is repeated, but considering the computational complexity and simulation time, we demonstrate the results for only one case considering 12 control points",
+  "Our results demonstrate that derivative-free methods are competitive with derivative-based methods, while outperforming them consistently in the high- dimensional setting",
+  "All the code, including the SU2 mesh and configuration files, is available publicly 1 which will facilitate reproducing our results as well as further benchmarking"
+]
