@@ -1,0 +1,1 @@
+This paper presents a mesh independency study of a straight blade horizontal axis tidal turbine using Computational Fluid Dynamics (CFD). It compares the performance of the standard k-epsilon and Shear Stress Transport (SST) turbulence models, finding that the SST model provides more accurate power coefficient predictions at a reasonable computational cost.
