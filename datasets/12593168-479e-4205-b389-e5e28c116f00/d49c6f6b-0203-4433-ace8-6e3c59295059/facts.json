@@ -1,0 +1,12 @@
+[
+  "The application of reliable structural health monitoring (SHM) technologies to operational wind turbine blades is a challenging task due to the uncertain nature of the environments they operate in.",
+  "Blades are among the most expensive components of a wind turbine, accounting for 10-20% of total manufacturing costs.",
+  "Cracks and delaminations are reported to be the most common forms of damage in wind turbine blades, typically occurring close to the blade root where the highest bending strains are experienced.",
+  "The proposed SHM methodology takes advantage of the fact that the blades on a turbine are nominally identical in structural properties and encounter the same environmental and operational variables (EOVs).",
+  "The properties of interest in this work are the first edgewise frequencies of the blades, which are estimated from acceleration signals.",
+  "Gaussian Processes are used to predict the edge frequencies of one blade given that of another, after these relationships have been learned when the blades are in a healthy state.",
+  "The residuals between the GP predictions and actual frequencies are used as an informative damage indicator, analyzed using X-bar control charts.",
+  "The case studies on onshore wind turbines showed that the proposed SHM system was able to successfully identify the early onset of damage up to 6 months before it was identified and remedied through traditional inspection methods.",
+  "The use of low-pass filtered SCADA data in the proposed methodology addresses the challenges of cost, robustness to nonstationarity, and damage localization compared to previous SHM research focused on laboratory environments.",
+  "The computational costs of training the Gaussian Processes increase significantly with the number of training points, which could be a challenge for large-scale deployment of the SHM system."
+]
