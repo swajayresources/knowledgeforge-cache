@@ -1,0 +1,17 @@
+[
+  "A total of 43 Mar-M247 deposits were printed, including 24 single-layer and 19 multi-layer builds.",
+  "The CNN-based surrogate model was able to predict melt pool width, depth, and height with an average relative error of less than 20% compared to the high-fidelity CFD simulations and experimental measurements.",
+  "The paper introduces four dissimilarity scores to quantify differences in microstructural features: chord length distribution, orientation distribution function, grain growth direction spread, and two-point spatial statistics.",
+  "The dissimilarity scores were used in a Bayesian optimization framework to automatically calibrate the parameters of the microstructure simulation model.",
+  "The framework combines in-situ data collection, high-fidelity melt pool simulation, machine learning-based surrogate modeling, physics-based microstructure simulation, and statistical quantification of microstructural differences.",
+  "The coaxial optical camera used in the experiments had a resolution of 1440 x 1080 pixels and recorded images at 78 frames per second.",
+  "The laser powder DED system used a 2 kW, 1030 nm Ytterbium laser to melt the Mar-M247 powder in an inert argon atmosphere.",
+  "The microstructure simulation was based on a cellular automata finite element (CAFE) framework, which captured key features like grain morphology and texture.",
+  "The high-fidelity melt pool simulation was performed using computational fluid dynamics (CFD) modeling.",
+  "The machine learning-based surrogate model was trained using melt pool images from in-situ data and corresponding melt pool dimensions from the CFD simulations.",
+  "The proposed framework aims to enable adaptive microstructure control and strengthen the connection between process parameters and final material properties in directed energy deposition additive manufacturing.",
+  "The statistical framework for microstructure quantification provides a more comprehensive and reproducible way to compare microstructures beyond just scalar metrics like grain size.",
+  "The hybrid approach of combining machine learning and physics-based simulations addresses the limitations of previous methods that relied solely on experimental data or simulation data that may not be representative of actual in-situ conditions.",
+  "The paper mentions plans for future collaboration to link the process-microstructure-property relationships to part-level performance simulation.",
+  "The experiments were conducted at the Manufacturing Demonstration Facility (MDF) of the Oak Ridge National Laboratory."
+]
