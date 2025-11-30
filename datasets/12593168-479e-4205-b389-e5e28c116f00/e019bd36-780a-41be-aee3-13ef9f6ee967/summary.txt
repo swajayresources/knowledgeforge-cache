@@ -1,0 +1,1 @@
+This paper derives accurate formulas for calculating thermal fluctuations in multilayer interferometric coatings, taking into account light propagation inside the coating. The authors apply this approach to calculate the spectral density of coating Brownian noise and compare the results to previous approximate methods.
