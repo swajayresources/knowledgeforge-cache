@@ -1,0 +1,17 @@
+[
+  "The advanced single-crystal superalloy EPM 102 was used in this study, which was developed in the High Speed Research \u2013 Enabling Propulsion Materials Program.",
+  "EPM 102 contains high levels of refractory metals and is highly susceptible to the formation of secondary reaction zones (SRZ) beneath diffusion aluminide coatings.",
+  "The carburization treatment involved a 2-hour soak at 1093\u00b0C in a gas mixture of 3.5% H2, 0.35% CH4, and 96.15% Ar.",
+  "Grit blasting the superalloy surface to a roughness of 1000-1800 nm Ra was found to be optimal for effective carburization and formation of fine-scale tantalum carbides.",
+  "A stress relief heat treatment at 1121\u00b0C for 4 hours prior to grit blasting and carburization helped increase the carbide depth from 48 \u03bcm to 62 \u03bcm in machined test specimens.",
+  "Carbide depths of 50-80 \u03bcm were achieved in the slab samples, 62 \u03bcm in the machined tensile specimens, and 76-99 \u03bcm in the turbine blade sections using the optimized carburization process.",
+  "The researchers examined carburization at 982\u00b0C, 1066\u00b0C, and 1093\u00b0C, with durations of 2 and 4 hours, to optimize the carbide depth while minimizing gamma prime (\u03b3') coarsening.",
+  "After carburization, the samples were coated with a platinum aluminide (PtAl) bondcoat and aged at 1093\u00b0C for 400 hours to promote SRZ formation, which was then examined.",
+  "The literature cited the rhenium (Re) content, aluminum diffusion from the coating, and surface stresses as key factors influencing SRZ formation in these superalloys.",
+  "The stress relief heat treatment was believed to reduce surface stresses by recrystallizing a thin layer on the superalloy surface, improving the effectiveness of the subsequent carburization.",
+  "Grit blasting with 200 \u03bcm alumina media produced the optimal surface roughness of 1600-1800 nm Ra for achieving the desired carbide depths.",
+  "Fine-scale tantalum carbides (TaC) were the predominant carbide phase that formed during the carburization process.",
+  "No enrichment of rhenium (Re) or tungsten (W) was observed in the carbides, suggesting that topologically close-packed (TCP) phases were not forming.",
+  "The carburization treatment was effective in mitigating the formation of SRZ beneath the PtAl bondcoat after the 400-hour aging exposure.",
+  "The researchers established a laboratory-scale carburization facility at NASA Glenn Research Center to study the process in more detail after the end of the Enabling Propulsion Materials program."
+]
