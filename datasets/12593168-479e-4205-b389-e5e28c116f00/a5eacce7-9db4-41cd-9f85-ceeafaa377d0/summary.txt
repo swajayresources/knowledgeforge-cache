@@ -1,0 +1,1 @@
+This paper investigates the influence of the downstream blade sweep on cross-flow turbine performance, revealing that power generation from the upstream sweep continues to increase beyond the optimal tip-speed ratio, while the downstream sweep consumes power beyond the optimal tip-speed ratio due to unfavorable lift and drag directions.
