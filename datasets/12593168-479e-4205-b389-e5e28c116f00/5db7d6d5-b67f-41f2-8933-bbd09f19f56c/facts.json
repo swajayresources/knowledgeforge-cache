@@ -1,0 +1,17 @@
+[
+  "The (Ga,Fe)N layers were grown by MOVPE on GaN buffer layers on sapphire substrates.",
+  "HRXRD analysis identified the presence of \u03b1-Fe and \u03b3'-GayFe4-yN nanocrystal phases in the films.",
+  "The size of the nanocrystals was estimated to be 17\u00b12 nm for \u03b1-Fe and 22\u00b12 nm for \u03b3'-GayFe4-yN.",
+  "Annealing of the uncapped sample removed the \u03b1-Fe nanocrystals and led to the formation of polycrystalline FeOx at the surface.",
+  "The magnetic response of the films is dominated by a superparamagnetic-like contribution from the nanocrystals and a paramagnetic contribution from dilute Fe3+ ions in the GaN matrix.",
+  "The coercive field values of 10-60 mT are consistent with the presence of ferromagnetic \u03b3'-Fe4N nanocrystals.",
+  "FMR measurements confirmed the uniaxial out-of-plane and in-plane hexagonal anisotropy of the nanocrystals.",
+  "The resistivity of the capped sample (Sample B) is enhanced by 3 orders of magnitude below 100K compared to the other samples, attributed to compensation of the GaN matrix by diffusion of Fe.",
+  "The transition from Arrhenius to Mott variable range hopping conduction occurs between 50-130K, depending on the sample.",
+  "The anisotropic magnetoresistance shows positive values throughout the 2-300K temperature range, one order of magnitude higher than for \u03b3'-Fe4N thin films.",
+  "The hysteretic behavior in the magnetoresistance at low fields is attributed to spin-polarized transport between the nanocrystals below 25K.",
+  "The localization length \u03be obtained from the magnetoresistance data is in the range of 7-10 nm, with hopping distances Rh between 30-70 nm.",
+  "The AMR is not observed in the GaN reference layer, confirming it originates from the embedded nanocrystals.",
+  "The magnetotransport properties are significantly affected by the presence and characteristics of the embedded nanocrystals.",
+  "Capping the (Ga,Fe)N layer with GaN leads to diffusion of Fe into the capping layer, altering the transport behavior."
+]
