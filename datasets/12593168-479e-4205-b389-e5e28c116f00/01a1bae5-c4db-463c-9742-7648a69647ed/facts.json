@@ -1,0 +1,17 @@
+[
+  "The etalon has a mirror radius of 31 cm, thickness of 30 cm, and beam radius of 12 cm.",
+  "The front surface of the etalon has 3 doublets of coating layers, and the back surface has 17 doublets.",
+  "The mechanical loss angle (\u03c6) for the silica layers is 4\u00d710^-5 and for the tantala layers is 2\u00d710^-4.",
+  "The amplitude reflectivity of the front coating is r1 = 0.834 and of the back coating is r2 = 1 - 1.36\u00d710^-5.",
+  "The force coefficient for the front surface is \u01eb1 = 0.869 and for the back surface is \u01eb2 = 0.131.",
+  "The Young's modulus for silica is 7.2\u00d710^10 Pa and for tantala is 1.4\u00d710^11 Pa.",
+  "The Poisson's ratio for silica is 0.17 and for tantala is 0.23.",
+  "The refractive index for silica is 1.45 and for tantala is 2.035.",
+  "The total thermal noise level of the etalon can be a factor of ~1.7 times better than a single mirror with the same reflectivity.",
+  "Increasing the etalon thickness further reduces the thermal noise level, though thermor\u0435\u0444ractive noise will increase.",
+  "The thermor\u0435\u0444ractive noise is found to be a few orders of magnitude smaller than the coating thermal noise with the given parameters.",
+  "The analytical model was verified by cross-checking with finite element analysis (FEA) simulations, which showed agreement within 5%.",
+  "In the thin mirror limit where the mechanical transfer from one surface to the other is almost direct (\u03b7 \u2248 1), the analytical results can be intuitively verified.",
+  "The main challenge of the etalon design is the increased complexity compared to a single mirror, but the paper shows it can provide significant noise reduction.",
+  "The etalon design separates the thermal fluctuations between the front and back surfaces, reducing the overall noise level."
+]
