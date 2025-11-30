@@ -1,0 +1,1 @@
+This paper presents a fault-tolerant thermal control system for steam turbine shell deflections, which aims to reduce metal-to-metal clearances and improve efficiency. The system uses external heating blankets to control temperature differentials between the shell halves. The proposed method is tolerant of changes in heat loss characteristics and simultaneous component failures.
