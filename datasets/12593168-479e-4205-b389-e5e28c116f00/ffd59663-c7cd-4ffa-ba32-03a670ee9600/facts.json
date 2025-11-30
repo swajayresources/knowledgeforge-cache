@@ -1,0 +1,22 @@
+[
+  "The paper proposes a new method for analyzing the global stability of nonlinear systems with one equilibrium point.",
+  "The method extends the Jacobian matrix concept to ensure global stability.",
+  "The proposed method is based on calculating the eigenvalues of the Jacobian matrix at the equilibrium point.",
+  "The eigenvalues of the Jacobian matrix determine the stability of the system.",
+  "Negative eigenvalues indicate stability, while positive eigenvalues indicate instability.",
+  "The Hartman-Grobman theorem states that the behavior of a nonlinear system near a hyperbolic equilibrium point is qualitatively the same as the behavior of its linearization near that point.",
+  "The Popov criterion is a stability criterion used to determine the absolute stability of certain nonlinear systems.",
+  "The Lyapunov theorem provides a sufficient condition for stability, but not a necessary condition.",
+  "Local stability refers to the stability of a system near an equilibrium point, while global stability refers to the stability of a system over its entire domain.",
+  "The Greitzer model is a well-known industrial system used for estimating the coupled behavior of compressors' pressure and flow dynamics.",
+  "The proposed method can prove both stability and instability, whereas other methods can only prove stability or instability.",
+  "The method is demonstrated through several examples and is shown to be effective in ensuring global stability for a class of nonlinear systems.",
+  "The paper uses the Jacobian matrix to linearize the nonlinear system around an equilibrium point.",
+  "The eigenvalues of the Jacobian matrix are calculated at the equilibrium point.",
+  "The proposed method provides sufficient conditions for global stability.",
+  "The method is based on solving differential equations to provide sufficient conditions for global stability.",
+  "The paper uses the Hartman-Grobman theorem to analyze the behavior of the nonlinear system near a hyperbolic equilibrium point.",
+  "The paper uses the Popov criterion to determine the absolute stability of certain nonlinear systems.",
+  "The paper uses the Lyapunov theorem to provide a sufficient condition for stability.",
+  "The paper uses the Greitzer model to demonstrate the effectiveness of the proposed method in ensuring global stability for a class of nonlinear systems."
+]
