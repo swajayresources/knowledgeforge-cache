@@ -1,0 +1,17 @@
+[
+  "The paper presents a 'complete' ULLT model based on the framework of Sclavounos, and two simplified ULLT models with different wake assumptions.",
+  "The CFD simulations were performed for NACA 0004 rectangular wings with aspect ratios of 2, 4, and 8, and chord-based reduced frequencies (k) ranging from 0.1 to 1.0.",
+  "The 'complete' ULLT model showed good agreement with the Euler CFD results for whole wing lift and pitching moment coefficients across the range of aspect ratios and frequencies tested.",
+  "The simplified ULLT models, which used either a pseudosteady or simplified wake model, were less accurate than the 'complete' ULLT, particularly at higher frequencies.",
+  "Accounting for the harmonic variation of streamwise wake vorticity was found to be important for accurately predicting the spanwise distribution of loads, especially at higher frequencies.",
+  "The paper establishes ULLT as a low-cost model capable of capturing the interacting finite-wing and oscillation frequency effects, and identifies the regimes where the different ULLT models are most accurate.",
+  "The research paves the way towards the construction of time-domain or numerical ULLTs that may be augmented to account for non-linearities such as flow separation.",
+  "Previous validations of ULLT have been limited to comparisons with unsteady vortex lattice methods, which share some assumptions with ULLT.",
+  "This work is the first to validate ULLT against high-fidelity Euler CFD simulations, which avoid the explicit assumptions of vortex lattice methods.",
+  "The paper suggests that the pseudosteady wake assumption, commonly used in time-domain lifting-line models, is only asymptotically valid in the very low frequency regime.",
+  "The 'complete' ULLT model was found to be most accurate for span-scale wake wavelengths and longer, corresponding to the very low and low frequency regimes.",
+  "The simplified ULLT models became less accurate as the frequency increased and the assumption of a uniform downwash broke down.",
+  "The paper also compares the ULLT models to experimental data, confirming their relevance even when the flow is not inviscid before separation.",
+  "The research provides insights into the trade-off between wake model complexity and ULLT accuracy, which is useful for developing more advanced numerical ULLTs.",
+  "The paper lays the groundwork for future work on time-domain or numerical ULLTs that can account for non-linearities and flow separation."
+]
