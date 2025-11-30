@@ -1,0 +1,17 @@
+[
+  "The blade is modeled as a cantilevered Euler-Bernoulli beam with only the first bending mode considered.",
+  "The dimensionless parameters in the equations of motion are ordered in terms of the small parameter \u03b5 = \u03b11^(1/4) \u2248 0.0518.",
+  "For the out-of-plane vibrations, the multiple scales analysis is carried out up to fourth order, while for the in-plane vibrations, it is carried out up to third order.",
+  "The parametric excitation in the equations of motion is due to the effect of gravity on the rotating blade.",
+  "The aerodynamic forces in the in-plane direction are modeled using an expression from Li et al. [6], which includes the effects of wind shear and the blade's rotational speed.",
+  "The frequency responses obtained using the method of multiple scales match well with those from the harmonic balance method, especially for smaller amplitudes.",
+  "The superharmonic resonances, which occur when the forcing frequency is a fraction of the natural frequency, can lead to large-amplitude vibrations in the wind turbine blade.",
+  "The key nonlinearities included in the equations of motion are the geometric nonlinearities due to large deformations, the centrifugal stiffening effect due to blade rotation, and the parametric excitation due to gravity.",
+  "The authors do not provide a specific value for the velocity gradient constant p used in the wind shear model.",
+  "The method of multiple scales is able to capture the transient behavior and steady-state amplitude of the system well, as compared to the numerical solution of the full equations of motion.",
+  "The frequency response near the secondary resonance (2\u03a9 = \u03c9) exhibits a soft-spring characteristic, bending towards the left.",
+  "The frequency response obtained using the method of multiple scales is slightly offset from the harmonic balance result in the case of the tertiary resonance (3\u03a9 = \u03c9), by about 0.0005.",
+  "The mismatch between the multiple scales and harmonic balance results at higher amplitudes is attributed to the imperfect ordering scheme in the multiple scales analysis.",
+  "The authors do not consider the coupling between the out-of-plane and in-plane vibrations, but rather study the two scenarios separately.",
+  "The blade is assumed to have no twist, its root is at the center of the rotor-swept disk, and there is no coning."
+]
