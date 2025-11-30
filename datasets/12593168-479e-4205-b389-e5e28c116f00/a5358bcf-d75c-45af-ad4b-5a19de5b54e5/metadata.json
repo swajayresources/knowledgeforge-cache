@@ -1,0 +1,15 @@
+{
+  "paper_id": "a5358bcf-d75c-45af-ad4b-5a19de5b54e5",
+  "title": "A General-Purpose Optimization Engine for Multi-Disciplinary Design Applications",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/a5358bcf-d75c-45af-ad4b-5a19de5b54e5/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/a5358bcf-d75c-45af-ad4b-5a19de5b54e5/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/a5358bcf-d75c-45af-ad4b-5a19de5b54e5/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/a5358bcf-d75c-45af-ad4b-5a19de5b54e5/keywords.json"
+  ]
+}
