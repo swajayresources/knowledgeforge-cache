@@ -1,0 +1,18 @@
+[
+  "FC10303/Hunt Experimental validation of a linear momentum and bluff-body model for high-blockage cross-flow turbine arrays Aidan Hunt\u2217 and Brian Polagye Department of Mechanical Engineering University of Washington Seattle, Washington, USA Ari Athair and Owen Williams Department of Aeronautics and Astronautics University of Washington Seattle, Washington, USA (Dated: August20,2025) 1 5202 guA 91 ]nyd-ulf",
+  "scisyhp[ 3v50761",
+  "8042:viXra Abstract Inaconfinedflow,theperformanceofaturbineanditsnear-wakefluiddynamicsdependontheblockage ratio, defined as the ratio of the turbine projected area to the channel cross-sectional area",
+  "In this work, the performance and near-wake flow field of a pair of cross-flow turbinesareexperimentallyevaluatedatblockageratiosfrom30%to55%",
+  "[1], while the wake velocity is not",
+  "\u2019s [2] adaptation of the bluff-body theory of Maskell [3]",
+  "(1) \ud835\udc34 channel As the blockage ratio increases, the turbines present greater flow resistance, but confinement from the channel boundaries leads to increased flow through the turbines relative to unconfined conditions",
+  "Consequently, as confinement increases, so does turbine efficiency [2, 4\u20136]",
+  "While \u2217ahunt94@uw",
+  "edu 2 blockage augments the performance of all turbine designs, cross-flow turbines\u2014which have an axis of rotation perpendicular to the direction of inflow\u2014are particularly well-suited to exploit these physics since their rectangular projected area matches the profile of natural and constructed channels",
+  "GarrettandCummins[4]werethefirsttoestablishthetheoreticalbasisforturbineperformance in confined flows by applying one-dimensional linear momentum actuator disk theory (LMADT)",
+  "ForrelativelylowFroudenumbers,theyshowedthatthemaximumefficiencyinconfinedflowwas augmentedbyafactorof (1\u2212\ud835\udefd)\u22122",
+  "[1]andWhelanetal",
+  "[2] relaxedtheassumptionoflowFroudenumberbyallowingthefreesurfacetodeforminresponseto momentumextraction",
+  "Inparallel,NishinoandWillden[5,7]expandedtheconceptualframework with a two-scale LMADT model for turbine arrays that considered confinement effects from both the channel boundaries (\u201cglobal\u201d blockage) and the presence of neighboring turbines within the array(\u201clocal\u201dblockage)",
+  "Here, we present a blockageadjustmentmethodbasedonSteirosetal"
+]
