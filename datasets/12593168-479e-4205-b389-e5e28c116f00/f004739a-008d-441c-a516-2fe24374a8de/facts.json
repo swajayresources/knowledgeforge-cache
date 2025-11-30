@@ -1,0 +1,18 @@
+[
+  "The study uses air as the working fluid with a Prandtl number of 0.7.",
+  "The Reynolds number is 100.",
+  "The spacing ratio is 3.6 and 4.",
+  "The heat transfer enhancement is up to 25%.",
+  "The drag inversion separation is between 3.75 and 4.",
+  "The two modes identified are stable shear layer (SSL) and shear layer secondary vortices (SLSV).",
+  "The critical center-to-center spacing is between 3.75 and 4.",
+  "The numerical method used is Gerris numerical code.",
+  "The grid resolution used for the single cylinder validation study is grid 2.",
+  "The spacing ratio range for the two tandem cylinders configuration is 3.5-6.",
+  "The Strouhal number of the vortex shedding for s/d = 3.6 is 0.23.",
+  "The Strouhal number of the vortex shedding for s/d = 4.0 is 0.17.",
+  "The drag coefficient for the upstream cylinder at s/d = 3.5 is 1.4.",
+  "The drag coefficient for the downstream cylinder at s/d = 3.5 is 0.16.",
+  "The standard deviation of the drag coefficient for the upstream cylinder at s/d = 3.5 is 0.009.",
+  "The standard deviation of the drag coefficient for the downstream cylinder at s/d = 3.5 is 0.0064."
+]
