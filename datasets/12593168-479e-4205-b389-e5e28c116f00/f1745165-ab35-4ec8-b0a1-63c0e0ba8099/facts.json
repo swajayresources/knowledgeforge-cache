@@ -1,0 +1,21 @@
+[
+  "1 Multi-Scale Proper Orthogonal Decomposition of Complex Fluid Flows M",
+  "Mendez1\u2020, M",
+  "Balabane2 and J",
+  "Buchlin1 1von Karman Institute for Fluid Dynamics, Environmental and Applied Fluid Dynamics Department 2Laboratoire Analyse, G\u00b4eom\u00b4etrie et Applications, Universit\u00b4e Paris 13, (Received xx; revised xx; accepted xx) Data-driven decompositions are becoming essential tools in fluid dynamics, allowing for tracking the evolution of coherent patterns in large datasets, and for constructing low order models of complex phenomena",
+  "After introducing a matrix factorization framework for data-driven decompositions, the MRA is formulated via 1D and 2D filter banks for the dataset and thecorrelationmatrixrespectively",
+  "2012; Rahmanian et al",
+  "2014), unstable patterns in the evolution of hydrodynamic instabilities (Charru & de Forcrand-Millard 2009; Gudmundsson & Colonius 2011; Melnikov et al",
+  "2014; Schmid & Brandt 2014), transition to turbulence (Hussain 1986; Grinstein & DeVore 1996), enhancement of heat and mass transfer (Mladin & Zumbrunnen 2000; Kuhn et al",
+  "2010), noise generation (del Castillo-Negrete et al",
+  "2008; Nagarajan et al",
+  "2018) and more",
+  "be 9102 raM 03 ]nyd-ulf",
+  "scisyhp[ 5v64690",
+  "4081:viXra 2 M",
+  "(2017)andRowley&Dawson(2017),while an extensive overview on the impact of the big data revolution in turbulence research is presentedbyPollardet al",
+  "In this work, we analyze the main limits of two popular decompositions, namely the Proper Orthogonal Decomposition (POD) and the Dynamic Mode Decomposition (DMD), and we propose a novel decomposition which allowsforenhancedfeaturedetectioncapabilities",
+  "Dataset Description As a first example, we propose a simple synthetic test case which is already in the de- composedformof (2",
+  "Dataset Description As a second test case, we propose a complex dataset which features the main physical mechanismsofcomplexfluidflows(i",
+  "In the following subsections, we present a literature review on the energy-based and frequency-based data-driven decompositions (\u00a71"
+]
