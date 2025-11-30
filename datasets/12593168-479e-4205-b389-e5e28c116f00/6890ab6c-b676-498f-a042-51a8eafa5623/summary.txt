@@ -1,0 +1,1 @@
+This paper uses the hyperbolic (modified) phase-field-crystal (MPFC) model to study the growth of different crystallographic faces in a body-centered cubic (BCC) lattice. The authors analyze the velocity and anisotropy of the (100), (110), and (111) faces under high driving forces and varying relaxation times.
