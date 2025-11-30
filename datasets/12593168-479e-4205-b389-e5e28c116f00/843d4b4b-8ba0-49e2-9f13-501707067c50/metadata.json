@@ -1,0 +1,15 @@
+{
+  "paper_id": "843d4b4b-8ba0-49e2-9f13-501707067c50",
+  "title": "Generative Aerodynamic Design with Diffusion Probabilistic Models",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/843d4b4b-8ba0-49e2-9f13-501707067c50/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/843d4b4b-8ba0-49e2-9f13-501707067c50/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/843d4b4b-8ba0-49e2-9f13-501707067c50/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/843d4b4b-8ba0-49e2-9f13-501707067c50/keywords.json"
+  ]
+}
