@@ -1,0 +1,17 @@
+[
+  "The paper proposes a systematic approach to organizing computational design workflows with heterogeneous constraints.",
+  "The approach involves classifying IP-solvers based on the properties of design constraints they can handle.",
+  "The two stages of design space in the proposed workflow are 'pruning' and 'exploration'.",
+  "Pruning provides the feasible design space for exploration.",
+  "Feasible design subspaces are described uniquely and completely by their maximal elements, which are implicitly defined by pointwise constraints.",
+  "PareTO is a Pareto-tracing levelset topology optimization method that uses fixed-point iteration to satisfy multiple design criteria guided by augmented TSFs.",
+  "PareTO can produce many alternatives on the Pareto front, some of which might satisfy additional constraints not accounted for in TO.",
+  "Traditional TO methods focus on optimizing designs for performance but less on other important factors such as manufacturability.",
+  "Considering process limitations during design/optimization can avoid repeated prototyping and iterations until the optimized designs are manufacturable.",
+  "The proposed approach for incorporating accessibility constraints in TO involves filtering the augmented TSF using the overlap measure of cutting tool and optimized part.",
+  "The limitation of the proposed approach is that it may sacrifice achieved optimality when applying corrections to the geometry or topology of a solution after TO to make it manufacturable.",
+  "The proposed workflow enables the simultaneous satisfaction of kinematics- and physics-based requirements and can produce many alternatives on the Pareto front.",
+  "The classification of solvers based on the types of constraints they can handle is based on the properties of design constraints, including locality and continuity.",
+  "The paper demonstrates the application of the proposed approach to various design problems, including topology optimization and manufacturability constraints.",
+  "The approach can be applied to real-world design problems, such as designing a car hood latch."
+]
