@@ -1,0 +1,17 @@
+[
+  "The compressor was designed to achieve a pressure ratio of 6:1 and a flow rate of 2 lb/sec.",
+  "An operating speed of 75,000 rpm was selected for the conventional impeller configuration.",
+  "The preliminary design found the tandem-bladed impeller offered 0.44 points higher efficiency than the conventional impeller.",
+  "The inducer section was designed to limit the diffusion factor to 0.5 and the static pressure rise coefficient to 0.55.",
+  "The final tandem impeller design had an estimated adiabatic efficiency of 0.8774.",
+  "Provisions were made to withdraw a portion of the boundary layer fluid to inhibit or eliminate potential flow separation issues.",
+  "The impeller tip speed was 1162 ft/sec.",
+  "The inducer had 19 blades, and the impeller had 19 blades plus 19 splitter vanes.",
+  "The corrected flow per unit frontal area was estimated to be 29.1 lb/ft^2-sec.",
+  "The preliminary design evaluated radial and backward-curved impellers, both with conventional and tandem blading.",
+  "The preliminary design evaluated conventional vane diffusers, pipe diffusers, and cascade vane diffusers.",
+  "The cascade vane diffuser was ultimately selected for the detailed design.",
+  "Potential challenges included precisely matching the flow from the inducer to the impeller inlet and the effect of flow mismatch on operating range.",
+  "The tandem impeller design used standard axial flow rotor design practices for the inducer section.",
+  "The final compressor design incorporated a separate inducer and centrifugal impeller."
+]
