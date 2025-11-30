@@ -1,0 +1,17 @@
+[
+  "Thermal barrier coatings are being developed to protect air-cooled turbine blades and vanes in aircraft gas turbine engines.",
+  "The current state-of-the-art coating system consists of about 0.25 mm of a zirconia-yttria ceramic over 0.13 mm of an MCrAlY alloy bond coat, both applied by plasma spraying.",
+  "Coating failure is primarily due to stresses induced by the thermal expansion mismatch between the ceramic and metallic layers, influenced by oxidation and sintering.",
+  "The initial NASA laboratory model related coating life to the radial component of the thermal expansion mismatch strain (Cy) and the weight gain from oxidation.",
+  "The Pratt & Whitney model uses Miner's Law and calculates inelastic strain ranges from thermal expansion mismatch, heating/cooling transients, and elastic strain at yielding.",
+  "The Garrett model considers bond coat oxidation, zirconia toughness reduction, and damage from molten salt deposits, and includes empirical factors to match test data.",
+  "The General Electric model is the only one to consider failure induced by edges, including shear strain in the life correlation.",
+  "The Pratt & Whitney model is accurate to within a factor of 3 in predicting coating life across a wide range of test conditions.",
+  "Remaining uncertainties include the effects of creep and inelasticity, the detailed mechanisms of oxidation control, the importance of sintering and hot corrosion, and the validity of simplifying assumptions.",
+  "Future engine designs are expected to rely heavily on thermal barrier coatings, so accurate life models are required to assess risks and fully exploit the technology.",
+  "The NASA HOST program successfully integrated materials and structural aspects to produce design-capable thermal barrier coating life models.",
+  "Plasma-sprayed zirconia-yttria coatings exhibit very low thermal conductivity, high compressive strain tolerance, high in-plane tensile strain tolerance, creep-like behavior, and fatigue-like behavior.",
+  "The stress state in the ceramic coating layer is biaxial compression in the plane of the coating and radial tension, further complicated by a wavy interface.",
+  "Experimental evidence shows slow crack growth, creep, and fatigue-like behavior in plasma-sprayed zirconia-yttria coatings.",
+  "The design-capable models developed under the HOST program are now or will soon be used in the design of thermal barrier coatings for aircraft gas turbine engines."
+]
