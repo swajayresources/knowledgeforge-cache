@@ -1,0 +1,17 @@
+[
+  "The fatigue life of turbine blades is directly related to the safety and reliability of aircraft engines.",
+  "Fatigue damage caused by alternating loads represents a prevalent failure type observed in turbine blade structures.",
+  "Several classic empirical formulas have been derived to establish the relationship between mechanical properties and fatigue life, such as the Coffin-Manson, BM, KBM, FS, and WHS/MWHS criteria.",
+  "Machine learning algorithms, such as Random Forest, Support Vector Regression, and Artificial Neural Networks, have been used to improve the predictive accuracy of fatigue life models.",
+  "The RSL method combines symbolic regression with logical constraints and deep reinforcement learning to generate interpretable, physically meaningful predictive formulas.",
+  "The logical constraints in RSL include dimension removal, arity tracking, function enforcement for length control, constant operation suppression, and irrational nesting suppression.",
+  "The RSL method was validated using the turbine blade materials GH4169 and TC4, and it outperformed six empirical formulas and five machine learning algorithms in terms of both interpretability and predictive accuracy.",
+  "Finite element simulations were used to assess the mechanical properties at critical points on the turbine blades, which were then used to predict the fatigue life under various operating conditions.",
+  "The main contributions of the paper include the development of the RSL framework, the introduction of logical constraints, the enhancement with deep reinforcement learning, and the successful application to turbine blade materials.",
+  "Symbolic regression can generate explicit, interpretable formulas that align with physical laws and principles, unlike many black-box machine learning models.",
+  "The RSL method addresses the challenge of uncovering the intrinsic relationship between mechanical properties and turbine blade fatigue life, which is essential for ensuring the safety and reliability of aircraft engines.",
+  "The RSL framework incorporates a Recurrent Neural Network (RNN) to guide the symbolic regression process, efficiently exploring the search space while adhering to the logical constraints.",
+  "The Constant Operation Suppression Mechanism (COSM) and Irrational Nesting Suppression Strategy (INSS) are two key logical constraints in the RSL framework.",
+  "The RSL method demonstrated superior or comparable predictive accuracy compared to six empirical formulas and five machine learning algorithms when applied to the GH4169 and TC4 turbine blade materials.",
+  "The incorporation of logical constraints and deep reinforcement learning in the RSL framework enables the discovery of more accurate and generalizable predictive models for turbine blade fatigue life."
+]
