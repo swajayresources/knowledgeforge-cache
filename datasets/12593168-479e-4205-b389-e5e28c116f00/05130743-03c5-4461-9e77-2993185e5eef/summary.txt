@@ -1,0 +1,1 @@
+This paper describes the optimization of a turbofan engine design for an advanced, single-aisle transport aircraft. The study applies single- and multi-objective optimization algorithms to the conceptual design of ultra-high bypass turbofan engines, using NASA's performance, noise, and emissions goals as the optimization objectives.
