@@ -1,0 +1,17 @@
+[
+  "The Alfv\u00e9nic activity observed in JET plasmas below the TAE frequency has well-defined frequency lines surrounded by wide (\u223c15 kHz) frequency bands.",
+  "The three-wave coupling model (one shear-Alfv\u00e9n, two acoustic) predicts a single frequency gap immediately below the TAE frequency, with an upper limit around 30 kHz, which is significantly lower than the observed Alfv\u00e9nic activity near 80 kHz.",
+  "The high-order coupling model shows that plasma shaping, particularly elongation, contributes higher-order harmonics to the geodesic curvature that open additional frequency gaps where the HOGAEs can exist.",
+  "The measured frequency of the n=2 HOGAE in JET pulse #90198 is 83.2 kHz, which is around one-half of the typical TAE frequency.",
+  "The HOGAE is found to be located in the inner half of the plasma (\u03c1_pol < 0.5), which agrees with the numerical solution and experimental constraints.",
+  "The stability of the HOGAEs is mainly determined by the interplay between thermal-ion Landau damping and the drive provided by the anisotropic population of ICRH-accelerated energetic ions.",
+  "Plasma elongation is essential in the high-order coupling model, as it contributes higher-order harmonics to the geodesic curvature that open the HOGAE frequency gaps.",
+  "A safety factor larger than 2 prevents the HOGAE frequency gaps from opening, limiting their existence to the inner part of the plasma.",
+  "The major wave-particle resonances involve strongly passing thermal Deuterium ions at energies around 5 keV and 10 keV, as well as trapped ICRH-heated Hydrogen ions at energies around 340 keV, 120 keV, and 60 keV.",
+  "Accounting for the thermal-ion dilution due to impurities and the ICRH-heated Deuterium ions is important to properly balance the energy exchange and determine the HOGAE stability.",
+  "The JET pulse #90198 shows a clear n=2 HOGAE with a single and very sharp frequency line that is well separated from the two bursty bands around it.",
+  "The HOGAE in JET pulse #90198 arises with increasing ICRH power and on-axis plasma beta, while its stabilization is caused by the safety-factor drop that moves the continuum outwards.",
+  "The radial profiles for JET pulse #90198 at 8 seconds show the q=3/2 surface at \u03c1_pol = 0.24, and the toroidal plasma rotation frequency \u03a9_phi/(2\u03c0) = 4.5 kHz.",
+  "The Alfv\u00e9n frequency on axis \u03c9_A/(2\u03c0) is estimated to be 426 kHz, and the HOGAE predicted frequency after correcting for Doppler shift is 82.7 kHz, close to the measured value of 83.2 kHz.",
+  "The HOGAE perturbation is too weak to show up clearly in soft X-ray signals, but phase coherence between the latter and magnetic-coil signals is found for lines-of-sight crossing magnetic surfaces with \u03c1_pol < 0.4."
+]
