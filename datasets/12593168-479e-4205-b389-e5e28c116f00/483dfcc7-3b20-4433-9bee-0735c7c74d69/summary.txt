@@ -1,0 +1,1 @@
+This paper investigates the effects of secondary crystal orientation on the elastic response of the single crystal superalloy PWA 1480 under mechanical, thermal, and combined thermal and mechanical loads. The study found that the variations in stress components depend on the type of loading, and that certain secondary orientation angles can minimize or maximize thermal stresses.
