@@ -1,0 +1,17 @@
+[
+  "The authors used the CGNS (CFD General Notation System) standard format to extract detailed 3D numerical simulation data for an 8-stage axial compressor.",
+  "The 8-stage axial compressor had 61 stations for the S2 flow path design, 17 for radial clearance, and 49 for stationary blades.",
+  "The 3D numerical simulation was performed using the Fine Turbo module of the NUMECA software, solving the 3D steady Reynolds-averaged Navier-Stokes equations with the Spalart-Allmaras turbulence model.",
+  "The authors compared the S2 flow path design parameters and the 3D numerical simulation results at the inlet and outlet of each stage along the blade height.",
+  "The authors identified that the relative Mach number at the blade tip of the first stage rotor was supersonic, suggesting the need for a more accurate subsonic aerodynamic design.",
+  "The total pressure at the rotor and stator exits was lower in the S2 design compared to the 3D simulation, indicating the need to adjust blade angles and bowing to improve pressure recovery.",
+  "After iteratively modifying the blade design based on the comparison of S2 and 3D results, the authors were able to increase the design adiabatic efficiency by 0.5% and the surge margin by more than 5%.",
+  "The authors state that their CGNS-based data extraction approach provides more complete and accurate data compared to other methods, which is critical for the iterative design process of multi-stage axial compressors.",
+  "The authors focused on improving the design of the first and eighth stages of the 8-stage axial compressor, as these were identified as the key areas for further performance enhancement.",
+  "The authors did not mention any major limitations or challenges in their paper, other than the complexity involved in designing an 8-stage axial compressor.",
+  "The authors' approach combines the S2 flow path design with detailed 3D numerical simulation analysis, allowing for a more thorough and iterative design process compared to traditional methods.",
+  "The authors used Tecplot visualizations to compare the S2 design and 3D simulation results, which helped identify differences and suggest design modifications.",
+  "The authors' iterative design process involved repeatedly comparing the S2 design and 3D simulation results, and making corresponding modifications to the blade design.",
+  "The authors' data extraction and comparison methodology is applicable to the design and verification of other multi-stage axial flow compressors.",
+  "The authors' approach demonstrates the importance of integrating 3D numerical simulation analysis with traditional S2 flow path design methods for improving compressor performance."
+]
