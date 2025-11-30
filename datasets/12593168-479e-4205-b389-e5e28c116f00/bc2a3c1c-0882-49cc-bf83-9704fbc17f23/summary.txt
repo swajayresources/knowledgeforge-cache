@@ -1,0 +1,1 @@
+This paper investigates the time-dependent, non-equilibrium thermal and ionization history of gas cooling radiatively from 10^6 K in a model of the galactic fountain. The authors calculate the effects of radiative transfer and self-ionization, and compare the predicted column densities, UV line emission, and X-ray fluxes to observational data.
