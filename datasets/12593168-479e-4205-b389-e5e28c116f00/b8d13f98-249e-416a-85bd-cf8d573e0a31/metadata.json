@@ -1,0 +1,15 @@
+{
+  "paper_id": "b8d13f98-249e-416a-85bd-cf8d573e0a31",
+  "title": "Model predictive control of discrete-time linear systems by ADMM with applications to turbofan engine control problems",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b8d13f98-249e-416a-85bd-cf8d573e0a31/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b8d13f98-249e-416a-85bd-cf8d573e0a31/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b8d13f98-249e-416a-85bd-cf8d573e0a31/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b8d13f98-249e-416a-85bd-cf8d573e0a31/keywords.json"
+  ]
+}
