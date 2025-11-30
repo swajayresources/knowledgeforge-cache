@@ -1,0 +1,15 @@
+[
+  "The IIMCS system is proposed to address the challenges of measurement uncertainties in the context of the Mahalanobis-Taguchi System (MTS).",
+  "The system employs a Monte Carlo Method (MCM) framework to propagate measurement uncertainty into the Mahalanobis distance space (MD) to obtain the interval MD space.",
+  "The IIMCS system is demonstrated in an experimental case study of an equiaxed nickel alloy first-stage turbine blade.",
+  "The case study includes 232 blades, consisting of 193 healthy and 39 defective blades.",
+  "The defective blades contain several types of defects, including microstructural changes due to high temperatures, airfoil cracking, intergranular erosion (corrosion), thin walls due to casting, maintenance and repair operations, and service wear.",
+  "The vibration testing of turbine blades was conducted in the frequency range of [3, 38] kHz using compensated resonance testing (PCRT) techniques.",
+  "The IIMCS system achieved an accuracy of 97.85% in the case study.",
+  "The reliability value of the turbine blade 87 in the case study is -0.78.",
+  "The Binary Particle Swarm Optimization (BPSO) is used in IIMCS to filter out the most reliable features.",
+  "The IIMCS system is proposed to be used for quality classification of complex metal parts based on their broadband vibration response.",
+  "The system is demonstrated to be robust against measurement uncertainties.",
+  "The IIMCS system is shown to be effective in classifying complex metal parts with high accuracy.",
+  "The system is proposed to be used in various industrial applications, including quality inspection of complex-shaped metal parts."
+]
