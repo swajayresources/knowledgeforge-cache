@@ -1,0 +1,17 @@
+[
+  "The SHM1 airfoil is integral to the design of the Honda business jet.",
+  "Natural laminar flow airfoils can offer a potential tenfold reduction in friction drag compared to turbulent boundary layers.",
+  "The numerical simulations solve the two-dimensional compressible Navier-Stokes equations using dispersion relation-preserving compact schemes.",
+  "The computational domain employs an O-grid topology with 1251 points in the azimuthal direction and 401 points in the wall-normal direction.",
+  "The free-stream Mach numbers (M_s) investigated range from 0.134 to 0.78, covering low speed, climb, cruise, and off-design transonic conditions.",
+  "The free-stream Reynolds number (Re_\u221e) ranges from 4.8 \u00d7 10^6 to 16.2 \u00d7 10^6.",
+  "The numerical results are validated against experimental flight test data from Fujino et al. for the SHM1 airfoil.",
+  "At the cruise condition (M_s = 0.62), the pressure distribution on the SHM1 airfoil shows a flat plateau on the suction surface, characteristic of natural laminar airfoils.",
+  "For the off-design transonic conditions, a pressure spike is observed at the shock location, with the steepest spike occurring for the shock-induced separation case at M_s = 0.78.",
+  "The vorticity spectrum becomes more chaotic and multi-periodic as the Mach number is increased, due to the nonlinear interactions between Kutta waves and the boundary layer.",
+  "The design conditions maintain a favorable pressure gradient and avoid flow separation, leading to lower drag, while the off-design transonic conditions experience strong shock waves and shock-induced separation, resulting in higher drag and unsteady aerodynamic loads.",
+  "The numerical approach used in this study implements an error-free non-overlapping parallelization strategy, which maintains the same level of accuracy as sequential computing through global spectral analysis.",
+  "The key objectives of this study are to provide a comprehensive assessment of the aerodynamic performance of the SHM1 airfoil under both design and off-design conditions, which can serve as a benchmark for future validation efforts.",
+  "The study aims to establish a foundation for strategies aimed at controlling flow separation and shocks to minimize friction drag on the SHM1 airfoil.",
+  "The natural laminar flow technology integrated with the SHM1 airfoil has gained relevance in modern commercial aircraft, business jets, and unmanned aerial vehicles."
+]
