@@ -1,0 +1,15 @@
+{
+  "paper_id": "efac0472-68d9-4f0b-b01c-6c1003bd780a",
+  "title": "Examples of inconsistency in optimization by expected improvement",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/efac0472-68d9-4f0b-b01c-6c1003bd780a/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/efac0472-68d9-4f0b-b01c-6c1003bd780a/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/efac0472-68d9-4f0b-b01c-6c1003bd780a/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/efac0472-68d9-4f0b-b01c-6c1003bd780a/keywords.json"
+  ]
+}
