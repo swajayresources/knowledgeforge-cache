@@ -1,0 +1,17 @@
+[
+  "The critical density for LiH cooling to become competitive with HD cooling is around 10^6 cm^-3.",
+  "The authors consider cases where the primordial lithium abundance is enhanced by one order of magnitude (to [Li/H] = 4.6 \u00d7 10^-9).",
+  "Insufficient LiH is produced in all cases considered, with [LiH/Li] \u223c 10^-9 for T \u2272 100 K.",
+  "The authors' results are an extreme upper limit on the effect of LiH cooling, as they neglect photo-destruction processes and potentially underestimate the collisional dissociation rate of LiH.",
+  "The critical densities for H2 and HD cooling at T \u2248 100 K are around 400 cm^-3 and 6000 cm^-3, respectively.",
+  "The main channel for LiH formation in the low-temperature regime is the radiative association reaction Li^0 + H^0 \u2192 LiH + h\u03bd.",
+  "The cooling efficiency (per molecule) of LiH is much higher than those of H2 and HD, due to its large electric dipole moment.",
+  "The authors conclude that the cooling by LiH can safely be neglected for the thermal evolution of Population III star-forming gas.",
+  "The authors' numerical results for the equilibrium abundances of the main species match the analytical solutions very well.",
+  "The authors consider three astrophysical environments: shock-heated primordial gas, collapsing primordial gas in minihaloes, and initially ionized collapsing primordial gas in relic Hii regions.",
+  "The authors find that LiH cooling has no effect on the thermal evolution of the primordial gas in any of the three environments considered, even with the primordial lithium abundance enhanced by one order of magnitude.",
+  "The authors note that their results are an extreme upper limit on the effect of LiH cooling, as they neglect photo-destruction processes and potentially underestimate the collisional dissociation rate of LiH.",
+  "The authors implement the cooling functions for H2, HD, and LiH from various sources in the literature, and verify that their results are consistent with previous studies.",
+  "The authors use a minimal chemical network for lithium species, including Li^0, Li^+, Li^-, LiH^+, and LiH, to explore the formation and destruction of LiH in the primordial gas.",
+  "The authors find that the LiH abundance is extremely low, with [LiH/Li] \u223c 10^-9 for T \u2272 100 K, limiting the potential cooling effect of LiH."
+]
