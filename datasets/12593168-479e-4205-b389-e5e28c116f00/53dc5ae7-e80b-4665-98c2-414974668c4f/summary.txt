@@ -1,0 +1,1 @@
+This paper presents a crystal plasticity modeling framework for non-Schmid yield behavior in Ni3Al single crystals and Ni-based superalloys. The framework estimates non-Schmid model parameters directly from experimental yield stress data and is used to simulate orientation- and temperature-dependent yield behavior. Model predictions are in general agreement with experiments.
