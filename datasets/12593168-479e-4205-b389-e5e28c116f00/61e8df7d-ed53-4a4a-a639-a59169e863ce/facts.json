@@ -1,0 +1,17 @@
+[
+  "The anti-vortex film cooling concept proposes adding two branched holes from each primary hole to produce a vorticity counter to the detrimental kidney vortices.",
+  "Two main anti-vortex hole configurations were studied: the 'upstream' design with side holes emerging upstream of the main jet, and the 'adjacent' design with side holes emerging adjacent to the main jet.",
+  "The key geometric parameters were: hole diameter ratio (d/d_m = 0.5), side hole angle (105.67\u00b0 for adjacent, 90\u00b0 for upstream), and spanwise pitch (p/d = 3.0).",
+  "The computational study considered blowing ratios (M) of 1.0 and 2.0, and density ratios (DR) of 1.0 and 2.0.",
+  "The computational results showed the 'adjacent' anti-vortex design improved film cooling effectiveness compared to both the baseline round hole and the previous 'upstream' anti-vortex design.",
+  "A side hole diameter ratio of 0.5 was used, as a lower ratio of 0.25 was found to perform more poorly due to insufficient coolant flow through the side holes.",
+  "Unlike a staggered row of round holes, the anti-vortex design does not increase the overall coolant flow rate for a given plenum pressure.",
+  "Potential benefits of the anti-vortex design include easier manufacturability, potential for improved cooling in turbines subject to deposition, and alternate coolant flow paths if one hole becomes plugged.",
+  "Potential limitations include the lower limit on side hole diameter and the need to optimize the side hole size and angle to balance the counter-rotating vorticity generation.",
+  "The computational domain extended from the hole centerline to the mid-pitch plane, with symmetry boundary conditions applied.",
+  "The simulations were performed using the Glenn-HT CFD code with the k-\u03c9 turbulence model and a fine grid of approximately 2.5 million cells.",
+  "Convergence was achieved when residuals were reduced by 3 orders of magnitude and no observable change in surface temperature prediction occurred.",
+  "The baseline round hole case showed the characteristic kidney vortices and jet lift-off at the high blowing ratio (M=2, DR=2) condition.",
+  "The anti-vortex designs were able to mitigate the jet lift-off and improve the film cooling effectiveness compared to the baseline round hole.",
+  "The adjacent anti-vortex design required a similar plenum pressure to the baseline round hole to achieve the same blowing ratio, unlike a staggered row arrangement which would increase the overall coolant flow rate."
+]
