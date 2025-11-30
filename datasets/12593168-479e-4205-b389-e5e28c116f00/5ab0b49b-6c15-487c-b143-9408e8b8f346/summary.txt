@@ -1,0 +1,1 @@
+This paper presents the aerodynamic performance of a compact, high work-factor centrifugal compressor at the stage and subcomponent level. The compressor was designed to achieve efficient pressure rise at low corrected flows and compact size. The results show that the compressor meets the goal-set for a new state-of-the-art centrifugal compressor.
