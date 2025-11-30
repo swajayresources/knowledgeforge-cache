@@ -1,0 +1,17 @@
+[
+  "Two commercially available 8YSZ ethanol-based suspensions, O-YSZ and T-YSZ, were used for the suspension thermal spray deposition.",
+  "The as-sprayed coatings have a high amount of nano-sized porosity with radii below 100 nm, which is greatly reduced after heat treatment at 1100\u00b0C.",
+  "As the heat treatment temperature increases, the total porosity measured by both neutron scattering and image analysis decreases.",
+  "Neutron scattering consistently measures a higher total porosity compared to image analysis, particularly for the as-sprayed and higher temperature heat-treated samples.",
+  "The O-YSZ coating shows a sharp increase in porosity measured by neutron scattering at 1200\u00b0C, which is not observed in the T-YSZ coating.",
+  "The as-sprayed coatings have a metastable tetragonal (t') phase, which starts to decompose into a mixture of tetragonal (t) and cubic (c) phases at 1200\u00b0C.",
+  "By 1400\u00b0C, the phase transformation is complete, with no remaining t' phase and only t and c phases present.",
+  "The tetragonality (c/a\u221a2) of the coatings increases from ~1.0096 in the as-sprayed condition to ~1.011 at 1400\u00b0C, indicating the transition from the non-transformable t' phase to the transformable t phase.",
+  "The O-YSZ coating shows a nearly two-fold increase in crystallite size at 1400\u00b0C compared to the T-YSZ coating.",
+  "Micro-strain is reduced in both coatings from the as-sprayed condition as the heat treatment temperature increases.",
+  "Suspension thermal spray allows the use of sub-micron feedstock particles, enabling finer grain sizes, higher strength, reduced porosity, and enhanced thermal and mechanical properties.",
+  "Porosity directly influences the thermal conductivity and strain tolerance of thermal barrier coatings, making its detailed understanding crucial for optimizing coating performance.",
+  "The combination of SANS and USANS neutron scattering techniques allows the study of pore sizes ranging from ~1 nm to ~10 \u03bcm, covering both the nano-sized and micron-sized porosity features.",
+  "Image analysis is limited to pores with sizes above ~100 nm, making it inadequate for the study of suspension thermal sprayed coatings containing pores with radii below 10 nm.",
+  "The differences between neutron scattering and image analysis porosity measurements become more apparent at higher heat treatment temperatures as the microstructure evolves."
+]
