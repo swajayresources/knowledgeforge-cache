@@ -1,0 +1,1 @@
+This paper analyzes heat transfer and pressure distributions on a gas turbine blade tip. It compares calculated and experimental temperatures and coolant pressure losses for a cascade of small air-cooled turbine rotor blades, and applies the analytical methods to predict blade temperatures and cooling-air pressure drops for a high-temperature turboprop engine application.
