@@ -1,0 +1,17 @@
+[
+  "The heat exchanger geometry consists of a single tube with a length of 200mm and a shell diameter of 20mm.",
+  "The heat exchanger is modeled using a simplified geometry that accounts for planar symmetry and is cut in half vertically.",
+  "The k-omega turbulence model shows lower RMS residual levels, around 1e-06, indicating a tighter convergence compared to the k-epsilon model, which has residual levels around 1e-03.",
+  "The k-omega model shows a higher total heat transfer rate at the outlet of the inner tube compared to the k-epsilon model.",
+  "The study concludes that the k-omega model is best suited for the heat exchanger simulation, as it provides more accurate heat transfer predictions due to its tighter convergence.",
+  "Heat exchangers have a wide range of applications in industries such as food and beverages, petroleum, hydrocarbon processing, pharmaceutical, automotive, power, and marine.",
+  "The overall heat transfer coefficient is defined as the reciprocal of the sum of the individual heat transfer coefficients, the wall thickness, and the fouling resistance.",
+  "The two main heat transfer mechanisms discussed in the paper are conduction and convection, with radiation being less common in manufacturing industries.",
+  "The key equations used in the study are the energy balance equations (Equation 1 and Equation 2), the heat transfer equation (Equation 3), and the overall heat transfer coefficient equation (Equation 5).",
+  "The counter-current flow arrangement is significantly more efficient, with up to 15% better heat transfer performance compared to the parallel flow arrangement.",
+  "The paper mentions that the specific heat of a fluid is the property that determines the amount of heat needed to raise the temperature of the fluid by one degree Celsius.",
+  "The log mean temperature difference (LMTD) is used to estimate the average temperature difference across the heat exchanger, and a higher LMTD results in a smaller heat transfer area.",
+  "The heat transfer coefficient is defined as the heat transfer rate per unit area and unit temperature difference, and it is calculated separately for the external and internal fluids.",
+  "The Navier-Stokes equations, which describe the conservation of momentum, and the energy equation, which describes the conservation of energy, are the governing equations solved in the CFD analysis.",
+  "The k-epsilon and k-omega turbulence models are two-equation models that use two additional equations to close the set of equations and model the turbulence in the flow."
+]
