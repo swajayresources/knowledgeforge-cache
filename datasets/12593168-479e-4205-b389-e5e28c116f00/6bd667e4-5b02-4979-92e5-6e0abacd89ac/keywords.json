@@ -1,0 +1,18 @@
+[
+  "Computational Fluid Dynamics (CFD)",
+  "Mesh independency",
+  "Horizontal Axis Tidal Turbine (HATT)",
+  "Turbulence models",
+  "Standard k-epsilon",
+  "Shear Stress Transport (SST)",
+  "Power coefficient",
+  "Torque coefficient",
+  "Lift coefficient",
+  "Tip speed ratio",
+  "NACA 0018 airfoil",
+  "Blade twist",
+  "Boundary layer",
+  "Adverse pressure gradient",
+  "Rotating domain",
+  "Unstructured mesh"
+]
