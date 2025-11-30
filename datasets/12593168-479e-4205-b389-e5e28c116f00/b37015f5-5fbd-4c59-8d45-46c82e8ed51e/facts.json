@@ -1,0 +1,21 @@
+[
+  "Multi-objective topology optimization of heat transfer surface using level-set method and adaptive mesh refinement in OpenFOAM Di Chen1, Prashant Kumar1, Yukinori Kametani2, Yosuke Hasegawa1* *Corresponding author: ysk@iis",
+  "jp 1 Institute of Industrial Science, The University of Tokyo 2 School of Science and Technology, Meiji University Abstract The present study proposes a new efficient and robust algorithm for multi-objectives topology optimization of heat transfer surfaces to achieve heat transfer enhancement with a less pressure drop penalty based on a continuous adjoint approach",
+  "The developed solver is first validated in a drag reduction problem of a flow around a two-dimensional cylinder at the Reynolds numbers of 10 and 40 by comparing reference data",
+  "Then, the proposed scheme is extended to heat transfer problems in a two-dimensional flow at the Prandtl number of 0",
+  "Among various solutions obtained on the Pareto front, 4",
+  "0% of heat transfer enhancement with 12",
+  "6% drag reduction is achieved at the Reynolds number of 10 and the Prandtl number of 6",
+  "With the rapid advancements in additive manufacturing technology and novel functional materials in the past decades, topology optimization (TO) has attracted much attention as a tool to obtain new design concepts of heat transfer surfaces [1]",
+  "Significant improvements in thermal and hydraulic performances from conventional heat transfer surfaces have been reported through shape/topology optimization [2]",
+  "Existing studies of heat sinks TO have considered either hydraulic resistance or thermal dissipation [5]- [10], or multiple objectives taking into account both of them [2]-[4]",
+  "The update of the design variables is conducted with different algorithms such as the steepest descent method [5], [11], [12], Method of Moving Asymptotes (MMA) [3], [4], [13], Sequential Linear/Quadratic Programming (SLP/SQP) [2], [10], etc",
+  ", as reviewed by Dbouk [1]",
+  "On the other hand, gradient-free methods such as genetic algorithms [14], [15], particle swarm optimization [16], and Bayesian optimization [17] have the potential to find the global minimum, since it does not rely on the local gradient",
+  "Gradient-based algorithms have been developed for shape optimization since the pioneering study by Pironneau [18] for obtaining the optimal airfoil profile with the minimum drag based on an adjoint method",
+  "However, the requirement of the remeshing for updated fluid-solid boundaries [7] significantly increases the overall computational cost",
+  "In the present study, we propose a novel strategy to maintain the interfacial location within a local one-grid spacing during the reinitialization procedure without introducing the iterative process proposed by Zhang et al",
+  "The purposes of the present study are as follows: We propose a new reinitialization procedure for LSM and combine it with a customized OpenFOAM TO solver",
+  "To overcome this problem, we propose a novel simple algorithm for the reinitialization of \ud835\udf19",
+  "3D optimization on pin fin array in channel flow Finally, we showcase the application of the present framework to topology optimization problem of a 3D pin-fin array"
+]
