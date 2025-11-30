@@ -1,0 +1,12 @@
+[
+  "The study was conducted to predict the flow field within the NASA Lewis Transonic Turbine Blade Cascade Facility, which is used to evaluate rocket propulsion turbines.",
+  "A pitchwise non-uniform total pressure distribution was observed at the blade row leading edge plane.",
+  "The PARC code, a general-purpose, three-dimensional, Navier-Stokes code with multi-block solution capability, was used for the computational analysis.",
+  "The computational analysis showed that the cause of the flow non-uniformity was a pair of vortices that originated in the embedded bellmouth inlet.",
+  "An examination of the results showed that the distortions were caused by the interaction of the flow with the embedded bellmouth.",
+  "Computations were performed for an inlet geometry that eliminated the embedded bellmouth by bridging the region between it and the upstream wall.",
+  "The analysis of the redesigned inlet section indicated that eliminating the embedded bellmouth eliminated the troublesome pair of vortices, resulting in a flow with much greater pitchwise uniformity.",
+  "The computational approach was chosen because physical accessibility to the inlet section was limited, and it allowed for cheaper and quicker examination of design changes compared to an experimental approach.",
+  "The computational analysis was able to accurately predict the total pressure loss regions consistent in strength and location to experimental measurements.",
+  "The study demonstrates the usefulness of computational fluid dynamics (CFD) in analyzing and redesigning complex flow geometries in turbine cascade facilities."
+]
