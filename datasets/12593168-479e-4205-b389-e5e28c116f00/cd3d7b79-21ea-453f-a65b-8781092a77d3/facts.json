@@ -1,0 +1,17 @@
+[
+  "The Savonius wind turbine is a type of vertical axis wind turbine (VAWT) that is propelled by drag.",
+  "The Savonius wind turbine was invented by Sigurd J. Savonius in 1922 and first commercialized in the 1920s.",
+  "The study used three different Savonius rotor models with varying blade sizes: Model 1 (height 1 m, diameter 0.4 m), Model 2 (height 0.75 m, diameter 0.3 m), and Model 3 (height 0.5 m, diameter 0.2 m).",
+  "The simulations were performed using ANSYS Fluent 2021 R21 with a constant upstream wind speed of 9.2 m/s.",
+  "The power coefficient (Cp) of all models increased with tip-speed ratio (TSR) and reached the highest efficiency at a TSR of around 0.9.",
+  "Model 2 had the highest power coefficient, followed by Model 3 and Model 1.",
+  "The maximum power output was 24.13 Watts, achieved by Model 3.",
+  "The torque and torque coefficient were higher at low TSR and decreased as the TSR increased.",
+  "Compared to the peak power coefficient, Model 2 was 31.99% higher than Model 3 and 65.63% higher than Model 1.",
+  "The Savonius wind turbine design has the advantages of being able to capture wind from any direction and rotating slowly, with a strong starting torque and no wind direction issues.",
+  "The study aimed to maximize wind energy harvesting and rotational mechanical electric generation of Savonius rotors by varying the rotor blade size and observing the performance.",
+  "The blade size significantly impacts the efficiency of Savonius wind turbines, and the proper selection of blade size is crucial for efficient operation.",
+  "The study used computational fluid dynamics (CFD) analysis to evaluate the aerodynamic characteristics of the Savonius rotor wind turbines.",
+  "The simulation was carried out using a transient time flow with a constant upstream wind speed.",
+  "The SIMPLE algorithm was used for the pressure-velocity coupling scheme in the solution method."
+]
