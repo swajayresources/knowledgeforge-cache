@@ -1,0 +1,17 @@
+[
+  "The highest power coefficient of 0.4218 was obtained using the SST turbulence model with the fine mesh.",
+  "The power coefficients obtained from the standard k-epsilon model were 15-20% lower than the SST model.",
+  "The medium mesh with the SST model provided the best balance of accuracy and computational cost.",
+  "The torque coefficient increased with increasing tip speed ratio, but dropped drastically after a tip speed ratio of 5, which the k-epsilon model failed to capture.",
+  "The straight blade tidal turbine had three blades with a radius of 7.4 m and used a NACA 0018 airfoil.",
+  "The root airfoil chord length was 1 m, the tip airfoil chord length was 360 mm, the root airfoil twist was 16\u00b0, and the tip airfoil twist was 4\u00b0.",
+  "The mesh independency study was performed by developing three different meshes: coarse, medium, and fine, for both the k-epsilon and SST turbulence models.",
+  "The SST medium mesh offered the best level of accuracy regarding computational costs.",
+  "The standard k-epsilon model under-predicted the power coefficients due to its poor performance in near-wall regions and adverse pressure gradients.",
+  "The straight blade tidal turbine produced a maximum power of 366 kW and a power coefficient of 0.4028.",
+  "The mesh resolution and the turbulence model selection had a significant impact on the power coefficient results.",
+  "The highest lift coefficient of 0.182 was observed at the 0.5 blade span location.",
+  "Positive blade tip vortices were observed on the pressure side of the blade due to high turbulence intensities.",
+  "The fluid velocity expanded as it passed through the turbine, contributing to the maximum efficiency.",
+  "The convergence condition was determined with a margin of error less than 10^-5, and each case study required at least 3 hours of simulation time."
+]
