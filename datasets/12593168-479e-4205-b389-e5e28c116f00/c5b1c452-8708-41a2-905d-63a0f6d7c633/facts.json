@@ -1,0 +1,19 @@
+[
+  "The energy gradient theory can reveal the physical mechanism of flow instability in a differentially heated cavity.",
+  "The fin length has a negligible effect on heat transfer when the Rayleigh number is relatively high.",
+  "The most efficient heat transfer rate is achieved when the fin is fixed at the middle height of the cavity.",
+  "The fin blocks heat transfer when the Rayleigh number is relatively small.",
+  "The fin enhances heat transfer when the Rayleigh number is relatively large.",
+  "A linear correlation is obtained between the energy gradient function and Rayleigh number.",
+  "The Prandtl number of water is 6.67.",
+  "The Prandtl number of air is 0.67.",
+  "The Rayleigh number range studied in this paper is from 10^4 to 10^9.",
+  "The aspect ratio of the cavity studied in this paper is 0.24.",
+  "The numerical algorithm used in this paper is finite-volume SIMPLE scheme with the QUICK scheme approximating the advection term.",
+  "The grid independence test used in this paper involves four different grid systems with mesh sizes of 0.004, 0.003, 0.002, and 0.0015.",
+  "The energy gradient function is a dimensionless field variable that expresses the ratio of the energy gained in a half-period by the particle and the energy loss due to viscosity in the half-period.",
+  "The criterion of stability in the energy gradient theory is the ratio of the energy gained in a half-period by the particle and the energy loss due to viscosity in the half-period.",
+  "The energy gradient theory can be used to explain the physical mechanism of flow instability in natural convection.",
+  "The study of flow instability in a differentially heated cavity is important for understanding heat transfer and fluid dynamics.",
+  "The energy gradient theory provides a new perspective on the physical mechanism of flow instability in natural convection."
+]
