@@ -1,0 +1,17 @@
+[
+  "NASA/CR--2001-210764 2001-GT-0156 Heat Transfer and Flow on the Blade Tip of a Gas Turbine Equipped With a Mean-Camberline Strip A",
+  "Ameri AYT Corporation, Brook Park, Ohio Prepared for the 2001 Summer Annual Gas Turbine Conference sponsored by the American Society of Mechanical Engineers New Orleans, Louisiana, June 3-7, 2001 Prepared under Contract NAS3-00180 National Aeronautics and Space Administration Glenn Research Center May 2001 Acknowledgments This work was sponsored by the Turbomachinery and Combustion Technology Project",
+  "Some of the computations were performed on the CRAY-C90 of NAS at NASA Ames Research Center",
+  "Available from NASA Center for Aerospace Information National Technical Information Service 7121 Standard Drive 5285 Port Royal Road Hanover, MD 21076 Springfield, VA 22100 Available electronically at http://gltrs",
+  "Ameri AYTCorporation BrookParkO, hio44142 ameri@grc",
+  "gov ABSTRACT Pro - Pt_ Y Total pressure loss, Experimental and computational studies have been Pro - P 1 performed to investigate the detailed distribution of convective heat transfer coefficients on the first-stage blade tip surface for a Subscripts geometry typical of large power generation turbines(>100MW)",
+  "0 inlet condition More recently several other tip treatments have been considered for which the tip heat transfer has been measured and i exit conditions documented",
+  "It was works best (among the cases considered) in reducing the tip shown by Mayle and Metzger [1] that the heat transfer at a blade leakage flow and the tip heat transfer",
+  "In a constant pressure specific heat previous numerical study [2] the predicted tip heat transfer for a h heat transfer coefficient sharp edge tip and a radiused tip (blade tip with a rounded edge Pr Prandtl number around the perimeter of the blade tip) was compared with the R gas constant measured experimental data of Bunker et al",
+  "The results of simulations nicely agreed with the T static temperature/T O experimental data and showed that the tip heat transfer for Tu turbulence intensity radiused edge would be larger than that for a sharp edge tip due to the relatively higher velocity on the radiused edge tip than on the V magnitude of the velocity/(R To) 1/2 sharp edge tip",
+  "More recently, Bunker and Bailey [4] have made y4- dimensionless distance from a wall, further measurements for various tip treatments including Y specific heat ratio circumferential rub strip, 45-degree angled run strips, perimeter T shear stress squealer rim and mean-camberline strip",
+  "NASA/CR--2001-210764 1 _l' _ ',_\"\" 3",
+  "43 cm Shroud I t",
+  "o oll I- I turbulence bars 5",
+  "19 cm casing reces 13"
+]
