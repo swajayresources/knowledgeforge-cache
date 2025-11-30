@@ -1,0 +1,18 @@
+[
+  "The paper presents a physico-mathematical model for determining the heat transfer parameters between viscous gasdynamic flotations and cooled gas turbine blades made using composite permeable membrane (CPM) technology.",
+  "The mathematical model includes equations of dynamic and thermal boundary layers, three-dimensional transient heat conduction in CPM cooled frames, complex hydraulic flow and cooling inside the channels of a cooled blade.",
+  "A complex problem was solved to determine the thermal state of microrocket engines, where a method was proposed for immersing a multiply-connected domain in a region of the simplest form.",
+  "The results obtained showed greater cooling efficiency at lower cooling medium costs.",
+  "The CPM has a two-layer structure with 7 different modes of cooling medium flow in the channels.",
+  "The geometric dimensions of the CPM structure are: a = 5 mm, b = 5 mm, c = 2 mm, d = 2 mm, l = 1.5 mm, f = 1.5 mm, \u03b41 = 0.5 mm, \u03b42 = 0.5 mm, \u03b43 = 0 mm, \u03b44 = 0.5 mm, \u03b45 = 0.5 mm, P = 0.5 mm.",
+  "The thermal and physical properties of the CPM frame materials are: \u03bb1 = 0.5042 kW/m\u00b7K, \u03c11 = 7800 kg/m^3, c1 = 1.26 kJ/kg\u00b7K for the first material, and \u03bb2 = 0.1512 kW/m\u00b7K, \u03c12 = 7800 kg/m^3, c2 = 1.26 kJ/kg\u00b7K for the second material.",
+  "The gasdynamic flotation characteristics are: Te = 1600 K, \u03c1e = 200 m/s, Pr = 0.71, \u03b4e = 0.1 kg/m.",
+  "The cooling efficiency metric \u03b8 is defined as \u03b8 = (Te - Tw1)/(Te - Tcooled), where Te is the effective temperature of the gasdynamic flotation, Tw1 is the temperature of the impermeable wall, and Tcooled is the temperature of the cooling medium.",
+  "The results show that lower unit surface conductance on the impermeable wall leads to higher CPM cooling efficiency.",
+  "The CPM cooling technology allows for greater cooling efficiency at lower cooling medium costs, by optimizing the heat transfer parameters.",
+  "The modeling and analysis can be used to design more efficient cooling systems for high-temperature gas turbine engines.",
+  "The paper was supported by grants from the Russian Foundation for Basic Research and the President of the Russian Federation.",
+  "The authors applied the immersion method and fractional step method to numerically solve the 3D transient heat conduction problem in the multiply-connected CPM domain.",
+  "The paper presents a new economical and stable numerical method for solving spatial nonstationary heat transfer problems in multiply-connected domains.",
+  "The results demonstrate the effectiveness of the CPM cooling technology compared to traditional approaches."
+]
