@@ -1,0 +1,1 @@
+This paper investigates the hydrogen-induced fracture characteristics of single crystal nickel-based superalloys, specifically PWA 1480E. It examines the fracture behavior of PWA 1480E single crystals with different orientations at room temperature and 871°C in both helium and hydrogen environments, using analytical electron microscopy and scanning electron microscopy techniques.
