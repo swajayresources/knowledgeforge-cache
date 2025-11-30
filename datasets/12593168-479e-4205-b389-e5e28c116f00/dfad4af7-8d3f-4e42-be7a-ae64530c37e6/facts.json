@@ -1,0 +1,12 @@
+[
+  "CometBoards is written in Fortran 77, except for the neural network code Cometnet which is written in C++.",
+  "CometBoards can optimize a large system defined in up to 50 different subproblems or a component of a large system.",
+  "The Integrated Force Method (IFM) has been specialized to obtain the displacement method, the mixed method, and the total formulation, but the displacement method cannot be transformed to obtain the IFM.",
+  "The neural network model predicted all response variables for the subsonic aircraft design within 5% error, which was reduced to 1% by the regression method.",
+  "Training the neural network and regression approximation models for the PAX-300 engine was time-consuming, but once trained, they could generate solutions in less than a minute compared to hours for the original NPSS code.",
+  "The cascade optimization strategy for the subsonic waverotor-topped turbofan engine used three algorithms in sequence and improved the maximum thrust by 5% compared to the benchmark NEPP results.",
+  "The Integrated Force Method (IFM) and the Completed Beltrami Michell's Formulation (CBMF) ensure solution fidelity by placing equal emphasis on the stress and strain formulations.",
+  "CometBoards has provisions to accommodate up to 10 different disciplines, each with a maximum of 5 subproblems.",
+  "The Integrated Force Method (IFM) has the potential to complement the stiffness method and spawn the next generation of finite element formulations.",
+  "The author, Dr. Surya N. Patnaik, has over three decades of experience in aerospace agencies and educational institutions, with expertise in solid mechanics, multidisciplinary design optimization, and environmental testing."
+]
