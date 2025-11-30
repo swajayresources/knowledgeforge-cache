@@ -1,0 +1,17 @@
+[
+  "Dynamic compression",
+  "Variable-to-variable compression",
+  "Word-based compression",
+  "Patricia tree",
+  "End-Tagged Dense Code (etdc)",
+  "Non-terminal symbols",
+  "Terminal symbols",
+  "Vocabulary management",
+  "Compression ratio",
+  "Compression and decompression performance",
+  "Memory usage",
+  "Repetitive text",
+  "Natural language text compression",
+  "Adaptive compression",
+  "Searchable compressed text"
+]
