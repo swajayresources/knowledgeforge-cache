@@ -1,0 +1,17 @@
+[
+  "A total of 4,768 resonances were detected in 479 plasma discharges during the 2019-2020 JET deuterium campaign.",
+  "The measured resonant frequencies showed good agreement with the estimated Toroidal Alfv\u00e9n Eigenmode (TAE) frequencies, with the histogram peaking at a ratio of f0/fTAE = 1.2.",
+  "The recently upgraded independent phasing of the eight AEAD antennas allowed probing of high toroidal mode numbers up to |n| \u2264 20.",
+  "The probability of resonance detection decreased with increasing plasma current and external heating power.",
+  "The normalized damping rate (-\u03b3/\u03c90) increased with edge safety factor but decreased with external heating.",
+  "A correction was applied to the damping rates to account for the effects of changing antenna and resonant frequencies.",
+  "The 5th to 95th percentile ranges of plasma parameters were: Ip = 1.7-3.6 MA, B0 = 2.4-3.4 T, ne0 = 3.2-7.9 \u00d7 10^19 m^-3, and q95 = 3.0-5.6.",
+  "The toroidal mode numbers were estimated using two methods: a weighted chi-square calculation using probe phase information, and the SparSpec algorithm which decomposes both probe amplitude and phase data.",
+  "There was generally good agreement between the toroidal mode numbers applied by the AEAD and those estimated for the excited resonances.",
+  "Approximately 83% of the resonances were measured in X-point magnetic configurations, with the remaining 17% in limiter configurations.",
+  "The AEAD was operated during 676 plasma discharges during the 2019-2020 deuterium campaign, spanning JPN 93063-96855.",
+  "The AEAD antennas were operated most frequently with phases corresponding to toroidal mode numbers n = 0, -1, -4, and -10.",
+  "The magnetic signals from the fourteen fast magnetic probes were synchronously detected at the antenna frequency with an effective band-pass filter width of \u0394f \u2248 0.1 kHz.",
+  "The final fitted values of resonant frequency f0 and damping rate \u03b3/\u03c90 were calculated as the weighted mean of all probes' fits, with the standard error used for the total uncertainty.",
+  "Resonances with uncertainties \u0394f0 > 1 kHz, \u0394(\u03b3/\u03c90) > 1%, or R-squared < 0.8 were discarded from the final database."
+]
