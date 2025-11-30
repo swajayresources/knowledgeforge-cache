@@ -1,0 +1,17 @@
+[
+  "The two discharges compared were #79423 with a carbon wall and #81928 with the ITER-like wall (ILW).",
+  "In the carbon wall case (#79423), a runaway electron plateau of 600 kA was observed, while in the ILW case (#81928), the runaway current was negligibly small (less than 70 kA).",
+  "The pre-disruption plasma current was around 1.9 MA, the magnetic field was 2 T, the elongation was 1.3, and the effective charge (Zeff) was around 2.2-2.5.",
+  "The total number of injected argon atoms was 7.39x10^20 for #79423, 30% higher than the 5.68x10^20 amount for #81928.",
+  "The thermal quench occurred at slightly different times with respect to the argon valve trigger, with a 30 ms difference between the two discharges.",
+  "In the ILW case (#81928), the temperature dropped down to 300 eV due to the low radiation intensity and slower transport times during the current quench.",
+  "The authors used a one-dimensional model that solves coupled differential equations for the runaway density, heat diffusion, and plasma current in the presence of impurity injection.",
+  "The model includes Dreicer generation, runaway avalanching, and losses due to radial diffusion from magnetic perturbations.",
+  "The authors performed scans of the argon and background impurity (carbon or beryllium) contents to investigate their effects on runaway electron generation.",
+  "The results indicate that the differences in runaway electron generation between the carbon wall and ILW cases are greatly reduced above 50% argon content.",
+  "The authors found that the reason for the changed runaway electron dynamics is a complex, combined effect of differences in plasma parameter profiles, radiation characteristics, and injected argon amount.",
+  "The authors assessed the effect of magnetic perturbations on runaway electron suppression, but did not provide the specific level of perturbation required.",
+  "The authors note that the reliability of Zeff measurements during the disruption is low, and values during and after the thermal quench have to be considered with caution.",
+  "The authors state that the ionization/recombination and radiation calculation is the most CPU-intensive task in the numerical model.",
+  "The authors found that the change in plasma electron density with the experimentally measured magnitude of 30% has a negligible effect on the saturation runaway current."
+]
