@@ -1,0 +1,19 @@
+[
+  "Parks DepartmentofEngineering DepartmentofMathematics(StatisticsSection) DepartmentofEngineering UniversityofCambridge ImperialCollegeLondon UniversityofCambridge Cambridge,UnitedKingdom London,UnitedKingdom Cambridge,UnitedKingdom cyw28@cam",
+  "uk March10,2021 ABSTRACT Tomaximisefueleconomy,bladedcomponentsinaero-enginesoperateclosetomateriallimits",
+  "1 Introduction Jet engines on aircraft are operated close to material limits to maximise fuel economy",
+  "Works such as [4] and [21] offer detailed qualitative reviews of the effects of commonly found in-service deteriorations in gasturbines",
+  "Forexample,specialaccess plugsortheholeofaremovedignitercanbeusedtoaccessthehotsectionofaturbine[8]",
+  "Thisamountstoanexpensiveprocedurethatrepresentsaconsiderablefractionoftheengine list price [2]",
+  "For example, Boeing reports that the cost of repairing damage caused by FOD can exceed $1 million 1202 beF 32 ]VC",
+  "sc[ 1v03450",
+  "3012:viXra AutomaticBorescopeDamageAssessmentsforGasTurbineBladesviaDeepLearning Figure1:Overviewofautomaticborescopedamageassessmentworkflow",
+  "be/gChfhRZ_pN0",
+  "forasingleoverhauloperationperengine,exceeding20%oftheengine\u2019slistprice2",
+  "Newandinexperiencedinspectorsmaylacktheknowledgeandskillstoreliablyidentify andflagproblematicengineparts[7]",
+  "Thesemeasurementsarecomparedagainsttolerancelimitsbasedonpreviouscasestudiesdelineatedinrelevant enginemanuals[28]",
+  "Various studies have been conducted on quantifying the impact of damagedbladesoncomponent[29,11]andoverallengineperformance[13,1], buthaverestrictedtheiranalysesto specific types of defects, with varying methods of measuring output performance leading to different conclusions",
+  "To complicate matters, in [2] the authors find that the classification of defects on gas turbine blades presented from various sources is inconsistent and sometimes incomplete, leading to variability in practices among different parties evenwithinasingleorganisation",
+  "In addition, we propose approaches to track detected rotor blades across a sequence of frames, enablingustocreatesummarystatisticsofthetypesandextentofdamagefoundonindividualblades",
+  "4 Conclusionsandfuturework Using methods from computer vision, we show that it is possible to detect damage present on blades via videos collectedfromborescopeinspections"
+]
