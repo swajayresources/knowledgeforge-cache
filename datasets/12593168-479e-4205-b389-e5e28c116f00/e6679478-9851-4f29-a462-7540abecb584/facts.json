@@ -1,0 +1,18 @@
+[
+  "Qian1,* 1Centre for Additive Manufacturing, School of Engineering, RMIT University, Melbourne, VIC 3000, Australia",
+  "2Centre for Advanced Materials Processing and Manufacturing (AMPAM), School of Mechanical and Mining Engineering, The University of Queensland, St Lucia, QLD 4072, Australia",
+  "Qian, School of Engineering, RMIT University, Melbourne, VIC 3000, Australia",
+  "Qian) Abstract Metals and alloys fabricated by fusion-based additive manufacturing (AM), or 3D printing, undergo complex dynamics of melting and solidification, presenting challenges to the effective control of grain structure",
+  "Herein, we report on the use of high-intensity ultrasound that controls the process of solidification during AM of 316L stainless steel",
+  "Moreover, the use of ultrasound increases the number density of grains from 305 mm-2 to 2748 mm-2 despite an associated decrease in cooling rate 1 and temperature gradient in the melt pool during AM",
+  "Keywords: Additive manufacturing, 3D printing, Grain refinement, Ultrasound, Ultrasonic treatment, Steel",
+  "Introduction Additive manufacturing (AM), or 3D printing, enables the ability to create complex products that can be mass customised [1-3]",
+  "A barrier to widespread implementation of AM of metals is the common occurrence of anisotropic properties in printed products, which is closely associated with coarse columnar grains that grow along the build direction in most commercial alloys [4, 5]",
+  "Promoting the columnar-to-equiaxed transition (CET) in AM-fabricated alloys can remove issues with anisotropic properties [6] and optimize combinations of strength, ductility, and toughness [7]",
+  "However, the low temperature gradients (G) required to form equiaxed grains in many alloys are often difficult to achieve during AM based on established maps of solidification [8-10]",
+  "Hence, further advances in AM machines are required to ensure high added-value 2 printed products for the widespread adoption of AM in industrial sectors",
+  "[11] have recently demonstrated the use of high-intensity ultrasound to control the grain structures of AM-fabricated Ti-6Al-4V and Inconel 625",
+  "As a result, the attendant grain structure showed substantially reduced structural anisotropy with noticeably improved tensile strengths [11]",
+  "Meanwhile, high-intensity ultrasound irradiates the melt pool, which remains molten for only about 0",
+  "We show that ultrasound-assisted AM can avoid these latent issues and therefore holds promise to produce fine-grained 316L stainless steel for improved and consistent properties without compromising its resistance to corrosion"
+]
