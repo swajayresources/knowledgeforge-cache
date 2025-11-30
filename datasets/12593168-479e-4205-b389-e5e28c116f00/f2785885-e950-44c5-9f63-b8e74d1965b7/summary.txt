@@ -1,0 +1,1 @@
+This paper presents a computational fluid dynamics (CFD) methodology for simulating the internal cooling of turbine blades, including the effects of rotation. The authors discuss the development of the Glenn-HT code, which uses a multi-block grid approach and the k-ω turbulence model to accurately capture the complex flow and heat transfer in these systems.
