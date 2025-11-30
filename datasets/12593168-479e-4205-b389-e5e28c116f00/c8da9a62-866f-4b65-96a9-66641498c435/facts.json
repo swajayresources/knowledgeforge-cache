@@ -1,0 +1,17 @@
+[
+  "The experiments were performed in a steady-flow annular turbine cascade facility equipped with an upstream rotating row of cylindrical rods to produce a periodic wake field.",
+  "Spanwise, chordwise, and temporal resolution of the blade surface temperature were achieved through the use of an array of nickel thin-film surface gauges.",
+  "Film effectiveness and Nusselt numbers were determined for a test matrix of various injectants, injectant blowing ratios, and wake Strouhal numbers (St).",
+  "Results indicate a demonstrable reduction in film effectiveness with increasing Strouhal number.",
+  "An equation was developed to correlate the span-average film effectiveness data.",
+  "The primary effect of wake unsteadiness was found to be correlated well by a chordwise-constant decrement of 0.094 St.",
+  "Measurable spanwise film effectiveness variations were found near the showerhead region, but meaningful unsteady variations and downstream spanwise variations were not found.",
+  "Nusselt numbers were less sensitive to wake and injection changes.",
+  "Computations were performed with a three-dimensional turbulent Navier-Stokes code that had been modified to model wake passing and film cooling.",
+  "Unsteady computations were found to agree well with steady computations when the proper time-average blowing ratio and pressure/suction surface flow split were matched.",
+  "Steady computations were found to be in excellent agreement with experimental Nusselt numbers but to overpredict experimental film effectiveness values.",
+  "The overestimation of film effectiveness in the computations is likely due to the inability of the code to match actual hole exit-velocity profiles and the absence of a credible turbulence model for film cooling.",
+  "The experiments were performed at the NASA Lewis Research Center.",
+  "The primary author of the paper is James D. Heidmann.",
+  "The paper was accepted for presentation at the ASME TURBO EXPO conference in Orlando, FL in June 1997."
+]
