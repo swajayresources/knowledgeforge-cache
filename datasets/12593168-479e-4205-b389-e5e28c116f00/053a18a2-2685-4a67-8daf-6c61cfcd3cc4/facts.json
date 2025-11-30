@@ -1,0 +1,22 @@
+[
+  "Baltaa,YannickNagelc,HangYind,AlisaRupenyana,b,\u2217,JohnLygerosa aAutomaticControlLaboratory,ETHZurich,Physikstrasse3,8092,Zurich,Switzerland bInspireAG,Technoparkstrasse1,8005,Zurich,Switzerland cNematXAG,Vladimir-Prelog-Weg5,8093,Zurich,Switzerland dDepartmentofMechanicalandProcessEngineering,ETHZurich,Leonhardstrasse21,8092,Zurich,Switzerland Abstract Whenmanufacturingpartsusingmaterialextrusionadditivemanufacturingandanisotropicpolymers,themechanicalpropertiesofa manufacturedcomponentarestronglydependentontheprinttrajectoryorientation",
+  "We demonstrate the method by manufacturing a load bearing mechanical bracket using a 5-axis 3D printer and a liquid crystal polymer material",
+  "The failure strength and stiffness of the optimized bracket are improved by a factor of 44 and 6 respectivelywhencomparedwithconventionalprinting",
+  "Keywords: MaterialExtrusion,FusedFilamentFabrication,TrajectoryOptimization,Non-PlanarPrinting,StressAlignment 1",
+  "Introduction thereisobliqueloading,oriftheprintedpartdoesnotfollowa simpleplanarsurface,thestressflowoftencrossesthroughthe Inmost3D-printingapplications,thematerialisformedin inter-layer bonding locations creating premature failures",
+  "De- 2Dlayersviatheprintingtechnologyofinterest(e",
+  "Byformingsubsequent loading [12], the planar layer constraint in 2",
+  "5D FFF remains layers on top of the previous ones, a 3D object is obtained",
+  "a limit to the applicability of the technology in mechanically Material extrusion additive manufacturing [1], also known as demandingusecases",
+  "fusedfilamentfabrication(FFF),orfuseddepositionmodeling Hereinstead,westudyanon-planarFFFprocesswherelay- (FDM),isoneofthemostcommon3Dprintingprocesses[2]",
+  "ers are defined by arbitrary curves and surfaces in a 3D space Traditionally, in FFF, a thermoplastic material is deposited in (seeFig",
+  "Non-planarFFFprintingapproachescommonly predefined paths via a numerically controlled heated extruder usea5-axisprintertodepositmaterialalongnon-planartrajec- to create a part in a layer-wise fashion",
+  "Asthefinalsolidpartisobtained mechanicalproperties[13,14,15]",
+  "Whiletherearemethodsin bysuperpositionofplanarlayersintheZ-axis,theconventional theliteraturetooptimizeprinttrajectoriesfornon-planarlayers, FFFapproachisoftenreferredtoas2",
+  "5Dprinting[3]",
+  "Additionally,duringthedeposition methods that we propose, we will use a load bearing mechan- oftightlypackedlines,thedragcreatedbythenozzleprinting ical piece, that we refer to as the fork for simplicity",
+  "Solving The print trajectory optimization method we propose has the problem corresponds to computing a trajectory-generating been developed to exploit the properties of anisotropic mate- scalar field in each layer",
+  "As the toolpath opti- thatminimizestheDirichletenergyofthestressflowintheun- mizationproblemthatweposeissensitivetovectororientation criticalregion,constrainedbytheboundaryconditionswiththe ambiguity, we propose to pre-process the stress flow",
+  "We show the critical region and the scalar responds to a perfectly aligned slicing and \u03b3\u00af = 0 to ta case fieldcorrespondingtotheexamplesliceinFig",
+  "In Table 2, we show the average trajectory stress- alignment\u03b2\u00afforthethreegeometriesthatwehavedemonstrated"
+]
