@@ -1,0 +1,17 @@
+[
+  "The nominal chemical composition of the MAR-M247 superalloy is 10% Co, 10% W, 8.4% Cr, 5.5% Al, 3% Ta, 1.4% Hf, 1.1% Ti, 0.65% Mo, 0.05% Zr, 0.015% B, and 0.15% C, with the balance being Ni.",
+  "Thermo-Calc simulations predicted the start of superalloy crystallization (\u03b3 phase formation) at 1397\u00b0C, followed by the precipitation of MC carbides from the liquid at 1371\u00b0C.",
+  "DSC analysis during cooling revealed four main thermal effects: liquidus at 1337\u00b0C, formation of the eutectic \u03b3-\u03b3' at 1315\u00b0C, precipitation of Ni(Hf,Zr) at 1244\u00b0C, and precipitation of M5B3 borides at 1201\u00b0C.",
+  "X-ray diffraction (XRD) analysis identified the presence of the \u03b3 matrix, \u03b3' precipitates, MC carbides, M5B3 borides, and Ni(Hf,Zr) intermetallic phases in the as-cast MAR-M247 superalloy.",
+  "The primary dendrite arm spacing (PDAS) decreased from 331 \u03bcm to 303 \u03bcm, and the secondary dendrite arm spacing (SDAS) decreased from 71 \u03bcm to 56 \u03bcm, as the withdrawal rate increased from 3.4 mm/min to 5.0 mm/min.",
+  "The partitioning coefficients (k) showed that W and Al have k>1, indicating higher concentrations in the dendritic regions, while Cr, Ti, Ta, and Hf have k<1, indicating higher concentrations in the interdendritic regions.",
+  "The volume fraction of secondary \u03b3' precipitates in the dendritic regions decreased from 51% to 50% as the withdrawal rate increased from 3.4 mm/min to 5.0 mm/min for the 1510\u00b0C mold preheating temperature.",
+  "The mean size of the secondary \u03b3' precipitates ranged from 0.437 \u03bcm to 0.481 \u03bcm, with the largest mean size observed in the casting with a mold preheating temperature of 1566\u00b0C and a withdrawal rate of 3.4 mm/min.",
+  "The ultimate tensile strength of the as-cast MAR-M247 superalloy castings ranged from 970 MPa to 1088 MPa, depending on the casting parameters.",
+  "The presence of Hf in the directionally solidified MAR-M247 superalloy favors the formation of higher amounts of primary \u03b3' precipitates.",
+  "Increasing the withdrawal rate from 3.4 mm/min to 5.0 mm/min led to a decrease in the mean size of secondary \u03b3' precipitates in the interdendritic regions from 0.604 \u03bcm to 0.565 \u03bcm for the 1510\u00b0C mold preheating temperature.",
+  "The volume fraction of secondary \u03b3' precipitates in the interdendritic regions was higher compared to the dendritic regions, reaching up to 57% in the casting with a mold preheating temperature of 1566\u00b0C and a withdrawal rate of 3.4 mm/min.",
+  "Previous studies have shown that increasing the cooling rate leads to a decrease in the size and volume fraction of MC carbides in single-crystal superalloys, which is likely applicable to the directionally solidified MAR-M247 superalloy as well.",
+  "The morphology of the secondary \u03b3' precipitates tends to be more cuboidal, with the deviation from the cubic shape occurring with increasing precipitate size.",
+  "The microstructural evolution of the as-cast MAR-M247 superalloy is influenced by the minimization of the sum of elastic strain energy, surface energy, and elastic interaction energy between the \u03b3' precipitates."
+]
