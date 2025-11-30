@@ -1,0 +1,1 @@
+This paper investigates the evolution of solidification dynamics in directional solidification using the phase-field model, highlighting the role of solute diffusion and dissipative features.
