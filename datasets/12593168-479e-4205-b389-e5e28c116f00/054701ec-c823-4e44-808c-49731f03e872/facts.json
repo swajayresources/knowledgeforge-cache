@@ -1,0 +1,17 @@
+[
+  "The nacelle design and optimization process was split into two independent optimization steps: intake and fan cowl optimization, and bypass duct and nozzle optimization.",
+  "The intake and exhaust boundary conditions were decoupled to investigate the performance of the intake and exhaust systems independently.",
+  "The optimization algorithm used was based on an adaptive response surface methodology, which employs Kriging approximation to generate the surrogate model.",
+  "The final optimized nacelle design had a cruise drag of 26.9 drag counts.",
+  "The optimized bypass nozzle achieved a maximum velocity coefficient (Cv) of 0.9914 at a corresponding discharge coefficient (Cd) of 0.995.",
+  "The grid independence study showed that a mesh with 4.41 x 10^5 elements was sufficient to achieve grid convergence.",
+  "The loop 2 optimized design showed fully attached flow under 30 knots crosswind conditions, while the loop 1 design experienced heavy separation.",
+  "The key design parameters for the intake and fan cowl optimization were the throat radius, contraction ratio, aspect ratio, intake length, leading edge radius, and position of maximum diameter.",
+  "The axisymmetric design approach resulted in a trade-off between good cruise performance and off-design (crosswind) performance.",
+  "The iCST approach was used to parameterize the intake, fan cowl, bypass duct, and bypass nozzle geometries.",
+  "The optimization was performed separately for the intake-cowl and exhaust system, assuming minimal aerodynamic interactions between the two.",
+  "The objective for the intake-fan cowl optimization was to minimize cruise drag, while for the bypass nozzle it was to maximize the net thrust of the engine stream tube.",
+  "The Spalart-Allmaras (SA) turbulence model was used for the cruise condition simulations, while the K-omega SST model was used for the crosswind simulations.",
+  "The response surface was able to predict the cruise drag to an accuracy of 6%.",
+  "The optimized bypass nozzle design resulted in a 3.4% improvement in net propulsive force compared to the baseline."
+]
