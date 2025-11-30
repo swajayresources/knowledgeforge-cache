@@ -1,0 +1,18 @@
+[
+  "Keywords Polynomial optimization \u00b7 Regularity condition \u00b7 Asymptotic cone\u00b7Frank\u2013Wolfetypetheorem\u00b7Eavestypetheorem\u00b7Uppersemicontinuity\u00b7 Local upper-H\u00a8older stability \u00b7 Genericity Mathematics Subject Classification (2000) 90C30 \u00b7 14P10 1 Introduction We consider the following optimization problem minimize f(x) subject to x\u2208K, where K is a nonempty, closed subset of Rn and f : Rn \u2192R is a polynomial in n variables of degree d \u2265 2",
+  "Let f be the homogeneous compo- d nent of degree d of f, and let K be the asymptotic cone of K that will be \u221e VuTrungHieu SorbonneUniversit\u00b4e,CNRS,LIP6,F-75005, Paris,France DivisionofMathematics,PhuongDongUniversity,171TrungKinhStreet,Hanoi,Vietnam E-mail:trung-hieu",
+  "fr 1202 guA 9 ]CO",
+  "htam[ 6v00160",
+  "8081:viXra 2 VuTrungHieu introduced in Section 2",
+  ", [1,2] and the references therein)",
+  "Asymptotic cones and functions play an important role in optimization and variational inequalities [3]",
+  ", [1,4]), but also for polynomial complementarity problems and polynomial variational inequalities that have unbounded con- straintsets(see,e",
+  "In 1956, Frank and Wolfe [7] proved that if K is polyhedral and f is quadratic and bounded from below on K, then Sol(K,f) is nonempty",
+  "Sev- eralversionsofthe Frank-Wolfetheoremforquadratic,cubic,andpolynomial optimization problems have been shown in [1,2,8,9,10,11,12]",
+  "Belousov and Klatte [9], and Obuchowska [10] have proved Frank-Wolfe type theorems for convex and quasiconvex polynomial optimization problems",
+  "Recently, by us- ing a technique from semi-algebraic geometry, Dinh, Ha and Pham [11] have shown a Frank-Wolfe type theorem for nondegenerate problems",
+  "Besides, the Eaves theorem [13] provides us with another criterion for the existence of solutions to quadratic optimization problems",
+  "Extensions of this theorem for quadratically constrained quadratic problems have been in- vestigated in [1,2,14,15]",
+  "Under the assumption that the constraint set K is compact and semi- algebraic, some stability and genericity results for polynomial optimization problems have been shown by Lee and Pham [16]",
+  "Moreover, under the regularity condition, we show results on the stability such as upper semicontinuity and local upper-H\u00a8older stability of the solution map of polynomial optimization problems"
+]
