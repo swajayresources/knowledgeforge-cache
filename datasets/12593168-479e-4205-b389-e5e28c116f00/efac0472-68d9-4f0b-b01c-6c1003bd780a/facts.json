@@ -1,0 +1,21 @@
+[
+  "The EI algorithm is a popular approach to global optimization in modern engineering applications.",
+  "The authors provide examples where the EI optimization trajectory is not dense in the design space.",
+  "The EI algorithm is inconsistent for certain objective functions.",
+  "The condition (7) on the spectral density of the covariance function is G(t) \u2264 c e^(-c|t|), where c and c are positive constants.",
+  "The Legendre transform T\u2217(q) is used to bound the conditional variance \u03c3^2 in Theorem 2.",
+  "The family of spectral densities covered by Theorem 2 includes G(t) = e^(-a|t|^b), where a > 0 and b > 1.",
+  "For any Gaussian covariance function, there exists an objective function f C\u221e([\u22121,1]) such that the EI optimization of f starting with x = 0 is not consistent.",
+  "The numerical example in Section 3 is the EI optimization of the objective function f(x) = e^(-x^2) with the kernel G(x) = e^(-x^2).",
+  "The authors conclude that the EI algorithm with analytic kernels is not reliable beyond a narrow class of very smooth functions.",
+  "The EI algorithm may be prone to early ill-conditioning and numerical instabilities.",
+  "The authors recommend using a rough kernel with an inverse polynomial falloff of the spectral density, for example from the Mat\u00e9rn family.",
+  "The results have implications for the design of optimization algorithms and the choice of covariance functions in practical applications.",
+  "The EI algorithm is consistent if the NEB property holds, but the authors provide examples where the EI algorithm is inconsistent even if the NEB property holds.",
+  "The EI optimization trajectory is dense in the design space if the NEB property holds, but the authors provide examples where the EI optimization trajectory is not dense in the design space.",
+  "The Legendre transform T\u2217(q) is related to the convexity of the function T(s).",
+  "The authors use the free library Mpmath for numerical computations in the paper.",
+  "The numerical procedure used in the paper involves sampling x uniformly on a logarithmic scale.",
+  "The authors use the standard normal density and cumulative distribution function in the paper.",
+  "The matrices G_K quickly get ill-conditioned as the posterior variance of the process rapidly converges to 0."
+]
