@@ -1,0 +1,1 @@
+This paper investigates the effects of homogenization treatment on the microsegregation of a Ni-Co based superalloy produced by directional solidification. The results show that severe microsegregation leads to complicated precipitations, and the optimal single-stage homogenization process is 1180°C for 2 hours to eliminate dendritic segregation.
