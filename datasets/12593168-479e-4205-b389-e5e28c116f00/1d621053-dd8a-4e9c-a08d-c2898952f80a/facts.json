@@ -1,0 +1,17 @@
+[
+  "The dataset is provided by Goldwind Inc, one of the world's largest wind turbine manufacturers.",
+  "The raw SCADA data is collected every 7 seconds from hundreds of pre-installed sensors on wind turbines.",
+  "The dataset includes 26 continuous variables relevant to frozen blades from 3 wind turbines, with a total of 1330 hours of monitoring data.",
+  "In the semi-supervised setting, the training set includes 671 normal fragments, while the validation set includes 169 normal and 139 abnormal fragments.",
+  "In the supervised setting, the training set includes 671 normal and 550 abnormal fragments, with additional augmentation to balance the dataset.",
+  "WaveletAE outperforms the LSTM encoder-decoder and FCNN baselines in both semi-supervised and supervised settings.",
+  "In the semi-supervised setting, WaveletAE achieves an accuracy of 0.493, precision of 0.471, recall of 0.986, and F1 score of 0.637.",
+  "In the supervised setting, WaveletAE achieves an accuracy of 0.873, precision of 0.857, recall of 0.863, and F1 score of 0.861.",
+  "The sliding window voting schema in the case study allows WaveletAE to make more robust real-time predictions, with the voting threshold \u03c4 determining the balance between precision and recall.",
+  "Increasing the voting threshold \u03c4 from 0.1 to 0.9 leads to a decrease in recall from 1.0 to 0.394, while precision increases from 0.569 to 0.979.",
+  "The case study simulates a real-time setting by fetching signal blocks every 112 seconds and accumulating predictions in a sliding window.",
+  "Traditional physical sensor-based icing detection methods are limited by high costs, energy consumption, and the need for mechanical changes to wind turbines.",
+  "Icing conditions can cause up to 25% annual energy production losses for wind farms, making early detection crucial.",
+  "Ice accumulation on wind turbine blades can degrade aerodynamic performance, cause measurement errors, and lead to mechanical and electrical failures.",
+  "The wavelet detail coefficients used in WaveletAE reveal the signal variance at multiple scales, providing information in both time and frequency domains."
+]
