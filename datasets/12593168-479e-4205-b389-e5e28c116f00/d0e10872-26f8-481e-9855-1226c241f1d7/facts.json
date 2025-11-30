@@ -1,0 +1,17 @@
+[
+  "The wind turbine has a radius R = 8.5 m.",
+  "The chord varies linearly with the radius, from W = 1.085 m at minimum radius R = 1.7 m to W = 0.445 m at maximum radius R = 8.5 m.",
+  "The aerodynamic coefficients used are inspired from the classical NACA 0012 airfoil.",
+  "The Cauchy number and the centrifugal number are used to reduce the optimization problem to two dimensionless parameters.",
+  "The Cauchy number represents the aerodynamic intensity compared to the restoring force of the torsion spring.",
+  "The centrifugal number represents the centrifugal intensity compared to the restoring force of the torsion spring.",
+  "The Blade Element Momentum (BEM) theory is used to study wind turbine aerodynamics.",
+  "The pitch angle distribution \u03b8opt(r,\u039b) is the theoretical optimal distribution of the pitch angle along the radius r that maximizes the efficiency C for each tip-speed ratio \u039b of the working range.",
+  "The efficiency Cmax(\u039b) is the corresponding optimal efficiency curve for each tip-speed ratio \u039b of the working range.",
+  "The maximum efficiency Cmax(\u039b) achieved is 0.40 at the nominal working point \u039bopt = 7.8.",
+  "The power gain achieved for wind velocity distributions corresponding to wind farms in the North Sea is +35%.",
+  "The method used to find the soft materials for the blades that maximize the averaged efficiency of the wind turbine involves finding the initial pitch angle distribution \u03b8 (r) for each set (C , C ) that corresponds to a unique curve C (\u039b) that goes through the point (\u039bopt, Cmax(\u039bopt)).",
+  "The radius-averaged deviation \u2206 \u03b8 between \u03b8(r,\u039b) and the theoretical optimal variation \u03b8 0opt(r,\u039b) is a measure of how close the actual pitch angle distribution is to the optimal pitch angle distribution.",
+  "The radius-averaged initial pitch angle < \u03b80 >r found by the program is the initial pitch angle distribution \u03b8 (r) that is found by the program so that the pitch distribution at \u039bopt equals \u03b8opt(r,\u039bopt).",
+  "The method is applied to a commercial three-bladed wind turbine described in [21]."
+]
