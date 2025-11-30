@@ -1,0 +1,17 @@
+[
+  "The PMI framework uses a conditional invertible neural network (cINN) to map noisy observations to the input space.",
+  "The cINN consists of a sequence of affine coupling layers.",
+  "The real NVP architecture is used in the cINN to explicitly learn the data distribution with exact log-likelihood evaluation.",
+  "The PMI framework reduces the design cycle time by enabling explicit inverse design and reducing the need for iterative design processes.",
+  "The PMI framework uses a probabilistic approach to handle ill-posed inverse problems.",
+  "The PMI framework captures the uncertainty due to the forward process and the epistemic uncertainty due to limited data.",
+  "The PMI framework uses a conditioning network to map noisy observations to a conditioning input.",
+  "The PMI framework handles high-dimensional input spaces using a conditional invertible neural network (cINN).",
+  "The main challenge in designing gas turbine blades is the need to balance multiple competing objectives.",
+  "The PMI framework addresses the challenge of ill-posed inverse problems using a probabilistic approach.",
+  "The PMI framework is demonstrated on the inverse aerodynamic design of a 3D blade of a last stage blade of an industrial gas turbine.",
+  "The PMI framework uses a multi-fidelity Gaussian Process (MFGP) to model the forward process.",
+  "The PMI framework uses a Markov Chain Monte Carlo (MCMC) method to estimate the hyperparameters of the MFGP.",
+  "The PMI framework uses a Leaky ReLU activation function in the scale and shift networks.",
+  "The PMI framework uses an extensive search for network architecture designs and hyperparameters to achieve good performance."
+]
