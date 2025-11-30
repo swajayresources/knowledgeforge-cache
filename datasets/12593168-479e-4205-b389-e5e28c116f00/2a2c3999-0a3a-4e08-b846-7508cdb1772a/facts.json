@@ -1,0 +1,17 @@
+[
+  "The paper evaluates different methods for calculating the angle of attack (AoA) and induced velocity on wind turbine blades using computational fluid dynamics (CFD) under axial inflow conditions.",
+  "The two 10 MW reference wind turbines studied are the INNWIND.EU/DTU and AVATAR turbines.",
+  "The free-stream velocities considered in the study are 6 m/s and 9 m/s, with rotor speeds of 6 RPM and 7.3 RPM, respectively.",
+  "The CFD simulations are performed using the EllipSys3D solver, with a fully structured grid of 14 million cells.",
+  "The evaluated methods include Inverse BEM, Average Azimuthal Technique (AAT), 3-Point method, Shen 1 method, Shen 2 method, Ferreira-Micallef method, and Line Average method.",
+  "The results show good agreement between the methods in the mid-span region, but some deviations are observed at the root and tip regions of the blades.",
+  "The inverse BEM method is limited by its reliance on empirical corrections for high induction factors and 3D effects.",
+  "The AAT method is valid for axial flow conditions but cannot capture the dynamics of the induced velocity in yawed flows.",
+  "The 3-Point method can reproduce the dynamic behavior of the induction and AoA, including near the tip and root where the flow is highly 3D.",
+  "The Shen 2 method, which uses a distributed bound circulation, can place the monitoring points closer to the blade and avoid the singularity issue of the Shen 1 method.",
+  "The Ferreira-Micallef method can account for the chordwise variation of aerodynamic forces and is insensitive to input parameters.",
+  "The CFD results show discrepancies with BEM calculations using airfoil polars from CFD at the root and tip regions, due to 3D effects not captured by the 2D airfoil assumptions in BEM.",
+  "The paper suggests that CFD results can be used for the calibration of induction modeling for BEM tools, but 3D effects need to be accounted for near the root and tip.",
+  "The sensitivity studies found that the methods were generally not highly sensitive to input parameters, except near the root and tip regions where 3D effects are more pronounced.",
+  "The paper serves as a verification of several methods and a survey on the assessment of each method under uniform and axisymmetric inflow conditions."
+]
