@@ -1,0 +1,17 @@
+[
+  "The study was conducted to support the NASA LeRC program on cooled high-temperature radial turbines.",
+  "The model was constructed from a Lucite block and was instrumented with surface and air temperature thermocouples and liquid crystal paints.",
+  "The coolant inlet passage of the full-scale rotor was simulated in the 1.15 scale Lucite model.",
+  "The exit plane of the coolant passage was selected to be the streamwise location where the coolant passage is faired into the trailing edge on the pressure side of the blade.",
+  "The discharge flow-control plate with selected orifices was used at the model exit plane to approximate the exit flow distribution.",
+  "The orifices were evenly spaced in the radial direction in patterns of three.",
+  "The inner passage required a staggered pattern to obtain a more uniform discharge area distribution.",
+  "The leading and trailing surfaces of the coolant passages were machined in blocks of Lucite.",
+  "The coolant passage was oriented 32.7 degrees from the plane of the test section.",
+  "The study used a 3-D Navier-Stokes code to simulate the flow and heat transfer in the coolant passage.",
+  "The results showed that rotation affects heat transfer in the coolant passage, with increased heat transfer on the sides of the straight radial passages and decreased heat transfer in the transitional region.",
+  "The heat transfer coefficients were deduced from the results based on the time-dependent heat flux from the wall, the time-dependent inlet temperature, and the local wall temperature.",
+  "The study used a 1.15 scale model of the NASA LeRC Cooled High Temperature Radial Turbine.",
+  "The model was constructed using Computer Aided Design and Computer Aided Machining Technology.",
+  "The study was conducted at the United Technologies Research Center (UTRC)."
+]
