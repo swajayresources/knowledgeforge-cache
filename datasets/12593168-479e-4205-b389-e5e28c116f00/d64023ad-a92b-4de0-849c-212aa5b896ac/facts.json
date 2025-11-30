@@ -1,0 +1,17 @@
+[
+  "The authors investigated the sampling convergence by extending the sampling range from 2.0\u00d710^3 to 2.3\u00d710^4 snapshots and refining the resolution from 50 to 105 Hz.",
+  "The authors identified four global convergence states with increasing sampling range: Initialization, Transition, Stabilization, and Divergence.",
+  "The Stabilization state is the optimal state for modal convergence, where the DMD output becomes independent of the sampling range.",
+  "The authors found that over-sampling causes algorithmic instability, as the temporal dimension (n) approaches and transcends the spatial dimension (m), leading to divergent and meaningless output.",
+  "The authors suggest a resolution of 15 frames per cycle for target activities in most engineering implementations.",
+  "The authors conducted the parametric study using the turbulent free-shear flow over a prism as the test case, which is a canonical nonlinear system in fluid mechanics.",
+  "The authors employed Large-Eddy Simulation with Near-Wall Resolution (LES-NWR) to obtain high-fidelity data for the parametric study on the DMD algorithm.",
+  "The comprehensive parametric study took over 16 months to complete, utilizing over 800,000 core-hours on two 64- and 80-core high performance computers, excluding the time dedicated to the LES-NWR simulation.",
+  "The authors conducted rigorous tests on the numerical results to certify the fidelity of the DMD input data, ensuring that the parametric study was driven by accurate data.",
+  "The authors provide a comprehensive and reliable reference for future applications of the DMD algorithm, especially in the engineering domain, by addressing the critical gaps in the understanding of sampling range, resolution, and convergence.",
+  "The prism wake is a simplistic yet sophisticated test case, as it includes various fluid phenomena like stagnation, separation, reattachment, and vortex roll-up, while also being common in engineering applications.",
+  "The authors assessed the convergence of the DMD modes using both global and mode-specific behaviors, including the l2-norm of the reconstruction error and the I-criterion for dominant mode selection.",
+  "The authors found that the convergence of the sampling range and resolution are mutually independent.",
+  "The authors chose a moderately high Reynolds number (Re=22,000) for the test case, as it accommodates high-fidelity simulation with common computing power for engineering applications.",
+  "The authors selected a spanwise dimension of 4D for the computational domain, which is sufficient for the particular flow during the shear layer transition."
+]
