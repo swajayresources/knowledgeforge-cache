@@ -1,0 +1,17 @@
+[
+  "The blade had a total of 172 film-cooling holes in 8 rows, with 3 of the rows having compound-angled shower-head holes.",
+  "The hole diameter was 0.381 mm, about 1% of the blade axial chord at mid-span.",
+  "The tip clearance region was about 1.3% of the blade span.",
+  "The final multi-block grid consisted of 2,205,760 cells, with 80 cells within each hole exit.",
+  "The y+ values were kept under 0.2 over the entire blade surface.",
+  "The heat transfer coefficient was highest in the leading edge region and in the tip region of the cooled, isothermal blade.",
+  "The film cooling effectiveness was lowest in the leading edge region and near the blade tip, especially over the suction surface.",
+  "The heat transfer coefficient was much higher on the shroud compared to the hub for both the cooled and uncooled cases.",
+  "The computed and given coolant mass flow rates matched very well, with the total coolant mass flow rate for the three staggered shower-head rows being the same as the given value.",
+  "The simulation required about 500 iterations to converge and took about 11s per iteration on the 16-processor NASA Ames supercomputer.",
+  "The k-\u03c9 turbulence model of Wilcox with Menter's modifications was used for modeling the turbulence.",
+  "Polynomial distributions of coolant velocity and temperature were specified at the hole exits.",
+  "The true oval shape of the hole exits was faithfully discretized using 80 control volumes per hole.",
+  "The multi-block grid was able to transition smoothly from a very fine structure near the hole boundaries to a coarse structure away from the holes.",
+  "The heat transfer coefficient on the cooled blade was generally lower than that on the uncooled blade, except in the shower-head region and the tip region on the suction side."
+]
