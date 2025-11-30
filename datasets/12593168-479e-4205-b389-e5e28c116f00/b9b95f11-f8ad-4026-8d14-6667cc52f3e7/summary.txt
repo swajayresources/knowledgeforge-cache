@@ -1,0 +1,1 @@
+This paper presents a thermal model of chemical vapor deposition of titanium nitride (TiN) on the surface of a spherical metal powder particle subjected to nanosecond laser heating. The model investigates the heat transfer, chemical reaction, and mass transfer processes during the laser-assisted deposition process.
