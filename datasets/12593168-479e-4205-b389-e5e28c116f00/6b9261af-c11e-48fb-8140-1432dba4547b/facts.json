@@ -1,0 +1,21 @@
+[
+  "555 Sparkman Dr",
+  "Suite 1612 ResearchSouth,Inc",
+  "Huntsville, AL 35816 Phone 256 721-1769 software development and applications in Mobile 256 603-5596 Fax 256 430-3278 mechanical engineering lawrence@researchsouthinc",
+  "com Contract NNL08AA33C Multidisciplinary Modeling Software for Analysis, Design, and Optimization of HRRLS Vehicles Final Report (Deliverable #40) March 2011 Lawrence W",
+  "Bey, PhD NASA Langley Research Center Hampton, VA 23681-2199 Coupled RANS and FEA pressure displacement vectors Coupled RANS & FEA Contract NNL08AA33C ResearchSouth, Inc",
+  "Final Report FOREWORD This Final Report was prepared for NASA-Langley contract NNLO8AA33C, entitled \u201cMultidisciplinary Modeling Software for Analysis, Design, and Optimization of HRRLS Vehicle",
+  "555 Sparkman Drive Suite 1612 Huntsville, AL 35816 Telephone: (256) 721-1769 FAX: (256) 430-3278 e-mail: lawrence@researchsouthinc",
+  "com ii Contract NNL08AA33C ResearchSouth, Inc",
+  "0 TECHNICAL APPROACH\u2026",
+  "1 Background \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+  "2 Computer Software\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+  "3 Loosely Coupled Approach\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 1-8 1",
+  "4 References \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 1-11 2",
+  "0 FLUID - STRUCTURE - THERMAL CODE INTEGRATION \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 2-1 2",
+  "1 Small Deformation Steady State\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+  "In this section, we present linkage to the large deformation module of FEAP for plastic strains",
+  "We presented solutions at the Air Force / NASA Foundational Hypersonics Review in Virginia Beach on a Mach 17 blunt body case [1]",
+  "In the remainder of this Section, we present our FEFLO implementation of the Gnoffo method [5]",
+  "We show the latest results for the Ma=17 viscous case here"
+]
