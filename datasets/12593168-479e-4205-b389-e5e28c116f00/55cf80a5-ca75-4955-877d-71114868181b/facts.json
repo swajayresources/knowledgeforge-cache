@@ -1,0 +1,18 @@
+[
+  "The gas turbine diagnostic system is designed to simulate, control, and optimize gas turbine units.",
+  "The system has a three-level hierarchy structure.",
+  "The High Level of the simulation model is based on SCADA WinCC SIEMENS.",
+  "The Middle Level of the simulation model is based on PLC TRICONEX 3000 Trident V9.",
+  "The Lower Level of the simulation model is based on VISSIM simulation environment.",
+  "The Lower Level of the software model simulates pressure and temperature sensors, main and auxiliary Lube and Seal oil pumps, emergency Lube oil pumps, liquid cooling supply system fans, and roof fans.",
+  "The data used in the simulation model were gathered from real working Gas-Turbine Units GTK 10i, located in the compressor station 'Chizha' (Uralsk).",
+  "The simulation test procedure plots the main characteristics of the turbine, such as speed of the High Power Turbine, speed of the Low Power Turbine, and turbine exhaust temperature.",
+  "The result of the simulation test procedure is the time response of the HPT and LPT speed.",
+  "The software package used to simulate the GTCU in run mode is VISSIM (Visual Simulation) software, version 5.0.",
+  "The programming environment used to develop the Middle Level of the simulation model is TriStation 1131.",
+  "The protocol used to transmit data between the levels of the simulation model is DDE (Dynamic Data Exchange) protocol.",
+  "The system is designed to improve the efficiency and reliability of gas turbine units.",
+  "The system can be used for personnel training and to familiarize compressor station personnel with the main principles of operation of the microprocessor-based ACS GTCU.",
+  "The system can be used to test and optimize the software for gas turbine automation systems.",
+  "The system can be used to study station personnel, like operators and engineers."
+]
