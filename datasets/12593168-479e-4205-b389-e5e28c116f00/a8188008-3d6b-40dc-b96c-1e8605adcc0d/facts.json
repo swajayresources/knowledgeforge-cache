@@ -1,0 +1,17 @@
+[
+  "The authors measured coating thermal noise in four different ion-beam sputtered coating samples, including two from Advanced LIGO end test masses and one from an initial LIGO end test mass.",
+  "The measured coating thermal noise spectrum did not follow the expected 1/sqrt(f) power-law behavior, but instead had a best-fit slope of around f^-0.45.",
+  "At 100 Hz, the coating thermal noise for the Advanced LIGO coatings was (14.0 \u00b1 0.2) x 10^-18 m/sqrt(Hz), slightly higher than the previously reported value.",
+  "Extrapolating the measured coating thermal noise to the 6.2 cm beam size on an Advanced LIGO end test mass gives a value of (7.5 \u00b1 0.1) x 10^-21 m/sqrt(Hz) at 100 Hz.",
+  "Using the new coating thermal noise measurement, the expected binary neutron star detection range for Advanced LIGO decreases by about 7% from 186 Mpc to 171 Mpc.",
+  "The authors estimated the loss angle of the titania-doped tantala coating material used in Advanced LIGO to be (3.6 \u00b1 0.1) x 10^-4, slightly lower than previous reports.",
+  "The loss angle of the tantala material in the simpler quarter-wave stack coatings was estimated to be (5.3 \u00b1 0.1) x 10^-4, higher than previously reported values.",
+  "The experimental setup used a 3-mirror folded cavity with a near-concentric configuration, producing a waist size of 49 \u03bcm and a transverse mode spacing of 133 MHz.",
+  "The authors used side-of-fringe locking and active intensity stabilization to mitigate noise sources in the higher-order mode probe beams.",
+  "The measured coating thermal noise difference between the two Advanced LIGO coating samples was only 2%, but statistically significant at the 3\u03c3 level.",
+  "The authors' previous coating thermal noise measurement had a signal-to-noise ratio of only 2 at 40 Hz, while the current experiment had much higher sensitivity.",
+  "The new experimental setup allowed the authors to measure coating thermal noise over a much broader frequency range of 30 Hz to 2 kHz.",
+  "The authors found that the frequency dependence of the coating thermal noise matched the frequency dependence of the mechanical loss angles reported in previous studies.",
+  "The authors note that the new coating thermal noise measurements and their frequency dependence will need to be incorporated into the design and sensitivity projections of future gravitational wave detectors.",
+  "The authors attribute the slight difference between their new coating thermal noise measurement and the previous estimate to small systematic effects from the new experimental setup or statistical variations."
+]
