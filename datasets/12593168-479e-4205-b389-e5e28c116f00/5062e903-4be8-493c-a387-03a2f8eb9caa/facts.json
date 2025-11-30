@@ -1,0 +1,17 @@
+[
+  "The image resolution was typically around 760x576 pixels, with a pixel size of 13.7-37.6 \u03bcm.",
+  "The imaging was performed at 1 frame per second with a 1 second exposure time.",
+  "The images exhibited Poisson (multiplicative) noise as well as salt-and-pepper noise from momentarily overexposed or unresponsive camera pixels.",
+  "The X-ray beam flux over the field of view was non-uniform with a fall-off near the edges of the acquired images.",
+  "The contrast-to-noise ratio (CNR) was different for the liquid zone and the solid zone, and tended to degrade over time as the solid fill factor increased.",
+  "The signal-to-noise ratio (SNR) was usually adequate for structures in the solid zone, but rather low for the convective plumes in the liquid zone.",
+  "The authors used a combination of BM3D and non-local means filtering to improve the CNR for the liquid/solid boundaries, including liquid cavities and channels.",
+  "The adaptive thresholding approach for liquid/solid zone segmentation used parameters C1 in the range of 0 to 0.1, C2 in the range of 0 to 10, and an exponent p.",
+  "The pipeline allowed the extraction of various quantitative metrics including solidification front shape and growth rate, solute concentration dynamics, convective plume shape dynamics, dendrite structure maps, dendrite orientation spectra, and grain decomposition.",
+  "The authors noted that their pipeline does not yet have an integrated optical flow component for analyzing liquid flow, and that the performance may degrade for cases with small differences between consecutive frames and significant noise.",
+  "The authors demonstrated the application of their pipeline to several dynamic in-situ X-ray imaging experiments of a solidifying gallium-indium alloy in a thin cell.",
+  "The authors designed their methods to be robust and resilient to image noise and low contrast, in order to handle the varying image quality across different experiments.",
+  "The authors used a combination of well-known state-of-the-art techniques and their own original methods, particularly for solid structure segmentation and dendrite grain analysis.",
+  "The authors noted that their open-source code could also be applied to the output of numerical simulations, enabling more direct comparisons between simulations and experiments.",
+  "The authors' motivation for developing the image processing pipeline was to provide an integrated, automated, and robust solution for analyzing dynamic X-ray radiography images of directional solidification processes studied using Hele-Shaw cells."
+]
