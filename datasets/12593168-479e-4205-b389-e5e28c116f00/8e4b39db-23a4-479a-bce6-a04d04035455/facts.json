@@ -1,0 +1,17 @@
+[
+  "Such methodology is applied to model the aerodynamic terms of the aeroelastic state-space system particularly of a NACA 0012 airfoil-based typical section",
+  "Keywords: Reduced-order model, Aeroelasticity, Flutter 1 Introduction Aeroelastic phenomena arise when structural deformations induce additional aerodynamic forces",
+  "Theseinteractionsmaydecreaseuntilthestabilityconditionisreached, or they may diverge and cause catastrophic structural failure [3, 20]",
+  "In recent years, modern aircraft designsareevolvingtowardsincludinglargeaspectratio, increasedflexibility, andadditionalcomplexity [16, 19]",
+  "These features certainly intensify the structural flexibility, which is the main driver for the oc- curence of several aeroelastic phenomena [3]",
+  "Traditional aeroelastic analysis models the fluid-structure interation by explicitly implementing an interactive numerical process between the aerodynamicanddynamic-structuralsystems[4,12\u201315]",
+  "The present effort builds upon previous work [1, 2, 7, 8] that takes advantage of the reduced-order model formulation in transonic aeroelastic applications",
+  "The CFD code used here is based on the 2-D Euler equations, which are discretized using a finite volume approach for unstructured grids",
+  "The present paper concentrates initially in identifying the aerodynamic transfer functions from a step excitation in each natural mode of the NACA 0012 airfoil-based typical section",
+  "A relatively simple approach to estimate the transfer functions is by a division in the frequency domain \u2217InstitutoTecnolo\u00b4gicodeAerona\u00b4utica,12228-900S\u02dcaoJos\u00b4edosCampos,SP,Brazil \u2020InstitutodeAeron\u00b4auticaeEspa\u00b8co,12228-904S\u02dcaoJos\u00b4edosCampos,SP,Brazil 1 3202 luJ 81 ]nyd-ulf",
+  "scisyhp[ 1v44690",
+  "7032:viXra for uncorrelated input signals and their derivatives",
+  "Once the transfer functions are obtained, they can be estimated by a rational-function approximation (RFA) in the Laplace domain [5, 18] in order to better suit the solution of the aeroelastic eigenvalue problem",
+  "2 Theoretical Formulation 2",
+  "1 Aeroelastic System The structural model considered in the present work is the typical section, which is widely known and reported in literature [2, 3, 7]"
+]
