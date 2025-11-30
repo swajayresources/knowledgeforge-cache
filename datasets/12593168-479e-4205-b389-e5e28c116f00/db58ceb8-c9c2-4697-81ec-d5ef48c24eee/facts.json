@@ -1,0 +1,21 @@
+[
+  "Introduction In this paper, we consider the Skorokhod [1961] embedding problem, in particular the Root [1969] solution in the formulation of Loynes [1970]",
+  "Originally that meant, for given centered probabilitymeasure\u00b5andgivenstandardBrownianmotionW,tofindalowersemi-continuous function r: [\u2212\u221e,\u221e] \u2192 [0,\u221e] with r(\u00b1\u221e) = 0 such that \u03c4 = inf{t \u2265 0|t \u2265 r(W )} fulfills t \u00b5 \u223c W and (W ) is uniformly integrable",
+  "\u03c4 t\u2227\u03c4 t\u22650 Hobson [1998] observed that a continuous stock price, for which prices to vanilla options are known, can be connected to a Skorokhod embedding problem",
+  "In this setting, (W ) t\u2227\u03c4 t\u22650 is a model for the time-changed price process and \u00b5 is the law at maturity",
+  "\u03c4 may only be a stopping time such that \u00b5 \u223c W and (W ) is uniformly \u03c4 t\u2227\u03c4 t\u22650 integrable",
+  "Dupire [2005] argued that, if \u03c4 itself represents a security of interest in this model, then the expected residual of Root\u2019s solution \u03c4 gives a lower bound on the call option of that security",
+  "He simply recalled that Rost [1976] proved that Root\u2019s solution is of minimal expected residual, which can be stated using call option price, i",
+  "Root\u2019s solution minimizes E[(\u03c4 \u2212t)+] for all t > 0 under solutions \u03c4 to the Skorokhod embedding problem",
+  "Carr and Lee [2010, Section 5], then, replaced the Brownian motion W in the Skorokhod embedding problem with a geometric Brownian motion S so that \u03c4 represents the terminal value of realized volatility",
+  "This established the importance of Root\u2019s solution to finding no-arbitrage lower bounds for VIX call options (VIX goes back to Brenner and Galai [1989] and its call options are used to hedge short-term increases in volatility at the Chicago Board Options Institution: Department of Mathematics, University of Michigan",
+  "Date: July 12, 2021",
+  "1 1202 luJ 9 ]RP",
+  "htam[ 3v59641",
+  "0102:viXra 2 ON THE CONTINUITY OF THE ROOT BARRIER Exchange [2019])",
+  "However, a rigorous proof that these were indeed the sharp bounds under all no arbitrage models were first given in Cox and Wang [2013, Theorem 6",
+  "We show that the barrier function in Root\u2019s solution to the Skorokhod embed- ding problem is continuous and finite at every point where the target measure has no atom and its absolutely continuous part is locally bounded away from zero",
+  "Using proof by contradiction, we show that \u00b5 [(x,z)] > 0, i",
+  "The paper is organized as follows before we start with our analysis, we specify the process and target measure that is used in the Skorokhod embedding problem and remark the precise assumptions that are indeed needed for our results in subsection 1",
+  "Moreover, we will express our results using the following measures, \u00b5 [A] = P[X \u2208 A] for t \u2265 0 and Borel set A"
+]
