@@ -1,0 +1,1 @@
+This paper reviews the relationship between architectural bone parameters and titanium lattice design for powder bed fusion additive manufacturing, with a focus on replicating the natural micro- and meso-scale architecture of human trabecular and cortical bone.
