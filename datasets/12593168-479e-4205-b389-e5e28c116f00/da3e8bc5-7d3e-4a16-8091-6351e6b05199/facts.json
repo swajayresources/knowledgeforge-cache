@@ -1,0 +1,17 @@
+[
+  "The turbine had a chord-to-radius ratio of 0.49 and chord-based Reynolds number of 44,000.",
+  "The turbine blockage ratio was 9.3% and solidity was 0.16 for the two-bladed configuration.",
+  "The virtual camber was consistently positive throughout the rotation cycle, reaching up to 10% at the highest chord-to-radius ratios.",
+  "The virtual incidence opposed the preset pitch of -6 degrees, reaching up to 13 degrees at the highest chord-to-radius ratios.",
+  "The position of maximum virtual camber shifted from mid-chord towards the leading edge before dramatically shifting aft for azimuthal positions greater than 180 degrees.",
+  "The symmetrical or negatively cambered foils produced very similar time-averaged power output across most tip-speed ratios.",
+  "The negatively cambered foil performed best at the highest tip-speed ratios, while the symmetrical foils provided the best time-averaged performance at more moderate-to-low tip-speed ratios.",
+  "The upstream performance continued to increase past the optimal tip-speed ratio, while the downstream performance degraded quickly and approximately linearly at higher tip-speeds.",
+  "The positively cambered foil had better upstream performance than the negatively cambered foil at lower tip-speeds, but this was more than offset by diminished downstream performance.",
+  "The negatively cambered foil reduced upstream performance but had much improved downstream recovery, even generating a small amount of positive power near optimal conditions.",
+  "The results suggest that a small negative camber is optimal for this turbine, as it can enhance downstream flow recovery and reduce peak loading.",
+  "Particle image velocimetry was used to explore the near-blade hydrodynamic influences on performance in the upstream and downstream regions.",
+  "Two-dimensional unsteady Reynolds-averaged Navier-Stokes simulations were used to assess performance sensitivity over a wider range of geometric camber.",
+  "The authors note that the influence of geometric camber is non-linear, and that a simplistic summation of geometric and virtual camber may be overly simplistic.",
+  "The experiments were conducted in a water flume with a free stream velocity of 0.885 m/s and turbulence intensity of 2-3%."
+]
