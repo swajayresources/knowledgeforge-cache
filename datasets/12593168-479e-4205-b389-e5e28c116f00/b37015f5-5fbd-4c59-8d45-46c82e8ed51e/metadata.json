@@ -1,0 +1,15 @@
+{
+  "paper_id": "b37015f5-5fbd-4c59-8d45-46c82e8ed51e",
+  "title": "Multi-objective topology optimization of heat transfer surface using level-set method and adaptive mesh refinement in OpenFOAM",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b37015f5-5fbd-4c59-8d45-46c82e8ed51e/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b37015f5-5fbd-4c59-8d45-46c82e8ed51e/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b37015f5-5fbd-4c59-8d45-46c82e8ed51e/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/b37015f5-5fbd-4c59-8d45-46c82e8ed51e/keywords.json"
+  ]
+}
