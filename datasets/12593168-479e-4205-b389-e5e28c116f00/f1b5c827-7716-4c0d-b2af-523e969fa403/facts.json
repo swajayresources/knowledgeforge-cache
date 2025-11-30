@@ -1,0 +1,17 @@
+[
+  "The IIMCS approach was developed to address the challenges of dealing with measurement uncertainties in the context of the Mahalanobis-Taguchi System (MTS) for classifying complex metal parts.",
+  "IIMCS employs a Monte Carlo method framework to propagate the measurement uncertainty into the Mahalanobis distance space and obtain the Interval Mahalanobis Distance (IMD).",
+  "IIMCS uses Binary Particle Swarm Optimization (BPSO) to filter out the most informative resonant frequency features for classification.",
+  "The reliability indicator 'r' in IIMCS ranges from -1 to 1, with the sign indicating the predicted class (Bad or Good) and the absolute value representing the confidence in the prediction.",
+  "In the turbine blade case study, the initial set of features consisted of 15 resonant frequencies (f1 to f15), and the optimal subset selected by IIMCS was 4 features: f2, f4, f14, and f15.",
+  "The defective turbine blades in the case study contained various types of defects, including microstructural changes, airfoil cracking, intergranular erosion, thin walls, and service wear.",
+  "To assess measurement uncertainty, 31 repeated measurements were performed on the nominal (healthy) turbine blades.",
+  "IIMCS achieved a classification accuracy of 97.85% on the testing dataset of turbine blades, with only 2 misclassifications observed.",
+  "One of the misclassified turbine blades was identified as healthy but with a low reliability value of r = -0.78, indicating low confidence in the classification.",
+  "The main novelty of IIMCS compared to previous Mahalanobis-based classification methods is the incorporation of measurement uncertainty and the inclusion of a reliability indicator.",
+  "IIMCS differs from the previous Mahalanobis Classification System (MCS) and Integrated Mahalanobis Classification System (IMCS) by explicitly considering measurement uncertainty and providing a reliability assessment of the classification results.",
+  "The IIMCS approach is demonstrated in an experimental case study of equiaxed nickel alloy first-stage turbine blades, showing satisfactory performance in classifying healthy and defective blades.",
+  "The IIMCS algorithm involves randomly dividing the dataset into training and testing sets, using BPSO to optimize the feature subset, and running the Monte Carlo simulation framework to obtain the IMD and reliability indicator.",
+  "The IIMCS methodology provides an effective tool to investigate the reliability of classification results, which is important in the context of non-destructive testing of complex metal parts.",
+  "The integration of the Interval Mahalanobis Distance and the reliability indicator in IIMCS makes the classification system more robust to measurement uncertainty compared to previous Mahalanobis-based approaches."
+]
