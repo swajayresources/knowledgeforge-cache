@@ -1,0 +1,19 @@
+[
+  "Multi-Material Coatings with Reduced Thermal Noise William Yam, Slawek Gras, and Matthew Evans Massachusetts Institute of Technology, 185 Albany St, Cambridge, MA 02139, USA (Dated: October 23, 2021) Themostsensitivemeasurementsoftimeandspacearemadewithresonantopticalcavities,and thesemeasurementsarelimitedbycoatingthermalnoise",
+  "For Brownian boundsofphysicsthroughprecisemeasurementsofspace thermal noise we start with [21], and [22] is our starting and time [1\u20134]",
+  "The precision with which these measure- point for thermo-optic noise, though similar treatments ments can be made is in large part determined by the can be found in [23\u201325]",
+  "[21] conclude that changes in the ra- tical resonators [5\u20137]",
+  "(While not properties for low thermal noise, low optical absorption important for optimization, the ratio of shear and bulk forhigh-poweroperation,andgoodsurfacefiguretosup- lossesimpactsthelevelofBrownianthermalnoiseatthe portmulti-kilometerresonantcavities[8]",
+  "Theserequire- 30% level [21]",
+  ") The resulting equation for Brownian mentsare,however,veryhardtomeetinasinglematerial \u00b1 thermal noise is [9\u201320]",
+  "This paper provides the theoretical foundation for a SBr = 4k BT 1 \u2212\u03c3 s \u22122\u03c3 s2 (cid:88) b d \u03c6 (1) z \u03c0r2\u03c9 Y j j Mj new approach to the search for high quality coating ma- G s j terials",
+  "This is to be contrasted with pre- vious works, which have assumed that optical coatings are made of one low-index material and one high-index 1 (cid:34)(cid:18) \u2202\u03c6 (cid:19)2 Y (1 \u03c3 2\u03c32)2 Y (cid:35) material [21, 22]",
+  "b j = 1 \u03c3 1 \u2212n j \u2202\u03c6c Ys + (1+\u2212 \u03c3 )s 2\u2212 (1 s 2\u03c3 )Yj",
+  "We go j \u2192 s j \u2192 s ignoring field penetration into the coating (\u2202\u03c6c 0), on to develop a simple model of absorption as a function \u2202\u03c6j \u2192 of depth in the coating, from which we are able to assess b j 2 for all layers",
+  "These calculations are followed by a few example of how this new approach can be used to \uf8ee \uf8f92 p u nr s eo e cd td su sc ty he m ec bo noa olt tsi an a tg irs oe nw gi uit vh se enl dow i in ner t tat hh b ise ler wm I o,a ral knn tdo ois ae tp h",
+  "p aA e tnll odf fir xe pq rAu eve c in oot unly s- S zTO = \u03c0r G24 \u221ak 2B \u03baT s2 C s\u03c9 \uf8f0\u03b1\u00af cd \u2212\u03b2\u00af\u03bb 0 \u2212 C\u03b1\u00af s s (cid:88) j d jC j\uf8fb authors",
+  "(2) 4102 voN 21 ]scitpo",
+  "scisyhp[ 1v4323",
+  "In this paper we propose a new approach to high performance coatings; the use of multiple materials at different depths in the coating",
+  "j j j j j s \u2212 \u2212 In the next section we present our model of coating Under the assumption that the substrate and coating Brownianandthermo-opticnoises,generalizedfrompre- elasticparametersareequal(Y Y and\u03c3 \u03c3 ),and vious works to allow for multi-material coatings"
+]
