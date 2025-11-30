@@ -1,0 +1,1 @@
+This paper describes the development of the DRAGON grid, a three-dimensional hybrid grid generation code that combines structured and unstructured grids to represent the geometry and computation domain. The DRAGON grid approach aims to reduce analysis time and increase accuracy for viscous flow simulations of practical engineering devices.
