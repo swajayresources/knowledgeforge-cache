@@ -1,0 +1,12 @@
+[
+  "Nearly 60% of aircraft breakdowns can be attributed to turbofan engine failures, underscoring the urgent need for advanced maintenance strategies.",
+  "Turbofan engines operate under complex conditions with variations in altitude, temperature, and flight phase, leading to significant distribution shifts between operating scenarios.",
+  "Turbofan engine data is high-dimensional, with more sensors required to monitor engine status compared to bearings or batteries, resulting in a complex feature space.",
+  "Unlike bearings, which generate high-frequency signals, turbofan engines produce slower-changing signals that reflect overall health rather than immediate conditions.",
+  "Domain adaptation offers a promising solution to address the challenges of limited data and distribution shifts caused by varying operating conditions in turbofan engine RUL prediction.",
+  "The proposed taxonomy categorizes DA methods into methodology-based, alignment-based, and problem-based approaches to provide a comprehensive framework for analyzing existing works.",
+  "Adversarial-based DA methods, such as DANN and ADDA, have demonstrated superior performance in turbofan engine RUL prediction by learning domain-invariant representations.",
+  "Adversarial-based methods face limitations in balancing the source domain prediction loss and the domain adaptation loss, which can hinder optimal adaptation.",
+  "Fine-tuning and metric-based approaches, such as CORAL and MMD, have also been explored for turbofan engine RUL prediction, offering alternative strategies to adversarial methods.",
+  "The review identifies future research directions, including addressing uncertainty, time-varying characteristics, incomplete data, and sensor-level challenges, to enhance the reliability and effectiveness of DA techniques for turbofan engine RUL prediction."
+]
