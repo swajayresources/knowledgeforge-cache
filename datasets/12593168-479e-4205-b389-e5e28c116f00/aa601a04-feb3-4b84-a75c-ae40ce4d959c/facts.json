@@ -1,0 +1,17 @@
+[
+  "The study focuses on the numerical simulation of a buoyant plume, which is a subject of extensive study due to its complex behaviors and challenges for simulation.",
+  "The governing equations used to model the buoyant plume are the non-isothermal Navier-Stokes equations with the Boussinesq approximation.",
+  "The finite volume method is used to discretize the governing equations, and the Pressure Implicit with Splitting of Operators (PISO) algorithm is employed to solve the pressure-velocity coupling.",
+  "Solving the Poisson equation for pressure correction can consume up to 80% of the computational time required to simulate incompressible fluid flow.",
+  "The hybrid methodology combines a neural network-based pressure field prediction with the PISO algorithm to accelerate the pressure correction step.",
+  "The neural network is trained to map physics-based cell-level features to the temporal changes in the pressure field, rather than predicting the entire pressure field at once.",
+  "The study evaluates the performance of the hybrid approach using several state-of-the-art iterative solvers, including multigrid and conjugate gradient methods.",
+  "The reference case simulates a 2D buoyant air plume in a 1 m x 1 m rectangular enclosure, with a unique inlet at the bottom and two outlets on the vertical walls.",
+  "The CFD solver is configured with a uniform Cartesian grid comprising 256 cells per meter, first-order time integration, and first-order upwind scheme for the convective terms.",
+  "The study demonstrates an average improvement of 94% in the initial guess for solving the Poisson equation and a mean acceleration factor of 3 for the first pressure corrector step.",
+  "The hybrid methodology is designed to be versatile, scalable, accurate, robust, and data-efficient, addressing common challenges with pure machine learning approaches.",
+  "The paper suggests that further research is required to demonstrate the scalability of the methodology to more complex cases and to identify effective ways to combine CFD with machine learning.",
+  "The open-source CFD software OpenFOAM (v2312) is used to simulate the transient flows, and the buoyantBoussinesqPimpleFoam solver is employed in PISO mode.",
+  "The boundary conditions for the buoyant plume simulations include no-slip walls, fixed-value inlet, and pressure-based outlet conditions.",
+  "The simulations are conducted without turbulence modeling, and the linear systems are solved iteratively with a tolerance of 10^-7 on the normalized residuals."
+]
