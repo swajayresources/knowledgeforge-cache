@@ -1,0 +1,17 @@
+[
+  "A database of 262 JET-ILW and 181 JET-C Hybrid pulses was analyzed.",
+  "In the JET-ILW, the majority of pulses with MHD activity have core n=1 activity, while in the JET-C, n=2 or n=3 MHD activity is more common.",
+  "The average maximum normalized pressure (\u03b2_N) is 2.44 for the JET-ILW and 3.03 for the JET-C, contributing to the differences in observed MHD modes.",
+  "The duration of the high performance phases before MHD onset is generally longer in the JET-C than the JET-ILW.",
+  "In the highest performing JET-ILW pulses, large n=1 modes can lead to a significant confinement degradation, which is less of an effect in the JET-C.",
+  "The n=3 instability often occurs concurrently with the n=1 mode in the JET-ILW, leading to the largest degradation in confinement.",
+  "Cross-phase analysis shows that the n=2 modes have a tearing parity, generally located close to the q=3/2 surface.",
+  "The n=2 island width approximately tracks the normalized pressure (\u03b2_N), indicating a mixture of classical and neoclassical drive.",
+  "In the JET-ILW, if the tungsten impurities are peaked off-axis, the n=2 mode rapidly accelerates the on-axis peaking, leading to increased core radiation and confinement degradation.",
+  "Modeling shows that increased diffusion within the n=2 island region or changes to the fuel ion profiles due to the island can both enhance on-axis tungsten transport.",
+  "Sawteeth are beneficial in flushing out core impurities in the JET-ILW, while fishbones inhibit impurity peaking, though they can also degrade confinement.",
+  "Helical accumulation of tungsten in the m=n=1 magnetic island is observed, which can act as an instability drive term.",
+  "Long duration high performance JET-C Hybrid pulses were established with n=1 fishbone activity, which had no major effect on confinement.",
+  "Such long duration high performance JET-ILW Hybrid pulses with  > 3 have not been achieved, likely due to constraints on divertor power handling.",
+  "The magnitude of the enhanced tungsten diffusion within the n=2 island region is an important parameter in determining the effect on impurity peaking."
+]
