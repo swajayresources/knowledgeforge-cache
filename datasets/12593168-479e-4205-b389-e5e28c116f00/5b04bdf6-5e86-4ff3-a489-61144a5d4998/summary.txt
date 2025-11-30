@@ -1,0 +1,1 @@
+This paper explores the relationship between Edge Localized Modes (ELMs) and waiting times in JET plasmas, finding that ELM energies are independent of waiting times beyond 0.02 seconds. The study uses a dataset of 150 JET plasmas with approximately 8 minutes of steady-state plasma and 15,000 ELMs. The results have implications for ELM control and modeling.
