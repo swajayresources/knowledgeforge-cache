@@ -1,0 +1,17 @@
+[
+  "The 10 MW blade of the Advanced Aerodynamic Tools for Large Rotors (AVATAR) project was used in the investigation.",
+  "The wind and rotational speeds used in the simulations were 10.5 m/s and 9.0218 rpm, respectively.",
+  "The grid independence study was conducted using three different blade meshes with 8.1 million, 10.9 million, and 15.9 million cells.",
+  "The medium mesh with 10.9 million cells was chosen for the final simulations based on the small differences in the predicted power and thrust values.",
+  "The Grid Convergence Index (GCI) values for the present study are 0.003% for power and 0.0497% for thrust, indicating that the grid is spatially converged.",
+  "The present CFD results using the FLOWer code showed very similar power values to those predicted by DTU EllipSys3D, DTU Miras, and NTUA MaPFlow, while the predicted thrust was almost exactly the same as the DTU EllipSys3D results.",
+  "The 3D lift coefficients showed a remarkable increase at the inner part of the blade compared to the 2D lift coefficients, with the augmentation becoming smaller towards the blade tip.",
+  "The rotation was found to delay the separation point and significantly reduce the wake size at the inboard blade section.",
+  "The centrifugal force transports the separated flow towards the middle part of the blade, while the Coriolis force delays the separation point and contributes to the increase in lift coefficient.",
+  "The differences between the XFOIL and CFD results are attributed to the relatively thick airfoils used in the AVATAR blade and the transition point prescription method in XFOIL.",
+  "The key conclusion of this research paper is that rotation plays an important role only at the inner part of the blade, leading to a massive reduction in wake size and delayed separation, which in turn increases the lift coefficient in this region.",
+  "The present results agree with previous studies that observed the rotation decreases the pressure level on the suction side of the blade, which then increases the lift coefficient.",
+  "The present results contradict the findings of Sicot et al. [3] regarding the effect of rotation on the separation point.",
+  "The authors gratefully acknowledge the High Performance Computing Center Stuttgart (HLRS) for the computational resources, the AVATAR project for the provision of the blade and validation data, and the Indonesian Directorate General of Higher Education (DIKTI) for the scholarship grant.",
+  "The members of the Aircraft Aerodynamics and Wind Energy research group at the IAG are acknowledged for the valuable scripts and discussions."
+]
