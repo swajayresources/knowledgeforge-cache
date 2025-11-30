@@ -1,0 +1,17 @@
+[
+  "The RGBlimp is a miniature robotic blimp that combines the desirable features of a robotic blimp and a fixed-wing glider.",
+  "The RGBlimp uses a helium-filled envelope for buoyant lift and a pair of wings for aerodynamic lift, along with a moving mass for attitude control.",
+  "The dynamic model of the RGBlimp considers the dynamic effects of the moving mass, which is often ignored in conventional robotic blimp models.",
+  "The authors used nonlinear regression on steady flight experimental data to identify the aerodynamic force and moment coefficients as polynomial functions of the angle of attack and sideslip angle.",
+  "The RGBlimp prototype had a total net weight of 6.85 grams, with a stationary mass of 104.81 grams and a moving mass (gondola) of 54.08 grams.",
+  "In the steady straight-line flight experiments, the angle of attack \u03b1 ranged from -20 to 20 degrees, while the sideslip angle \u03b2 was approximately 0 degrees.",
+  "In the steady spiral flight experiments, the angle of attack \u03b1 ranged from -30 to 30 degrees, and the sideslip angle \u03b2 ranged from -20 to 20 degrees.",
+  "The Reynolds number of the RGBlimp prototype during the experiments was approximately 3.4 \u00d7 10^4.",
+  "The experiments showed that the RGBlimp prototype with fixed wings had a significantly higher lift-to-drag ratio compared to a conventional robotic blimp without wings.",
+  "The proposed dynamic model of the RGBlimp provided better predictions of the dynamic flight behavior compared to the commonly-used model that ignores the Coriolis and centrifugal forces.",
+  "The steady spiral flight experiments demonstrated that the RGBlimp could achieve stable spiraling motion by adjusting the moving mass position and the differential thrust between the left and right propellers.",
+  "The experimental results of the RGBlimp's dynamic flight matched well with the predictions from the derived dynamic model, validating the modeling approach.",
+  "The RGBlimp design is expected to benefit not only the aerodynamic efficiency but also the aerodynamic stability of the robot.",
+  "The authors conducted extensive steady flight experiments in a motion capture arena to identify the aerodynamic coefficients of the RGBlimp prototype.",
+  "The RGBlimp's fixed wings significantly improved its gliding performance, with a higher lift-to-drag ratio compared to the blimp without wings."
+]
