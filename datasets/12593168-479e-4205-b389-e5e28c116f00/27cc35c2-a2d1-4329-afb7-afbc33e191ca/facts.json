@@ -1,0 +1,10 @@
+[
+  "Turbine can simulate any algorithmically definable dynamics on very large networks (up to millions of nodes and edges) on a standard desktop computer.",
+  "The 'communicating vessels' model used in Turbine gives an exponential decay of perturbations, in agreement with previous findings.",
+  "Benchmark networks with pronounced modular structure (5% inter-modular edges) had a 4.8 times larger 'fill time' (time to affect 80% of nodes) compared to networks with fuzzy modular structure (40% inter-modular edges).",
+  "Perturbation centrality is defined as the reciprocal of 'silencing time' - the first time step when all nodes have an energy value less than 1 after an initial perturbation of 10*n units (n = number of nodes).",
+  "Perturbation centrality had the highest correlation with closeness centrality (0.67 on average), followed by community centrality (0.65) and weighted degree (0.69).",
+  "In benchmark networks, inter-modular non-hub nodes had 87% higher perturbation centrality than intra-modular hubs in networks with pronounced modular structure.",
+  "The top 100 perturbation centrality nodes in the unstressed yeast interactome had only 42 nodes in common with the top 100 in the heat-shocked interactome, but 65 and 68 nodes in common with the oxidatively- and osmotically-stressed interactomes, respectively.",
+  "Perturbation centrality successfully identified the active site and substrate binding sites of the Met-tRNA synthetase protein as the regions with the largest increase upon substrate binding."
+]
