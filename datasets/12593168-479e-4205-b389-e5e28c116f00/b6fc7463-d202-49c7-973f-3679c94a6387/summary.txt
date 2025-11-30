@@ -1,0 +1,1 @@
+This research paper aims to develop a thermal barrier coating (TBC) life prediction model by identifying predominant failure modes and developing life prediction models. The study focuses on plasma-sprayed TBC systems and their degradation mechanisms. The ultimate goal is to create a comprehensive life prediction model for TBCs.
