@@ -1,0 +1,20 @@
+[
+  "Angle of Attack (AoA)",
+  "Computational Fluid Dynamics (CFD)",
+  "Blade Element Momentum (BEM)",
+  "Axial Induction Factor",
+  "Wind Turbine Blades",
+  "Induced Velocity",
+  "INNWIND.EU/DTU Turbine",
+  "AVATAR Turbine",
+  "Inverse BEM",
+  "Average Azimuthal Technique (AAT)",
+  "3-Point Method",
+  "Shen 1 Method",
+  "Shen 2 Method",
+  "Ferreira-Micallef Method",
+  "Line Average (LineAve) Method",
+  "RANS Equations",
+  "k-\u03c9 SST Turbulence Model",
+  "En Transition Model"
+]
