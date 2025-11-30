@@ -1,0 +1,10 @@
+[
+  "The airfoil configurations were modeled with 20-node isoparametric 3D elements, with 46 elements and 405 nodes for the leading-edge film cooled airfoil and 39 elements and 349 nodes for the all-impingement cooled airfoil.",
+  "Each mission cycle required 15-20 hours of accumulated Univac 1110 computer time for the 3D nonlinear structural analyses.",
+  "At maximum takeoff conditions, the temperature difference between the leading edge inside and outside surfaces was 150\u00b0C at midspan.",
+  "The maximum metal temperature reached during the mission was about 1050\u00b0C, occurring at maximum takeoff.",
+  "The critical location for maximum creep strain was at the inside wall of the leading edge region at 33% span height for the all-impingement cooled cases, and adjacent to the film cooling hole rim for the film cooled cases.",
+  "Compared to the all-impingement cooled baseline, the film cooled cases had 100% higher creep strain range and 230% higher total strain range for the candidate mission.",
+  "Angling the film cooling holes 30 degrees radially resulted in 20% lower creep life compared to the all-impingement cooled baseline, better than the 50% reduction for holes normal to the surface.",
+  "Fatigue life predictions indicated the fatigue lives would be at least an order of magnitude greater than the predicted creep lives for all cases."
+]
