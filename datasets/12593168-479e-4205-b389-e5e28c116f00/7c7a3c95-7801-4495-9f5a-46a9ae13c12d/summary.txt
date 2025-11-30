@@ -1,0 +1,1 @@
+This paper investigates the application of pinniped (seal) vibrissae to improve the aerodynamic performance and reduce noise in turbine blades. The researchers tested various blade designs inspired by seal whiskers and found significant reductions in drag and pressure losses compared to a baseline turbine blade.
