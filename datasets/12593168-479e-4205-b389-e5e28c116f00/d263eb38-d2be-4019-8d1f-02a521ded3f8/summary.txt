@@ -1,0 +1,1 @@
+This paper presents the aerodynamic optimization of the angle of attack of the wing design of the MQ-9 Reaper UAV under turbulent air flow conditions. The goal is to maximize the lift-to-drag ratio, a common measure of aerodynamic efficiency, by incrementally changing the angle of attack of the GW-19 airfoil used in the MQ-9 Reaper.
