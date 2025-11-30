@@ -1,0 +1,17 @@
+[
+  "The off-design code was originally developed by James Crouse while he was an employee of NASA.",
+  "The code assumes steady, axisymmetric, two-dimensional flow in the meridional plane and uses a streamline curvature method for the aerodynamic solution.",
+  "The accuracy of the off-design performance predictions depends on the validity of the empirical flow loss and deviation correlation models.",
+  "The code can handle bleed flows and allows for the first five stators to be reset for each rotational speed.",
+  "The user example case is for a low-aspect-ratio two-stage fan, which is the same case used for the compressor design code.",
+  "The off-design code predictions are generally in good agreement with experimental data, especially for the 70% speed case.",
+  "The code can calculate speedlines greater than 100% of the design speed fraction.",
+  "The code is written in Fortran and can be obtained from COSMIC with the program number LEW-16176.",
+  "The off-design code was developed to be used in tandem with the compressor design code, with the design code providing the necessary blade geometry input.",
+  "The input data includes general parameters (e.g., number of speeds, choke/stall ranges) and detailed calculation station and blade row information.",
+  "The aerodynamic flow solution uses an inner and outer iteration scheme to solve the continuity and radial equilibrium equations.",
+  "The code includes empirical correlations for the profile loss coefficient and deviation angle, which are key factors in the off-design performance predictions.",
+  "For highly-loaded, large multistage compressors, the loss and deviation correlations may need improvement to better match experimental data.",
+  "The off-design code can compute through small reverse flow regions using the empirical loss and deviation models.",
+  "The controlling main routine in the code calculates reduced flow rates and rotational speeds for each desired speed fraction."
+]
