@@ -1,0 +1,17 @@
+[
+  "The study aims to optimize a turbofan engine for an advanced, single-aisle transport aircraft to minimize fuel burn, noise, and emissions.",
+  "The independent design variables include sea level static thrust, wing reference area, fan pressure ratio, overall pressure ratio, fan drive system architecture, bypass nozzle architecture, and high-/low-pressure compressor work split.",
+  "The aircraft model assumes technologies appropriate for a 2015-2020 service entry date, including 50% composite primary structures, 5000 psi hydraulics, and a 1% drag reduction.",
+  "The range of fan pressure ratio (FPR) values considered is 1.35 to 1.70, which are practical limits for large, single-stage fans.",
+  "The two discrete overall pressure ratio (OPR) values considered are 42 and 32 at the aerodynamic design point.",
+  "The use of a fan gearbox is considered as a design variable to address the shaft speed mismatch issue for low-FPR engines.",
+  "Variable-geometry bypass nozzles are assessed a 10% weight penalty relative to fixed-geometry designs.",
+  "Detailed takeoff and landing trajectory calculations are performed to properly model the influence of engine thrust characteristics on noise certification.",
+  "The optimization finds that balancing the multiple, often conflicting goals of fuel efficiency, noise reduction, and emissions reduction may not be possible, and a profitable business-case design is likely to satisfy one or more of the goals but not all simultaneously.",
+  "The study leverages tools and methods from earlier NASA system concept studies on ultrahigh bypass turbofan engines for single-aisle transports.",
+  "The notional aircraft is based on an analytical evolution of the Boeing 737-800 with winglets, with a design cruise Mach number increased from 0.785 to 0.800.",
+  "The study assumes a 162-passenger, mixed-class, single-aisle cabin arrangement with a design range of 3250 nm at a 32,400 lb payload.",
+  "The study uses NASA's Flight Optimization System (FLOPS) for aircraft synthesis and sizing analyses, with enhancements to capture the impacts of large, ultrahigh bypass engines.",
+  "The Numerical Propulsion System Simulation (NPSS) code is used for the thermodynamic engine cycle performance analysis, coupled with the Weight Analysis of Turbine Engines (WATE) code for aeromechanical design and weight analysis.",
+  "The study is supported by the Subsonic Fixed Wing Project of NASA's Fundamental Aeronautics Program."
+]
