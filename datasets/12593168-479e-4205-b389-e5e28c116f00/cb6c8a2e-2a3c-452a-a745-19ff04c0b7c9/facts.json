@@ -1,0 +1,17 @@
+[
+  "The study focuses on a two-bladed vertical axis wind turbine with a diameter of 1.7 m and NACA0015 aerofoil-profiled blades.",
+  "The selected test case corresponds to an optimum operating condition with a wind speed of 7 m/s and a tip speed ratio of 2.29.",
+  "The 2D computational domain is divided into four subdomains connected via non-conformal mesh interfaces, and the Sliding Mesh method is used to model the rotation of the turbine.",
+  "The baseline 2D mesh has 920,600 total elements with 1,000 nodes along each blade profile and a unity maximum dimensionless wall distance, y+.",
+  "The sensitivity of the averaged upstream torque coefficient to the change from the baseline domain to the extended domain is less than 1% for both turbulence models.",
+  "The solution is considered time-periodic at the 5th cycle for the SST k-\u03c9 model and the 6th cycle for the SST k-\u03c9 with \u03b3 transition model.",
+  "Increasing the temporal resolution from 540 to 1080 time steps per cycle results in less than 1% change in the averaged upstream torque coefficient for both turbulence models.",
+  "The results are most sensitive to the dimensionless wall distance, y+, with the SST k-\u03c9 with \u03b3 transition model being more sensitive to mesh attributes compared to the SST k-\u03c9 model.",
+  "The sensitivity of the averaged upstream torque coefficient to increasing the global refinement factor from 1.0 to 2.0 is about 1.07 and 0.19 for the SST k-\u03c9 and the SST k-\u03c9 with \u03b3 transition models, respectively.",
+  "The baseline 2D mesh is considered suitable for further analysis due to the trade-off between accuracy and computational cost.",
+  "The paper finds that the 2D results based on the SST k-\u03c9 with \u03b3 transition model deviate significantly from the detailed experimental data, while the trends change between the 2D and 3D cases.",
+  "The study compares the CFD predictions of pressure distribution around the blade and the pressure contribution to the instantaneous power coefficient against detailed experimental data.",
+  "The averaged Reynolds number based on the blade chord and the averaged theoretical relative velocity is about 2.5\u00d710^5, which is in the transition flow regime.",
+  "The Sliding Mesh method is used in the 2D CFD model to account for the rotation of the turbine.",
+  "The solution is considered time-periodic at the 5th cycle for the SST k-\u03c9 model and the 6th cycle for the SST k-\u03c9 with \u03b3 transition model."
+]
