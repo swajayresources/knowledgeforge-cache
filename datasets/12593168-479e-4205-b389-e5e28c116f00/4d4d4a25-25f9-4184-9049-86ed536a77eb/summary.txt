@@ -1,0 +1,1 @@
+This paper presents a numerical study of the effect of wake passing on turbine blade film cooling. The study uses a combination of physical and computational experiments to investigate the impact of unsteadiness on film cooling performance. The results show that wake passing can significantly reduce film effectiveness and increase blade temperatures.
