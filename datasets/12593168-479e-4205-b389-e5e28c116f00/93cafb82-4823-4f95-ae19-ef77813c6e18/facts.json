@@ -1,0 +1,17 @@
+[
+  "The authors use a Fortran IV program to calculate the temperature distribution",
+  "The program is written for an IBM 370/165 computer",
+  "The grid spacing in the x-direction is 0.050 in",
+  "The grid spacing in the y-direction is 0.025 in",
+  "The hydraulic diameter of the cooling passage is D",
+  "The thermal conductivity of the material of the blade is 12 Btu/hr-ft-\u00b0F",
+  "The temperature difference between the maximum and minimum blade temperature is 400\u00b0F",
+  "The cooling effectiveness distribution along the blade surface length is shown in Figure 10",
+  "The optimum over-relaxation factor is 1.6",
+  "The number of iterations is significantly reduced from 440 at \u03c9 = 1.0 to about 140 for \u03c9 = 1.6",
+  "The mean square average error is printed for every iteration",
+  "The isothermal lines for the guide vane blade with single internal cooling passages are shown in Figure 9",
+  "The leading edge radius of the radial turbine nozzle blade is 0.0815 in",
+  "The trailing edge radius of the radial turbine nozzle blade is 0.0157 in",
+  "The thermal conductivity of the material of the blade is 12 Btu/hr-ft-\u00b0F"
+]
