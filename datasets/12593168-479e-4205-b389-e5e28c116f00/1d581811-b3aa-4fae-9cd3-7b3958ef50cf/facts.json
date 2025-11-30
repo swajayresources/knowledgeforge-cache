@@ -1,0 +1,17 @@
+[
+  "The researchers adapted Greenberg's potential flow model to predict the aerodynamic loads on vertical-axis wind turbine blades.",
+  "The model was extended to handle multi-harmonic oscillations in effective angle of attack and incoming flow velocity by using Fourier sine and cosine series.",
+  "The adapted Greenberg model was compared with experimental data from a scaled-down single-bladed H-type Darrieus wind turbine.",
+  "The experiments were conducted in a recirculating water channel with a maximum flow velocity of 1 m/s.",
+  "The turbine blade had a NACA0018 profile, a chord of 6 cm, a span of 15 cm, and a turbine radius of 15 cm.",
+  "The experiments were performed at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "The static stall angle of the NACA0018 airfoil was 13.1 degrees at the test Reynolds number.",
+  "The unsteady blade loads were measured using twenty strain gauges on the blade shaft, which measured the tangential and orthogonal shear components, bending moments, and axial torque.",
+  "The inertial centripetal force of the turbine was quantified by operating it in air and removing these results from the measured signals.",
+  "The blockage ratio of the turbine blade when orthogonal to the free stream direction was 2.5% relative to the water channel cross-section.",
+  "The Greenberg model predicted the radial forces well at the start of the cycle and the maximum force coefficient during the upwind portion, but deviated from the experimental results once the effective angle of attack exceeded the critical stall angle.",
+  "The Greenberg model failed to capture the post-dynamic stall load response during the downwind portion of the cycle, likely due to flow separation and blade-wake interaction.",
+  "The researchers state that the adapted Greenberg model shows great potential for diagnosing regions of separated flow and quantifying the relative influences of dynamic stall and turbine kinematics on blade loading.",
+  "The method can be readily extended to any airfoil undergoing an arbitrary combination of pitching, surging, and heaving motions.",
+  "The researchers used a Fourier series with 8 terms to accurately fit the effective angle of attack and free-stream velocity variations for tip-speed ratios greater than or equal to 1.2."
+]
