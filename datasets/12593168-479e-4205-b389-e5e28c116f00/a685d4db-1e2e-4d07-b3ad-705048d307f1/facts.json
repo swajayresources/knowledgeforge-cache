@@ -1,0 +1,17 @@
+[
+  "The study used a genetic algorithm (GA) to optimize the turbine performance.",
+  "The design variables considered in this study are the stagger, inlet, and outlet angles of the blades.",
+  "The objective function used in this study is polytropic efficiency.",
+  "The optimization process resulted in an improvement of 8.4% in torque.",
+  "The optimization process resulted in an improvement of 0.69% in power.",
+  "The optimization process resulted in an improvement of 1.2% in polytropic efficiency.",
+  "The computational domain used in this study is a three-dimensional model of the turbine blades.",
+  "The mesh used in this study is an unstructured tetrahedral and prismatic element mesh.",
+  "The rotational speed considered in this study is 8000, 6400, 4800, and 3200 rev/min.",
+  "The turbine exit static pressure was varied from 9 to 3 bars at different pressure ratios.",
+  "The study used a SIMPLE scheme to couple the velocity pressure.",
+  "The study used a high-resolution second-order scheme to discretize the advection term.",
+  "The study used a core i7 (12 core) CPU operating at a speed of 4 GHz.",
+  "The study used a grid with 4,501,103 cells.",
+  "The study considered 15 Prism layers, a growth rate of 1.4, and an initial layer thickness of 10^-3 mm."
+]
