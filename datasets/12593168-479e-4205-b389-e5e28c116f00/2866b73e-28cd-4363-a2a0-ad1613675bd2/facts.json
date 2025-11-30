@@ -1,0 +1,17 @@
+[
+  "The paper analyzes the wind turbine cost model presented by Rinne et al. (2018).",
+  "The Rinne et al. model is a linear combination of several basis functions: sqrt(x), x^2, ln(x), and x.",
+  "The model exhibits a quadratic term in rated capacity (p) with a negative coefficient, which leads to unrealistic scaling behavior.",
+  "The 'plausible' region of the model refers to values of p below the maximum cost, while the 'implausible' region refers to values above the maximum.",
+  "The Best-Romani 800KVA and Enercon E-44/800 turbine models were found to lie in the implausible region of the cost model.",
+  "The authors identified issues with the choice of variables (e.g., specific power) and basis functions (e.g., square root of age) in the model.",
+  "The authors propose two minimal axioms for wind turbine cost models: monotonicity and costs-to-scale assumptions.",
+  "The authors found 12 turbine models that reside within 20% of the maximum cost predicted by the model, indicating questionable predictions.",
+  "The authors caution against the use of the flawed cost model in other contexts, such as optimization problems, as it may generate implausible results.",
+  "The authors suggest addressing the issues by either limiting the parameter space of the model or replacing it with one that adheres to their proposed axioms, such as the NREL cost model.",
+  "The authors hope the paper can serve as a starting point towards the axiomatization of wind turbine cost models to improve overall model quality.",
+  "The paper was supported by the Anniversary Fund of the Oesterreichische Nationalbank (OeNB) and the European Research Council ('reFUEL' ERC-2017-STG 758149).",
+  "The authors analyzed a detailed database of wind turbine models from the website www.thewindpower.net.",
+  "The NREL cost model, which the authors suggest as an alternative, uses linear combinations of polynomials with fractional exponents between 2 and 3 to model realistic scaling behavior.",
+  "The authors state that their proposed axioms cannot yet completely determine the functional form of a cost model, and there remains considerable more work to be done towards sound modeling of wind turbine investment costs."
+]
