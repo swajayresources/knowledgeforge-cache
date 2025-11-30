@@ -1,0 +1,17 @@
+[
+  "The initial weight of the rotor fixture was 202.46 kg.",
+  "Topology optimization resulted in a 16.3% mass reduction for the solid model and a 27.5% mass reduction for the shell model.",
+  "The maximum stress value for the original design was 6.9153 MPa, while the new solid body design had a maximum stress of 9.8341 MPa and the new shell body design had a maximum stress of 27.487 MPa.",
+  "The maximum deformation for the original design was 0.00251 mm, the new solid body design had a maximum deformation of 0.00275 mm, and the new shell body design had a maximum deformation of 0.00709 mm.",
+  "Conventional machining of the rotor fixture had a cost of \u20ac9,450 and a lead time of 63 days.",
+  "Metal additive manufacturing of the rotor fixture had a 17% higher cost of \u20ac11,440 but a 46% reduction in lead time to 34 days.",
+  "The rotor fixture was made of 39NiCrMo3 steel, which has a typical yield strength of around 250 MPa.",
+  "The mesh quality assessment showed that most elements had a quality between 0.7 and 1, indicating accurate meshing.",
+  "The boundary conditions included the rotor fixture flange connected to the compressor casing, bearing loads of 7492 N at the central pad, and 2497 N on each side pad.",
+  "60% of the dead weight was applied on the central pad, with 20% each on the side pads.",
+  "The axial rotor was 2501 mm long and weighed 2445 kg.",
+  "The reaction force on the bearing (Ra) was 11489.8 N, and the reaction force on the rotor fixture (Rb) was 12486.6 N.",
+  "The rotor fixture was modeled as a simply supported beam with uniform load.",
+  "The topology optimization process aimed to optimize the structural configuration to meet the desired performance objectives, design constraints, and manufacturability requirements.",
+  "The final redesigned model was assessed for manufacture using powder bed fusion, a common Selective Laser Additive Manufacturing method."
+]
