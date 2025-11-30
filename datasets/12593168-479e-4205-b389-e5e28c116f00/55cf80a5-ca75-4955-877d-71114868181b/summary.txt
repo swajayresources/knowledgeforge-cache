@@ -1,0 +1,1 @@
+This research paper presents a gas turbine diagnostic system that allows for simulation, control, and optimization of gas turbine units. The system is based on a modular software environment with three levels of hierarchy and uses mathematical modeling, forecasting, and personnel training. The system is designed to improve the efficiency and reliability of gas turbine units.
