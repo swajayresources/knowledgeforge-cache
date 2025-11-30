@@ -1,0 +1,17 @@
+[
+  "The blades are among the most expensive components of a wind turbine, accounting for 10-20% of the total manufacturing costs.",
+  "Cracks and delaminations are reported to be the most common forms of damage in wind turbine blades, typically occurring close to the blade root.",
+  "The proposed SHM system uses SCADA data, which has a low-pass filter applied to it, but is still capable of identifying long-term degradation in blade stiffness and edge frequency.",
+  "The training data for the Gaussian Processes is selected from the first two years of turbine operation, assuming the blades were in a healthy state during this period.",
+  "The Gaussian Process hyperparameters are learned by maximizing the log marginal likelihood using the Nelder-Mead optimization algorithm.",
+  "The case studies showed that the proposed SHM system successfully identified early onset of damage as early as 6 months before it was identified and remedied by the operators.",
+  "The computational cost of training the Gaussian Processes scales cubically with the number of training points, which is a limitation of the approach.",
+  "The versatility of the proposed SHM methodology means that it can also be applied to offshore wind turbines, where monitoring and maintenance are more challenging.",
+  "The use of SCADA data, which has a low-pass filter applied to it, saves considerable processing time compared to higher-resolution data.",
+  "The proposed SHM system does not specifically address the challenge of damage localization, as the focus is on detecting the onset of damage using the global response of the blades.",
+  "The proposed SHM system takes advantage of the fact that the blades on a turbine are nominally identical and encounter the same environmental and operational variables.",
+  "The residuals between the Gaussian Process predictions and actual blade frequencies are used as an informative damage indicator in the X-bar control chart analysis.",
+  "The training data for the Gaussian Processes is selected randomly from the first two years of turbine operation to ensure it spans the entire normal operating range of the blades.",
+  "The Gaussian Process hyperparameters control the generalization properties of the models and are learned by minimizing the negative log marginal likelihood.",
+  "The proposed SHM methodology addresses challenges such as high sensor costs, dealing with nonstationary conditions, and balancing true and false positives in damage detection."
+]
