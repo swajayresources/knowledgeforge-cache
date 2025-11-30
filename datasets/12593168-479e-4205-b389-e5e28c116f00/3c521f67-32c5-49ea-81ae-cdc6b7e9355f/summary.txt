@@ -1,0 +1,1 @@
+This paper presents a transient thermal model of an Omnimagnet, a new electromagnetic device for remote magnetic manipulation. The model is validated with experimental data and used to determine the maximum safe operating time and current for the Omnimagnet. The study also investigates methods to improve cooling, such as increasing the convection heat transfer coefficient.
