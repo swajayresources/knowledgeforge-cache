@@ -1,0 +1,17 @@
+[
+  "The Aerosense system uses low-cost, low-power MEMS sensors to measure local pressures and blade motions, and transmits the data wirelessly to a base station.",
+  "The system is composed of sensor nodes installed on the blades, a base station that collects and transmits the data, and a digital twin system that processes and analyzes the data.",
+  "The absolute pressure sensors can measure pressures from 260 hPa to 1260 hPa with an absolute accuracy of \u00b150 Pa after calibration.",
+  "The differential pressure sensors have a range of -2000 Pa to 2000 Pa with a precision of \u00b120 Pa and a sampling rate of 1.2 kHz.",
+  "The inertial measurement unit provides measurements of the blade's motion, pitch angle, and azimuth position at 100 Hz.",
+  "Photogrammetry is used to measure the 3D shape and position of the sensors on the blade section.",
+  "The experiments on the 7kW wind turbine showed pressure variations of up to 600 Pa during one rotation of the blade, even under stable wind conditions.",
+  "The pressure variations were found to be due to the misalignment of the wind direction with the turbine's rotational axis.",
+  "The Aerosense system does not require installing sensors and wiring inside the rotor blades, making it a more cost-effective and less intrusive solution compared to previous field measurement systems.",
+  "The system is designed to be easily installed, inexpensive, and non-intrusive, making it a suitable solution for the wind energy industry.",
+  "The digital twin system processes the field measurements, analyzes them, and enables comparison and improvement of low and high-fidelity simulations.",
+  "The Aerosense system can provide valuable data for understanding the aerodynamic behavior of rotor blades and improving the efficiency and lifetime of wind turbines.",
+  "The system is capable of measuring the local pressure distribution, inflow conditions, and blade motions, which are crucial for analyzing the aerodynamic performance of wind turbine blades.",
+  "The pressure measurements are corrected for atmospheric pressure, hydrostatic pressure variations, and the influence of acceleration on the MEMS sensors.",
+  "The photogrammetry process is used to accurately measure the 3D shape and position of the sensors on the blade section, which is necessary for computing the pressure distribution and aerodynamic forces."
+]
