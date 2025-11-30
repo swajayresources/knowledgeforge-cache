@@ -1,0 +1,17 @@
+[
+  "The LIDAR Thomson Scattering concept was first implemented on the JET tokamak in 1987.",
+  "The spatial resolution of the JET LIDAR system is around 12 cm, which corresponds to over 8% of the minor radius.",
+  "The light collection optics are located outside the biological shield, with only a few mirrors near the tokamak.",
+  "The strongest stray light source is the 'backwall pulse' when the laser hits the inner wall of the vacuum vessel.",
+  "The radial profile shape is calibrated using Raman scattering from nitrogen at a pressure of around 400 mbar.",
+  "The previously used MA-2 detectors were replaced with fast GaAsP detectors, which have a much higher average quantum efficiency.",
+  "The statistical errors in the measured electron temperature and density have been reduced by a factor of 2 or more, with errors now below 5% for temperature and 3% for density in typical plasma conditions.",
+  "The JET LIDAR diagnostic is expected to remain operational in future JET experiments, including the upcoming full-scale DT campaign.",
+  "The LIDAR concept becomes more attractive for bigger fusion devices with restricted access due to neutron radiation/activation.",
+  "The JET LIDAR diagnostic produces measurements that are in excellent agreement with other diagnostics on JET, such as the conventional High Resolution Thomson Scattering, Electron Cyclotron Emission, and Reflectometer.",
+  "The light throughput of the JET LIDAR system is limited by the narrow penetration through the concrete ceiling of the biological shield.",
+  "The spectrometer design is optimized to exclude any possible shortcut routes for the backwall stray light flash.",
+  "The absolute calibration of the density profile is achieved by cross-calibration with far-infrared interferometer measurements.",
+  "The implementation of a faster data acquisition system is pending a decision on the overvoltage protection, which would allow for a spatial resolution of around 7 cm.",
+  "The installation of a large aperture, high transmission nanowire polarizer led to a factor of 2 reduction in the plasma background light, especially for high-temperature H-mode plasmas."
+]
