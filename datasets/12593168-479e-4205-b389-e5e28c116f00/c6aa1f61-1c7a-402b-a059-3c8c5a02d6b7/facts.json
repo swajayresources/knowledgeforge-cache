@@ -1,0 +1,17 @@
+[
+  "The authors consider a pressure-driven microchannel flow of a power-law fluid with constant but unequal heat fluxes imposed at the upper and lower walls.",
+  "The slip coefficients on the upper and lower walls are denoted as K1 and K2, respectively, allowing for asymmetric slip.",
+  "The authors derive exact analytical expressions for the velocity profile, temperature distribution, and entropy generation rate in the microchannel.",
+  "Asymmetric slip shifts the location of the maximum velocity towards the wall with larger slip coefficient.",
+  "Asymmetric slip enhances the fluid momentum and thermal energy fluxes along the wall with larger slip, improving heat transfer.",
+  "The Bejan number profile shows a sharp transition between entropy generation due to heat transfer and due to fluid flow at an off-center location under asymmetric slip.",
+  "For shear-thinning fluids (n < 1), irreversibility is primarily due to fluid friction, while for shear-thickening fluids (n > 1), it is primarily due to heat transfer.",
+  "The modified Brinkman number Br' for power-law fluids is defined as Br' = (V_c q_1) / (H^(n+1) a).",
+  "The Hatzikiriakos slip law predicts a higher Nusselt number and less entropy generation compared to the asymptotic slip law for the same slip coefficient.",
+  "Asymmetric slip promotes uniformity in both the velocity and temperature fields, thereby reducing irreversibility in the flow.",
+  "The difference in imposed heat fluxes leads to different Bejan number profiles depending on which wall is hotter and the fluid's shear behavior.",
+  "The authors consider power-law index values of n = 0.5 (shear-thinning) and n = 1.5 (shear-thickening) in their analysis.",
+  "The dimensionless slip coefficients on the upper and lower walls are set to K1 = 0.5, 0.75, 1.0, 1.25 and K2 = 1.0, respectively.",
+  "The dimensionless heat flux ratio q2/q1 is considered to be 0.5 and 2.0 in the analysis.",
+  "The Brinkman number Br' is kept constant at 0.2 in the presented results."
+]
