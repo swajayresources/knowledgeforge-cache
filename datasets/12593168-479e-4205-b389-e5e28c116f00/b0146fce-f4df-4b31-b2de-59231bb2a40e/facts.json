@@ -1,0 +1,12 @@
+[
+  "The paper proposes an operator-splitting and matrix-based numerical scheme to model solidification and macro-segregation processes.",
+  "The scheme avoids non-linear systems and is fully decoupled, leading to a linear solution process.",
+  "The combination of vectorization and forward equation-based matrix assembly techniques enhances the implementability of the scheme, especially for 3D applications.",
+  "The energy equation is solved using a two-step operator-splitting approach to accurately capture latent heat release during phase change.",
+  "The matrix-based approach for the solute transport equation avoids auxiliary terms required in traditional methods.",
+  "The spatial discretization uses a staggered grid approach, with velocity components defined on cell edges and scalar variables defined at cell centers.",
+  "The scheme is validated through a comprehensive set of 2D and 3D benchmark cases.",
+  "The numerical results demonstrate the scheme's ability to accurately predict and capture physical phenomena such as channel segregation, freckle formation, edge effects, and 3D effects.",
+  "The paper responds to a call for contributions to benchmark analysis of solidification and segregation problems.",
+  "The proposed scheme is designed to be efficient and implementable, making it suitable for a wide range of applications involving solidification and macro-segregation processes."
+]
