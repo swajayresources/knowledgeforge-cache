@@ -1,0 +1,17 @@
+[
+  "The SSME/STAEBL code is a stand-alone structural optimization code for the automated design of SSME turbopump blades.",
+  "The SSME/STAEBL code was developed by systematically modifying and enhancing the STAEBL (Structural Tailoring of Engine Blades) code.",
+  "The key design variables considered in the SSME blade optimization include blade thickness distribution, root chord, and blade cross-section stacking offsets.",
+  "The optimization considers centrifugal, thermal, and pressure loads, as well as constraints such as resonance margins, root stress, tip displacement, and forced vibration response.",
+  "Accounting for temperature-dependent material properties can require additional weight in the optimal design, mainly due to a reduction in yield stress.",
+  "For the blade designs dominated by root stress constraints, the crystal axis orientation was found to be a relatively unimportant design variable.",
+  "The blade cross-section stacking offsets were shown to have a very significant effect on the optimal design, especially for designs dominated by root stress constraints.",
+  "The additions and modifications to the STAEBL code include thermal stress analysis, gas dynamic (pressure) loads, temperature-dependent material and thermal properties, forced vibrations, tip displacement constraints, single-crystal material analysis, blade cross-section stacking offsets, and a direct time integration algorithm for transient dynamic response.",
+  "Optimization studies found that accounting for thermal and pressure loads, as well as temperature-dependent properties, can require additional weight in the optimal design compared to designs optimized under centrifugal loads only.",
+  "The single-crystal blade optimization study showed that the crystal axis orientation was a relatively unimportant design variable, with the optimal design being determined primarily by the geometric design variables.",
+  "The SSME/STAEBL code includes capabilities for data transfer from finite element models and stand-alone analysis.",
+  "Several design optimization studies have been completed using an SSME blade design to test the various capabilities of the SSME/STAEBL code.",
+  "The optimization studies were dominated mainly by root stress constraints, which were found to be extremely sensitive to blade cross-section stacking offsets.",
+  "The optimized design recommended a significant change in blade cross-section stacking to meet the root stress constraint.",
+  "The structural optimization approach provides a practical and flexible way to address the SSME blade design problem, which involves a large number of potentially conflicting constraints."
+]
