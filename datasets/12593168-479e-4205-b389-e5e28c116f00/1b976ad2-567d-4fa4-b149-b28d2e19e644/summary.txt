@@ -1,0 +1,1 @@
+This paper presents a method for extracting and comparing data from the S2 flow path design and 3D numerical simulation of an 8-stage axial compressor. The authors use the CGNS standard format to extract detailed simulation data, which is then compared to the S2 design parameters to identify differences and suggest design modifications to improve the compressor's performance.
