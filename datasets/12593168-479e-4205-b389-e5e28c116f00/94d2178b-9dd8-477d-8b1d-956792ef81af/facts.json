@@ -1,0 +1,17 @@
+[
+  "The VAWT model had 3 blades with a NACA0021 airfoil profile.",
+  "The rotor diameter was 1.030 m and the span length was 1.456 m.",
+  "The solidity of the VAWT was 0.25.",
+  "The V-shaped blades were created by moving the blade middle cross-section along the tangential direction of the rotor.",
+  "The maximum enhancement in power coefficient occurred at \u0394V = 0.6c, with a 24.1% increase compared to the baseline straight-bladed VAWT.",
+  "The influence of the V-shaped blades on the thrust coefficient was relatively small, with variations less than 4%.",
+  "The trailing-edge serrations generated less low-frequency noise compared to the straight-bladed VAWT.",
+  "A dumbbell-shaped noise directivity distribution was discovered for the first time in a VAWT.",
+  "The Reynolds number range for the simulations was 1.1 \u00d7 10^5 to 2.2 \u00d7 10^5.",
+  "The simulations for 8 revolutions took about 168 hours, and the acoustic calculations for another 2 revolutions took about 360 hours.",
+  "The power coefficient of the V-bladed wind turbine with trailing-edge serrations was about 28.3% higher than the original turbine.",
+  "The researchers investigated the use of trailing-edge serrations as a noise reduction technique for the VAWT.",
+  "The computational model was divided into a stationary domain and a rotational domain, using the sliding mesh technique.",
+  "The four regions defined in the model based on the azimuthal range of the blade were the upwind, leeward, downwind, and windward regions.",
+  "A total of 33 acoustic receivers were set up in the middle plane to cover the sound wave propagation."
+]
