@@ -1,0 +1,17 @@
+[
+  "Energy-Exergy Analysis and Optimal Design of a Hydrogen Turbofan Engine Mohammadreza Sabzehali1, Somayeh Davoodabadi Farahani1, Amir Mosavi2,3 1 School of Mechanical Engineering, Arak University of Technology, 38181-41167, Arak, Iran 2 John von Neumann Faculty of Informatics, Obuda University, 1034 Budapest, Hungary 3 Institute of Information Engineering, Automation and Mathematics, Slovak University of Technology, 812 37 Bratislava, Slovakia Abstract In this study, the effect of inlet air cooling and fuel type on the performance parameters of thrust-specific fuel consumption (TSFC), thermal and exergetic efficiencies, entropy generation rate, and Nitrogen oxide emission intensity index (SNOx) of the GENX 1B70 engine is analyzed in two states of take-off and on design",
+  "The results show that with a 20\u02daC reduction in inlet air temperature on design conditions and JP10 fuel usage, the thermal efficiency and entropy generation rate, thrust and fuel mass flow rate, and TSFC of the engine increase by 1",
+  "15% and SNOx & exergetic efficiency decrease by 2",
+  "60%, respectively",
+  "Also, optimization of the GENX 1B70 engine cycle as hydrogen fuel usage with three separate objective functions: thrust maximization, thermal efficiency maximization, and propulsive efficiency maximization on design point condition was performed based on the Genetic algorithm",
+  "In on design conditions, entropy generation rate, nitrogen oxide production rate, and TSFC for the chosen cycle based on economic approach +18",
+  "01%, and -0",
+  "21%, respectively, and based on exero-environmental approach -54",
+  "02%, and +21",
+  "44% change compared to the base engine, respectively",
+  "1-Introduction Turbofan (TF) engines are one of the widely used types of aero gas turbine engines",
+  "But, at the mixed-flow turbofan engine, the output flow of the by-pass channel and the low-pressure turbine are combined in the mixer and then imported to the nozzle1",
+  "2 performed energy investigation and exergetic examination of a aero-GT system",
+  "Exergy efficiency and energy efficiency of air compressors are 94",
+  "9 and 92%, respectively"
+]
