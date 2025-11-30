@@ -1,0 +1,17 @@
+[
+  "Proceedings of the ASME 2019 Gas Turbine India GTIndia2019 December 5-6, 2019, Chennai, Tamil Nadu, India GT INDIA2019-2773 AERODYNAMIC DESIGN AND PERFORMANCE EVALUATION OF PIPE DIFFUSER FOR CENTRIFUGALCOMPRESSOR OF MICRO GAS TURBINE Sujal Bhavsar1, Santanu De1 1Indian Institute of Technology Kanpur, Kanpur, UP, India ABSTRACT \u03b2 angular pitch of single pipe This paper presents a methodology adopted for calculating \ud835\udf02 total to total isentropic efficiency, \ud835\udc61\u2212\ud835\udc61 geometrical parameters of the pipe diffuser of centrifugal \u03c9 rotational speed in rpm compressor of 100 kW Micro Gas Turbine (MGT)",
+  "\ud835\udc37 diameter The performance evaluation was performed with 3D-RANS \ud835\udc3f channel length based steady CFD simulation using commercially available \ud835\udc5a mass flow rate ANSYS CFX solver",
+  "Performance of baseline of pipe diffuser was \ud835\udc40\ud835\udc4e mach number compared with airfoil diffuser for 100% rotating speed",
+  "Detailed \ud835\udc41 number of blades/pipes analysis and comparison of flow mechanism was done at design \ud835\udc43 total to total pressure ratio mass flow rate (0",
+  "806 Kg/s) at 100% rotating speed",
+  "The \ud835\udc5f\ud835\udc61\u2212\ud835\udc61 \ud835\udc45 radius performance evaluation was also computed at different rotating \ud835\udc45 radius at the end of vaneless space speeds for pipe diffuser and few operating points have been 3\ud835\udc4e \ud835\udc45 radius at the intersection of two pipes analysed in detail",
+  "At last, four different design of pipe diffuser 3\ud835\udc4f \ud835\udc45 radius of tangential reference circle were also taken for analysis to check the effect of few \ud835\udc61\ud835\udc4e\ud835\udc5b \ud835\udc35 throat blockage parameters",
+  "It was found that at 100% speed, the best pipe \ud835\udc61\u210e \ud835\udc45\ud835\udc52 reynolds number based on diameter diffuser amongst the considered set performed marginally \ud835\udc37 \ud835\udc34\ud835\udc45 \ud835\udc34 \u2044\ud835\udc34 inferior than airfoil type diffuser",
+  "With the same pressure ratio, \ud835\udc5c\ud835\udc62\ud835\udc61 \ud835\udc61\u210e on average, it offers 82",
+  "2% total to total isentropic efficiency as SUBSCRIPTS opposed to 84",
+  "4% in case with airfoil type diffuser",
+  "However, 1 impeller inlet little compactness in frontal area can be achieved with pipe 2 impeller outlet diffuser",
+  "It was found that two counter-rotating vortices 3 diffuser inlet generated due to leading edge geometry of pipe diffuser offers 4 diffuser outlet dual effect\u2014beneficiary effect in pseudo- and semi-vaneless t total space and destabilizing effect in channel space",
+  "DOE Design of Experiment MGT Micro Gas Turbine MRF Multi Reference Frame NOMENCLATURE OFAT One Factor At Time 2\u03b8 divergence angle PS Pressure Side \u03b1 inclination angle 1 \u00a9 2019 by ASME SS Suction Side open literature [2, 6]",
+  "It is therefore the aim of 1 INTRODUCTION this work to validate the claims made by previous researcher on The IIT Kanpur MGT project is aimed at the development pipe diffuser and to check its performance against the available of millimeter-scale gas turbine for potential applications like optimized airfoil type diffuser for micro turbomachinery electric generators and propulsion systems"
+]
