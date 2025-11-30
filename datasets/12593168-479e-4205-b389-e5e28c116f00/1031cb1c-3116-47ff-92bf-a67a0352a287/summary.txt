@@ -1,0 +1,1 @@
+This paper simulates the influence of a pulsed magnetic field on the superalloy melt with a solid-liquid interface during directional solidification. The results show that the pulsed magnetic field generates periodic electromagnetic forces, vibrations, and convection in the melt, which lead to grain refinement of the superalloy microstructure.
