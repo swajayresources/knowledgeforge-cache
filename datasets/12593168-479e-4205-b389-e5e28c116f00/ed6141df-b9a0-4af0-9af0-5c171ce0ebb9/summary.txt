@@ -1,0 +1,1 @@
+This paper analyzes the energy-exergy performance of a hydrogen turbofan engine and optimizes its design using genetic algorithms. It investigates the effects of inlet air cooling and fuel type on engine performance metrics like thrust, efficiency, and emissions.
