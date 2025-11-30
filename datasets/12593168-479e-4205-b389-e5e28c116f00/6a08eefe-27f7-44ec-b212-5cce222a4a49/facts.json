@@ -1,0 +1,19 @@
+[
+  "The e-TellTale sensor is a strip with a strain gauge sensor at its base.",
+  "The sensor is used to detect flow separation and reattachment dynamics over wind turbine blades.",
+  "The Reynolds number based on the chord length of the 2D blade section is 2.105.",
+  "The amplitude of the blade oscillation is 5\u00b0.",
+  "The oscillating frequency is 1 Hz.",
+  "The \u0393 criterion method is used to identify vortices.",
+  "The stall and reattachment instant are defined as tref (ic) = (t +t )/2 and tref (ic) = (t +t )/2, respectively.",
+  "The time scale of the separation/detachment phenomena is \u223c 10c/U.",
+  "The location of the separation/detachment point is within one third of the blade chord from the leading edge.",
+  "The POD analysis is used to characterize the coherent structure organization during the blade oscillation cycle.",
+  "The PIV acquisition rate used for the POD analysis is 1600 Hz.",
+  "The spatial resolution of the PIV velocity fields is 6.3 px/mm.",
+  "The strip detection method is used to extract movements of the e-TellTale strip within the flow field.",
+  "The Vortex identification method is used to identify vortices in the shear areas over the blade surface.",
+  "The Proper Orthogonal Decomposition (POD) is used to detect flow separation and reattachment dynamics.",
+  "The e-TellTale sensor is compared to three different post-processing methods.",
+  "The results show good agreement between the measured velocity field and movements of the strip regarding the separation/reattachment dynamics."
+]
