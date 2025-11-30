@@ -1,0 +1,1 @@
+This paper studies the deformation mechanisms and temperature dependence of superlattice stacking fault formation in the single-crystal superalloy PWA 1480. It examines the mechanical behavior and microstructural evolution of the alloy under monotonic and cyclic loading from 20 to 1093°C, identifying two distinct temperature regimes with different deformation mechanisms.
