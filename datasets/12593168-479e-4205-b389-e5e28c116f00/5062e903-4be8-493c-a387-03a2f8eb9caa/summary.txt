@@ -1,0 +1,1 @@
+This paper presents an image processing pipeline for analyzing in-situ dynamic X-ray imaging of directional solidification of metal alloys in thin cells. The pipeline allows for segmentation of liquid and solid zones, identification of fluid channels and cavities, and morphological analysis of the solidified structures including grain orientation and connectivity.
