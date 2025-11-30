@@ -1,0 +1,18 @@
+[
+  "Lopeza,b,\u2217, Francisco Marquesa, Marc Avilab aDepartment of F\u00b4\u0131sica Aplicada, Universitat Polit`ecnica de Catalunya, Girona s/n, M`odul B4 Campus Nord, 08034 Barcelona, Spain bInstitute of Fluid Mechanics, Department of Chemical and Biological Engineering, Friedrich-Alexander-Universit\u00a8at Erlangen-Nu\u00a8rnberg, 91058 Erlangen, Germany Abstract The flow of fluid confined between a heated rotating cylinder and a cooled stationary cylinder is a canonical experiment for the study of heat transfer in engineering",
+  "The influence of the geometric parameters is comprehensively studied by varying the radius ratio (0",
+  "99) and the length-to-gap aspect ratio (5 \u2264 \u0393 \u2264 80)",
+  "Similarly, a wide range of Prandtl, Rayleigh, and Reynolds numbers is explored (0",
+  "01 \u2264 \u03c3 \u2264 100, Ra \u2264 30000, and Re \u2264 1000, respectively)",
+  "We obtain a simple criterion, Ra (cid:46) a(\u03b7)\u0393, which determines whether the infinite-cylinder assumption can be employed",
+  "Lopez) Preprint submitted to International Journal of Heat and Mass Transfer July 7, 2015 5102 luJ 6 ]nyd-ulf",
+  "scisyhp[ 2v61860",
+  "3051:viXra 1",
+  "Simple models of such flows can be tested in laboratory experiments of a laterally heated differentially rotating annulus, for which extensive information about the physical mechanisms and flow regimes can be found in the literature (see [1] for a review on this topic)",
+  "The case of rotating heated inner cylinder and stationary cooled outer cylinder (RHISCO) is a model for the cooling of rotating machinery, the solidification of pure metals, techniques of chemical vapordeposition,rotating-tubeheatexchangersandnuclearreactorfuelrods[2, 3, 4, 5]",
+  "The first group of experiments [6, 7, 8] is charac- terized by long cylinders \u0393=h/(r \u2212r )\u2265100 and narrow gap \u03b7 =r /r (cid:46)1",
+  "o i i o Ali and Weidman [9] performed a detailed linear stability analysis of such flows using axial periodicity and reported on the influence of the Prandtl number (\u03c3) and \u03b7 on the stability boundaries",
+  "Their results showed a good agreement with [6] and, to a lesser extent with [7]",
+  "A similar linear stability anal- ysis [10] reported good agreement between numerical and related experimental results[8]",
+  "We show that axial periodicity renders a good approximation of laboratory flows as long as the Rayleigh number Ra is small"
+]
