@@ -1,0 +1,17 @@
+[
+  "The experiments were conducted on a scaled-down model of a single-bladed H-type Darrieus wind turbine in a recirculating water channel.",
+  "The turbine blade had a NACA0018 profile, a chord length of 6 cm, and a span of 15 cm.",
+  "The turbine radius was 15 cm, yielding a chord-to-diameter ratio of 0.2.",
+  "The experiments were conducted at a Reynolds number of 50,000 based on the blade rotational velocity of 0.89 Hz.",
+  "The unsteady blade loads were measured using 20 strain gauges forming 5 full Wheatstone bridge channels on the blade shaft.",
+  "The Greenberg model was able to predict the maximum radial force coefficient during the upwind portion of the cycle even at the low tip-speed ratio of \u03bb=1.5.",
+  "The Greenberg model failed to accurately predict the radial force coefficient during the downwind portion of the cycle, especially at low tip-speed ratios, due to the effects of flow separation and blade-wake interaction.",
+  "The Fourier series approximation with 8 terms was found sufficient to accurately fit the effective angle of attack and flow velocity variations for tip-speed ratios \u03bb\u22651.2.",
+  "The maximum radial force coefficient and its timing were well predicted by the Greenberg model for the higher tip-speed ratio of \u03bb=4.5.",
+  "The Greenberg model does not account for the effects of dynamic stall and blade-wake interaction, which become important at low tip-speed ratios.",
+  "The proposed adaptation of the Greenberg model shows great potential for diagnosing regions of separated flow and quantifying the relative influences of dynamic stall and turbine kinematics on blade loading.",
+  "Future research can extend the method to model the loads on any airfoil undergoing arbitrary combinations of pitching, surging, and heaving motions.",
+  "The experiments were conducted in a recirculating water channel with a test section of 0.6m\u00d70.6m\u00d73m and a maximum flow velocity of 1 m/s.",
+  "The blade had a pitching axis located at the quarter-chord position, corresponding to a chord-normalized distance of d = -0.25.",
+  "The experimental data was phase-averaged over 100 cycles and conditioned using a low-pass filter with a cut-off frequency of 30 Hz."
+]
