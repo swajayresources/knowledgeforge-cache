@@ -1,0 +1,19 @@
+[
+  "On the occurrence of buoyancy-induced oscillatory growth instability in directional solidification of alloys Josep Maria Barbera1,2, Thomas Isensee1,3 and Damien Tourret1 1 IMDEA Materials, Getafe, Madrid, Spain 2 Universidad Politecnica de Madrid, ETSI Industriales, Madrid, Spain 3 Universidad Politecnica de Madrid, ETSI Caminos, Canales & Puertos, Madrid, Spain E-mail: damien",
+  "Recentsolidificationexperimentsidentifiedanoscillatorygrowthinstabilityduring directional solidification of Ni-based superalloy CMSX4 under a given range of cooling rates",
+  "Using the dendritic needle network (DNN) model, coupled with an efficient Navier-Stokes solver, we reproduced the buoyancy-induced growth oscillations observed in CMSX4 directional solidification",
+  "Here, we show that the oscillatory behavior may be generalized to other binary alloys within an appropriate range of (V ,\u039b) by reproducing it for an Al-4at",
+  "We describe the different observed growth p regimes and highlight similarities and contrasts with our previous results for a CMSX4 alloy",
+  "A prominent example is that of single-crystal Ni-based superalloy turbine blades for aeronautical applications [1]",
+  "However, various defects may emerge, such as segregated channels and freckles [2, 3, 4, 5], which may lead to a significant amount of manufactured parts being discarded",
+  "Recently, experiments using X-ray in situ radiography revealed the existence of oscillatory instabilities during DS of Ni-based superalloy CMSX4 [6]",
+  ", related to growth in a narrow channel [7], coordinated \u201cbreathing modes\u201d in cellular array growth [8, 9, 10], sidebranching at high primary spacing [11], or banding instabilities in rapid solidification [12, 13]",
+  "However, while all of these naturally occur within a purely diffusive thermo-solutal transport regime, 3202 beF 7 ]ics-lrtm",
+  "tam-dnoc[ 1v72430",
+  "2032:viXra the oscillations observed in CMSX4 stem from gravity-induced buoyancy [6], making them more challenging to investigate",
+  "The effect of buoyant convection on dendritic growth and microstructure heterogeneities has been acknowledged for decades [14, 15, 16, 17, 18]",
+  "However, due to the various scales to be incorporated together in the problem, quantitative modeling of dendritic growth in presence of fluid flow remains computationally demanding [19, 20]",
+  "Using a multiscale dendritic needle network (DNN) approach [21, 22], extended to include fluid flow in the liquid phase [23, 24], we recently managed to reproduce the growth oscillations observed in CMSX4 [24]",
+  "Our results suggest a minimum of V for the occurrence of oscillations and p confirm the correlation between the oscillation type (namely: damped, sustained, or noisy) with the ratio of average fluid velocity V over V",
+  "Our results also did not capture the further expected transition from sustained to damped oscillations when increasing V (i"
+]
