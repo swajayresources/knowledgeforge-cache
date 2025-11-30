@@ -1,0 +1,1 @@
+This paper proposes a novel numerical scheme based on operator-splitting and matrix-based techniques to model solidification and macro-segregation processes. The scheme avoids non-linear systems and is designed to be efficient and implementable, especially for 3D applications.
