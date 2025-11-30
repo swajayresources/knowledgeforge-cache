@@ -1,0 +1,17 @@
+[
+  "The Simplex turbopump is being developed at NASA/Marshall Space Flight Center (MSFC) by an in-house team.",
+  "The turbine is driven by warm gaseous oxygen tapped off of the hybrid motor to which it will be coupled.",
+  "The nozzle analysis showed the nozzle is overexpanded, with the pressure at the exit of the diverging section being approximately 57 psi and increasing to the back pressure of 53.3 psi across an oblique shock.",
+  "The Simplex rotor blades are straight in the radial direction, so even though tip leakage would produce some 3D effects, calculations could be performed two-dimensionally (2D) at the midspan.",
+  "Losses of 12% for partial admission and 5% for tip leakage were assumed for the 3D shrouded rotor analysis.",
+  "The initial bearing coolant circuit consisted of 4.5 lbm/sec of liquid oxygen (LOX) being diverted from the impeller discharge, with 1.8 lbm/sec leaking into the turbine disk cavity.",
+  "The redesigned bearing coolant circuit had 3.5 lbm/sec returning externally to the inducer inlet and 1.5 lbm/sec vented overboard.",
+  "The inducer design was modified to reduce the chord length by one-third, improving efficiency to 73% while also reducing the rotating mass outboard of the pump-end bearing.",
+  "The impeller design was found to be insensitive to small variations in the incoming flow angle, with the head coefficient varying from +10% to -7.5% about the design point.",
+  "The diffuser design was improved by cutting back the leading edge of the vanes to increase the flow angles and eliminate flow blockage, yielding a pressure rise of 288 psi.",
+  "The Simplex impeller generates a total pressure rise of 1,300 psi, with the radial impeller generating 85% of the required 1,500 psi discharge pressure.",
+  "The minimum inlet LOX pressure was 45 psi at 164\u00b0R flowing at 89.8 lbm/sec, yielding a required suction specific speed (Nss) of approximately 25,000 at the design point speed.",
+  "The turbine is designed to supply 700 hp at a wheel speed of 25,000 rpm.",
+  "The total mass flow rate through the turbine nozzles is 1.54 lbm/sec per nozzle.",
+  "The turbine inlet total temperature is 800\u00b0R, and the total-to-static pressure ratio is 15."
+]
