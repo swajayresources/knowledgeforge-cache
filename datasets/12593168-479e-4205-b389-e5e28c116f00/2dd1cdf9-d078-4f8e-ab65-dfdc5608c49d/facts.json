@@ -1,0 +1,17 @@
+[
+  "Experimental research accounted for 75% of the HOST Turbine Heat Transfer subproject, while analytical efforts accounted for approximately 25%.",
+  "The project covered a wide range of physical phenomena, including film-cooled airfoils, passage curvature, endwall flows, boundary layer transition, tip regions, free-stream turbulence, impingement, and turbulated serpentine passages.",
+  "The stator-airfoil heat transfer experiments showed the effects of Reynolds number, turbulence level, Mach number, temperature ratio, acceleration, and boundary layer transition on heat transfer coefficients.",
+  "The University of Tennessee Space Institute's three-dimensional viscous flow analysis showed that current turbulence models had difficulty predicting the thin turbulent boundary layer results in curved passages.",
+  "The real-engine environment experiments showed substantial differences between experimental airfoil temperatures and temperatures obtained from a typical design system for full-coverage, film-cooled airfoils.",
+  "Stanford University's experiments showed that heat transfer augmentation could be as high as 5X at a high value of free-stream turbulence intensity, but only 3X if the turbulence length scale was changed.",
+  "The rotor-stator interaction experiments showed that an increase in inlet turbulence had a substantial impact on the first stator heat transfer, but a minimal impact on the rotor heat transfer, and that the heat transfer on the pressure surface was generally above even fully turbulent levels.",
+  "Arizona State University's experiments on the blade tip cavity region showed that the heat transfer to the floor of the cavity was increased significantly on the downstream portion at lower aspect ratios, and that the flow angle had a substantial effect on heat transfer at lower aspect ratios.",
+  "Allison Gas Turbine Division modified the STAN5 boundary layer code to better define the starting points and transition length of turbulent flow, and used two empirical coefficients to improve the prediction of Stanton number reduction with showerhead film cooling.",
+  "The University of Minnesota developed a modified form of the Lam-Bremhorst low-Reynolds-number k-\u03b5 turbulence model to predict transitional boundary-layer flows under conditions characteristic of gas turbine blades, including both free-stream turbulence and pressure gradients.",
+  "Scientific Research Associates (SRA) modified their MINT Navier-Stokes code for turbine applications, including grid work for turbine airfoils, adding an energy equation and turbulence modeling, and improved user friendliness.",
+  "The consensus from recent studies suggests that significant technology advances are required to meet the goals of the future in areas such as improved fuel efficiency, high thrust-to-weight ratio, improved component performance, and reduced operating and maintenance costs.",
+  "The verification of predictions of unsteady flowfields with significant secondary flow phenomena and coupled thermal-velocity profiles is identified as a fertile research area.",
+  "With the expected advances in high-temperature materials, the components with significant aerothermal loads problems will expand beyond the airfoils and combustor liners to shrouds, rims, seals, bearings, compressor blading, ducting, nozzles, and other turbine components.",
+  "The issues to be addressed and the technology advances required to provide the aeropropulsion systems of the 21st century are quite challenging."
+]
