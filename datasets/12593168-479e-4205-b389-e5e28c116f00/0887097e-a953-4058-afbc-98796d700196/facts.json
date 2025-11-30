@@ -1,0 +1,17 @@
+[
+  "The case chosen for this study is the rotor blade of Garrett's TFE 731-2 HP turbine.",
+  "The shroud and tip measurements were conducted for two clearance gap heights of 0.0381 cm (1.11% of span) and 0.0635 cm (1.85% of span) at the blade leading edge location.",
+  "Placing the inlet boundary at 30% of axial chord upstream with a 0.1% inlet boundary layer thickness resulted in better agreement with the experimental measurements of tip and shroud heat transfer.",
+  "Increasing the rotation rate slightly increased the heat transfer in the leading edge region of the blade tip, while the effect on the shroud heat transfer was minimal.",
+  "Regions of high heat transfer were identified close to the leading edge and along the suction side edge of the blade tip, attributed to flow reattachment and the presence of a favorable pressure gradient, respectively.",
+  "The average shroud heat transfer was observed to decrease monotonically with increasing distance along the axial flow direction, but locally high rates of heat transfer were seen above the blade and on the pressure side.",
+  "The tip heat transfer was more sensitive to grid resolution than the shroud, requiring at least 40 cells in the radial direction within the tip clearance to achieve grid convergence.",
+  "Differences between the simulations and experimental data were attributed to the simplified inlet boundary conditions and the absence of the shroud recess in the computational model.",
+  "The enhancement of heat transfer on the blade tip was attributed to flow reattachment and the presence of favorable pressure gradients, which can lead to boundary layer thinning and increased heat transfer.",
+  "The average shroud heat transfer was observed to decrease monotonically with increasing distance along the axial flow direction, but locally high rates of heat transfer were seen in regions with large favorable pressure gradients.",
+  "The computational domain was discretized using a 5-block grid system, with the tip clearance region modeled using an O-grid.",
+  "The Baldwin-Lomax turbulence model was used, with the transition model of Mayle (1991) applied to account for the effects of unsteady wakes.",
+  "The total inlet temperature and pressure, as well as the inlet angle profiles, were specified as boundary conditions, with the outgoing Riemann invariant extrapolated from the interior.",
+  "At the exit, the pressure was specified, and all other conditions were extrapolated from within, while at the walls, the no-slip condition was enforced.",
+  "The simulations were performed using the TRAF3D.MB code, a general-purpose flow solver designed for simulations of flows in complicated geometries."
+]
