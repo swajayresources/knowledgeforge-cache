@@ -1,0 +1,17 @@
+[
+  "The compressor was designed to meet a pressure ratio of 4.68, work factor of 0.81, and design exit corrected flow rate of 3 lbm/s.",
+  "The measured polytropic efficiency of the compressor was 85.5% at the design point, which was 2.4 percentage points lower than the pre-test CFD predictions.",
+  "The measured stall margin of the compressor was 7.5% at the design point, which was 4.5 percentage points lower than the pre-test CFD predictions.",
+  "The post-test CFD analysis identified unfavorable unsteady impeller/diffuser interactions, an impeller/diffuser corrected flow-rate mismatch, and potential flow separation in the radial-to-axial bend as key factors contributing to the lower than predicted performance.",
+  "Challenges in the impeller fabrication included achieving the desired blade tip and hub profile measurements, as well as minimizing the final impeller runouts and imbalance.",
+  "The compressor was instrumented with steady-state pressure and temperature measurements, as well as high-response pressure transducers to capture unsteady phenomena.",
+  "The post-test CFD analysis, which included unsteady simulations and a wider range of turbulence models, showed better agreement with the experimental data compared to the pre-test CFD predictions.",
+  "Key lessons learned included the importance of unsteady CFD simulations for centrifugal compressors, the limitations of widely used turbulence models, and the need for longer integration times in unsteady CFD.",
+  "The main recommendations for future work were to test the impeller with a vaneless diffuser, redesign the diffuser to minimize interactions with the impeller, and redesign the radial-to-axial bend to eliminate flow separation.",
+  "The purpose of this project was to identify key technical barriers, design and fabricate a high-efficiency centrifugal compressor stage, and acquire detailed aerodynamic performance and research quality data.",
+  "The compressor design was constrained by the existing Small Engine Components Test Facility at NASA Glenn Research Center, including the impeller tip diameter, impeller rotational speed, and impeller inlet hub and shroud radii.",
+  "The compressor was designed using a combination of CFD analysis, 3D aerodynamic concepts, and an iterative design process.",
+  "The impeller was designed with a 30-degree backsweep, and the diffuser was designed with splitter vanes and vane thickening to improve performance.",
+  "The compressor was successfully fabricated and installed at the NASA Glenn Research Center, with no mechanical problems and the running clearances were achieved without impeller rubs.",
+  "The post-test CFD analysis highlighted the need for improvements to the CFD methodology, including the use of more advanced turbulence models and longer integration times in unsteady simulations."
+]
