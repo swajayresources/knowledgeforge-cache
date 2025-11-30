@@ -1,0 +1,17 @@
+[
+  "The experimental erosion tests were conducted on 25.4 x 25.4 x 1.5875 mm Inconel 718 coupons coated with EB-PVD 7YSZ.",
+  "The erosion rate was defined as the ratio of the measured coated sample erosion mass loss to the mass of erosive particles impacting the surface.",
+  "The particle restitution characteristics were measured using high-speed photography and Particle Image Displacement Velocimetry (PIDV).",
+  "The experimentally-derived erosion rate correlation showed the erosion rate increased with impingement angle, impact velocity, and temperature.",
+  "The maximum erosion rate for the EB-PVD TBC coating occurred at a 90 degree impingement angle, while the maximum for the Inconel 718 substrate occurred between 20-30 degrees.",
+  "The computational simulations used an Euler-Lagrangian two-stage, one-way particle interaction approach with RANS flow solutions.",
+  "The experimentally-based erosion and restitution models were implemented as user-defined functions in the ANSYS CFX software.",
+  "For the commercial APU turbine, the simulations predicted the highest local TBC erosion rate of 72.94 mg/g/cm^2 on the rotor suction side.",
+  "The overall TBC erosion rates for the commercial APU turbine were predicted to be 0.83 mg/g for the stator and 0.87 mg/g for the rotor.",
+  "Particle seeding only within 5% of the stator span at the hub and shroud resulted in concentrated erosion bands on the stator pressure surface.",
+  "The paper does not provide detailed comparisons of the results between the different turbine designs studied.",
+  "The experimental techniques and computational methodology were the main focus of the paper, rather than a comprehensive analysis of the erosion patterns in the different turbines.",
+  "The paper does not explicitly discuss the key assumptions and limitations of the computational approach used.",
+  "The experimentally-derived erosion and restitution models were critical for predicting the TBC erosion on the turbine blade surfaces.",
+  "The combined experimental and computational approach allowed for a more comprehensive investigation of TBC erosion in turbomachinery."
+]
