@@ -1,0 +1,18 @@
+[
+  "The HECC compressor has a design speed of 21,789 rpm.",
+  "The impeller exit speed of the HECC compressor is 1615 ft/s.",
+  "The HECC impeller has 15 main-blade/splitter-blade pairs.",
+  "The spanwise varying backsweep of the HECC impeller blades is between 32\u00b0 to 42\u00b0 from radial.",
+  "The vaned diffuser has 20 main/splitter vane pairs.",
+  "The EGV has 60 cascade style airfoils.",
+  "The compressor was tested at the NASA Glenn Research Center.",
+  "The mass flow rate was measured using an orifice.",
+  "The uncertainty of the orifice-based mass flow measurement system is \u00b1 0.1 lb/s.",
+  "The compressor operating speeds are based on once-per-rev measurements acquired at the compressor shaft.",
+  "The compressor speeds are corrected to standard day conditions based on temperature measurements taken in the plenum tank.",
+  "The flow path pressures are collected using a scanning pressure measurement system with an uncertainty of \u00b1 0.07 percent of the transducers full scale.",
+  "The temperature measurements are referenced to an isothermal reference block with an estimated uncertainty of \u00b1 2.3 R for inlet conditions.",
+  "The data system scans all measurement channels at a sampling rate of 1 Hz.",
+  "The data reported in this paper are averages of 20 consecutive scans.",
+  "The rig is verified to have reached thermal equilibrium based on tip-clearance measurements that remain constant over a 15 min time period."
+]
