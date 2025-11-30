@@ -1,0 +1,1 @@
+This paper presents aerodynamic measurements investigating the effects of large incidence angle variations on a high-pressure turbine (HPT) blade set in a transonic turbine cascade facility. The study supports the development of variable-speed power turbine (VSPT) technology for the NASA Large Civil Tilt Rotor (LCTR) vehicle, which requires a wide range of blade incidence angles.
