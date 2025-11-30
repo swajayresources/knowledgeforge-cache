@@ -1,0 +1,1 @@
+The paper analyzes the limitations of an automated wind turbine cost model, showing that it exhibits unrealistic scaling behavior in certain parameter regimes and recommends a set of axioms to enforce a stricter adherence of cost models to how costs arise from wind turbines.
