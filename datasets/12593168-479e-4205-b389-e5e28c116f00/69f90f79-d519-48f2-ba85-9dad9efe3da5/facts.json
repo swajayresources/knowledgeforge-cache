@@ -1,0 +1,22 @@
+[
+  "Inverse Aerodynamic Design of Gas Turbine Blades using Probabilistic Machine Learning SayanGhosh\u22171,GovindaAnanthaPadmanabha2,ChengPeng2,ValeriaAndreoli1,StevenAtkinson1, PiyushPandita1,ThomasVandeputte1,NicholasZabaras2,LipingWang1 1GeneralElectricResearch Niskayuna,NewYork,12309 2DepartmentofAerospaceandMechanicalEngineering UniversityofNotreDame NotreDame,Indiana46556 Email: sayan",
+  "Keywords: Inverse design, InvertibleNeural Network, Machine Learning, Probabilistic Modeling, Gaussian Process,GasTurbine,AerodynamicDesign 1 INTRODUCTION Thedesignofindustrialgasturbines(IGT)isamulti-disciplinary,complexprocesswhichoftenrequiresnumerousitera- tionsacrossdifferentteamstoachievemultipledesignobjectives",
+  "These methods can be broadly classified intotwocategories: a)anoptimization-basedapproach,andb)adirectinversedesignapproach[1,2,3,4,5]",
+  "1 1202 guA 71 ]PS",
+  "ssee[ 1v36101",
+  "8012:viXra Fig",
+  "1:ProbabilisticMachineLearningforInverseDesignofAerodynamicSystems(PMI)Framework targetperformance",
+  "MostofthemethodsusedforturbomachineryinversedesignsareCFD-basedalgorithms,wheretheflow fieldsinformationisusedtoguidethebladeredesigntomatchagivendesigntarget[6,7,8]",
+  "Recentworkoninversedesign hasfocusedondevelopingframeworksthatallowtheusertoquantifyuncertaintyaroundtheoptimaluserinputsordesign parametersformultipleapplications,see[9,10,11,12]",
+  "Specifically,worktreatingproblemsintheturbomachinerydomain includestheworkof[13,14],wheretheframeworksproposedleveragestate-of-the-artoptimizationtechniquestosolvefor theoptimalinput",
+  "Withrecentadvancesinthe areaof deeplearning,newmethodshaverevolutionizedtheinversedesignprocess[15,16, 17,18,19,20,21,22]",
+  "Inthiswork,wedemonstrateascalableframeworkforexplicitinversedesign,namedProbabilisticMachineLearningfor InverseDesignofAerodynamicSystems(PMI)[23],thatovercomesthesechallengestoenableinverseaerodynamicdesign ofturbinebladeairfoils",
+  "4,wedemonstratetheframeworkoninverseaerodynamicdesignof3DbladeoflaststagebladeofIGT",
+  "2 2 PMIFRAMEWORK ThePMIframework,asshowninFigure1,generatesanexplicitfunctionalrepresentationoftheinversedesignprocess",
+  "Theframeworkentailsthefollowingtwo-stepprocess: 1",
+  "We show the meanNLLerrorduringtrainingfor200epochsinFigure14",
+  "In each subplot, we show the mean \u00b5 of thepredictionsfortheobjectivesmentionedaboveandthespread(\u00b5\u00b1\u03c3)",
+  "16, we show the predictedpressureandswirl angleprofile meanand the spread(95%confidenceinterval)for a testdatayyy\u22c6 atthedownstreamoftherotor",
+  "To overcome the aforementioned challenges, we demonstrate a probabilistic inverse design machine learning framework (PMI), to carry out an explicit inverse design",
+  "5 CONCLUSION&DISCUSSION In this work, we demonstrate an \u201dexplicit\u201d inverse aerodynamicdesign of industrial gas turbine blade airfoil using the Pro-ML IDeas (PMI) framework"
+]
