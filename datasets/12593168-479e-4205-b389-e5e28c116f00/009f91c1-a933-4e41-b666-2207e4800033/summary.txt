@@ -1,0 +1,1 @@
+This paper presents a study on the development of thermal barrier coating (TBC) life prediction models for turbine airfoils in high-performance engines. It focuses on characterizing the microstructure and durability of plasma-sprayed and electron-beam physical vapor deposition (EB-PVD) TBC systems, and developing thermomechanical and thermochemical life models for these coatings.
