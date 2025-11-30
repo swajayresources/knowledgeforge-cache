@@ -1,0 +1,17 @@
+[
+  "Zirconia is a common coating material used for thermal barrier coatings.",
+  "Radiation becomes more significant as temperatures are raised for higher efficiency in advanced engines.",
+  "The two-flux method is used to model the radiative contribution within the semitransparent thermal barrier coating.",
+  "The paper considers two cases for the external surface of the thermal barrier coating: 1) with an opaque soot layer, and 2) with a clean exposed surface.",
+  "If the zirconia becomes covered with soot, the metal temperatures are increased due to the soot absorbing the incident radiation.",
+  "For a clean thermal barrier coating, the semitransparency of the zirconia can decrease temperatures in the zirconia compared to an opaque coating.",
+  "The radiative effects are relatively too small to provide sufficient benefit from scattering for turbine blades with high convective heat transfer coefficients.",
+  "Semitransparency is found to be beneficial for limited conditions, as it can increase the effective coating thermal conductivity for heating primarily by convection.",
+  "The semitransparent region of a zirconia thermal barrier coating extends to a cutoff wavelength of about 5 \u03bcm.",
+  "The paper provides an analytical procedure using the two-flux method to account for radiative heat transfer within the thermal barrier coating.",
+  "Illustrative solutions are presented for typical conditions in an aircraft engine.",
+  "The absorption optical thickness of zirconia thermal barrier coatings is small, and the scattering albedo is close to one.",
+  "The shooting method used for solving the two-point boundary value problem for the radiative flux converged without difficulty for the given conditions.",
+  "The iteration method changes when the zirconia coating has an opaque soot layer on its exposed surface.",
+  "For a 1-mm-thick zirconia coating, the metal temperature is substantially reduced compared to the uncoated metal."
+]
