@@ -1,0 +1,1 @@
+This paper uses wall-resolved large eddy simulations to investigate the shock-boundary layer interactions (SBLIs) in a supersonic turbine cascade, comparing adiabatic and isothermal (cooled) wall conditions. The results show that cooling the walls reduces the size of the separation bubble and leads to a steeper pressure rise downstream of the incident oblique shock.
