@@ -1,0 +1,1 @@
+This paper uses wall-resolved large eddy simulations to investigate the effects of wall temperature on shock-boundary layer interactions in a supersonic turbine cascade. The results show that cooling the blade surface reduces the size of the separation bubble and leads to a steeper pressure rise downstream of the incident shock.
