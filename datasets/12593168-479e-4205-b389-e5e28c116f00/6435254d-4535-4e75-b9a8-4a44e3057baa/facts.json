@@ -1,0 +1,17 @@
+[
+  "The inlet Mach number is set to 2.0 and the Reynolds number based on inlet velocity and axial blade chord is 200,000.",
+  "The computational grid has approximately 68,000,000 points, with 1200x280x144 points in the O-grid block and 960x280x72 points in the background Cartesian grid block.",
+  "For the adiabatic wall case, the grid resolution in wall units is kept in the range 6 < \u0394s+ < 25, 0.1 < \u0394n+ < 0.3, and 3 < \u0394z+ < 9.",
+  "For the isothermal wall simulation, the near-wall grid spacing ranges from 15 < \u0394s+ < 60, 0.2 < \u0394n+ < 0.6, and 6 < \u0394z+ < 19.",
+  "The mean separation bubble length is 0.16c_ax for the adiabatic wall case and 0.10c_ax for the cooled wall case.",
+  "The skin-friction coefficient distributions show that the separation region is displaced downstream for the cooled wall case compared to the adiabatic wall setup.",
+  "A steeper variation of the pressure coefficient is observed downstream of the incident shock for the cooled wall case.",
+  "The wall-normal Reynolds stress component is higher for the cooled wall case compared to the adiabatic case.",
+  "The shear layer downstream of the separation bubble is more diffused for the adiabatic case, while more concentrated vorticity values are observed when cooling is applied.",
+  "For the adiabatic case, the maximum temperature occurs within the separation bubble, while for the cooled wall, higher temperatures are observed along the free shear layer downstream of the bubble.",
+  "Before the shock-boundary layer interaction, the location of maximum turbulence amplification is displaced downstream for the cooled wall case.",
+  "The same computational grid is used for both the adiabatic and isothermal wall cases, but the near-wall grid spacing has higher values in wall units for the isothermal wall case.",
+  "The incident shock wave gets closer to the blade surface when cooling is applied, leading to a steeper variation in the pressure coefficient.",
+  "Wall cooling induces the formation of a thinner boundary layer, and the sonic line forms closer to the wall for the cooled wall case.",
+  "The separation bubble undergoes a contraction/expansion motion for both the adiabatic and cooled wall cases, with similar excursions from the mean."
+]
