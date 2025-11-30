@@ -1,0 +1,17 @@
+[
+  "Surface transfer coefficients estimation for heat conduction problem using the Bayesian framework Julien Berger a\u2217 , Clemence Legrosb,c June 20, 2022 a Laboratoire des Sciences de l\u2019Ing\u00e9nieur pour l\u2019Environnement (LaSIE), UMR 7356 CNRS, La Rochelle Universit\u00e9, CNRS, 17000,La Rochelle, France b Univ",
+  "Savoie Mont Blanc, CNRS, LOCIE, 73000 Chamb\u00e9ry, France c Univ",
+  "Grenoble Alpes, CEA, LITEN, DTS, INES, 38000 Grenoble, France \u2217 corresponding author, e-mail address : julien",
+  "Key words: inverse heat conduction problem; surface heat transfer coefficient; Bayesian estimation; lumped model; model reliability 1 Introduction With the perspective of elaborating highly energy efficient buildings, several models have been proposed in the literature since the 70\u2019s",
+  "A recent review of the state-of-the art models has been proposed in [1]",
+  "Software such as EnergyPlus [2] or Domus [1] are widely used to assess the building energy consumption",
+  "Among others, a Spectral reduced order model has been proposed for fast and accurate computations in [3]",
+  "In [4], an innovative approach has been proposed to compute the conduction loads using a numerical methodwithadaptivemesh",
+  "In[5],atwo-dimensional modelbasedonDuFort\u2013Frankel numericalmethodis proposed to evaluate the wall efficiency considering the shading of the local urban environment",
+  "Several data- sets have been proposedin the literature as reported in the review proposedin [6]",
+  "Indeed, the direct measurement of these quantities using optical measurements or infra-red temperature mapping methods requires expensive equipment [7\u20139]",
+  "References [3, 10, 11], can be consulted to illustrate this point",
+  "However, in real configurations, the inside and outside heat transfer coefficients of building walls play a crucial role on the energy efficiency 1 2202 nuJ 41 ]EC",
+  "sc[ 1v17380",
+  "6022:viXra Surface transfer coefficients estimation for heat conduction problem using the Bayesian framework [12]"
+]
