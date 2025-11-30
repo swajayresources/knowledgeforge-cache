@@ -1,0 +1,17 @@
+[
+  "Effects of Inflow Turbulence on Structural Deformation of Wind Turbine Blades Linyue Gao 1, Shu Yang 1, Aliza Abraham 1, 2, Jiarong Hong 1, 2, * 1 St",
+  "Anthony Falls Laboratory, University of Minnesota, Minneapolis, MN 55414, USA 2 Department of Mechanical Engineering, University of Minnesota, Minneapolis, MN 55455, USA * Corresponding author: jhong@umn",
+  "The present investigation provides the first field characterization of the influence of turbulent inflow on the blade structural response of a utility-scale wind turbine (2",
+  "5MW), using the unique facility available at the Eolos Wind Energy Research Station of the University of Minnesota",
+  "Keywords: Wind turbine; Blade structural response; Blade loading; Strain measurement; Field Measurement 1 1",
+  "Introduction Wind power is considered one of the most promising alternative source of energy worldwide and has achieved competitive or even lower prices than traditional fossil fuels in the United States [1]",
+  "As wind turbines continue to grow in size with longer blades for more efficient power generation, the interactions between turbulent inflow and wind turbines become more intense and, consequently, have stronger effects on wind turbine performance [2]",
+  "The turbulent inflow can result in dramatic fluctuations in wind turbine power output and thereby may cause unexpected frequency deviations to the power utilities [3,4]",
+  "More importantly, wind turbine structures, particularly the rotating blades, are susceptible to increased loads due to higher levels of turbulence [5]",
+  "In recent years, the varying turbine loading due to atmospheric turbulence has been widely regarded as an important factor that needs to be fully considered to achieve the 20-year design life criterion of wind turbines, especially utility-scale wind turbines [6]",
+  "Currently, most studies of the effect of turbulence on wind turbines focus on power fluctuations [2,4,7\u20139], while the ones on flow-blade interaction focus on blade health monitoring based on long-term fatigue loading [10\u201313]",
+  "However, it is also critical to investigate the effect of turbulence on blade structural response in the short term to provide insights into developing advanced control strategies for load/deformation mitigation for safer and more efficient wind turbine operation [12,14]",
+  "In general, very few studies have provided a detailed examination of the effect of turbulence on blade structural response due to the limitations in simulation methods and field/experimental facilities [2]",
+  "Only in recent years, several numerical investigations [10,11,15\u201320] have been conducted to look into this subject for utility-scale wind turbines",
+  "[12] investigated blade loading of the NREL 5MW wind turbine under turbulent inflow simulated using large eddy simulation (LES) and blade deformation captured using an aeroelastic code, FAST"
+]
