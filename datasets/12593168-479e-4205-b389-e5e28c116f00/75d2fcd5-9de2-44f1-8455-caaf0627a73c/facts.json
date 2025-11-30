@@ -1,0 +1,17 @@
+[
+  "The value of the engine maintenance, repair, and overhaul (MRO) industry was $27 billion in 2016 and is estimated to reach $40 billion by 2026.",
+  "Turbofan engine failures contribute to 60% of all airplane failures, making accurate RUL predictions critical for safety and cost-effective operations.",
+  "The CMAPSS dataset contains data for 100 engines until they fail, with the number of operational cycles before failure ranging from 128 to 362, with an average of 206.",
+  "The paper removed 12 features from the CMAPSS dataset based on low variability and high correlation criteria.",
+  "The Min-Max scaling and power transformation were applied to the preprocessed dataset to normalize the data.",
+  "Principal Component Analysis (PCA) was explored but did not yield high accuracies due to the temporal dependencies in the data.",
+  "The BLSTM model with dropout layers was the best-performing model, outperforming linear regression, standard LSTM, and other BLSTM variants.",
+  "The BLSTM with dropout model achieved an RMSE of 26.68, MAE of 20.56, and R^2 of 0.59 on the CMAPSS dataset.",
+  "Early stopping and automatic learning rate reduction were used as additional techniques to improve the BLSTM model's convergence.",
+  "The residual plot for the BLSTM with dropout model showed random residuals, indicating the model was well-performing.",
+  "The BLSTM model was able to capture the sequential dependencies in the turbofan engine RUL data better than traditional models like linear regression.",
+  "The paper suggests that there is still room for improvement in the RUL prediction accuracy, and future work could focus on further hyperparameter tuning and testing on other datasets.",
+  "The BLSTM model with dropout regularization was able to minimize the effect of overfitting compared to the standard BLSTM model.",
+  "The CMAPSS dataset used in the paper is a simulation framework developed by NASA for examining engine degradation.",
+  "The turbofan engine consists of several key components, including the fan, compressors, combustor, and turbines, which are monitored by various sensors in the CMAPSS dataset."
+]
