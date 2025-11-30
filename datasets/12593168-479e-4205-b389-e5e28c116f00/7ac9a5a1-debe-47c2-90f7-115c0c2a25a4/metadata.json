@@ -1,0 +1,15 @@
+{
+  "paper_id": "7ac9a5a1-debe-47c2-90f7-115c0c2a25a4",
+  "title": "Optimal design of frame structures with mixed categorical and continuous design variables using the Gumbel-Softmax method",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/7ac9a5a1-debe-47c2-90f7-115c0c2a25a4/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/7ac9a5a1-debe-47c2-90f7-115c0c2a25a4/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/7ac9a5a1-debe-47c2-90f7-115c0c2a25a4/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/7ac9a5a1-debe-47c2-90f7-115c0c2a25a4/keywords.json"
+  ]
+}
