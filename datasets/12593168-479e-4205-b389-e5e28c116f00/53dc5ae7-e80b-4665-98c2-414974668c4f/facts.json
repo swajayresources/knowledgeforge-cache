@@ -1,0 +1,18 @@
+[
+  "Ni3Al single crystals exhibit non-Schmid yield behavior.",
+  "The yield stress of Ni3Al increases with temperature up to about 1000 K.",
+  "The APB energy on the {111} plane is relatively high, allowing slip of a single 1/2 <1\u030510> partial dislocation.",
+  "The Qin-Bassani yield formulation is a linear combination of the resolved shear stress and non-Schmid stresses.",
+  "30 slip systems are considered in the Qin-Bassani yield formulation.",
+  "The non-Schmid coefficients represent the contribution of non-Schmid stresses to the yield behavior of the material.",
+  "The non-Schmid coefficients are estimated directly from experimental yield stress data using a linear non-Schmid model form.",
+  "\ud835\udf0f0,oct is a temperature-dependent material property that represents the hardening caused by cross-slip.",
+  "The enthalpy for cross-slip, H, represents the activation energy required for cross-slip from {111} to {001} planes.",
+  "The enthalpy for cross-slip, H, is given by the equation: H = \u03bcb3(\u210e+\ud835\udc50+\ud835\udf05(\ud835\udf0f\u2212\ud835\udf05\ud835\udf0f)\u2212\u221a(\u2212+|\ud835\udf0f|)) / (4\u03c01/2\u221a3\ud835\udee4{111}\ud835\udc35)",
+  "The yield stress of Ni3Al is anisotropic and depends on the type of loading (tension or compression).",
+  "The Schmid law does not account for the observed anisotropy in the yield stress of Ni3Al.",
+  "The non-Schmid stresses contribute to the yield behavior of Ni3Al.",
+  "The Qin-Bassani yield formulation is used to model the yield behavior of Ni3Al single crystals.",
+  "The non-Schmid coefficients are temperature-dependent.",
+  "The enthalpy for cross-slip, H, is a function of the APB energies, resolved shear stresses, and the width of dislocation cores."
+]
