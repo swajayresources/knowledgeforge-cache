@@ -1,0 +1,1 @@
+This paper presents an adaptive location method for film cooling holes in turbine blades based on the design intent of the blade. The method uses a flexible deformation approach to match the theoretical and actual blade surfaces, and then optimizes the position and axial direction of the film cooling holes on the deformed blade surface.
