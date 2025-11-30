@@ -1,0 +1,19 @@
+[
+  "Automated UAV-based Wind Turbine Blade Inspection: Blade Stop Angle Estimation and Blade Detail Prioritized Exposure Adjustment Yichuan Shi1, Hao Liu2, Haowen Zheng1, Haowen Yu1, Xianqi Liang1, Jie Li2, Minmin Ma2, and Ximin Lyu1 Abstract\u2014Unmanned aerial vehicles (UAVs) are critical in the automated inspection of wind turbine blades",
+  "Extensive tests, comprising over 120 flights across 10 wind turbine models Fig",
+  "TheproposedUAVinspectionplatformimplementsthebladestop in 5 operational wind farms, validate the effectiveness of the angle estimation approach in front of a 130m tall wind turbine with 50m proposed approaches in enhancing inspection autonomy",
+  "INTRODUCTION of UAV technology has revolutionized these inspections, en- In recent years, propelled by the relentless progress in ablingskilledremotepilotstoconductthoroughassessments renewableenergytechnologies,windpowerhasemergedasa efficiently[6]",
+  "Asof2023,theglobalinstalled and photography",
+  "The emergence of UAV-based automated wind power capacity surged to an impressive 1021GW [1]",
+  "inspection systems capitalizes on automation and artificial Wind farms strategically dot hills, mountains, and coastal intelligence, autonomously directing UAV operations during regions, leveraging their bountiful wind resources to of- flights and image capture processes [7], [8], [9], [10], [11], fer substantial wind energy potential to support efficient [12], [13]",
+  "These technological advancements not only mit- windturbineinstallations[2]",
+  "conditions such as intense winds, lightning, hail, and rain Nevertheless, despite the extensive research efforts, the pose threats to wind turbine blades, potentially leading to field of automated UAV-based wind turbine blade inspection damage [3]",
+  "These methods are laborious, turbines, such as those up to 130 m high with 50 m blades, inefficient, and pose safety risks [4], [5]",
+  "The introduction necessitating a safety distance of over 10m from the blades, and a flight speed below 2 m/s to prevent motion blur in This work is supported by the Guangdong-Hong Kong-Macao Joint image capture",
+  "2023A0505010019)andtheNationalNaturalScienceFoundationofChina (GrantNo",
+  "High Wind Resistance: Wind farms encounter strong 1School of Intelligent Systems Engineering, Sun Yat-sen University, wind interference, demanding drones with ample control Guangzhou,China",
+  "2PowerChinaZhongnanEngineeringCorporationLim- force and torque, which means large size and high strength, ited,Changsha,China",
+  "(Correspondingauthor:XiminLyu) Email:lvxm6@mail",
+  "I-A, we propose a plat- origin",
+  "131380\u2013131387, blade inspection, we propose a UAV inspection platform, a 2020"
+]
