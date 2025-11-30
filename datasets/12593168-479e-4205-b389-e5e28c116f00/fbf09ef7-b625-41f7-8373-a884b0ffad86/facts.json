@@ -1,0 +1,20 @@
+[
+  "The paper proposes a framework for business optimization using APSO and SVM.",
+  "The framework combines APSO to find optimal kernel parameters for SVM.",
+  "The authors apply the framework to three case studies: production optimization, income prediction, and project scheduling.",
+  "The results show that the proposed framework can efficiently solve complex optimization problems and achieve accurate results.",
+  "The Cobb-Douglas production optimization problem is a classical problem that aims to minimize the utility function subject to a constraint on labor costs.",
+  "The proposed framework can efficiently solve the Cobb-Douglas production optimization problem with noise.",
+  "The results of the case studies demonstrate the effectiveness of the proposed framework in solving complex optimization problems and achieving accurate results in business optimization.",
+  "The kernel trick is a technique that transforms data dimensions while simplifying computation by using kernel functions.",
+  "The Vapnik bound is a mathematical formula that estimates the error of a classifier based on the number of training data and the VC-dimension.",
+  "The inertia function is used to introduce a virtual mass to stabilize the motion of particles and improve convergence in PSO.",
+  "The kernel parameters C and \u03c32 control the tradeoff between the margin and the misclassification error in SVM.",
+  "Metaheuristic algorithms can use a balanced tradeoff between global search and local search, and can combine the advantages of various algorithms to produce better results.",
+  "The proposed framework can be used to solve complex optimization problems in business optimization.",
+  "The results of the case studies demonstrate the effectiveness of the proposed framework in achieving accurate results in business optimization.",
+  "The framework combines APSO and SVM to solve optimization problems.",
+  "The authors use APSO to find optimal kernel parameters for SVM.",
+  "The results show that the proposed framework can efficiently solve the Cobb-Douglas production optimization problem with noise and achieve accurate results.",
+  "The kernel trick is used to transform data dimensions and simplify computation in SVM."
+]
