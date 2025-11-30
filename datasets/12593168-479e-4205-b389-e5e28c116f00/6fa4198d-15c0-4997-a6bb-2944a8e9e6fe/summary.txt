@@ -1,0 +1,1 @@
+This paper investigates the effects of unsteady flow interactions on the performance of a highly-loaded transonic compressor stage using large eddy simulation (LES). The key focus is on understanding the unsteady loss generation in the stator passage due to the incoming rotor wake.
