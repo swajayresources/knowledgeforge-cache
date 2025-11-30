@@ -1,0 +1,17 @@
+[
+  "The calculations are based on higher-order finite differences and are performed on extremely refined spatial and temporal meshes to resolve all the important energy-carrying scales.",
+  "The jet hole is square in cross-section, and the jet-to-crossflow velocity ratio is 0.5.",
+  "The near-field large-scale structures include the shear layer vortices, the counter-rotating vortex pair (CVP), the horseshoe vortex system, and wake and wall vortices.",
+  "The dynamics of these structures are significantly influenced by a time-periodic interaction between the jet hole boundary layer and the approaching crossflow.",
+  "The periodic behavior involves the approaching crossflow periodically ingressing into the jet hole region and pushing the injected jet back toward the trailing edge at a Strouhal number of 0.44 based on the jet velocity and diameter.",
+  "A new mechanism for the formation of shear layer vortices is identified, consisting of alternate shedding of positive vorticity from the hole leading edge boundary layer and negative vorticity from the leading horseshoe vortex.",
+  "Comparison of the predicted turbulent statistics with experimental measurements shows reasonable agreement.",
+  "The film cooling configuration differs from the more commonly studied single-jet-in-crossflow cases in that it has a row of jets with periodic or symmetry boundary conditions in the spanwise direction, and the blowing ratios are typically lower (0.5 to 2), leading to a non-uniform jet-exit profile.",
+  "The DNS calculations require extremely refined spatial and temporal meshes to resolve all the important energy-carrying scales in the flow, posing significant computational challenges.",
+  "The detailed understanding of the large-scale unsteady flow structures and their dynamics provided by the DNS can be used to develop improved turbulence models and modeling approaches for more computationally efficient RANS simulations of film cooling.",
+  "The goal of the film cooling jets is to provide wide coverage of the blade surface, in contrast to the more commonly studied single-jet-in-crossflow cases.",
+  "The majority of the reported computational studies on jets in crossflow have primarily solved the Reynolds-Averaged-Navier-Stokes (RANS) equations, which cannot predict the dynamical nature of the vortical structures.",
+  "More recently, Large Eddy Simulations (LES) have been used to resolve the dynamics of the large scales and model the small scales, but a time-accurate and space-accurate DNS calculation is needed to correctly reproduce the flow physics.",
+  "The application of interest in this study is the film cooling of gas turbine blades, where a row of coolant jets is injected into a hot crossflow.",
+  "The appropriate specification of the jet-exit conditions is necessary, as the vorticity exiting the hole has a strong influence on the downstream development of the dynamical structures."
+]
