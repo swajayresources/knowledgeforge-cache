@@ -1,0 +1,17 @@
+[
+  "1 PCA-Guided Autoencoding for Structured Dimensionality Reduction in Active Infrared Thermography Mohammed Salah, Numan Saeed, Davor Svetinovic, Stefano Sfarra, Mohammed Omar, and Yusra Abdulrahman Abstract\u2014Active Infrared thermography (AIRT) is a widely (NDT) techniques have emerged for predictive safety moni- adopted non-destructive testing (NDT) technique for detecting toring in various production lines, such as the aerospace [1], subsurface anomalies in industrial components",
+  "Due to the high [2] automotive [3], [4], and construction [5]",
+  "A novel loss function, PCA distillation lifespan [6], [7]",
+  "To ing, and infrared thermography (IRT) [1]",
+  "Experimental results for its ability to rapidly inspect large areas and detect sub- show that the proposed PCA-guided AE outperforms state-of- surface defects without requiring physical contact [8]",
+  "These the-art dimensionality reduction methods on PVC, CFRP, and advantages drove the exploration of the potential of IRT PLA samples in terms of contrast, signal-to-noise ratio (SNR), in inspecting aircraft components [2], [9]\u2013[11], construction and neural network-based metrics",
+  "pipelines [5], [12]\u2013[14], and artworks [15], [16]",
+  "com/mohammedsalah98/pca guided ae AI-based AIRT have been developed for defect classification [17]\u2013[19],defectsegmentation[20],[21],andstructuralhealth I",
+  "INTRODUCTION monitoring [12]",
+  "The most prevalent state-of-the-art AIRT ap- ThisworkwassupportedbyKhalifaUniversityofScienceandTechnology proaches rely on principal component analysis (PCA) to under Award 8474000660",
+  "surface defects for precise defect analysis [22]\u2013[24]",
+  "SvetinovicisalsowiththeDepartmentofInformationSystemsand dynamics of thermographic signals [15], [16], [25]",
+  "In these Operations Research, Vienna University of Economics and Business, 1090 models, the compressed latent space is used as a compact Vienna,Austria",
+  "Yet,a andEconomics(DIIIE),UniversityofL\u2019Aquila,L\u2019AquilaI-67100,Italy key limitation remains: AIRT AEs are non-discriminative, and M",
+  "In general, neural networks and learning-based approaches require input representations that are structurally 5202 guA 11 ]VI"
+]
