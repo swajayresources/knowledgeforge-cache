@@ -1,0 +1,15 @@
+{
+  "paper_id": "c8a57433-a568-48a2-9003-aa294ea6ce95",
+  "title": "Damage detection in operational wind turbine blades using a new approach based on machine learning",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/c8a57433-a568-48a2-9003-aa294ea6ce95/summary.txt",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/c8a57433-a568-48a2-9003-aa294ea6ce95/qa_pairs.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/c8a57433-a568-48a2-9003-aa294ea6ce95/facts.json",
+    "datasets/12593168-479e-4205-b389-e5e28c116f00/c8a57433-a568-48a2-9003-aa294ea6ce95/keywords.json"
+  ]
+}
