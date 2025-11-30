@@ -1,0 +1,1 @@
+This paper presents a high-resolution additive manufacturing technique that uses upconversion nanoparticles and wavefront shaping to focus near-infrared light through highly scattering media like biological tissues. The method enables micro-meter resolution printing by exploiting the optical memory effect to dynamically shift the focal spot.
