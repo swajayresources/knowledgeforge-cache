@@ -1,0 +1,18 @@
+[
+  "The Boeing OREIO design aims to reduce fuel burn and noise while meeting NASA's Environmentally Responsible Aviation (ERA) project goals.",
+  "The OREIO design uses open rotor engines.",
+  "The wingspan constraint for the OREIO design is 65m (213.25ft).",
+  "The objective function for design optimization in the OREIO study is fuel consumption.",
+  "The FLOPS software is a multidisciplinary system of computer programs for conceptual and preliminary design and evaluation of advanced aircraft concepts.",
+  "The FLOPS weight routines assume a home plate shape for the cabin.",
+  "The regression equation used to estimate the centerbody weight in FLOPS is W = K *0.316(TOGW)0.167(S)1.061 cabin s cabin.",
+  "The Boeing and FLOPS estimates for gross weight and empty weight are within 1% and 2% respectively.",
+  "The OREIO primary structure is analyzed using finite element method (FEM) using Nastran.",
+  "The PRSEUS concept is used for highly-integrated stitched-composite airframe structures tailored and optimized to exploit the orthotropic nature and processing advantages of carbon fiber materials.",
+  "The main challenge in modeling stiffened panels in a conceptual design environment is significant challenges in terms of FEM model size and complexity.",
+  "The goal of the Environmentally Responsible Aviation (ERA) project is to reduce noise (42db cumulative below the Stage 4 certification level), fuel burn (50% reduction compared to currently operating aircraft), and emissions (75% reduction in nitrogen oxide compared to the current standard).",
+  "The cruise Mach number for the OREIO design is 0.8.",
+  "The maximum sink rate at landing for the OREIO design is 8ft/sec.",
+  "The VSP model is used to generate geometry data for the structural analysis.",
+  "The Boeing and FLOPS weight estimates have some differences in sub-component outputs."
+]
