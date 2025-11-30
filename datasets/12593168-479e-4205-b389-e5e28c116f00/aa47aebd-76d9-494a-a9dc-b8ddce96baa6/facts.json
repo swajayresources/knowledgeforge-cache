@@ -1,0 +1,17 @@
+[
+  "The authors revisit the problem of the growth of dense/cold gas in the cloud-crushing setup with radiative cooling.",
+  "The relative motion between the dense cloud and the diffuse medium produces a turbulent boundary layer of mixed gas with a short cooling time.",
+  "The Gronke-Oh criterion states that cold gas growth occurs when the cooling time of the mixed gas is shorter than the cloud-crushing time (t_cool,mix < t_cc).",
+  "The Li criterion states that growth occurs when the cooling time of the hot gas is shorter than 10 times the predicted cloud lifetime (t_cool,hot < 10 * t_life,pred).",
+  "The authors' simulations agree with the Gronke-Oh criterion and show cloud growth in the region between the Gronke-Oh and Li radii.",
+  "Clouds smaller than the Gronke-Oh radius are destroyed, while clouds larger than the Li radius also show dense mass growth at late times.",
+  "In the absence of cooling, the cold/dense cloud is mixed into the hot wind after a few cloud-crushing times.",
+  "With cooling, larger clouds (R_cl > R_GO) show an initial dip in dense mass followed by late-time growth as the mixed gas in the boundary layer cools and accretes onto the dense tail.",
+  "The authors perform higher resolution (R_cl/d_cell = 64) simulations with a smaller box size to better visualize the small-scale features of the turbulent wake.",
+  "The multiphase structure of the turbulent wake, with a broad range of temperatures and densities but in rough pressure balance, may help explain the ubiquity of the range of absorption/emission lines observed in various astrophysical sources.",
+  "The authors argue that radiative cloud-crushing simulations should be run long enough to allow for the late-time growth of the dense gas due to cooling of the mixed gas, but not so long that the background gas cools catastrophically.",
+  "The simulation domain should be large enough that the mixed gas is not lost through the boundaries.",
+  "While the mixing layer is roughly isobaric, the emissivity of the gas at different temperatures is fundamentally different from an isobaric single-phase steady cooling flow.",
+  "The authors choose parameters relevant to the circumgalactic medium (CGM), where recent observations have revealed the multiphase structure of the CGM.",
+  "Cold gas is also seen in cool core clusters, extended symmetrically out to the virial radius in z \u2273 3 halos hosting quasars, and within 10s of kpc in z \u2273 3 star-forming galaxies."
+]
