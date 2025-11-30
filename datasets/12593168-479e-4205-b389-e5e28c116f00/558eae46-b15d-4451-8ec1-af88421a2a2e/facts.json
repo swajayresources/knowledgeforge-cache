@@ -1,0 +1,17 @@
+[
+  "The SSME/STAEBL code was developed by systematically modifying and enhancing the STAEBL (Structural Tailoring of Engine Blades) code.",
+  "Additions and modifications to STAEBL included in SSME/STAEBL include thermal stress analysis, gas dynamic (pressure) loads, temperature-dependent material and thermal properties, forced vibrations, tip displacement constraints, single-crystal material analysis, blade cross-section stacking offsets, and a direct time integration algorithm for transient dynamic response.",
+  "Optimization studies were completed to test the influence of thermal and pressure loads and temperature-dependent properties on optimal SSME blade design.",
+  "The difference between the designs optimized under centrifugal loads only and under centrifugal, thermal, and pressure loads with temperature-dependent blade properties was attributed to material property temperature dependence, which required additional weight in the optimized design to meet all constraints.",
+  "Optimization studies for a blade made of a typical single-crystal material showed relatively little effect of crystal axis orientation on the optimal design.",
+  "Root stress was found to be influenced much less by crystal orientation than by the geometric design variables in the single-crystal SSME blade designs.",
+  "Blade cross-section stacking offsets were shown to have a very significant effect on root stress-dominated SSME blade designs.",
+  "The initial SSME blade design violated the root stress constraint, and the optimized design recommended a significant change in stacking to meet this constraint.",
+  "The gradient of the root stress constraint with respect to the design variables showed that root chord had the largest influence, followed by the blade stacking offsets.",
+  "The natural frequencies of the optimized SSME blade design under centrifugal loads only were 3562 Hz, 4383 Hz, 7916 Hz, and 7969 Hz.",
+  "The root stress of the optimized SSME blade design under centrifugal loads only was 108 ksi.",
+  "The root stress of the optimized SSME blade design under the combined centrifugal, thermal, and pressure loads with temperature-dependent properties was 65 ksi.",
+  "The root stress of the single-crystal SSME blade designs was 63 ksi for the design with the crystal aligned with the root chord and 65 ksi for the design with the crystal aligned 45 degrees to the root chord.",
+  "The optimized SSME blade design with stacking offsets had a root stress of 72 ksi, compared to 92 ksi for the initial design.",
+  "The blade stacking offsets were defined as the differences between the blade cross-section centers of gravity and a straight line perpendicular to the engine axis."
+]
