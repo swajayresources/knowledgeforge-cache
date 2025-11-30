@@ -1,0 +1,17 @@
+[
+  "The nominal composition of the RR1000 superalloy is Ni-15Cr-18.5Co-5Mo-3Al-3.6Ti-2Ta-0.5Hf-0.06Zr-0.03C-0.015B-0.5Si (in wt.%).",
+  "The oxide scale formed on the RR1000 superalloy after oxidation at 800\u00b0C for 500 hours consisted of a continuous layer of chromia, with a titanium-rich layer on the outer surface and some discontinuous precipitation of subsurface alumina.",
+  "The mean thickness of the surface oxide scale (chromia + rutile) was 2.0 \u00b1 0.2 \u03bcm, while the alumina depth was 4.3 \u00b1 1.4 \u03bcm, adding up to a total oxidation damage depth of 6.3 \u03bcm.",
+  "The atom probe tomography (APT) analysis revealed that Ti segregates primarily to the grain boundaries within the chromia scale, reaching up to 4-5 at.%, while the Ti concentration in the bulk chromia was around 1 at.%.",
+  "The deleterious effect of Ti on the oxide scale thickness is directly correlated to the outward diffusion of Ti from the bulk alloy, through the grain boundaries in the chromia scale, to the outer surface where it oxidizes to form rutile.",
+  "The calculations showed that the thickening rate in the polycrystalline oxide scale due to the outward diffusion of Ti was 3.77\u00d710-12 m/s, while the single-crystal scale would be practically impermeable to Ti.",
+  "Chromia (Cr2O3) can exhibit different defect structures depending on the oxygen partial pressure (PO2): p-type at high PO2, intrinsic at intermediate PO2, and n-type at low PO2.",
+  "The preferred valence states of cations in solid solution in p-type chromia are: Ni (II), Al (III), Si (IV), and Ta (V), with the relative effect on the oxidation rate being slower, neutral, fast, and faster, respectively.",
+  "The use of high-resolution techniques like APT allowed the researchers to quantify the relative concentrations of Ti in the bulk oxide scale compared to the grain boundaries, which is critical for understanding the mechanism behind the deleterious effect of Ti on the oxidation resistance.",
+  "The researchers used a simple 2D diffusion calculation based on Fick's second law to estimate the outward flux of Ti through the grain boundaries in the polycrystalline oxide scale.",
+  "The calculations demonstrated that the outward diffusion of Ti is almost entirely due to the presence of grain boundaries in the polycrystalline oxide scale, as the single-crystal scale would be practically impermeable to Ti.",
+  "The study provides new insights into the oxidation mechanisms operating in the RR1000 superalloy, particularly the role of Ti segregation to grain boundaries in enhancing the outward diffusion and leading to faster oxide scale growth.",
+  "The high-resolution characterization techniques, coupled with diffusion modeling, open new avenues for improved oxidation lifing models of engineering components made from complex multi-component alloys.",
+  "The study highlights the importance of using advanced characterization methods, such as atom probe tomography, to understand the atomistic-scale mechanisms governing the oxidation behavior of complex superalloys.",
+  "The findings of this study contribute to the broader understanding of the role of minor alloying additions, like Ti, in influencing the oxidation resistance of nickel-based superalloys used in high-temperature applications."
+]
