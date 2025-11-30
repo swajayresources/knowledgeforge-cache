@@ -1,0 +1,18 @@
+[
+  "The NV-1 chip has 3200 cores.",
+  "The NV-1 chip achieves 447 GB/s memory bandwidth.",
+  "The NV-1 chip consumes very low power (<10 mW).",
+  "The NV-1 chip's architecture is designed for massively parallel software.",
+  "The NV-1 chip's communication protocol minimizes power usage and data transport costs among nodes.",
+  "The NV-1 chip eliminates the address bus and uses local target address matching.",
+  "The digital twin approach was used to ensure that the technical implementation met the architectural specifications.",
+  "The predicted performance metrics have now been thoroughly verified in real hardware test data.",
+  "The NV-1 chip's technology node is 28nm.",
+  "The NV-1 chip's core size is 3200 cores.",
+  "The NV-1 chip's memory bandwidth is 447 GB/s.",
+  "The NV-1 chip's power consumption is <10 mW.",
+  "The NV-1 chip's architecture can process inferences with radically less power and fewer operations than typical von Neumann implementations.",
+  "The NV-1 chip's communication protocol is a novel protocol that minimizes power usage and data transport costs among nodes.",
+  "The NV-1 chip can be scaled up to huge arrays for applications such as server farms.",
+  "The NV-1 chip's scalability is a key feature of its design."
+]
