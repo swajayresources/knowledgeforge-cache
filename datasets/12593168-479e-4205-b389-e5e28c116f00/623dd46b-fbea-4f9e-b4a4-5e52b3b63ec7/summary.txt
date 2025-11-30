@@ -1,0 +1,1 @@
+This study examines the combined impact of the chord-to-radius ratio (c/R), blade camber, and preset pitch on cross-flow turbine performance. It proposes using net camber and net incidence as composite variables to better understand turbine performance and design behavior.
