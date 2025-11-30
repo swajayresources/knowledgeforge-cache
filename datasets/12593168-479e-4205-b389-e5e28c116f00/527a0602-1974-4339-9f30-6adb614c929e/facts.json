@@ -1,0 +1,17 @@
+[
+  "Sunb,\u2217 aDepartment of Civil & Environmental Engineering, University of Nevada, Reno, Nevada, USA bDepartment of Civil and Environmental Engineering, Louisiana State University, Baton Rouge, Louisiana 70803, USA Abstract The present paper proposes a novel two-dimensional non-linear tuned mass damper inerter (2d-NTMDI) to effectively mitigate bi-directional structural responses",
+  "The 2d-NTMDI consists of a mass and two sets of springs, dashpots and inerters configured in two axes",
+  "Whiletheproposednovel2d-NTMDIhasthecapabilityofmitigating bi-directional vibrations simultaneously, the system nonlinearity complicates the optimization",
+  "A numerical search method is adopted to determine the optimum design parameters of the 2d-NTMDI",
+  "To evaluate the effectiveness,theproposed2d-NTMDIisdeployedina5MW-windturbinebladesufferingfrombi-directional vibrations in the edgewise and flapwise directions",
+  "To this end, an analytical model of a wind turbine blade with a 2d-NTMDI is established",
+  "Theeffectivenessofthe2d-NTMDIisexaminedunderdifferentloadingconditions",
+  "It is concluded that the optimized design 2d-NTMDI can prolong the blade fatigue life by 35%",
+  "Keywords: Two-dimensional response reduction, wind turbine blades, two-dimensional nonlinear tuned mass damper, fatigue damage mitigation 1",
+  "Sun) Preprint submitted to Elsevier June 30, 2022 2202 nuJ 82 ]DC",
+  "niln[ 1v82341",
+  "6022:viXra fatigue damage",
+  "To protect wind turbines, structural vibration control which has been effectively used in traditional civil structures [1] is recently being studied to mitigate the vibrations of wind turbines",
+  "[2] deployed a singular tuned mass damper (TMD) to mitigate the vibrations of a wind turbine",
+  "[3] compared the performance of a novel 2 degree of freedom (DOF) extended linear TMD with a 1-DOF linear TMD in reducing the motion of a spar type floating wind turbine (FWT)"
+]
