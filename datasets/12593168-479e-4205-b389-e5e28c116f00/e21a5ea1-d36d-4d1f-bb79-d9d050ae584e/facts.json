@@ -1,0 +1,18 @@
+[
+  "The HECC compressor has a splittered impeller with 15 main-blade/splitter-blade pairs.",
+  "The impeller has a spanwise varying backsweep between 32\u00b0 to 42\u00b0 from radial.",
+  "The compressor has a vaned diffuser with 20 main/splitter vane pairs.",
+  "The EGV blade row comprises 60 cascade style airfoils.",
+  "The design speed is 21,789 rpm, corrected to inlet conditions.",
+  "The impeller exit speed is 1615 ft/s.",
+  "The total-to-total adiabatic efficiency is 0.88.",
+  "The work factor is 0.60.",
+  "The compressor was tested in the NASA Small Engine Components Test Facility (cell CE-18) at the Glenn Research Center.",
+  "The uncertainty of the orifice-based mass flow measurement system is \u00b1 0.1 lb/s.",
+  "The uncertainty of the temperature measurements is \u00b1 2.3 R for inlet conditions and \u00b1 2.5 R for stage exit measurements.",
+  "The data system scans all measurement channels at a sampling rate of 1 Hz.",
+  "A minimum dwell time of 2 min was observed prior to data collection.",
+  "The compressor has a tip clearance of 0.012 in.",
+  "The compressor has a hub flow path alignment with a forward facing step for \u025b > \u025b and an aft facing step for \u025b < \u025b.",
+  "The backplate leakage flow was controlled through the use of buffer air injected into the center of a multi-row labyrinth seal."
+]
