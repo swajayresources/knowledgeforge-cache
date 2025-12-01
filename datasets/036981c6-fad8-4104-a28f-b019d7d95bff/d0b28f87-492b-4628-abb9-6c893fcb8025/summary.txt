@@ -1,0 +1,1 @@
+This paper proposes a new electromagnetic double-layered cloak consisting of two sphere annular layers with different cloaking materials. The outer layer provides invisibility while the inner layer fully absorbs the electromagnetic waves, creating a normal electromagnetic environment inside the concealment.
