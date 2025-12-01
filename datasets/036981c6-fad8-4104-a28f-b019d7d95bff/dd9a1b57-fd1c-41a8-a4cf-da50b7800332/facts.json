@@ -1,0 +1,17 @@
+[
+  "The authors built computational models of the ErbB signaling network to quantitatively capture the dynamics of ligand-induced activation of EGFR, HER2, HER3, and downstream Akt and Erk signaling.",
+  "Sensitivity analysis of the ErbB model identified ErbB3 as the most critical activator of the pro-survival PI3K-Akt pathway.",
+  "The authors designed the anti-ErbB3 antibody seribantumab (MM-121) to have sub-nanomolar binding affinity, block HRG binding, inhibit BTC-induced ErbB3 phosphorylation, and trigger ErbB3 downregulation.",
+  "Computational modeling was used to support the dose selection for seribantumab by relating serum concentrations to tumor growth inhibition.",
+  "Preclinical studies showed that basal levels of ErbB3 phosphorylation correlated with response to seribantumab monotherapy in mouse xenograft models.",
+  "The computational model identified HRG, BTC, EGFR, HER2, and ErbB3 as the key biomarkers for ErbB3 activation and response to seribantumab.",
+  "In clinical trials, seribantumab demonstrated clinical benefit in subsets of patients whose tumors had high HRG expression or low HER2 levels.",
+  "The sensitivity analysis of the ErbB model showed that perturbation of ErbB3 would have the greatest impact on Akt signaling, a key pro-survival pathway.",
+  "The computational model predicted that seribantumab would be more potent in HER2-low settings, while a bispecific ErbB3/HER2 antibody would be more effective in HER2-high settings.",
+  "The authors selected an IgG2 Fc backbone for seribantumab to avoid potential immune-mediated on-target toxicities.",
+  "Seribantumab was tested in randomized Phase 2 trials in combination with standard-of-care therapies in platinum-resistant/refractory ovarian cancer, hormone receptor-positive HER2-negative breast cancer, and EGFR wild-type non-small cell lung cancer.",
+  "The authors hypothesized that ErbB3 signaling, particularly driven by the ligand HRG, could mediate cancer cell survival and drug tolerance, so inhibiting this pathway could enhance the efficacy of various cancer therapies.",
+  "The computational models were built using mass action kinetics and calibrated to high-density experimental signaling data to quantitatively capture the dynamics of ErbB receptor activation and downstream signaling.",
+  "The authors conducted a 'Critical Network Identification' screen to assess which cytokines and growth factors are the most potent activators of Akt phosphorylation across the NCI-60 cell line panel.",
+  "The screen identified the EGF and HRG ligand families, as well as IGF-1/2, HGF, and PDGF, as the most widespread Akt activators across the cell line panel."
+]
