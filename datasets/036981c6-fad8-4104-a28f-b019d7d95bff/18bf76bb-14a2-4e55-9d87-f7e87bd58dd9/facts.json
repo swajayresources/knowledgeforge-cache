@@ -1,0 +1,17 @@
+[
+  "The MINERvA experiment uses a fine-grained hydrocarbon scintillator-based tracker.",
+  "The average antineutrino energy used in this experiment is 6 GeV.",
+  "Neutrons interact with the MINERvA detector by scattering inelastically, producing recoil protons or de-excitation photons.",
+  "Reconstructed E is all non-muon energy that is not tagged as neutron available activity, designed to estimate energy transfer to the hadronic system.",
+  "The neutron detection efficiency is nearly 50% for neutrons around 10-50 MeV.",
+  "The ME-era data has a smaller statistical uncertainty and extends across a broader phase space in neutrino kinematics.",
+  "The rate of neutron candidates per event in the lowest energy deposit bin is 0.75 neutron candidates per antineutrino interaction.",
+  "The GENIE modification drops 35% of neutron candidates with energy deposit less than 10 MeV.",
+  "The GEANT modification models a generic change that could be related to neutron transport.",
+  "This measurement provides new constraints on neutron production models.",
+  "This measurement is useful for constraining neutron production models for NOvA oscillation results and comparison to anticipated cross section measurements in T2K's new scintillator-based SuperFGD detector.",
+  "The MINERvA experiment has published evidence of discrepancies in the details of neutron simulations from GENIE.",
+  "The few neutron-related measurements that have been made with GeV-scale antineutrinos so far have not published cross sections.",
+  "The ANNIE experiment is designed to measure the differential cross section as a function of neutron multiplicity and plans to make this measurement for antineutrino interactions on water.",
+  "The cross section measured in this paper disagrees with several leading models' predictions."
+]
