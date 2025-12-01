@@ -1,0 +1,22 @@
+[
+  "The EFIE formulation leads to dense, complex, and often ill-conditioned linear systems.",
+  "The condition number of EFIE matrices grows approximately as the square root of the scatterer size in wavelengths and linearly with discretization density.",
+  "Direct solvers require O(n^2) storage and O(n^3) operations, becoming impractical for large problems.",
+  "Krylov iterative methods without preconditioning scale as O(n^0.5) in iteration count for EFIE.",
+  "The SPAI preconditioner is computed by minimizing the Frobenius norm of I - AM under sparsity constraints.",
+  "The sparsity pattern for SPAI is chosen based on mesh box partitioning and nearest neighbor edges.",
+  "SPAI construction reduces to solving n independent least-squares problems, enabling high parallelism.",
+  "MLFMA is used to accelerate matrix-vector products in large-scale scattering problems.",
+  "Numerical tests show SPAI reduces GMRES iterations significantly compared to no preconditioner or diagonal scaling.",
+  "On a cylinder problem (n=1299), SPAI reduced GMRES(80) iterations to 70 compared to 454 for ILU(0).",
+  "For large aircraft problems with over 1 million unknowns, full GMRES without preconditioning often fails to converge within practical time or memory limits.",
+  "Spectral deflation shifts small eigenvalues of the preconditioned matrix to improve convergence robustness.",
+  "Eigenpairs for spectral deflation are computed using ARPACK's IRA method before the iterative solve.",
+  "Parallel scalability tests show preconditioner construction and application times remain nearly constant per processor as problem size grows.",
+  "CFIE systems require significantly fewer iterations than EFIE, e.g., 22 iterations for preconditioned GMRES on a 213,084 DOF aircraft problem.",
+  "The paper uses Rao-Wilton-Glisson basis functions for discretizing surface currents.",
+  "The preconditioner density decreases as problem size increases due to fixed unknowns per box in the mesh partitioning.",
+  "Restarted GMRES with large restart values reduces memory but can deteriorate convergence rates.",
+  "The preconditioner is less prone to instabilities than incomplete LU factorizations on EFIE systems.",
+  "Numerical experiments were performed on a Compaq Alpha cluster with up to 64 processors."
+]
