@@ -1,0 +1,22 @@
+[
+  "Radar cross section (RCS) reduction is critical for stealth technology and can be achieved by coating microwave absorbing materials on target surfaces.",
+  "The study uses two composite materials with 10% and 35% carbonyl iron powders (CIPs) for matching and absorbing layers respectively.",
+  "Transmission line theory (TLT) is employed to model multilayer absorbers as cascaded transmission lines to calculate reflection coefficients.",
+  "Particle swarm optimization (PSO) is used to optimize layer thicknesses and number of layers to minimize reflection and maximize bandwidth.",
+  "Seven multilayer designs (Type I to Type VII) were developed with varying layer numbers and thicknesses.",
+  "Single-layer absorbers (Type I and II) showed narrow bandwidth and poor absorption performance.",
+  "The two-layer Type IV design achieved a bandwidth of 14.63 GHz from 3.37 to 18.0 GHz with a total thickness of 3.0 mm.",
+  "The five-layer Type VII design covers 2.0 to 18.0 GHz with a total thickness of 5.37 mm and improved low-frequency absorption.",
+  "Both Type IV and Type VII designs are insensitive to incident wave angles from 0\u00b0 to 45\u00b0 and to polarization changes.",
+  "Coating a PEC cylinder with Type IV or Type VII absorbers reduces monostatic RCS by at least 8 dB across most of 2.0\u201318.0 GHz.",
+  "Type IV coating provides up to 17.5 dB RCS reduction at 17 GHz; Type VII coating provides up to 16.5 dB at 12 GHz.",
+  "The reflection coefficient of the absorbers is used as a performance metric, with values below \u221210 dB indicating good absorption.",
+  "The matching layer (S1) has stable, low complex permittivity and permeability, aiding impedance matching.",
+  "The absorbing layer (S2) has higher complex permittivity and permeability, providing strong electromagnetic energy absorption.",
+  "Adding air gaps between layers (Type V, VI, VII) can improve absorber performance and bandwidth.",
+  "The designed absorbers maintain good absorption performance even on curved surfaces like cylinders.",
+  "The total thickness of the absorbers remains small enough for practical stealth coating applications.",
+  "The method combining TLT and PSO reduces design time and computational cost compared to full-wave EM simulations.",
+  "The absorbers cover the major radar frequency range from 2.0 to 18.0 GHz, which is important for military radar stealth.",
+  "The study demonstrates the feasibility of multilayer composite absorbers for broadband, angle-insensitive RCS reduction."
+]
