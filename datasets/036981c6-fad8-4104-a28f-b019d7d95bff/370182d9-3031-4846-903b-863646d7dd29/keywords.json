@@ -6,13 +6,17 @@
   "Pseudo values",
   "Censoring weighted binary classification",
   "Continuous ranking method",
-  "Multi-state processes",
   "Competing risks",
-  "Recurrent events",
+  "Multi-state processes",
+  "Time-varying effects",
   "Machine learning",
-  "Data transformation",
+  "Regression",
+  "Classification",
   "Hazard function",
+  "Survival function",
   "Cumulative incidence function",
   "Transition probabilities",
-  "Restricted mean survival time"
+  "Poisson regression",
+  "Data transformation",
+  "Benchmarking"
 ]
