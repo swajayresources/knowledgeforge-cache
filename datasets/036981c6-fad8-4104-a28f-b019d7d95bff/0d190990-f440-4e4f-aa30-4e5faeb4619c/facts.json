@@ -1,0 +1,17 @@
+[
+  "The paper considers high-order electromagnetic invisibility cloaks obtained by high-order transformations from general anisotropic media.",
+  "The paper proves that for any incident plane wave, at any frequency, the scattered wave is identically zero.",
+  "The paper proves that the scattering matrix is the identity, meaning the outgoing wave packet is the same as the incoming one.",
+  "The paper derives the cloaking boundary condition, which states that the tangential components of the electric and magnetic fields must vanish at the outside of the boundary of the cloaked objects.",
+  "The paper uses Von Neumann's theory of self-adjoint extensions to handle the singularities in the permittivity and permeability at the boundary of the cloaked objects.",
+  "The paper proves that the unique self-adjoint extension of the Maxwell operator has no singular-continuous spectrum and its absolutely-continuous spectrum is the entire real line.",
+  "The paper shows that the electromagnetic waves inside the cloaked objects cannot leave the concealed regions, and the electromagnetic waves outside cannot go inside the cloaked regions.",
+  "The paper considers the case where there is a finite number of spherical cloaks located in different points in space.",
+  "The paper proves that the cloaked objects are completely decoupled from the exterior, with the cloaking being independent of what is inside the cloaked objects.",
+  "Since the results are proven for transformation media obtained from general anisotropic materials, the paper shows that it is possible to cloak objects inside general crystals.",
+  "The paper assumes the media are not dispersive, which is a widely used idealization, but means cloaking will only be approximate in practice.",
+  "The paper generalizes previous results on first-order electromagnetic invisibility cloaks to the high-order transformation case.",
+  "The paper's proofs do not use separation of variables due to the lack of symmetry from having multiple cloaks in different locations.",
+  "The paper proves its results using Von Neumann's method of self-adjoint extensions to rigorously define the solutions.",
+  "The paper shows that the cloaking boundary condition is self-adjoint due to the degeneracy of the permittivity and permeability at the boundary of the cloaked objects."
+]
