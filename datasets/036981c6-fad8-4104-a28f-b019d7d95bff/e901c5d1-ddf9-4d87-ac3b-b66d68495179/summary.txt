@@ -1,0 +1,1 @@
+This paper presents a computational model for simulating transient electromagnetic field coupling into a metallic enclosure using a 3D finite element technique. The model accounts for the presence of a thin, perfectly conducting enclosure and can be used to analyze the electromagnetic response of the cavity.
