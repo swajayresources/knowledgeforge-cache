@@ -1,0 +1,22 @@
+[
+  "35R30, 35R09, 65R20 1 Introduction In this paper, we consider the inverse shape problem that is derived from the time- harmonic electromagnetic scattering of an inhomogeneous anisotropic medium",
+  "We assume that the far field measurements are known and we \u2217Department of Mathematics, Purdue University, West Lafayette, IN 47907; (harri814@purdue",
+  "edu) \u2020Department of Mathematics, Kansas State University, Manhattan, KS 66506; (dlnguyen@ksu",
+  "edu) 1 9102 voN 1 ]PA",
+  "htam[ 3v00850",
+  "8091:viXra wish to analyze two sampling methods for recovering the scatterer",
+  "[3,10,15] and the references therein)",
+  "In [4,6] the linear sampling and factorization methods are extended to inverse scattering problem prob- lems in the time domain and in [5] the MUSIC algorithm is studied for recovering small volume scatterers for the time-dependent acoustic scattering problem",
+  "Here the righthand side \u03c6 is known and depends on the ys sampling point y \u2208 R3",
+  "See [3] for the analysis of the linear sampling method for the electromagnetic scattering problem",
+  "By appealing to Picard\u2019s criteria one can derive an imaging functional using the spectral decomposition of the far field operator see [15]",
+  "The OSM was first introduced in [20] for the inverse acoustic scattering from sound soft scatterers",
+  "For the Helmholtz equation case, the method was rigorously justified in [20] for small scatterers and in [17] for scatterers with arbitrary shape using multi-static data",
+  "It was also first proved in [17] that the OSM is equivalent to the DSM studied in this cited paper via a remarkable connection to the analysis of the factorization method",
+  "Recently,in[11,16]thisDSMwasstudiedinconnectiontothespectraldecompositionof thefarfieldoperator",
+  "We propose an imaging functional for the OSM which is able to compute the location and shape of electromagnetic scatterers in a fast and robust way",
+  "Finally, we present some numerical examples to validate the performance of the sampling methods for anisotropic scatterers in three dimensions",
+  "12 5 Numerical examples We present in this section several numerical examples to validate the performance of the OSM as well as the DSM",
+  "We present in Figure 1 the reconstruction results of the OSM and DSM for an anisotropic scatterer including three different balls",
+  "After that we show an equivalence between the imaging functionals of the OSM and the DSM"
+]
