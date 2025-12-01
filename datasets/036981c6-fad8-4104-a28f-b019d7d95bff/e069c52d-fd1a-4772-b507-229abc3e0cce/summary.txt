@@ -1,0 +1,1 @@
+This paper presents the geometric optimization of fins on a sounding rocket to maximize the lift-to-drag ratio and minimize the radar cross-section area using ANSYS software. The authors used the ANSYS adjoint solver to optimize the lift-to-drag ratio and ANSYS Optimetrics to minimize the radar cross-section area.
