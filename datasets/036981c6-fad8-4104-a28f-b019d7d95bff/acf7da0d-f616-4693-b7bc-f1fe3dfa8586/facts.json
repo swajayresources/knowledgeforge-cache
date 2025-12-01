@@ -1,12 +1,17 @@
 [
-  "The paper develops an adaptive Hessian-based non-stationary Gaussian process response surface method.",
-  "The method aims to approximate expensive-to-evaluate probability density functions, particularly those arising from Bayesian solutions of large-scale inverse problems.",
-  "The key challenge is that the posterior probability distribution is often non-Gaussian and expensive to evaluate due to the nonlinearity of the parameter-to-observable map.",
-  "The method constructs a piecewise Gaussian approximation tailored to the local Hessian of the negative log probability density.",
-  "Gaussian process machinery is used to combine the local Gaussian approximations into a global analytical response surface.",
-  "The non-stationary covariance function combines local Laplace approximations using Hessian-informed membership probabilities.",
-  "An adaptive sampling strategy is used to select training points in high probability regions of the parameter space.",
-  "Standard Gaussian process response surfaces use stationary covariance functions that cannot adapt to variable smoothness.",
-  "The Hessians appear in the kernel functions and membership probabilities to guide the covariance function construction.",
-  "The proposed method is demonstrated on several example problems, including inverse shape electromagnetic scattering in 24-dimensional parameter space."
+  "The paper develops an adaptive Hessian-based non-stationary Gaussian process response surface method to approximate expensive-to-evaluate probability density functions.",
+  "The method is particularly useful for approximating probability densities that arise from the Bayesian solution of large-scale inverse problems.",
+  "The key challenge in solving large-scale inverse problems using the Bayesian framework is that the posterior probability distribution is often non-Gaussian and expensive to evaluate.",
+  "The proposed method exploits higher-order information, specifically the Hessian of the negative log probability density, to construct a piecewise Gaussian approximation that adapts to the local structure of the probability density.",
+  "The adaptive sampling strategy poses a sequence of optimization problems that seek to maximize the error between the Gaussian process approximation and the true probability density, in order to select training points in high probability density regions.",
+  "The non-stationary covariance function is constructed as a weighted sum of local Gaussian kernels, where the weights are determined by membership probability functions that depend on the local Hessian information.",
+  "The Gaussian process predictor has three key properties: it is the best linear unbiased predictor, it interpolates the training data exactly, and the posterior variance provides an analytical estimate of the approximation uncertainty.",
+  "If the covariance function is of radial basis function type, the Gaussian process predictor can be shown to be equivalent to a radial basis function interpolation of the error between the predictor and the prior mean function.",
+  "A zero-mean prior is chosen for the probability density, as the mean value is expected to be small over the entire parameter space.",
+  "The Hessian information appears in the Gaussian kernels and the membership probability functions to ensure the predictor is a piecewise Laplace approximation and to guide the covariance function to pick the appropriate dominant kernel.",
+  "The proposed method is demonstrated on several example problems, including the problem of Bayesian inference of the shape of a scatterer from noisy observations of scattered electromagnetic waves in a 24-dimensional parameter space.",
+  "The method aims to mitigate the curse of dimensionality in approximating high-dimensional probability densities by exploiting higher-order information.",
+  "The non-stationary covariance function allows the Gaussian process predictor to adapt to the variable smoothness of the probability density.",
+  "The adaptive sampling strategy selects training points in high probability density regions, which helps overcome the sparsity of high-dimensional spaces.",
+  "The Gaussian process predictor is equipped with an analytical variance estimate that can be used to assess the uncertainty of the approximation."
 ]
