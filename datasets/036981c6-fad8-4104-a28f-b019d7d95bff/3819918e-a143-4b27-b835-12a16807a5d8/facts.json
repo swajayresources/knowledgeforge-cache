@@ -1,0 +1,20 @@
+[
+  "The proposed absorber reduces the scattering of IR laser light by more than 90%.",
+  "The proposed absorber suppresses mid-wavelength IR and long-wavelength IR signatures by more than 92%.",
+  "The MP peak excited by the rings is a broadband peak that matches the absorption band of water in the atmosphere.",
+  "The proposed absorber maintains MWIR and LWIR signal reduction rates greater than 90% across a wide temperature range from room temperature to 500 \u00b0C.",
+  "The ICCM is used to predict the spectral properties of the MIM structure and the MPs excited by the rings.",
+  "The FDTD simulation is used to calculate the electromagnetic field distributions in the cross section of the MIM structure at the SPP Bloch wave and MP resonance wavelengths.",
+  "The Bloch wave is a periodic wave that contributes to the incident light by adding to its momentum.",
+  "The disk radius determines the wavelength of the MP resonance peak.",
+  "The ring radius determines the wavelength of the MP peak excited by the rings.",
+  "The proposed absorber is insensitive to variations in polarization and incident angles.",
+  "The atmospheric absorption band enables low observability by detectors that measure the thermal radiation of objects.",
+  "The proposed absorber has a metal-insulator-metal (MIM) structure.",
+  "The resonance peaks of the proposed absorber are surface plasmon polariton (SPP) and magnetic polariton (MP) resonance peaks at 1.54 \u03bcm and 6.2 \u03bcm, respectively.",
+  "The proposed absorber is designed to have a narrow spectral bandwidth to minimize thermal radiation at 1.54 \u03bcm.",
+  "The proposed absorber has a broad absorption peak that matches the atmospheric absorption band.",
+  "The MP peak excited by the rings is a broadband peak that enables low observability by detectors that measure the thermal radiation of objects.",
+  "The proposed absorber maintains its performance across a wide temperature range from room temperature to 500 \u00b0C.",
+  "The FDTD simulation results correspond closely to the ICCM results throughout the wide wavelength range of interest."
+]
