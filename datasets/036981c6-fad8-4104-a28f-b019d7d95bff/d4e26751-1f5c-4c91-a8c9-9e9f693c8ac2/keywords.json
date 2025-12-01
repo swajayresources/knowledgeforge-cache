@@ -1,16 +1,17 @@
 [
   "Invisibility cloak",
   "Photonic chip",
-  "Femtosecond laser direct writing",
   "Waveguide optics",
+  "Femtosecond laser direct writing",
+  "Transformation optics",
   "Cloaking performance",
-  "Normalized cross correlation",
+  "Normalized cross-correlation",
   "Tomography analysis",
-  "Viewing angle tolerance",
-  "Phase preservation",
-  "Bending loss",
-  "Curvature radius",
+  "Viewing angle",
+  "Refractive index contrast",
+  "Waveguide density",
+  "Optical coupling",
+  "Phase distortion",
   "Integrated photonics",
-  "Information security",
-  "Beam Propagation Method"
+  "Information security"
 ]
