@@ -1,0 +1,18 @@
+[
+  "The cloak array is designed using a conformal array of radiating sources.",
+  "The target is a conductive, cylindrical object with a height of 753 mm and a radius of 101.5 mm.",
+  "The frequency of the incident wave used in the experiment is 1.2 GHz.",
+  "The ridged horn antenna is used to illuminate the target.",
+  "The cloak array consists of 15 elements with a spacing of 125.6 mm.",
+  "The Ansys HFSS model is used to simulate the fields and validate the cloak performance.",
+  "Perfectly Matched Layer (PML) absorptive boundary conditions are used in the HFSS model.",
+  "The average suppression of the bistatic RCS patterns for the individually fed Cloak ON case is 18.4 dB.",
+  "The average suppression of the bistatic RCS patterns for the column-fed Cloak ON case is 17 dB.",
+  "A 16-port Mini-Circuits ZC16PD-24-S+ splitter is used to operate the 16-channel system.",
+  "The Kikusui PMC18-2A DC power supply is used to bias the voltage-controlled attenuators and phase shifters.",
+  "A pair of MATLAB-controlled Measurement Computing USB-3105 data acquisition systems are used to collect the measurement data.",
+  "The anechoic chamber is used to reduce spurious reflections and improve the accuracy of the measurements.",
+  "The cloak array is designed to cancel out the scattered fields following target/wavefront interaction.",
+  "The experiment is conducted using a ridged horn antenna and a 3D printed target.",
+  "The cloak array is capable of hiding a conductive, cylindrical target in free-space conditions."
+]
