@@ -1,0 +1,15 @@
+{
+  "paper_id": "b1136fb1-eff3-4c01-a594-3b3e99a183ae",
+  "title": "Joining and repair of aircraft composite structures",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1136fb1-eff3-4c01-a594-3b3e99a183ae/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1136fb1-eff3-4c01-a594-3b3e99a183ae/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1136fb1-eff3-4c01-a594-3b3e99a183ae/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1136fb1-eff3-4c01-a594-3b3e99a183ae/keywords.json"
+  ]
+}
