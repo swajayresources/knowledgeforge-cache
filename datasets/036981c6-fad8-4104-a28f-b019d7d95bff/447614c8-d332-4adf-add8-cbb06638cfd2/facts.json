@@ -1,0 +1,22 @@
+[
+  "Mechanical cloaks manipulate elastic responses to make objects indistinguishable from homogeneous surroundings.",
+  "Continuum mechanics equations are not form-invariant under general coordinate transformations, limiting traditional cloak design methods.",
+  "A large pre-computed database of metamaterial unit cells with diverse topologies and properties was created using topology optimization and stochastic shape perturbations.",
+  "The cloak design optimizes both topology and spatial distribution of stiffness tensor entries within the cloak region.",
+  "Unit cells are selected from the database to match optimized local properties and assembled via tiling optimization ensuring mechanical compatibility.",
+  "The method can cloak voids of arbitrary shapes and multiple voids simultaneously.",
+  "Relative displacement difference \u0394 is used to quantify cloaking performance, with lower values indicating better cloaking.",
+  "In a circular void example, the relative displacement difference was reduced from 17.2% (voided) to 4% (cloaked) in simulations.",
+  "Experimental 3D-printed structures validated numerical results, showing good agreement in displacement fields and \u0394 values.",
+  "The method works under various boundary conditions: displacement-free, pressure-free, pressure-sliding, dilating, and shearing.",
+  "Optimized cloaks exhibit a stiffness gradient increasing from the outer to inner boundary of the cloak.",
+  "Tiling optimization uses an energy-minimization approach solved by dual decomposition on a grid-like graph.",
+  "The approach can design cloaks without predefined cloaking boundaries, adapting topology to void geometry.",
+  "The method can aggregate multiple loading cases into a single optimization objective using a p-norm.",
+  "Base cells used include simple four-rod cubic lattices and more complex geometries, demonstrating method versatility.",
+  "Finite element analysis assumes linear elasticity and plane stress conditions with strains around 1%.",
+  "The cloak design enables introducing voids without affecting structural integrity or functionality.",
+  "The method outperforms existing parametric and lattice transformation approaches in versatility and performance.",
+  "Potential applications include soft robotics and implant design requiring heterogeneous mechanical properties.",
+  "The study provides a general framework for multiscale optimization of functional mechanical metamaterials."
+]
