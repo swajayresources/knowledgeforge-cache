@@ -1,0 +1,15 @@
+{
+  "paper_id": "3095f54a-368e-4eec-bd50-9863a4f84a44",
+  "title": "Detecting the existence of an invisibility cloak using temporal steering",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3095f54a-368e-4eec-bd50-9863a4f84a44/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3095f54a-368e-4eec-bd50-9863a4f84a44/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3095f54a-368e-4eec-bd50-9863a4f84a44/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3095f54a-368e-4eec-bd50-9863a4f84a44/keywords.json"
+  ]
+}
