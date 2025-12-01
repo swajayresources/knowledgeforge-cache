@@ -1,0 +1,20 @@
+[
+  "We analytically prove and numerically demonstrate that using a Low Index Material (LIM), a material with a relative dielectric constant smaller than 1, in construction of carpet cloaks can remarkably reduce their profiles",
+  "The designed cloak has a profile that is 2",
+  "3 times smaller than a carpet cloak without LIM layers",
+  "Invisibility cloaks now have been turned into a scientific reality thanks to the pioneering work done by Pendry and Leonhardt1",
+  "That first pioneering work inspired many researchers around the world to develop invisibility cloaks operating at different frequency regimes, using transformation optics theory2\u20136",
+  "Transformation optics provides a precise design tool for manipulation of electromagnetic (EM) waves, which can be used for different applications including designing invisibility cloaks2\u201310",
+  "The first invisibility cloaks designed based on transforma- tion optics were difficult, or even impossible in some cases, to be realized, due to requiring materials with strange specifications such as singularity and/or high level of dispersion in Electromagnetic properties1\u20137",
+  "To address this problem, several reduced invisibility cloaks with simplified constitutive parameters have been proposed and realized so far2,11\u201318",
+  "One of the most successful schemes proposed so far, is a special cloaking technique, called the \u201ccarpet cloak\u201d13\u201318",
+  "Carpet cloaks are designed based on quasi-conformal coordinate transformation13\u201318 and can conceal an object under a curved reflecting surface (called as carpet) from an observer locating above the object",
+  "In this technique, the invisibility cloak imitates the reflection of a flat surface meaning that they are designed in such a way that reflect the incident waves exactly as they are reflected from a flat surface13\u201318",
+  "Carpet cloaks have been successfully realized in both microwave and optical frequency ranges16\u201318",
+  "In order to realize the homogeneous anisotropic material required for developing carpet cloaks, one of the best methods proposed so far, is to use alternative layers of isotropic dielectrics12,19\u201322",
+  "To solve this problem, metasurface-based cloaks were proposed which are extremely thin23\u201325",
+  "Metasurfaces which are 2D version of metamaterials26\u201332 have recently found many applications including realization of photonic topological i nsulators26, light trapping in thin film solar cells28,29, optical beam steering30, and sub-wavelength i maging31,32",
+  "Here, to address this issue, we propose a method to decrease the height of the carpet cloaks",
+  "In this paper, we propose to use a material with the relative dielectric constant smaller than 1 for one of the layers, to make this ratio as big as possible, resulting in the shrink of height of the resultant carpet cloak",
+  "Realization of low index materials using quantum dots In this paper, to realize the low index layer, we propose to use core\u2013shell nanoparticles dispersed in Polyethylene glycol (PEG) as host medium with relative permittivity of (\u03b5 host =2"
+]
