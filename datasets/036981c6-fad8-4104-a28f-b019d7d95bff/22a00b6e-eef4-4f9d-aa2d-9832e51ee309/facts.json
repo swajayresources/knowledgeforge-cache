@@ -1,0 +1,19 @@
+[
+  "The paper presents a new strategy for simultaneous acoustic and electromagnetic invisibility.",
+  "The strategy combines four conventional cloaking methods to create a double-cloaking structure.",
+  "The double-cloaking structure can hide objects from both acoustic and electromagnetic waves.",
+  "The blind mode of cloaking has no acoustic interaction with the outside.",
+  "The deaf mode of cloaking has an acoustic link turned on while there is no electromagnetic connection.",
+  "The anti-image region in the complementary structure cancels out the acoustic waves.",
+  "The Jacobian transformation matrix is used to transform the coordinates of the object and the cloaking structure.",
+  "The Finite Difference Time Domain (FDTD) method is used to simulate Maxwell's equations.",
+  "The dispersive FDTD method is a modified version of the FDTD method that can correctly produce the materials applied in the invisible structures.",
+  "The EMOSC and PAC structures are used to create a deaf mode of cloaking.",
+  "The results shown in Figures 9 and 10 demonstrate the effectiveness of the blind mode of cloaking.",
+  "The double-cloaking structure can be used to create invisible objects that can be used in various fields.",
+  "The paper presents a new approach to cloaking that can be generalized to any method of cloaking.",
+  "The strategy can be used to create dual cloaking such as electromagnetic-elastic, sound-wave, and so on.",
+  "The paper presents a new method for simulating Maxwell's equations using the dispersive FDTD method.",
+  "The results show that the proposed method works for the double-cloaking.",
+  "The paper presents a new approach to cloaking that can be used to create invisible objects that can be used in various fields."
+]
