@@ -1,0 +1,1 @@
+This paper presents the design and analysis of a multilayer acoustic invisibility cloak based on a composite lattice structure composed of water and Methyl Nonafluorobutyl Ether (MNE) in an MNE substrate. The proposed cloak can effectively hide objects of any shape over a wide frequency range.
