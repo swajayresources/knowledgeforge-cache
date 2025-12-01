@@ -1,0 +1,17 @@
+[
+  "The paper considers the problem of electromagnetic radiation and scattering from perfectly conducting bodies of revolution of arbitrary shape.",
+  "The mathematical formulation is an integro-differential equation obtained from the potential integrals and boundary conditions.",
+  "The method of moments is used to reduce the functional problem to a finite dimensional matrix problem.",
+  "The Fourier series expansion in the azimuthal angle decouples the problem into a set of independent modes.",
+  "The current is expanded using harmonic functions in the azimuthal angle and subsectional triangle functions in the contour length variable.",
+  "The impedance matrix elements are computed using numerical integration techniques with piecewise pulse function approximations.",
+  "The radiation field is computed as a linear functional of the current using the measurement matrix approach.",
+  "Computations are demonstrated for a conducting sphere and a cone-sphere geometry.",
+  "The results for the sphere show good agreement between the general program and the classical eigenfunction solution.",
+  "The cone-sphere computations illustrate the application of the matrix method to problems not solvable by classical methods.",
+  "The matrix method allows efficient computation of generalized network parameters for arbitrary bodies of revolution.",
+  "The flexibility of the matrix approach enables handling a wide range of electromagnetic scattering and radiation problems.",
+  "The paper includes a computer program for computing the generalized impedance matrix of an arbitrary body of revolution.",
+  "The expansion functions chosen are harmonic in the azimuthal angle and subsectional in the contour length variable.",
+  "The use of triangle functions for the contour length expansion provides a piecewise-linear current approximation."
+]
