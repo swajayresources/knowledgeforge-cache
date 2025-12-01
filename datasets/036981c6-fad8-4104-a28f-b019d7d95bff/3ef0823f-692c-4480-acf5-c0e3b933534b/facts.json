@@ -1,0 +1,22 @@
+[
+  "76-6 A METHOD FOR COMBINING INTEGRAL EQUATION AND ASYMPTOTIC TECHNIQUES FO,, SOLVING ELECTROMAGNETIC SCATTERING PROBLEMS Technical Report W",
+  "Mittra r-tay 1976 U",
+  "DAHC04-74-G-0113 Office of Naval Research Grant No",
+  "N00014-75-C-0293 Electromagnetics Laboratory Department of Electrical Engineering ~\u00ad Engineering Experiment Station University of Illinois at Urbana-Champaign Urbana, Illinois 61801 Approved for public release; distribution unlimited",
+  "ga *t \u00abi\u00bb:, fc\u00bb# \u00bbt t\u00abIWiC\u00bb ggg Inilttlnt utKMUm muH M \u2022Ht\u20144 whit It* \u00bbwll fpott 1$ tllillM) \u25a0 eNiaiNATiN\u00ab ACTIVITY (Cttftmn muittm) \u00ab\u2022",
+  "*ttiric*TiQN Electromagnetics Laboratory Unclassified Department of Electrical Engineering a\u00bb, anou\u00bb V University of Illinois, Urbana, Illinois NA _^ METHOD FOR^pMBlNING INTEGRAL JQU AT ION AND^YMPTOTIC TECHNIQUES FOR SOLVING / \"1LECTR0MAGNETIC JCATTERING^PROBLEMS",
+  "OF mtw\u00bb 214 32 \u00ab\u25a0( 4 {lectromagnetlcs Laboratory Report No",
+  "76 it mal mar *\u2022 aaaltna* UILU-ENG-76-2549 10",
+  "North Carolina 27706 lt",
+  "The introduction of such a planar aperture not only pro- vides an additional degree of freedom in performing improving operations, but also renders the scheme to handle n-dimenslonal geometries by (n - 1)-dimensional fast Fourier transform (FFT), where n - 2, 3, and circumvents the unwieldy three-dimensional FFT, making it a conceptually simple and computationally efficient method",
+  "(continued) RX raw T\u00e4*T\\ SS2^\u00ab\u00c4rt\u00c4Y,u\u00abV'*,,,4,\"\",eM\" Unclassified locurily CUMiniM tt\u00d6\u00d6 Unclasaifled \u25a0 \u00ab\u00ab",
+  "LINK * LINN \u2022 LIMN C | I \u00ab\u00abb\u00ab 1 *T 1 HOL\u00ab 1 mr | ROLB i \"T I 1 Radar Scattering i Fourier Transform Technique 1 Asymptotic Methods 1 Integral Equations 1 Numerical Solution 1 1 1 1 1 I (continued) 13",
+  "WSBSS Ca\u00fc\u00fcB\u00fcBw \u00dcILU-ENG-76-2549 A METHOD FOR COMBINING INTEGRAL EQUATION AND ASYMPTOTIC TECHNIQUES FOR SOLVING ELECTROMAGNETIC SCATTERING PROBLEMS Technical Report W",
+  "Mlttra May 1976 U",
+  "1 Introduction In the last chapter, we presented a general Iteration method for ob- taining solution of the integral equation in the transform domain with the GTD or other high-frequency solution as the zero-order approximation",
+  "In the following sections, we present a new approach using the iteration method developed in Chapter 2 to demonstrate that a successful computation of the induced surface currents on the plate is not only feasible, but also numerically efficient",
+  "In this section, we present a method which allows us to calculate the tangential components of the scattered electric field on the surface of the scatterer using the approximate scattered far-field pattern",
+  "In the following two chapters, we show, in some detail, the appli- cation of the procedure just described to a two-dimensional and a three- dimensional scattering problem",
+  "We show that starting out with Keller's wedge diffraction coefficient, only one Iteration gives a far- field pattern that compares extremely well with that obtained from the moment-method solution for thirty-two unknowns",
+  "In the following discussions we show that it is not necessary to use the aforementioned \"uniform diffraction coefficient\" to solve the rec- tangular cylinder problem under consideration"
+]
