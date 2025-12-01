@@ -1,0 +1,18 @@
+[
+  "Dimension reduction for path signatures Christian Bayer and Martin Redmann December 20, 2024 Abstract This paper focuses on the mathematical framework for reducing the complexityofmodelsusingpathsignatures",
+  "Keywords: signature models \u00b7 applications of rough analysis \u00b7 stochastic differential equations \u00b7 model order reduction \u00b7 Petrov-Galerkin projections \u00b7 financial models MSC classification: 60H10 \u00b7 60L10 \u00b7 60L90 \u00b7 65C30 \u00b7 93A15 1 Introduction The path signature (Chen [Che57]) \u2013 i",
+  ", the sequence of all iterated integrals of the components of a path x : [0,T] \u2192 Rd \u2013 plays a fundamental rule in the analysis of (rough) paths and functions on path space",
+  "On the theoretical side, the signature is the fundamental building block of Lyons\u2019 theory of rough paths [Lyo98], providing pathwise analysis of differential equations driven by rough paths (i",
+  ", H\u00f6lder continuous paths of arbitrary H\u00f6lder coefficient), see [FH20; FV10] for modern accounts of the theory",
+  "1 4202 ceD 91 ]RP",
+  "htam[ 1v32741",
+  "2142:viXra \u2022 The linear functionals of the signature form an algebra of functionals on path space",
+  "Several alternative formulations also exist, we refer to[LO23]forarecentreviewarticleand[BPS23]foraversiononapproximation in an Lp-sense",
+  "A corresponding universal approximation result in terms of signatures (of semi-martingales) can be found in [CPSF22], but we also like to mention the classical stochastic Taylor expansion in terms of iterated integrals of the Brownian motion",
+  "Lyons\u2019 ICM lecture [Lyo14], for instance, [PA+18; Bue+20; Mor+20; LM22; Arr+24] for specific examples",
+  "An example for the use of signatures in modelling is [CGSF22], where a diffusion- type model with coefficients given as linear functionals of the signature of the underlying Brownian motion is fitted to market prices of options",
+  "In particular, for BSDEs (see, for instance, [BFZ24])orstochasticoptimalcontrol([KLPA20;BHR24])weareoftendealing withcomputationsofconditionalexpectationsw",
+  "Such path-dependent conditional expectations can be efficiently com- putedas(linearornon-linear)functionsofthesignatureoftheunderlyingpath, see [BPS23]",
+  "For some applications, the signature kernel (see [LO23]) can be used instead, which is actually computable as a solution of a PDE",
+  "We demonstrate the case of n = 15 in the same figure to illustrate that even a reduction to such a small e dimension (in comparison to n=3280) a relative error of less that 0"
+]
