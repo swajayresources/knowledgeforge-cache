@@ -1,0 +1,17 @@
+[
+  "The cloak consists of a ring with inner radius of 4.1 cm and outer radius of 10 cm, divided into 14 layers with varying thickness.",
+  "The cloak is made of aluminum and works by inducing artificial anisotropy in the effective medium parameters.",
+  "2D numerical simulations predict cloaking for microwaves between 2.6 and 7 GHz, and for sound waves between 3 and 8 kHz.",
+  "3D electromagnetic simulations show a slightly narrower cloaking band of 2.6 to 7.8 GHz, likely due to 3D effects and the presence of a ground plane.",
+  "Experiments demonstrate reduced scattering, preserved wavefronts, and 10-30 dB field attenuation inside the cloak's core at the cloaking frequencies for both microwaves and acoustic waves.",
+  "The cloak can provide protection for objects placed inside its core, with the field reduced by up to 30 dB at the lower end of the cloaking band.",
+  "Unlike previous cloaks relying on resonant elements, this cloak achieves broadband performance through its specific geometry and induced anisotropy.",
+  "The homogenization approach involves deriving effective tensors of density and permittivity/permeability using volume averaging over the cloak's periodic structure.",
+  "The cloak works equally well for transverse electric microwaves, pressure acoustic waves, and linear surface water waves due to the similar mathematical models governing their propagation.",
+  "The cloak's performance is better at the lower end of the cloaking band, with up to 30 dB field reduction at 2.6 GHz compared to 13 dB at 6 GHz for microwaves.",
+  "The cloak's height is not large compared to the wave wavelength, yet it still behaves as expected, demonstrating the robustness of the homogenization approach.",
+  "The cloak can be viewed as a multiphysics device, as it works for acoustic, electromagnetic, and water waves using the same underlying design principles.",
+  "The cloak's ability to control multiple wave types could have interesting applications in the emerging field of phoxonics.",
+  "The experimental results confirm the numerical predictions and validate the homogenization-based design approach for this broadband, multi-wave cloak.",
+  "The cloak's performance suggests it could be scaled up to provide protection against larger-scale waves, such as ocean waves."
+]
