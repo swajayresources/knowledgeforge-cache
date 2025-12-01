@@ -1,0 +1,15 @@
+{
+  "paper_id": "f8bf5870-af12-4b09-a743-ebe1071bdc19",
+  "title": "MORCIC: Model Order Reduction Techniques for Electromagnetic Models of Integrated Circuits",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f8bf5870-af12-4b09-a743-ebe1071bdc19/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f8bf5870-af12-4b09-a743-ebe1071bdc19/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f8bf5870-af12-4b09-a743-ebe1071bdc19/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f8bf5870-af12-4b09-a743-ebe1071bdc19/keywords.json"
+  ]
+}
