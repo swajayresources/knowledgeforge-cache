@@ -1,0 +1,17 @@
+[
+  "The paper introduces a unified framework for reduction technique pipelines for survival analysis.",
+  "The authors provide an overview of the strengths, weaknesses, and applicability of the different reduction techniques to various survival tasks.",
+  "The authors provide a unified, user-friendly implementation of the reduction techniques that can be integrated into standard machine learning workflows.",
+  "The paper includes a quantitative benchmark comparison of the different reductions compared to established statistical and machine learning methods for survival analysis.",
+  "Piecewise exponential models (PEM) partition the time axis into intervals and estimate a constant or discrete-time hazard within each interval.",
+  "Discrete-time (DT) methods ignore the exact times at risk, relying solely on the interval index, making them simpler but potentially less precise than PEM.",
+  "Pseudo values (PV) transform the survival task into a regression problem by computing pseudo-values for the quantity of interest for each subject.",
+  "Censoring weighted binary classification (IPCW) transforms the survival task into a series of binary classification problems, where the goal is to predict whether an event occurs in each time interval.",
+  "The continuous ranking method (CRM) can directly model the full event time distribution by transforming the survival task into a regression problem to predict the cumulative distribution function of the event times.",
+  "The paper discusses software implementations of the reduction techniques, particularly in a machine learning context.",
+  "The authors illustrate the application of the respective reduction techniques to selected data examples, followed by a quantitative comparison to established statistical and machine learning methods for survival analysis.",
+  "The paper summarizes the results and limitations of the reduction techniques and provides ideas for future avenues of research.",
+  "The authors categorize survival tasks into two main dimensions: the type of censoring or truncation, and the number and type of events observed.",
+  "The paper covers single-event, recurrent events, and competing risks settings as special cases of the more general multi-state setting.",
+  "The authors discuss how left-truncation, time-varying features, and time-varying effects can be naturally incorporated into the reduction techniques through data transformations."
+]
