@@ -1,0 +1,17 @@
+[
+  "The forward problem is described by the time-harmonic Maxwell equations with a local inhomogeneity in the refractive index.",
+  "The inverse problem aims to reconstruct the refractive index perturbation from far-field measurements of the scattered electromagnetic field for multiple incident waves.",
+  "The inverse problem is formulated as a nonlinear, ill-conditioned system of equations F(x) = y, where x represents the coefficients of the refractive index perturbation.",
+  "The paper considers the Levenberg-Marquardt algorithm and the iteratively regularized Gauss-Newton method (IRGNM) to solve the inverse problem.",
+  "Spectral preconditioning is used to efficiently solve the ill-conditioned linear systems that arise in the regularized Newton methods.",
+  "Lanczos' method is used to approximate the largest eigenvalues and corresponding eigenvectors of the Jacobian matrix for the spectral preconditioner.",
+  "The paper proposes an efficient implementation of a Lepski-type stopping rule to determine the optimal number of Newton iterations.",
+  "For the test example, the updated preconditioned IRGNM achieves an L2 error of 0.28 about 2.5 times faster than the Newton-CG method.",
+  "For data perturbed by random noise with a relative noise level of about 2%, the Lepski-type stopping rule outperforms the discrepancy principle.",
+  "The electric field is represented using between 98,304 and 786,432 degrees of freedom, and the refractive index perturbation is represented using 500 to 2000 coefficients.",
+  "The spectral preconditioning approach is particularly effective at approximating the isolated large eigenvalues of the Jacobian matrix for exponentially ill-posed problems.",
+  "The efficient approximation of the propagated data noise error using the spectral decomposition of the preconditioned Jacobian avoids the need to solve multiple linear systems.",
+  "The updated preconditioned IRGNM recomputes and updates the spectral preconditioner during the Newton iterations, significantly reducing the number of inner iterations required.",
+  "The paper demonstrates the effectiveness of the proposed acceleration techniques for regularized Newton methods applied to the electromagnetic inverse medium scattering problem.",
+  "The numerical results show that the updated preconditioned IRGNM with the Lepski-type stopping rule outperforms other iterative regularization methods in terms of work-precision diagrams for both exact and noisy data."
+]
