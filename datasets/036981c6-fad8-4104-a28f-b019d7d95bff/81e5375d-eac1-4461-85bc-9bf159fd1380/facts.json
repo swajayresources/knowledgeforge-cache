@@ -1,0 +1,18 @@
+[
+  "The proposed framework tackles the challenges of slow antenna movement, dynamic RCS variation, and imperfect CSI.",
+  "The proposed framework is a two-timescale optimization framework that jointly optimizes the discrete MA positions, communication and sensing beamforming vectors, and snapshot durations.",
+  "The goal of the optimization problem is to minimize the average transmit power at the base station while guaranteeing a minimum sensing and communication QoS.",
+  "The CSI acquisition process is performed at the beginning of the scanning period.",
+  "The resource allocation design process is performed at the beginning of the scanning period and involves jointly optimizing the beamforming vectors and snapshot durations.",
+  "The adjustment of MA process involves moving the antennas to the optimal positions at the beginning of the scanning period.",
+  "The communication and sensing process involves transmitting information symbols to the communication users and detecting potential sensing targets through reflected signals.",
+  "The signal model used in this paper is a complex Gaussian distribution.",
+  "The channel model used in this paper is a Rician channel model.",
+  "The distance matrix D is a matrix whose entry Dm,m1 represents the distance between the m-th and m1-th MA elements.",
+  "The minimum distance between any pair of MA elements is Dmin.",
+  "The proposed TTS framework is a two-timescale optimization framework that jointly optimizes the discrete MA positions, communication and sensing beamforming vectors, and snapshot durations.",
+  "The goal of the proposed TTS framework is to minimize the average transmit power at the base station while guaranteeing a minimum sensing and communication QoS.",
+  "The frame structure for the proposed TTS transmission framework is shown in Fig. 2.",
+  "The proposed framework is supported by the Federal Ministry of Education and Research of Germany under the program of \u201cSouveran. Digital. Vernetzt.\u201d",
+  "The proposed framework is also supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) GRK-2680\u2013Project-ID 437847244."
+]
