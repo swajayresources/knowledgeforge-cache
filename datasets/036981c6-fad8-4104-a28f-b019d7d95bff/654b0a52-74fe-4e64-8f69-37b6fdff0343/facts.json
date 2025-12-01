@@ -1,10 +1,17 @@
 [
-  "The forward problem is solved using a fast solver for the electromagnetic Lippmann-Schwinger equation, with 98,304 to 786,432 degrees of freedom used to represent the electric field.",
-  "The unknown refractive index perturbation is represented using 500 to 2,000 coefficients, using tensor products of splines and spherical harmonics.",
-  "25 incident waves with random directions and polarizations are used to generate the 5,000-dimensional data vector for the inverse problem.",
-  "Spectral preconditioning is based on approximating the largest eigenvalues and eigenvectors of the Jacobian matrix using Lanczos' method.",
-  "Updating the spectral preconditioner during the Newton iteration reduces the number of inner conjugate gradient iterations by a factor of 2.5 compared to using a fixed preconditioner.",
-  "For exact data, the updated preconditioned IRGNM achieves a given accuracy 2.5 times faster than the Newton-CG method.",
-  "With 2% relative noise level, the Lepski-type stopping rule yields a final L2 error of 0.0474 on average, compared to 0.0744 for the discrepancy principle.",
-  "The discrepancy principle stops the iteration too early, with the residual (||F(x) - y_obs||) at least an order of magnitude smaller than the noise level at the optimal stopping index."
+  "The forward problem is described by the time-harmonic Maxwell equations with the goal of reconstructing the refractive index of an inhomogeneous medium.",
+  "The inverse problem is highly ill-conditioned, requiring regularization techniques to handle data noise.",
+  "The paper proposes using spectral preconditioning based on the Lanczos method to efficiently solve the regularized Newton equations.",
+  "Updating the spectral preconditioner during the Newton iterations is shown to improve performance, especially at high accuracy levels.",
+  "The Lepskii-type stopping rule outperforms the commonly used discrepancy principle, providing more accurate reconstructions in the presence of random noise.",
+  "The paper uses between 98,304 and 786,432 degrees of freedom to represent the electric field for each incident wave direction and polarization.",
+  "The unknown refractive index perturbation is represented using 500 to 2000 coefficients of tensor products of splines and spherical harmonics.",
+  "The paper uses 25 incident waves with random directions and polarizations to generate the 5,000-dimensional data vector.",
+  "For exact data, the IRGNM with updated preconditioning outperforms other iterative regularization methods in terms of work-precision diagrams.",
+  "In the presence of 2% relative noise, the Lepskii-type stopping rule achieves a mean L2 error of 0.0474, compared to 0.0744 for the discrepancy principle.",
+  "The discrepancy principle is shown to stop the iteration too early, with (||F(xk) - y|| << ||\u03b5||) at the optimal stopping index.",
+  "The paper demonstrates the importance of accurately approximating the largest isolated eigenvalues of the Jacobian for effective spectral preconditioning.",
+  "Updating the preconditioner is found to be necessary as the regularization parameter \u03b3 tends to zero during the Newton iterations.",
+  "The Lanczos method is used to approximate the eigenpairs of the preconditioned Jacobian, exploiting its close connection to the preconditioned conjugate gradient method.",
+  "The paper provides a convergence analysis of the IRGNM in combination with the discrepancy principle, but notes that the required conditions have not been verified for the electromagnetic medium scattering problem."
 ]
