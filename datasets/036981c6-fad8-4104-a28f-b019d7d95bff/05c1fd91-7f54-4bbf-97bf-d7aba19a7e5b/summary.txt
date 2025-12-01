@@ -1,0 +1,1 @@
+This paper presents a rigorous uniform diffraction analysis of the electromagnetic scattering from impedance edges and junctions, including impedance strips and impedance-loaded conducting strips. It develops computational methods to predict the scattering patterns and compares the predictions to measurements for various impedance materials.
