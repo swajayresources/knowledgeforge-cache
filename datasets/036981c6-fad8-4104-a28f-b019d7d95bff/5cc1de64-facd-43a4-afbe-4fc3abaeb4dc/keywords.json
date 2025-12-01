@@ -1,17 +1,17 @@
 [
   "Electromagnetic interaction",
   "Radially anisotropic spheres",
-  "Nonlinear transformation-based cloaks",
+  "Spherical cloaks",
+  "Nonlinear transformation",
   "Scattering algorithm",
-  "Invisibility condition",
-  "Spherical metamaterial cloaks",
-  "Coordinate transformation",
-  "Anisotropic materials",
+  "Cloaking condition",
   "Impedance tensor",
-  "Evolution operator",
-  "Differential cross-section",
+  "Homogeneous anisotropic layers",
   "Transverse permittivity",
+  "Radial permittivity",
   "Nonlinearity parameter",
-  "Optimal cloaking range",
-  "Homogeneous multilayer approximation"
+  "Scattering cross-section",
+  "Metamaterial cloaks",
+  "Invisibility performance",
+  "Coordinate transformation"
 ]
