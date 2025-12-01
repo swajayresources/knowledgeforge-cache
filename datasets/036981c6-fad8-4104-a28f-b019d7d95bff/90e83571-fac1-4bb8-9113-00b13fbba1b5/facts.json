@@ -1,12 +1,12 @@
 [
-  "The paper demonstrates that on-shell methods can simplify the calculation of higher-order electromagnetic, gravitational, and mixed electromagnetic-gravitational scattering effects.",
-  "In the mixed electromagnetic-gravitational scattering case, the on-shell approach reduces the calculation of the two-photon cut discontinuity to evaluating just two terms, compared to 20 individual Feynman diagrams.",
-  "The effective potential for mixed electromagnetic-gravitational scattering has the form Vgrav-em(r) = (G\u03b1/2r^2)(Zm_A + Zm_B) + (3G\u03b1h-bar/\u03c0r^3)(ZA + ZB).",
-  "The double copy theorem allows the gravitational Compton amplitude to be written as a simple product of the ordinary Compton amplitude multiplied by a kinematic factor.",
-  "The mixed electromagnetic-gravitational scattering case involves contributions from both graviton-photon intermediate states and two-photon intermediate states, requiring the evaluation of 20 Feynman diagrams.",
-  "The purely electromagnetic and gravitational cases only require evaluating 5 and 11 Feynman diagrams, respectively.",
-  "On-shell methods avoid the need to include unphysical ghost terms required in the Feynman diagram approach.",
-  "On-shell calculations only involve 2D solid angle integrations rather than the 4D loop integrals required in the Feynman diagram approach.",
-  "The paper shows that on-shell methods can reproduce previous results obtained through more tedious diagrammatic evaluations.",
-  "The authors demonstrate that on-shell techniques provide a streamlined route to evaluating higher-order nonanalytic terms and determining long-range behavior."
+  "The paper demonstrates that on-shell methods can provide a streamlined route to the evaluation of higher order nonanalytic terms and thereby to the long-range behavior of scattering processes.",
+  "In the electromagnetic scattering case, the on-shell method reproduces the result found previously using Feynman diagram methods, with the effective potential taking the form Vem(r) = -(Z^2\u03b1^2/2\u03c0r^2) - (7Z^2\u03b1^2/6\u03c0r^3).",
+  "For gravitational scattering, the on-shell method avoids the need to include ghost terms, since only physical amplitudes are required, and the double copy theorem allows graviton amplitudes to be written in terms of simpler electromagnetic counterparts.",
+  "The gravitational scattering amplitude obtained via the on-shell method takes the form Mgrav = (\u03ba^4m^2\u03be^2/1024\u03c0)(6S + 41L/5 - 4\u03c0i), where S = -\u03c0/\u221at and L = ln(-t).",
+  "In the mixed electromagnetic-gravitational scattering case, the on-shell method involves evaluating two separate contributions, one from the graviton-photon intermediate state and another from a two-photon contribution.",
+  "The mixed scattering effective potential has the form Vgrav-em(r) = (G\u03b1/2r^2)(Zm_A + Zm_B) + (3G\u03b1h-bar/\u03c0r^3)(ZAZBm_Am_B).",
+  "The on-shell method avoids the need to construct and evaluate the 20 individual Feynman diagrams required in the mixed scattering case using the traditional diagrammatic approach.",
+  "Performing the polarization contractions in the on-shell calculation of the mixed scattering discontinuity leads to angular average integrals of the form I_nm = <x_n x_n/d^2>.",
+  "The on-shell method inputs only physical amplitudes, so unphysical contributions from things like ghosts are avoided.",
+  "The on-shell approach provides a streamlined route to evaluating the leading nonanalytic terms that determine the long-range behavior of scattering processes."
 ]
