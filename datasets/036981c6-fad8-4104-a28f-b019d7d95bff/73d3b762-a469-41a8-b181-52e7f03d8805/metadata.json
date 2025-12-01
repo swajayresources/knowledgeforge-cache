@@ -1,0 +1,15 @@
+{
+  "paper_id": "73d3b762-a469-41a8-b181-52e7f03d8805",
+  "title": "Radar Cross Section of Moving Objects",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73d3b762-a469-41a8-b181-52e7f03d8805/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73d3b762-a469-41a8-b181-52e7f03d8805/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73d3b762-a469-41a8-b181-52e7f03d8805/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73d3b762-a469-41a8-b181-52e7f03d8805/keywords.json"
+  ]
+}
