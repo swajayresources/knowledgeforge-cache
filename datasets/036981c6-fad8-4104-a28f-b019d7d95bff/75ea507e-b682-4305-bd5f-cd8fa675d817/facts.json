@@ -1,0 +1,17 @@
+[
+  "Wind energy is one of the leading renewable energy sources, and DFIG-based wind energy conversion systems are widely used due to their variable speed operation and ability to operate in both sub-synchronous and super-synchronous modes.",
+  "SSI can lead to equipment damage, power generation loss, and power quality issues in wind-integrated power systems.",
+  "The first SSCCI event was reported in 2007 in Minnesota, where a 100 MW DFIG-based wind power plant was accidentally left radially linked to a 345 kV series-compensated transmission line, resulting in oscillations around 9-13 Hz.",
+  "In 2009, a similar SSCCI incident occurred in Texas, where a DFIG-based wind power plant connected to a 50-70% fixed series-compensated transmission line experienced oscillations around 22 Hz, causing damage to the series capacitor.",
+  "Between 2012 and 2016, the Guyuan wind power system in China experienced more than 58 SSCCI incidents with oscillation frequencies between 6-9 Hz.",
+  "The proposed classification of SSI into SSR, SSCCI, and SSTCI provides a more comprehensive and simplified understanding of the different types of sub-synchronous interactions compared to the existing IEEE classifications.",
+  "Power electronic converters used in wind turbines can generate multiple slip frequencies and negative resistance, which can trigger sub-synchronous oscillations and interact with series-compensated transmission lines or other fast control devices in the power system.",
+  "The paper discusses various analysis techniques for SSI, including time-domain simulations, frequency-domain analysis, and modal analysis, each with their own advantages and limitations.",
+  "The paper also discusses several mitigation techniques for SSI, such as active damping controllers, converter control modifications, and controlled series compensation, but highlights the challenges and restrictions associated with implementing these techniques in practical power systems.",
+  "Wind turbine generators (WTGs) lead to a more complicated form of sub-synchronous oscillations compared to traditional turbo-generators, as they can experience SSI without the presence of series-compensated transmission lines.",
+  "The emergent SSI phenomena found in practical wind power plants are relatively new and cannot be appropriately interpreted with the available existing literature.",
+  "The timeliness of the state-of-the-art review papers on SSI shows that the topic has gained significant attention in recent years, with several studies focusing on different aspects of the problem.",
+  "The paper emphasizes the need for developing realistic mitigation strategies, advanced analysis techniques, and better understanding of the emerging SSI phenomena in practical wind farms to ensure the smooth and efficient operation of grid-interfaced wind power systems.",
+  "The proposed classification of SSI into SSR, SSCCI, and SSTCI aims to provide a better understanding of the different types of sub-synchronous interactions and their dominant sources, which can help power engineers in the planning, economical operation, and future expansion of sustainable power systems.",
+  "The paper highlights the importance of addressing the SSI challenge in wind-integrated power systems, as it can have significant impacts on the stability, efficiency, and power quality of the overall power system."
+]
