@@ -1,0 +1,19 @@
+[
+  "Inverse Synthetic Aperture Radar (ISAR)",
+  "Radar Cross Section (RCS)",
+  "Backprojection",
+  "Iterative Smooth Reweighted L1-minimization",
+  "Sparse Reconstruction",
+  "Cluster-Sparsity",
+  "Forward Operator",
+  "Backward Operator",
+  "Frequency Range",
+  "Azimuth Angle Range",
+  "Down-Range Resolution",
+  "Reweighting Matrix",
+  "Smoothing Function",
+  "Inverse Problem",
+  "L1-Norm",
+  "L2-Norm",
+  "Point Scattering Model"
+]
