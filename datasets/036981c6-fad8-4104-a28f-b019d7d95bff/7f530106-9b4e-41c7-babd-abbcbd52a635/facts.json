@@ -1,0 +1,17 @@
+[
+  "Fundamentalboundsforscatteringfromabsorptionlesselectromagneticstructures RahulTrivedi1,2, GuillermoAngeris1,2,LoganSu1,StephenBoyd2,ShanhuiFan1,2,andJelenaVuc\u02c7kovic\u00b41,2 \u2217 1E",
+  "Ginzton Laboratory, Stanford University, Stanford, CA 94305, USA",
+  "2Department of Electrical Engineering, Stanford, CA 94305, USA",
+  "(Dated:March3,2020) Theabilitytodesignthescatteringpropertiesofelectromagneticstructuresisoffundamentalinterestinoptical scienceandengineering",
+  "Optimization-baseddesignofelectromagneticdevices[1]hasenabledustorealizedevicefunctionalities andperformancesthatarefarbeyondpreviouslyanticipatedlimits[2\u20136]",
+  "Inparticular,calculating boundsontheabsorption,extinction,andscatteringcross-sectionsofsubwavelengthparticleshasbeenaproblemofgreatinterest duetotheirdiverseapplicationsinimaging,biomedicineandantenna-design[7\u201310]",
+  "Therehavebeenseveralattemptstocompute theseboundsviachannelcountingarguments[11\u201314],ormaterial-absorptionconsiderations[15]",
+  "TheT-operatorformalism hasalsobeenusedtoproviderigorousboundsonscatteringfromsubwavelengthparticles[16\u201319]",
+  "Carefulaccountingofthe cooperativeeffectsofradiationandabsorptioninelectromagneticscatterershasbeenusedtocomputescatteringbounds[20]",
+  "[13\u201320] have been very successful in providing useful bounds on absorptive electromagnetic structures,theycannotbestraightforwardlyappliedtoabsorptionlesselectromagneticstructures",
+  "Boundsonfrequency-averaged performanceofabsorptionlesselectromagneticstructureshavealsobeenprovidedbasedonanalyticalcontinuationofMaxwell\u2019s equations[21],buttheseboundsareverylooseifsingle-frequencyperformanceisofinterest",
+  "Lowerboundsonerrorinthe electricfieldsproducedbyanabsorptionlesselectromagneticstructurerelativetoatargetelectricfieldhavebeencomputedby adirectapplicationofLagrangianduality[22],butthisprocedurerequiresthetargetfieldtobespecifiedatmostpointsinthe designregion",
+  "Ourboundingprocedurebuildsontheprincipleof Lagrangianduality[23,24]",
+  "Asanapplicationofthisboundingprocedure,weuseittocalculateupperlimitsonthescattering cross-sectionofa2Dabsorptionlesselectromagneticscatterer",
+  "edu 0202 raM 1 ]scitpo"
+]
