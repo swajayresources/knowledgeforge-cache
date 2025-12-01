@@ -1,0 +1,1 @@
+This paper presents the design and experimental validation of an ultra-wideband polarization conversion metasurface (PCM) that can achieve over 10 dB radar cross section (RCS) reduction from 9 to 40 GHz (126.5% bandwidth). The proposed PCM consists of a double-headed arrow unit cell and its rotated versions to create destructive interference and RCS reduction.
