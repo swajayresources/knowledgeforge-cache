@@ -1,0 +1,17 @@
+[
+  "The study analyzed 44 paired colorectal cancer (CRC) and normal tissue samples that produced high quality sequencing data.",
+  "miR-21 and miR-143 together comprised over 60% of the total miRNA population in the CRC samples.",
+  "In addition to miR-21 and miR-143, the study identified 8 other highly expressed miRNAs in CRC: miR-148a, -194, -192, 200b, -200c, -10b, -26a, and -145.",
+  "The researchers used a bias reduction small RNA deep sequencing protocol to profile miRNA expression in the CRC and normal tissue samples.",
+  "The bias reduction protocol allowed the researchers to obtain data from relatively large sample sizes with reduced bias in the digital miRNA profile results.",
+  "The researchers validated the dysregulation of the identified miRNAs in 10 CRC cell lines using TaqMan miRNA qPCR.",
+  "The researchers suggested that the dysregulation of the miRNAs could be caused by mutations in APC, KRAS, or TP53 in the CRC cell lines.",
+  "The researchers used the tumor-to-normal (T/N) ratio of miRNA reads and a statistical cutoff of p<0.05 to identify differentially expressed miRNAs between the CRC and normal tissue samples.",
+  "The researchers performed gene set enrichment analysis to identify oncogenic signaling pathways and biological processes that were positively or negatively correlated with the expression of miR-21, miR-200c, and miR-26a.",
+  "The researchers noted that the heterogeneity of the tissue samples and the potential for some previously reported dysregulated miRNAs to have low abundance could limit their clinical utility as biomarkers.",
+  "The researchers believe the results of this study will provide a new direction for future miRNA-related CRC development studies and the application of miRNAs in CRC diagnosis, prognosis, and therapy.",
+  "The study used a combined approach of the researchers' bias reduction small RNA deep sequencing method and the Illumina small RNA TruSeq method for sample bar coding.",
+  "The researchers obtained about 7 to 10 million small RNA reads per sample, with the majority (60-80%) being mature miRNAs.",
+  "The researchers compared their miRNA profile data with previously published CRC-miRNA results and found good agreement in the status of miRNA dysregulation.",
+  "Several previously reported dysregulated miRNAs were expressed at very low levels according to the researchers' data, suggesting they may not play a critical physiological role in CRC."
+]
