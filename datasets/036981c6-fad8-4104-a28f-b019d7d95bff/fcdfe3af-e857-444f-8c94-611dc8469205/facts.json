@@ -1,0 +1,17 @@
+[
+  "The paper uses the isogeometric boundary element method to solve Helmholtz equations for electromagnetic scattering problems.",
+  "Non-uniform rational B-splines (NURBS) are employed to construct the structural geometries and discretize the electric and magnetic field integral equations.",
+  "The series expansion method is used to decouple the frequency-dependent terms from the integrand in the boundary element method, avoiding time-consuming multi-frequency calculations.",
+  "The second-order Arnoldi (SOAR) method is applied to construct a reduced-order model that retains the essential structures and key properties of the original model for large-scale problems.",
+  "The proposed approach is demonstrated to be effective and accurate through several numerical examples.",
+  "The paper presents a novel fast calculation method for broadband electromagnetic scattering analysis.",
+  "The frequency-decoupling technique based on the series expansion method is used to avoid time-consuming multi-frequency calculations.",
+  "The model order reduction using the second-order Arnoldi (SOAR) method enables efficient analysis of large-scale electromagnetic scattering problems.",
+  "The combination of frequency-decoupling and model order reduction techniques contributes to the efficiency of the proposed approach.",
+  "The isogeometric boundary element method provides a more accurate and efficient approach compared to traditional methods for electromagnetic scattering analysis.",
+  "The paper aims to address the challenges of time-consuming multi-frequency calculations and large-scale problems in broadband electromagnetic scattering analysis.",
+  "The numerical examples presented in the paper demonstrate the correctness and effectiveness of the proposed algorithms.",
+  "The authors declare that they have no conflicts of interest regarding the present study.",
+  "The paper is published in the ICCES journal, volume 27, number 2, with a DOI of 10.32604/icces.2023.09662.",
+  "The authors of the paper are Yujing Ma, Zhongwang Wang, Xiaohui Yuan, and Leilei Chen (corresponding author)."
+]
