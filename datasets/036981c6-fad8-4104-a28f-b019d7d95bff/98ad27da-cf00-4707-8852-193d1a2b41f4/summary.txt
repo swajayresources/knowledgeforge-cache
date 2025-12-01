@@ -1,0 +1,1 @@
+This paper introduces two new metamaterial radar absorber designs for the X-band frequency range - a fan-shaped split-ring resonator (SRR) absorber and a modified high-impedance surface (HIGP) absorber. Both designs achieve wider bandwidth and higher absorption levels compared to conventional metamaterial absorbers.
