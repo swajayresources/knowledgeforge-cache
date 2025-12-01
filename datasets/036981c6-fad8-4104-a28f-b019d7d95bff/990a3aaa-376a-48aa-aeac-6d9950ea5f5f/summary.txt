@@ -1,0 +1,1 @@
+This paper analyzes the integration of active infrared stealth technology with radar stealth design constraints. It compares the thermal response and infrared contrast characteristics of radar-absorbing materials (RAM) and metal surfaces through simulation, highlighting the challenges in combining these two stealth technologies.
