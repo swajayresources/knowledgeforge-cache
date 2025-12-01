@@ -1,17 +1,17 @@
 [
   "Electromagnetic cloak",
   "Double-layered cloak",
-  "GL method",
-  "Anisotropic metamaterials",
   "Invisibility",
-  "Electromagnetic wave absorption",
-  "Electromagnetic wave propagation",
-  "Cloaked concealment",
-  "Global-local modeling",
-  "Numerical simulation",
+  "Absorption",
+  "GL modeling",
+  "Anisotropic metamaterials",
   "Dispersive materials",
+  "Numerical dispersion",
   "Finite element method",
   "Finite difference method",
   "Maxwell's equations",
-  "Electromagnetic Green's function"
+  "Scattering",
+  "Subdomain modeling",
+  "Meshless methods",
+  "Parallel algorithms"
 ]
