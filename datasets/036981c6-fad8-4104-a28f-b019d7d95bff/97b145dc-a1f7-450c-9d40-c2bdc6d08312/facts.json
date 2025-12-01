@@ -1,0 +1,17 @@
+[
+  "EMI can be caused by natural sources like cosmic rays and solar flares, as well as man-made sources like mobile phones, laptops, and high-power radars.",
+  "Radiated emission testing is commonly done in open-area test sites (OATS), anechoic chambers, and GTEM cells, with distances of 3 m or 10 m between the EUT and receiving antenna.",
+  "Conducted emission testing uses methods like line impedance stabilization networks (LISNs), 1\u03a9 measurement, and current/voltage probes to isolate the EUT from the power source and measure conducted noise voltages.",
+  "Continuous source immunity testing covers magnetic fields, radiated interference, and conducted interference, while transient source immunity testing covers electrostatic discharge, electrical fast transients, surges, etc.",
+  "Standards like IEC/EN 61000-4-8, IEC 61000-4-3, IEC 61000-4-6, and IEC 61000-4-2 are commonly used for EMI immunity testing.",
+  "EMI reduction techniques include electromagnetic shielding, EMI filters, circuit topology modification, and spread spectrum techniques.",
+  "Performing EMI testing in the early stages of product development can significantly reduce the cost and time required for product development by identifying and resolving EMI issues before the compliance testing stage.",
+  "Anechoic chambers provide a controlled environment with minimal reflections, reverberation chambers are more economical and provide a statistically uniform field, and GTEM cells are compact and affordable but have a limited frequency range.",
+  "Over-the-air (OTA) measurements can be used to indirectly assess the radiated emissions of MIMO systems by first measuring the 3D radiation patterns in an anechoic chamber and then combining them with a base station emulator and channel model.",
+  "The paper emphasizes the importance of EMI/EMC research and development, as it is still insufficient compared to other aspects of electronic engineering and product development.",
+  "The literature available for EMI/EMC is scattered, making it difficult for young researchers to fully understand the structure of this field.",
+  "Efforts to mitigate the effects of EMI on electronic systems began during the Second World War, and it became a major concern in civilian applications after the rapid growth of computer technology in the 1970s and 1980s.",
+  "Almost all modern electronic devices are required to be well shielded and electromagnetically compatible to avoid harmful effects of EMI and to block any spurious radiation or harmful coupling.",
+  "The production flow of an electronic device involves numerous steps, and EMI testing is a crucial part of the compliance testing phase, which can be expensive if the product fails.",
+  "Economical pre-compliance EMI testing at each step of product development can significantly decrease the probability of failing the compliance tests."
+]
