@@ -1,0 +1,17 @@
+[
+  "The transformation design method (TDM) is used to create invisibility cloaks by performing coordinate transformations on the wave equation.",
+  "The TDM reinterprets the effect of the coordinate transformation in the material properties of the cloaking shell.",
+  "The authors consider cloaking of both electromagnetic waves (photons) and matter waves (electrons).",
+  "For electromagnetic waves, the authors assume the polarizations suffer a phase damping with a decay rate \u03b3 when passing through the cloaking shell.",
+  "For matter waves, the authors assume the spin of the incident electron experiences a coherent coupling with a hidden spin inside the cloaking shell.",
+  "The temporal steering parameter ST2 always maintains the maximal value of 2 if the system does not interact with any ancillary systems.",
+  "The authors show that the temporal steering parameter ST2 varies with time when the incident waves pass through the cloaking shell.",
+  "The classical bound for the temporal steering inequality is 1, while quantum mechanics predicts a bound of N/2, where N is the number of measurement settings.",
+  "Using temporal steering requires fewer measurement settings (two bases) compared to full quantum state tomography (three bases).",
+  "The authors note that other methods like using classical polarized fields or detecting spin direction changes can also be used to crack cloaks.",
+  "Degradation of entanglement is another possible approach to detect quantum cloaks.",
+  "The authors consider the invisibility cloaks designed using the transformation design method (TDM).",
+  "The TDM reinterprets the effect of coordinate transformation in the material properties of the cloaking shell.",
+  "The authors analyze both electromagnetic wave (photon) cloaks and matter wave (electron) cloaks.",
+  "The temporal steering parameter ST2 remains constant if the system does not interact with any ancillary systems."
+]
