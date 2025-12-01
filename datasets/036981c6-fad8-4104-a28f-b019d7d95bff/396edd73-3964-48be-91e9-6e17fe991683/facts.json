@@ -1,0 +1,17 @@
+[
+  "The bilayer electrostatic cloak consists of an inner layer made of a perfect electric conductor (PEC) or metal conductor, and an outer layer made of a material with a specific dielectric constant.",
+  "The required dielectric constant for the outer layer of the bilayer cloak is calculated using the provided equation: \u03b5\u2082 = [(c\u00b2/b\u00b2) - 1] / [(c\u00b2/b\u00b2) + 1] * \u03b5_b, where b and c are the inner and outer radii of the cloak, and \u03b5_b is the dielectric constant of the background material.",
+  "In the experiment, the bilayer cloak has an inner radius a = 1.3 cm, outer radius b = 1.5 cm, and the outer layer is made of air with a dielectric constant of 1.0.",
+  "The simulations show that the bilayer cloak can maintain a uniform electric field distribution around the shielded object, while the steel layer and air layer alone cause significant distortion of the electric field.",
+  "The carpet electrostatic cloak is designed using transformation optics, where the region AOB is stretched to AC'B while keeping ACB unchanged.",
+  "The required anisotropic dielectric constant tensor components for the carpet cloak are calculated using the provided equations: \u03b5_x'x' = 2k / [(k\u00b2 + \u03c4\u00b2 + 1) - (k\u00b2 + \u03c4\u00b2 - 1)\u00b2/4\u03c4\u00b2] and \u03b5_y'y' = 2k / [(k\u00b2 + \u03c4\u00b2 + 1) + (k\u00b2 + \u03c4\u00b2 - 1)\u00b2/4\u03c4\u00b2], where k = (tan \u03b1 - tan \u03b2)/tan \u03b1 and \u03c4 = tan \u03b2.",
+  "In the experiment, the geometric parameters for the carpet cloak are: AB = 20 cm, OC = 10 cm, OC' = 5 cm, resulting in tan \u03b1 = 1 and tan \u03b2 = 0.5.",
+  "The carpet cloak is fabricated using a metamaterial structure with alternating layers of air (\u03b5_r = 1.0) and ultrapure water (\u03b5_r = 80.0) to achieve the required anisotropic dielectric constant.",
+  "The simulated and measured electric field distributions along the observation lines for the carpet cloak show good agreement, validating the feasibility of the proposed design.",
+  "Realizing a perfect electrostatic field cloak is easier than for electromagnetic waves, as the electrostatic equation can be directly solved without the constraints related to wavelength or anisotropic/inhomogeneous material requirements.",
+  "The electrostatic field invisibility cloaks presented in the paper could find applications in non-destructive detection and enable the development of other devices such as concentrators, rotators, and illusions for manipulating electrostatic fields.",
+  "The bilayer cloak can only work for inhomogeneous electric fields, and its performance may be poor if a point source is used. Reducing the thickness of the cloak layers can improve the cloaking effect under a pointlike diffuse source.",
+  "The paper demonstrates both cancelling technology and transformation optics methods for designing electrostatic field invisibility cloaks, showing the feasibility of manipulating static electric fields.",
+  "The simple structure of the bilayer cloak and the use of naturally occurring materials make it easily scalable and applicable for micro-nanoscale and three-dimensional configurations.",
+  "The carpet cloak design using metamaterials confirms the applicability of transformation optics for manipulating electrostatic fields, providing a platform for developing new devices."
+]
