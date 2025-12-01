@@ -1,0 +1,10 @@
+[
+  "The forward problem is solved using a fast solver for the electromagnetic Lippmann-Schwinger equation, with 98,304 to 786,432 degrees of freedom used to represent the electric field.",
+  "The unknown refractive index perturbation is represented using 500 to 2,000 coefficients, using tensor products of splines and spherical harmonics.",
+  "25 incident waves with random directions and polarizations are used to generate the 5,000-dimensional data vector for the inverse problem.",
+  "Spectral preconditioning is based on approximating the largest eigenvalues and eigenvectors of the Jacobian matrix using Lanczos' method.",
+  "Updating the spectral preconditioner during the Newton iteration reduces the number of inner conjugate gradient iterations by a factor of 2.5 compared to using a fixed preconditioner.",
+  "For exact data, the updated preconditioned IRGNM achieves a given accuracy 2.5 times faster than the Newton-CG method.",
+  "With 2% relative noise level, the Lepski-type stopping rule yields a final L2 error of 0.0474 on average, compared to 0.0744 for the discrepancy principle.",
+  "The discrepancy principle stops the iteration too early, with the residual (||F(x) - y_obs||) at least an order of magnitude smaller than the noise level at the optimal stopping index."
+]
