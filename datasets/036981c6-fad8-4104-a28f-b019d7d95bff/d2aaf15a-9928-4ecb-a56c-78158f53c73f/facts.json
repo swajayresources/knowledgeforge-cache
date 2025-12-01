@@ -1,0 +1,20 @@
+[
+  "Cyber-physical systems (CPSs) are complex engineered systems that integrate a cyber layer with physical systems.",
+  "Decentralized data injection attacks (DIAs) are a type of attack that compromises the data integrity of CPSs.",
+  "The attacker's goal is to corrupt the measurements by injecting a random attack vector to compromise the data integrity while guaranteeing a low probability of attack detection.",
+  "The cost function \u03d5 : Rm\u2192R is used by the attacker to determine the optimal attack vector.",
+  "The random attack vector Am follows a multivariate Gaussian distribution with zero mean and variance v.",
+  "The covariance matrix of the random attack vector Am is \u03a3 AA= v ie ieT i.",
+  "The observation model for state estimation corrupted by noise is Ym=Hx+Zm.",
+  "The vector of compromised measurements Ym follows a multivariate Gaussian distribution P Y Am=N(0,\u03a3 YAYA).",
+  "The Nash Equilibrium is a state in which no player can improve their payoff by unilaterally changing their strategy.",
+  "The potential function is a function that captures the strategic interaction between players and is used to determine the Nash Equilibrium.",
+  "The decentralized attack construction is formulated as a potential game.",
+  "The best response dynamics is used to achieve the Nash Equilibrium of the game.",
+  "The game theoretic approach is used to model and quantify the security of CPSs.",
+  "The maximum entropy distribution is used to assign a distribution to the state variables.",
+  "The Gaussian assumption is used to model the random attack vector Am.",
+  "The multivariate Gaussian distribution is used to model the vector of compromised measurements Ym.",
+  "The Kullback-Leibler (KL) divergence is used to measure the disruption of the attack.",
+  "The mutual information is used to measure the information loss induced by the attack."
+]
