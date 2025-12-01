@@ -1,0 +1,17 @@
+[
+  "The paper presents a reduction of the Maxwell's system to a Fredholm second-kind integral equation with weakly singular kernel for electromagnetic wave scattering by one and many small bodies.",
+  "The key assumption is that the characteristic size a of the small bodies satisfies 2ka \u226a 1, where k is the wavenumber.",
+  "The scattering problem for a single small body is solved asymptotically as a \u2192 0 by deriving and solving a Fredholm second-kind integral equation for the electric field E.",
+  "For many small bodies, the scattering problem is reduced to solving a linear algebraic system for the fields in each body, bypassing the use of integral equations.",
+  "The number of small bodies in any subdomain \u0394 is assumed to be given by the formula N(\u0394) = (1/a\u03ba)\u222b\u0394 N(x)dx[1+o(1)] as a \u2192 0, where N(x) is a continuous function and 0 < \u03ba < 1.",
+  "An equation is derived for the effective field in the medium with many small particles, which can be used to create materials with a desired refraction coefficient.",
+  "A sufficient condition for achieving negative refraction in the medium is that the refraction coefficient n(x,\u03c9) satisfies the inequality \u2202n/\u2202\u03c9 + \u03c9n(x,\u03c9) < 0.",
+  "The effective field equation can be interpreted as describing a medium with a non-local polarization, where the polarization vector is related to the electric field through a susceptibility kernel.",
+  "The theory developed in the paper has applications in creating materials with desired wave-focusing or negative refraction properties, as well as in rigorously solving the many-body electromagnetic wave scattering problem.",
+  "The paper presents a method for creating new materials with the desired refraction coefficients, which can have applications in acoustics and optics.",
+  "The paper introduces a technique for solving the many-body electromagnetic wave scattering problem by rigorously reducing it to solving linear algebraic systems, bypassing the use of integral equations.",
+  "The paper discusses how the new materials created by embedding small particles may have a desired wave-focusing property, where a plane wave incident at a fixed direction and wavenumber will be scattered with a desired radiation pattern.",
+  "The paper also discusses how the new materials created may have negative refraction, where the group velocity is directed opposite to the phase velocity.",
+  "The paper presents a generalization of a formula from a previous work, where the number of small particles in a subdomain is given by the formula N(\u0394) = (1/a\u03ba)\u222b\u0394 N(x)dx[1+o(1)] as a \u2192 0.",
+  "The paper shows that by choosing the function N(x) and the constants c1m, one can create a medium with a desired refraction coefficient n^2(x) = 1 + k^-2 C(x), where C(x) is defined in terms of N(x) and the constants c1m."
+]
