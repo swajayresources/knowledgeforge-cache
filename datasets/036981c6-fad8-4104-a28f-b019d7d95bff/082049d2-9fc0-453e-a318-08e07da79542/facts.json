@@ -1,0 +1,17 @@
+[
+  "The proposed acoustic cloak consists of alternating layers of water and Methyl Nonafluorobutyl Ether (MNE) embedded in an MNE substrate.",
+  "The mass densities of MNE and water are 1501 kg/m3 and 1482 kg/m3, respectively, and their sound velocities are 584 m/s and 998 m/s.",
+  "The multilayer cloak designs include 5-layer, 10-layer, and 20-layer structures with equal layer thicknesses.",
+  "The composite lattice cloak design has a constant 1.4 mm water layer thickness and gradually decreasing MNE layer thicknesses.",
+  "The acoustic cloaks are designed to operate at a frequency of 29 kHz, corresponding to a millimeter-scale structure with R1 = 15 mm, R2 = 35 mm, and r = 80 mm.",
+  "The homogeneous anisotropic cloak requires materials with anisotropic density and bulk modulus properties that are not readily available in nature.",
+  "Increasing the number of layers in the multilayer cloak from 5 to 10 to 20 improves the cloaking performance, approaching the ideal homogeneous anisotropic cloak.",
+  "The composite lattice cloak with gradually decreasing MNE layer thickness shows better cloaking performance than the multilayer cloak with equal layer thicknesses.",
+  "The proposed cloaks based on natural isotropic materials can operate over a wider frequency range compared to metamaterial-based cloaks.",
+  "The cloaking performance is evaluated using finite element method simulations of the total and scattered acoustic pressure fields.",
+  "The cloaking designs aim to minimize the scattering of the incident acoustic wave and conceal the object inside the cloak region.",
+  "The multilayer and composite lattice cloaks can hide objects of any shape within the cloak area.",
+  "Using natural materials like water and MNE simplifies the fabrication of the acoustic cloak compared to engineered metamaterials.",
+  "The cloaking designs are optimized to work in the kHz frequency range, avoiding high GHz frequencies where structural relaxation processes occur in the MNE polymer.",
+  "The proposed cloaking designs address the limitations of previous methods by providing a more practical and scalable approach to acoustic cloaking."
+]
