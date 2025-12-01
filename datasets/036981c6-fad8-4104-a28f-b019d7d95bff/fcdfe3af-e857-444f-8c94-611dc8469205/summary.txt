@@ -1,0 +1,1 @@
+This paper presents a novel fast calculation method for broadband electromagnetic scattering analysis using the isogeometric boundary element method, accelerated by frequency-decoupling and model order reduction techniques.
