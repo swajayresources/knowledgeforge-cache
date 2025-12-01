@@ -1,0 +1,22 @@
+[
+  "Radar Cross-Section (RCS)",
+  "Stealth Aircraft",
+  "Low Observable (LO)",
+  "Geometric Optics (GO)",
+  "Physical Optics (PO)",
+  "Method of Moments (MoM)",
+  "Monostatic RCS",
+  "Bistatic RCS",
+  "Radar-Absorbent Materials (RAM)",
+  "Beyond-Visual-Range (BVR) Combat",
+  "Purpose Shaping",
+  "Plane Alignment (Facet)",
+  "Specular Reflection",
+  "Effective Reflection Area",
+  "Stratton-Chu Integral Equation",
+  "Electric Field Integral Equation (EFIE)",
+  "Magnetic Field Integration Equation (MFIE)",
+  "Basis Functions",
+  "Surface Patch Model",
+  "Anechoic Chamber"
+]
