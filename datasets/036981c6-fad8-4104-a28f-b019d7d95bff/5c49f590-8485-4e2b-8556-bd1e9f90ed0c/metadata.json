@@ -1,0 +1,15 @@
+{
+  "paper_id": "5c49f590-8485-4e2b-8556-bd1e9f90ed0c",
+  "title": "Risk Assessment for Nonlinear Cyber-Physical Systems under Stealth Attacks",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5c49f590-8485-4e2b-8556-bd1e9f90ed0c/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5c49f590-8485-4e2b-8556-bd1e9f90ed0c/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5c49f590-8485-4e2b-8556-bd1e9f90ed0c/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5c49f590-8485-4e2b-8556-bd1e9f90ed0c/keywords.json"
+  ]
+}
