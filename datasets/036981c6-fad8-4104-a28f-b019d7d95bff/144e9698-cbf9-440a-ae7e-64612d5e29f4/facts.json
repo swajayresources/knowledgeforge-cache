@@ -1,0 +1,17 @@
+[
+  "Direct and Inverse Computational Methods for Electromagnetic Scattering in Biological Diagnostics Farid Monsefi School of Education, Culture and Communication (UKK), Department of Innovation, Design, and Technique (IDT), Ma\u00a8lardalen University, Sweden Magnus Otterskog Department of Innovation, Design, and Technique (IDT), Ma\u00a8lardalen University, Sweden Sergei Silvestrov School of Education, Culture and Communication (UKK), Ma\u00a8lardalen University, Sweden November 2013 3102 ceD 61 ]hp-htam[ 1v9734",
+  "2131:viXra Abstract Scattering theory has had a major roll in twentieth century mathematical physics",
+  "1 Introduction Inverse formulations are solved on a daily basis in many disciplines such as image and signal pro- cessing, astrophysics, acoustics, quantum mechanics, geophysics and electromagnetic scattering",
+  "1 Background Scattering theory has had a major roll in twentieth century mathematical physics",
+  "2 2 Related Concepts in Electromagnetism 1 In constructing the electrostatic model, the electric field intensity vector E and the electric flux density vector, D, are respectively defined",
+  "The fundamental governing differential equations are [2] \u2207\u00d7E = 0 (1) \u2207\u00b7D = \u03c1 v where \u03c1 is the volume charge density",
+  "By introducing (cid:15) = (cid:15) (cid:15) as the the electric permittivity v r 0 where (cid:15) is relative permittivity, and (cid:15) = 8",
+  "854\u00d710\u221212F/m as the permittivity of free space for a r 0 linear and isotropic media, E and D are related by relation D = (cid:15)E (2) The fundamental governing equations for magnetostatic model are \u2207\u00b7B = 0 (3) \u2207\u00d7H = J where B and H are defined as the magnetic flux density vector and the magnetic field intensity vector, respectively",
+  "B and H are related as 1 H = B (4) \u00b5 \u00b5 0 r where \u00b5 \u00b5 = \u00b5 is defined as magnetic permeability of the medium which is measured in H/m",
+  "; 0 r \u00b5 = 4\u03c0\u00d710\u22127 H/m is called permeability of free space and \u00b5 is a (material-dependent) number",
+  "0 r The medium in question is assumed to be linear and isotropic",
+  "(1) and (3) are known as Maxwell\u2019s equations and form the foundation of electromagnetic theory",
+  "In such situations, the equivalent equations are constructed as \u2202B \u2207\u00d7E = \u2212 (5) \u2202t 1The following two chapters are based, to a large extent, on the work presented in [1]",
+  "3 \u2202D \u2207\u00d7H = J+ (6) \u2202t \u2207\u00b7D = \u03c1 (7) v \u2207\u00b7B = 0 (8) where J is current density",
+  "Maxwell\u2019s equations Differential form Integral form (cid:73) (cid:90) \u2202D \u2202D \u2207\u00d7H = J+ H\u00b7dL = I + \u00b7dS (9) \u2202t \u2202t C S (cid:73) (cid:90) \u2202B \u2202B \u2207\u00d7E = \u2212 E\u00b7dL = \u2212 \u00b7dS (10) \u2202t \u2202t C S (cid:90) (cid:90) \u2207\u00b7D = \u03c1 D\u00b7dS = \u03c1 dV (11) v v S V (cid:90) \u2207\u00b7B = 0 B\u00b7dS = 0 (12) S \u03c1 , in the above table, is the electric charge density in C/m3"
+]
