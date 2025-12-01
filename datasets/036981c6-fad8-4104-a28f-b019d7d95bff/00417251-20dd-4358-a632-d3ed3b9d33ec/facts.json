@@ -1,12 +1,17 @@
 [
-  "The electromagnetic field considered is A_ext(x) = x^+ (x^-) dx^-, with the only non-zero component of the field strength being F_-+ = E(x^-).",
-  "Classically, particles with initial momentum p_+ below a critical value b_\u221e cannot cross the 'electromagnetic horizon' defined by the condition p_+ b(x^-) = 0.",
-  "The classical orbit equations can be solved exactly, showing that particles below the critical momentum are accelerated to the speed of light and causally disconnected from the 'out' region.",
-  "Radiation from the accelerated particles diverges at the horizon for electrons, but remains finite for positrons.",
-  "The Landau-Lifshitz equation, including radiation reaction, shows that the horizon remains but is shifted to earlier times for radiating electrons.",
-  "The exact wavefunctions for scalar particles in the background field exhibit singularities at the classical horizon.",
-  "For electrons below the critical momentum, the wavefunctions extend into the 'out' region but have no overlap with outgoing states, indicating a violation of unitarity.",
-  "For positrons below the critical momentum, the wavefunctions suggest particle production via the Schwinger effect at the horizon.",
-  "The paper connects the issues at the horizon to properties attributed to Hawking radiation in black hole physics, noting the system is 'almost semiclassical-exact'.",
-  "The 'perturbiner' method is used to construct 'amplitudes' that contain the necessary information to calculate observables related to pair creation and radiation."
+  "The electromagnetic field considered has the form A_ext = x^+ (x^-) dx^-, with the only non-zero component of the field strength being F_-+ = E(x^-).",
+  "There is a classical 'electromagnetic horizon' defined by the condition p_+ b(x_c^-) = 0, where b(x^-) is the classical potential associated with the field.",
+  "Electrons with initial momentum p_+ < b_\u221e cannot escape the field and are accelerated to the speed of light, while all positrons can traverse the field.",
+  "The classical self-force, calculated using the Landau-Lifshitz equation, shifts the location of the horizon to earlier times x^- < b^-1(p_+).",
+  "The quantum wavefunctions exhibit divergences at the classical horizon for electrons, and discontinuities at the past horizon for positrons.",
+  "The discontinuities in the positron wavefunctions are interpreted as signaling pair production via the Schwinger effect.",
+  "The wavefunctions are noted to be 'almost semiclassical-exact', with the exponent given by the classical Hamilton-Jacobi action and the square root prefactor representing the next-to-leading order WKB term.",
+  "The authors use the 'perturbiner' method to construct 'amplitudes' that can be used to calculate observables related to pair creation and radiation, despite the lack of a well-defined S-matrix.",
+  "The electromagnetic system studied is proposed as a toy model for exploring analogous questions in the more complex gravitational context, such as the treatment of horizons and strong curvature effects.",
+  "The radiated power from the accelerated particles exhibits a divergence at the classical horizon for electrons that cannot escape the field.",
+  "There is an 'electromagnetic memory effect' where the final momentum of particles that traverse the field is different from their initial momentum.",
+  "The system exhibits a causal structure similar to that of plane wave backgrounds in both electrodynamics and gravity, but with important differences in the existence of a well-defined S-matrix.",
+  "The authors note that in this system, the pair production mechanism realizes concretely many properties attributed to Hawking radiation in the gravitational context.",
+  "The lack of a Cauchy surface and the violation of unitarity when crossing the horizon are key challenges addressed in the analysis of this electromagnetic system.",
+  "The authors emphasize the potential of modern QFT methods, such as the amplitudes approach, to simplify the calculation of observables in classical gravitational wave systems."
 ]
