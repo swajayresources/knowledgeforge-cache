@@ -1,0 +1,1 @@
+This paper proposes three different metamaterial-based microstrip patch antenna designs to reduce the radar cross section (RCS) of the antenna while maintaining or improving other antenna parameters like gain, bandwidth, and return loss. The proposed antennas demonstrate significant RCS reduction compared to a reference patch antenna.
