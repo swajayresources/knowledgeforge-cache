@@ -1,0 +1,17 @@
+[
+  "In total, 331 simultaneous meteors were detected across the two observation campaigns - 145 in ICCD09 and 228 in KISO18.",
+  "The relationship between radar cross section and optical V-band magnitude was well approximated by a linear function.",
+  "A transformation function from radar cross section to V-band magnitude was derived for sporadic meteors.",
+  "The mass range of meteors detected by the MU radar was constrained to about 10^-5 to 10^0 grams.",
+  "The luminosity function of sporadic meteors detected by the MU radar was well approximated by a single power-law function with a population index of r = 3.52 \u00b1 0.12.",
+  "In ICCD09, the detected meteors ranged from 1.4 to 10.0 magnitude, with 25-75 percentile magnitudes of 5.0 to 7.2.",
+  "In KISO18, the detected meteors ranged from 2.8 to 11.1 magnitude, with 25-75 percentile magnitudes of 7.4 to 8.6.",
+  "The altitudes of the KISO18 meteors were generally lower than those of the ICCD09 meteors, due to the displaced pointing of the Tomo-e Gozen telescope below 30 degrees elevation.",
+  "The archival MU radar meteor observations from 2009-2015 were analyzed to derive the luminosity function of faint sporadic meteors, covering the magnitude range of -1.5 to 9.5.",
+  "Faint meteors corresponding to radar head echo observations, as faint as 10 magnitude optically, had not been detected until recently due to insufficient sensitivity of optical observations.",
+  "The simultaneous radar and optical observations helped constrain the luminous efficiency and ionization coefficient of meteors.",
+  "The MU radar is capable of detecting interplanetary dust of 10^-5 to 10^0 grams in mass as meteors.",
+  "The observations were carried out using the MU radar and optical cameras - an image-intensified CCD camera in ICCD09 and the Tomo-e Gozen mosaic CMOS camera in KISO18.",
+  "The Tomo-e Gozen camera has a large field-of-view of about 20 square degrees and can monitor the sky at 2 Hz.",
+  "The observations were biased towards meteor showers like Geminids, Orionids, and \u03b7 Aquariids, which were removed from the analysis of sporadic meteors."
+]
