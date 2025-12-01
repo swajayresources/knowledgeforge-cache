@@ -1,12 +1,17 @@
 [
-  "The simplified cylindrical cloak has the following material parameters: \u03bcr = (r-a)/(b-a), \u03bc\u03b8 = 1, and \u03b5z = b^2/(b-a).",
-  "For the zeroth-order cylindrical wave (m=0), the wave equation for the simplified cloak simplifies to the Bessel differential equation, suggesting the zeroth-order wave sees the cloak as a homogeneous isotropic medium.",
-  "The zeroth-order scattering coefficient converges to around 0.867 as the cloak radius b increases, indicating significant scattering of the zeroth-order wave.",
-  "The higher-order scattering coefficients (e.g. m=1,2) exhibit an oscillatory behavior but do not converge to zero even for thick cloak walls.",
-  "Numerical simulations show that the field inside the simplified cloak is dominated by the zeroth-order cylindrical wave, while higher-order waves experience finite scattering.",
+  "The cylindrical cloak with simplified material parameters has azimuthally invariant parameters, unlike the ideal cloak based on coordinate transformation.",
+  "The zeroth-order cylindrical wave effectively sees the simplified cloak as a homogeneous isotropic medium with an effective refractive index of b/(b-a).",
+  "The zeroth-order scattering coefficient of the simplified cloak converges to 0.867 as the cloak thickness b increases.",
+  "The higher-order (m \u2260 0) cylindrical waves experience finite scattering within the simplified cloak, although the scattering coefficients decrease as the order number m increases.",
+  "The simplified cloak cannot provide complete EM isolation, as the zeroth-order cylindrical wave can always transmit through the cloak.",
   "Compared to a near-ideal cloak, the simplified cloak inherits some merits of the ideal cloak but has overall higher scattering, especially in the monopole (zeroth-order) wave component.",
-  "The simplified cloak cannot completely shield the interior from external electromagnetic fields, as the zeroth-order wave can effectively transmit through the cloak.",
-  "The authors suggest that detecting objects inside the simplified cloak can be enhanced by using an electromagnetic source with maximum energy in the monopole (zeroth-order) component.",
-  "The paper uses a fixed cloak geometry with a = 0.1 m and operating frequency of 2 GHz for the numerical analysis.",
-  "The authors use the finite element method to numerically solve the wave equation and derive the scattering and transmission coefficients for the simplified cloak."
+  "The non-essential singularities in the wave equation for the simplified cloak (m \u2260 0) indicate that the wave behavior within the cloak shell is altered compared to the ideal cloak.",
+  "Detection of objects inside the simplified cloak can be enhanced by using an EM source with maximum energy in the monopole (zeroth-order) component.",
+  "The simplified cloak is inherently visible and cannot provide perfect invisibility due to the transmission of the zeroth-order cylindrical wave and finite scattering of higher-order waves.",
+  "As the cloak thickness b is increased, the zeroth-order transmission coefficient converges to 0.867, and the higher-order scattering coefficients decrease but do not converge to zero.",
+  "The simplified cloak design is limited by its inability to provide complete EM isolation and perfect invisibility.",
+  "The wave behavior within the simplified cloak is different from the ideal cloak due to the azimuthal invariance of the material parameters.",
+  "The simplified cloak cannot completely shield enclosed objects from EM illumination due to the transmission of the zeroth-order wave component.",
+  "The higher-order cylindrical waves experience finite scattering within the simplified cloak, even for very thick cloak walls.",
+  "The performance of the simplified cloak is inferior to the near-ideal cloak, with higher overall scattering, especially in the monopole wave component."
 ]
