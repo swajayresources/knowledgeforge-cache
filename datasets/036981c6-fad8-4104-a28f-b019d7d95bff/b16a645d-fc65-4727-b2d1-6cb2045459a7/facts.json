@@ -1,0 +1,18 @@
+[
+  "DKSAP-IoT is a faster dual-key stealth address protocol for blockchain-based IoT systems.",
+  "DKSAP-IoT reduces computational overhead by at least 50% compared to the state-of-the-art scheme.",
+  "DKSAP-IoT uses a cryptographic hash function to extend the lifetime of the shared secret between senders and receivers.",
+  "DKSAP-IoT reduces the number of random-point scalar multiplications (RP) and fixed-point scalar multiplications (FP) required for each stealth transaction.",
+  "The overall cost of DKSAP-IoT is less than 50% of DKSAP.",
+  "DKSAP-IoT provides strong anonymity for receivers and ensures the unlinkability of payments received by the same payee.",
+  "The threat model of DKSAP-IoT is that an adversary aims to determine the corresponding recipients by observing the transactions on the blockchain.",
+  "The computational overhead of DKSAP is N * 2 RP and N * 2 FP.",
+  "The communication overhead of DKSAP is N elliptic curve points.",
+  "The hash function used in DKSAP-IoT is BLAKE-256.",
+  "The performance of DKSAP-IoT on a Raspberry Pi 3 Model B is that the computation of the hash function is about three orders of magnitude faster than that of the scalar multiplication over an elliptic curve.",
+  "The implementation of DKSAP-IoT is an optimized elliptic curve cryptography library, namely libsect283k11, which is written in C and compiled using the GNU C Compiler (GCC).",
+  "The timings for the computation of RP, FP, and H on a Raspberry Pi 3 Model B are 3.67 ms, 3.12 ms, and 5.26 \u00b5s, respectively.",
+  "The library used in the implementation of DKSAP-IoT is libsect283k1, which is an optimized elliptic curve cryptography library.",
+  "The library is written in C and compiled using the GNU C Compiler (GCC).",
+  "The library uses the lambda coordinates, the window \u03c4NAF method, pre-computation, and other efficient techniques to optimize performance."
+]
