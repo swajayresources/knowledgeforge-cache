@@ -1,0 +1,17 @@
+[
+  "The frequency used for the measurements was 25.9 MHz, corresponding to a wavelength of 38 feet.",
+  "The transmitter was located 300 feet from the target, which was assumed to provide plane-wave illumination for targets up to 30 feet long.",
+  "The probe was typically located 20 to 60 feet from the target, and did not receive plane waves from the target.",
+  "The standing-wave method was adapted for use at high frequencies by using a probe with its own detector, voltage comparator, and telemeter to eliminate the need for a cable from the probe to the control room.",
+  "The relative amplitude of the backscattered field was measured at various ranges from the target, and a standard range-dependence curve was fitted to the data.",
+  "The known cross section of a half-wave dipole was used to calibrate the system.",
+  "The results for the aluminum dipoles, including the variation of cross section with target length and the resonant frequencies, were consistent with the predictions from microwave measurements.",
+  "The effective height of the trees could be deduced from the measurements, suggesting that the scattering from the trees was dominated by the main trunk and branches.",
+  "The agreement between the high-frequency results for conducting dipoles and the microwave measurements demonstrated the validity of extrapolating microwave data to the high-frequency part of the spectrum.",
+  "Field strength measurements along lines perpendicular to the transmitter-target line provided additional insights into the scattering behavior of the targets.",
+  "The standing-wave method was used to measure the cross sections of trees, street lights, and vehicles, in addition to aluminum dipoles.",
+  "The lack of a good image plane at high frequencies required the use of methods to handle the range dependence and non-uniform illumination of the targets.",
+  "The probe was constructed with its own detector, voltage comparator, and telemeter to eliminate the need for a cable from the probe to the control room.",
+  "The relative power gain of the transmitting antenna at different heights above the ground was measured to account for the variation in illumination of vertical targets.",
+  "The standing-wave data collected beyond the target was used to provide additional insights into the scattering behavior of the targets."
+]
