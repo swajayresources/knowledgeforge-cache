@@ -1,0 +1,17 @@
+[
+  "The paper establishes an analytical method for studying the electromagnetic wave interactions with a general radially anisotropic cloak.",
+  "A novel class of spherical nonlinear cloaks is derived, and their invisibility performance is examined using the proposed scattering method.",
+  "The general cloaking condition is proposed for the first time, relating the evolution operator of the cloak shell to the impedance tensor of the equivalent homogeneous air sphere.",
+  "Increasing the number of homogeneous layers 'N' used to discretize the anisotropic cloak shell from 10 to 100 improves the accuracy of the calculations.",
+  "An optimal range of the nonlinearity parameter 'x' around 2 is identified, where the NTB cloak outperforms Pendry's linear spherical cloak in terms of reduced scattering cross-section.",
+  "The transverse permittivity of the NTB cloak exhibits a non-monotonic behavior along the radial direction within the optimal range of 'x', which is the key to its improved invisibility.",
+  "The paper's general scattering algorithm can handle arbitrary radial-dependent anisotropic parameters (\u03b5\u208a, \u03bc\u208a, \u03b5\u208b, \u03bc\u208b) of the spherical shell.",
+  "The proposed NTB spherical cloak can achieve better invisibility performance compared to Pendry's linear cloak by optimizing the nonlinearity parameter 'x'.",
+  "The critical material singularity in Pendry's cloak is transformed into a less demanding geometrical singularity in the NTB cloak.",
+  "The NTB cloak's improved invisibility is attributed to the non-monotonic transverse permittivity profile, which is different from the monotonic behavior in Pendry's linear cloak.",
+  "The paper demonstrates that there exists an optimal range of the nonlinearity parameter 'x' where the NTB cloak outperforms the classic linear spherical cloak.",
+  "Discretizing the anisotropic cloak shell into 50 homogeneous layers is found to provide a good balance between accuracy and computational complexity.",
+  "The paper's general scattering algorithm can be applied to study the electromagnetic interactions with arbitrary radially anisotropic spherical particles.",
+  "The proposed NTB spherical cloak design offers a promising approach to achieve improved invisibility performance compared to the traditional linear cloaks.",
+  "The paper's findings suggest that carefully engineering the nonlinearity in the transformation function can lead to enhanced cloaking capabilities."
+]
