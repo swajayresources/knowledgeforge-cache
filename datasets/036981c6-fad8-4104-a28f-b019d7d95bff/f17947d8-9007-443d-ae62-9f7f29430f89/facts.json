@@ -1,0 +1,19 @@
+[
+  "The probability of detection (P) is a nonlinear function of the aircraft pose and radar position.",
+  "The radar detection model used in this work includes expressions for the probability of detection, signal-to-noise ratio, and radar cross section (RCS).",
+  "The three RCS models used in this work are constant, ellipsoid, and simple spikeball models.",
+  "The probability of detection (P) is linearized using a Taylor series expansion about a nominal operating point.",
+  "The partial derivative of P with respect to S is \u2202P/\u2202S = \u221a(\u2212lnP \u2212 \u221a(S+0.5)) / (2\u03c0(S+0.5)).",
+  "The partial derivative of S with respect to range is -c_r / (4\u03c3_r R^5).",
+  "The partial derivative of range with respect to aircraft position is (pa - pr) / ||pa - pr||^2.",
+  "The standard deviation of the probability of detection is \u03c3_P = \u221a(C_P).",
+  "The lumped radar constant (c_r) used in this work is 167.4 J/m^2/\u00b0K.",
+  "The probability of false alarm (P_fa) used in this work is 1.7e-4.",
+  "The nominal range (R) used in the Monte Carlo analysis is 650 km.",
+  "The number of lobes (n) used in the simple spikeball RCS model is 4.",
+  "The amplitude of the lobes (a) used in the simple spikeball RCS model is 0.2 m^2.",
+  "The minimum RCS value (b) used in the simple spikeball RCS model is 0.15 m^2.",
+  "The aircraft pose is represented by a Gaussian distributed random variable with a mean x = (pn, \u0398) and covariance C.",
+  "The radar position is assumed to be deterministic and known.",
+  "The Monte Carlo analysis consisted of 1000 runs."
+]
