@@ -1,0 +1,17 @@
+[
+  "The zero field method is a numerical-analytical method that belongs to the group of so-called numerical-analytical methods of diffraction theory.",
+  "The characteristic feature of the zero field method is the use of boundary conditions on a contour that differs from the scatterer contour.",
+  "The application of similar methods has been quite widespread in recent publications.",
+  "The paper presents a generalization of the zero field method to solve problems of the propagation of fields from point sources (electric or magnetic current filaments) in plane-layered media with two-dimensional inhomogeneities.",
+  "The paper proposes an algorithm for modeling the propagation of ultra-wideband pulsed signals in flat-layered media with cylindrical inclusions, based on expanding the original signals in Fourier series.",
+  "The results of the work are reflected in two regulatory documents: R V. 2.3-218-02071168-781:2011 and M 218-02071168-705:2012.",
+  "The paper's main focus is on rigorously justifying the application of the reduction method to the systems of linear algebraic equations that arise from the zero field method.",
+  "The key conclusion is that the numerical-analytical methods of modern electrodynamics, such as the zero field method, are effective tools for solving important applied problems, including non-destructive testing.",
+  "The paper notes that many questions still remain unanswered regarding the justification of the convergence of the zero field method.",
+  "The paper applies a traditional method of moments algorithm, rather than relying on the expansion of the Green's function in cylindrical waves, in order to justify the application of the reduction method.",
+  "The paper shows that the spectral coefficients and the derivatives of the Green's function with respect to the radial and angular coordinates of the source point are bounded functions.",
+  "The zero field method can be used to model the propagation and diffraction of both harmonic and ultra-wideband electromagnetic signals on objects of various shapes and electrical properties.",
+  "The methods presented in the paper can be used for non-destructive testing and quality control of industrial dielectric products, as well as for metrological support of measurement processes using defectometric complexes.",
+  "The paper suggests that the ideas for further improvement of the zero field method can be proposed as a perspective for further research in this direction.",
+  "The zero field method is characterized by the use of boundary conditions on a contour that differs from the scatterer contour, which is a distinctive feature of this class of numerical-analytical methods."
+]
