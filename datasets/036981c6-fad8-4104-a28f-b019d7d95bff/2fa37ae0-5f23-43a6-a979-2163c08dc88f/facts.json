@@ -1,0 +1,17 @@
+[
+  "The signature images were stored as Portable Network Graphics (PNG) files to retain all important features without introducing distortions.",
+  "The segmentation of signatures from the acquired scans was not considered in this work, but could be easily implemented by applying certain constraints on the position of the signature inside the document.",
+  "The thinning process was used to reduce the number of points comprising a signature to a one-pixel-width skeleton.",
+  "The projection-based technique captures the distribution of ink in a signature by projecting its pixels onto different axes and summing their number or intensity values.",
+  "The view-based algorithm selects only those points with minimal and maximal values of y-coordinates to form the upper and down views of the signature.",
+  "The Manhattan distance was used as the distance measure in the Dynamic Time Warping algorithm.",
+  "A sampling step of 10 was used during boundary tracing to eliminate disturbances from the roughness of the ink trace and further reduce redundant information.",
+  "The classification process was based on the distance measure computed by the Dynamic Time Warping algorithm, with the distance of the reference vector from the one being classified calculated as the sum of the distances for the upper and lower parts of the signature boundaries.",
+  "The best classification rate of 93% was achieved by using only the y-coordinates of selected boundary points and applying a weighting factor of 4 to the difference in the number of loops between the reference and tested signatures.",
+  "The authors' previous work using the view-based approach had a maximum classification rate of 78.33%, while the new boundary tracing techniques outperformed this with a maximum of 84.17%.",
+  "The database used in the experiments consisted of 60 signatures, with 20 different people each providing 3 versions of their signature.",
+  "The authors plan to explore incorporating other classification methods like Neural Networks or Hidden Markov Models, as well as combining offline and online signature data in a hybrid system.",
+  "The key insight behind using boundary tracing techniques was that most of the points in a signature image do not provide additional discriminative information and can be safely ignored, allowing for a reduction in complexity while preserving important features.",
+  "The authors applied two modifications to the basic Dynamic Time Warping algorithm: a window constraint to limit the possible paths in the distance matrix, and a slope constraint to allow the warping path to follow only particular directions, in order to reduce unintuitive alignments called singularities.",
+  "The signature images were first converted from grayscale to black-and-white binary maps using a threshold technique to eliminate minor distortions."
+]
