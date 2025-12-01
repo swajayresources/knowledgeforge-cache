@@ -1,0 +1,1 @@
+The paper analyzes the scattering of charged particles on an electromagnetic field that exhibits an 'electromagnetic horizon', which causally excludes regions of spacetime from the particles. It explores the classical and quantum behavior of the system, including particle production at the horizon and the violation of unitarity when crossing the horizon.
