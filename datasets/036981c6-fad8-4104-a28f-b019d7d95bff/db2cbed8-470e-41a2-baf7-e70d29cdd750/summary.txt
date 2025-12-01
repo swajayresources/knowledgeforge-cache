@@ -1,0 +1,1 @@
+This paper presents a study on the analysis and control of antenna radar cross-section (RCS) in stealth technology. The researchers developed low-observable microstrip patch antennas that reduce RCS without affecting communication functions. The results show a high RCS reduction of up to 80% with a minimum value of -15 dBsm.
