@@ -1,0 +1,17 @@
+[
+  "ISAR imaging",
+  "Gridless super-resolution",
+  "2D-RWTM",
+  "Atomic Norm Minimization (ANM)",
+  "Reweighted Trace Minimization",
+  "Vandermonde decomposition",
+  "2-Level Toeplitz (2LT) matrix",
+  "Matrix Pencil and (auto-) Pairing (MaPP) algorithm",
+  "Radar Cross Section (RCS)",
+  "Coherent Processing Interval (CPI)",
+  "Frequency-Stepped Chirp Signals (FSCS)",
+  "Linear Frequency Modulation (LFM)",
+  "Sparse scattering points",
+  "Motion compensation",
+  "Translational and rotational motions"
+]
