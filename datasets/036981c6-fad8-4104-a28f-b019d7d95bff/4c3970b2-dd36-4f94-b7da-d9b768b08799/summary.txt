@@ -1,0 +1,1 @@
+This paper presents a method for achieving electromagnetic invisibility by filling an object with a multilayer dielectric filler. The authors demonstrate numerically that this inner cloaking approach can reduce the scattering cross section of canonical structures by over 30 dB.
