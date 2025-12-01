@@ -1,17 +1,9 @@
 [
-  "The graphite/epoxy composite plate had in-plane dimensions of 73 mm x 225 mm and a thickness of approximately 2.9 mm.",
-  "The layup of the composite plate was (\u00b145/0\u2082)\u2083S.",
-  "Impact damage was introduced using a 9 kg impactor dropped from a height of 0.5 m onto the back face of the clamped specimen.",
-  "C-scan analysis showed the spanwise length of the damaged region was approximately 40 mm.",
-  "Vibration analysis using single point accelerometer response, holographic interferometry, and thermoelastic analysis was investigated for detecting BVID.",
-  "Accelerometer response data was analyzed in frequency ranges of 0-500 Hz, 0-2000 Hz, and 0-5000 Hz.",
-  "Estimated damping values for modes in the 300-370 Hz region were around 0.3-0.5% of critical damping.",
-  "Estimated damping values for modes in the 1050-1150 Hz region increased from 0.4-0.7% in the undamaged case to 0.9% in the damaged case.",
-  "Holographic interferometry showed that changes in boundary conditions appeared to dominate changes due to damage, but damage could be observed as perturbations to nearby fringes.",
-  "Thermoelastic analysis was only suitable for low frequency modes, as obtaining reasonable displacements for higher frequency modes was difficult with this specimen.",
-  "Further investigation of vibration analysis for BVID detection would require larger specimens to reduce boundary condition effects, or keeping boundary conditions constant while applying damage in-situ.",
-  "The sensitivity of the vibration analysis to changes in boundary conditions and excitation methods was a key limitation in detecting BVID in this study.",
-  "The researchers concluded that a better means of excitation would also be required to improve the detectability of BVID using vibration analysis.",
-  "The study demonstrated the challenges in using vibration-based techniques to reliably detect BVID in graphite/epoxy composite structures.",
-  "The results suggest that further research is needed to develop more effective non-destructive evaluation methods for detecting BVID in composite aircraft structures."
+  "The material designation of the graphite/epoxy composite plate was XAS fibre/914 resin with a layup of (\u00b145/0\u2082)\u2083S and dimensions of 73mm x 225mm with a thickness of approximately 2.9mm.",
+  "The impact damage was introduced by dropping a 9 kg impactor from a height of 0.5m onto the back face of the clamped specimen.",
+  "The C-scan after damage showed the maximum damage occurred at a plane 0.9 of the thickness from the impacted face, with a spanwise length of approximately 40mm.",
+  "The frequency response plots showed the modal frequencies were virtually identical between the undamaged and damaged cases, but there were slight differences in relative response amplitudes.",
+  "Estimates of modal damping showed an indication that damping increased in the 1050-1150 Hz region after damage, but the authors could not definitively conclude this indicated the presence of damage.",
+  "The holographic interferometry results showed perturbations of the fringes near the damage location after impact.",
+  "Thermoelastic analysis was only able to obtain suitable stress contours for low frequency modes, due to difficulties in obtaining large enough displacements and stresses at higher frequencies for this specimen."
 ]
