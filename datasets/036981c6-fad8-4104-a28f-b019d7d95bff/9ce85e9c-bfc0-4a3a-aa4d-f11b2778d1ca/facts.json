@@ -1,0 +1,17 @@
+[
+  "The electromagnetic field solution for a spherical invisibility cloak with an active device inside is established.",
+  "Extraordinary electric and magnetic surface voltages are induced at the inner boundary of the spherical cloak.",
+  "The surface voltages prevent electromagnetic waves from going out of the concealed region.",
+  "The phase and handness of polarized waves obliquely incident on the inner boundary are kept in the reflected waves.",
+  "The surface voltages are found to be exactly equal to the auxiliary scalar potentials at the inner boundary.",
+  "The field inside the concealed region exists in the form of standing waves, with zero time-averaged Poynting power.",
+  "When the frequency goes to zero, the electric surface voltage V_E becomes zero while the magnetic surface voltage V_H survives for an electric dipole, and vice versa for a magnetic dipole.",
+  "The cloak for static magnetic field can be realized artificially using superconductors to create the necessary surface current.",
+  "The surface voltages do not violate Maxwell's equations, but are a rare phenomenon in nature.",
+  "The paper provides a rigorous mathematical treatment of the electromagnetic field solution inside the concealed region.",
+  "The work is supported by the ONR, Chinese NSF, and China PSF.",
+  "The inner radius of the cloak layer is set at R1, and the outer radius is R2.",
+  "The background material in the region r < R1 has permittivity \u03b51 and permeability \u03bc1.",
+  "The cloak layer is made of an anisotropic and inhomogeneous medium with specified permittivity and permeability tensors.",
+  "The electromagnetic waves are decomposed into TE and TM modes with respect to the radial direction."
+]
