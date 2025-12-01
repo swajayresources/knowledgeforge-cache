@@ -1,12 +1,12 @@
 [
-  "Heavily doped, wide bandgap oxide semiconductors like AZO and ITO can exhibit small negative real permittivity and relatively small losses in the NIR range.",
-  "AZO films deposited by pulsed laser deposition at 100\u00b0C have a crossover wavelength (where the real permittivity crosses zero) slightly lower than films deposited at 150\u00b0C, but higher optical losses.",
-  "Annealing AZO films in forming gas reduces the doping efficiency and makes the films less metallic in the NIR.",
-  "The mode size of a single-interface SPP waveguide with AZO is about an order of magnitude smaller than gold or silver waveguides in the NIR, but the propagation length is nearly two orders of magnitude shorter.",
-  "The quality factor (propagation length/mode size) of metal-based SPP waveguides is about an order of magnitude higher than AZO-based waveguides in the NIR.",
-  "The figure-of-merit for hyperbolic metamaterials made from polycrystalline or single-crystal AZO/ZnO layers is significantly higher than those made from Ag/Al2O3 or Au/Al2O3 in the NIR.",
-  "The real part of the refractive index of AZO can reach as low as 0.2 in the NIR, indicating its potential for epsilon-near-zero applications, though the imaginary part is still around 1.5.",
-  "TCO nanoparticles can exhibit localized surface plasmon resonances in the NIR, with quality factors around 2.4 compared to 4.5-6 for gold and silver nanoparticles in the visible.",
-  "Indium tin oxide (ITO) was previously demonstrated as a plasmonic material for wavelengths longer than 1.3 \u03bcm, but AZO has advantages like higher carrier mobility and lower cost.",
-  "Careful optimization of the deposition and annealing conditions is required to further improve the plasmonic properties of AZO films in the NIR."
+  "Transparent conducting oxides (TCOs) like AZO, GZO, and ITO can exhibit negative real permittivity and smaller optical losses compared to conventional plasmonic metals like gold and silver in the near-infrared (NIR) range.",
+  "AZO films deposited by pulsed laser deposition showed a crossover wavelength (where the real permittivity crosses zero) around 1.55 \u03bcm, with the properties highly sensitive to deposition and annealing conditions.",
+  "For single-interface SPP waveguides, TCOs can provide an order of magnitude better mode confinement than gold or silver in the NIR, but have nearly two orders of magnitude smaller propagation lengths.",
+  "The quality factor (propagation length/mode size) of 1D SPP waveguides is about an order of magnitude higher for silver and gold compared to TCOs in the NIR.",
+  "TCO-based hyperbolic metamaterials can have a figure-of-merit (FOM) significantly higher than metal/dielectric-based hyperbolic metamaterials in the NIR.",
+  "The real refractive index of AZO can reach as low as 0.2 in the NIR, indicating its potential for epsilon-near-zero (ENZ) applications with a non-zero acceptance angle.",
+  "Increasing the doping efficiency in AZO to further decrease the crossover wavelength towards 1.55 \u03bcm requires optimizing the deposition process, such as using single-target ablation.",
+  "TCOs are not as efficient as metals for standard surface plasmon polariton waveguiding applications due to the trade-off between mode confinement and propagation length.",
+  "TCOs could have niche applications involving surface plasmons, such as in chemical sensing, where the change in carrier concentration modulates the surface plasmon resonance conditions.",
+  "TCOs hold promise for realizing practical metamaterial and transformation optics devices in the NIR and telecommunication wavelengths, where conventional metals perform poorly."
 ]
