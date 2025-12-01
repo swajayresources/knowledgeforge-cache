@@ -1,0 +1,17 @@
+[
+  "The radar cross section (RCS) of the rough surfaces was measured in two fully polarimetric compact radar ranges operating at 100 GHz and 240 GHz.",
+  "Inverse synthetic aperture radar (ISAR) imagery was generated and analyzed to obtain the average backscattering coefficient (\u03c30) of each sample.",
+  "The RMS roughness of the unbrushed concrete, brushed concrete, soil, sand, and asphalt roofing shingles were 96 microns, 136 microns, 190 microns, 201 microns, and 137 microns, respectively.",
+  "The copolarization ratio (\u03c30_HH/\u03c30_VV) of the concrete samples approached 1 as the roughness parameter ks increased.",
+  "The backscattering coefficient of moist soil was lower compared to dry soil, likely due to increased volumetric scattering effects in the dry soil.",
+  "The backscattering coefficient of the asphalt roofing shingles showed an azimuthal dependence due to the organized pattern of the shingled surface.",
+  "On average, the backscattering coefficient was approximately 2 dB higher for the materials measured at 240 GHz compared to 100 GHz.",
+  "The moisture content of the soil samples changed during the measurement process, with the initial moisture content ranging from 0.03 g/cm\u00b3 to 0.23 g/cm\u00b3.",
+  "The particle size distribution of the soil sample showed that 96% of the sample mass contained particulates larger than 45 microns.",
+  "The average diameter of the gravel aggregates was approximately 10 mm.",
+  "The asphalt roofing shingle was attached to a 0.5-inch thick plywood sheet using standard roofing nails.",
+  "The backscattering coefficient of sand was within 2 dB of the dry soil sample for elevation angles of 10 degrees and higher.",
+  "The copolarization ratio of the gravel sample approached 1 as the elevation angle increased from 5 to 20 degrees.",
+  "The backscattering coefficient of the asphalt roofing shingles showed larger returns at lower elevation angles due to scattering from the shingle edges.",
+  "Future measurements will focus on better controlling the soil moisture content to understand the impact of both moisture and roughness on soil backscattering at these frequencies."
+]
