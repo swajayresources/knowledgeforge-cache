@@ -1,0 +1,1 @@
+This paper reports the first experimental demonstration of an optical 'carpet' cloak that uses dielectric materials to conceal an object placed under a curved reflecting surface, making the object appear as a flat reflecting surface. The cloak is designed using quasi-conformal mapping and fabricated as a 2D sub-wavelength hole lattice with varying density.
