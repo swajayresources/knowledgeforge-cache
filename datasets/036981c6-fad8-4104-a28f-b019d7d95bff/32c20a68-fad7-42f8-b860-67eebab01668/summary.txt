@@ -1,0 +1,1 @@
+This paper describes the design and implementation of an automated dual horn-reflector microwave absorber measurement system that can obtain the complex permittivity and permeability of materials across a wide frequency band from 12.6 to 18.0 GHz with an accuracy of 5-10%.
