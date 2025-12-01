@@ -1,12 +1,9 @@
 [
-  "Umbra is the second most popular privacy-enhancing technology used on Ethereum and its layer-2 systems after the AZTEC protocol, with 413 daily users versus 1866 daily users on March 20th, 2023.",
-  "At the time of writing, Umbra had facilitated the transfer of more than 155 million U.S. dollars worth of crypto assets (ether and ERC20s) across all chains where it is deployed.",
-  "The authors could link the real recipients of 48.5%, 25.8%, 65.7%, and 52.6% of all Umbra transactions on the Ethereum mainnet, Polygon, Arbitrum, and Optimism networks, respectively, using their identified heuristics.",
-  "The authors suggest that stealth wallet providers and developers should prevent users from reusing addresses and withdrawing funds from a stealth address to a registered address, as these behaviors enable the identified heuristics.",
-  "Umbra became more popular on Layer2s, such as Arbitrum, Optimism, or Polygon, than on the Ethereum mainnet, with a sharp increase in usage after the previous most popular on-chain privacy-enhancing technology, i.e., Tornado Cash, was banned in the U.S.",
-  "Stealth addresses provide two main privacy notions: recipient anonymity, where an observer cannot uncover the identity of a recipient better than randomly guessing, and recipient unlinkability, where it is indistinguishable whether two stealth payments are sent to the same user.",
-  "Umbra uses a dual-key stealth address protocol, where recipients register a viewing and a spending public key. Senders can then generate a pseudorandom stealth address and send assets to it, while only the recipient can detect and spend the funds at the stealth address.",
-  "The four heuristics identified by the authors that can reduce Umbra's privacy guarantees are: 1) Registrant address reuse, 2) Same sender and receiver, 3) Collector pattern (multiple stealth payments to a single withdrawal address), and 4) Unique max priority fee per gas.",
-  "The authors' goal was to identify erroneous idioms of use that allow blockchain analysts to reduce the theoretical recipient anonymity and unlinkability guarantees provided by the Umbra stealth address cryptographic scheme.",
-  "The authors suggest that future work should investigate the interplay between Ethereum's cross-chain ecosystem and the deployed privacy-enhancing technologies on these chains, as address reuse across different networks could lead to cross-chain heuristics that further decrease the recipient anonymity guarantees of Umbra."
+  "Umbra has facilitated the transfer of more than $155 million worth of crypto assets across all chains where it is deployed.",
+  "Umbra is the second most popular privacy-enhancing technology used on Ethereum and its layer-2 systems after the AZTEC protocol.",
+  "The authors collected transaction data for stealth key registrations, Umbra sends and withdraws, and registrant, sender, and withdrawer transactions across the Ethereum mainnet, Polygon, Arbitrum, and Optimism networks.",
+  "The authors find that their heuristics can link the real recipients of 48.5%, 25.8%, 65.7%, and 52.6% of all Umbra transactions on the Ethereum mainnet, Polygon, Arbitrum, and Optimism networks, respectively.",
+  "The 'collector pattern' heuristic, where users withdraw multiple incoming stealth payments to a single address, greatly reduces the Shannon entropy of stealth payment recipients, from 13.36 bits to 8.86 bits on the Arbitrum network.",
+  "Umbra became more popular on Layer-2 solutions like Arbitrum, Optimism, and Polygon than on the Ethereum mainnet after the previous most popular on-chain privacy-enhancing technology, Tornado Cash, was banned in the U.S.",
+  "As of July 2023, there are nearly 70,000 registered users in the stealth key registries of Umbra across all chains."
 ]
