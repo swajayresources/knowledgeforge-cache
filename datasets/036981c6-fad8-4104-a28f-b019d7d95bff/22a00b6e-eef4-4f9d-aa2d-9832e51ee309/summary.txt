@@ -1,0 +1,1 @@
+This paper presents a new strategy for simultaneous acoustic and electromagnetic invisibility, known as multi-cloak invisibility, which combines four conventional cloaking methods to create a double-cloaking structure that can hide objects from both acoustic and electromagnetic waves.
