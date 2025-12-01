@@ -1,18 +1,16 @@
 [
   "On-shell methods",
   "Feynman diagrams",
-  "Higher-order scattering",
   "Electromagnetic scattering",
   "Gravitational scattering",
   "Mixed electromagnetic-gravitational scattering",
-  "Discontinuity",
-  "Two-photon cut",
-  "Effective potential",
-  "Double copy theorem",
-  "Graviton-photon intermediate state",
-  "Two-photon intermediate state",
-  "Gauge invariance",
-  "Unitarity",
   "Long-range effects",
-  "Nonanalytic terms"
+  "Nonanalytic terms",
+  "Double copy theorem",
+  "Discontinuity",
+  "Effective potential",
+  "Angular average integrals",
+  "Gauge invariance",
+  "Physical amplitudes",
+  "Streamlined calculation"
 ]
