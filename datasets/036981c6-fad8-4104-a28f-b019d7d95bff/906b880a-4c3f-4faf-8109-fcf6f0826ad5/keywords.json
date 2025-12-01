@@ -1,0 +1,22 @@
+[
+  "PSMA-PET/CT",
+  "salvage radiotherapy",
+  "prostate cancer",
+  "radiomics",
+  "biochemical recurrence",
+  "C-index",
+  "Kaplan-Meier analysis",
+  "nested cross-validation",
+  "Cox proportional hazard model",
+  "feature reduction",
+  "mean CT intensity",
+  "Hounsfield units",
+  "decision curve analysis",
+  "net reclassification improvement",
+  "time-dependent ROC",
+  "clinical net benefit",
+  "ISUP grade",
+  "initial PSA",
+  "BCR-free survival",
+  "multicenter study"
+]
