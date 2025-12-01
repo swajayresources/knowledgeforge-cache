@@ -1,0 +1,1 @@
+This paper conducts a numerical simulation study on the radar cross section (RCS) characteristics of variable-sweep wing aircraft. It uses physical optics and equivalent currents methods to analyze how the sweep angle of the wing leading edge impacts the aircraft's RCS and detection probability.
