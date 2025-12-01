@@ -1,0 +1,7 @@
+[
+  "The computational model is based on a finite element technique using the Galerkin variant of the method of moments.",
+  "The expansion and weighting functions are piecewise linear, relative to a solid element with eight nodes.",
+  "The model is fully three-dimensional and can account for the presence of a thin, perfectly conducting enclosure.",
+  "The model can be used to analyze the transient electromagnetic field coupling into metallic cavities or enclosures.",
+  "The paper does not present specific numerical results or findings, but focuses on describing the computational approach and its capabilities."
+]
