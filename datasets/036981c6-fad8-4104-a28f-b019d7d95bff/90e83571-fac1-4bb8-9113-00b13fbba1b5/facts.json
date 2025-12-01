@@ -1,0 +1,12 @@
+[
+  "The paper demonstrates that on-shell methods can simplify the calculation of higher-order electromagnetic, gravitational, and mixed electromagnetic-gravitational scattering effects.",
+  "In the mixed electromagnetic-gravitational scattering case, the on-shell approach reduces the calculation of the two-photon cut discontinuity to evaluating just two terms, compared to 20 individual Feynman diagrams.",
+  "The effective potential for mixed electromagnetic-gravitational scattering has the form Vgrav-em(r) = (G\u03b1/2r^2)(Zm_A + Zm_B) + (3G\u03b1h-bar/\u03c0r^3)(ZA + ZB).",
+  "The double copy theorem allows the gravitational Compton amplitude to be written as a simple product of the ordinary Compton amplitude multiplied by a kinematic factor.",
+  "The mixed electromagnetic-gravitational scattering case involves contributions from both graviton-photon intermediate states and two-photon intermediate states, requiring the evaluation of 20 Feynman diagrams.",
+  "The purely electromagnetic and gravitational cases only require evaluating 5 and 11 Feynman diagrams, respectively.",
+  "On-shell methods avoid the need to include unphysical ghost terms required in the Feynman diagram approach.",
+  "On-shell calculations only involve 2D solid angle integrations rather than the 4D loop integrals required in the Feynman diagram approach.",
+  "The paper shows that on-shell methods can reproduce previous results obtained through more tedious diagrammatic evaluations.",
+  "The authors demonstrate that on-shell techniques provide a streamlined route to evaluating higher-order nonanalytic terms and determining long-range behavior."
+]
