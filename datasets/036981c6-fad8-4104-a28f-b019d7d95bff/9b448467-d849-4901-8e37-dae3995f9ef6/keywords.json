@@ -1,18 +1,17 @@
 [
-  "Electromagnetic inverse medium scattering",
+  "Inverse medium scattering",
+  "Time-harmonic Maxwell equations",
   "Regularized Newton methods",
   "Spectral preconditioning",
+  "Lanczos method",
   "Lepski-type stopping rule",
-  "Iteratively regularized Gauss-Newton method",
+  "Ill-conditioned systems",
+  "Tikhonov regularization",
   "Levenberg-Marquardt algorithm",
-  "Lanczos' method",
-  "Ill-conditioned linear systems",
+  "Iteratively regularized Gauss-Newton method",
+  "Newton-CG method",
+  "Landweber iteration",
+  "Electromagnetic Lippmann-Schwinger equation",
   "Propagated data noise error",
-  "Time-harmonic Maxwell equations",
-  "Refractive index reconstruction",
-  "Inverse problems",
-  "Nonlinear ill-posed problems",
-  "Iterative regularization methods",
-  "Discrepancy principle",
-  "Work-precision diagrams"
+  "Discrepancy principle"
 ]
