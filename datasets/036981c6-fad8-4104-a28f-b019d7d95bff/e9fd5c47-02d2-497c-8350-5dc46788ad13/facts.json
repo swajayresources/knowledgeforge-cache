@@ -1,0 +1,20 @@
+[
+  "ca Abstract avoid repetitive paths (Xu, Tremblay, and Verbrugge 2014; Al Enezi and Verbrugge 2020), and reinforcement learning Guardpatrolbehavioriscentraltotheimmersionandstrate- foradaptivemulti-agentbehaviors(Chia2022)",
+  "Guardpatrolbehavioristhereforeimportant dicatethatourframeworkachievesstrongperformanceand tothestealthexperience,directlyinfluencingperceivedchal- enables easy incorporation of common stealth mechanics lenge, strategic depth, and narrative immersion (Isla 2005; suchasdistractions,decoys,andenvironmentalinteractions, AlEneziandVerbrugge2020)",
+  "Previousanalysisconfirmsthatinmany stealth titles, AI agents stick to predictable patterns with \u2022 Akernel-filtereddecisionprocessenablingeffectivebal- minimal response to player actions (Isla 2013)",
+  "proaches,includingprobabilisticmodelstotrackplayerpo- sitions(Isla2006,2013;HladkyandBulitko2008;AlEnezi \u2022 Straightforward extensions to incorporate common and Verbrugge 2021), dynamic coverage techniques that stealthgamemechanicsinthesameunifiedframework",
+  "5202 guA 52 ]IA",
+  "sc[ 1v72581",
+  "8052:viXra Background encemapshavealsobeencombinedwithmachinelearning to analyze game states in StarCraft (Sa\u00b4nchez-Ruiz and Mi- GuardBehaviorinGames randa2017)",
+  "Morerecently,PFsareutilizedthroughmulti- Guardbehaviorshapesrealism,difficulty,andimmersionin agent reinforcement learning for generative subgoal orien- stealthgames(AlEneziandVerbrugge2023a,b)",
+  "saries,weakeninglong-termengagement(Isla2005,2013)",
+  "Isla\u2019s (2006, 2013) occu- Inthissection,weintroduceourlevelabstractions,thecom- pancy maps guide search by maintaining a probability dis- posite potential fields, kernel-filtered decision process, and tribution over the player\u2019s likely positions, and Hladky\u00b4 and adaptiveweightsthattogethergovernguardnavigation",
+  "Bulitko (2008) employ probabilistic inference to antici- patefutureplayermovements",
+  "Environmentalskeletonssup- EnvironmentAbstractions portcoordinatedmulti-agentsearchwhentheplayerishid- OccupancyGrid Wediscretizethelevelintoanr\u00d7car- den (Al Enezi and Verbrugge 2021)",
+  "Both player and guards occupy ex- brugge\u2019s(2020,2023a)\u201cstaleness\u201dmetric\u2014whereeachre- ij actlyonecellatatime",
+  "ative optimization for guard placement (Xu, Tremblay, and Verbrugge 2014), behavior trees for context-aware transi- Partition Nodes We build a graph G = (V,E) from tions, and AI personalities for varied NPC traits (Cerna\u00b4k Unity\u2019s NavMesh triangulation: each triangle\u2019s centroid is and Lianoudakis 2021)",
+  "Deep reinforcement learning coor- a node v \u2208 V, and edges connect nodes sharing a mesh dinates complexambushes (Chia 2022),but its policies are edge",
+  "We propose a generic, fully explain- putationallyheavyoroverlyspecialized,dynamiccoverage able, training-free framework that integrates global knowl- sacrifices pursuit efficiency, and learned methods lack in- edge and local information via Composite Potential Fields, terpretability, complicating design",
+  "quiresonlyahandfulofdecayandweightparameters\u2014nore- training\u2014tosmoothlyadaptacrossbothoccupancy-gridand To mitigate these limitations, we propose a generic, ex- NavMesh-partition abstractions",
+  "Our results in- trollingguards"
+]
