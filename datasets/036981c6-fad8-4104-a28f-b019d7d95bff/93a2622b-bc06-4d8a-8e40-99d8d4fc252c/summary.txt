@@ -1,0 +1,1 @@
+This paper presents the development of a finite element method for simulating electromagnetic wave propagation and scattering in 3D problems. It covers the formulation of vector finite elements, optimization and parallelization techniques, and the derivation of improved absorbing boundary conditions for truncating the computational domain.
