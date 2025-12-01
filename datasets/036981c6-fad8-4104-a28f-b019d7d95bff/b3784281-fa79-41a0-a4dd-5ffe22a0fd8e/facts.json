@@ -1,0 +1,17 @@
+[
+  "The paper designed a radar absorbing material (RAM) consisting of a Jerusalem cross unit cell based periodic structure bonded with FR4 material, with a total thickness of 6.25 mm.",
+  "The proposed RAM showed more than -10 dB reflection loss from 4 to 18 GHz of frequencies.",
+  "Three different rivet configurations were studied: (a) rivet installed at the center of a unit cell (RAS C1), (b) rivet installed between the gap of two unit cells (RAS C2), and (c) rivet installed at the center of four unit cells (RAS C3).",
+  "The paper studied three cases with varying the percentage of rivet heads area to RAS surface area: (a) 9.8%, (b) 4.4%, and (c) 2.5%.",
+  "The results showed that with a reduction in rivet surface area, the degradation in RCS performance decreased, with the 2.5% case showing a maximum of 3 dB degradation.",
+  "The paper evaluated the RCS performance of air intake ducts with lengths of 16.67, 33.33, 66.67, 133.34, 200, and 266.67 cm.",
+  "The results showed that an increase in duct length led to an improvement in RCS performance for all the RAS configurations studied.",
+  "The open-source aircraft CAD model with the RAS air intake duct provided approximately 10 dB RCS reduction from 4 to 18 GHz of frequencies compared to the non-RAS air intake duct.",
+  "The RAS C1 configuration, where the rivet was installed at the center of a unit cell, showed the worst RCS performance when installed on the aircraft.",
+  "For the open-source aircraft CAD model, the impact of rivets on the RCS performance was found to be negligible.",
+  "The paper identified further study on different shapes and sizes of rivets, as well as their patterns installed on the air intake duct, as an open research area.",
+  "The paper also mentioned that the impact of rivets on a low observable aircraft will be studied in the future.",
+  "The key takeaway is that the location and percentage of rivets can significantly degrade the RCS performance of radar absorbing air intake ducts, and this impact needs to be carefully considered in the design of low-observable aircraft.",
+  "The paper used full-wave simulation techniques, including Floquet port analysis and shooting and bouncing rays, to evaluate the RCS performance of the RAM and air intake ducts.",
+  "The proposed RAM design showed good RCS performance even at oblique angles, with the flat panel RAS sample showing mono-static RCS reduction of 0 dB and 0 dB at normal incidence for horizontal and vertical polarizations, respectively."
+]
