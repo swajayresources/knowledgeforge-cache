@@ -1,0 +1,17 @@
+[
+  "The designed MIM structure is composed of a five-layer stack of Silver - Fr4 - Silver - Gallium Arsenide - Silver.",
+  "The thickness of each silver layer is 0.1 \u03bcm, the Fr4 dielectric layer is 0.2 \u03bcm, and the GaAs dielectric layer is 0.1 \u03bcm.",
+  "The periodic dimensions of the unit cell are Sx = Sy = 2.4 \u03bcm, and the radius of the silver disk layer is 0.3 \u03bcm.",
+  "The designed MIM structure exhibits three absorption peaks at wavelengths of 1.3 \u03bcm, 1.6 \u03bcm, and 6.7 \u03bcm.",
+  "The absorptivity of the first two peaks at 1.3 \u03bcm and 1.6 \u03bcm reached 98% and 96%, respectively.",
+  "The third absorption peak at 6.7 \u03bcm also reached an absorptivity of 96%.",
+  "The broadband absorption in the 1-2 \u03bcm range exceeded 80% due to multiple excitations of surface plasmon.",
+  "The simultaneous excitation of electric and magnetic fields at the silver-dielectric interface led to the high absorption at the 6.7 \u03bcm wavelength.",
+  "The surface current distribution inside the MIM structure exhibits an inductor-capacitor (LC) like behavior, contributing to the enhanced absorption.",
+  "The far-field directivity analysis shows 0% backward scattering at the resonant wavelengths, indicating forward scattering of electromagnetic radiation.",
+  "The use of GaAs as the dielectric material instead of MgF2 improves the optical transparency and reduces the possibility of deterioration due to moisture exposure.",
+  "The designed MIM structure can effectively suppress the scattering of IR laser beams and reduce heat waves from the surface, fulfilling the requirements of IR stealth technology.",
+  "The numerical simulations were performed using the Finite-Difference-Time-Domain (FDTD) method in the CST microwave studio.",
+  "The plasmonic-based metamaterial with the MIM structure was designed for applications in the field of IR stealth technology.",
+  "The simultaneous excitation of electric and magnetic fields at the silver-dielectric interface led to a high value of absorptivity with minimal backward scattering at the resonant wavelength of 6.7 \u03bcm."
+]
