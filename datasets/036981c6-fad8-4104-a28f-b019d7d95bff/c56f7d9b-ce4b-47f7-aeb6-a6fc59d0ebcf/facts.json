@@ -1,0 +1,22 @@
+[
+  "The hybrid invisibility cloak integrates transparent metasurfaces and zero-index materials to function in transmission geometry.",
+  "The cloaking shell consists of a double-layer: an outer transparent metasurface and an inner zero-index material layer.",
+  "The zero-index material is realized by dielectric photonic crystals with Dirac cone dispersions at 10.2 GHz.",
+  "The metasurface is designed with ABA sandwich structures providing a linear phase shift covering [0, 2\u03c0) with high transmittance (~87%).",
+  "The experimental cloak was rhombic shaped with a side length of 234.3 mm, enclosing a metallic rhombus of 108 mm side length.",
+  "A \u03bb/4 (wavelength quarter) distance of 10.2 GHz wave in free space separates the metallic object and the photonic crystal ZIM.",
+  "Finite element simulations show near-perfect cloaking with scattering reduced to less than 1% compared to uncloaked cases.",
+  "The cloak works for transverse electric (TE) polarization in the microwave frequency range.",
+  "Far-field radiation patterns demonstrate significant suppression of scattering in all directions with the cloak.",
+  "The metasurface imposes a phase change \u0394\u03c6 to match the incident wave phase to the zero-index material surface phase.",
+  "The zero-index material tunnels electromagnetic waves around the hidden region, preserving wavefront and phase.",
+  "The cloak thickness can be reduced to about 1% of the cloaked region radius, enabling ultrathin cloaks.",
+  "The cloaking effect is limited to a narrow frequency bandwidth due to phase continuity requirements.",
+  "The cloak is designed for a fixed incident angle with small angular tolerance.",
+  "The hybrid cloak principle can be extended to other zero-index materials such as metallic metamaterials and waveguides at cut-off frequencies.",
+  "The metasurface and zero-index material together overcome the reflection limitation of zero-index materials in free space.",
+  "The experimental setup used a parallel plate waveguide and a horn antenna to generate TE-polarized plane waves.",
+  "The photonic crystal ZIM consists of alumina cylinders with relative permittivity 8.1 and radius 3.95 mm arranged in a square lattice with 17.46 mm lattice constant.",
+  "The metasurface is ultrathin and modeled as an anisotropic effective medium with full phase tuning capability.",
+  "The hybrid cloak avoids the need for spatially varying extreme material parameters required by transformation optics cloaks."
+]
