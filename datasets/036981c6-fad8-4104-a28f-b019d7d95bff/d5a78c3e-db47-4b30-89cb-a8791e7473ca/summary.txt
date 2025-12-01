@@ -1,0 +1,1 @@
+This paper describes the development of composite materials for electromagnetic interference (EMI) shielding in aerospace applications. The materials include fiber-reinforced reactive nano-epoxy composites, metal-matrix/hollow-ceramic-sphere composites, and piezoelectrically enhanced photocathodes for improved electron emission.
