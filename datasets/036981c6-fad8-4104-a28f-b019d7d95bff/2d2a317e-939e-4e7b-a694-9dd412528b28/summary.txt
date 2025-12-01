@@ -1,0 +1,1 @@
+This paper presents a theory for electromagnetic wave scattering by small bodies, both for a single body and for many small bodies. It derives a Fredholm second-kind integral equation for the scattered field and shows how to solve it asymptotically. The paper also discusses how to create materials with a desired refraction coefficient by embedding small particles in a medium.
