@@ -1,0 +1,17 @@
+[
+  "The paper considers the problem of electromagnetic radiation and scattering from perfectly conducting bodies of revolution of arbitrary shape.",
+  "The mathematical formulation is an integro-differential equation, obtained from the potential integrals plus boundary conditions at the body.",
+  "The solution is effected by the method of moments, and the results are expressed in terms of generalized network parameters.",
+  "A computer program for computing the generalized impedance matrix of an arbitrary body of revolution is included.",
+  "The expansion functions chosen for the moment solutions are harmonic in the azimuthal angle and subsectional in the contour length variable.",
+  "Due to rotational symmetry, the solution becomes a Fourier series in the azimuthal angle, with each term uncoupled to every other term.",
+  "The paper presents computations for radiation from apertures and plane-wave scattering from a conducting sphere and a cone-sphere.",
+  "The impedance elements, currents, radiation patterns, and scattering patterns for the conducting sphere are computed both from the general program and the classical eigenfunction solution, showing good agreement.",
+  "The cone-sphere example illustrates the application of the general program to problems not solvable by classical methods.",
+  "The matrix method allows for efficient computation of the behavior of a conducting body for arbitrary excitation, by inverting the generalized impedance matrix.",
+  "The paper uses numerical integration techniques, approximating the triangle functions by piecewise constant and linear functions, to evaluate the impedance matrix elements.",
+  "The radiation field is computed using a linear functional of the current, with the measurement matrix derived from the excitation matrix using reciprocity.",
+  "The Fourier series expansion in the azimuthal angle decouples the problem into a set of independent modes, which can be solved separately.",
+  "The subsectional triangle functions used for the current expansion provide a piecewise-linear approximation that converges about twice as fast as a step approximation.",
+  "The paper demonstrates the advantages of the matrix method in terms of computational efficiency and the ability to handle arbitrary body shapes."
+]
