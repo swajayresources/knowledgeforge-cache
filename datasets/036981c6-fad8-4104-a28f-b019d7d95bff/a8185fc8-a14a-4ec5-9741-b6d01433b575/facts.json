@@ -1,0 +1,16 @@
+[
+  "The program consists of three major phases: Basic Materials Development and Characterization, Development and Characterization of RAM System, and Development and Fabrication of Prototype RAM Composite Parts.",
+  "The study focuses on the development of a chemically reacted aluminum phosphate (AlPO4) ceramic matrix with thermal expansion compatibility with silica reinforcement.",
+  "The resulting composite materials exhibit desirable electrical properties, thermal stability, and mechanical properties suitable for high-temperature CA-RAM applications.",
+  "The upper temperature limit for long-term service of current radar absorber materials is approximately 600\u00b0F.",
+  "The target temperature for the new CA-RAM materials is 1600\u00b0F.",
+  "The basic approach for developing the high-temperature composite materials is the development of fiber-reinforced ceramic composites based on a chemically reacted ceramic matrix.",
+  "The unique feature of the ortho aluminum phosphate material is that composites can be prepared in a manner similar to thermosetting plastic materials, and it exhibits a low dielectric constant and loss tangent.",
+  "The undesirable feature of the ortho aluminum phosphate material is crystalline inversion, which occurs at various temperatures and leads to internal stress concentrations and degradation of the reinforcement.",
+  "Lithium-aluminum-silicate additives were found to be the most successful class of materials in alleviating the crystalline inversion problem.",
+  "The five matrices selected for further evaluation were AlPO4, AlPO4 + 25% Silica, AlPO4 + 35% Petalite, AlPO4 + 35% Spodumene, and AlPO4 + 50% Spodumene.",
+  "Physical, mechanical, and electrical properties were measured on silica fabric-reinforced composite specimens, including density, microstructure, porosity, room temperature flexural strength and modulus, and room temperature flexural strength and modulus after exposure to 1600\u00b0F for 10 hours.",
+  "All panels cracked during the acoustical vibration testing at 1600\u00b0F, but it appeared that a large factor contributing to the cracking was due to stress caused by expansion of the metal mounting frame.",
+  "The study found that extended aging at 1600\u00b0F had little effect on the physical and electrical properties of the material, but the mechanical properties at ambient temperature were considerably lower after the 1600\u00b0F exposure.",
+  "The reduction in mechanical properties is attributed to degradation of the reinforcement and occurs within one hour after exposure at 1600\u00b0F, but stabilizes and remains constant throughout the remaining 200-hour duration."
+]
