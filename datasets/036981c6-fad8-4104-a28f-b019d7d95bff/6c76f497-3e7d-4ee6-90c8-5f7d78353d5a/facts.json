@@ -1,0 +1,17 @@
+[
+  "Four, eight-ply nanocomposite panels were fabricated from Cycom 5575-2 glass with multi-walled carbon nanotube (MWNT) plies.",
+  "The control panel had eight plies of glass fabric reinforced composite only (8G).",
+  "The other three panels had differences in the placement of layers containing CNTs: 4G/4CNT, 2CNT/4G/2CNT, and (G/CNT)4.",
+  "The average EMI SE of type 2024 aluminum and type 7075 aluminum for the frequency range of 2 GHz \u2013 18 GHz were 112.6 dB and 113.46 dB, respectively.",
+  "In a previous study, EMI SE values for four distinct nanocomposites containing nickel nanostrands (NS) were measured, with the averaged attenuation prior to testing ranging from 55 dB to 73 dB.",
+  "The EMI SE values for the MWNT nanocomposites prior to testing ranged from 0.33 dB for 8G to 87.5 dB for 4G/4CNT and 2CNT/4G/2CNT.",
+  "The final EMI SE values for the MWNT nanocomposites after testing ranged from 1.01 dB for 8G to 83.49 dB for 2CNT/4G/2CNT.",
+  "The thermal cycling consisted of 17,500 cycles between +60\u00b0C and -60\u00b0C, with each cycle having a total soak time of 20 seconds.",
+  "The failure mechanisms were consistent for each MWNT nanocomposite configuration, involving the initial formation of transverse fiber matrix cracks, delamination of CNT plies, and progression of transverse strand debonding.",
+  "The multi-walled CNTs remained intact even after the ultimate failure of the nanocomposite panels.",
+  "The vertical glass features observed in the 8G specimen may have contributed to its relatively low EMI shielding performance.",
+  "The EMI shielding measurements were taken in the frequency range of 2 GHz to 18 GHz before testing, and 8.2 GHz to 12.4 GHz during and after testing.",
+  "The 2CNT/4G/2CNT configuration provided the best EMI shielding performance among the MWNT nanocomposites, which is comparable to the nickel nanostrands configuration from a previous study.",
+  "The EMI SE properties for all four MWNT panels experienced varying degrees of reduction after thermal cycling and/or monotonic tension testing.",
+  "The cost of launching systems into space is extremely high, ranging from $10,000/lb to $12,000/lb, motivating the need for weight/cost reduction while maintaining performance."
+]
