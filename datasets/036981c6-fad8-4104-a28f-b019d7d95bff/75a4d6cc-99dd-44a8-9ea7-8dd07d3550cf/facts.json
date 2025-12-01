@@ -1,0 +1,10 @@
+[
+  "The CMD-3 measurement of the e+e- -> pi+pi- cross section is in significant tension with the previous measurements by BaBar, KLOE, CMD-2, SND, and SND2k experiments.",
+  "The joint fit of the world data on the e+e- -> hadrons cross sections with unmodified experimental uncertainties gives a poor chi^2/n_dof of 2.18, indicating incompatibility between the experiments.",
+  "The authors scaled the experimental uncertainties following the PDG prescription to make the measurements compatible and obtain a consistent joint fit.",
+  "The authors' updated estimate of the leading-order hadronic contribution to the muon g-2 is ahad,LO(e+e-) = (696.2 \u00b1 2.9) x 10^-10.",
+  "This estimate is consistent with the results obtained by other authors using only pre-2021 e+e- data.",
+  "Including the authors' ahad,LO value, the Standard Model prediction for the muon g-2 is aSM_tot = (11 659 184 \u00b1 4) x 10^-10, which is 4.7 sigma smaller than the experimental value.",
+  "Excluding the CMD-3 pi+pi- data leads to an even lower Standard Model prediction that is 5 sigma smaller than the experimental value.",
+  "When the CMD-3 pi+pi- data is effectively the dominant input, the resulting Standard Model prediction is consistent with the experimental value at the ~1 sigma level."
+]
