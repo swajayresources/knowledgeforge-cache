@@ -1,0 +1,1 @@
+This paper investigates the electromagnetic interference (EMI) shielding properties of ternary composites made of NiZn ferrite, carbonyl iron, and carbon black dispersed in a paraffin wax matrix. The composites show wide absorption bandwidths and reasonable surface density, with a maximum shielding efficiency of 21.7 dB at 11.0 GHz for a 4 mm thick sample.
