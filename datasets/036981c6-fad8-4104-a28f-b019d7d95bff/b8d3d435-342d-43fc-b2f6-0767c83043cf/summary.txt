@@ -1,0 +1,1 @@
+This paper investigates the effect of turbulence on the dynamic radar cross section (RCS) of chaff clouds, which are used as electronic countermeasures against radar-guided missiles. The study uses computational fluid dynamics and electromagnetic simulations to analyze the impact of turbulence on the blooming and RCS of chaff clouds.
