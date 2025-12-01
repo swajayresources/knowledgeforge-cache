@@ -1,0 +1,17 @@
+[
+  "The pulse-gating system is shown to have a far superior system noise figure compared to the CW-nulling system.",
+  "The pulse-gating system has only slightly greater system loss due to the added complexity of the pulse modulating and range gating components.",
+  "The combined effect is that the pulse-gating technique can improve signal-to-noise ratio and increase the reliability of accurate RCS measurements.",
+  "The pulse-gating system reduces the effect of chamber clutter sources by time-separating the target area from the surrounding chamber.",
+  "Time domain measurements show the relative amplitudes of various chamber scattering sources.",
+  "For high RCS targets, the CW-nulling and pulse-gating systems perform equally well, but for low RCS targets the pulse-gating system produces more accurate RCS patterns.",
+  "The CW-nulling system fails to distinguish between target and clutter source returns when the target RCS is of the same order as chamber clutter.",
+  "The pulse-gating system has the flexibility to perform both fixed frequency RCS versus aspect angle measurements and new stepped frequency or time-domain measurements.",
+  "The Nakagami-Rice distribution function describes the probability distribution of the measured RCS, which approaches Rayleigh as the clutter cross section decreases.",
+  "Clutter sources that may remain in the pulse-gating system include the target support pedestal, absorber cones, and target/support pedestal interactions.",
+  "The system sensitivity equation used is: (Pt*G^2*\u03bb^2*\u03c3)/(4\u03c0^3*kTo*B*Fs*R^4), where Fs is the system noise figure.",
+  "The CW-nulling system illuminates the entire chamber and cancels out the background clutter, but cannot distinguish between target and clutter returns.",
+  "The pulse-gating system time-separates the target area from the surrounding chamber, eliminating the most significant clutter sources.",
+  "When a target is introduced into the chamber, the field distributions change from the empty chamber case, causing the CW-nulling system to no longer accurately cancel the background clutter.",
+  "The pulse-gating system's ability to time-separate the target from chamber clutter leads to more accurate RCS measurements, especially for low RCS targets."
+]
