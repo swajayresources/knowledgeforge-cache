@@ -1,0 +1,1 @@
+This paper provides a comprehensive review of sub-synchronous interactions (SSI) in wind-integrated power systems, including classification, challenges, and mitigation techniques. It proposes a new classification of SSI and discusses analysis and solution techniques, as well as practical incidents that have occurred due to SSI.
