@@ -1,9 +1,9 @@
 {
   "dataset_id": "036981c6-fad8-4104-a28f-b019d7d95bff",
   "total_papers": 990,
-  "completed": 110,
-  "failed": 880,
-  "success_rate": "11.1%",
+  "completed": 203,
+  "failed": 787,
+  "success_rate": "20.5%",
   "papers": [
     {
       "paper_id": "68f46956-1c44-4a93-a669-82d292f7b8b3",
@@ -80,10 +80,10 @@
     {
       "paper_id": "baffd072-c1bb-4836-9707-d8abcd5296e7",
       "title": "Composite Developments in Aircraft Structures \u2014 Part 4",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/baffd072-c1bb-4836-9707-d8abcd5296e7",
-      "processing_time": 73,
-      "error": null
+      "status": "failed",
+      "cache_url": null,
+      "processing_time": null,
+      "error": "Failed to fetch PDF from any source"
     },
     {
       "paper_id": "a2fe4182-d154-42d1-b790-d66ddc84c682",
@@ -128,10 +128,10 @@
     {
       "paper_id": "f7335534-b668-4b23-90ca-8cf16b7a8a5d",
       "title": "ACTIVE SHM AND IMPACT SENSING FOR COMPOSITE AEROSPACE STRUCTURES BASED ON THE TEMSAL TECHNOLOGY - DEMONSTRATION ON A GENERIC AIRCRAFT ENGINE CONTAINMENT SEGMENT",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f7335534-b668-4b23-90ca-8cf16b7a8a5d",
+      "processing_time": 52,
+      "error": null
     },
     {
       "paper_id": "1ddbdd83-4119-42d7-bf86-568497dc011d",
@@ -170,7 +170,7 @@
       "title": "Design optimization to improve the performance of the aircraft composite structures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/6f3238e6-68b8-479a-bf4a-4db7eb9445b0",
-      "processing_time": 60,
+      "processing_time": 41,
       "error": null
     },
     {
@@ -232,26 +232,26 @@
     {
       "paper_id": "62e4c56f-7b59-4402-aa9e-e4d662430ef5",
       "title": "Polarimetric radar cross section under SAR geometry",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/62e4c56f-7b59-4402-aa9e-e4d662430ef5",
+      "processing_time": 22,
+      "error": null
     },
     {
       "paper_id": "677a3359-1cff-4a95-aab0-e179910c8fe5",
       "title": "Radar Cross Section of a Half-Wave Dipole",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/677a3359-1cff-4a95-aab0-e179910c8fe5",
-      "processing_time": 69,
+      "processing_time": 58,
       "error": null
     },
     {
       "paper_id": "fdd72b90-c222-47f3-b100-4d044e736151",
       "title": "Active acoustic illusions for stealth and subterfuge",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/fdd72b90-c222-47f3-b100-4d044e736151",
+      "processing_time": 90,
+      "error": null
     },
     {
       "paper_id": "43b0662d-383d-471e-a8e1-f524b40cdd00",
@@ -272,17 +272,17 @@
     {
       "paper_id": "b4ead4d3-1c0f-4346-8423-6c7b818e3cbc",
       "title": "Stealth regulation: biological circuits with small RNA switches",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b4ead4d3-1c0f-4346-8423-6c7b818e3cbc",
+      "processing_time": 51,
+      "error": null
     },
     {
       "paper_id": "333bb54d-9831-486b-afac-e03869eac736",
       "title": "Analysis of the Types of Radar Absorbing Materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/333bb54d-9831-486b-afac-e03869eac736",
-      "processing_time": 56,
+      "processing_time": 24,
       "error": null
     },
     {
@@ -400,10 +400,10 @@
     {
       "paper_id": "0e66c96b-40dc-4486-9982-80c4ad65baae",
       "title": "Radar Cross Section Reduction Techniques using Metamaterials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0e66c96b-40dc-4486-9982-80c4ad65baae",
+      "processing_time": 64,
+      "error": null
     },
     {
       "paper_id": "edf05787-ab2d-4d89-966b-e6613bf20df3",
@@ -416,10 +416,10 @@
     {
       "paper_id": "b6ff2508-1573-46d4-a6bf-d1939f893d43",
       "title": "Ultra Wideband Radar Cross Section Reduction by Using Polarization Conversion Metasurfaces",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b6ff2508-1573-46d4-a6bf-d1939f893d43",
+      "processing_time": 18,
+      "error": null
     },
     {
       "paper_id": "de1ef53d-de09-4975-bab6-11171f13c831",
@@ -442,7 +442,7 @@
       "title": "Radar cross section of insects",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/27b901c8-2845-4f62-b616-6859901d0761",
-      "processing_time": 68,
+      "processing_time": 26,
       "error": null
     },
     {
@@ -488,18 +488,18 @@
     {
       "paper_id": "30c88696-0a12-490d-a300-aa8b02a9c9d3",
       "title": "A Novel Design of Microwave Absorbers Based on Multilayered Composite Materials for Reduction of Radar Cross Section",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/30c88696-0a12-490d-a300-aa8b02a9c9d3",
+      "processing_time": 88,
+      "error": null
     },
     {
       "paper_id": "8677e99e-958f-42f8-ac97-2f8745dd1644",
       "title": "The Role of Radar Cross-Section in Advanced Aircraft Stealth Design",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/8677e99e-958f-42f8-ac97-2f8745dd1644",
+      "processing_time": 55,
+      "error": null
     },
     {
       "paper_id": "7d849cfd-45fd-4b97-8c98-28bbcb97586d",
@@ -552,10 +552,10 @@
     {
       "paper_id": "b1036760-cb60-4c90-86aa-d086cc6aaa01",
       "title": "Ultra Wideband Radar Cross Section Reduction by using non-Resonant Unit Cells",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1036760-cb60-4c90-86aa-d086cc6aaa01",
+      "processing_time": 24,
+      "error": null
     },
     {
       "paper_id": "d65f973d-adf2-49bf-a844-46a991ea34c7",
@@ -570,7 +570,7 @@
       "title": "Radar Cross Section Reduction of Microstrip Patch Antenna using Metamaterial Techniques",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ec5e1866-e00e-4b24-bf4b-6bb547993c24",
-      "processing_time": 24,
+      "processing_time": 20,
       "error": null
     },
     {
@@ -632,10 +632,10 @@
     {
       "paper_id": "db2cbed8-470e-41a2-baf7-e70d29cdd750",
       "title": "ANALYSIS AND CONTROL OF ANTENNA RADAR CROSS- SECTION IN STEALTH TECHNOLOGY",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/db2cbed8-470e-41a2-baf7-e70d29cdd750",
+      "processing_time": 90,
+      "error": null
     },
     {
       "paper_id": "bfe4ed9a-91df-443e-9bab-5c699d9e05bd",
@@ -744,10 +744,10 @@
     {
       "paper_id": "b40179c2-6a12-4b28-a3af-2e6e648f654e",
       "title": "Analysis of Radar Cross Section Reduction of Fighter Aircraft by Means of Computer Simulation",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b40179c2-6a12-4b28-a3af-2e6e648f654e",
+      "processing_time": 38,
+      "error": null
     },
     {
       "paper_id": "4c86a797-542f-407f-9d24-16d3845312f6",
@@ -770,7 +770,7 @@
       "title": "Radar Cross-section Measurement Techniques",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/7bc06dbc-0666-44aa-a3cc-3f3db87eed0a",
-      "processing_time": 68,
+      "processing_time": 61,
       "error": null
     },
     {
@@ -800,10 +800,10 @@
     {
       "paper_id": "4ea56e01-3fc9-40e5-a8d7-b7937a07a685",
       "title": "Ultra-Broad Band Radar Cross Section Reduction of Waveguide Slot Antenna with Metamaterials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/4ea56e01-3fc9-40e5-a8d7-b7937a07a685",
+      "processing_time": 30,
+      "error": null
     },
     {
       "paper_id": "2ea24e76-b57d-415b-a80b-d031e858a7cf",
@@ -818,7 +818,7 @@
       "title": "Radar shielding experiments by composite bilayer magnetic systems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e32d33cd-37ed-4cdd-ba58-025f78d5f551",
-      "processing_time": 43,
+      "processing_time": 110,
       "error": null
     },
     {
@@ -848,17 +848,17 @@
     {
       "paper_id": "6b986d2c-863f-49ba-b0b5-fb189e9d14d4",
       "title": "Numerical Simulation on the Radar Cross Section of Variable-Sweep Wing Aircraft",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/6b986d2c-863f-49ba-b0b5-fb189e9d14d4",
+      "processing_time": 30,
+      "error": null
     },
     {
       "paper_id": "b3784281-fa79-41a0-a4dd-5ffe22a0fd8e",
       "title": "Impact of Fasteners on the Radar Cross-Section performance of Radar Absorbing Air Intake Duct",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b3784281-fa79-41a0-a4dd-5ffe22a0fd8e",
-      "processing_time": 35,
+      "processing_time": 39,
       "error": null
     },
     {
@@ -866,7 +866,7 @@
       "title": "Inverse Synthetic Aperture Radar, Radar Cross Section, and Iterative Smooth Reweighting $\\ell_1$-minimization",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ea702199-c439-4e4e-a973-22cfefc19cf2",
-      "processing_time": 26,
+      "processing_time": 21,
       "error": null
     },
     {
@@ -888,17 +888,17 @@
     {
       "paper_id": "81f8f1ee-5966-4673-9b91-1478124aa0d1",
       "title": "Radar Cross Section Modelling and Analysis of Static and Dynamic Targets using MATLAB",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81f8f1ee-5966-4673-9b91-1478124aa0d1",
+      "processing_time": 103,
+      "error": null
     },
     {
       "paper_id": "6fdfadcb-cd3e-4da6-be41-ee1218b1b933",
       "title": "Metamaterials and the homogenization of composite materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/6fdfadcb-cd3e-4da6-be41-ee1218b1b933",
-      "processing_time": 139,
+      "processing_time": 188,
       "error": null
     },
     {
@@ -914,7 +914,7 @@
       "title": "Sensitivity of Single-Pulse Radar Detection to Aircraft Pose Uncertainties",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f17947d8-9007-443d-ae62-9f7f29430f89",
-      "processing_time": 130,
+      "processing_time": 144,
       "error": null
     },
     {
@@ -946,7 +946,7 @@
       "title": "Intelligent Reflecting Surface-Aided Electromagnetic Stealth Against Radar Detection",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/4b3da82d-7dcc-4078-9db7-a0241dd6ef39",
-      "processing_time": 108,
+      "processing_time": 95,
       "error": null
     },
     {
@@ -978,7 +978,7 @@
       "title": "A New Intelligent Reflecting Surface-Aided Electromagnetic Stealth Strategy",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d7b0dfa4-738c-49d4-abb6-9ae85cab193d",
-      "processing_time": 21,
+      "processing_time": 50,
       "error": null
     },
     {
@@ -986,7 +986,7 @@
       "title": "Data-driven model validation for neutrino-nucleus cross section measurements",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/1211970a-bbee-4f6f-b2a9-6477d476771c",
-      "processing_time": 39,
+      "processing_time": 58,
       "error": null
     },
     {
@@ -1034,16 +1034,16 @@
       "title": "MORCIC: Model Order Reduction Techniques for Electromagnetic Models of Integrated Circuits",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f8bf5870-af12-4b09-a743-ebe1071bdc19",
-      "processing_time": 30,
+      "processing_time": 22,
       "error": null
     },
     {
       "paper_id": "97b145dc-a1f7-450c-9d40-c2bdc6d08312",
       "title": "Electromagnetic Interference (EMI): Measurement and Reduction Techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/97b145dc-a1f7-450c-9d40-c2bdc6d08312",
+      "processing_time": 38,
+      "error": null
     },
     {
       "paper_id": "55eea693-fa19-4c21-a994-95181f0874a5",
@@ -1082,16 +1082,16 @@
       "title": "Electromagnetic model order reduction for system-level modeling",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/da95680b-f5d9-487e-9b47-71116e6b8332",
-      "processing_time": 83,
+      "processing_time": 80,
       "error": null
     },
     {
       "paper_id": "791f4ae4-b147-4882-b721-87cf6f59f6c5",
       "title": "Signature of click chemistry in advanced techniques for cancer therapeutics",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/791f4ae4-b147-4882-b721-87cf6f59f6c5",
+      "processing_time": 66,
+      "error": null
     },
     {
       "paper_id": "e6f43894-751c-4429-b011-c2455450f8f7",
@@ -1114,7 +1114,7 @@
       "title": "Radar cross section of complex targets",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e1149d38-2c1f-4d0f-87f5-e047eb19503e",
-      "processing_time": 72,
+      "processing_time": 58,
       "error": null
     },
     {
@@ -1128,26 +1128,26 @@
     {
       "paper_id": "2fa37ae0-5f23-43a6-a979-2163c08dc88f",
       "title": "HEURISTIC TECHNIQUES FOR HANDWRITTEN SIGNATURE CLASSIFICATION",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2fa37ae0-5f23-43a6-a979-2163c08dc88f",
+      "processing_time": 42,
+      "error": null
     },
     {
       "paper_id": "370182d9-3031-4846-903b-863646d7dd29",
       "title": "Reduction Techniques for Survival Analysis",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/370182d9-3031-4846-903b-863646d7dd29",
-      "processing_time": 31,
+      "processing_time": 26,
       "error": null
     },
     {
       "paper_id": "a1e1cc12-b788-4af3-8435-679f0d277b0a",
       "title": "Phantom Pain Reduction by Non-ionizing Electromagnetic Treatment",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a1e1cc12-b788-4af3-8435-679f0d277b0a",
+      "processing_time": 50,
+      "error": null
     },
     {
       "paper_id": "56fe8953-253f-4a4e-8af4-a3b2d1326e0e",
@@ -1160,10 +1160,10 @@
     {
       "paper_id": "fcdfe3af-e857-444f-8c94-611dc8469205",
       "title": "Broadband Electromagnetic Scattering Analysis with Isogeometric  Boundary Element Method Accelerated by Frequency-Decoupling and  Model Order Reduction Techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/fcdfe3af-e857-444f-8c94-611dc8469205",
+      "processing_time": 34,
+      "error": null
     },
     {
       "paper_id": "24c878c6-9435-4066-8236-0b1ec1d52621",
@@ -1178,7 +1178,7 @@
       "title": "Dimension reduction for path signatures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/10b3a079-b0c5-4a65-888a-5cbd47f5434c",
-      "processing_time": 22,
+      "processing_time": 65,
       "error": null
     },
     {
@@ -1202,7 +1202,7 @@
       "title": "Terahertz radar cross section measurements",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3f0f2872-bb4e-4b71-bc22-4cf3165baf8c",
-      "processing_time": 61,
+      "processing_time": 58,
       "error": null
     },
     {
@@ -1240,10 +1240,10 @@
     {
       "paper_id": "f3956b26-4064-40cb-a4cf-e61008415664",
       "title": "Fabrication, characterization, and application of the water hyacinth biochar-polyvinyl alcohol composite as an advantageous sound absorber material",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f3956b26-4064-40cb-a4cf-e61008415664",
+      "processing_time": 87,
+      "error": null
     },
     {
       "paper_id": "fe3b0851-ffbb-4841-abea-ed1f54e445d0",
@@ -1288,10 +1288,10 @@
     {
       "paper_id": "d0197b5f-65f7-4a06-b624-5c7a654c2d82",
       "title": "Kinematic characteristics of stealth CME in three-dimensional space",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d0197b5f-65f7-4a06-b624-5c7a654c2d82",
+      "processing_time": 26,
+      "error": null
     },
     {
       "paper_id": "a66c6e2a-969e-457b-8a97-23cf9357c831",
@@ -1360,10 +1360,10 @@
     {
       "paper_id": "9666ad8f-2f09-4680-b751-86dbb950f7c2",
       "title": "Radar cross section of arbitrarily shaped bodies of revolution",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": ""
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9666ad8f-2f09-4680-b751-86dbb950f7c2",
+      "processing_time": 62,
+      "error": null
     },
     {
       "paper_id": "df432aaf-5fa0-4ce9-9b73-2a57233fa111",
@@ -1384,10 +1384,10 @@
     {
       "paper_id": "98ad27da-cf00-4707-8852-193d1a2b41f4",
       "title": "On The Study of Development of X Band Metamaterial Radar Absorber",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/98ad27da-cf00-4707-8852-193d1a2b41f4",
+      "processing_time": 26,
+      "error": null
     },
     {
       "paper_id": "71fa7c0e-6358-406a-9167-f48b14fc345d",
@@ -1504,10 +1504,10 @@
     {
       "paper_id": "3819918e-a143-4b27-b835-12a16807a5d8",
       "title": "Selective dual-band metamaterial perfect absorber for infrared stealth technology",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3819918e-a143-4b27-b835-12a16807a5d8",
+      "processing_time": 87,
+      "error": null
     },
     {
       "paper_id": "0dc9d027-6a91-4e6d-8da7-4f50908c8eb9",
@@ -1568,10 +1568,10 @@
     {
       "paper_id": "e82e2c05-7630-484a-aa6f-5a0369504ab5",
       "title": "Analysis of the Integration Applicability of Active Infrared\n                        Stealth Technology under Radar Stealth Design Constraints",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e82e2c05-7630-484a-aa6f-5a0369504ab5",
+      "processing_time": 23,
+      "error": null
     },
     {
       "paper_id": "65220e24-9102-4d0b-8195-1cb08572574c",
@@ -1648,33 +1648,33 @@
     {
       "paper_id": "c6465198-aac7-446d-a6bb-5d24312a3ad6",
       "title": "ANALYSIS AND CONTROL OF ANTENNA RADAR CROSS- SECTION IN STEALTH TECHNOLOGY",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6465198-aac7-446d-a6bb-5d24312a3ad6",
+      "processing_time": 87,
+      "error": null
     },
     {
       "paper_id": "b16a645d-fc65-4727-b2d1-6cb2045459a7",
       "title": "Faster Dual-Key Stealth Address for Blockchain-Based Internet of Things Systems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b16a645d-fc65-4727-b2d1-6cb2045459a7",
-      "processing_time": 31,
+      "processing_time": 78,
       "error": null
     },
     {
       "paper_id": "e0699617-6ccc-48aa-8324-5e7c35f3dec2",
       "title": "Metamaterials in electromagnetics",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e0699617-6ccc-48aa-8324-5e7c35f3dec2",
+      "processing_time": 28,
+      "error": null
     },
     {
       "paper_id": "9a57f298-1d3c-4c40-bd3c-69f68c6d36ed",
       "title": "A comparative study of semiconductor-based plasmonic metamaterials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9a57f298-1d3c-4c40-bd3c-69f68c6d36ed",
-      "processing_time": 21,
+      "processing_time": 19,
       "error": null
     },
     {
@@ -1688,10 +1688,10 @@
     {
       "paper_id": "14357ef6-5f18-489f-b9fe-cbfa1a128688",
       "title": "The Concept of Stealth UAV to Support Air Defense System in Indonesia\u2019s New Capital City",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/14357ef6-5f18-489f-b9fe-cbfa1a128688",
+      "processing_time": 141,
+      "error": null
     },
     {
       "paper_id": "a5024312-218d-46e2-aaaa-52b3c44261d9",
@@ -1706,7 +1706,7 @@
       "title": "Thermal Metamaterials for Temperature Maintenance: From Advances in Heat Conduction to Future Convection Prospects",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b5efc91a-63f5-46de-a945-e83cc3dfa544",
-      "processing_time": 111,
+      "processing_time": 126,
       "error": null
     },
     {
@@ -1714,7 +1714,7 @@
       "title": "BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91a0c28e-f5b2-4be1-939e-c803e55ddbc8",
-      "processing_time": 87,
+      "processing_time": 75,
       "error": null
     },
     {
@@ -1722,7 +1722,7 @@
       "title": "Anonymity Analysis of the Umbra Stealth Address Scheme on Ethereum",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/97f1abc1-d9c7-40d6-9819-d6fbed35384d",
-      "processing_time": 79,
+      "processing_time": 67,
       "error": null
     },
     {
@@ -1762,7 +1762,7 @@
       "title": "Radar cross section measurements",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/be05d123-cc9a-452e-bc0b-27d83fc85647",
-      "processing_time": 119,
+      "processing_time": 99,
       "error": null
     },
     {
@@ -1778,7 +1778,7 @@
       "title": "Measurements and analysis of the radar cross section of chaff dipoles",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/dc0cda7d-6063-4bd5-94f3-6758ab67af2b",
-      "processing_time": 111,
+      "processing_time": 74,
       "error": null
     },
     {
@@ -1816,10 +1816,10 @@
     {
       "paper_id": "23b3ffe5-2207-4081-ad7c-1c79a91a1c51",
       "title": "Radar Cross Section Reduction Techniques using Metamaterials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/23b3ffe5-2207-4081-ad7c-1c79a91a1c51",
+      "processing_time": 87,
+      "error": null
     },
     {
       "paper_id": "c5469244-a4e7-4402-8827-adf45f6ff826",
@@ -1842,7 +1842,7 @@
       "title": "Radar Cross Section of Chipless RFID tags and BER Performance",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9a2d2b79-dc0a-407b-92d0-d4378b886cff",
-      "processing_time": 22,
+      "processing_time": 94,
       "error": null
     },
     {
@@ -1850,7 +1850,7 @@
       "title": "Radar Cross Section of Moving Objects",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73d3b762-a469-41a8-b181-52e7f03d8805",
-      "processing_time": 58,
+      "processing_time": 34,
       "error": null
     },
     {
@@ -1858,7 +1858,7 @@
       "title": "Relationship between Radar Cross Section and Optical Magnitude based on Radar and Optical Simultaneous Observations of Faint Meteors",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d8c434ce-11e4-4666-9428-fcf77f69147c",
-      "processing_time": 50,
+      "processing_time": 49,
       "error": null
     },
     {
@@ -1922,23 +1922,23 @@
       "title": "A comment on the impact of CMD-3 $e^+e^- \\to \u03c0^+\u03c0^-$ cross section measurement on the SM $g_\u03bc-2$ value",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/75a4d6cc-99dd-44a8-9ea7-8dd07d3550cf",
-      "processing_time": 33,
+      "processing_time": 57,
       "error": null
     },
     {
       "paper_id": "b8d3d435-342d-43fc-b2f6-0767c83043cf",
       "title": "The Effect of Turbulence on Dynamic Radar Cross Section of Chaff Clouds",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b8d3d435-342d-43fc-b2f6-0767c83043cf",
+      "processing_time": 27,
+      "error": null
     },
     {
       "paper_id": "18bf76bb-14a2-4e55-9d87-f7e87bd58dd9",
       "title": "Measurement of the Multi-Neutron $\\bar\u03bd_\u03bc$ Charged Current Differential Cross Section at Low Available Energy on Hydrocarbon",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/18bf76bb-14a2-4e55-9d87-f7e87bd58dd9",
-      "processing_time": 15,
+      "processing_time": 44,
       "error": null
     },
     {
@@ -1978,7 +1978,7 @@
       "title": "Analytic Derivation of the minimal entanglement wedge cross section in the GMMG/GCFT flat holography",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ae5dde48-2f01-4e06-9128-28c78e2690e1",
-      "processing_time": 30,
+      "processing_time": 86,
       "error": null
     },
     {
@@ -1992,17 +1992,17 @@
     {
       "paper_id": "707eec62-0d69-4dc5-81a6-375c21aefe97",
       "title": "Cavity Radar Cross Section Prediction",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/707eec62-0d69-4dc5-81a6-375c21aefe97",
-      "processing_time": 67,
-      "error": null
+      "status": "failed",
+      "cache_url": null,
+      "processing_time": null,
+      "error": "Failed to extract text: None"
     },
     {
       "paper_id": "002b67b8-e667-431c-89a0-1329c8c26d6b",
       "title": "From radar cross section to electrostatics",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/002b67b8-e667-431c-89a0-1329c8c26d6b",
-      "processing_time": 59,
+      "processing_time": 36,
       "error": null
     },
     {
@@ -2010,7 +2010,7 @@
       "title": "Radar cross section of long wires",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/fe42d689-151e-4883-b9e1-4809c5847b64",
-      "processing_time": 65,
+      "processing_time": 80,
       "error": null
     },
     {
@@ -2042,7 +2042,7 @@
       "title": "Electrostatic Field Invisibility Cloak",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/396edd73-3964-48be-91e9-6e17fe991683",
-      "processing_time": 74,
+      "processing_time": 30,
       "error": null
     },
     {
@@ -2066,7 +2066,7 @@
       "title": "Cylindrical Invisibility Cloak with Simplified Material Parameters is Inherently Visible",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/67f49b8f-3ef2-4e0f-998d-14d7ee46982a",
-      "processing_time": 24,
+      "processing_time": 23,
       "error": null
     },
     {
@@ -2074,16 +2074,16 @@
       "title": "Electromagnetic cloak design with mono-objective and bi-objective optimizers: seeking the best tradeoff between protection and invisibility",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/823016b4-294f-47f6-bfd1-70a40dc2d5b5",
-      "processing_time": 32,
+      "processing_time": 72,
       "error": null
     },
     {
       "paper_id": "47f20004-fa46-431e-b885-a668724099a1",
       "title": "Broadband polygonal invisibility cloak for visible light",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/47f20004-fa46-431e-b885-a668724099a1",
+      "processing_time": 38,
+      "error": null
     },
     {
       "paper_id": "ea73eb58-d88a-4b8e-8cc5-67b3f9867e6f",
@@ -2098,7 +2098,7 @@
       "title": "Imaging cloaked objects: diffraction tomography of realistic invisibility devices",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/829d9a02-40cf-4639-96f0-8f3d3b54f9b1",
-      "processing_time": 39,
+      "processing_time": 82,
       "error": null
     },
     {
@@ -2112,18 +2112,18 @@
     {
       "paper_id": "6b473966-4464-4f0f-a513-157870176b5e",
       "title": "Invisibility cloak with image projection capability",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/6b473966-4464-4f0f-a513-157870176b5e",
+      "processing_time": 40,
+      "error": null
     },
     {
       "paper_id": "3095f54a-368e-4eec-bd50-9863a4f84a44",
       "title": "Detecting the existence of an invisibility cloak using temporal steering",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3095f54a-368e-4eec-bd50-9863a4f84a44",
+      "processing_time": 32,
+      "error": null
     },
     {
       "paper_id": "2174d2a5-062b-4396-894d-11c793273658",
@@ -2138,7 +2138,7 @@
       "title": "A rigorous analysis of high order electromagnetic invisibility cloaks",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0d190990-f440-4e4f-aa30-4e5faeb4619c",
-      "processing_time": 22,
+      "processing_time": 47,
       "error": null
     },
     {
@@ -2146,16 +2146,16 @@
       "title": "Demonstration of a Metamaterial Electromagnetic Cloak at Microwave Frequencies",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/56f4db4f-02be-4535-b848-c383a83fc394",
-      "processing_time": 30,
+      "processing_time": 23,
       "error": null
     },
     {
       "paper_id": "fac05734-b6a1-4bd5-b0bc-f73913a9ad5e",
       "title": "Low profile multi-layered invisibility carpet cloak using quantum dot core\u2013shell nanoparticles",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/fac05734-b6a1-4bd5-b0bc-f73913a9ad5e",
+      "processing_time": 117,
+      "error": null
     },
     {
       "paper_id": "ac2f3306-c932-48d4-b452-c84df0eb74e3",
@@ -2170,7 +2170,7 @@
       "title": "An Active Electromagnetic 3D Surface Cloak",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/357ccd7c-27ec-4c92-9c77-c91b33eb8fe6",
-      "processing_time": 112,
+      "processing_time": 80,
       "error": null
     },
     {
@@ -2178,7 +2178,7 @@
       "title": "An Electromagnetic GL Double Layered Cloak",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d0b28f87-492b-4628-abb9-6c893fcb8025",
-      "processing_time": 71,
+      "processing_time": 73,
       "error": null
     },
     {
@@ -2186,23 +2186,23 @@
       "title": "Multi cloak invisibility, a new strategy for simultaneous acoustic and electromagnetic invisibility",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/22a00b6e-eef4-4f9d-aa2d-9832e51ee309",
-      "processing_time": 61,
+      "processing_time": 90,
       "error": null
     },
     {
       "paper_id": "73fe3bfa-db0d-46ac-bf11-916696738461",
       "title": "The Boundary Conditions for Point Transformed Electromagnetic Invisibility Cloaks",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": ""
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/73fe3bfa-db0d-46ac-bf11-916696738461",
+      "processing_time": 111,
+      "error": null
     },
     {
       "paper_id": "d4e26751-1f5c-4c91-a8c9-9e9f693c8ac2",
       "title": "Invisibility Cloak Printed on a Photonic Chip",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d4e26751-1f5c-4c91-a8c9-9e9f693c8ac2",
-      "processing_time": 87,
+      "processing_time": 65,
       "error": null
     },
     {
@@ -2210,7 +2210,7 @@
       "title": "Electromagnetic interaction of arbitrary radial-dependent anisotropic spheres and improved invisibility for nonlinear-transformation-based cloaks",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5cc1de64-facd-43a4-afbe-4fc3abaeb4dc",
-      "processing_time": 79,
+      "processing_time": 58,
       "error": null
     },
     {
@@ -2218,7 +2218,7 @@
       "title": "Three-dimensional visible-light invisibility cloak",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bb0d4995-a5e4-47d1-81c8-0ecfd39f4b58",
-      "processing_time": 53,
+      "processing_time": 38,
       "error": null
     },
     {
@@ -2226,7 +2226,7 @@
       "title": "Cylindrical Invisibility Cloak with Simplified Material Parameters is Inherently Visible",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5112bb38-4ffe-4635-afd5-1ca0d23154f1",
-      "processing_time": 36,
+      "processing_time": 98,
       "error": null
     },
     {
@@ -2250,7 +2250,7 @@
       "title": "Extraordinary surface voltage effect in the invisibility cloak with an active device inside",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9ce85e9c-bfc0-4a3a-aa4d-f11b2778d1ca",
-      "processing_time": 29,
+      "processing_time": 19,
       "error": null
     },
     {
@@ -2258,7 +2258,7 @@
       "title": "Invisibility cloak inside a Luneburg lens: Experimental demonstration of birefrigent transformation optics devices",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/aa838890-469a-4014-9b6c-7f03712d91d4",
-      "processing_time": 21,
+      "processing_time": 27,
       "error": null
     },
     {
@@ -2288,10 +2288,10 @@
     {
       "paper_id": "082049d2-9fc0-453e-a318-08e07da79542",
       "title": "Multilayer acoustic invisibility cloak based on composite lattice",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/082049d2-9fc0-453e-a318-08e07da79542",
+      "processing_time": 35,
+      "error": null
     },
     {
       "paper_id": "f5857ef0-113e-47f5-a531-59ff916dc4ac",
@@ -2386,7 +2386,7 @@
       "title": "Decentralized Stealth Attacks on Cyber-Physical Systems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d2aaf15a-9928-4ecb-a56c-78158f53c73f",
-      "processing_time": 23,
+      "processing_time": 45,
       "error": null
     },
     {
@@ -2410,7 +2410,7 @@
       "title": "Risk Assessment for Nonlinear Cyber-Physical Systems under Stealth Attacks",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5c49f590-8485-4e2b-8556-bd1e9f90ed0c",
-      "processing_time": 50,
+      "processing_time": 83,
       "error": null
     },
     {
@@ -2418,7 +2418,7 @@
       "title": "Models of Animal Behavior as Active Particle Systems with Nonreciprocal Interactions",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bdfb49aa-6ffe-48be-a075-b45b3713b745",
-      "processing_time": 41,
+      "processing_time": 75,
       "error": null
     },
     {
@@ -2434,7 +2434,7 @@
       "title": "Bluff body uses deep-reinforcement-learning trained active flow control to achieve hydrodynamic stealth",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e",
-      "processing_time": 25,
+      "processing_time": 23,
       "error": null
     },
     {
@@ -2448,10 +2448,10 @@
     {
       "paper_id": "990a3aaa-376a-48aa-aeac-6d9950ea5f5f",
       "title": "Analysis of the Integration Applicability of Active Infrared\n                        Stealth Technology under Radar Stealth Design Constraints",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/990a3aaa-376a-48aa-aeac-6d9950ea5f5f",
+      "processing_time": 39,
+      "error": null
     },
     {
       "paper_id": "06fee742-cdcd-4ffa-94e2-76cf7e683680",
@@ -2466,7 +2466,7 @@
       "title": "Spin glass systems as collective active inference",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/40cbf5b9-adfd-4b51-a639-5478efe9dd77",
-      "processing_time": 33,
+      "processing_time": 31,
       "error": null
     },
     {
@@ -2474,7 +2474,7 @@
       "title": "How ISO C became unusable for operating systems development",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a6ec662f-8990-4f7c-b998-5d10f0f00580",
-      "processing_time": 58,
+      "processing_time": 91,
       "error": null
     },
     {
@@ -2522,7 +2522,7 @@
       "title": "Stealth Entropy Production in Active Field Theories near Ising Critical Points",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ba62971d-e4bc-489c-a412-346595188810",
-      "processing_time": 25,
+      "processing_time": 23,
       "error": null
     },
     {
@@ -2552,10 +2552,10 @@
     {
       "paper_id": "d5fe0eec-ec17-4ee1-84b7-8d70b912aba8",
       "title": "FAST ITERATIVE SOLUTION METHODS IN ELECTROMAGNETIC SCATTERING",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": ""
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d5fe0eec-ec17-4ee1-84b7-8d70b912aba8",
+      "processing_time": 81,
+      "error": null
     },
     {
       "paper_id": "a1da1165-ed7e-4299-8abd-f7d5b559d257",
@@ -2624,10 +2624,10 @@
     {
       "paper_id": "c8cc91af-1d69-4c02-91ea-223575446e3f",
       "title": "Radar absorbing properties of different size carbon nanotube reinforced polymer composites",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c8cc91af-1d69-4c02-91ea-223575446e3f",
+      "processing_time": 53,
+      "error": null
     },
     {
       "paper_id": "1d07e0d2-c4c3-4876-bfae-20e724fdcc4c",
@@ -2650,7 +2650,7 @@
       "title": "Dependence of microwave absorption properties on ferrite volume fraction in MnZn ferrite/rubber radar absorbing materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/baa20bda-6e34-4f10-91c0-168115d23599",
-      "processing_time": 21,
+      "processing_time": 27,
       "error": null
     },
     {
@@ -2658,7 +2658,7 @@
       "title": "Trends in radar absorbing materials technology",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/4512ac45-4031-4e3e-ae5c-32e47e413698",
-      "processing_time": 83,
+      "processing_time": 51,
       "error": null
     },
     {
@@ -2666,7 +2666,7 @@
       "title": "ANALYSIS OF FREQUENCY SELECTIVE SURFACES FOR RADAR ABSORBING MATERIALS",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/8644b442-24de-499f-9a1e-a68ee061b0cd",
-      "processing_time": 67,
+      "processing_time": 43,
       "error": null
     },
     {
@@ -2674,7 +2674,7 @@
       "title": "Research of Fiber Radar Absorbing Materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a8185fc8-a14a-4ec5-9741-b6d01433b575",
-      "processing_time": 94,
+      "processing_time": 59,
       "error": null
     },
     {
@@ -2696,10 +2696,10 @@
     {
       "paper_id": "32c20a68-fad7-42f8-b860-67eebab01668",
       "title": "Radar Absorbing Material (RAM)",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/32c20a68-fad7-42f8-b860-67eebab01668",
-      "processing_time": 75,
-      "error": null
+      "status": "failed",
+      "cache_url": null,
+      "processing_time": null,
+      "error": "Failed to extract text: None"
     },
     {
       "paper_id": "587d3045-3b76-4ba4-8e04-353839931cab",
@@ -2762,7 +2762,7 @@
       "title": "An approximation theorem in inverse electromagnetic scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/acf7da0d-f616-4693-b7bc-f1fe3dfa8586",
-      "processing_time": 55,
+      "processing_time": 32,
       "error": null
     },
     {
@@ -2800,10 +2800,10 @@
     {
       "paper_id": "cd2d5aaf-fdeb-40d1-ae00-afd79adbd9c2",
       "title": "Preparation and microwave absorbing property of carbon fiber/polyurethane radar absorbing coating",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/cd2d5aaf-fdeb-40d1-ae00-afd79adbd9c2",
+      "processing_time": 24,
+      "error": null
     },
     {
       "paper_id": "66e27e1b-8b30-4ed6-96c7-71a36cb2933e",
@@ -2882,7 +2882,7 @@
       "title": "Matrix methods in potential theory and electromagnetic scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9c1837b7-d980-48e5-9c76-117570712d5b",
-      "processing_time": 53,
+      "processing_time": 23,
       "error": null
     },
     {
@@ -2898,7 +2898,7 @@
       "title": "Acceleration techniques for regularized Newton methods applied to electromagnetic inverse medium scattering problems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9b448467-d849-4901-8e37-dae3995f9ef6",
-      "processing_time": 22,
+      "processing_time": 21,
       "error": null
     },
     {
@@ -2928,18 +2928,18 @@
     {
       "paper_id": "3ef0823f-692c-4480-acf5-c0e3b933534b",
       "title": "Surface integral methods for high\u2010frequency electromagnetic scattering",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/3ef0823f-692c-4480-acf5-c0e3b933534b",
-      "processing_time": 72,
-      "error": null
-    },
-    {
-      "paper_id": "11c2b214-afdf-4cc7-be4e-af9f1f4182f7",
-      "title": "Numerical methods in electromagnetic scattering theory",
       "status": "failed",
       "cache_url": null,
       "processing_time": null,
       "error": "Failed to extract text: None"
+    },
+    {
+      "paper_id": "11c2b214-afdf-4cc7-be4e-af9f1f4182f7",
+      "title": "Numerical methods in electromagnetic scattering theory",
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/11c2b214-afdf-4cc7-be4e-af9f1f4182f7",
+      "processing_time": 54,
+      "error": null
     },
     {
       "paper_id": "6648f359-b1fb-4dc7-944f-1bc0dcb9265d",
@@ -2962,7 +2962,7 @@
       "title": "The scattering of electromagnetic waves by a perfectly conducting infinite cylinder",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9548404b-ece2-44d7-9efd-2777aa0697fb",
-      "processing_time": 63,
+      "processing_time": 29,
       "error": null
     },
     {
@@ -3026,7 +3026,7 @@
       "title": "The use of polarization effects in electromagnetic inverse scattering problems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/182a94c6-2e45-4441-8496-7d89ff29fdbe",
-      "processing_time": 65,
+      "processing_time": 62,
       "error": null
     },
     {
@@ -3034,7 +3034,7 @@
       "title": "Direct and Inverse Computational Methods for Electromagnetic Scattering in Biological Diagnostics",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/144e9698-cbf9-440a-ae7e-64612d5e29f4",
-      "processing_time": 28,
+      "processing_time": 49,
       "error": null
     },
     {
@@ -3042,7 +3042,7 @@
       "title": "Acceleration techniques for regularized Newton methods applied to electromagnetic inverse medium scattering problems",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/654b0a52-74fe-4e64-8f69-37b6fdff0343",
-      "processing_time": 18,
+      "processing_time": 19,
       "error": null
     },
     {
@@ -3122,7 +3122,7 @@
       "title": "Lattice Boltzmann method for electromagnetic wave scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5b640ab6-5c8d-42fe-a20b-27a82643d036",
-      "processing_time": 29,
+      "processing_time": 44,
       "error": null
     },
     {
@@ -3130,7 +3130,7 @@
       "title": "Electromagnetic scattering from perturbed surfaces",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e4b29d72-8aef-49cb-b2d4-85cf5fa8021f",
-      "processing_time": 90,
+      "processing_time": 82,
       "error": null
     },
     {
@@ -3154,7 +3154,7 @@
       "title": "A new canonical reduction of three-vortex motion and its application to vortex-dipole scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bd86ff93-3f0b-4a83-a4dc-089bf2963469",
-      "processing_time": 22,
+      "processing_time": 66,
       "error": null
     },
     {
@@ -3162,7 +3162,7 @@
       "title": "Orthogonality Sampling Method for the Electromagnetic Inverse Scattering Problem",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0b119d0f-bb07-428e-8205-490c082a2277",
-      "processing_time": 30,
+      "processing_time": 74,
       "error": null
     },
     {
@@ -3170,7 +3170,7 @@
       "title": "Electromagnetic wave scattering by small bodies",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2d2a317e-939e-4e7b-a694-9dd412528b28",
-      "processing_time": 47,
+      "processing_time": 59,
       "error": null
     },
     {
@@ -3178,7 +3178,7 @@
       "title": "On the Kleinman-Martin integral equation method for electromagnetic scattering by a dielectric body",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0c83b308-9712-478c-84fd-12e7bab0fce2",
-      "processing_time": 39,
+      "processing_time": 89,
       "error": null
     },
     {
@@ -3186,7 +3186,7 @@
       "title": "Fundamental bounds for scattering from absorptionless electromagnetic structures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/7f530106-9b4e-41c7-babd-abbcbd52a635",
-      "processing_time": 55,
+      "processing_time": 51,
       "error": null
     },
     {
@@ -3234,7 +3234,7 @@
       "title": "On-Shell Calculation of Mixed Electromagnetic and Gravitational Scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/90e83571-fac1-4bb8-9113-00b13fbba1b5",
-      "processing_time": 28,
+      "processing_time": 26,
       "error": null
     },
     {
@@ -3242,16 +3242,16 @@
       "title": "Scattering amplitudes and electromagnetic horizons",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/00417251-20dd-4358-a632-d3ed3b9d33ec",
-      "processing_time": 20,
+      "processing_time": 34,
       "error": null
     },
     {
       "paper_id": "0aa488e3-4cb0-41ce-9c92-ab16a309aa45",
       "title": "THE MODERN HIGH FREQUENCY METHODS FOR SOLVING ELECTROMAGNETIC SCATTERING PROBLEMS (Invited Paper)",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0aa488e3-4cb0-41ce-9c92-ab16a309aa45",
+      "processing_time": 41,
+      "error": null
     },
     {
       "paper_id": "a3985bc6-0eb1-4288-997d-db00e8c3c31d",
@@ -3266,7 +3266,7 @@
       "title": "Time-domain finite methods for electromagnetic wave propagation and scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/93a2622b-bc06-4d8a-8e40-99d8d4fc252c",
-      "processing_time": 62,
+      "processing_time": 82,
       "error": null
     },
     {
@@ -3298,7 +3298,7 @@
       "title": "Domain Derivatives in Electromagnetic Scattering",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e901c5d1-ddf9-4d87-ac3b-b66d68495179",
-      "processing_time": 90,
+      "processing_time": 65,
       "error": null
     },
     {
@@ -3320,10 +3320,10 @@
     {
       "paper_id": "42ba9df8-5f6c-4705-acac-d358a1f41cf5",
       "title": "In-Service Flaw Detection and Quantification in the Composite Structures of Aircraft",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/42ba9df8-5f6c-4705-acac-d358a1f41cf5",
+      "processing_time": 82,
+      "error": null
     },
     {
       "paper_id": "21dc29c7-c130-43b9-ad6d-e9ef4f0a6998",
@@ -3344,10 +3344,10 @@
     {
       "paper_id": "91c36f33-f520-48ae-b28a-c03f2e5d932d",
       "title": "Lightning Strike Protection of Aircraft Composite Structures: Analysis and Comparative Study",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91c36f33-f520-48ae-b28a-c03f2e5d932d",
+      "processing_time": 50,
+      "error": null
     },
     {
       "paper_id": "c16ca2ad-89e0-48af-93b1-8a97fa61aa48",
@@ -3370,7 +3370,7 @@
       "title": "Composite Developments in Aircraft Structures \u2014 Part 1",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/13155674-0841-4ee2-b153-bd89e3687687",
-      "processing_time": 80,
+      "processing_time": 98,
       "error": null
     },
     {
@@ -3394,7 +3394,7 @@
       "title": "Detecting barely visible impact damage detection on aircraft composites structures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/088938a2-fe50-4a88-b5c1-c487c722454a",
-      "processing_time": 59,
+      "processing_time": 27,
       "error": null
     },
     {
@@ -3450,7 +3450,7 @@
       "title": "Generic Guard AI in Stealth Game with Composite Potential Fields",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e9fd5c47-02d2-497c-8350-5dc46788ad13",
-      "processing_time": 26,
+      "processing_time": 21,
       "error": null
     },
     {
@@ -3458,7 +3458,7 @@
       "title": "On design methods for bolted joints in composite aircraft structures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2d0ca080-79df-4b69-bda4-3db22d414d47",
-      "processing_time": 61,
+      "processing_time": 29,
       "error": null
     },
     {
@@ -3544,10 +3544,10 @@
     {
       "paper_id": "c23c3bdc-ede7-4ded-8c09-96d29f83a760",
       "title": "Inorganic nanotubes reinforced polyvinylidene fluoride composites as low-cost electromagnetic interference shielding materials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c23c3bdc-ede7-4ded-8c09-96d29f83a760",
+      "processing_time": 63,
+      "error": null
     },
     {
       "paper_id": "de7e142e-d77f-453d-b03d-045344459323",
@@ -3594,7 +3594,7 @@
       "title": "Composite electromagnetic interference shielding materials for aerospace applications",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d5a78c3e-db47-4b30-89cb-a8791e7473ca",
-      "processing_time": 53,
+      "processing_time": 25,
       "error": null
     },
     {
@@ -3640,17 +3640,17 @@
     {
       "paper_id": "b2b9f583-1aa6-41ee-ab34-ac55810b3684",
       "title": "Electromagnetic Interference Shielding Properties of (Ni0.5Zn0.5Fe2 O4 /CI/CB) Ternary Composites-Filled Paraffin Wax Matrix",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b2b9f583-1aa6-41ee-ab34-ac55810b3684",
+      "processing_time": 28,
+      "error": null
     },
     {
       "paper_id": "e3e046a0-79da-48b8-bc70-1cd8f415370a",
       "title": "Materials for electromagnetic interference shielding",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e3e046a0-79da-48b8-bc70-1cd8f415370a",
-      "processing_time": 62,
+      "processing_time": 38,
       "error": null
     },
     {
@@ -3672,10 +3672,10 @@
     {
       "paper_id": "7354945d-f2b4-454d-a8b7-9daf8d56a04e",
       "title": "Review of electromagnetic interference shielding materials fabricated by iron ingredients",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/7354945d-f2b4-454d-a8b7-9daf8d56a04e",
+      "processing_time": 55,
+      "error": null
     },
     {
       "paper_id": "c6900994-0ebc-4904-9e2b-039cf5b7a9ec",
@@ -3698,16 +3698,16 @@
       "title": "Electromagnetic interference shielding effectiveness of carbon materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/6c76f497-3e7d-4ee6-90c8-5f7d78353d5a",
-      "processing_time": 62,
+      "processing_time": 32,
       "error": null
     },
     {
       "paper_id": "064be5e7-6ba3-4546-a526-5273dafcf461",
       "title": "Materials for Electromagnetic Interference Shielding",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": ""
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/064be5e7-6ba3-4546-a526-5273dafcf461",
+      "processing_time": 48,
+      "error": null
     },
     {
       "paper_id": "3454178f-4968-4e76-b936-82494b386d23",
@@ -3744,10 +3744,10 @@
     {
       "paper_id": "f5460579-b2ec-44ad-86d5-4a7e438ac9cf",
       "title": "Radar Cross Section Reduction Techniques using Metamaterials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f5460579-b2ec-44ad-86d5-4a7e438ac9cf",
+      "processing_time": 83,
+      "error": null
     },
     {
       "paper_id": "332fa2e9-3de2-4b46-b855-04cc30817d64",
@@ -3760,10 +3760,10 @@
     {
       "paper_id": "2495fa7c-13c6-4d70-bd83-cd57bc7d8390",
       "title": "Optimization of DBD based Plasma System for Radar Cross Section Reduction",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2495fa7c-13c6-4d70-bd83-cd57bc7d8390",
+      "processing_time": 40,
+      "error": null
     },
     {
       "paper_id": "8874446a-23bd-4532-aaf9-5e9d7b247be8",
@@ -3776,10 +3776,10 @@
     {
       "paper_id": "78aa3aaf-574e-4899-80d0-340288da6995",
       "title": "Directional Three-Dimensional Macroporous Carbon Foams Decorated with WC1\u2212x Nanoparticles Derived from Salting-Out Protein Assemblies for Highly Effective Electromagnetic Absorption",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/78aa3aaf-574e-4899-80d0-340288da6995",
+      "processing_time": 52,
+      "error": null
     },
     {
       "paper_id": "bcc6e5ea-f0b0-4d5d-99af-19ce4d067ab8",
@@ -3848,10 +3848,10 @@
     {
       "paper_id": "63619b0d-c395-4b14-8c32-3e37bfb711ae",
       "title": "Electromagnetic Interference (EMI): Measurement and Reduction Techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/63619b0d-c395-4b14-8c32-3e37bfb711ae",
+      "processing_time": 26,
+      "error": null
     },
     {
       "paper_id": "ca0dd57b-a4dc-4254-a31e-872a677b30ff",
@@ -3872,10 +3872,10 @@
     {
       "paper_id": "05eafe65-1113-4bb5-bffd-505cd95c934a",
       "title": "Deep learning approach based on dimensionality reduction for designing electromagnetic nanostructures",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/05eafe65-1113-4bb5-bffd-505cd95c934a",
+      "processing_time": 63,
+      "error": null
     },
     {
       "paper_id": "530c3f6e-5c39-42f9-84d2-a4a714b86a44",
@@ -3888,10 +3888,10 @@
     {
       "paper_id": "c6fd1f52-4454-4d11-9429-5a278edd7195",
       "title": "ASCO-OFDM based VLC system throughput improvement using PAPR precoding reduction techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6fd1f52-4454-4d11-9429-5a278edd7195",
+      "processing_time": 55,
+      "error": null
     },
     {
       "paper_id": "040deed4-0c1f-49cc-8b22-e08e371bff5d",
@@ -3984,10 +3984,10 @@
     {
       "paper_id": "906b880a-4c3f-4faf-8109-fcf6f0826ad5",
       "title": "Development of PSMA-PET-guided CT-based radiomic signature to predict biochemical recurrence after salvage radiotherapy",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/906b880a-4c3f-4faf-8109-fcf6f0826ad5",
+      "processing_time": 46,
+      "error": null
     },
     {
       "paper_id": "af414c5c-c267-4b9a-9743-c1ea972041a3",
@@ -4032,10 +4032,10 @@
     {
       "paper_id": "639e7d8e-0922-476a-bcc4-ee16149265a8",
       "title": "Signature miRNAs in colorectal cancers were revealed using a bias reduction small RNA deep sequencing protocol",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/639e7d8e-0922-476a-bcc4-ee16149265a8",
+      "processing_time": 23,
+      "error": null
     },
     {
       "paper_id": "b4f1b809-622f-4a23-96b0-c9132e6139d0",
@@ -4064,10 +4064,10 @@
     {
       "paper_id": "2633f0fb-6377-48c1-ab5f-93c21b8d2a2d",
       "title": "Hyper spectral Image classification using Dimensionality Reduction Techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2633f0fb-6377-48c1-ab5f-93c21b8d2a2d",
+      "processing_time": 31,
+      "error": null
     },
     {
       "paper_id": "ee0b7c4e-6b7f-4d71-9bb3-93c489385eb0",
@@ -4112,10 +4112,10 @@
     {
       "paper_id": "e5f20083-0182-4992-b66c-30a339dcfb84",
       "title": "A full privacy-preserving distributed batch-based certificate-less aggregate signature authentication scheme for healthcare wearable wireless medical sensor networks (HWMSNs)",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e5f20083-0182-4992-b66c-30a339dcfb84",
+      "processing_time": 32,
+      "error": null
     },
     {
       "paper_id": "e54e9184-0406-4dc6-8d54-d69ce1fc0439",
@@ -4344,10 +4344,10 @@
     {
       "paper_id": "33b24eac-09d2-4e21-90ad-c47e6171cb54",
       "title": "A Novel Design of Microwave Absorbers Based on Multilayered Composite Materials for Reduction of Radar Cross Section",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/33b24eac-09d2-4e21-90ad-c47e6171cb54",
+      "processing_time": 50,
+      "error": null
     },
     {
       "paper_id": "db7b4621-972a-4358-b541-9408a513d99e",
@@ -4448,10 +4448,10 @@
     {
       "paper_id": "a15f882f-fd31-41cb-8288-050e3c65e4fd",
       "title": "Fabrication, characterization, and application of the water hyacinth biochar-polyvinyl alcohol composite as an advantageous sound absorber material",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a15f882f-fd31-41cb-8288-050e3c65e4fd",
+      "processing_time": 48,
+      "error": null
     },
     {
       "paper_id": "a9f6cdb5-d517-48f7-9e07-26ebde266f75",
@@ -4488,10 +4488,10 @@
     {
       "paper_id": "f02f3ad5-702d-4fb0-a7ab-c9dda6286d02",
       "title": "Design of Compact Double-Layer Microwave Absorber for X-Ku Bands Using Genetic Algorithm",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f02f3ad5-702d-4fb0-a7ab-c9dda6286d02",
+      "processing_time": 48,
+      "error": null
     },
     {
       "paper_id": "50f4a1f1-c691-47eb-a8ff-da4540ea928e",
@@ -4520,18 +4520,18 @@
     {
       "paper_id": "aa7ecef9-115d-4595-b344-5ae7213f17b9",
       "title": "Transformation Optics and Electromagnetic Cloak of Invisibility",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/aa7ecef9-115d-4595-b344-5ae7213f17b9",
-      "processing_time": 54,
-      "error": null
-    },
-    {
-      "paper_id": "26344936-2586-43e9-9d7e-663de69c3f18",
-      "title": "Nanoyap\u0131l\u0131 iletken dolgulu polimer ile geni\u015f bant \u00e7ok katmanl\u0131 radar so\u011furucu malzemelerin geli\u015ftirilmesi",
       "status": "failed",
       "cache_url": null,
       "processing_time": null,
       "error": "Failed to fetch PDF from any source"
+    },
+    {
+      "paper_id": "26344936-2586-43e9-9d7e-663de69c3f18",
+      "title": "Nanoyap\u0131l\u0131 iletken dolgulu polimer ile geni\u015f bant \u00e7ok katmanl\u0131 radar so\u011furucu malzemelerin geli\u015ftirilmesi",
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/26344936-2586-43e9-9d7e-663de69c3f18",
+      "processing_time": 28,
+      "error": null
     },
     {
       "paper_id": "13113eaf-f0d4-471c-a82b-5551abdbd637",
@@ -4712,10 +4712,10 @@
     {
       "paper_id": "efe9465c-7d26-46ef-8632-846feede1144",
       "title": "Composite microwave absorber of nitrogen-doped mango peel derived porous carbon wrapped by Co/FeCo nanoparticles",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/efe9465c-7d26-46ef-8632-846feede1144",
+      "processing_time": 25,
+      "error": null
     },
     {
       "paper_id": "6399d21c-5756-4149-aaf7-d263dc4c9ad9",
@@ -4832,10 +4832,10 @@
     {
       "paper_id": "52b422cb-915f-4057-99b9-54aaf130d646",
       "title": "Selective dual-band metamaterial perfect absorber for infrared stealth technology",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/52b422cb-915f-4057-99b9-54aaf130d646",
+      "processing_time": 48,
+      "error": null
     },
     {
       "paper_id": "e5e272b2-3c82-4d74-a9ba-4a28f4d94779",
@@ -4896,10 +4896,10 @@
     {
       "paper_id": "1f17821e-b4b9-4bb5-8607-1d9051e48959",
       "title": "Tailored metal-insulator-metal multilayer design for perfect ir absorption at desired wavelengths in stealth systems",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/1f17821e-b4b9-4bb5-8607-1d9051e48959",
+      "processing_time": 24,
+      "error": null
     },
     {
       "paper_id": "8ef8f48a-ecbf-405c-ac14-792666f5d5e9",
@@ -4936,10 +4936,10 @@
     {
       "paper_id": "07db107a-52e7-4395-814a-3f13e87680da",
       "title": "Dual-band polarization-independent metamaterial absorber for radar stealth technology",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/07db107a-52e7-4395-814a-3f13e87680da",
+      "processing_time": 39,
+      "error": null
     },
     {
       "paper_id": "f8509b36-426a-43be-8300-f565d12a6d8d",
@@ -4954,7 +4954,7 @@
       "title": "Metamaterials in Electromagnetic Wave Absorbers",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/aa891ce6-88b2-4bc5-acdb-36438a52693a",
-      "processing_time": 53,
+      "processing_time": 31,
       "error": null
     },
     {
@@ -4984,18 +4984,18 @@
     {
       "paper_id": "09640c32-e583-4873-a760-9ebcbef92277",
       "title": "A review of underwater acoustic metamaterials for underwater acoustic equipment",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/09640c32-e583-4873-a760-9ebcbef92277",
+      "processing_time": 57,
+      "error": null
     },
     {
       "paper_id": "efc68ec0-5d71-4d54-8542-4fcaa91be8e9",
       "title": "Ultra-wideband optically transparent flexible metamaterial absorber for satellite stealth",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/efc68ec0-5d71-4d54-8542-4fcaa91be8e9",
+      "processing_time": 49,
+      "error": null
     },
     {
       "paper_id": "d6df25ba-d765-42d1-9fb1-4257c48c563a",
@@ -5098,7 +5098,7 @@
       "title": "Review of underwater sound absorption materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bd7710d1-799f-4b69-afc7-2390031810fc",
-      "processing_time": 55,
+      "processing_time": 24,
       "error": null
     },
     {
@@ -5146,7 +5146,7 @@
       "title": "Suppression of Scattering for Small Dielectric Particles: Anapole Mode and Invisibility",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/f1da2780-9e97-4084-8569-fecc4a72c344",
-      "processing_time": 21,
+      "processing_time": 22,
       "error": null
     },
     {
@@ -5248,10 +5248,10 @@
     {
       "paper_id": "90e2aa1f-d3f1-4c3e-82eb-bce8790ee33b",
       "title": "Metasurfaces for Stealth Applications: A Comprehensive Review",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/90e2aa1f-d3f1-4c3e-82eb-bce8790ee33b",
+      "processing_time": 54,
+      "error": null
     },
     {
       "paper_id": "e4077aab-2907-4232-8933-9dae4da9702b",
@@ -5306,7 +5306,7 @@
       "title": "Measurements and analysis of the radar cross section of chaff dipoles",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/595f80e4-8205-4656-af51-38d7bfedcc37",
-      "processing_time": 105,
+      "processing_time": 68,
       "error": null
     },
     {
@@ -5402,7 +5402,7 @@
       "title": "Movable Antenna Enabled ISAC: Tackling Slow Antenna Movement, Dynamic RCS, and Imperfect CSI via Two-timescale Optimizati",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81e5375d-eac1-4461-85bc-9bf159fd1380",
-      "processing_time": 28,
+      "processing_time": 55,
       "error": null
     },
     {
@@ -5482,7 +5482,7 @@
       "title": "Two-dimensional gridless super-resolution method for ISAR imaging",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ddcaeb7c-7a8a-409c-8d2c-29ae026bd82b",
-      "processing_time": 31,
+      "processing_time": 33,
       "error": null
     },
     {
@@ -5568,10 +5568,10 @@
     {
       "paper_id": "e069c52d-fd1a-4772-b507-229abc3e0cce",
       "title": "Design Optimization of Fins of a Sounding Rocket for Maximum Lift-to-Drag Ratio and Minimum Radar Cross- Section Area Using ANSYS",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e069c52d-fd1a-4772-b507-229abc3e0cce",
+      "processing_time": 27,
+      "error": null
     },
     {
       "paper_id": "113fe350-f89e-454f-8f44-b1709db1b7cd",
@@ -5586,7 +5586,7 @@
       "title": "Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/cc171b50-1c7c-49e5-b4b8-40aaa4f608b1",
-      "processing_time": 24,
+      "processing_time": 19,
       "error": null
     },
     {
@@ -5624,26 +5624,26 @@
     {
       "paper_id": "c56f7d9b-ce4b-47f7-aeb6-a6fc59d0ebcf",
       "title": "A hybrid invisibility cloak based on integration of transparent metasurfaces and zero-index materials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c56f7d9b-ce4b-47f7-aeb6-a6fc59d0ebcf",
+      "processing_time": 70,
+      "error": null
     },
     {
       "paper_id": "41926408-c702-4a2c-9776-3c6dd9eb5de8",
       "title": "Broadband polygonal invisibility cloak for visible light",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/41926408-c702-4a2c-9776-3c6dd9eb5de8",
+      "processing_time": 17,
+      "error": null
     },
     {
       "paper_id": "447614c8-d332-4adf-add8-cbb06638cfd2",
       "title": "Mechanical cloak via data-driven aperiodic metamaterial design",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/447614c8-d332-4adf-add8-cbb06638cfd2",
+      "processing_time": 62,
+      "error": null
     },
     {
       "paper_id": "27bc7d2d-f278-47e0-8c4d-d108f8e23814",
@@ -5664,10 +5664,10 @@
     {
       "paper_id": "9096df79-bd3b-4238-a352-7c7867ceed3f",
       "title": "Logarithm conformal mapping brings the cloaking effect",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/9096df79-bd3b-4238-a352-7c7867ceed3f",
+      "processing_time": 26,
+      "error": null
     },
     {
       "paper_id": "4c693316-c2fe-499b-9272-2ebbc1ed0625",
@@ -5688,10 +5688,10 @@
     {
       "paper_id": "e399a298-6a50-4bdb-9d94-c878a93235a5",
       "title": "Molding acoustic, electromagnetic and water waves with a single cloak",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e399a298-6a50-4bdb-9d94-c878a93235a5",
+      "processing_time": 30,
+      "error": null
     },
     {
       "paper_id": "909bd6b0-3001-4d67-ac38-5496ae8b8cd5",
@@ -5752,10 +5752,10 @@
     {
       "paper_id": "c0f32fa8-9c15-4293-8bb2-54bc51f9ee8b",
       "title": "Controlling frequency dispersion in electromagnetic invisibility cloaks",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c0f32fa8-9c15-4293-8bb2-54bc51f9ee8b",
+      "processing_time": 22,
+      "error": null
     },
     {
       "paper_id": "46d0e4a5-f63a-4060-b02e-6d1629f52e6a",
@@ -5784,26 +5784,26 @@
     {
       "paper_id": "4c3970b2-dd36-4f94-b7da-d9b768b08799",
       "title": "Multilayer homogeneous dielectric filler for electromagnetic invisibility",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/4c3970b2-dd36-4f94-b7da-d9b768b08799",
+      "processing_time": 21,
+      "error": null
     },
     {
       "paper_id": "586d219e-341a-4e21-9311-169fb48990f9",
       "title": "Electromagnetic Detection of a Perfect Carpet Cloak",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/586d219e-341a-4e21-9311-169fb48990f9",
+      "processing_time": 45,
+      "error": null
     },
     {
       "paper_id": "61306fb5-ef14-4448-ab4c-0b1f0ce8e7d6",
       "title": "Analogue Transformations in Physics and their Application to Acoustics",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/61306fb5-ef14-4448-ab4c-0b1f0ce8e7d6",
+      "processing_time": 29,
+      "error": null
     },
     {
       "paper_id": "90f1b66f-8f5d-4b67-80d1-ad1650c51a42",
@@ -5840,10 +5840,10 @@
     {
       "paper_id": "dd9a1b57-fd1c-41a8-a4cf-da50b7800332",
       "title": "Systems biology driving drug development: from design to the clinical testing of the anti-ErbB3 antibody seribantumab (MM-121)",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/dd9a1b57-fd1c-41a8-a4cf-da50b7800332",
+      "processing_time": 37,
+      "error": null
     },
     {
       "paper_id": "baf7bdba-f52c-4b2a-828c-ab4325d9e315",
@@ -5936,10 +5936,10 @@
     {
       "paper_id": "c6ae4865-3a65-453a-b4ea-6cf1c5beeba5",
       "title": "Developing a carpet cloak operating for a wide range of incident angles using a deep neural network and PSO algorithm",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6ae4865-3a65-453a-b4ea-6cf1c5beeba5",
+      "processing_time": 24,
+      "error": null
     },
     {
       "paper_id": "f4a1aebb-a0d4-49cc-a224-cb0fd01858a6",
@@ -6162,7 +6162,7 @@
       "title": "Aircraft composite structures integrated approach: a review",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/fb5da525-d18d-4d6a-b881-77f567021c97",
-      "processing_time": 67,
+      "processing_time": 26,
       "error": null
     },
     {
@@ -6176,18 +6176,18 @@
     {
       "paper_id": "b378115b-dfed-4374-b706-daa9d303a623",
       "title": "Beyond the big city: using a systems approach to cultivate a cycling culture in small cities and towns in Ireland",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b378115b-dfed-4374-b706-daa9d303a623",
+      "processing_time": 31,
+      "error": null
     },
     {
       "paper_id": "75ea507e-b682-4305-bd5f-cd8fa675d817",
       "title": "Review of sub-synchronous interaction in wind integrated power systems: classification, challenges, and mitigation techniques",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/75ea507e-b682-4305-bd5f-cd8fa675d817",
+      "processing_time": 39,
+      "error": null
     },
     {
       "paper_id": "c4cc33f7-9184-42ec-af4f-8f7b0c72db8e",
@@ -6210,7 +6210,7 @@
       "title": "Active 3D Shape Reconstruction from Vision and Touch",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/1c6c00ab-3ca0-4ebd-843c-7a16d30b3c81",
-      "processing_time": 28,
+      "processing_time": 52,
       "error": null
     },
     {
@@ -6304,10 +6304,10 @@
     {
       "paper_id": "7f3f4581-2893-47ac-bbd9-d0446f181c3e",
       "title": "Early career teachers\u2019 role in school development and professional learning",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/7f3f4581-2893-47ac-bbd9-d0446f181c3e",
+      "processing_time": 59,
+      "error": null
     },
     {
       "paper_id": "656b7765-de0e-43fd-bbd0-4da175eb0f2c",
@@ -6440,10 +6440,10 @@
     {
       "paper_id": "5389f73e-95cb-410f-aeaf-2a7d61527625",
       "title": "Compositional and Hollow Engineering of Silicon Carbide/Carbon Microspheres as High-Performance Microwave Absorbing Materials with Good Environmental Tolerance",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5389f73e-95cb-410f-aeaf-2a7d61527625",
+      "processing_time": 51,
+      "error": null
     },
     {
       "paper_id": "040a36ab-52d0-4818-9524-db3e379091cf",
@@ -6528,18 +6528,18 @@
     {
       "paper_id": "ab358a5f-0574-4d86-88bd-8d848ae6109d",
       "title": "RADAR ABSORBING MATERIALS",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to extract text: None"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/ab358a5f-0574-4d86-88bd-8d848ae6109d",
+      "processing_time": 104,
+      "error": null
     },
     {
       "paper_id": "8bf91d3b-5ef3-4a92-9ae1-3753f3393d1d",
       "title": "Radar absorbing properties of different size carbon nanotube reinforced polymer composites",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/8bf91d3b-5ef3-4a92-9ae1-3753f3393d1d",
+      "processing_time": 52,
+      "error": null
     },
     {
       "paper_id": "0f2ad4be-01f4-41b0-ab3e-0aca82409694",
@@ -6610,7 +6610,7 @@
       "title": "High temperature microwave absorbing materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/893173ce-583d-4789-bbff-2a1f385474ef",
-      "processing_time": 51,
+      "processing_time": 52,
       "error": null
     },
     {
@@ -6618,7 +6618,7 @@
       "title": "Electromagnetic Wave Absorbing Materials on Radar Frequency Range",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a70b6df1-b5c2-436a-a206-5373b4a8366a",
-      "processing_time": 62,
+      "processing_time": 65,
       "error": null
     },
     {
@@ -6664,10 +6664,10 @@
     {
       "paper_id": "c36be54b-162d-4afc-a109-b6227d69cb86",
       "title": "Exploring the Potential of Carbon-based Radar Absorbing Material Innovations",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c36be54b-162d-4afc-a109-b6227d69cb86",
+      "processing_time": 50,
+      "error": null
     },
     {
       "paper_id": "25d6cc57-4bc3-44ef-8ddc-2438b69aa410",
@@ -6682,7 +6682,7 @@
       "title": "Analysis of the Types of Radar Absorbing Materials",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/05c1fd91-7f54-4bbf-97bf-d7aba19a7e5b",
-      "processing_time": 56,
+      "processing_time": 22,
       "error": null
     },
     {
@@ -6864,26 +6864,26 @@
     {
       "paper_id": "bd4160c7-6216-4cc1-b232-a659bca2b45e",
       "title": "CHALLENGES OF EVALUATION METHODS FOR ANTENNAS WITH REDUCED EFFECTIVE SCATTERING SURFACES IN SIGNALS INTELLIGENCE AND ELECTRONIC WARFARE SYSTEMS",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bd4160c7-6216-4cc1-b232-a659bca2b45e",
+      "processing_time": 21,
+      "error": null
     },
     {
       "paper_id": "857e7d70-b65b-4e77-a716-09cfc7e2a305",
       "title": "A finite element: Boundary integral method for electromagnetic scattering",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to extract text: None"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/857e7d70-b65b-4e77-a716-09cfc7e2a305",
+      "processing_time": 29,
+      "error": null
     },
     {
       "paper_id": "4c16748f-6b92-49e4-bb48-a8abf26d2958",
       "title": "Matrix methods in potential theory and electromagnetic scattering",
-      "status": "completed",
-      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/4c16748f-6b92-49e4-bb48-a8abf26d2958",
-      "processing_time": 53,
-      "error": null
+      "status": "failed",
+      "cache_url": null,
+      "processing_time": null,
+      "error": "Failed to fetch PDF from any source"
     },
     {
       "paper_id": "26cc03d6-a0ff-4c61-9e34-7fa337cbbb30",
@@ -6904,10 +6904,10 @@
     {
       "paper_id": "2a254fb2-db69-45ef-83b9-29b29a982606",
       "title": "Identification of Multilayered Particles from Scattering Data by a Clustering Method",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2a254fb2-db69-45ef-83b9-29b29a982606",
+      "processing_time": 48,
+      "error": null
     },
     {
       "paper_id": "68365e3a-6615-4b2e-ae6a-d60deecbe8fe",
@@ -6962,7 +6962,7 @@
       "title": "A novel implementation of symmetric boundary condition in harmonic and transient analysis of electromagnetic wave propagation",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/52eb3e7e-c134-4079-9eb2-e5bff22f9072",
-      "processing_time": 20,
+      "processing_time": 60,
       "error": null
     },
     {
@@ -6976,10 +6976,10 @@
     {
       "paper_id": "eea0182a-6957-4361-a9ae-632345c39570",
       "title": "Justification of the reduction method using the zero field method",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/eea0182a-6957-4361-a9ae-632345c39570",
+      "processing_time": 24,
+      "error": null
     },
     {
       "paper_id": "465ba41d-5b00-4556-96fe-145617d30539",
@@ -7010,7 +7010,7 @@
       "title": "Direct Solve of Electrically Large Integral Equations for Problem Sizes to 1M Unknowns",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a2dd66a7-8788-47f6-bd86-94492c9aa8c7",
-      "processing_time": 69,
+      "processing_time": 81,
       "error": null
     },
     {
@@ -7056,10 +7056,10 @@
     {
       "paper_id": "d3ba221f-70e3-4369-a447-60fcad1ede41",
       "title": "A Hybrid Simulation Method for Electromagnetic Scattering by Electrically Large Rough Surfaces",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/d3ba221f-70e3-4369-a447-60fcad1ede41",
+      "processing_time": 22,
+      "error": null
     },
     {
       "paper_id": "acd1959e-05e0-4ac4-bb32-4b64742c0ac4",
@@ -7122,7 +7122,7 @@
       "title": "Lightweight Electromagnetic Interference Shielding Materials and Their Mechanisms",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/13197385-6fee-4922-a15b-e1f17f7b2fd7",
-      "processing_time": 59,
+      "processing_time": 30,
       "error": null
     },
     {
@@ -7256,10 +7256,10 @@
     {
       "paper_id": "5ff8901d-5645-4f30-bcf2-d56a39aec8b8",
       "title": "Advanced Multifunctional Composite Cellular Structures: Innovations and Impact in Aerospace Engineering",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/5ff8901d-5645-4f30-bcf2-d56a39aec8b8",
+      "processing_time": 55,
+      "error": null
     },
     {
       "paper_id": "624ca2f3-1c86-4acc-83fb-a522d8fcbd85",
@@ -7272,18 +7272,18 @@
     {
       "paper_id": "e032db71-a6e2-4b42-82c8-87c168f81571",
       "title": "Extended Non-destructive Testing for the Bondline Quality Assessment of Aircraft Composite Structures",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/e032db71-a6e2-4b42-82c8-87c168f81571",
+      "processing_time": 63,
+      "error": null
     },
     {
       "paper_id": "47831454-8c1c-436d-b457-e4960af95f41",
       "title": "Lightning Strike Protection of Aircraft Composite Structures: Analysis and Comparative Study",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/47831454-8c1c-436d-b457-e4960af95f41",
+      "processing_time": 47,
+      "error": null
     },
     {
       "paper_id": "88b03175-238f-47a1-9743-f31a53018cc2",
@@ -7370,7 +7370,7 @@
       "title": "Joining and repair of aircraft composite structures",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/b1136fb1-eff3-4c01-a594-3b3e99a183ae",
-      "processing_time": 76,
+      "processing_time": 57,
       "error": null
     },
     {
@@ -7424,10 +7424,10 @@
     {
       "paper_id": "cb0820dc-db0c-48c5-8bc5-ad45ab4c6010",
       "title": "Recent Advances in Design Strategies and Multifunctionality of Flexible Electromagnetic Interference Shielding Materials",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/cb0820dc-db0c-48c5-8bc5-ad45ab4c6010",
+      "processing_time": 39,
+      "error": null
     },
     {
       "paper_id": "1f52364e-e169-4699-8334-03085f56612b",
@@ -7456,10 +7456,10 @@
     {
       "paper_id": "15d67e36-eccd-4f1b-beff-31988f54a0e2",
       "title": "Review of electromagnetic interference shielding materials fabricated by iron ingredients",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/15d67e36-eccd-4f1b-beff-31988f54a0e2",
+      "processing_time": 44,
+      "error": null
     },
     {
       "paper_id": "77ea2267-9e22-4a69-809a-a7672b9b7729",
@@ -7600,10 +7600,10 @@
     {
       "paper_id": "27f99822-3ec2-46e6-aecc-a890241a4953",
       "title": "Progress in polymer nonwoven textile materials in electromagnetic interference shielding applications",
-      "status": "failed",
-      "cache_url": null,
-      "processing_time": null,
-      "error": "Failed to fetch PDF from any source"
+      "status": "completed",
+      "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/27f99822-3ec2-46e6-aecc-a890241a4953",
+      "processing_time": 44,
+      "error": null
     },
     {
       "paper_id": "fb514cea-77ed-48e9-8f73-cda6cc90adcd",
@@ -7906,7 +7906,7 @@
       "title": "Radiation Protection of New Lightweight Electromagnetic Interference Shielding Materials Determined",
       "status": "completed",
       "cache_url": "https://github.com/swajayresources/knowledgeforge-cache/tree/main/datasets/036981c6-fad8-4104-a28f-b019d7d95bff/69c52257-7afc-4ed0-968b-30653be4a734",
-      "processing_time": 57,
+      "processing_time": 43,
       "error": null
     },
     {
