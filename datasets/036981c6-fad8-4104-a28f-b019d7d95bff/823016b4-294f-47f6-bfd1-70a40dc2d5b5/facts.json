@@ -1,0 +1,12 @@
+[
+  "The paper considers a 2D scattering problem with a point source, a protected region, and a surrounding cloak region.",
+  "The protection criterion is defined as the integral of the squared field magnitude over the protected region, and the invisibility criterion is defined as the integral of the squared difference between the field and the reference free-space field over the surrounding region.",
+  "The CTGWO algorithm uses specialized transform functions and chaotic sequences to enhance exploration in the ternary search space.",
+  "The NSGA-II algorithm is adapted to find Pareto-optimal solutions representing the trade-off between protection and invisibility.",
+  "The paper compares the results of the mono-objective CTGWO approach and the bi-objective NSGA-II approach.",
+  "The wavelength considered in the simulations is 500 nm, with triangle mesh sizes of \u03bb/6 in free-space and \u03bb/12 in the cloak and protected region.",
+  "The paper considers both transverse magnetic (TM) and transverse electric (TE) polarizations, which are mathematically equivalent.",
+  "The finite element implementation of the problem follows closely the approach described in previous work.",
+  "The paper highlights the superiority of the CTGWO algorithm over comparative mono-objective algorithms, and the benefits of the bi-objective approach for end-users.",
+  "The paper concludes by discussing the results and drawing conclusions about the effectiveness of the proposed optimization methods for cloak design."
+]
