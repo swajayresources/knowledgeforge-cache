@@ -1,0 +1,17 @@
+[
+  "The finite element method leads to sparse matrix systems requiring only O(N) storage, compared to the O(N^2) storage for full matrices in integral equation techniques.",
+  "Exact boundary conditions for truncating the finite element mesh suffer from potential uniqueness problems and lead to partly full matrix systems.",
+  "Approximate absorbing boundary conditions (ABCs) preserve the sparsity of the finite element system, but require extending the mesh further from the region of interest.",
+  "The paper examines strategies for sparse matrix storage, preconditioned iterative linear solvers, and exploiting parallelism in the matrix generation, assembly, and solution phases.",
+  "Significant speedups were demonstrated on parallel architectures like the KSR1 and Intel iPSC/80.",
+  "The conformal ABCs developed in this work can be applied on truncation surfaces that conform to the shape of the scattering object, allowing dramatic reductions in computational domain size.",
+  "The conformal ABCs were applied on mesh termination boundaries composed of combinations of cylinders, spheres, and flat planes.",
+  "The finite element-ABC methodology was validated on a wide range of perfectly conducting and composite scattering geometries.",
+  "The paper presents the formulation and implementation for both closed-domain (cavity) and open-domain (scattering) problems.",
+  "The origin and avoidance of spurious modes in the finite element formulation is discussed.",
+  "The paper covers the development of scalar and vector shape functions for 2D and 3D finite elements, including higher-order edge-based basis functions.",
+  "Maxwell's equations and the vector wave equation governing electromagnetic wave propagation are reviewed.",
+  "The radar cross-section (RCS) is introduced as a key quantity characterizing the scattering from an obstacle.",
+  "The finite element method is shown to provide an attractive alternative to integral equation techniques for large 3D electromagnetic problems.",
+  "Improvements in solution convergence, mesh termination conditions, algorithmic complexity, and computational speed are key goals of the research."
+]
