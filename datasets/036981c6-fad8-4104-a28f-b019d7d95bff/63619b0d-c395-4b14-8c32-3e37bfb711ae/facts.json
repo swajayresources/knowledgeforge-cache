@@ -1,0 +1,17 @@
+[
+  "EMI can lead to the obstruction or degradation of the performance of any electrical equipment by inducing unwanted currents and voltages in its circuitry.",
+  "Radiated emission testing is typically done in the frequency range of 30 MHz to 1 GHz, corresponding to wavelengths of 10 m to 0.3 m.",
+  "The GTEM cell is a tapered two-conductor transmission line with a characteristic impedance of 50\u03a9, which can be used for EMI emission testing from 0 Hz to 20 GHz.",
+  "The 1\u03a9 method for conducted emission testing can provide accurate results up to the gigahertz range, but it becomes less feasible if the EUT has a large number of pins.",
+  "IEC 61000-4-2 is the internationally accepted standard for immunity testing of electronic devices against electrostatic discharge (ESD), specifying test voltage levels for both contact discharge and air discharge.",
+  "Reverberation chambers provide more accurate and reliable results for radiated immunity testing compared to anechoic chambers, as the EUT is subjected to an external field from all directions simultaneously.",
+  "Electromagnetic shielding, EMI filters, circuit topology modification, and spread spectrum techniques are some of the key EMI reduction methods discussed in the paper.",
+  "Performing pre-compliance EMI testing at each stage of product development can significantly reduce the chances of the product failing the final compliance tests, which are expensive and time-consuming.",
+  "Over-the-air (OTA) measurements can be used to indirectly assess the radiated emissions of MIMO systems by obtaining the 3D radiation patterns in an anechoic chamber and then combining them using a base station emulator and channel model.",
+  "The shielding effectiveness of a material can be calculated using an equation that relates the field strength inside and outside the shielding material, taking into account factors like antenna geometry and wave number.",
+  "EMI/EMC plays a crucial role in electronic engineering, but research and development in this area is still insufficient compared to other aspects of electronic engineering and product development.",
+  "The literature available for EMI/EMC is scattered, making it difficult for young researchers to fully understand the structure of this field.",
+  "Efforts to mitigate the effects of EMI on electronic systems began during World War II, with a focus on defense applications, and later expanded to civilian applications in the 1970s and 1980s.",
+  "Almost all electronic systems experience as well as cause interference due to various involuntary and voluntary man-made sources of EMI.",
+  "Conducted emission testing is done to estimate the noise generated due to sudden changes in voltage or current in the circuitry of the equipment, which can have a fatal effect on connected devices."
+]
