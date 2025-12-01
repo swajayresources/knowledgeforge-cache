@@ -1,0 +1,1 @@
+The paper discusses the challenges in evaluating antennas with reduced effective scattering surfaces for signals intelligence and electronic warfare systems. It analyzes known approximate methods for calculating electromagnetic wave scattering by antennas and provides simple formulas for estimating scattering characteristics.
