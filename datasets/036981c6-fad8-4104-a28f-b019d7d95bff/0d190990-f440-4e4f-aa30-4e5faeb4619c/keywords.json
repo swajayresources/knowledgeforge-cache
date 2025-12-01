@@ -1,17 +1,17 @@
 [
   "Electromagnetic invisibility cloaks",
   "High-order transformations",
-  "Anisotropic media",
+  "General anisotropic media",
+  "Scattered wave",
   "Scattering matrix",
+  "Cloaked objects decoupling",
+  "Solutions with locally finite energy",
   "Cloaking boundary condition",
   "Self-adjoint extensions",
-  "Singular permittivity and permeability",
-  "Decoupling of cloaked objects",
-  "Cloaking inside crystals",
-  "Transformation optics",
-  "Metamaterials",
+  "Homogeneous medium equivalence",
   "Dispersive media",
-  "Finite energy solutions",
-  "Schrodinger formulation",
-  "Absolutely continuous spectrum"
+  "Transformation approach",
+  "Permittivity and permeability",
+  "Singular coefficients",
+  "Cloaking inside crystals"
 ]
