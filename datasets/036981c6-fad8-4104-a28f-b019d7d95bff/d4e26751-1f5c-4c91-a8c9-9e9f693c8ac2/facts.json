@@ -1,0 +1,17 @@
+[
+  "The invisibility cloak was fabricated on a photonic chip made of borosilicate material using femtosecond laser direct writing.",
+  "The cloak was able to conceal a structure of size 0.44 mm \u00d7 0.35 mm inside the chip.",
+  "Up to 5,000 waveguides were fabricated in three dimensions to create the cloak structure.",
+  "The optimal pitch (spacing) between the waveguides for the best cloaking performance was found to be 21 \u03bcm.",
+  "The cloak demonstrated a three-dimensional cloaking capability, with a tolerance for viewing angles spanning 8.0\u00b0 laterally and 6.7\u00b0 vertically.",
+  "The normalized cross correlation between the input and output images reached a peak of 0.986 at the optimal 21 \u03bcm pitch, indicating high-quality image transfer through the cloak.",
+  "Tomography analysis was used to visualize the evolution of the light field in the cloak, showing that most of the light circumvents the cloaked area along the waveguides.",
+  "The authors suggest that the printed invisibility cloak on a photonic chip could enable novel applications in classical and quantum integrated photonics, as well as in deep space exploration and biological sensing.",
+  "Imperfect collective bending of the waveguides may introduce site-dependent length differences and differential phases, which can be addressed by setting the length difference to be an integral multiple of 2\u03c0 during fabrication.",
+  "The size of the hidden structure that can be effectively cloaked is limited by the bending loss introduced with decreasing curvature radius of the waveguides.",
+  "The researchers used a curvature radius of 85.9 mm to cloak a structure of size 0.44 mm \u00d7 0.35 mm on the photonic chip.",
+  "The cloak was able to conceal the inner structure so well that it remained invisible even at large viewing angles that affected the image transmission.",
+  "The output power distribution in the light cone showed a radiational decreasing tendency from the center to the edge, which visually agreed with the decreasing clarity of the output image.",
+  "The authors mention that the printed cloak allows backdoor operations like swap or coupling, which could be isolated from observers, representing an emerging problem of information security and hacking on a photonic chip.",
+  "The researchers used a commercial Beam Propagation Method software to simulate the light field evolution in the cloak structure prior to the experimental demonstration."
+]
