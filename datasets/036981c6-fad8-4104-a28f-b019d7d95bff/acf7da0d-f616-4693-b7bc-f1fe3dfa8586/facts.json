@@ -1,0 +1,12 @@
+[
+  "The paper develops an adaptive Hessian-based non-stationary Gaussian process response surface method.",
+  "The method aims to approximate expensive-to-evaluate probability density functions, particularly those arising from Bayesian solutions of large-scale inverse problems.",
+  "The key challenge is that the posterior probability distribution is often non-Gaussian and expensive to evaluate due to the nonlinearity of the parameter-to-observable map.",
+  "The method constructs a piecewise Gaussian approximation tailored to the local Hessian of the negative log probability density.",
+  "Gaussian process machinery is used to combine the local Gaussian approximations into a global analytical response surface.",
+  "The non-stationary covariance function combines local Laplace approximations using Hessian-informed membership probabilities.",
+  "An adaptive sampling strategy is used to select training points in high probability regions of the parameter space.",
+  "Standard Gaussian process response surfaces use stationary covariance functions that cannot adapt to variable smoothness.",
+  "The Hessians appear in the kernel functions and membership probabilities to guide the covariance function construction.",
+  "The proposed method is demonstrated on several example problems, including inverse shape electromagnetic scattering in 24-dimensional parameter space."
+]
