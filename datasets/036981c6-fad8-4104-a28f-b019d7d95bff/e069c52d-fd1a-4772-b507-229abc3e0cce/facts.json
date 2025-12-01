@@ -1,0 +1,17 @@
+[
+  "The initial lift-to-drag (L/D) ratio of the rocket fins was 0.03.",
+  "The initial total radar cross-section (RCS) area of the rocket fins was -159.4 dB.",
+  "The L/D ratio was increased by 8.3 times, from 0.03 to 0.249, after optimization.",
+  "The total RCS area decreased by 12%, from -159.4 dB to -178.528 dB, after optimization.",
+  "The authors used the ANSYS adjoint solver to optimize the L/D ratio and ANSYS Optimetrics to optimize the RCS area.",
+  "The geometry was designed in CATIA and the CFD simulations were performed in ANSYS Fluent.",
+  "The CFD mesh had 427,023 elements and 140,064 nodes.",
+  "The CFD simulation used the pressure-based solver, steady-state, and the SST k-omega turbulence model, with 100 iterations.",
+  "The RCS optimization used four parameters: root chord, tip chord, leading edge, and trailing edge.",
+  "The RCS of each fin was calculated individually and then added together due to the mesh element limit.",
+  "The authors chose the optimized parameters with the lowest cost to achieve the target RCS.",
+  "The front fins had 23 possible configurations that met the target RCS, while the rear fins had 5 such configurations.",
+  "The authors used a fluid domain around the rocket geometry to perform the CFD simulations.",
+  "The primitive DATCOM approach was time-consuming and hectic, so the authors used a more efficient and user-friendly approach.",
+  "The findings of this research can be beneficial to the missile industry for developing more stealthy and efficient missiles."
+]
