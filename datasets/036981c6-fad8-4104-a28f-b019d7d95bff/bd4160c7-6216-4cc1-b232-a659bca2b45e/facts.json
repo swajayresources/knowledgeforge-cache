@@ -1,0 +1,12 @@
+[
+  "The paper discusses the importance of reducing the radar cross-section (RCS) of signals intelligence (SIGINT) and electronic warfare (EW) systems to improve their survivability against airborne radar systems.",
+  "The contribution of the antenna to the overall RCS of military platforms can be as high as 98% in the most dangerous sectors of illumination.",
+  "Known approaches to reducing the electromagnetic field re-radiated by military platforms, such as using special shapes, radar-absorbing materials, and coatings, are not suitable for reducing the RCS of their antenna systems.",
+  "Any antenna, regardless of its impedance matching, will scatter a significant portion of the incident energy into the surrounding space due to the principle of reciprocity.",
+  "The differential RCS (\u03c3_d) and integral RCS (\u03c3) of a reflector antenna with a horn feed can be estimated using simple formulas involving the antenna directivity pattern and reflection coefficient.",
+  "Replacing a linearly polarized antenna with a circularly polarized one can reduce the RCS by changing the direction of reflection from the illuminating radar.",
+  "For ground-based SIGINT and EW stations, the approach of miniaturizing the horn feeds of their antenna systems while maintaining performance characteristics can be effective in reducing the RCS.",
+  "Adjusting the amplitude and phase of the reflection coefficient in the feed network can compensate for the shadowing and modal scattering, leading to a 10-20 dB reduction in the scattering.",
+  "The new antenna design should aim to minimize the differential and integral RCS in the main directions of observation, while meeting the required antenna gain, sidelobe levels, and other performance specifications.",
+  "The research conducted in this paper will contribute to the modeling of a new low-profile antenna feed and allow for the evaluation of its reduced effective scattering surface."
+]
