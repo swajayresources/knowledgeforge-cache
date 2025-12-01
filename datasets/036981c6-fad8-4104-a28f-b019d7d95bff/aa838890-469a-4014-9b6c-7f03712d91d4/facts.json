@@ -1,0 +1,17 @@
+[
+  "The authors reported the first experimental realization of birefringent transformation optics (TO) devices.",
+  "The devices were based on lithographically defined metal/dielectric waveguides, where adiabatic variations of the waveguide shape enabled control of the effective refractive indices for TE and TM modes.",
+  "One device operated as a Luneburg lens for TM polarized light, while behaving as a spatial (directional) filter for TE polarized light.",
+  "Another device functioned as a Luneburg lens for TM light, while exhibiting an approximate semi-classical cloaking Hamiltonian for TE polarized light.",
+  "The Luneburg lens devices achieved almost diffraction-limited (~0.7\u03bb) focusing of 515 nm light, which is an order of magnitude improvement over previous TO lens fabrication.",
+  "The devices demonstrated broadband performance, with similar focusing behavior observed at 515 nm and 633 nm.",
+  "The authors used a lithography technique to precisely control the thickness profile d(r) of the dielectric photoresist layer, enabling control of the effective refractive indices.",
+  "Variations of the waveguide thickness in the 0.1-0.3 \u03bcm range allowed obtaining very strong variations of the TE effective refractive index in the 0<neff<1.4 range, while keeping the TM refractive index approximately constant at neff>1.3.",
+  "The effective refractive index for TE waves was imaginary only within an extremely thin, 20 nm rim at the edge of the device, allowing significant TE light transmission.",
+  "The authors used a near-field scanning optical microscope (NSOM) to characterize the optical field distributions in the fabricated devices.",
+  "The work opens up an additional degree of freedom in optical design and improves the ability to manipulate light on the submicrometer scale using birefringent transformation optics devices.",
+  "The authors demonstrated the first experimental realization of birefringent TO devices that perform different functions for orthogonal polarization states of light.",
+  "The devices were fabricated using lithographically defined metal/dielectric waveguides with adiabatic variations in the waveguide shape.",
+  "The Luneburg lens devices achieved almost diffraction-limited focusing, an order of magnitude improvement over previous TO lens fabrication.",
+  "The devices demonstrated broadband performance and polarization-dependent behavior, which was characterized using an NSOM."
+]
