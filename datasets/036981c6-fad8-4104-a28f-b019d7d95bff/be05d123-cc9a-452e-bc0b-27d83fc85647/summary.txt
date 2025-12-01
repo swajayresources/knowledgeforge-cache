@@ -1,0 +1,1 @@
+This thesis compares the performance of a CW-nulling technique versus a pulse-gating technique for radar cross section (RCS) measurements. The pulse-gating system is shown to have a superior noise figure and ability to time-separate the target from surrounding chamber clutter, leading to more accurate RCS measurements especially for low RCS targets.
