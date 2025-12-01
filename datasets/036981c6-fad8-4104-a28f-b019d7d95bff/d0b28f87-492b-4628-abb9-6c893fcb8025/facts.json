@@ -1,0 +1,17 @@
+[
+  "The GL double-layered cloak consists of two sphere annular layers, with an inner radius R1 = 0.22m, a middle radius R2 = 0.3m, and an outer radius R3 = 0.35m.",
+  "The outer layer cloak of the GL double-layered cloak has an invisibility function, while the inner layer cloak has a full absorption function.",
+  "When the source is located outside of the GL double-layered cloak, the excited electromagnetic wave field propagation outside of the cloak is the same as in free space and is never disturbed by the cloak.",
+  "When local sources are located inside the GL double-layered cloak's concealment, the excited electromagnetic wave is completely absorbed by the inner layer cloak and never propagates outside of the inner layer.",
+  "The GL double-layered cloak is different from conventional cloaks in that it provides a normal electromagnetic environment inside the concealment.",
+  "The authors state that there exists no Maxwell electromagnetic wave field that can be excited by nonzero local sources inside a single-layer cloaked concealment with normal materials.",
+  "The GL method used in this paper does not require solving large matrix equations, does not need artificial boundaries or PML absorption conditions, and is suitable for simulating physical wave field scattering in dispersive materials.",
+  "The GL double-layered cloak uses anisotropic materials in the inner and outer layers, with the outer layer providing invisibility and the inner layer providing full absorption of electromagnetic waves.",
+  "The GL method is a global-local modeling and inversion approach that combines analytical and numerical techniques to accurately simulate physical wave field scattering.",
+  "The GL double-layered cloak is a robust cloak and has complete and sufficient invisibility functions, with its concealment being the normal electromagnetic environment.",
+  "The GL double-layered metamaterials are weak degenerative and weak dispersive.",
+  "The 3D GL EM modeling simulations show that the GL method is fast and accurate in simulating the electromagnetic wave propagation through various cloaks.",
+  "The GL double-layered cloak overcomes the drawbacks and difficulties of the single-layer cloak, providing a normal electromagnetic environment inside the concealment.",
+  "The GL method does not need to solve large matrix equations, only requiring the solution of 3x3 and 6x6 matrix equations.",
+  "The GL method does not need any artificial boundary or PML absorption condition to truncate the infinite domain."
+]
