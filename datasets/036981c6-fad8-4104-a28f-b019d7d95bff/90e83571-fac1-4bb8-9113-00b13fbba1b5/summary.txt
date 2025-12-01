@@ -1,0 +1,1 @@
+This paper demonstrates that on-shell methods can simplify the calculation of higher-order electromagnetic, gravitational, and mixed electromagnetic-gravitational scattering effects compared to traditional Feynman diagram approaches. The authors show how this technique reproduces previous results obtained through more tedious diagrammatic evaluations.
