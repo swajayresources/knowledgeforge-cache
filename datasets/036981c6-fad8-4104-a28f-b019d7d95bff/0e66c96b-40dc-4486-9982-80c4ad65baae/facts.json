@@ -1,0 +1,22 @@
+[
+  "RCS is defined as 4\u03c0 times the ratio of scattered power density to incident power density in a specific direction.",
+  "Shaping techniques reduce RCS by deflecting radar waves away from the radar receiver through surface orientation.",
+  "Radar Absorbing Materials convert incident radar energy into heat, reducing reflected energy.",
+  "Active cancellation emits signals out of phase with radar echoes to destructively interfere and reduce RCS.",
+  "Microstrip antennas have high RCS due to their ground planes, which can be mitigated using metamaterials.",
+  "Frequency Selective Surfaces (FSS) can create bandstop or passband effects to control radar wave reflection.",
+  "Electromagnetic Bandgap (EBG) metamaterials prohibit electromagnetic wave propagation in certain frequency bands.",
+  "Negative Index Metamaterials exhibit negative permittivity and permeability, enabling unique wave manipulation.",
+  "Composite AMC surfaces with magnetodielectric substrates can achieve broadband RCS reduction with over 13 dB reduction and 93% bandwidth.",
+  "Wideband chessboard AMC structures can achieve -10 dB RCS reduction over 73% bandwidth.",
+  "Polarization conversion metamaterials can reduce in-band RCS by up to 16 dB compared to reference antennas.",
+  "Radar detection range decreases with the fourth root of RCS, so halving detection range requires reducing RCS by 16 times.",
+  "RAM coatings require uniform thickness and smoothness for effective RCS reduction and are often toxic.",
+  "Active cancellation techniques are more suitable for low-frequency RCSR due to broader scattering lobes.",
+  "Metamaterials enable antenna miniaturization, bandwidth expansion, gain enhancement, and RCS reduction simultaneously.",
+  "The proposed metamaterial unit cell includes a square loop and intersecting strips to reduce microstrip antenna RCS.",
+  "Modern radars operate across frequency bands from VHF (30-300 MHz) to Ka band (27-40 GHz), requiring broadband RCSR solutions.",
+  "Passive RCSR techniques are generally preferred for their simplicity and reliability over active methods.",
+  "The paper emphasizes combining shaping and RAM for effective stealth performance.",
+  "Metamaterials' electromagnetic responses differ from their constituent components due to engineered structure."
+]
