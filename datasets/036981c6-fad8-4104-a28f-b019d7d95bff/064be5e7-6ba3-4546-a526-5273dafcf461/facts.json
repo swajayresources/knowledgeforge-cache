@@ -1,0 +1,17 @@
+[
+  "Thousands of tests were conducted on integrated circuits of various types and manufacturers to determine their susceptibility to microwave signals.",
+  "The minimum power levels that caused interference or damage in TTL, CMOS, op amps, voltage regulators, comparators, and line drivers/receivers were measured and presented in graphs.",
+  "Interference effects were observed to decrease with increasing frequency of the interfering signal.",
+  "Modulation of the interfering RF signal resulted in modulation of the interference effect seen in the circuit outputs.",
+  "Permanent damage to integrated circuits can occur when the RF power level is high enough to cause irreversible thermal effects.",
+  "The modeling techniques in Chapter 5 can be used to analyze interference effects in ICs not specifically tested, including worst-case analyses.",
+  "A worst-case approach is recommended to determine the maximum RF power picked up by system cables from the environment.",
+  "The hardening requirement is defined as the ratio of the maximum expected pickup level to the minimum component susceptibility level.",
+  "If the hardening requirement is less than 0 dB, no additional hardening is needed, but if it exceeds 0 dB, hardening measures must be implemented.",
+  "Hardening measures below 30 dB can be implemented directly, but above 30 dB, a more detailed vulnerability analysis is recommended.",
+  "The handbook focuses on the 100 MHz to 40 GHz frequency range, with the upper limit of practical concern being closer to 10 GHz.",
+  "Theoretical and practical considerations suggest the worst-case interference problems are adequately covered in the 100 MHz to 40 GHz range.",
+  "The proposed system hardening approach involves five key steps: environment specification, cable pickup assessment, component susceptibility determination, vulnerability assessment, and hardening implementation.",
+  "The handbook is intended to provide the information needed to estimate the susceptibility of circuits containing ICs to RF energy and to approach the hardening task required for high-power RF environments.",
+  "The handbook is the final version that incorporates feedback from previous drafts and is expected to be a valuable resource for many years."
+]
