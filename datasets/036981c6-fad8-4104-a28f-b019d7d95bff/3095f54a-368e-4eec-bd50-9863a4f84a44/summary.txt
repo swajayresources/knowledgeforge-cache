@@ -1,0 +1,1 @@
+This paper proposes using temporal steering, a quantum correlation measure, to detect the existence of an invisibility cloak. The authors show that the temporal steering parameter varies with time when the incident waves (electromagnetic or matter waves) pass through the cloaking shell, indicating the presence of the cloak.
