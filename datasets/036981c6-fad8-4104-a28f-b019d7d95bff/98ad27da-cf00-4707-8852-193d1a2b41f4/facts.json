@@ -1,0 +1,17 @@
+[
+  "The fan-shaped SRR absorber can achieve a 10 dB fractional bandwidth of 4.5%, which is about 4 times wider than the 1% bandwidth of the conventional rectangular SRR absorber.",
+  "The fan-shaped SRR absorber has a second absorption band at 11.7 GHz with over 20 dB reflection coefficient and an 8% fractional bandwidth.",
+  "The modified HIGP absorber has a 10 dB bandwidth from 9.5 GHz to 10.5 GHz, which is almost double the 5.5% bandwidth of the conventional HIGP absorber.",
+  "The modified HIGP absorber achieves a minimum reflection coefficient of over 20 dB at the center frequency, compared to only around 12 dB for the conventional HIGP design.",
+  "Both the fan-shaped SRR and modified HIGP absorbers can maintain their performance for both co-polarized and cross-polarized incident waves.",
+  "The metamaterial absorbers reported in this paper have a very thin physical thickness of only 1.6 mm.",
+  "The fan-shaped SRR absorber can increase the bandwidth by up to 8 times compared to the conventional rectangular SRR design.",
+  "The modified HIGP absorber has almost double the 10 dB fractional bandwidth compared to the conventional HIGP absorber.",
+  "Electromagnetic full-wave simulations were used to calculate the reflection coefficients of the proposed metamaterial absorbers.",
+  "The proposed metamaterial absorbers were designed and simulated for operation in the X-band frequency range.",
+  "The fan-shaped SRR and modified HIGP absorbers were fabricated on an FR4 substrate with relative permittivity of 4.4 and loss tangent of 0.02.",
+  "Surface mount resistors of 375 Ohms were used to connect the patches in the modified HIGP absorber design.",
+  "The fan-shaped SRR geometry was proposed to enhance the parasitic effects and achieve wider/multi-band absorption.",
+  "The modified HIGP absorber design involved cutting asymmetric rectangular slots in the patch elements.",
+  "The goal of the new metamaterial absorber designs was to improve the absorption level, bandwidth, and polarization performance compared to conventional designs."
+]
