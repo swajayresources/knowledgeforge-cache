@@ -1,0 +1,17 @@
+[
+  "Results for moving sphere and non-uniformly rotating sphere are given and compared with static (v=0) case",
+  "ir 1 3102 nuJ 91 ]hp-ssalc",
+  "scisyhp[ 1v1964",
+  "6031:viXra I",
+  "But in the relativistic case, we know that if cos(\u03b8) = 0 then we have a frequency shift [1]",
+  "In the case of rotating frames, we can use \u201dFranklin\u201d transformation [2]",
+  "Several authors discuss about relativistic corrections of c EM fields for both constant velocity and rotating frames [3\u201314]",
+  "At first sight, it seems that relativistic effects can not be detected, but we know that relativistic effects in engineering can be considered [15]",
+  "(The differential scattering cross section is proportional to the radar cross section in engineering [16] by the factor 4\u03c0",
+  "In this paper I focus on multi- static RCS (differential cross section), and express it as a perturbative series (\u03c3 = \u03c3 (1 + \u03b4)) up to v order",
+  "I also solve equations for simple case 0 c (moving sphere) and compar the results with static case (v = 0)",
+  "This process can be found in most textbooks [1, 16]",
+  "In the case of accelerated motion, I use the effect of the conducting electrons\u2019 finite mass (the Stewart\u2013Tolman effect) [17] and its effects on the current distribution",
+  "The result of Stewart\u2013Tolman effect can be collected 2 as an effected magnetic moment [17]",
+  "To obtain the relation between the fields in the two frames, we can use the field strength tensor [1]: F\u00b5\u03bd = \u2202\u00b5A\u03bd \u2212\u2202\u03bdA\u00b5"
+]
