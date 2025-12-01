@@ -1,0 +1,17 @@
+[
+  "The paper investigates the scattering from impedance strips and impedance-loaded conducting strips.",
+  "The impedance strips are analyzed using Senior's impedance half plane formulation.",
+  "The scattering from impedance-loaded strips is analyzed using Maliuzhinets' impedance wedge formulation.",
+  "The multiple diffractions on both types of strips are developed using the Extended Spectral Ray Method.",
+  "Sample calculations are made for impedance strips and impedance-loaded strips for a large purely capacitive impedance, a large purely inductive impedance, a large real impedance, and a small real impedance.",
+  "Measurements are made for impedance strips and impedance loaded strips and are used to compare against predictions.",
+  "The impedance materials used are two magnetic radar absorbing materials (SF 10 and FG 40) and two resistive materials (SC 100 and VF 10).",
+  "The paper develops computational subroutines to calculate the 2D edge diffraction of impedance edges and junctions.",
+  "The computational methods are accurate for electrically large targets and computationally efficient compared to the method of moments technique.",
+  "The paper presents a summary and conclusions, as well as recommendations for further research.",
+  "The objectives of the thesis are to develop computational methods, use them to predict scattering patterns, and verify the accuracy against measurements.",
+  "The paper investigates the scattering characteristics of purely inductive, purely capacitive, large non-reactive, and small non-reactive impedance strips and impedance loaded strips.",
+  "The paper uses the impedance half plane and impedance wedge formulations to develop the primary diffraction mechanisms.",
+  "The Extended Spectral Ray Method is used to develop the secondary diffraction mechanisms on impedance strips and impedance double wedges.",
+  "The paper compares the scattering predictions against measurements made on physical samples using the impedance materials."
+]
