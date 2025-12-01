@@ -1,0 +1,21 @@
+[
+  "In this paper,followinganideadevelopedbyKleinmanandMartin[19]foracousticscatter- ingproblems,weconsidermethodsforsolvingthedielectricscatteringproblemusing a single integralequation over\u0393 for a single unknown density",
+  "1 Introduction We consider the scattering of time-harmonic electromagnetic waves in R3 by a bounded Lipschitz obstacle",
+  "This problem is described by the system of Maxwell\u2019s equations, valid in the sense of distributions in R3, which implies two transmission conditions expressing the continuity of the tangential components of the fields across the interface",
+  "The transmis- sion problem is completed by the Silver-M\u00fcller radiation condition at infinity (see [26] and [28])",
+  "Such formulations are analyzed in Harrington\u2019s book [16] and in Martin and Ola\u2019s \u2217IRMAR, Institut Math\u00e9matique, Universit\u00e9 de Rennes 1, 35042 Rennes, France, martin",
+  "costabel@univ-rennes1",
+  "fr \u2020IRMAR,Institut Math\u00e9matique, Universit\u00e9 deRennes1, 35042 Rennes 1 1102 beF 52 ]AN",
+  "htam[ 2v9141",
+  "2190:viXra comprehensive paper [22]",
+  "Some pairs of boundary integral equations, such as M\u00fcller\u2019s [27], are uniquely solvable for all real values of the exterior wave number and others, such as the so-called electric-field formulations [22] are not, although the underlying Maxwell interface problem isalways uniquely solvableunderstandardassumptions onthematerial coefficients",
+  "For two-dimensional dielectric scattering problems, one can find various for- mulationsandnumericalresultsin[29,30,32]",
+  "In[23]Marxdevelopssinglesourceintegral formulations for three-dimensional homogeneous dielectric objects using an ansatz on the exterior electric field and in [34] Yeung presents electric-field (EFIE) and magnetic-field (MFIE) integral equations for a single unknown based on an ansatz on the interior scat- tered field",
+  "Computational results in [34] show higher convergence speed for the MFIE and the EFIE than for the pairs of boundary integral equations",
+  "We follow ideas of [19] where Kleinman and Martin considered the analogous question for the acoustic interface scattering problem",
+  "Mautzpresents in[24]analternative thatleads to an associated interior problem with an impedance boundary condition, which ensures the uniqueness of the solution",
+  "0 4 Integral equations 1 In this section, we present the first method for solving the dielectric problem, following the procedure of R",
+  "In either case, we derive two boundary integral equations of the second kind and we show uniqueness of their solutions under suitable conditions on an associated interior boundary value problem",
+  "Moreover, we show that the integral opera- tors in each integral equation are Fredholm of index zero",
+  "If the boundary is only Lipschitz, we show that under more restrictive conditions one still has strong ellipticity of the integral operators"
+]
