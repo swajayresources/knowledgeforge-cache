@@ -1,0 +1,1 @@
+This paper presents acceleration techniques for regularized Newton methods applied to electromagnetic inverse medium scattering problems. It introduces spectral preconditioning and an efficient implementation of a Lepski-type stopping rule to improve the performance of iterative regularization methods for this ill-posed nonlinear inverse problem.
