@@ -1,0 +1,17 @@
+[
+  "The cross sections were computed using the Tai formulas, with corrections to the original formulas.",
+  "Results are presented for both vertically and horizontally polarized radars.",
+  "Cross sections are given for 2l/\u03bb ratios between 0.16 and 0.55, in 5\u00b0 elevation angle increments.",
+  "Table I presents the dipole cross-section \u03c3(\u03b8)/\u03bb^2, where the subscripts vv and hh denote the radar polarization.",
+  "Table II extends the information in Table I, providing cross sections for A values of 40, 60, 100, 200, 400, 600, 1000, 2000, and 4000.",
+  "Table III gives the cross sections assuming a random orientation distribution of the dipoles.",
+  "The measured-to-computed response ratio has an average value of -1.5 dB \u00b1 1 dB in the range 0.19 \u2264 2l/\u03bb \u2264 0.37.",
+  "For dipoles with 2l/\u03bb = 0.5 (approximately 2 inches long), the measured-to-computed response ratio is -4.0 dB.",
+  "The random orientation distribution failed to give a correct polarization response ratio at all values of 2l/\u03bb and \u03b8 tested.",
+  "The average of the vertical and horizontal measured-to-computed ratios for 2l/\u03bb = 0.5 under the random orientation assumption is -1.8 dB.",
+  "The measured vertical response is approximately 1 dB lower than the random-distribution computed response for 2l/\u03bb = 0.5.",
+  "The measured horizontal response is lower than the computed response by 3 dB for 2l/\u03bb = 0.5.",
+  "Dipoles less than 3 inches long should use the horizontal-vertical distribution, while longer dipoles shift towards the random orientation.",
+  "The improved accuracy from the horizontal-vertical distribution corresponds to a 40% reduction in the weight of chaff needed to produce a given echo.",
+  "The tables provide results 1.5 dB closer to the measured values than the Van Vleck method."
+]
