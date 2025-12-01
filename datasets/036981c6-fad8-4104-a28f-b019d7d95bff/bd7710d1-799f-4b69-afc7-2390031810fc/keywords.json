@@ -3,16 +3,16 @@
   "Acoustic attenuation",
   "Seawater",
   "Sound channels",
-  "SOFAR channel",
+  "SOFAR",
   "Diffraction",
   "Scattering",
   "Boric acid",
   "Borate",
   "Chemical relaxation",
   "Magnesium sulfate",
-  "Oceanographic variables",
-  "Sound absorption coefficient",
   "Thorp equation",
-  "Acoustical oceanography",
-  "Marine chemistry"
+  "Oceanographic variables",
+  "Sound absorption",
+  "Frequency dependence",
+  "Water mass composition"
 ]
