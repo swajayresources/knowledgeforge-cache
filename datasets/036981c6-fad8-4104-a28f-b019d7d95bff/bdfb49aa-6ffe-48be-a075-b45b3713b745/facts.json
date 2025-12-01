@@ -1,0 +1,17 @@
+[
+  "The paper presents two models of animal behavior as active particle systems with nonreciprocal interactions.",
+  "The first model describes the dynamics of animal contests, where the adversarial nature of the interactions is captured by unique effective potentials between the 'contestant particles'.",
+  "The second model explains the stabilization of cohesive swarms through long-range and adaptive gravity-like attraction between the particles.",
+  "The contestant particles move due to deterministic interaction-induced forces and stochastic forces, governed by a Langevin equation.",
+  "The interactions between contestants are encoded by effective 'contestant interaction potentials' that are nonreciprocal, reflecting the adversarial nature of the contest.",
+  "The 'adaptive gravity' model introduces a non-equilibrium property by violating the conservation of energy and momentum, leading to nonreciprocal interactions.",
+  "The asymmetry in the nonreciprocal interaction forces between contestants with different 'strengths' can lead to the emergence of 'chase dynamics' between highly unmatched rivals.",
+  "The typical length scale for the inter-contestant interactions in the contest model is denoted as x0, which is 1.0 in the units used.",
+  "The paper demonstrates that theoretical models using the framework of active particles to describe animal behavior can expand the scope of active-particle research and explain complex phenomena in animal behavior.",
+  "The paper emphasizes how modeling animal behavior provides motivation to introduce and explore unique types of interactions and emergent phenomena in the context of active particle systems.",
+  "The paper reviews two recent empirically-motivated models of very different types of animal behavior, where the behavior is described in terms of active particles which interact through nonreciprocal effective forces.",
+  "The first model describes the dynamics of animal contests, where typically two rivals fight over a localized resource.",
+  "The second model describes the stabilization of cohesive swarms through long-range and adaptive gravity-like attraction.",
+  "The paper demonstrates that the effective interactions which arise within the context of animal behavior can have distinct properties that do not appear in typical physical systems: forces between animals can be nonreciprocal and adaptive.",
+  "Nonreciprocal interactions have garnered increasing attention in recent research, and they arise naturally in the context of animal contests (short-range fights)."
+]
