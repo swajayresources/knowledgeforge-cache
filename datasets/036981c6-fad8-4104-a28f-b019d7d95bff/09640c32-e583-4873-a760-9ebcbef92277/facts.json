@@ -1,0 +1,22 @@
+[
+  "Underwater acoustic metamaterials are artificial periodic structures with microstructures that can create band gaps to suppress sound waves in certain frequency ranges.",
+  "Local resonance metamaterials (LRM) use rubber-coated metal spheres embedded in viscoelastic polymers to achieve low-frequency sound absorption between 600 and 2000 Hz.",
+  "The average sound absorption coefficient of a particle-filled polyurethane metamaterial plate with spiral resonators is 0.54 in the 0.8\u20136 kHz range under normal pressure.",
+  "The same metamaterial plate maintains an average absorption coefficient of 0.51 in the 1.5\u20136 kHz range under 0.5 MPa hydrostatic pressure.",
+  "Gradient exponential metamaterials with acoustic black hole effects can achieve omnidirectional broadband sound absorption underwater.",
+  "Open-cell SiC foam filled with silicone oil improves impedance matching and achieves sound absorption coefficients close to one in the 750\u20134000 Hz range.",
+  "Chiral metamaterials with negative Poisson\u2019s ratio exhibit enhanced vibration isolation and sound insulation below 50 Hz.",
+  "Honeycomb-type acoustic metamaterial plates can achieve an average sound transmission loss of 10 dB in the 2\u201310 kHz range under 3 MPa hydrostatic pressure.",
+  "Pentamode metamaterials have shear modulus far less than bulk modulus, enabling anisotropic acoustic wave manipulation and underwater acoustic cloaking.",
+  "Pentamode metamaterial cloaks assembled from single-phase solid materials can achieve segmented frequency range stealth but have limited broadband performance.",
+  "The narrow bandwidth of local resonance metamaterials can be broadened by coupling multiple resonance units with different frequencies.",
+  "Sound insulation decoupling metamaterials (SIDM) reduce near-field self-noise caused by flow-induced vibration to improve sonar detection and stealth.",
+  "Traditional porous metamaterials have weak low-frequency vibration suppression and isolation, limiting their decoupling effectiveness.",
+  "Negative Poisson\u2019s ratio materials contract longitudinally when compressed and expand longitudinally when stretched, aiding in sound insulation.",
+  "Underwater acoustic guided metamaterials (UAGM) steer sound waves to bypass targets, achieving acoustic stealth by controlling wave propagation paths.",
+  "Hydrostatic pressure resistance is a critical design factor for underwater acoustic metamaterials to maintain performance in deep-sea environments.",
+  "The band gap in phononic crystals is mainly formed by Bragg scattering, requiring large cell sizes for low-frequency control, limiting engineering applications.",
+  "Local resonance band gaps arise from resonance effects of embedded units, enabling subwavelength low-frequency sound control.",
+  "The impedance mismatch between underwater acoustic equipment and water can cause self-noise transmission, which SIDM aims to block.",
+  "The paper emphasizes the need for metamaterials that combine broadband absorption, low frequency operation, and pressure resistance for future underwater acoustic equipment."
+]
