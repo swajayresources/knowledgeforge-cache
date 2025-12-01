@@ -1,0 +1,1 @@
+This paper presents an active acoustic illusion technique using monopole control sources and error sensors to misrepresent the acoustic fields due to scattering by a rigid object, enabling stealth and subterfuge applications.
