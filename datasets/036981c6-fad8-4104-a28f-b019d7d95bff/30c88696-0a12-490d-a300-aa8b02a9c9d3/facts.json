@@ -1,0 +1,22 @@
+[
+  "Radar cross section (RCS) reduction is critical for stealth target design.",
+  "Microwave absorbers coated on target surfaces are flexible, cost-effective, and widely used for RCS reduction.",
+  "The designed absorbers cover a frequency range from 2.0 to 18.0 GHz, matching most radar bands.",
+  "Two composite materials with 10% and 35% carbonyl iron powder (CIP) concentrations are used for matching and absorbing layers respectively.",
+  "Transmission Line Theory (TLT) models the multilayer absorber as a transmission line to calculate reflection coefficients.",
+  "Particle Swarm Optimization (PSO) is used to optimize layer thicknesses and number of layers.",
+  "Seven multilayer designs (Type I to Type VII) were developed with varying layers and thicknesses.",
+  "Single-layer absorbers (Type I and II) have narrow bandwidth and poor absorption performance.",
+  "Type-IV design is a two-layer absorber with total thickness 3.0 mm and bandwidth nearly 15 GHz.",
+  "Type-VII design is a five-layer absorber with air gaps, total thickness 5.37 mm, and improved low-frequency absorption.",
+  "Both Type-IV and Type-VII designs are insensitive to incident wave angles up to 45\u00b0 and to polarization.",
+  "Coating a PEC cylinder with Type-IV or Type-VII absorbers reduces RCS by at least 8 dB across most of 2.0 to 18.0 GHz.",
+  "Type-IV coating achieves up to 17.5 dB RCS reduction at 17 GHz; Type-VII achieves up to 16.5 dB at 12 GHz.",
+  "Increasing the number of layers and total thickness improves absorption performance and bandwidth.",
+  "The designed absorbers are very thin relative to radar wavelengths (e.g., 3 mm thickness vs. 60 mm cylinder radius).",
+  "Complex permittivity and permeability of composite materials are stable over the radar frequency range.",
+  "The absorbers maintain good performance on curved surfaces, not just planar infinite plates.",
+  "The method combining TLT and PSO simplifies design compared to full-wave EM simulations.",
+  "Metamaterial absorbers typically have narrow bandwidth and angle sensitivity, which the proposed composites overcome.",
+  "The absorbers have potential industrial applications due to their broadband, thin, and angle-insensitive properties."
+]
