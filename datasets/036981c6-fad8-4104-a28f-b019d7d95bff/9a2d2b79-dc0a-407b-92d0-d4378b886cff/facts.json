@@ -1,0 +1,17 @@
+[
+  "1 Radar Cross Section of Chipless RFID tags and BER Performance Michele Borgese, Member, IEEE, Simone Genovesi Senior Member, IEEE, Giuliano Manara, Fellow, IEEE and Filippo Costa, Senior Member, IEEE The aim of the present work is to analyse the performance Abstract\u2014The performance of different chipless RFID tag of chipless RFID system from the point of view of a com- topologies are analysed in terms of Radar Cross Section (RCS) munication system [16], [17]",
+  "The parameter commonly used for this purpose is theoretically by using array theory where each resonator is the Bit Error Rate (BER) [18]",
+  "The miniaturization of the tag is desirable only if the is the more meaningful and fair figure of merit for comparing theperformanceofdifferenttagsthanbit/cm2orbit/Hzsince detection probability is maintained above an acceptable level the increase of encoded information of the tag is useful only if in a typical operative scenario",
+  "increase the RCS level of the tag consists in replicating a Index Terms\u2014Bit Error Rate (BER), Chipless RFID, Com- multi-frequency resonator along one or two planar directions munication Systems, Radar Cross Section (RCS), Frequency so as to form a periodic surface [19]",
+  "In particular, Integrated Circuit (IC) [1]",
+  "Itisshownthattheformerapproach the compatibility with wearable and printable electronics [2]",
+  "leads to a higher mutual interaction among the resonators but SimilarlytoconventionalRFID[3],chiplessRFIDtechnology it allows achieving a much better RCS level with respect to can be employed in scenarios where sensing capabilities are the aperiodic disposition (as high as 15dB)",
+  "In fact, all the also required [4]\u2013[7]",
+  "scatterers comprised in the periodic tag reflect the impinging Chipless RFID tags are usually differentiated among those fieldwiththesameamplitudeandphasewhereasanaperiodic operating in time domain (TD) or in frequency domain (FD) disposition of resonators determines an incoherent reflection [8]",
+  "ThemostinterestingTDtagsarebasedonSurfaceAcous- since each element responds with different amplitude and tic Wave (SAW) technology, which exploits the properties of phase [20], [21]",
+  "In addition to that, keeping in mind both piezoelectric materials [9] for electromagnetic/acoustic wave array and FSS theory [22], [23], also the element spacing has conversion",
+  "resonators arranged in a planar configuration [10], [11]",
+  "InSectionIV,three at comparing the performance of different tags [12]\u2013[15]",
+  "VI is dedicated to comparing the performance of the different \u00a92020IEEE",
+  "3037800 0202 ceD 32 ]hp-ppa"
+]
