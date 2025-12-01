@@ -1,17 +1,12 @@
 [
-  "The paper investigates the scattering from impedance strips and impedance-loaded conducting strips.",
-  "The impedance strips are analyzed using Senior's impedance half plane formulation.",
-  "The scattering from impedance-loaded strips is analyzed using Maliuzhinets' impedance wedge formulation.",
-  "The multiple diffractions on both types of strips are developed using the Extended Spectral Ray Method.",
-  "Sample calculations are made for impedance strips and impedance-loaded strips with four types of impedances: large purely capacitive, large purely inductive, large real, and small real.",
-  "Measurements are made for impedance strips and impedance loaded strips and used to compare against predictions.",
-  "The impedance materials used are two magnetic radar absorbing materials (SF 10 and FG 40) and two resistive materials (SC 100 and VF 10).",
-  "The paper presents computational subroutines to calculate the 2D edge diffraction of impedance edges and junctions.",
-  "The paper verifies the accuracy of the computational subroutines against experimental measurements.",
-  "The paper aims to provide accurate and computer efficient predictions of the scattering from 2D conductive strips with constant impedance loads.",
-  "The paper's analysis accounts for the surface waves predicted by electromagnetic theory to exist when energy is incident on impedance materials.",
-  "The impedance double wedge formulation is used to predict the scattering from impedance cylindrical polygons, impedance inserts in full plane structures, and thick impedance half planes.",
-  "The paper demonstrates up to 15 dB decreases in the edge-on scattering of a conducting strip by applying a parabolically tapered resistive load.",
-  "The paper highlights the frequency dependence of impedance loading as a main disadvantage for RCS reduction.",
-  "The paper uses both the Geometrical Theory of Diffraction (GTD) and the Uniform Theory of Diffraction (UTD) to predict scattering from impedance edges and junctions."
+  "Radar absorbing materials are used as the main components in the creation of electromagnetic wave absorbers, which are used for the equipment of anechoic chambers.",
+  "Resonant radar absorbing materials provide partial neutralization of radiation reflected from the surface of the absorber, where the thickness of the absorber is equal to one quarter of the wavelength of the radiation.",
+  "Nickel ferrites are used mainly in the ranges of mile-and centimeter waves, have high values of saturation magnetization and high thermal stability, but have the disadvantage of high initial losses.",
+  "Magnetic ferrites are used in the middle part of the centimeter range, have low magnetic saturation, and the main drawback is low thermal stability.",
+  "Metal screens at almost acceptable thickness provide good shielding efficiency at all frequencies of the radio band, with efficiency increasing with frequency.",
+  "Non-resonant bulk radar absorbing materials absorb most of the energy supplied to the approach and possible reflection of the wave from the metal back plate, using both dielectric and magnetic losses.",
+  "Radar absorbing materials based on metamaterials have the ability to absorb electromagnetic waves at plasma resonance frequencies, due to the resonance interaction of the electromagnetic wave propagating in a heterogeneous medium.",
+  "Metamaterials can have both negative magnetic permeability and electrical susceptibility, resulting in electromagnetic waves with opposite phase and group velocities.",
+  "An example of a technical solution for a two-dimensional microwave absorber based on metamaterial is a dielectric layer with SRR cells applied, providing an absorption level of not less than 80% at EMV incidence angles from 0 to 50 degrees at a frequency of 9.5 GHz.",
+  "The reported study was funded by RFBR and Volgograd region according to research project no.19-43-340005."
 ]
