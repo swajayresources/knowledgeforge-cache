@@ -1,0 +1,1 @@
+This paper proposes a novel framework for active 3D shape reconstruction from vision and touch, leveraging a haptic simulator, a mesh-based reconstruction model, and data-driven policies to select the optimal sequence of touch inputs.
