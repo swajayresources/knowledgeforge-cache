@@ -1,0 +1,1 @@
+This paper introduces and compares various 'reduction techniques' for survival analysis, which transform survival tasks into more common regression or classification problems. These techniques allow for applying standard machine learning tools to survival analysis without requiring custom learners.
