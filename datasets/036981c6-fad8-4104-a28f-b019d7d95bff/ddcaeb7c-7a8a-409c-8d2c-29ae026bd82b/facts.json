@@ -1,0 +1,17 @@
+[
+  "The proposed 2D-RWTM method is a gridless super-resolution method that does not depend on fitting the scattering points on a predefined grid.",
+  "The 2D-RWTM method uses a reweighted trace minimization approach to retrieve the 2D frequencies of the scattering points in both range and cross-range directions.",
+  "The 2D-RWTM method outperforms the Atomic Norm Minimization (ANM) method in terms of Mean Squared Error (MSE) for ISAR imaging, especially when the number of available samples is limited.",
+  "The 2D-RWTM method can successfully retrieve the scattering point locations using different weighting matrix structures (identity, center-weighted, and random).",
+  "The 2D-RWTM method requires the distance between scattering points to satisfy a minimum allowable distance (0.032 in the simulations) for accurate retrieval of the 2D frequencies.",
+  "The ISAR imaging simulations are performed at a frequency of 9 GHz, considering an Airbus plane with 18 distinct scattering points with high radar cross-section.",
+  "The ISAR imaging simulations use 90 noise-free samples randomly selected from a total of 196 complete data samples, with 6 viewing angles and 8 pulses per viewing angle.",
+  "The paper does not explicitly mention the Coherent Processing Interval (CPI) used in the ISAR imaging simulations.",
+  "The 2D-RWTM method uses a Vandermonde decomposition of a 2-level Toeplitz (2LT) matrix to retrieve the 2D frequencies of the scattering points.",
+  "The 2D-RWTM method applies the Matrix Pencil and (auto-) Pairing (MaPP) algorithm to retrieve the scattering points from the received signal.",
+  "The 2D-RWTM method is a gridless super-resolution approach that does not require signal discretization, leading to less complexity compared to other methods.",
+  "The 2D-RWTM method is designed to handle incomplete received data, where some of the transmitted pulses from different viewing angles are not received.",
+  "The 2D-RWTM method assumes that the translational and rotational motions of the target are compensated, which facilitates reducing the computational complexity.",
+  "The 2D-RWTM method is based on the principles of Inverse Synthetic Aperture Radar (ISAR) imaging, where the relative motion between the radar and the target is used to form a 2D image of the target.",
+  "The 2D-RWTM method is focused on improving the resolution of ISAR images by recovering the sparse scattering points of a target that have stronger reflections than other target points."
+]
