@@ -1,0 +1,18 @@
+[
+  "A novel implementation of symmetric boundary condition in harmonic and transient analysis of electromagnetic wave propagation DurgaraoKamireddy\u2217, SreekanthKaranam and ArupNandy DepartmentofMechanicalEngineering,IndianInstituteofTechnologyGuwahati,Guwahati781039,India ARTICLE INFO ABSTRACT Keywords: WhiledoingelectromagneticanalysisusingFEM(Finiteelementmethod),ifwecanimplement FEM theunderlyingsymmetricnatureoftheproblem,therewillbesignificantreductioninthecompu- Electromagnetics tationalcost",
+  "Tomimictheinfinitenature,some appropriateabsorbingboundarycondition(ABC)isimposedonthetruncationsurface[17]",
+  "ThisABCisdetermined based on Sommerfeld radiation condition [2]",
+  "In [2, 11, 24, 27], various second- and higher-order ABCs were im- plemented",
+  "In[2,11,24,27],authorsmodeledtheinteriorcomputationaldomainwithedgeFEMandthetruncation surface with Boundary Integral (BI) method",
+  "Itisnotverystraightforwardtoimplementthissymmetriccondition in potential formulation [10]",
+  "Being inspired from the Wilcox asymptotic expansion for electric field in exterior domain [15], A",
+  "proposed an amplitude formulation [17] in nodal FEM, using potentials, to carry out harmonic electromagnetic analysis, for solving electromagnetic radiation and scattering problems in exterior domain",
+  "In the current work, we havealsoextendedournovelimplementationofsymmetricboundaryconditionintheAmplitudeformulation[17]",
+  "FDTD,introducedbyYee[19],gainedpopularityduetoitseaseinimplementation of the numerical integration",
+  "TDFEM [3, 14, 29, 16, 7, 12, 25] soon replaced FDTD as it could be easily general- izedtocomplexgeometries",
+  "\u2217Correspondingauthor durga176103010@iitg",
+  "Nandy) ORCID(s): Durgarao Kamireddy, Sreekanth Karanam, Arup Nandy: PreprintsubmittedtoElsevier Page1of16 3202 raM 12 ]PS",
+  "ssee[ 2v75940",
+  "2122:viXra In first approach [7, 12, 25], second order electromagnetic wave equation was solved for either electric or magnetic field",
+  "For all the problems, we have validated our results against either analytical benchmark results or other benchmark from existing literatures"
+]
