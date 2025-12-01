@@ -1,0 +1,17 @@
+[
+  "The high-frequency scattering problems of electromagnetic fields scattered from electrically large scatterers are important and challenging.",
+  "The computational effort for the scattered field increases vastly with the growth of the electrical size of the considered scatterer.",
+  "The fast multilevel fast multipole algorithm (MLFMA) reduces the workload to O(N logN), but in the high-frequency regime, the computational workload is still too high to afford.",
+  "The GO method provides a fast way to calculate the reflected field from electrically large scatterers with frequency-independent workload.",
+  "The SBR method uses ray tracing, amplitude tracking, and physical optics to capture the scattered fields from complicated structures like cavities.",
+  "The GTD method calculates the diffracted fields from canonical wedge problems, but it breaks down near the shadow and reflection boundaries.",
+  "The UTD method uses the uniform asymptotic technique to overcome the breakdown problem of the GTD method near the transition regions.",
+  "The PO method approximates the induced current on the scatterer, leading to highly oscillatory integrals for the scattered fields.",
+  "The PTD method introduces an edge current to correct the PO current around the shadow boundary and in the deep shadow regions.",
+  "The ILDC technique calculates the diffracted wave fields by integrating the free-space dyadic Green's function and the uniform current over the surface of the scatterer.",
+  "The NSDP method can efficiently calculate the highly oscillatory wave fields from both the PO and ILDC techniques with frequency-independent computational workload and controllable accuracy.",
+  "The paper discusses high-frequency wave physics phenomena such as critical point contributions, Keller's cone, shadow and reflection boundaries, and creeping wave fields.",
+  "Other high-frequency methods and techniques mentioned in the paper include wave boundary element methods, rapidly oscillating quadratures, boundary integral methods, fast multipole method, and time-domain high-frequency methods.",
+  "The paper is an invited paper for the Commemorative Collection on the 150-Year Anniversary of Maxwell's Equations.",
+  "The paper was published in the Progress In Electromagnetics Research journal in 2016."
+]
