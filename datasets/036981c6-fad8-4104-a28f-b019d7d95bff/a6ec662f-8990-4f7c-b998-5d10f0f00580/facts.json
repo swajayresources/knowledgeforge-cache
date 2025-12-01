@@ -1,0 +1,16 @@
+[
+  "How ISO C became unusable for operating systems development VictorYodaiken vy@e27182",
+  "com E27182 Austin,Texas,USA Figure1",
+  "ACM,NewYork,NY,USA,8pages",
+  "1145/3477113",
+  "3487274 TheCprogramminglanguagewasdevelopedinthe1970s asafairlyunconventionalsystemsandoperatingsystems 1 Introduction development tool, but has, through the course of the ISO Standardsprocess,addedmanyattributesofmoreconven- TheCprogramminglanguage[33]isthefirst,and,sofar, tionalprogramminglanguagesandbecomelesssuitablefor onlywidelysuccessfulprogramminglanguagethatprovides operatingsystemsdevelopment",
+  "The ternative to assembler (compare to [42])",
+  "TheRationalefortheCstandard[9]citedC\u2019s Keywords: operatingsystems,programminglanguages,C, capability to function as a \"high-level assembler\" and ex- UNIX,ISO-C,compiler plainedthat\"manyoperationsaredefinedtobehowthetarget ACMReferenceFormat: machine\u2019shardwaredoesitratherthanbyageneralabstract VictorYodaiken",
+  "In11thWorkshoponProgrammingLanguages programminglanguage",
+  "andOperatingSystems(PLOS\u201921),October25,2021,VirtualEvent, Atpresentmostmajorcommercialoperatingsystemker- nelsandmanyexperimentalonesarewrittenprimarilyinC PLOS\u201921,October25,2021,VirtualEvent,Germany orsomedialect",
+  "However,ISOC[8,26],thelanguagethat \u00a92021Copyrightheldbytheowner/author(s)",
+  "ThedefinitiveVersionofRecordwaspublishedin (K&RC)[13],buthasbecomepoorlysuitedtooperatingsys- 11thWorkshoponProgrammingLanguagesandOperatingSystems(PLOS\u201921), temsdevelopment",
+  "Cbasedoperatingsystemsprojectson October25,2021,VirtualEvent,Germany,https://doi",
+  "ISOC-compliantcompilers[27,28]relyoncompilerspecific 3487274",
+  "opt-outs,assemblerescapes,andcodingtrickstoproducea 2202 naJ 91 ]SO"
+]
