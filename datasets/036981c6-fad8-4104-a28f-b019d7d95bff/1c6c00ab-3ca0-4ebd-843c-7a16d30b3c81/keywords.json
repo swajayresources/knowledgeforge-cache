@@ -1,0 +1,22 @@
+[
+  "Active 3D shape reconstruction",
+  "Vision and touch",
+  "Haptic simulator",
+  "Mesh-based reconstruction model",
+  "Data-driven policies",
+  "Chamfer distance",
+  "Graph convolutional network (GCN)",
+  "Object prior",
+  "2-step deformation process",
+  "Mesh embeddings",
+  "Reduced dimensionality",
+  "Variable number of touch charts",
+  "Variable number of vision charts",
+  "Variable number of touch signals",
+  "Variable number of vision signals",
+  "Fully data-driven",
+  "Learned object priors",
+  "Learned exploration strategies",
+  "Large-scale dataset",
+  "Publicly available on GitHub"
+]
