@@ -1,0 +1,17 @@
+[
+  "The radar frequency chosen for the straight wire experiment was 450 MHz, corresponding to a wavelength of 0.667 m.",
+  "The total length of the wire used in the RATSCAT experiment was 2.48 m, giving a length-to-wavelength ratio (kl) of 11.7.",
+  "The radius of the wire used in the RATSCAT experiment was 0.04 mm, ensuring that the condition ka << 1 was met.",
+  "The linearly polarized electric field vector of the radar was chosen in the plane formed by the wave vector k and the wire axis l, so that cos(\u03c8) = 1.",
+  "The accuracy of the RCS measurements was within about 3 dB at the peaks and degraded at the nulls of the RCS patterns.",
+  "Chu's expression was found to be accurate only at broadside incidence (90 degrees), but led to very erroneous results at all other angles.",
+  "Tai's original expression predicted the correct number of lobes in the RCS vs angle pattern and agreed with the data within a few decibels, except near the nulls, for kl values up to about 17.",
+  "The modified Tai expression, which introduced a function f(\u03b8) to correct the broadside behavior, predicted the RCS within a few decibels over the entire aspect angle variation, except near the nulls, for 4.5 < kl < 17.",
+  "Van Vleck's expressions led to predictions that were within a few decibels of the RCS data at all angles greater than 20 degrees from end-on, and for all thin wires tested with kl > 4.5.",
+  "Ufimtsev's analytical expression yielded results that were comparable in accuracy to Van Vleck's expressions, with predictions within a few decibels of the RCS data for all kl values considered.",
+  "The BRACT computer program agreed with the experimental data within 1 dB and 1 degree in look angle for all the wire configurations tested, except for two cases where the differences were around 4 dB.",
+  "BRACT was used to calculate the RCS of a wire with kl = 157, and the results were nearly identical to those obtained using the closed-form expressions of Ufimtsev and Van Vleck.",
+  "The authors note that the deficiency in Van Vleck's theoretical predictions at end-on incidence are associated with approximations in the published expressions, and when the general expressions are used, the deficiency disappears.",
+  "The BRACT computer program is more flexible and can handle arbitrary wire configurations, including bent or distorted wires, whereas the analytical expressions are limited to straight, thin wires.",
+  "The analytical forms take about one minute of computer time to yield results for a given wire for all angles of incidence, while the BRACT program takes a little longer, depending on the length of the wire."
+]
