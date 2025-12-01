@@ -1,10 +1,17 @@
 [
-  "The CMD-3 measurement of the e+e- -> pi+pi- cross section is in significant tension with the previous measurements by BaBar, KLOE, CMD-2, SND, and SND2k experiments.",
-  "The joint fit of the world data on the e+e- -> hadrons cross sections with unmodified experimental uncertainties gives a poor chi^2/n_dof of 2.18, indicating incompatibility between the experiments.",
-  "The authors scaled the experimental uncertainties following the PDG prescription to make the measurements compatible and obtain a consistent joint fit.",
-  "The authors' updated estimate of the leading-order hadronic contribution to the muon g-2 is ahad,LO(e+e-) = (696.2 \u00b1 2.9) x 10^-10.",
-  "This estimate is consistent with the results obtained by other authors using only pre-2021 e+e- data.",
-  "Including the authors' ahad,LO value, the Standard Model prediction for the muon g-2 is aSM_tot = (11 659 184 \u00b1 4) x 10^-10, which is 4.7 sigma smaller than the experimental value.",
-  "Excluding the CMD-3 pi+pi- data leads to an even lower Standard Model prediction that is 5 sigma smaller than the experimental value.",
-  "When the CMD-3 pi+pi- data is effectively the dominant input, the resulting Standard Model prediction is consistent with the experimental value at the ~1 sigma level."
+  "The e+e- -> pi+pi- total cross section contributes ~70% to the dispersive estimate of the leading-order hadronic term ahad,LO in the SM prediction of the muon anomalous magnetic moment.",
+  "The authors' estimate of ahad,LO(e+e-) = (696.2 \u00b1 2.9) x 10^-10 is consistent with ahad,LO(e+e-) values obtained by other authors before the publication of the CMD-3 result.",
+  "The authors' SM prediction for the muon g-2, including their ahad,LO value, is aSM_tot = (11 659 184 \u00b1 4) x 10^-10, which is 4.7 sigma smaller than the experimental value of aexp_tot = (11 659 205.9 \u00b1 2.2) x 10^-10.",
+  "Excluding the CMD-3 pi+pi- data leads to a lower ahad,LO(e+e-) = (694.0 \u00b1 2.0 \u00b1 1.4 \u00b1 0.4) x 10^-10, which translates to an SM prediction that is 5 sigma lower than the experimental value.",
+  "Considering only the CMD-3 pi+pi- data as the dominant experimental input for ahad,LO(pi+pi-) gives ahad,LO(e+e- -> pi+pi-,0.3-1.937 GeV) = (529.6 \u00b1 2.8 \u00b1 3.3 \u00b1 3.3) x 10^-10, which corresponds to a total ahad,LO = (723.4 \u00b1 3.1 \u00b1 3.1 \u00b1 3.5) x 10^-10 and an SM prediction consistent with the experimental value.",
+  "The authors confirm the observation made in the CMD-3 paper that the CMD-3 pi+pi- data, when taken alone, imply an SM prediction for the muon g-2 that is consistent with the experimental value at the ~1 sigma level.",
+  "The authors address the issue of incompatibility between the experimental measurements of the e+e- -> pi+pi- cross section by scaling the experimental uncertainties following the PDG prescription to achieve a consistent joint fit with chi^2/n_dof = 1.",
+  "The authors' total leading-order hadronic contribution to the muon g-2 is ahad,LO(e+e-) = (696.2 \u00b1 1.9 \u00b1 2.0 \u00b1 0.8) x 10^-10.",
+  "The authors' ahad,LO value is consistent with the average value of ahad,LO(e+e-) = (693.1 \u00b1 4.0) x 10^-10 obtained by the Muon g-2 Theory Initiative.",
+  "The authors use a model-independent parameterization of the e+e- -> pi+pi- cross section that should yield chi^2/n_dof ~ 1 when fitting to mutually compatible measurements.",
+  "The authors scale the experimental uncertainties by a common factor to account for missing systematic effects that cannot be identified within isolated experiments.",
+  "The authors apply the same uncertainty scaling procedure to all e+e- -> hadrons channels contributing to the dispersive estimate of ahad,LO.",
+  "The authors' analysis uses the program code developed for the PDG mini-review on sigma and R in e+e- collisions.",
+  "The authors are indebted to V. B. Anikeev and S. I. Bityukov for valuable discussions on statistical matters.",
+  "The authors confirm that their results are consistent with the observation made in the CMD-3 paper that the CMD-3 pi+pi- data, when taken alone, imply an SM prediction for the muon g-2 that is consistent with the experimental value at the ~1 sigma level."
 ]
