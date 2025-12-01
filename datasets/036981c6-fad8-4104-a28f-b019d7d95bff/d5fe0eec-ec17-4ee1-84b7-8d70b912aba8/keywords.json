@@ -1,0 +1,22 @@
+[
+  "Electromagnetic scattering",
+  "Electric Field Integral Equation (EFIE)",
+  "Sparse approximate inverse (SPAI)",
+  "Frobenius-norm minimization",
+  "Preconditioning",
+  "Krylov subspace methods",
+  "GMRES",
+  "Multilevel Fast Multipole Algorithm (MLFMA)",
+  "Spectral deflation",
+  "Low-rank matrix updates",
+  "Integral equations",
+  "Rao-Wilton-Glisson basis functions",
+  "Parallel computing",
+  "Matrix-vector products",
+  "Condition number",
+  "Restarted GMRES",
+  "Incomplete LU factorization (ILU)",
+  "Radar cross section (RCS)",
+  "Eigenvalue clustering",
+  "Arnoldi process"
+]
