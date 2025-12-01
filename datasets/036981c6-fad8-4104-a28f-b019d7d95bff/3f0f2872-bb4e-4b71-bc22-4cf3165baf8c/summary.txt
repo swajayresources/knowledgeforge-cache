@@ -1,0 +1,1 @@
+This paper investigates the backscattering properties of various ground terrain and building materials at millimeter-wave and terahertz frequencies. The authors measured the HH and VV polarized backscattering coefficients of materials like concrete, soil, sand, gravel, and asphalt roofing shingles at 100 GHz and 240 GHz frequencies and elevation angles from 5 to 35 degrees.
