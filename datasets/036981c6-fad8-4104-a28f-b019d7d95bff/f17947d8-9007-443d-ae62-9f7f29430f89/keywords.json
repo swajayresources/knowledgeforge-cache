@@ -1,0 +1,21 @@
+[
+  "Radar detection",
+  "Aircraft pose uncertainty",
+  "Single-pulse radar",
+  "Probability of detection",
+  "Signal-to-noise ratio",
+  "Radar cross section",
+  "Constant RCS model",
+  "Ellipsoid RCS model",
+  "Simple spikeball RCS model",
+  "Taylor series expansion",
+  "Monte Carlo analysis",
+  "Lumped radar constant",
+  "Probability of false alarm",
+  "Nominal range",
+  "Number of lobes",
+  "Amplitude of lobes",
+  "Minimum RCS value",
+  "Gaussian distributed random variable",
+  "Covariance matrix"
+]
