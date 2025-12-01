@@ -1,0 +1,1 @@
+This paper proposes a novel decentralized information system theoretic stealth attack construction for cyber-physical systems (CPSs) that minimizes mutual information and KL divergence. The attack construction is formulated as a potential game and the Nash Equilibrium is analyzed. The paper evaluates the performance of the proposed attack construction on a representative CPS.
