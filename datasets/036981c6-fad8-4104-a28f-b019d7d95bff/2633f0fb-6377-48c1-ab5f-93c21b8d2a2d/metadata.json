@@ -1,0 +1,15 @@
+{
+  "paper_id": "2633f0fb-6377-48c1-ab5f-93c21b8d2a2d",
+  "title": "Hyper spectral Image classification using Dimensionality Reduction Techniques",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2633f0fb-6377-48c1-ab5f-93c21b8d2a2d/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2633f0fb-6377-48c1-ab5f-93c21b8d2a2d/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2633f0fb-6377-48c1-ab5f-93c21b8d2a2d/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/2633f0fb-6377-48c1-ab5f-93c21b8d2a2d/keywords.json"
+  ]
+}
