@@ -1,0 +1,17 @@
+[
+  "The paper presents a new approach to calculate the polarimetric radar cross section of canonical targets under SAR geometry.",
+  "The scattering mechanism of the object in the far field can be modeled as a linear transformation between the incident electric fields and the scattered electric fields, described by a scattering matrix.",
+  "The radar cross section is defined as the effective surface which describes the electromagnetic reflectivity of the target in the direction back to the radar.",
+  "The new approach converts the electric field components calculated in the spherical coordinate system into the electric field components in the Cartesian coordinate system.",
+  "The three canonical targets considered are the flat plate, the dihedral reflector, and the trihedral reflector.",
+  "The maximum value of the radar cross section for the flat plate in the hh polarization is -19.58 dBsm.",
+  "The maximum value of the radar cross section for the dihedral reflector in the hh polarization is -13.56 dBsm.",
+  "The maximum value of the radar cross section for the trihedral reflector in the hh polarization is -12.54 dBsm.",
+  "The SAR geometry has a large effect on the radar backscatter cross section due to the continuously changing angle of the incident and scattered waves.",
+  "Trihedral corner reflectors are commonly used as calibration targets or as reference points in radar remote sensing.",
+  "The paper mentions the need for improved simulation methods and target modelling for better accuracy and simulation efficiency of the radar cross section.",
+  "The authors use physical optics approximation and far-field radiation to determine the polarimetric radar cross section.",
+  "The paper presents the simulation results for the flat plate, the dihedral reflector, and the trihedral reflector in different polarization modes.",
+  "The authors note that the difference between the scattering maxima of each target conforms with standard theory, confirming the validity of the calculations.",
+  "The paper provides a review of electric field in wave propagation, radar cross section, and simulation of scattered fields using physical optics."
+]
