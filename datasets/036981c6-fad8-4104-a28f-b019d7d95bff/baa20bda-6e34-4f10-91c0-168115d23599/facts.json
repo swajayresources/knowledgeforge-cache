@@ -1,0 +1,10 @@
+[
+  "The MnZn ferrite particles used had a stoichiometry of Mn0.66Zn0.34Fe2O4 and a lattice constant of 8.483 \u00c5.",
+  "The densities of the MnZn ferrite and the silicone matrix were 5.029 g/cm\u00b3 and 1.28 g/cm\u00b3, respectively.",
+  "The volume fraction of the ferrite in the silicone matrix varied in the range v_f = 0, 0.10, 0.15, 0.20, 0.27 and 0.37.",
+  "The real components of \u03bc' and \u03b5' for the pure silicone rubber (v_f = 0) were nearly constant at 1 and 3, respectively, in the evaluated frequency range.",
+  "The imaginary components \u03bc'' and \u03b5'' of the pure silicone rubber varied from 0 to 1.2 and 0 to 0.7, respectively, indicating low magnetic and dielectric losses.",
+  "The frequency of the minimum reflection loss (f_m) is shifted to a lower frequency band as the volume fraction of MnZn ferrite increases (v_f = 0.10 \u2192 f_m = 13.0 GHz; v_f = 0.15 \u2192 f_m = 12.0 GHz; v_f = 0.20 \u2192 f_m = 9.0 GHz).",
+  "The RAM sample with v_f = 0.20 had the largest frequency bandwidth of 4.5 GHz at a reflection loss of -10 dB.",
+  "The amplitude of the main reflection loss peak decreases for smaller thicknesses for v_f = 0.10, but this trend seems to reverse for v_f = 0.20 and t \u2264 4.0 mm."
+]
