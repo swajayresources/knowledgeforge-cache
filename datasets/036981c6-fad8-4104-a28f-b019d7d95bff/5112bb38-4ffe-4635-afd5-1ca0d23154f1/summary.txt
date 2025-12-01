@@ -1,0 +1,1 @@
+This paper analyzes the performance of cylindrical invisibility cloaks with simplified material parameters, showing that they are inherently visible due to the transmission of the zeroth-order cylindrical wave and finite scattering of higher-order waves.
