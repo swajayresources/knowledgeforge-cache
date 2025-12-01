@@ -1,0 +1,22 @@
+[
+  "Radar cross section (RCS) is a measure of an object's detectability by radar and depends on shape, size, and material.",
+  "Shaping and radar absorbing materials (RAM) are traditional passive methods for RCS reduction.",
+  "RAM works by absorbing incident radar energy and converting it into heat, reducing reflected signals.",
+  "Metamaterials are engineered composites with electromagnetic properties not found in natural materials, such as negative permittivity and permeability.",
+  "Negative Index Metamaterials (NIM) have simultaneous negative permittivity and permeability, resulting in a negative refractive index.",
+  "Frequency Selective Surfaces (FSS) are periodic arrays that filter electromagnetic waves by frequency, enabling control over radar wave reflection and transmission.",
+  "Active cancellation emits signals that destructively interfere with radar echoes to reduce RCS but requires precise timing and phase control.",
+  "Microstrip patch antennas have high RCS but can be modified using metamaterials to reduce radar visibility while improving antenna performance.",
+  "The proposed metamaterial unit cell consists of a square loop and intersecting strips at the edges of the antenna ground plane.",
+  "Radar detection range depends on the fourth root of the RCS; halving detection range requires a 16-fold RCS reduction.",
+  "Electromagnetic Bandgap (EBG) metamaterials prohibit wave propagation in certain frequency bands, aiding in RCS reduction.",
+  "Chiral metamaterials have non-zero chirality parameter and affect circularly polarized waves, useful in stealth applications.",
+  "RAM coatings are often toxic and require uniform application to be effective.",
+  "Modern radar systems operate across a wide frequency range from VHF (30\u2013300 MHz) to Ka-band (27\u201340 GHz).",
+  "Passive cancellation involves adjusting phase and amplitude of scattered waves to cancel radar reflections locally.",
+  "Metamaterials enable antenna miniaturization, bandwidth expansion, and gain enhancement alongside RCS reduction.",
+  "Active cancellation is most effective at low radar frequencies where scattering lobes are broad.",
+  "Shaping techniques must balance aerodynamic requirements with RCS reduction goals.",
+  "Composite AMC (Artificial Magnetic Conductor) surfaces can be designed to achieve broadband RCS reduction.",
+  "The paper reviews recent research on metamaterial-based RCSR and proposes new unit cell designs for stealth applications."
+]
