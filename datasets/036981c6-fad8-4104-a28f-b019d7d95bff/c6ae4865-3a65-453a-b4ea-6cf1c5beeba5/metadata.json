@@ -1,0 +1,15 @@
+{
+  "paper_id": "c6ae4865-3a65-453a-b4ea-6cf1c5beeba5",
+  "title": "Developing a carpet cloak operating for a wide range of incident angles using a deep neural network and PSO algorithm",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6ae4865-3a65-453a-b4ea-6cf1c5beeba5/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6ae4865-3a65-453a-b4ea-6cf1c5beeba5/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6ae4865-3a65-453a-b4ea-6cf1c5beeba5/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/c6ae4865-3a65-453a-b4ea-6cf1c5beeba5/keywords.json"
+  ]
+}
