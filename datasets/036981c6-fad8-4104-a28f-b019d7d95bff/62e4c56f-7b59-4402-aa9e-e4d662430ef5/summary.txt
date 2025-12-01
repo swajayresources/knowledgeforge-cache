@@ -1,0 +1,1 @@
+This paper presents a new approach to calculate the polarimetric radar cross section of canonical targets, such as flat plates, dihedral reflectors, and trihedral reflectors, under synthetic aperture radar (SAR) geometry. The authors develop a new method for approximating the polarized scattered electric field and use physical optics to simulate the scattering mechanisms.
