@@ -1,0 +1,17 @@
+[
+  "The paper presents an active acoustic illusion technique using monopole control sources and error sensors.",
+  "The technique enables stealth and subterfuge applications by misrepresenting the acoustic fields due to scattering by a rigid object.",
+  "20 control sources and 40 error sensors are used in the experiments.",
+  "The first stage of the control strategy is to completely remove the total acoustic field at the error sensor locations (sound cancellation).",
+  "The second stage of the control strategy is to generate the desired acoustic illusion (sound reproduction).",
+  "The frequency of the incident plane wave and monopole source excitation is 200 Hz.",
+  "The radius of the original cylinder in the experiments is a.",
+  "The radius of the larger cylinder in the experiments is 2a.",
+  "The distance by which the larger cylinder is shifted in the experiments is a.",
+  "The technique can generate illusions that misrepresent both the size and location of the object.",
+  "The technique can generate illusions that actively manipulate the total field.",
+  "The control sources are arranged circumferentially around the cylinder.",
+  "The error sensors are arranged circumferentially around the cylinder.",
+  "The technique uses a multichannel control configuration.",
+  "The Helmholtz equation governs the acoustic domain for time-harmonic responses."
+]
