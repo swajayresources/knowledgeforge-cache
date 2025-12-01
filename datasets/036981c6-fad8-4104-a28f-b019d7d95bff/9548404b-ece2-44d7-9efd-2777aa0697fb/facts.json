@@ -1,0 +1,19 @@
+[
+  "The NEC-Basic Scattering Code is a user-oriented computer code.",
+  "The code uses the Geometrical Theory of Diffraction (GTD) to simulate complex structures.",
+  "The code can simulate flat plates, infinite ground planes, and finite elliptic cylinders.",
+  "Each plate should have edges at least a wavelength long.",
+  "The major and minor radii and length of the finite elliptic cylinder should be a wavelength in extent.",
+  "The source distribution is a dipole source or an aperture source.",
+  "The far-zone electric field equation is given by E(\u03b8,\u03c6) = Eo(A)Fx(ep - jrk 'r')/r.",
+  "The GTD diffraction coefficients are designed to smooth out discontinuities in the fields.",
+  "The shadowing process is used to determine if a ray path is interrupted by any structure along the complete ray path.",
+  "The importance of the neglected terms is determined by the size of the so-called glitches or jumps in the pattern trace.",
+  "The NEC-Basic Scattering Code has been interfaced with the Moment Method code.",
+  "The Code Manual provides detailed information about the FORTRAN coding.",
+  "The code is designed to be efficient and accurate, with a focus on high-frequency analysis.",
+  "The code can simulate antennas in the presence of perfectly conducting metal structures at UHF and above.",
+  "The code can simulate arbitrary antenna shapes and sizes.",
+  "The code can simulate arbitrary source distributions.",
+  "The code can simulate arbitrary observation directions."
+]
