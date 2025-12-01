@@ -1,0 +1,15 @@
+{
+  "paper_id": "81e5375d-eac1-4461-85bc-9bf159fd1380",
+  "title": "Movable Antenna Enabled ISAC: Tackling Slow Antenna Movement, Dynamic RCS, and Imperfect CSI via Two-timescale Optimizati",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81e5375d-eac1-4461-85bc-9bf159fd1380/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81e5375d-eac1-4461-85bc-9bf159fd1380/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81e5375d-eac1-4461-85bc-9bf159fd1380/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81e5375d-eac1-4461-85bc-9bf159fd1380/keywords.json"
+  ]
+}
