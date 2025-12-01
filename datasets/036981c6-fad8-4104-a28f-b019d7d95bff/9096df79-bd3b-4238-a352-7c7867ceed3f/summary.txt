@@ -1,0 +1,1 @@
+This paper proposes two new types of logarithm conformal mappings for invisible device designs, which can achieve cloaking effects with a more feasible refractive index range compared to previous methods. Numerical simulations confirm the theoretical analysis.
