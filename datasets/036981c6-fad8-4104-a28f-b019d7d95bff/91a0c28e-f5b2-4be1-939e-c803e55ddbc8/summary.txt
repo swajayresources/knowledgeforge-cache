@@ -1,0 +1,1 @@
+This paper introduces BaseSAP, a modular stealth address protocol for programmable blockchains like Ethereum. BaseSAP aims to provide a lightweight and extendable mechanism for users to generate stealth addresses at the application layer, improving privacy and confidentiality in blockchain transactions without modifying the core protocol.
