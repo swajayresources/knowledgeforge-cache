@@ -1,0 +1,1 @@
+This paper presents calculations of the radar cross section of chaff dipoles using variational techniques. It compares the results to experimental measurements and finds the horizontal-vertical dipole distribution provides better accuracy than the random orientation distribution, especially for dipoles less than 3 inches long.
