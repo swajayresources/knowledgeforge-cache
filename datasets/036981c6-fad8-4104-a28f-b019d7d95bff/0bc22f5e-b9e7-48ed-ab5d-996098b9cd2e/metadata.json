@@ -1,0 +1,15 @@
+{
+  "paper_id": "0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e",
+  "title": "Bluff body uses deep-reinforcement-learning trained active flow control to achieve hydrodynamic stealth",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0bc22f5e-b9e7-48ed-ab5d-996098b9cd2e/keywords.json"
+  ]
+}
