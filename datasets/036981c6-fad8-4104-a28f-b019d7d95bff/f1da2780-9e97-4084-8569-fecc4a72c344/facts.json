@@ -1,0 +1,17 @@
+[
+  "The paper demonstrates that a small, high-refractive index dielectric particle can exhibit ultra-weak total scattering due to the excitation of an anapole mode.",
+  "The anapole mode arises from the destructive interference of electric and toroidal dipole moments in the particle.",
+  "The key conditions for observing the anapole mode and ultra-weak scattering are: a small size parameter (q < 1), a large refractive index (typically n > 5), and weak dissipation.",
+  "For a particle with n = 15.0116 and q = 0.3, the total scattering efficiency is about 3.5 times less than the Rayleigh scattering calculated by the formula.",
+  "The anapole mode corresponds to a global minimum in the total scattering efficiency, unlike the Kerker conditions which minimize differential scattering functions.",
+  "The Fano resonance is crucial for the anapole mode, as it arises from the destructive interference between the electric dipole and toroidal dipole moments.",
+  "Near the anapole mode, the scattering pattern becomes polarization-dependent and non-rotationally symmetric, in contrast to the scattering patterns observed at the Kerker conditions.",
+  "Materials like SiC, TiO2, and ceramics can satisfy the conditions for observing the anapole mode and ultra-weak scattering in the far-IR and RF frequency domains.",
+  "The anapole mode and ultra-weak scattering can be used for designing highly transparent optical materials, such as clusters of nanoparticles with strongly suppressed scattering effects in the extinction.",
+  "The physics behind the anapole mode in small, spherical dielectric particles is explained in a different way compared to previous work on scattering suppression in dielectric rods.",
+  "The paper highlights the importance of the Fano resonance in the context of the anapole mode, as it is crucial for the global minimum in the total scattering efficiency.",
+  "The paper demonstrates that the anapole mode can be observed even in the simple spherical case, provided the particle is sufficiently small and has a sufficiently high refractive index.",
+  "The Poynting vector distribution for the particle with n = 15.0116 and q = 0.3 shows a toroidal structure, indicating the presence of the anapole mode.",
+  "The distributions of electric and magnetic vectors inside the particle in mutually perpendicular planes confirm the toroidal symmetry of the anapole mode.",
+  "The paper emphasizes that the conditions for ultra-weak scattering to occur are different from the Rayleigh approximation, which is not valid in the vicinity of the anapole mode."
+]
