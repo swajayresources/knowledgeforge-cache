@@ -1,0 +1,17 @@
+[
+  "The proposed polarization conversion metasurface (PCM) consists of a double-headed arrow unit cell and its 90\u00b0, 180\u00b0, and 270\u00b0 rotated versions.",
+  "The PCM demonstrates an ultra-wide 10-dB RCS reduction bandwidth from 9 to 40 GHz, corresponding to a fractional bandwidth of 126.5%.",
+  "The PCM is implemented on a thin, low-cost FR-4 substrate with an air gap, resulting in a lightweight and low-profile design.",
+  "The 10-dB RCS reduction bandwidth is more than 63% for TE polarization and more than 32% for TM polarization up to 50-degree incident angles.",
+  "The double-headed arrow unit cell supports multiple plasmon resonances that are excited by electric field components along the unit cell's anisotropic axes, enabling efficient polarization conversion.",
+  "The 180-degree phase difference between the PCM unit cell and its mirror creates destructive interference and RCS reduction.",
+  "The fabricated 3x3 array of the proposed PCM tiles demonstrates good agreement between simulation and measurement results.",
+  "Compared to previous works, the proposed metasurface has significantly higher RCS reduction bandwidth, with 126.5% for normal incidence.",
+  "The low-profile, low-cost, and lightweight characteristics of the proposed metasurface make it suitable for practical applications in stealth platforms.",
+  "The 3D scattered radiation patterns of the proposed metasurface show that the incident wave is redirected into four main lobes at diagonal planes instead of a single main lobe reflected from a PEC surface.",
+  "The RCS reduction of the proposed metasurface is more than 42.81 dB and 19 dB in the principal and diagonal planes, respectively, at 9.75 GHz.",
+  "The RCS reduction of the proposed metasurface is more than 35 dB and 29 dB in the principal and diagonal planes, respectively, at 14.35 GHz.",
+  "The proposed metasurface is implemented on a commercially available FR-4 substrate with a thickness of 0.25 mm, making it a low-cost and lightweight solution.",
+  "The air gap between the FR-4 substrate and the ground plane contributes to the low-profile and lightweight design of the proposed metasurface.",
+  "The fabricated PCM surface with an overall size of 200 mm \u00d7 200 mm is composed of a 3x3 array of the proposed unit cell tiles."
+]
