@@ -1,0 +1,1 @@
+This paper presents a novel approach to solving large-scale electromagnetic problems using the Method of Moments (MoM) with Adaptive Cross Approximation (ACA). The ACA technique is used to compress the impedance matrix, reducing memory and operations count. The method is validated for problem sizes up to 1M unknowns.
