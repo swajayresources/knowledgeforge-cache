@@ -1,0 +1,1 @@
+This paper presents the design and experimental demonstration of a broadband polygonal invisibility cloak for visible light. The cloak is made of several homogeneous and anisotropic material segments, designed using a linear transformation method, that can guide light around a hidden object without any distortion.
