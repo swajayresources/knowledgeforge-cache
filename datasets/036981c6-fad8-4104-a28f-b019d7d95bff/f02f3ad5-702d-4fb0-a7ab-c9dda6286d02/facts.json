@@ -1,0 +1,22 @@
+[
+  "The absorber is designed for X-Ku bands covering 8\u201318 GHz.",
+  "The structure consists of two layers: a matched layer and a lossy layer backed by a metallic sheet.",
+  "Genetic algorithm optimizes thickness and material electromagnetic properties to minimize reflection coefficient.",
+  "Optimized thicknesses are 2.5 mm for the matched layer and 1.5 mm for the lossy layer.",
+  "The matched layer is a rubber composite loaded with ferrimagnetic powders, graphite, and carbon fiber.",
+  "The lossy layer is a rubber compound loaded with 45% conductive carbon powder.",
+  "Reflection loss reaches up to \u221228 dB at normal incidence and \u221217 dB at oblique incidence (36.5\u00b0).",
+  "Material properties include complex permittivity and permeability with frequency-dependent loss tangents.",
+  "Conductivity of the lossy layer is optimized around 0.22 Siemens per meter.",
+  "Microstrip line measurements and HFSS simulations were used to extract material parameters.",
+  "Free-space reflectometry validated absorber performance in realistic conditions.",
+  "The genetic algorithm used a population size of 80 parents and 50 children, with crossover probability 0.2 and mutation probability 0.1.",
+  "The absorber achieves more than 90% electromagnetic energy absorption (reflection coefficient < \u221210 dB).",
+  "The design focuses on TE polarization of the incident wave.",
+  "The metallic backing acts as a perfect electric conductor to enhance absorption.",
+  "Insertion loss measurements showed up to 2 dB difference between simulation and experiment, attributed to fabrication and measurement uncertainties.",
+  "The absorber is lightweight and fabricated using commercially available natural rubber as the host medium.",
+  "Mixing rules and composite material theory guided the fabrication of the layers.",
+  "The GA optimization objective function minimized the maximum reflection coefficient over frequency and incident angle ranges.",
+  "The study confirms that double-layer absorbers outperform single-layer absorbers in reflection loss."
+]
