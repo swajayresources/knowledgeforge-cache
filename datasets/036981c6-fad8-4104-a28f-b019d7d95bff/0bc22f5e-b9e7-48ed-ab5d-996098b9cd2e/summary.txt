@@ -1,0 +1,1 @@
+This paper proposes a novel active flow control strategy using deep reinforcement learning to achieve hydrodynamic stealth for a bluff body, such as a circular cylinder, by mitigating its hydrodynamic signatures like strong shears and periodic vortex shedding. The method is demonstrated to be effective for both stationary and vortex-induced vibrating cylinders.
