@@ -1,0 +1,12 @@
+[
+  "The paper proposes a new IRS-aided electromagnetic stealth system mounted on moving targets to evade detection from distributed radars.",
+  "The IRS is composed of N = N_x \u00d7 N_y passive reflecting elements, each of which can be digitally controlled to induce an independent amplitude change and/or phase shift.",
+  "For the single-radar case, the authors derive a semi-closed-form optimal solution for the IRS's reflection optimization problem using the Lagrange multiplier method.",
+  "For the multi-radar case, the IRS's reflection optimization problem is formulated as a convex QCQP and solved optimally.",
+  "The paper proposes low-complexity closed-form solutions based on the reverse alignment and minimum mean-square error (MMSE) criteria for the single-radar and multi-radar cases, respectively.",
+  "To acquire the necessary angle-of-arrival and/or path gain information, the authors develop practical low-complexity estimation schemes at the target for both single-radar and multi-radar setups.",
+  "Simulation results show that the proposed IRS-aided electromagnetic stealth system significantly reduces and even eliminates the signal reflected by the target, achieving satisfactory stealth performance.",
+  "The effect of imperfect angle-of-arrival information at the target on the radar performance is also investigated in the paper.",
+  "Existing electromagnetic stealth materials/metasurfaces lack flexibility and adaptability, and can only operate within a limited frequency and angle/direction range.",
+  "The high mobility of the target and rapid operational radar mode changes can result in quick alterations in detection frequency and incident wave angles, rendering traditional electromagnetic stealth materials inapplicable."
+]
