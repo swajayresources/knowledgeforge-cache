@@ -1,0 +1,15 @@
+{
+  "paper_id": "bdfb49aa-6ffe-48be-a075-b45b3713b745",
+  "title": "Models of Animal Behavior as Active Particle Systems with Nonreciprocal Interactions",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bdfb49aa-6ffe-48be-a075-b45b3713b745/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bdfb49aa-6ffe-48be-a075-b45b3713b745/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bdfb49aa-6ffe-48be-a075-b45b3713b745/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/bdfb49aa-6ffe-48be-a075-b45b3713b745/keywords.json"
+  ]
+}
