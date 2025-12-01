@@ -1,0 +1,1 @@
+This paper presents the design and experimental demonstration of a polygonal invisibility cloak for visible light. The cloak is made of several homogeneous and anisotropic segments, and can guide light around a hidden object without any distortion or deviation.
