@@ -1,0 +1,21 @@
+[
+  "Stealth entropy production in active field theories near Ising critical points Fernando Caballero1 and Michael E",
+  "Cates1 1DAMTP, Centre for Mathematical Sciences, University of Cambridge, Wilberforce Road, Cambridge CB3 0WA, UK (Dated: June5, 2020) Weaddressthesteady-stateentropyproductionrate(EPR)ofactivescalar\u03c64 theories,whichlack time-reversal symmetry, close to a phase-separation critical point",
+  "We consider both nonconserved (Model A) and conserved (Model B) dynamics at Gaussian level, and also address the former at leading order in \u01eb = 4\u2212d",
+  "equilibrium locally, constantly consuming energy that is Inthis Letter we addressthe effects ofactivityonuni- transformed into motion via self-propulsion [1\u20133]",
+  "Al- tivity gives rise to new physics that would not be ob- though activity can create a richer phase diagram (fea- served in passive equilibrium systems, like flocking [4\u2013 turing strong coupling regimes [21] and/or microphase 7],andmotility-inducedphaseseparation(MIPS)[8\u201314]",
+  "separation[19]),ourpreviousworkonconservedsystems In MIPS, separation into dense and dilute fluid phases close to and above dimension d = 4 establishes that the (denoted liquid and vapor) arises without attractive in- leading order active terms responsible for TRS breaking teractions",
+  "This is because collisions between particles in our active \u03c64 field theories are irrelevant, in the RG heading in opposite directions have a long lifetime \u2013 the sense,neartheusualliquid-vaporcriticalpoint",
+  "Itfollows orientationaldecorrelationtime \u2013thatmimics anattrac- by definition that, despite activity, suchmodels then fall tive pair interaction without detailed balance [8, 12, 13]",
+  "within the conserved(Model B) ornonconserved(Model Coarse-graining of the microscopic dynamics of MIPS A) dynamic Ising class [21]",
+  "givescontinuummodels[8,9,11,15,16]whichcanbedis- Wenowaskthefollowingquestion: Given that activity tilledintocanonicalformasdynamical\u03c64 stochasticfield is irrelevant, does this mean that the critical behavior of theories [17\u201319]",
+  "Our answer,sur- to renormalization group (RG) study [20, 21], not least prisingly, is no",
+  ", [3, 16, 32])",
+  "To arriveat our negative an- which see [22, 23]), including activity-induced violations swer,wecomputetheRGflowofthesteady-stateentropy of the common-tangentconstruction for phase equilibria production rate (EPR) of active \u03c64 models",
+  "We do this [17, 24], and microphase separation into phases of finite near the Gaussian fixed point (GFP, which exists in all clusterssurroundedbyvaporand/orfinitevaporbubbles dimensions and is stable for d > 4) for both AMA and within a dense liquid [19]",
+  "AMB, and also near the fully nonlinear Wilson-Fisher Crucially, and distinctively, these active \u03c64 theories fixed point (WFFP) to order \u01eb = 4\u2212d in the simplest containtermsthatbreaktimereversalsymmetry(TRS)",
+  "More- V DV NE (6) Z over,we show it is genericallypositive to order \u01eb=4\u2212d =\u2212h\u00b5 \u03c6\u02d9i/D =h\u00b5 (\u00b5\u2212\u03b7)i/D NE NE fortheWilson-FisherfixedpointofActiveModelA",
+  "We show the computation here j i for A as an example",
+  "(Recall has a vanishing EPR, so that our results only give infor- that passive Model B describes the conserved, diffusive mationaboutasystemwhoseactivityisstrictlynonzero, dynamics, with TRS, of a scalar field governed by a free while remaining irrelevant in the RG sense",
+  "Our resultsestablishthatirreversibilitycanremainimportant where we assume translational invariance so the spatial in the critical regime for active models, even when these integral cancels the factor 1/V"
+]
