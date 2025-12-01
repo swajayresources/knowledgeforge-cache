@@ -1,0 +1,17 @@
+[
+  "Keywords: Electromagneticscattering,LatticeBoltzmannmethod,Maxwell\u2019sequations,Scatteringwidth,Radar crosssection 1",
+  "Introduction Electromagneticscatteringisafundamentalprocessthatoccurswhenwavesinteractwithobstacles,redistributing energy into different directions [1, 2, 3]",
+  "Accurate prediction of scattered fields is crucial in diverse applications suchasatmosphericoptics,remotesensing,radartechnology,astrophysics,biomedicalimaging,andnano-photonics [3,4,5,6,7,8]",
+  "Forcanonicalgeometriessuchasspheresandinfinitelylongcircularcylinders,exactsolutionsare provided by Mie theory and related formulations [9, 10, 11]",
+  "In contrast, most practical scatterers exhibit irregular shapes, heterogeneous composition, or complex boundaries, for which closed-form solutions are not feasible and numericalsolversofMaxwell\u2019sequationsmustbeemployed[12,13,14]",
+  "For optically small particles, approximate theories such as the Rayleigh, Gans, and Rayleigh\u2013Gansformulationsarecommonlyemployed,providingaccurateresultsforweaklyscatteringandhomoge- neous materials [15, 16, 17, 18, 19]",
+  "For axisymmetric particles such as oblate and prolate spheroids, the T-matrix method[20,21,22,23]iswidelyusedbecauseitefficientlyhandlesrotationallysymmetricgeometries",
+  "Forparticles witharbitraryshapesorsharpedges,suchashexagonalcolumnsandplates,methodsliketheFinite-DifferenceTime- Domain (FDTD) and Discrete Dipole Approximation (DDA) [24, 25, 26, 27] are typically employed, as they can representcomplexboundarieswithoutassumingsmoothcurvature",
+  "SchneiderandStephens[28]providedadetailed comparisonofthesemethods(seetheirTable2",
+  "1),summarizingtheirapplicablesizeregimes,shaperestrictions,and computationalrequirements",
+  "Over the past decades, numerous numerical methods have been developed, each with distinct advantages and limitations [29, 30, 31, 32, 33]",
+  "in/anubhab(AnubhabRoy) 5202 tcO 31 ]scitpo",
+  "scisyhp[ 1v24011",
+  "0152:viXra equationsdirectlyinspaceandtime",
+  "Itisversatilebutcomputationallydemandingforelectricallylargeobjectsand requires approximate absorbing boundaries such as perfectly matched layers [13, 14]"
+]
