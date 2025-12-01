@@ -1,17 +1,18 @@
 [
   "Electromagnetic scattering",
   "Radiation from antennas",
-  "Bodies of revolution",
   "Method of moments",
   "Generalized network parameters",
+  "Bodies of revolution",
   "Fourier series expansion",
   "Subsectional expansion functions",
   "Impedance matrix",
-  "Radiation patterns",
-  "Scattering patterns",
+  "Aperture antennas",
   "Conducting sphere",
   "Cone-sphere",
-  "Numerical integration",
-  "Reciprocity",
-  "Computational efficiency"
+  "Numerical methods",
+  "Integro-differential equations",
+  "Vector potential",
+  "Scalar potential",
+  "Rotational symmetry"
 ]
