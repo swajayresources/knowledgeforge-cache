@@ -1,0 +1,18 @@
+[
+  "The authors demonstrated RCS reduction of 20 to 25 dB using a prototype system.",
+  "The frequency range over which the RCS reduction was observed was 4 to 14 GHz.",
+  "The theoretical model developed for the plasma cloaking process includes scattering contributions from the plasma-vacuum interface, partial reflections from the plasma, and collisional absorption in the plasma.",
+  "The plasma frequency is the frequency at which the plasma becomes overdense and electromagnetic waves are totally reflected.",
+  "The Debye length is the distance over which the plasma density changes significantly.",
+  "The condition for the electron temperature to be very small is that the mean free path between collisions must be much smaller than the Debye length.",
+  "The expression for the dielectric constant of a collisionless plasma is \u03b5 = 1 - (\u03c9p^2 / \u03c9^2).",
+  "The propagation constant for an electromagnetic wave in a collisional plasma is k = k0 - i\u03b1.",
+  "The collision frequency determines the rate at which electrons collide with the background gas molecules.",
+  "The expression for the attenuation of an electromagnetic wave in a uniform plasma is \u03b1 = (\u03c9p^2 / (\u03c9^2 + \u03bd^2)).",
+  "The maximum attenuation observed in the plasma-filled waveguide was 61 dB.",
+  "The frequency range over which the maximum attenuation was observed was 4-6 GHz.",
+  "The scaling of the attenuation with the collision frequency is \u03b1 \u221d \u03bd^2.",
+  "The authors used a seed-gas/UV photoionization technique to produce the plasma.",
+  "The plasma was produced in a sealed ceramic enclosure with a microwave reflector and a plasma generator inside it.",
+  "The RCS reduction was measured using a compact radar range at Hughes Aircraft's Microwave Products Division in Torrance."
+]
