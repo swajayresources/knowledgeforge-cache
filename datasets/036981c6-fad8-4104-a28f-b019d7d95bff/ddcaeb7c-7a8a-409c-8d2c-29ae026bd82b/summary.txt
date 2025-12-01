@@ -1,0 +1,1 @@
+This paper proposes a two-dimensional gridless super-resolution method called 2D-RWTM to improve the resolution of ISAR images of moving targets by recovering the sparse scattering points with high radar cross-section. The method uses a reweighted trace minimization approach to retrieve the 2D frequencies of the scattering points in both range and cross-range directions.
