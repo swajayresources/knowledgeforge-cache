@@ -1,0 +1,19 @@
+[
+  "1 A New Intelligent Reflecting Surface-Aided Electromagnetic Stealth Strategy Xue Xiong, Beixiong Zheng, Senior Member, IEEE, A",
+  "formulate an optimization problem that minimizes the SNR Recently,innovativeintelligentreflectingsurface(IRS)tech- under the reflection constraint of each IRS element, and a semi- nology has emerged as a tool for improving the performance closed-form solution is derived by using Karush-Kuhn-Tucker of wireless systems [7], [8]",
+  "Although there are many works on track stealth targets [1]",
+  "As one of the most important IRS-aided wireless communications [9], [10], only a handful techniques to achieve ES, electromagnetic wave absorbing focus on IRS-aided target sensing [11]",
+  "While IRS are less materials (EWAMs) have been widely investigated to enhance effective than EWAMs in absorbing the incident radar energy, electromagnetic wave (EW) absorption efficiency as well as their amplitude and phase reconfigurability can be exploited broaden the absorption bandwidth [2], [3]",
+  "containing various materials, which can effectively reduce the Motivated by the above, this work designs a new IRS- reflected EW towards the radar by absorbing a considerable aided ES system that enables a target to evade radar detection part of the incident electromagnetic energy [4]\u2013[6]",
+  "From the perspective of This work was supported in part by the National Natural Science anti-radar detection, we formulate an optimization problem Foundation of China under Grant 62201214, 62331022, 62222105, and that minimizes the received signal-to-noise-ratio (SNR) at 62201311, the Natural Science Foundation of Guangdong Province under the adversarial radar under the modulus constraint of IRS Grant 2023A1515011753, the Fundamental Research Funds for the Cen- tral Universities under Grant 2023ZYGXZR106, the U",
+  "To address this optimization problem, we derive Foundation under Grant CNS-2107182 and ECCS-2030029, and the Peng a semi-closed-form solution by leveraging the Karush-Kuhn- Cheng Laboratory Major Key Project under Grant PCL2023AS1-5 and Tucker (KKT) conditions and then obtain the dual variables PCL2021A09-B2",
+  "Simulation results are provided of Technology, Guangzhou 511442, and also with the Frontier Research to demonstrate the advantages of the proposed IRS-aided ES Center, Peng Cheng Laboratory, Shenzhen 518055, China (e-mail: ftxuex- system compared to various benchmarks",
+  "SYSTEMMODEL nology, Guangzhou 511442/510640, China (e-mail: bxzheng@scut",
+  "1, we consider an IRS-aided ES system eejtang@scut",
+  ", aircraft), where an IRS is and Computing, University of California, Irvine, CA 92697 USA (e-mail: deployedinadditiontotheEWAMsurfaceforfurtherreducing swindle@uci",
+  "Wu is with the Frontier Research Center, Peng Cheng Laboratory, Shenzhen518055,China(email:wuw02@pcl",
+  "challenging scenario where a monostatic probing radar acts 4202 raM 91 ]PS",
+  "ssee[ 1v25321",
+  "3, we present the received SNR versus the EW ab- radarislocatedattheoriginpoint",
+  "4, we show the received SNR at the radar WirelessCommun"
+]
