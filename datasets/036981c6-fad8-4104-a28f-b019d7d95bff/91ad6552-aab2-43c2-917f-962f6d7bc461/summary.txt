@@ -1,0 +1,1 @@
+This paper presents a method for measuring the radar cross section (RCS) of a metallic object using a reverberation chamber (RC) instead of an anechoic chamber. The authors show that the RCS can be accurately extracted from the difference between two measurements, one with and one without the target, as long as the stirrer position is the same for both measurements.
