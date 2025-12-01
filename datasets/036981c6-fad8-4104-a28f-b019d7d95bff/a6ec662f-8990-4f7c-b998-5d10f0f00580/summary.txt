@@ -1,0 +1,1 @@
+How ISO C became unusable for operating systems development VictorYodaiken vy@e27182 com E27182 Austin,Texas,USA Figure1 KenThompsonandDennisRitchieatBellLabs Abstract Germany ACM,NewYork,NY,USA,8pages https://doi
