@@ -1,18 +1,17 @@
 [
   "Bayesian inverse problems",
   "probability density approximation",
-  "Gaussian process response surfaces",
-  "non-stationary covariance functions",
-  "Hessian information",
+  "Gaussian process response surface",
+  "non-stationary covariance function",
+  "Hessian-based adaptation",
   "adaptive sampling",
+  "curse of dimensionality",
   "piecewise Gaussian approximation",
   "Laplace approximation",
-  "curse of dimensionality",
+  "radial basis function interpolation",
+  "membership probability functions",
+  "electromagnetic scattering inverse problem",
   "parameter-to-observable map",
-  "electromagnetic scattering",
-  "model reduction",
   "Markov chain Monte Carlo",
-  "radial basis functions",
-  "membership probabilities",
-  "posterior distribution"
+  "model reduction"
 ]
