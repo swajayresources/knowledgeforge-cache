@@ -1,0 +1,17 @@
+[
+  "The reference patch antenna had a bandwidth of 143 MHz, a gain of 2.8 dB, and an RCS of -27.98 dBsm.",
+  "The PCM structured antenna achieved an RCS reduction of -37.14 dBsm, the lowest among the three proposed antennas.",
+  "The L-structured metamaterial antenna had the lowest return loss of -28.28 dB.",
+  "The square-structured fractal metamaterial antenna had the highest bandwidth of 201.9 MHz.",
+  "All three metamaterial antennas showed a marginal increase in gain compared to the reference patch antenna.",
+  "The metamaterial structures loaded onto the antennas exhibit negative electromagnetic properties, including negative relative permittivity, permeability, and refractive index.",
+  "Coaxial feeding was used for all the proposed antennas to minimize spurious radiation and ease fabrication.",
+  "The PCM technique uses a chessboard-like structure to create a polarization conversion mechanism that reduces the overall RCS.",
+  "The fractal geometry of the square-structured metamaterial antenna allows for wideband operation and RCS reduction.",
+  "Metamaterial loading can improve antenna parameters like return loss and bandwidth, but there is a tradeoff in achieving optimal RCS reduction while maintaining high gain.",
+  "RCS reduction is critical for military and defense applications to avoid detection by radar.",
+  "Metamaterial techniques offer advantages over other RCS reduction methods like RAM and shaping by allowing for tailored electromagnetic properties without significantly degrading antenna performance.",
+  "The L-structured metamaterial antenna had the lowest return loss of -28.28 dB among the three proposed designs.",
+  "The square-structured fractal metamaterial antenna achieved the highest bandwidth of 201.9 MHz.",
+  "The PCM structured antenna demonstrated the best RCS reduction of -37.14 dBsm."
+]
