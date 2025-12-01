@@ -1,0 +1,17 @@
+[
+  "The Method of Moments is a numerical method used to solve electromagnetic problems.",
+  "The impedance matrix represents the interactions between the elements of an object and is used to compute the current distribution on the object's surface.",
+  "LU factorization is used to decompose the impedance matrix into a product of a lower triangular matrix and an upper triangular matrix.",
+  "The Adaptive Cross Approximation technique is used to compress the impedance matrix and reduce memory and operations count.",
+  "The numerical rank of a matrix is the number of singular values greater than a chosen tolerance.",
+  "The rank of a matrix is the number of non-zero singular values.",
+  "The Method of Moments is limited by the tyranny of N^2 for matrix fill time and storage, and N^3 time for LU factorization.",
+  "The Adaptive Cross Approximation technique can be used to reduce memory and operations count in the Method of Moments.",
+  "The numerical rank of a matrix determines the number of rows and columns of the matrix that need to be computed.",
+  "The Adaptive Cross Approximation technique can be used to solve large-scale electromagnetic problems.",
+  "The Method of Moments with Adaptive Cross Approximation can be used to solve problems with up to 1M unknowns.",
+  "The Adaptive Cross Approximation technique can be used to reduce the memory and operations count of the Method of Moments.",
+  "The numerical rank of a matrix is significant in the context of the Adaptive Cross Approximation technique.",
+  "The Adaptive Cross Approximation technique is a novel approach to solving large-scale electromagnetic problems.",
+  "The Method of Moments with Adaptive Cross Approximation is a promising approach for solving large-scale electromagnetic problems."
+]
