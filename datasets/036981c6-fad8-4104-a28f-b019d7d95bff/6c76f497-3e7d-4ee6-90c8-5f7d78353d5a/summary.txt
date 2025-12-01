@@ -1,0 +1,1 @@
+This paper evaluates the electromagnetic interference (EMI) shielding effectiveness of nanocomposite materials containing multi-walled carbon nanotubes (MWNTs) for potential use in satellite structures. Four different MWNT nanocomposite configurations were fabricated and tested under thermal cycling and monotonic tension loads to assess their EMI shielding performance.
