@@ -1,0 +1,15 @@
+{
+  "paper_id": "91a0c28e-f5b2-4be1-939e-c803e55ddbc8",
+  "title": "BaseSAP: Modular Stealth Address Protocol for Programmable Blockchains",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91a0c28e-f5b2-4be1-939e-c803e55ddbc8/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91a0c28e-f5b2-4be1-939e-c803e55ddbc8/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91a0c28e-f5b2-4be1-939e-c803e55ddbc8/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/91a0c28e-f5b2-4be1-939e-c803e55ddbc8/keywords.json"
+  ]
+}
