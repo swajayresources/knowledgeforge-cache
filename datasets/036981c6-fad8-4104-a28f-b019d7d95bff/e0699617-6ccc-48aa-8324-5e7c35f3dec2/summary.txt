@@ -1,0 +1,1 @@
+This paper investigates nonlinear propagation properties of electromagnetic waves in double-domain negative/positive index metamaterials, focusing on the coherent energy transfer between ordinary and backward waves. The authors developed a theory and conducted computational studies to understand these processes and their potential applications in photonics.
