@@ -1,18 +1,17 @@
 [
   "Multidisciplinary wing optimization",
-  "Composite structures",
-  "Equivalent plate analysis",
-  "Unsteady aerodynamics",
+  "Equivalent plate structural modeling",
   "Piecewise Continuous Kernel Function Method",
   "Minimum State Method",
-  "Servoaeroelastic stability",
-  "Control system design",
+  "Aeroservoelastic analysis",
+  "Composite structures",
+  "Unsteady aerodynamics",
+  "Control-structure interaction",
   "Behavior sensitivity analysis",
+  "Multilevel decomposition",
   "Computational efficiency",
-  "Structural modeling",
-  "Aerodynamic modeling",
-  "Finite element analysis",
-  "Ground vibration testing",
-  "Lifting surface theory",
-  "State-space modeling"
+  "Preliminary aircraft design",
+  "Rational function approximation",
+  "State-space modeling",
+  "Servoaeroelastic stability"
 ]
