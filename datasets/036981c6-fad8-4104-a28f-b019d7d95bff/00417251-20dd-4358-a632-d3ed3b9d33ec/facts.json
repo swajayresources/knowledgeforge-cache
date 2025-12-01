@@ -1,0 +1,12 @@
+[
+  "The electromagnetic field considered is A_ext(x) = x^+ (x^-) dx^-, with the only non-zero component of the field strength being F_-+ = E(x^-).",
+  "Classically, particles with initial momentum p_+ below a critical value b_\u221e cannot cross the 'electromagnetic horizon' defined by the condition p_+ b(x^-) = 0.",
+  "The classical orbit equations can be solved exactly, showing that particles below the critical momentum are accelerated to the speed of light and causally disconnected from the 'out' region.",
+  "Radiation from the accelerated particles diverges at the horizon for electrons, but remains finite for positrons.",
+  "The Landau-Lifshitz equation, including radiation reaction, shows that the horizon remains but is shifted to earlier times for radiating electrons.",
+  "The exact wavefunctions for scalar particles in the background field exhibit singularities at the classical horizon.",
+  "For electrons below the critical momentum, the wavefunctions extend into the 'out' region but have no overlap with outgoing states, indicating a violation of unitarity.",
+  "For positrons below the critical momentum, the wavefunctions suggest particle production via the Schwinger effect at the horizon.",
+  "The paper connects the issues at the horizon to properties attributed to Hawking radiation in black hole physics, noting the system is 'almost semiclassical-exact'.",
+  "The 'perturbiner' method is used to construct 'amplitudes' that contain the necessary information to calculate observables related to pair creation and radiation."
+]
