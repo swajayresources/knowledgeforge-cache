@@ -1,0 +1,15 @@
+[
+  "Stealth technology is crucial in modern defense systems.",
+  "Radar Cross-Section (RCS) is a numerical representation of an object's visibility relative to the radar system.",
+  "Geometric shaping is an effective method for RCS control.",
+  "Material engineering is a helpful approach for managing RCS.",
+  "Frequency Selective Surfaces (FSS) and metamaterials can be used for passive and adaptive RCS control.",
+  "Active and reconfigurable approaches can be used for RCS control.",
+  "Contemporary computational electromagnetic (CEM) software can provide sophisticated simulation environments to investigate electromagnetic scattering behavior.",
+  "Numerical simulations can help designers to test different setups, visualize current distributions, and predict scattering patterns before physical fabrication.",
+  "The baseline rectangular microstrip antenna has a resonant frequency of 3.9 GHz and a -10 dB bandwidth of 3.1-4.8 GHz.",
+  "Geometric modifications can improve the S11 response and increase the -10 dB bandwidth.",
+  "The hybrid antenna (Model C) has a -10 dB bandwidth of 3.5-7.8 GHz and achieves a maximum RCS reduction of up to 80% with a minimum value of -15 dBsm.",
+  "CST Microwave Studio (MWS) was used for simulation and modeling.",
+  "This study enhances the expanding field of low-observable antenna design, offering insights important for radar, aerospace, and communication systems where stealth performance is essential."
+]
