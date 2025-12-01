@@ -1,10 +1,17 @@
 [
-  "The MnZn ferrite particles used had a stoichiometry of Mn0.66Zn0.34Fe2O4 and a lattice constant of 8.483 \u00c5.",
-  "The densities of the MnZn ferrite and the silicone matrix were 5.029 g/cm\u00b3 and 1.28 g/cm\u00b3, respectively.",
-  "The volume fraction of the ferrite in the silicone matrix varied in the range v_f = 0, 0.10, 0.15, 0.20, 0.27 and 0.37.",
-  "The real components of \u03bc' and \u03b5' for the pure silicone rubber (v_f = 0) were nearly constant at 1 and 3, respectively, in the evaluated frequency range.",
-  "The imaginary components \u03bc'' and \u03b5'' of the pure silicone rubber varied from 0 to 1.2 and 0 to 0.7, respectively, indicating low magnetic and dielectric losses.",
-  "The frequency of the minimum reflection loss (f_m) is shifted to a lower frequency band as the volume fraction of MnZn ferrite increases (v_f = 0.10 \u2192 f_m = 13.0 GHz; v_f = 0.15 \u2192 f_m = 12.0 GHz; v_f = 0.20 \u2192 f_m = 9.0 GHz).",
-  "The RAM sample with v_f = 0.20 had the largest frequency bandwidth of 4.5 GHz at a reflection loss of -10 dB.",
-  "The amplitude of the main reflection loss peak decreases for smaller thicknesses for v_f = 0.10, but this trend seems to reverse for v_f = 0.20 and t \u2264 4.0 mm."
+  "The complex magnetic permeability and dielectric permittivity spectra of the MnZn ferrite-rubber composites were measured in the frequency range of 2 to 18 GHz.",
+  "The MnZn ferrite volume fractions studied range from 0 to 0.37.",
+  "The complex permeability and permittivity generally increase with increasing ferrite volume fraction, with some exceptions at higher frequencies above 14 GHz for the permittivity.",
+  "The reflection loss decreases (i.e. absorption increases) with increasing ferrite volume fraction, reaching a minimum of -35 dB for a ferrite volume fraction of 0.20.",
+  "Increasing the RAM thickness generally shifts the frequency of minimum reflection loss to lower values.",
+  "The RAM with 0.20 ferrite volume fraction has a frequency bandwidth of 4.5 GHz for RL < -10 dB.",
+  "The lattice constant of the prepared MnZn ferrite is 8.483 \u00c5.",
+  "The density of the MnZn ferrite is 5.029 g/cm^3, and the density of the silicone rubber is 1.28 g/cm^3.",
+  "The stoichiometry of the prepared MnZn ferrite is Mn0.66Zn0.34Fe2O4.",
+  "The MnZn ferrite particles were prepared by the usual ceramic sintering method from the mixture of Fe2O3, MnCO3 and ZnO.",
+  "Scanning electron microscopy (SEM) examinations showed that the MnZn ferrite particles have a variety of sizes (1 - 50 \u03bcm) and shapes (acicular or plate).",
+  "The X-ray diffraction (XRD) pattern confirmed the existence of a single cubic phase for the MnZn ferrite, in agreement with the JCPDS card (74-2401).",
+  "The pure silicone rubber (0 vol% ferrite) has real permeability and permittivity values of around 1 and 3, respectively, with low magnetic and dielectric losses.",
+  "The frequency of the minimum reflection loss is shifted to lower frequencies as the MnZn ferrite volume fraction increases.",
+  "The RAM samples with different ferrite contents exhibit a single-peaked-minimum curve for the reflection loss."
 ]
