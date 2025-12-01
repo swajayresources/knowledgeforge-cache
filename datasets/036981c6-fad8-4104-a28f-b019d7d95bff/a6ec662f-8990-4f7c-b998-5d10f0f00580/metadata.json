@@ -1,0 +1,15 @@
+{
+  "paper_id": "a6ec662f-8990-4f7c-b998-5d10f0f00580",
+  "title": "How ISO C became unusable for operating systems development",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a6ec662f-8990-4f7c-b998-5d10f0f00580/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a6ec662f-8990-4f7c-b998-5d10f0f00580/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a6ec662f-8990-4f7c-b998-5d10f0f00580/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a6ec662f-8990-4f7c-b998-5d10f0f00580/keywords.json"
+  ]
+}
