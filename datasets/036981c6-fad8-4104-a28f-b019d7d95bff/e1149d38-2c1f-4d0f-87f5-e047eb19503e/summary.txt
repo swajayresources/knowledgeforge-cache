@@ -1,0 +1,1 @@
+This paper investigates the phenomenon of target radar cross section dependence on transmitted frequency for target classification. An experimental 94 GHz radar system was designed and used to obtain data for corner reflectors at various range spacings. Theoretical computer simulations were developed and compared to the experimental data.
