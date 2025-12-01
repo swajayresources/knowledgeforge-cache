@@ -1,0 +1,1 @@
+This paper proposes a full privacy-preserving distributed batch-based certificate-less aggregate signature authentication scheme for healthcare wearable wireless medical sensor networks (HWMSNs) that uses elliptic curve cryptography to provide efficient authentication and reduce computation, communication, and verification delays during medical data transmission.
