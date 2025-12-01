@@ -1,0 +1,1 @@
+This paper presents an invisibility cloak device that can also project images through it, using orthogonal polarizations for cloaking and image projection. The device is made from commercially available optical components like polarizers and mirrors, providing a practical approach towards transparent displays and see-through electronics.
