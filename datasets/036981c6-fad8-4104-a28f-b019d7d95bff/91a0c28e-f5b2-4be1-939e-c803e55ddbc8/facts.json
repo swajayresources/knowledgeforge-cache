@@ -1,0 +1,17 @@
+[
+  "BaseSAP is a fully open and reusable stealth address protocol that can reliably offer stealth addresses at the application layer of programmable blockchains such as Ethereum.",
+  "The BaseSAP protocol aims to provide a lightweight mechanism for users to generate stealth addresses, maintaining complete backward compatibility and requiring no modifications to the core blockchain.",
+  "The authors create the first practical implementation of BaseSAP, which includes an improved dual-key method that relies on the Secp256k1 elliptic curve and employs view tags to improve parsing efficiency compared to conventional Dual-Key Stealth Address Protocols (DKSAPs).",
+  "The authors publish the code base created for this work under an open-source license to ensure reproducibility and transparency.",
+  "BaseSAP is designed to be fully extendable, enabling the creation of unique stealth address protocols based on particular cryptographic schemes, such as stealth addresses derived from the Secp256k1 elliptic curve or generated using lattice-based cryptography.",
+  "The authors propose to contribute the BaseSAP protocol as an Ethereum Request for Comment (ERC) to facilitate the adoption of stealth addresses on programmable and decentralized blockchains.",
+  "Stealth address protocols like BaseSAP could benefit diverse areas such as Smart Contract wallets, cryptocurrency donation platforms, public goods funding, decentralized finance, and the Non-Fungible Token landscape.",
+  "The authors analyze potential security ramifications and attack vectors that could affect the privacy of stealth addresses, emphasizing the importance of addressing these challenges to facilitate the mainstream acceptance of stealth addresses.",
+  "The key difference between stealth addresses and ZK-SNARKs is that stealth addresses obfuscate the recipient's ownership within a transaction, while funds remain traceable, whereas ZK-SNARKs allow for commingling funds with those of other users, eliminating discernible on-chain traces.",
+  "The modular design of BaseSAP highlights the significant potential of such approaches when implemented at the application layer of programmable blockchains, as it allows for the creation of unique stealth address protocols based on particular cryptographic schemes.",
+  "The authors create a preliminary stealth address prototype that leverages the Secp256k1 elliptic curve and exhibits superior performance in terms of parsing time when compared to existing Dual-Key Stealth Address Protocols (DKSAPs).",
+  "BaseSAP comprises a single singleton contract, the Announcer contract, which enables users to publish their ephemeral public keys at a central place, addressing the scalability and parsing time issues associated with previous stealth address protocols.",
+  "The authors design BaseSAP to be fully extendable, enabling the creation of unique stealth address protocols based on particular cryptographic schemes, such as stealth addresses derived from the Secp256k1 elliptic curve or generated using lattice-based cryptography.",
+  "The authors propose the BaseSAP protocol as an Ethereum Request for Comment (ERC) to contribute to the adoption of stealth addresses on programmable and decentralized blockchains.",
+  "The modular design of BaseSAP allows for the creation of unique stealth address protocols based on particular cryptographic schemes, highlighting the significant potential of such approaches when implemented at the application layer of programmable blockchains."
+]
