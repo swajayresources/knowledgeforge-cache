@@ -1,0 +1,1 @@
+This paper presents an integrated circuit electromagnetic susceptibility handbook that provides information on the susceptibility of various integrated circuits to high-power RF and microwave signals, including methods for analyzing and mitigating electromagnetic interference in electronic systems.
