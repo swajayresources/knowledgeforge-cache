@@ -1,0 +1,1 @@
+This paper discusses the use of high-power 83 GHz millimeter-wave beams for sintering ceramic laser host materials. The authors demonstrate that this method can produce polycrystalline ceramics with up to 99% theoretical density, which is advantageous for laser applications compared to single-crystal materials.
