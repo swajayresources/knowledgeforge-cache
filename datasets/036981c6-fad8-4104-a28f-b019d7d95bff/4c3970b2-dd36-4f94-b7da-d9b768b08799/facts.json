@@ -1,0 +1,17 @@
+[
+  "The authors demonstrate numerically that it is possible to achieve invisibility through an inner system based on scattering cancellation techniques.",
+  "The proposed methodology for obtaining invisibility is based on using Genetic Algorithms for minimizing the electromagnetic scattering of the original object with the filler inclusion.",
+  "The first example corresponds to a silica sphere of \u03bb/2 diameter filled with a three-layer dielectric filler, achieving a reduction of over 30 dB in the backscattering.",
+  "The second example corresponds to a silica cube of \u03bb/2 side length filled with a two-layer dielectric filler, also achieving a significant reduction in scattering.",
+  "The third example corresponds to a silica sphere of \u03bb diameter filled with a three-layer dielectric filler composed of only positive dielectric materials, achieving a reduction of over 27 dB.",
+  "The authors used a parallelized version of the MIT's genetic algorithm (GA) library to optimize the filler parameters, including the permittivities, permeabilities, and thicknesses of each layer.",
+  "The surface integral equation (SIE) and the method of moments (MoM) were used to compute the scattering cross section of each filler configuration.",
+  "The authors note that the inner cloaking approach is limited to penetrable objects composed of lossless materials that are not much larger than a wavelength in size.",
+  "The inner cloaking approach cannot be used for non-penetrable objects like perfect electric conductors, as the filler did not receive electromagnetic fields.",
+  "The authors suggest that the inner cloaking approach can be useful when the inclusion of an external cloaking device would disturb the interaction of the target object with its environment.",
+  "The authors state that external cloaking devices analyzed in previous works generally achieved better performance compared to the results of this inner cloaking approach.",
+  "The multilayer dielectric filler used a combination of positive and negative permittivity and permeability materials, with one example using only positive dielectric materials.",
+  "The authors note that the invisibility presented a very narrow bandwidth due to the plasmonic cloaking approach used.",
+  "The computational simulations were performed on a cluster with 4 x Xeon E7-8867@2.5 GHz (4 \u00d7 16 cores = 64 cores) and 1TB of RAM memory.",
+  "The authors used a triangular mesh discretization of each multilayer surface with more than 200 triangles per square wavelength to ensure a high level of accuracy in the results."
+]
