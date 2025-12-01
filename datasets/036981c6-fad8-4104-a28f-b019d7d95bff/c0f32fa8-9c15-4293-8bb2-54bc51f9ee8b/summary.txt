@@ -1,0 +1,1 @@
+This paper presents a method for designing broadband electromagnetic invisibility cloaks using dispersive metamaterials. The authors derive equations that link the frequency-dependent permittivity and permeability tensors to the geometric transformation, allowing the cloak to operate over a wide frequency range.
