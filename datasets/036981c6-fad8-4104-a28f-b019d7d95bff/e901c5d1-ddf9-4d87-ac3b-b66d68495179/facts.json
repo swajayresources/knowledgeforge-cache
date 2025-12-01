@@ -1,7 +1,17 @@
 [
-  "The computational model is based on a finite element technique using the Galerkin variant of the method of moments.",
-  "The expansion and weighting functions are piecewise linear, relative to a solid element with eight nodes.",
-  "The model is fully three-dimensional and can account for the presence of a thin, perfectly conducting enclosure.",
-  "The model can be used to analyze the transient electromagnetic field coupling into metallic cavities or enclosures.",
-  "The paper does not present specific numerical results or findings, but focuses on describing the computational approach and its capabilities."
+  "The computational model is fully three-dimensional.",
+  "The finite element implementation uses piecewise linear expansion and weighting functions.",
+  "The model accounts for the presence of a thin, perfectly conducting wall.",
+  "The governing equations are developed in cylindrical coordinates assuming axial symmetry.",
+  "The finite element method uses the Galerkin variant of the method of moments.",
+  "The model is intended to study transient electromagnetic field coupling into metallic enclosures.",
+  "Potential applications include understanding electromagnetic interference and shielding effects in electronic devices, aircraft, and spacecraft.",
+  "The model assumes the presence of a thin, perfectly conducting wall, which may not accurately represent all real-world scenarios.",
+  "The paper does not present any numerical results or validation of the computational model.",
+  "The authors are developing the computational model as part of ongoing research in this area.",
+  "The finite element implementation uses solid elements with eight nodes to define the piecewise linear expansion functions.",
+  "The governing equations are derived from Maxwell's equations in cylindrical coordinates.",
+  "Axial symmetry is assumed to simplify the governing equations and computational domain.",
+  "The finite element method is used to discretize and solve the governing partial differential equations.",
+  "The Galerkin variant of the method of moments is employed to formulate the finite element equations."
 ]
