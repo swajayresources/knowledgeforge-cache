@@ -1,0 +1,17 @@
+[
+  "The device consists of commercially available optical components such as polarizers and mirrors.",
+  "The device is designed as a 12-port structure with the cloaking and image projection functionalities achieved through the use of orthogonal polarizations.",
+  "The vertically polarized light is bent 90 degrees by the polarizers, while the horizontally polarized light passes straight through, enabling the reconstruction of the scene behind the cloak.",
+  "The remaining 50% of the incident light is used for image projection, allowing the display of information in any desired region of the cloak structure.",
+  "As the view angle increases from 0 to 4 degrees, the reconstructed scene starts to degrade due to the loss of information and incorrect positioning of the image.",
+  "The device can be used to realize transparent electronics and see-through displays, such as in cellphones, smart glasses, automotive applications, and augmented reality technologies.",
+  "The use of commercially available optical components makes the device easier to implement and a significant step towards practical applications.",
+  "The device handles the trade-off between cloaking and image projection by utilizing the orthogonal polarizations of light to achieve both functionalities simultaneously.",
+  "The current device has limitations in terms of view angle and image quality, which may require further improvements in the optical design.",
+  "The key innovation is the integration of invisibility cloaking and image projection capabilities in a single device, opening up new possibilities for transparent electronics and augmented reality applications.",
+  "The device demonstrates a novel approach that has not been explored in previous works on invisibility cloaks and transparent displays.",
+  "The experimental demonstration of the device validates the proposed mechanism and architecture for combining cloaking and image projection functionalities.",
+  "The device provides a practical and cost-effective solution for transparent displays and see-through electronics, compared to previous approaches that relied on specialized materials or optical elements.",
+  "The device's ability to project images in any desired region of the cloak structure, including the middle of neighboring areas, is a unique capability.",
+  "The device's performance is analyzed in terms of the view angle dependence, providing insights into the limitations and potential improvements required for practical applications."
+]
