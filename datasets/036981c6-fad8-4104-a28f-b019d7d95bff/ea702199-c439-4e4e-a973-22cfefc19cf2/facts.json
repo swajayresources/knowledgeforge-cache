@@ -1,0 +1,17 @@
+[
+  "The paper compares backprojection and iterative smooth reweighted L1-minimization methods for analyzing RCS measurement data using ISAR imaging.",
+  "Backprojection is a straightforward and robust method, but is limited by the resolution of the measurement setup.",
+  "The L1-minimization method can provide better resolution than backprojection, allowing for RCS extraction of more closely spaced scatterers.",
+  "The L1-minimization method is less accurate than backprojection in extracting the true RCS values, especially for closely spaced scatterers.",
+  "The simulations used a frequency range of 13.5-16.5 GHz in 41 steps and an azimuth angle range of -5.7\u00b0 to 5.7\u00b0 in 41 steps.",
+  "The down-range resolution of the simulations was 5 cm, defined by the frequency bandwidth.",
+  "The reweighting matrix W in the L1-minimization method was calculated as W = 1 / (xD + \u03b7), where xD is a smoothed version of the image x and \u03b7 is a small value.",
+  "Four iterations of the L1-minimization with reweighting were performed for all examples shown in the paper.",
+  "The main conclusion is that backprojection is more robust and accurate for RCS extraction, but the L1-minimization method can provide better resolution for closely spaced scatterers.",
+  "The L1-minimization method should be preferred when the scattering features cannot be resolved in the backprojection image.",
+  "The paper presents and discusses the pros and cons of the two methods in terms of resolution, accuracy, and applicability.",
+  "The point scattering model is defined in the forward operator A and the backward operator A^T, which are used to solve the inverse problem.",
+  "The problem to be solved is formulated as a minimization of the L1-norm of the image x subject to a constraint on the L2-norm of the residual Ax-y.",
+  "The iterative smooth reweighted L1-minimization procedure is adapted from previous work on sparse reconstruction and cluster-sparsity problems.",
+  "The smoothing function D is used to create a smoothed version of the image x, which is then used to calculate the reweighting matrix W."
+]
