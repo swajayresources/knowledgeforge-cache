@@ -1,0 +1,17 @@
+[
+  "The paper presents an approximation for modeling electromagnetic scattering from thin dielectric disks that is valid across all frequencies.",
+  "The approach involves approximating the fields inside the disk using the fields that would exist in a dielectric slab of the same thickness, orientation, and dielectric properties.",
+  "For very thin disks where T << \u03bb, the solution reduces to an electrostatic approximation.",
+  "For disks where kA >> 1, the solution reduces to a physical optics approximation.",
+  "The solution is applicable when the dimension characteristic of the disk's cross-section (e.g. diameter) is much larger than the disk's thickness (A/T >> 1).",
+  "When the relative dielectric constant is close to 1 and kT\u03b2 << 1, the solution reduces to the Born approximation.",
+  "The radar cross section is given by \u03c3 = \u03c30 |Rp|^2 \u03b4pq, where \u03c30 is the physical optics form, Rp is the Fresnel reflection coefficient, and \u03b4pq is the Kronecker delta.",
+  "For very thin disks with A/T = 3,000, the theory showed excellent agreement with experimental radar cross section measurements, particularly near normal incidence.",
+  "For disks with A/T = 5, the theory showed reasonably good agreement with experimental data for incidence angles less than about 30 degrees.",
+  "The theory ignores edge effects, which become important when the incidence angle is greater than about 60 degrees.",
+  "The ideal experiment to fully test the theory would involve measuring scattering from a single thin disk as a function of frequency, covering the range from kA << 1 to kA >> 1.",
+  "Dielectric disks are important models for objects encountered in nature such as leaves, crops, and ice crystals in clouds.",
+  "An exact solution for scattering from a dielectric disk has not yet been found, and the paper presents an approximation that can be used across all frequencies.",
+  "The approximation has the advantage of using a solution to Maxwell's equations to represent the fields inside the disk, rather than relying on ad-hoc assumptions.",
+  "The paper compares the theoretical results to experimental data on the radar cross section of thin dielectric disks, showing good agreement in both the high and low frequency regimes."
+]
