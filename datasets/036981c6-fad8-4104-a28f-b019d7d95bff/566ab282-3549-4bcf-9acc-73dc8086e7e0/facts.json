@@ -1,0 +1,18 @@
+[
+  "The modeling of EM behavior of VLSI systems is becoming increasingly important as clock frequencies increase and signal rise times decrease.",
+  "The higher spectral content of signals and more complicated structures increase the complexity of EM models required.",
+  "MOR techniques can simplify the analysis of EM models by reducing the number of degrees of freedom.",
+  "Parabolic DEs or diffusion problems are well-suited for MOR techniques.",
+  "Hyperbolic problems are challenging for MOR techniques due to the large number of relevant eigenvalues.",
+  "The number of eigenvalues can easily exceed 10^3 for high-performance EM problems.",
+  "The first test problem involves coupled lossless transmission lines with a 9-conductor problem.",
+  "The second test problem is a 2D printed circuit board problem with a ferrite core.",
+  "The ferrite core represents a decoupling element that reduces noise transferred to the isolated quiet part of the plane.",
+  "The ultimate goal of the paper is to develop reliable MOR techniques for EM problems that can efficiently solve large-scale problems.",
+  "The special IEEE Transactions issue on MOR techniques represents the state-of-the-art on MOR techniques.",
+  "The challenge of recovering all the resonances from data is a very challenging problem.",
+  "The paper presents two test problems to compare the different MOR approaches.",
+  "The first test problem involves a 9-conductor transmission line problem with a 5cm and 15cm length.",
+  "The second test problem involves a 2D printed circuit board problem with a ferrite core and a regular array of decoupling capacitors.",
+  "The paper highlights the challenges and opportunities in applying MOR techniques to EM problems."
+]
