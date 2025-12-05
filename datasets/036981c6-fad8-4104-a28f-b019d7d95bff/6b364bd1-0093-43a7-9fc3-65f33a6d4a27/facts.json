@@ -1,0 +1,22 @@
+[
+  "Graphene oxide was chemically prepared by improved Hummer\u2019s method.",
+  "Single-step reduction methods included hydrazine hydrate chemical reduction and thermal annealing at 800\u00b0C in argon/hydrogen atmosphere.",
+  "Double-step reduction methods combined hydrazine hydrate reduction with either 50 keV nitrogen ion beam implantation or 100 MeV silver ion swift heavy ion irradiation.",
+  "Raman spectroscopy showed an increase in I(D)/I(G) ratio from 0.92 in GO to 1.58 in sample S, indicating increased defects and smaller sp2 domains after reduction.",
+  "FT-IR spectra confirmed removal of epoxy groups in hydrazine hydrate reduced samples but not in thermally annealed samples.",
+  "SEM images revealed aggregated sheet structures that opened up after reduction.",
+  "Carbon to oxygen atomic ratio increased from 1.21 in GO to 14.5 in sample S, confirming reduction.",
+  "Room temperature dc electrical conductivity increased from 2.25 x 10^-9 S/cm in GO to 235.03 S/cm in sample S.",
+  "EMI shielding effectiveness (SE) at 12.4 GHz increased from 31.14 dB in sample C to 55.29 dB in sample S.",
+  "Skin depth decreased with increasing electrical conductivity, with sample S having the lowest skin depth of 0.0188 cm.",
+  "Shielding effectiveness slightly increased with frequency within the X-band range.",
+  "Sample S's EMI shielding effectiveness surpasses many previously reported reduced graphene oxide composites.",
+  "Hydrazine hydrate reduction converts epoxy groups into hydrazine alcohols, facilitating removal of oxygen functionalities.",
+  "Thermal annealing cannot remove epoxy groups due to their stability up to 1200\u00b0C.",
+  "EMI shielding effectiveness is mainly due to reflection and absorption of electromagnetic waves; multiple reflections are negligible when SE > 10 dB.",
+  "The study demonstrates that combining chemical and ion beam reduction methods enhances electrical conductivity and EMI shielding performance.",
+  "The samples were prepared as rectangular pellets of 15.8 x 7.9 mm^2 and 0.9 mm thickness for EMI testing.",
+  "The highest EMI shielding effectiveness of 55.29 dB corresponds to over 99.999% attenuation of electromagnetic waves.",
+  "The study highlights reduced graphene oxide as a lightweight, non-corrosive alternative to metal-based EMI shields.",
+  "The research was supported by University of Delhi and Indian Department of Science and Technology."
+]
