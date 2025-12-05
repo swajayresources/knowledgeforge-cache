@@ -1,0 +1,17 @@
+[
+  "8,AUGUST2019 6000606 Electromagnetic Signature Reduction of Ferromagnetic Vessels Using Machine Learning Approach Ankita Modi 1,2,3 and Faruk Kazi1,2 1Center of Excellence in Complex and Nonlinear Dynamical Systems (CoE-CNDS), Veermata Jijabai Technological Institute (VJTI), Mumbai 400019, India 2Electrical Engineering Department, Veermata Jijabai Technological Institute (VJTI), Mumbai 400019, India 3Department of Electronics Engineering, K",
+  "Somaiya College of Engineering, Mumbai 400077, India This paper proposes a fast and efficient method for magnetic signature reduction of underwater vessels",
+  "More than 90% of signature reduction is achieved, assuming that the signature predicted is accurate",
+  "This can be solved usingleastangleregression(LARS)techniques [7], [8]",
+  "Also, unlike most ill-posed in the earth\u2019s magnetic field, roll induced eddy currents [1], inverse problems, DG current calculation is a special type corrosionresistantsystem [2],permanentsignatures,andsome of well-posed inverse problem, with a unique and stable traces due to stray fields [3], [4]",
+  "Permanent signatures are solution [9]",
+  "The majorsignature ticleswarmalgorithm [10]andadeterministic-basedapproach contribution is from the induced magnetization due to the using ordinary least squares [11]\u2013[13]",
+  "methods,suchasboundaryelementmethods(BEMs),method For the security of the vessels, especially in war scenarios, of fundamental solutions (MFSs) [14], and finite element degaussing (DG) coils are laid in all the three directions, methods (FEMs), are used in the literature for modeling the tocompensateforlongitudinal,arthwartship,andverticalmag- DGproblem",
+  "Thehighcomputationtimerequiredisthedisap- netic components, respectively [5]",
+  "Also, due to the heat dissipation, studied [15], [16]",
+  "The algorithm is time efficient density,high-temperaturesuperconducting(HTS)coilsarethe and is able to achieve almost 90% reduction",
+  "The experi- solutions to these problems [6]",
+  "Manuscript received July 22, 2018; revised March 17, 2019; accepted The main contribution of this paper is to propose a novel April 4, 2019",
+  "Date of publication May 15, 2019; date of current version July 18, 2019",
+  "bycomputationallyefficientmachinelearning-basedapproach Color versions of one or more of the figures in this paper are available called ridge regression [17], [18]"
+]
