@@ -1,0 +1,1 @@
+This paper discusses radar cross-section (RCS) estimation for simple shapes, including methods for calculating RCS for various geometric shapes such as spheres, cylinders, and cones. The authors review existing literature and present new results for the Rayleigh region, optics region, and resonance region. They also discuss the application of asymptotic methods for RCS problems.
