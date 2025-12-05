@@ -1,0 +1,16 @@
+[
+  "The UPF model can handle islanded and grid-connected systems at nominal or off-nominal frequency.",
+  "The UPF model can evaluate system frequency.",
+  "The UPF model can handle active control strategies of distributed generators.",
+  "The UPF model can handle MW and MVAR limitations of ISOC or droop DG units.",
+  "The UPF model can handle frequency-dependent active and reactive power loads.",
+  "The UPF model is validated by comparing results with those obtained from a real-time simulator (RTS).",
+  "The paper presents a novel universal power flow algorithm for industrial systems and microgrids.",
+  "The UPF model has the following merits: handling islanded and grid-connected systems, active control strategies of distributed generators, MW and MVAR limitations, system frequency evaluation, and frequency-dependent active and reactive power loads.",
+  "The focus of this paper is on active power.",
+  "A subsequent paper will present a reactive power UPF algorithm.",
+  "The UPF model can handle isochronous (ISOC) control, droop control, or constant power control.",
+  "The UPF model can handle the megawatt (MW) and megavolt-ampere reactive (MVAR) limitations of ISOC or droop DG units.",
+  "The UPF model can evaluate system frequency and handle frequency-dependent active and reactive power loads.",
+  "The UPF model is a novel universal power flow algorithm for industrial systems and microgrids."
+]
