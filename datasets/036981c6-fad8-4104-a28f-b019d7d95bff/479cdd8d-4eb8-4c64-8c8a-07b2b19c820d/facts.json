@@ -1,0 +1,22 @@
+[
+  "Composite materials reduce aircraft structure weight by about 20% compared to traditional metals.",
+  "Fibre types used in FRPs include carbon, glass, and Kevlar fibers with epoxy resin matrices.",
+  "GLARE, a type of FRML with aluminum alloys, is widely used in commercial and military aircraft for its fracture toughness.",
+  "Directed energy systems include lasers, microwaves, and particle beams, each with distinct damage mechanisms.",
+  "Laser systems are characterized by wavelength, frequency, beam energy, and coherence.",
+  "High-energy lasers (>100 kW) are used for structural destruction in military applications.",
+  "Laser damage mechanisms include heating, melting, vaporization, and mechanical deformation due to vapor recoil pressure.",
+  "Laser-induced plasma affects energy absorption and damage progression at high intensities.",
+  "Experimental laser irradiation of CFRP panels used power densities from 5 to 64 W/cm\u00b2 with irradiation times up to 2 minutes.",
+  "Thermal ignition of CFRP occurs at approximately 1198 \u00b0C under laser exposure.",
+  "Mechanical damage requires higher laser intensity but less energy than thermal erosion for deformation.",
+  "Fibre-Reinforced Metal Laminates (FRMLs) combine advantages of metals and composites but have weak interlaminar adhesion.",
+  "Metal Matrix Composites (MMCs) are used in high thermal and mechanical load components but are costly.",
+  "Numerical simulations employ finite element methods to model thermal-mechanical and ablation responses of composites under laser loading.",
+  "Laser spot diameters in experiments ranged from 2.3 cm to 6 cm depending on power density.",
+  "Laser systems can be powered by chemical fuels, electric power, or electron streams, with trade-offs in portability and efficiency.",
+  "Microwave directed energy systems can disrupt electronics by inducing voltages.",
+  "Particle beam systems use charged or neutral particles at near light speed to disrupt molecular structures.",
+  "Kevlar fibers have high strength and thermal stability but are limited in aircraft use due to cost.",
+  "Laser-target interaction depends on material optical properties like refractive index and attenuation coefficient."
+]
