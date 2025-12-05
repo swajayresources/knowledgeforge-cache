@@ -1,0 +1,22 @@
+[
+  "The absorber achieves more than 90% co-polarization absorption from 5.6 GHz to 9.1 GHz for both TE and TM polarizations at normal incidence.",
+  "The absorber thickness is 3.2 mm, which is 12.7 times thinner than the wavelength at the center frequency.",
+  "Rotating the U-shaped resonator by 45\u00b0 enables broadband absorption and equalizes TE and TM absorption rates.",
+  "The unit cell consists of a copper UUSR on a 3.2 mm thick FR4 dielectric backed by a copper ground plane.",
+  "Three near-unity absorption peaks occur at 5.86 GHz, 7.16 GHz, and 8.82 GHz.",
+  "Electric fields concentrate around specific regions of the UUSR, while magnetic fields arise from anti-parallel currents between the resonator and ground plane.",
+  "The absorber maintains over 50% absorption up to 40\u00b0 oblique incidence for both polarizations.",
+  "The operational bandwidth-to-thickness ratio is 6.43, outperforming several other absorbers.",
+  "The absorber is fabricated using conventional PCB technology and tested in an anechoic chamber.",
+  "Measurement results closely match simulation results, with minor frequency shifts due to dielectric permittivity variations.",
+  "The absorber is designed for co-polarization absorption and does not significantly absorb cross-polarized waves.",
+  "The FR4 dielectric has a permittivity of 3.92 and loss tangent of 0.025.",
+  "The copper used has an electrical conductivity of 5.8 \u00d7 10^7 S/m and thickness of 0.017 mm.",
+  "The unit cells are arranged in a periodic array with a period of 15 mm.",
+  "The design uses a transmission line model to match the complex sheet impedance to free space impedance for perfect absorption.",
+  "Increasing dielectric thickness does not necessarily increase bandwidth; impedance matching is critical.",
+  "The absorber can reduce electromagnetic interference caused by metallic objects inside radomes.",
+  "The UUSR shape provides capacitive surface impedance characterized as Z = 1 / (j\u03c9C).",
+  "The design is competitive for applications in the GHz frequency range, especially for radar stealth and EMC.",
+  "Future work includes making the absorber flexible and optimizing for nonplanar surfaces."
+]
