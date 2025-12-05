@@ -1,0 +1,22 @@
+[
+  "FD-TD directly solves Maxwell's curl equations using second-order central differences in space and time.",
+  "Typical FD-TD spatial discretization uses 10 to 20 cells per wavelength for accuracy.",
+  "Time step size is chosen to satisfy a stability condition related to the maximum wave velocity.",
+  "Number of sinusoidal cycles needed to reach steady state depends on target electrical size and Q factor.",
+  "For a target spanning 10 wavelengths, about 40 cycles (800 time steps at 10 cells/wavelength) are needed for steady state.",
+  "FD-TD uses a total-field/scattered-field lattice division to efficiently simulate incident and scattered waves.",
+  "Stepped-edge approximation is used for curved surfaces by assigning material parameters component-wise to lattice cells.",
+  "Radiation boundary conditions at lattice truncation planes minimize nonphysical reflections of outgoing waves.",
+  "FD-TD modeling of a square metal cylinder (k0s=2) showed surface current magnitude agreement within \u00b11% and phase within \u00b13\u00b0 compared to MOM solutions.",
+  "A muscle-fat-layered cylinder model at 100 MHz with cell size 1.5 cm showed excellent agreement with analytical solutions despite stepped-edge approximations.",
+  "FD-TD can model anisotropic materials by specifying permittivity, permeability, and conductivity independently for each field component.",
+  "Computational storage and runtime scale linearly with the number of unknown field components in the modeled volume.",
+  "Near-field to far-field transformations are performed using tangential scattered fields on a fixed rectangular observation surface in the scattered-field region.",
+  "FD-TD has been validated on canonical 2D and 3D targets including metal cubes, plates, and T-shaped conductors.",
+  "The method is robust for modeling multiple scattering, penetration through apertures, and cavity excitations.",
+  "FD-TD avoids subtraction noise in low-field regions, enabling near-field computational dynamic ranges exceeding 60 dB.",
+  "Advances in FD-TD theory and supercomputer technology are expected to enhance modeling of electrically large and complex targets.",
+  "The paper was supported by U.S. Air Force, NASA Lewis, and NSF grants.",
+  "FD-TD time stepping is explicit, requiring no solution of simultaneous linear equations.",
+  "The method naturally satisfies tangential field continuity at media interfaces without special matching."
+]
