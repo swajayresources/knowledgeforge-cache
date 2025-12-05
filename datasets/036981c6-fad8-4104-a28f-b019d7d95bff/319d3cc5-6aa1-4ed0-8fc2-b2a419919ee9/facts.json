@@ -1,0 +1,19 @@
+[
+  "Electromagnetics ISSN: 0272-6343 (Print) 1532-527X (Online) Journal homepage: http://www",
+  "com/loi/uemg20 Partial Differential Equation Methods for Solving the Problem of Electromagnetic Scattering from a Body of Revolution Richard Gordon & Raj Mittra To cite this article: Richard Gordon & Raj Mittra (1990) Partial Differential Equation Methods for Solving the Problem of Electromagnetic Scattering from a Body of Revolution, Electromagnetics, 10:1-2, 163-175, DOI: 10",
+  "1080/02726349008908234 To link to this article: http://dx",
+  "1080/02726349008908234 Published online: 01 Feb 2007",
+  "Submit your article to this journal Article views: 9 View related articles Citing articles: 4 View citing articles Full Terms & Conditions of access and use can be found at http://www",
+  "journalCode=uemg20 Download by: [Nanyang Technological University] Date: 08 June 2016, At: 19:52 PARTIAL DIFFERENTIAL EQUATION METHODS FOR SOLVING THE PROBLEM OF ELECTROMAGNETIC SCATTERING FROM A BODY OF REVOLUTION Richard Gordon and Rai Mittra University of Illinois at Urbana-Champaign, Urbane, Illinois 61801, USA In this paper we discuss the use of a local boundary condition derived from Wilcox's expansion for the scattered fields to achieve mesh rmncation for finite difference and finite element meshes",
+  "While the surface inteeral eauation aooroach emploscd in conjunczon with the merhod of moments (MOX1) is Gll th~'~rcferred'method of solution lor perfectly conducting scattcrers, the fin~tem ethods begtn to compete - favorablv when the bodv is com~lexa nd inhomoeeneous",
+  "d dittonal attrdctivc lc3ture of the finw methods li th:~",
+  "t hcy gencrJtu highly sparse and h:~ndcdm xrtccs which c3n be clficicntlv handled umr: spcaal alponthnis",
+  "vo , icallv solved bv urine the Gaussian eliminat~onm ethod, u hich is quttc timc-consumtng for hrge 1113trices In sum",
+  "the PDE formulations have a potential :idvlntngc over the in1egr:tl cquatlon schemes for solving cornpleu, large-hndy scattering problenis",
+  "Thcrc is one c;l\\&t, however, which must be satisractonly rcsolvcd before the finite difference or finite element methods can bc successlully 3pplied to open region scxtering problcms 2nd th~pr ertams ro the problem of mesh truncatibn us in^ an artificial outer boundaw",
+  "This truncation of the oven region <urmund~ngth e scatte~eer nables one to ltrntt thr nuhber of unknowns to a m3n&ablc-we that can be fitted Into the computer mcmory Ilowever",
+  ";n the asymptotic limit where the outer boundary tends to infinity, the absorbing boundary condition becomes identical to the Sommerfeld radiation Electromagnetics 10:163-175, 1990 163 Copyright O 1990 by Hemisphere Publishing Corporation",
+  "0991 scitengamortcelE 164 R",
+  "We show how the finite element formulation can be developed without the use of a variational expression",
+  "In [I] we showed that when a finite difference mesh with a spherical outer boundary is used, it is necessary to find expressions for the radial derivatives of the potentials at the nodes on the outer boundary"
+]
