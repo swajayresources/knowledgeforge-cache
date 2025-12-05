@@ -1,0 +1,22 @@
+[
+  "The proposed design method achieves up to 78.3% reduction in cloak size compared to the original design.",
+  "A 71% reduction in normalized scattering cross section (SCS) at 10 GHz is demonstrated with the optimized cloak.",
+  "The cloak is based on quasi-conformal mapping (QCM) which allows isotropic refractive indices and broadband operation.",
+  "The approximated model replaces the diamond-shaped hidden object with a hexagonal object of reduced height and expanded width to better model anisotropy effects.",
+  "The refractive index profile is scaled by an optimal factor \u03b2 to compensate for non-unity anisotropy and scattering by the hexagonal object.",
+  "The optimal scaling factor \u03b2 for the approximated model is found to be 0.987 to minimize forward scattering.",
+  "The cloak maintains invisibility from 1 GHz to 26 GHz after optimal scaling, significantly broader than unscaled designs.",
+  "The anisotropy factor \u03b1 in the original cloak design is approximately 1.044, indicating low but non-negligible anisotropy.",
+  "The refractive index profile is discretized into square unit cells of 2.45 mm size for fabrication.",
+  "The 3D-printed cloak material has a relative permittivity of 2.95 and dielectric loss tangent of 0.025 at 10 GHz.",
+  "Excessive size reduction leads to a loss of wave path control and increased anisotropy, degrading cloaking performance.",
+  "The normalized SCS of the cloak can be reduced from 0.888 (original) to 0.258 with size reduction and optimal scaling.",
+  "Full-wave simulations and experimental results show excellent agreement validating the approximated model.",
+  "The cloak is unidirectional due to the diamond-to-flat sheet transformation inherent in the QCM-based free-space cloak.",
+  "The method controls both the path and phase of electromagnetic waves by adjusting the refractive index gradient.",
+  "The refractive index below unity parts are approximated to free space (n=1) to ease fabrication constraints.",
+  "The cloak height was experimentally realized at 34 mm, limited by fabrication constraints on maximum refractive index.",
+  "The forward scattered power density is reduced by 75% after optimal scaling of the refractive index profile.",
+  "The cloak design uses slipping boundary conditions and modified Liao functional minimization for grid generation.",
+  "The scattering cross section is normalized by the total scattered power density with and without the cloak."
+]
