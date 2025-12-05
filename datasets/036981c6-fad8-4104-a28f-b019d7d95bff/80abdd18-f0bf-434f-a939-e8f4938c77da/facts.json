@@ -1,0 +1,22 @@
+[
+  "The mantle cloak concept was introduced in 2009 by Andrea Al\u00f9 as a surface cloaking technique.",
+  "Mantle cloaks use patterned metasurfaces with negligible thickness to achieve cloaking.",
+  "Traditional metamaterial cloaks require volumetric layers with finite thickness.",
+  "The mantle cloak operates by tailoring the surface impedance to cancel scattering harmonics.",
+  "Numerical simulations show up to 97% scattering reduction for a dielectric sphere with permittivity 10 and diameter \u03bb0/5.",
+  "For a conducting sphere of the same size, the mantle cloak achieves about 86% scattering reduction.",
+  "The surface reactance for optimal cloaking in the dielectric example is approximately 175 \u03a9.",
+  "The mantle cloak can be conformal to the object surface, requiring no or minimal spacing for dielectric objects.",
+  "A small spacing is necessary between the mantle cloak and conducting objects to avoid shorting effects.",
+  "The mantle cloak exhibits relatively broad bandwidth performance compared to volumetric metamaterial cloaks.",
+  "The cloak\u2019s performance is quasi-isotropic and largely independent of wave polarization and incidence angle.",
+  "The mantle cloak allows electromagnetic fields to penetrate inside the cloaked region, enabling sensing applications.",
+  "Theoretical analysis uses Mie scattering theory and boundary conditions involving surface impedance.",
+  "Full-wave simulations validate the mantle cloak design and show field distributions consistent with scattering reduction.",
+  "The mantle cloak induces enhanced magnetic fields near the surface and electric fields inside the object.",
+  "Frequency selective surfaces (FSS) are key enabling structures for realizing the mantle cloak.",
+  "The mantle cloak concept can be extended to terahertz and optical frequencies using plasmonic metasurfaces.",
+  "Cascaded reactive surfaces may enable multifrequency operation or suppression of multiple scattering orders.",
+  "The mantle cloak is inherently low-profile, conformal, and simpler to fabricate than volumetric metamaterial cloaks.",
+  "The mantle cloak approach is based on destructive interference and scattering cancellation mechanisms."
+]
