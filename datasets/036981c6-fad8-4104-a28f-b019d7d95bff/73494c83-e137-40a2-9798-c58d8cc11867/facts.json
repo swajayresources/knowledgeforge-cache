@@ -1,0 +1,17 @@
+[
+  "The Adaptive Multiscale Moment Method (AMMM) is a method for analyzing electromagnetic scattering from two-dimensional electrically large perfectly conducting objects with small cavities and humps.",
+  "The multiscale basis function transformation is used to reduce the size of the linear equations.",
+  "The moment matrix on the multiscale basis can be computed directly from the original moment matrix.",
+  "The initial guess for the solution at the new scale corresponds to the solution of the original scale.",
+  "The size of the linear equations can be automatically reduced through filtering small coefficient terms.",
+  "The Physical Optics Approximation-AMMM (PO-AMMM) method combines the Physical Optics approximation with the AMMM method.",
+  "The Asymptotic Phase-AMMM (AP-AMMM) method combines the asymptotic phase approximation with the AMMM method.",
+  "The threshold value used in the numerical examples is 0.01.",
+  "The maximum scale used in the numerical examples is 5.",
+  "The average number of unknowns per wavelength for the total length is less than one.",
+  "The Adaptive Multiscale Moment Method (AMMM) is more efficient than the conventional moment method.",
+  "The Adaptive Multiscale Moment Method (AMMM) can be used to analyze complex scattering problems.",
+  "The multiscale basis function transformation is a key component of the Adaptive Multiscale Moment Method (AMMM).",
+  "The Adaptive Multiscale Moment Method (AMMM) has been used to analyze electromagnetic scattering from two-dimensional electrically large perfectly conducting objects with small cavities and humps.",
+  "The numerical results demonstrate the effectiveness of the Adaptive Multiscale Moment Method (AMMM) in analyzing complex scattering problems."
+]
