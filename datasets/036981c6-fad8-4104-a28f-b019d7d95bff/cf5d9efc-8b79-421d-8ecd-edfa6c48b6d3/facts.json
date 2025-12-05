@@ -1,0 +1,22 @@
+[
+  "Radar absorbing structures (RAS) can bear load and absorb electromagnetic waves to reduce radar cross section (RCS).",
+  "The composites studied consist of glass fibers, carbon fibers, epoxy resin, and carbon nanotubes (CNTs).",
+  "Permittivity measurements were performed using a HP8510B network analyzer in the 8.2\u201312.4 GHz frequency range.",
+  "Increasing CNT content in the composites increases both the real and imaginary parts of permittivity.",
+  "Specimens were prepared by dispersing CNTs ultrasonically in epoxy resin and curing under 6 atm pressure.",
+  "Specimens were cut to 22.86 x 10.16 mm\u00b2 to fit rectangular waveguides for permittivity measurement.",
+  "Air gaps between specimen and waveguide were sealed with silver paste to reduce measurement error.",
+  "A genetic algorithm (GA) was used to optimize triple-layer RAS designs for minimal reflection loss.",
+  "The maximum total thickness for simulated RAS was limited to 5.0 mm.",
+  "The optimal triple-layer RAS design had a peak reflection loss of -43.52 dB and a -10 dB absorption bandwidth of 3.19 GHz.",
+  "Reflection loss below -20 dB corresponds to 99% absorption of incident electromagnetic power.",
+  "The GA optimization linked reflection loss analysis with layer thickness and CNT content variables.",
+  "The back surface of the RAS was assumed to be a perfect conductor in simulations.",
+  "The six optimized triple-layer RAS cases showed varying absorption bandwidths from 2.60 GHz to 3.19 GHz.",
+  "Fiber reinforced polymeric composites allow tailoring of electromagnetic properties by adjusting composition and stacking sequences.",
+  "The complex permittivity is expressed as \u03b5r = \u03b5r' - j\u03b5r'', where \u03b5r' is the real part and \u03b5r'' is the imaginary part.",
+  "The complex permeability \u00b5r also affects microwave absorption but was not the main focus in this study.",
+  "The study confirms that CNT-filled composites can be effectively designed as radar absorbing structures.",
+  "The reflection loss was calculated using an objective function integrating reflection coefficient squared over frequency.",
+  "The study used a planar rectangular mold for specimen preparation and curing at room temperature for about 2 hours."
+]
