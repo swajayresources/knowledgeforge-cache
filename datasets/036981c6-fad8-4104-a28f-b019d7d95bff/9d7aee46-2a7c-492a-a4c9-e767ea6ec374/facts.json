@@ -1,0 +1,22 @@
+[
+  "Radar cross section (RCS) measures the detectability of an object by radar, depending on frequency, aspect angle, polarization, and target properties.",
+  "PEMC is characterized by a scalar admittance parameter M, with PEC and PMC as limiting cases (M \u2192 \u00b1\u221e and M=0 respectively).",
+  "The study uses duality transformations by Lindell and Sihvola to relate PEC scattering solutions to PEMC scattering.",
+  "Soil models used include San Antonio clay loam with 5%, 10%, and 20% water content representing increasing loss factors.",
+  "Increasing soil moisture increases electrical conductivity and dielectric loss, attenuating scattered fields and reducing RCS amplitude.",
+  "The scattering width of a PEMC strip is affected by the admittance parameter M, with cross-polarized scattering maximal near M=\u00b11.",
+  "Co-polarized scattered fields vanish in the PEC and PMC limits, while cross-polarized fields appear in intermediate PEMC cases.",
+  "Physical optics approximates induced surface currents on the strip to calculate scattered fields.",
+  "Geometrical optics is used to determine reflection coefficients on the strip surface.",
+  "The RCS of a finite-width strip differs from an infinite strip due to edge diffraction and different reflection and scattering angles.",
+  "Numerical results were generated using Mathematica software to reproduce and extend previous PEMC scattering analyses.",
+  "The paper confirms that PEMC media behave as perfect reflectors but differ from PEC and PMC by allowing cross-polarized scattering.",
+  "Radar cross section is critical for ground penetrating radar applications to detect subsurface cavities and buried objects.",
+  "The scattered field amplitude and RCS decrease as the soil's conductivity and permittivity increase.",
+  "The interference nulls in the RCS pattern disappear in lossy media due to attenuation of diffracted energy from strip edges.",
+  "The duality transformation relates scattered fields from PEC strips to those from PEMC strips via a linear combination involving M.",
+  "The relative permittivity of soil is complex and frequency-dependent, impacting wave propagation and scattering.",
+  "The study provides analytical expressions for scattered fields and RCS in terms of strip width, wave number, and soil parameters.",
+  "Cross-polarized scattered fields introduce nonreciprocal effects in PEMC scattering not present in PEC or PMC cases.",
+  "The paper extends prior work on electromagnetic scattering in lossy media by applying PEMC theory to practical soil models."
+]
