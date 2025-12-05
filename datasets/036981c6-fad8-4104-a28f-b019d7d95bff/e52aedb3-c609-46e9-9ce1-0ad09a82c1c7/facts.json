@@ -1,0 +1,22 @@
+[
+  "The proposed AMC chessboard consists of two types of tiles: saltire arrow unit cells and four E-shaped patch unit cells.",
+  "The reflection phase difference between the two AMC unit cells is maintained at 180\u00b0 \u00b1 30\u00b0 over 9.4\u201323.28 GHz (85% bandwidth).",
+  "The unit cell dimensions are L=6 mm, w=0.2 mm, l=2.64 mm, s=1.1 mm, g=0.6 mm, and d=1.7 mm.",
+  "The fabricated chessboard size is 180\u00d7180 mm\u00b2, composed of 6\u00d76 tiles each 30\u00d730 mm\u00b2.",
+  "The substrate used is RO4003 with thickness 2.28 mm, \u03b5r=3.55, and tan\u03b4=0.0027.",
+  "Simulated and measured monostatic RCS reductions exceed 10 dB across the operational bandwidth.",
+  "Maximum RCS reduction of more than 43 dB occurs at 15.2 GHz.",
+  "The chessboard achieves approximately 30 dB RCS reduction over a wide range of incident angles and up to 70 dB near 20\u00b0.",
+  "The saltire arrow AMC unit cells show 0\u00b0 reflection phase at 13.13 and 23.11 GHz.",
+  "The four E-shaped AMC unit cells show 0\u00b0 reflection phase at 9.14 and 20.1 GHz.",
+  "The chessboard structure is symmetrical around the z-axis, providing similar performance for horizontal and vertical polarizations.",
+  "The design uses destructive interference created by the 180\u00b0 phase difference between AMC tiles to reduce RCS.",
+  "The proposed design outperforms similar AMC chessboard designs in bandwidth, achieving 85% compared to 41\u201358.4% in previous works.",
+  "The AMC tiles are designed and optimized using CST Microwave Studio with Floquet port excitation and periodic boundary conditions.",
+  "The fabricated board's measured results closely match simulation predictions, validating the design.",
+  "The design thickness is 2.28 mm, which is thinner and lighter compared to traditional absorbers like Salisbury and Jaumann screens.",
+  "The chessboard configuration replaces PEC tiles with AMC tiles having 180\u00b0 phase difference to achieve broadband RCS reduction.",
+  "The research addresses military applications requiring lightweight, thin, and broadband radar cloaking surfaces.",
+  "The E-shaped patches are rotated 90\u00b0 to ensure polarization independence of the AMC tile.",
+  "The paper includes a comparison table showing the proposed design's superior bandwidth and comparable thickness relative to prior AMC RCS reducers."
+]
