@@ -1,0 +1,23 @@
+[
+  "Fe3O4/carbon composite nanofibers were prepared by electrospinning PAN/AAI/DMF solution followed by stabilization at 260\u00b0C and carbonization at 500\u2013800\u00b0C.",
+  "SEM and TEM images show uniform fibers with well-dispersed Fe3O4 nanoparticles inside or on the fiber surface.",
+  "XRD confirms the presence of Fe3O4 nanoparticles with an average size of ~50 nm in fibers carbonized at 700\u00b0C.",
+  "Electrical conductivity of composite fibers increases with AAI content up to 2 wt%, reaching 90\u2013120 S/m depending on carbonization temperature.",
+  "Magnetic hysteresis loops indicate that saturation magnetization (Ms) increases with AAI content, e.g., Ms = 13.53 emu/g for 3 wt% AAI at 800\u00b0C.",
+  "Permittivity (\u03b5') and dielectric loss (\u03b5'') decrease with frequency but are higher in composites with Fe3O4 than in pure carbon fibers.",
+  "Fiber/paraffin composite samples with 5 wt.% fiber ratio show optimal microwave absorption performance.",
+  "Reflection loss (RL) reaches minimum values between \u221240 and \u221245 dB at 5 mm coating thickness and 5 wt.% fiber ratio.",
+  "Absorption bandwidth under \u22125 dB reflection loss can reach 12\u201313 GHz in the 2\u201318 GHz frequency range.",
+  "Increasing AAI content beyond 2 wt% can hinder graphitization and reduce absorption performance.",
+  "Microwave absorption mechanisms include dielectric loss from dipolar and interfacial polarization, magnetic loss from Fe3O4 nanoparticles, and defect-induced polarization.",
+  "Dielectric loss tangent (tan \u03b4e) values for composites range from 0.5 to 1, significantly higher than pure carbon fibers (~0.2).",
+  "Coating thickness influences absorption peak frequency and bandwidth, with thicker coatings improving performance.",
+  "Fe3O4 nanoparticles catalyze graphitization, improving electrical conductivity and microwave absorption.",
+  "Composite nanofibers outperform pure carbon nanofibers in low-frequency (2\u20135 GHz) absorption, addressing a common weakness in microwave absorbers.",
+  "The composite materials exhibit good impedance matching with free space, enhancing microwave entry and attenuation.",
+  "The study uses Transmission Line Theory and vector network analyzer data to calculate reflection loss.",
+  "The fiber diameters decrease from 300\u2013400 nm (as-spun) to 200\u2013300 nm after carbonization.",
+  "Magnetic properties arise due to Fe3O4 nanoparticles embedded in the carbon matrix.",
+  "The optimal carbonization temperature for microwave absorption is around 700\u2013800\u00b0C.",
+  "Paraffin is used as a matrix material with low permittivity and permeability to isolate the effect of nanofibers."
+]
