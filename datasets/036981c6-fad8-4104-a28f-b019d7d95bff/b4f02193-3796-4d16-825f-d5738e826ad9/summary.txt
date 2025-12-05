@@ -1,0 +1,1 @@
+This paper proposes a novel metamaterial absorber based on Minkowski fractal patch configuration for X-band applications, achieving broader absorption bandwidth with minimum thickness.
