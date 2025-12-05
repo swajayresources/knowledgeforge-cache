@@ -1,0 +1,22 @@
+[
+  "Stealth technology in the U.S. military began focused research in the early 1950s at the Air Force Avionics Laboratory.",
+  "Radar Cross Section (RCS) varies wildly with aspect angle, sometimes by factors of 1000 or more within small angular spans.",
+  "Radar signal strength returning from a target decreases with the fourth power of the target range.",
+  "A 95% reduction in radar signature reduces radar detection range by 50%, while a 99% reduction reduces it by 67%.",
+  "Dynamic RCS measurements on flying aircraft are limited by instrumentation complexity and difficulty in knowing exact aspect angles.",
+  "Model measurements in anechoic chambers became the preferred method for RCS characterization due to better control and repeatability.",
+  "Anechoic chambers require special absorber materials and low-echo supports to minimize background reflections during RCS testing.",
+  "Early RCS models required high detail; gross geometry alone produced erroneous results.",
+  "Radar absorber materials (RAM) development started in 1955 to reduce radar signatures by absorbing radar energy.",
+  "RAM must be thin, lightweight, durable under flight conditions, and maintain smooth aerodynamic surfaces.",
+  "Impulse measurement techniques were developed to characterize RAM electrical properties over a wide frequency range quickly and accurately.",
+  "A T-33 aircraft was fully coated with broadband RAM and successfully flown to demonstrate real-world stealth material performance.",
+  "Radar echo patterns show complex lobe structures caused by interference from different aircraft surfaces.",
+  "Blending with the radar background is easier for ground vehicles due to clutter; airborne vehicles face near-zero radar background, requiring more stringent stealth.",
+  "Cost-effectiveness is a key consideration in how much radar signature reduction is pursued, as zero signature is impractical.",
+  "Metal screens with fine mesh can behave like solid metal to radar, affecting engine inlet radar signatures.",
+  "Early computational methods for RCS were limited by available computing power and complexity of aircraft shapes.",
+  "The Air Force Avionics Laboratory developed a specialized large anechoic chamber known as 'the barn' for RCS testing.",
+  "Radar frequency affects whether an aircraft's radar echo behaves as multiple discrete sources or as a single large source.",
+  "Flight tests with RAM-covered aircraft validated laboratory model predictions of radar signature reduction."
+]
