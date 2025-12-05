@@ -1,0 +1,1 @@
+Model-order reduction techniques for linear electromagnetic problems – an overview 1 2 1 M Simeoni , G Vandenbosch and I Lager 1 Delft University of Technology, International Research Centre for Telecommunications-Transmission and Radar, Mekelweg 4, P Box 5031, 2600 GA, Delft, the Netherlands, Phone: +31 15 2781034, E-Mails: m
