@@ -1,0 +1,17 @@
+[
+  "ReceivedFebruary16,2016,acceptedMarch7,2016,dateofpublicationMarch22,2016,dateofcurrentversionMay11,2016",
+  "DigitalObjectIdentifier10",
+  "1109/ACCESS",
+  "2544951 Robustness Testing of Embedded Software Systems: An Industrial Interview Study SYEDMUHAMMADALISHAH1,DANIELSUNDMARK1,2, BIRGITTALINDSTR\u00d6M3,ANDSTENF",
+  "ANDLER3 1SwedishInstituteofComputerScience,SwedistICTAB,Kista16429,Sweden 2M\u00e4lardalenUniversity,V\u00e4ster\u00e5s72123,Sweden 3UniversityofSk\u00f6vde,Sk\u00f6vde54128,Sweden Correspondingauthor:S",
+  "se) ThisworkwassupportedbytheKnowledgeFoundationthroughtheTestingofCriticalSystemCharacteristicsunderGrant20130085",
+  "Wehavegatheredtheinformationonthestateofthepracticeinrobustnesstestingfromsevendifferent industrialdomains(telecommunication,automotive,multimedia,criticalinfrastructure,aerospace,consumer products,andbanking)byconducting13semi-structuredinterviews",
+  "INTRODUCTION First, embedded software systems are developed to per- Among various techniques used to verify and validate a form a specific task in a specific environment, and the software system, testing is most frequently used for eval- challenge for the tester is to test the system in a host-based uating the quality of software [1]",
+  "Second, interaction is an important testing may provide an efficient and rigorous way for error characteristic in the operation of embedded software sys- identification[2]",
+  "Embedded systems typically operate in, and interact greatchallenge[1],astherearevariouscharacteristicsofsuch with, an external environment by collecting data through systemsthatneedtobeconsideredwhileperformingtesting",
+  "Inparticular,QianandZheng[3],identifyfourcharacteristics Failure of recreating this interaction during testing may that distinguish testing of embedded software system from lead to inadequate or erroneous conclusions",
+  "characteristic of embedded software systems is the 2169-3536 2016IEEE",
+  "VOLUME4,2016 Personaluseisalsopermitted,butrepublication/redistributionrequiresIEEEpermission",
+  "1859 Seehttp://www",
+  "The contribution of this coverage in embedded software systems, but may not be study is, therefore, twofold: First, it highlights the indus- comprehensive enough to uncover robustness problems that trial practices of robustness testing of embedded software occur because of environment errors such as unexpected or systems, and contributes in building the knowledge about erroneous input values [4]"
+]
