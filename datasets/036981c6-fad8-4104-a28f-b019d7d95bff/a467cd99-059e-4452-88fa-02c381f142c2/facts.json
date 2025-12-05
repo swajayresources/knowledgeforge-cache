@@ -1,0 +1,22 @@
+[
+  "The composite is based on polyaniline (PANI) doped with camphorsulfonic acid (CSA) mixed into an epoxy resin matrix.",
+  "Numerical simulations using Monte Carlo and modified Dijkstra\u2019s algorithm determined percolation thresholds for PANI, PPy, and PTh as 35.7%, 0.1%, and 38.3% respectively.",
+  "PANI was selected due to better mechanical stability and processing properties.",
+  "PANI synthesis yield was 63.6%, confirmed by Raman and IR spectroscopy.",
+  "PANI/epoxy composites were prepared with PANI volume contents from 20% to 70%; 50% was the maximum for molding.",
+  "SEM showed PANI agglomeration at low filler contents and more uniform distribution at higher contents.",
+  "Electrical conductivity of 50% PANI composite was 0.440 \u00b1 0.330 S/cm; 30% PANI composite conductivity was below detection but improved after polishing.",
+  "Raman spectra revealed doped PANI presence inside the composite but an insulating epoxy shell on the surface.",
+  "Mechanical tensile tests showed ultimate tensile strength of 13.75 MPa, about three times lower than typical epoxy.",
+  "Thermogravimetric analysis showed composite decomposition temperature at 617.1\u00b0C, higher than epoxy\u2019s 500\u00b0C.",
+  "Numerical thermal simulations indicated heat flux in CF/PANI/epoxy composites during lightning strike was about 1000 times lower than in CFRP.",
+  "High-voltage impulse tests with 30% PANI composites showed avalanche breakdown current around 1.062 kA at 15.5 kV charge voltage.",
+  "The composite conducts current through the bulk, not just surface currents typical for dielectrics.",
+  "The epoxy matrix may form an insulating shell around PANI particles, affecting surface conductivity.",
+  "The composite's viscoelastic fracture behavior is typical for duroplastic matrices.",
+  "The developed composite could reduce lightning damage extent compared to traditional CFRP with epoxy matrix.",
+  "The synthesis involves doping PANI mechanically with CSA in a vibrational mill for 5-15 minutes.",
+  "Conductivity of PANI/CSA films was about 6.14 to 7.61 S/cm, independent of mixing time.",
+  "The composite aims to replace heavy metallic meshes for lightning strike protection in aircraft.",
+  "The study integrates numerical modeling, synthesis, physicochemical, mechanical, thermal characterization, and high-voltage testing."
+]
