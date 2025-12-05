@@ -1,0 +1,1 @@
+IEEETRANSACTIONSONINDUSTRIALELECTRONICS,VOL 8,AUGUST2013 3441 Detection of Backlash Phenomena Appearing in a Single Cement Kiln Drive Using the Current and the Electromagnetic Torque Signature IoannisX Bogiatzidis,AthanasiosN Safacas,LifeSeniorMember,IEEE,and EpaminondasD Mitronikas,Member,IEEE Abstract—Faultdiagnosisinelectromechanicaldriveshasbeen ω Fundamentalangularfrequency
