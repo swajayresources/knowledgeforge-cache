@@ -1,0 +1,22 @@
+[
+  "The absorbing screen uses a third-order fractal Hilbert curve copper metal strip array combined with a CVD graphene sheet.",
+  "Graphene's surface impedance in the microwave band is tunable and nearly frequency-independent.",
+  "At 0 eV chemical potential, the absorption bandwidth is from 8.9 GHz to 18.1 GHz (relative bandwidth > 68%).",
+  "The central frequency of absorption can be tuned from 13.5 GHz to 19.0 GHz by changing graphene chemical potential from 0 to 0.4 eV.",
+  "The total thickness of the absorber is 3.4 mm, close to the theoretical minimum thickness limit of 3.1 mm for nonmagnetic absorbers.",
+  "The metal strips are made of copper with conductivity of 5.96\u00d710^7 S/m and thickness of 5 \u03bcm.",
+  "Two extremely thin layers (50 nm silicon dioxide and 50 nm polysilicon) are placed under graphene to facilitate tunability.",
+  "The graphene sheet is directly underneath the metal strip array to maximize interaction and absorption.",
+  "The absorber is backed by a perfect electric conductor (PEC) ground to eliminate transmission.",
+  "Graphene conductivity changes from 0.9 mS to over 9 mS as chemical potential varies from 0 to 0.4 eV.",
+  "The surface resistance of graphene changes from about 1.2 k\u03a9 at 0 eV to 110 \u03a9 at 0.4 eV chemical potential.",
+  "The fractal Hilbert curve design provides multiple resonances enabling wideband impedance matching.",
+  "Without graphene, the absorber shows narrowband absorption peaks; graphene significantly broadens the absorption bandwidth.",
+  "The absorber maintains high absorption (>90%) over a wide frequency range with a low-profile thickness.",
+  "The chemical potential of graphene can be controlled by external DC bias voltage applied between graphene and polysilicon layer.",
+  "The effective absorption bandwidth decreases as chemical potential increases, from 9.2 GHz at 0 eV to 7.8 GHz at 0.4 eV.",
+  "The absorber's performance is robust against dielectric losses, indicating graphene is the main absorbing element.",
+  "Electric field distributions show strong field concentration near metal strips at resonance frequencies, enhancing absorption.",
+  "The carrier density in graphene is modulated by applied voltage, affecting chemical potential and conductivity.",
+  "The design uses CST Microwave Studio for optimization and simulation."
+]
