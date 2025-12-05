@@ -1,0 +1,15 @@
+{
+  "paper_id": "a3985bc6-0eb1-4288-997d-db00e8c3c31d",
+  "title": "Temporal discretization choices for stable boundary element methods in electromagnetic scattering problems",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a3985bc6-0eb1-4288-997d-db00e8c3c31d/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a3985bc6-0eb1-4288-997d-db00e8c3c31d/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a3985bc6-0eb1-4288-997d-db00e8c3c31d/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/a3985bc6-0eb1-4288-997d-db00e8c3c31d/keywords.json"
+  ]
+}
