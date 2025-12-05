@@ -1,0 +1,22 @@
+[
+  "Radar cross section measurements were conducted at 35 GHz and 70 GHz.",
+  "Tower diameters ranged from 2.5 to 8 wavelengths in free space.",
+  "Dielectric constants of materials ranged from 1.01 to 1.2.",
+  "Four polyfoam materials were tested: rofoam, Eccofoam PS, Eccofoam S, and Styrofoam PS.",
+  "Echo area decreases with decreasing tower diameter faster than theoretical prediction over the measured range.",
+  "Echo area varies approximately as the square of the illuminated tower length.",
+  "The radar cross section at interference peaks is proportional to (Kr - 1)^2, tower radius, and tower length, and inversely proportional to wavelength.",
+  "Nulls in the echo area correspond to zeros of the Bessel function, approximately at D/h = 0.61 + N*0.50, N=0,1,2,...",
+  "Experimental null location errors were less than 0.15 wavelengths, about 2% at 70 GHz.",
+  "Echo area measurements have an accuracy of \u00b14 dB at 35 GHz and \u00b12 dB at 70 GHz.",
+  "Tuning towers can reduce echo area by 10 to 15 dB below peak values.",
+  "Echo areas of -35 dB\u00b7m\u00b2 at 35 GHz and -25 dB\u00b7m\u00b2 at 70 GHz were achieved for about 1 inch diameter towers.",
+  "Supports for towers must be designed to minimize their contribution to radar cross section.",
+  "Scattering mechanisms are influenced by cell size, material homogeneity, water content, surface finish, and machining.",
+  "The study confirms that polyfoam towers behave similarly to idealized lossless dielectric columns in radar scattering.",
+  "Measurements were averaged over a full 360\u00b0 rotation of the towers.",
+  "Theoretical predictions are based on uniform, homogeneous, lossless dielectric column models.",
+  "The echo area pattern shows marked resonances with diameter.",
+  "The radar cross section is inversely proportional to the wavelength.",
+  "The research was conducted under contract with The Ohio State University Research Foundation."
+]
