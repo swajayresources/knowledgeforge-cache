@@ -1,0 +1,22 @@
+[
+  "Switching noise, especially simultaneous switching noise (SSN), is a major source of EMI in high-speed PCBs.",
+  "Power and ground planes in multilayer PCBs act as parallel-plate waveguides and microstrip patch antennas, radiating noise at board edges.",
+  "EBG structures can prevent propagation of electromagnetic surface waves within specific frequency bands, creating bandgaps.",
+  "High-impedance surfaces (HIS) are periodic structures of metallic patches connected by vias that create band-stop filters for EMI suppression.",
+  "A ribbon of HIS structures placed around PCB edges between power planes can effectively shield and reduce radiation.",
+  "Simulations show the HIS bandgap lies approximately between 4 GHz and 8 GHz for typical patch sizes of 5 mm.",
+  "Experimental PCB prototypes demonstrated about 30 dB average suppression of radiated noise from 4 to 10 GHz.",
+  "Cascading HIS structures with different patch sizes can create ultrawide-band suppression covering multiple frequency bands.",
+  "The bandgap frequency depends on patch size, via diameter and length, gap size, board thickness, and substrate permittivity.",
+  "Extending vias to the opposite plane with anti-pads and reducing board thickness does not significantly affect the bandgap.",
+  "The HIS structures can be fabricated using standard PCB manufacturing processes without significantly increasing board size.",
+  "The suppression technique is effective regardless of PCB power plane stack-up configuration (e.g., GVGV, GVVG).",
+  "Traditional EMI reduction methods like decoupling capacitors have limitations due to component inductance and cost.",
+  "The HIS method suppresses radiation caused by noise propagation between power planes rather than just edge fringing fields.",
+  "The experimental setup used a vector network analyzer and a monopole antenna to measure radiated emissions at multiple points.",
+  "The HIS structures provide omni-directional suppression of radiated noise around the PCB edges.",
+  "The technique can also suppress harmonics of switching noise frequencies by proper HIS design.",
+  "The HIS structures act as perfect magnetic conductors (PMC) over their bandgap frequency range.",
+  "The study is the first to apply EBG/HIS structures specifically for EMI reduction from PCB power buses.",
+  "The HIS structures reduce the effective radiation path by creating a low impedance path that shorts high-frequency currents at patch locations."
+]
