@@ -1,0 +1,22 @@
+[
+  "The paper addresses steady-state Maxwell's equations for electromagnetic absorption and scattering problems.",
+  "A weak formulation using a Lagrange multiplier is introduced to enforce the divergence (Gauss) condition.",
+  "The hp-adaptive finite element method allows local variation of element size h and polynomial order p.",
+  "The method supports curved finite elements to model complex geometries.",
+  "Stability and convergence are proven for affine elements with polynomial shape functions.",
+  "The formulation is stable uniformly with respect to frequency, including as frequency approaches zero.",
+  "The Lagrange multiplier is sometimes called a dummy variable since it vanishes at the continuous level.",
+  "The model problem involves two media with different material constants separated by an interface with jump conditions.",
+  "Boundary conditions include perfect electric conductor and magnetic symmetry wall conditions.",
+  "The reduced wave equation for the electric field is derived by eliminating the magnetic field.",
+  "Finite element spaces are constructed with polynomial orders varying per element and per edge.",
+  "Scalar and vector finite element spaces satisfy a compatibility condition ensuring stability.",
+  "The method is motivated by applications in mixed digital-analog signal packages and human body electromagnetic modeling.",
+  "Numerical experiments include 2D cases with curved boundaries and nonhomogeneous media.",
+  "The eigenvalue problem associated with the curl-curl operator has zero eigenvalue of infinite multiplicity and positive eigenvalues tending to infinity.",
+  "The stability constant depends on the frequency and eigenvalues but remains bounded away from resonance frequencies.",
+  "The method can handle discontinuous material properties and singular solutions effectively.",
+  "The paper provides explicit formulas for the dimension of finite element spaces with variable polynomial orders.",
+  "The finite element shape functions include vertex, mid-side, and middle nodes with associated Lagrangian degrees of freedom.",
+  "The global continuity of scalar and vector approximations is enforced by sharing degrees of freedom at element interfaces."
+]
