@@ -1,0 +1,22 @@
+[
+  "Aircraft composite structures are prone to barely visible damages like delamination and matrix cracks requiring structural health monitoring.",
+  "Guided wave (GW) and piezoelectric sensor network\u2013based damage imaging techniques offer large-scale monitoring and high localization accuracy.",
+  "Time-varying environmental conditions, especially temperature variations, introduce uncertainties in GW signals that mask damage effects.",
+  "The proposed method uses Gaussian mixture models (GMM) to model uncertainties in damage indexes extracted from GW signals.",
+  "Two damage indexes (DI1 and DI2) are used: time domain cross-correlation and spectrum magnitude difference.",
+  "The baseline GMM is constructed from healthy structure signals under varying conditions and updated continuously with monitoring signals.",
+  "Kullback\u2013Leibler divergence is used to measure the difference between baseline and monitoring GMMs to characterize damage.",
+  "Damage imaging is performed by synthesizing probabilistic ellipses from all GW paths in the sensor network.",
+  "Accumulation imaging generates a series of images over time, allowing damage to gradually emerge for reliable localization.",
+  "Experimental validation was conducted on a stiffened carbon fiber composite plate with temperature variation from 0\u00b0C to 60\u00b0C.",
+  "The method achieved reliable damage imaging and localization within the tested temperature range.",
+  "The GMM-based approach suppresses time-varying influences and achieves time-varying-independent damage characterization.",
+  "Existing methods often rely on baseline signals and do not adequately handle time-varying environmental effects.",
+  "The proposed method does not require compensation for each environmental condition and works under complex structural geometries.",
+  "The sensor network used consists of multiple piezoelectric transducers (PZTs) forming multiple GW paths.",
+  "Damage indexes are extracted from signals without needing a fixed baseline, enhancing robustness under variable conditions.",
+  "The method combines statistical modeling with physical sensor network data fusion for damage localization.",
+  "The probabilistic ellipse's area correlates positively with damage severity.",
+  "The method iteratively updates the GMM parameters using expectation-maximization (EM) algorithm.",
+  "The approach is validated for practical aerospace structural health monitoring applications."
+]
