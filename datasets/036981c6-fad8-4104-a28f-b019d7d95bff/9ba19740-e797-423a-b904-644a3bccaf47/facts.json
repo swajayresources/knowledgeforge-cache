@@ -1,0 +1,20 @@
+[
+  "Citation information: DOI 10",
+  "3015730, IEEE Transactions on Industrial Informatics 1 Accurate Detection and Localization of UAV Swarms-Enabled MEC System Jibin Zheng, Member, IEEE, Tianyuan Yang, Hongwei Liu, Member, IEEE, Tao Su and Liangtian Wan, Member, IEEE, Abstract\u2014Unmanned aerial vehicle (UAV) swarms-enabled wide application prospects",
+  "UAV swarms show characteristics of the high density, small radar cross section (RCS), far range and characteristicsofthesmallradarcrosssection(RCS),farrange time-varyingmotion,andhaveposedformidablechallengestothe and time-varying motion [6]\u2013[8], UAV swarms show a new accurate detection and localization",
+  "Mathematical analyses and numerical cessing interval [9]\u2013[14]",
+  "both typical coherent methods [9], [10]",
+  "INTRODUCTION the KT may encounter the Doppler spectrum coupling which Mobileedgecomputing(MEC)providescomputing,storage inducestheenergyspread[11]",
+  "Thecorrelation-basedmethods and other infrastructure close to data sources or users, and arealsodevelopedtorealizethecoherentLTI,whiletheyhave provides cloud services and IT environment services for edge seriouscross-terminteferenceandanti-noiseperformanceloss applications [1], [2]",
+  "Compared with the centralized cloud [12], [13]",
+  ", high zones should be avoided [3]\u2013[5] and the unmanned aerial density, may induce that an angle-range-Doppler bin after the vehicle (UAV)-enabled MEC system is a good choice",
+  ", division cannot complete the accurate detection and localization of of labor and cooperation and swarm intelligence [3], [6]",
+  "We can improve the range resolution and space Therefore, UAV swarms-enabled MEC system will have more resolution through changing the transmitting waveform, radar sensor hardware and bandwidth, while this is usually at a Manuscript received May, 2020",
+  "Therefore, considering the cost and UAV swarms\u2019 tionalNaturalScienceFoundationofChina(grant61971336,61601341and 61771367),ProgramfortheNationalScienceFundforDistinguishedYoung characteristics, we need to propose a super-resolution method Scholars(grant61525105),NationalNaturalScienceFoundationofShaanxi to improve the range resolution and space resolution",
+  "Province (grant 2018JM6060), Shaanxi Innovation Team Project, National In recent years, sparse methods have been widely studied Key R&D Program of China (grant 2017YFF0106600) and the 111 Project (B18039)",
+  "(Correspondingauthors:JibinZheng,HongweiLiuandTianyuan which exploits the prior knowledge that the number of fre- Yang) quency components is small [15]\u2013[17]",
+  "Su are with the National Laboratory categorized into on-grid sparse methods [18], [19], off-grid of Radar Signal Processing, Xidian University, Xi\u2019an, 710071, China",
+  "A k and c denote the amplitude and light ve- cost and UAV swarms\u2019 characteristic, we propose an accurate locity, respectively",
+  "In Section III, R (l,t )=2(R +v t + k m) we propose an accurate detection and localization method k m k0 k m 2 (3) \u03c9 t2 for UAV swarms",
+  "Here, we proposetheDechirp-KTtorealizethecoherentLTIandsatisfy (cid:88)K (cid:18) n\u2206t\u02c6(cid:19) the following FS-RWTM"
+]
