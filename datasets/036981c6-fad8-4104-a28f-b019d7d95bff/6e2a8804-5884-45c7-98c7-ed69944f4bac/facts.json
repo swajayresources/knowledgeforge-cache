@@ -1,0 +1,18 @@
+[
+  "The cross-shaped metamaterial absorber shows excellent performance in absorbing electromagnetic waves at various frequencies and angles.",
+  "The highest peak absorbance performance is achieved at 15 mm of cross-shaped width.",
+  "The absorbance performance increases with the width of the cross-shaped unit cell.",
+  "The frequency range of the absorbance performance is from 3.4 GHz to 4.8 GHz.",
+  "The incident angle range of the absorbance performance is from 200 to 800 degrees.",
+  "The polarization angle range of the absorbance performance is from 0 to 360 degrees.",
+  "The material used for the metal layer is copper.",
+  "The material used for the dielectric layer is FR-4.",
+  "The thickness of the copper layer is 0.1 mm.",
+  "The thickness of the FR-4 layer is 1.6 mm.",
+  "The simulation software used is CST studio suite.",
+  "The boundary condition used in the simulation is periodic unit cell.",
+  "The transmission (S12) result is very low, indicating that the design is effective in absorbing electromagnetic waves.",
+  "The reflection factor (S11) result is low, indicating that the design is effective in absorbing electromagnetic waves.",
+  "The cross-shaped metamaterial absorber is a good alternative for stealth applications due to its high absorbance performance and insensitive polarization.",
+  "The design of the metamaterial absorber is based on a cross-shaped unit cell, which is a simple and easily fabricable design."
+]
