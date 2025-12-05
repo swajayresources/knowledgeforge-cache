@@ -1,0 +1,22 @@
+[
+  "The study uses terahertz near-field imaging to investigate electromagnetic coupling in SRR metamaterial arrays.",
+  "Two coupling regimes are identified: near-field coupling at small lattice periodicities and far-field diffractive coupling at larger periodicities.",
+  "SRR arrays were fabricated with copper structures 10 \u00b5m thick on 120 \u00b5m PTFE substrates.",
+  "Lattice periodicities were varied from 380 \u00b5m to 1200 \u00b5m in x and y directions.",
+  "Near-field mapping was performed with spatial resolution of about 30 \u00b5m (~\u03bb/20 at 0.5 THz).",
+  "The fundamental plasmonic resonance (n=1) occurs near 162 GHz, corresponding to a magnetic dipole (LC) mode.",
+  "A higher-order plasmonic resonance (n=3) near 400 GHz corresponds to an electric quadrupole mode.",
+  "Near-field coupling causes spectral broadening and reduced Q-factors, especially for the n=1 mode.",
+  "Electric near-fields transition from circular to linearly polarized with decreasing lattice spacing for the n=1 mode.",
+  "Magnetic near-fields compress spatially with decreasing spacing for the n=3 mode, maintaining quadrupolar structure.",
+  "Diffractive coupling occurs when lattice periodicity matches the resonance wavelength, enabling radiative coupling.",
+  "Far-field transmission spectra show sharp features associated with lattice modes (1,0) and (0,1) diffraction orders.",
+  "Q-factors increase with lattice periodicity, more strongly for the n=3 mode than for the n=1 mode.",
+  "Finite Element Method simulations reproduce near-field patterns of single SRRs, validating experimental data.",
+  "Near-field maps reveal hybridization of plasmonic and lattice modes in the diffractive coupling regime.",
+  "Superradiant decay of collective modes leads to spectral broadening in dense SRR arrays.",
+  "The near-field probe detects both in-plane electric fields and out-of-plane magnetic fields using Faraday\u2019s law.",
+  "The effective refractive index used for resonance frequency estimation is approximately 1.2, between PTFE and air.",
+  "The study extends previous far-field transmission studies by providing near-field electromagnetic maps.",
+  "The near-field detector is separated from the sample by a ~40 \u00b5m dielectric protective layer with refractive index 1.5."
+]
