@@ -1,0 +1,22 @@
+[
+  "The cloak is cylindrical with inner radius a = 3 cm and outer radius b = 9 cm.",
+  "The background medium is designed with permittivity \u03b5 = 10^-3 and permeability \u03bc = 10^7 to match free space parameters.",
+  "The cloak shell consists of 15 concentric layers of L-C metamaterial unit cells, each layer divided into 90 angular segments (4\u00b0 span).",
+  "The unit cell consists of two series inductors and one shunt capacitor mounted on an FR-4 substrate of 1 mm thickness.",
+  "The design frequency is 40 MHz, with the excitation pulse cutoff frequency approximately 40 MHz.",
+  "The excitation pulse is a Blackmann-Harris pulse lasting 90 ns.",
+  "The vector network analyzer (VNA) measures transmission scattering parameters to extract time-domain responses.",
+  "The experimental device measures about 400 mm \u00d7 400 mm \u00d7 1 mm.",
+  "The cloak reduces scattered energy by more than a factor of 10 compared to a bare metallic cylinder.",
+  "Time delay of about 73 ns is observed between points inside and outside the cloak, consistent with simulation.",
+  "Pulse broadening and time delay effects are minimal due to low dispersion from the nonresonant L-C network.",
+  "The cloak parameters are anisotropic and spatially inhomogeneous, diagonalized in cylindrical coordinates.",
+  "The cloak device is rotationally symmetric.",
+  "Bloch impedances are used at the outer boundary to mimic an infinite background and reduce reflections.",
+  "The scattered energy distribution with the cloak is nearly isotropic over all angles.",
+  "The experimental results closely match numerical simulations of the cloak behavior.",
+  "The cloak is designed based on transformation optics principles applied to L-C transmission line networks.",
+  "The nonuniform L-C network independently tunes permittivity and permeability tensor components.",
+  "The cloak is effective for broadband electromagnetic pulses, not just monochromatic waves.",
+  "The study experimentally verifies dynamic pulse propagation effects through the cloak, including time evolution of the pulse."
+]
