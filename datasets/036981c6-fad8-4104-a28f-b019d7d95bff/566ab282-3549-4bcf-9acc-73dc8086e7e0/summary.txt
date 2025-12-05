@@ -1,0 +1,1 @@
+This paper discusses the application of Model Order Reduction (MOR) techniques to electromagnetic (EM) problems, highlighting the challenges and opportunities in simplifying the analysis of complex EM models.
