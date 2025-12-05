@@ -1,0 +1,1 @@
+This paper reviews the electromagnetic interference (EMI) shielding properties of carbon-based materials and their novel composites. The authors discuss recent progress, challenges, and prospects in the development of EMI shielding materials. They highlight the importance of microstructures, impedance matching, and microwave absorption in achieving effective EMI shielding.
