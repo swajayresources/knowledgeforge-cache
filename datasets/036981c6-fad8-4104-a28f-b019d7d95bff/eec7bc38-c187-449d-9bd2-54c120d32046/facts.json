@@ -1,0 +1,22 @@
+[
+  "Carbon fiber/epoxy composites are sensitive to lightning strikes due to low through-thickness electrical conductivity.",
+  "Four types of laminates were tested: unprotected, fully sprayed aluminum coated, locally sprayed aluminum coated, and aluminum coated on glass cloth pasted to fastener heads.",
+  "Impulse electrical current tests used 10/350 \u00b5s double exponential waveforms with peak currents of 31.3 kA, 88.4 kA, and 93.7 kA corresponding to lightning zones IIB, IA, and IB respectively.",
+  "The ablation temperature for carbon fiber/epoxy composite was set at 3316 \u00b0C, based on carbon fiber sublimation temperature.",
+  "Aluminum coating thicknesses of 0.1 mm and 0.2 mm were considered for protection.",
+  "Thermal radiation boundary conditions had an emission ratio of 0.9 and ambient temperature of 25 \u00b0C.",
+  "Element deletion in the finite element model simulates material removal when temperature exceeds ablation temperature.",
+  "The finite element model used ANSYS SOLID69 elements with coupled thermal/electrical properties.",
+  "Experimental and numerical results showed that aluminum coating significantly reduces lightning strike damage.",
+  "The electrical arc velocity during lightning strike is approximately 2 x 10^5 m/s.",
+  "Lightning strike can cause embrittlement, delamination, and failure in composite materials.",
+  "The impulse current generator can produce currents from 5 kA to 100 kA peak.",
+  "The aluminum coating can melt and vaporize under lightning strike, with explosive boiling occurring near 90% of aluminum's critical temperature.",
+  "The conductive electrical channel in the model was assumed to have a diameter of 10 mm at the lightning attachment point.",
+  "Glass cloth has very high electrical resistivity, allowing only minimal current conduction to fasteners.",
+  "The study used a 16-ply T700/3234 carbon fiber/epoxy laminate with ply thickness of 0.125 mm and total thickness of 2 mm.",
+  "Damage extent increases with increasing peak electrical current in the lightning impulse.",
+  "The numerical model incorporated temperature-dependent electrical and thermal properties of materials.",
+  "The lightning impulse current waveforms were based on SAE ARP5412 and ARP5414 standards.",
+  "The study combined experimental impulse current tests with advanced finite element simulations to assess lightning damage."
+]
