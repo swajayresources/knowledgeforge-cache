@@ -1,0 +1,17 @@
+[
+  "The paper presents a deep-learning-enabled self-adaptive microwave cloak.",
+  "The cloak uses a metasurface with tunable unit cells.",
+  "The pretrained ANN is used to adjust the reflection spectrum of the metasurface cloak.",
+  "The metasurface cloak exhibits a millisecond response time.",
+  "The cloak can render objects invisible without human intervention.",
+  "The pretrained ANN was trained using ~10,000 measured samples.",
+  "The final MSE of the validation set is 3.22 \u00d7 10^\u22123.",
+  "The MREs of the three sets are all less than 2.1%.",
+  "The frequency of the incident wave is 8.4 GHz.",
+  "The polarization of the incident wave is transverse-magnetic (TM, or p-polarized).",
+  "The size of the metasurface inclusion is 180 \u00d7 210 \u00d7 2 mm^3 (24 \u00d7 28 unit cells).",
+  "The metasurface cloak uses a varactor diode to adjust its reflection spectrum.",
+  "The pretrained ANN is used to interpret the intricate and non-intuitive relationships among the cloaking structure, incoming light, and surrounding environment.",
+  "The metasurface cloak can be used for real-time applications involving moving objects and in situ environments.",
+  "The cloak can be used for a wide range of applications, including stealth vehicles and moving objects."
+]
