@@ -1,0 +1,17 @@
+[
+  "kr # On-line electric vehicle project, KAIST, Daejeon, Korea Abstract\u2014 In this paper, we introduce the On-line Electric generate the magnetic flux with a frequency of 20 kHz to the Vehicle (OLEV) system and its non-contact power transfer direction of the pickup module on the vehicle",
+  "By applying a metallic plate shield, great deal of research has been performed on the shielding of horizontal/vertical shield, and connecting wire for loop the low frequency and high power electromagnetic fields cancellation, the low frequency EMFs have been significantly (EMFs) [2],[3],[4]",
+  "Even though the basic concept was invented in 1970\u2019s [1], the circuit system and power transfer system are totally different",
+  "The On-line Electric Vehicle (OLEV) and power transfer system using amount of magnetic flux to transfer 100kW of power, which power lines placed underneath the road surface for non-contact charging: (a) Side view and (b) front view",
+  "The power rail is designed to 978-1-4244-6307-7/10/$26",
+  "00 \u00a92010 IEEE 625 (a) Fig",
+  "100 kW of power is transferred from the power lines to the pickup module without contact",
+  "60 Hz of power is converted to 20 kHz at the inverter stage and a current of around 200A flows through the power lines",
+  "3 shows the vertical magnetic flux type of power lines and pickup module",
+  "4 shows the horizontal flux type of power lines and pickup module",
+  "This type has a disadvantage in that the power transfer is less efficient; however, because there are more power lines that have opposite current directions, the magnetic flux density (b) levels cancel each other when seen from 1",
+  "7m from the road Fig",
+  "5 shows the magnetic flux density distribution of As the vehicle should move on the road, there should be OLEV",
+  "one magnetic flux path between the power lines and pickup For this application, the space is 13 cm to allow the vehicle to module where the power is transferred",
+  "6 could back to the power lines via the sides of the main flux path"
+]
