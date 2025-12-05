@@ -1,0 +1,22 @@
+[
+  "The inverse problem is to reconstruct the shape of a perfect conductor from the electric far-field pattern of scattered time-harmonic electromagnetic waves.",
+  "The electromagnetic fields satisfy the time-harmonic Maxwell equations in the exterior domain.",
+  "The boundary condition on the perfect conductor surface is that the tangential electric field vanishes.",
+  "The far-field pattern is an analytic tangential vector field on the unit sphere.",
+  "The problem is severely ill-posed and nonlinear, with possible non-uniqueness if only one incident field is used.",
+  "The Kirsch-Kress method approximates the scattered field by a curl potential with a tangential density on a reference surface.",
+  "Tikhonov regularization is used to stabilize the inverse problem in the Kirsch-Kress method.",
+  "The Kirsch-Kress method requires the wavenumber not to be a Maxwell eigenvalue of the reference domain.",
+  "The Colton-Monk method uses electromagnetic Herglotz wave functions and an identity relating far-field patterns to reconstruct the shape.",
+  "The Colton-Monk method introduces a fixed radiating solution to avoid the restrictive Maxwell eigenvalue condition.",
+  "The shape is parametrized as a star-like domain via a function p on the unit sphere within bounds ensuring smoothness.",
+  "The far-field pattern uniquely determines the scattered field outside the object.",
+  "Integral operators with weakly singular kernels and jump relations of potentials are key mathematical tools.",
+  "The paper proves existence of minimizers for the optimization functionals and convergence properties as regularization parameters tend to zero.",
+  "Maxwell eigenvalues correspond to frequencies where the interior Maxwell problem has nontrivial solutions, causing reconstruction difficulties.",
+  "The magnetic far-field pattern does not contain additional information beyond the electric far-field pattern.",
+  "The set of far-field patterns is not dense in the space of tangential fields if Maxwell eigenvalues exist.",
+  "The optimization methods are designed for low and resonance frequencies; for high frequencies, geometrical optics methods are preferred.",
+  "The paper provides a rigorous mathematical framework for inverse electromagnetic scattering shape reconstruction.",
+  "The methods rely on analytic continuation and compactness arguments in function spaces of tangential fields."
+]
