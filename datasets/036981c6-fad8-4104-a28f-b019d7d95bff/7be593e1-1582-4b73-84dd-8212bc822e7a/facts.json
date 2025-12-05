@@ -1,0 +1,22 @@
+[
+  "The proposed method combines Physical Optics, Method of Moments, and Ray Tracing for RCS calculation of large RAM-coated objects.",
+  "Reflection coefficients of multilayer RAM structures are computed using either Periodic Method of Moments or a transmission line model.",
+  "The method accounts for incidence angle dependence of material reflection properties.",
+  "A metallic corner reflector of 0.5 m by 0.5 m with a resistive Frequency Selective Surface coating is used as a benchmark.",
+  "FSS patches have side length 9.375 mm, width 0.0625 mm, surface resistance 110 ohm/sq, periodicity 10 mm, and are placed 5 mm above a PEC ground.",
+  "The hybrid RT-PO method includes both electric and magnetic surface currents in the scattered field computation.",
+  "The Fresnel reflection coefficient matrix \u0393 is diagonal with components \u0393\u2225 and \u0393\u22a5 for parallel and perpendicular polarizations.",
+  "The hybrid method can simulate multiple bounces and reflections between object facets, overcoming classical PO limitations.",
+  "RCS results from the hybrid method agree well with full-wave MLFMM simulations for both TE and TM polarizations.",
+  "Computation time for the hybrid method is on the order of seconds to minutes, compared to about 2 days for MLFMM full-wave simulations.",
+  "Classical PO methods cannot handle electrically large objects coated with RAM efficiently due to computational complexity.",
+  "The RT-PO algorithm uses a geometrical check to ensure reflected rays are not obstructed.",
+  "The method models the illuminated facets as infinite planes for surface current approximation.",
+  "The paper demonstrates the feasibility of using the hybrid method for practical RCS prediction of large coated targets.",
+  "The equivalence theorem is applied to analyze metallic surfaces coated with RAM.",
+  "The method is validated at microwave frequencies relevant for radar applications.",
+  "The reflection coefficient matrix depends on the incidence elevation angle \u03b8.",
+  "The hybrid method improves accuracy by combining high-frequency techniques with full-wave MoM calculations for the RAM layer.",
+  "The method is suitable for electrically large targets exceeding 30 wavelengths in size.",
+  "The benchmark corner reflector is a 90\u00b0 dihedral with one face coated with RAM."
+]
