@@ -1,0 +1,15 @@
+{
+  "paper_id": "0020a119-7356-40b3-a010-ccc85a5fefe6",
+  "title": "Active Learning Enhanced Neural Networks for Aerodynamics Design in Military and Civil Aviation",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0020a119-7356-40b3-a010-ccc85a5fefe6/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0020a119-7356-40b3-a010-ccc85a5fefe6/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0020a119-7356-40b3-a010-ccc85a5fefe6/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0020a119-7356-40b3-a010-ccc85a5fefe6/keywords.json"
+  ]
+}
