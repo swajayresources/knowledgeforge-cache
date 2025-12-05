@@ -1,0 +1,22 @@
+[
+  "Barium hexaferrite (BaFe12O19) has a hexagonal crystal structure with high coercivity (~6700 Oe) and high magnetization (~78 emu/g).",
+  "The sol-gel auto combustion method produces homogeneous barium hexaferrite nanoparticles.",
+  "Starting materials included ferric nitrate nonahydrate, barium nitrate, and nitric acid.",
+  "The molar ratio of Fe to Ba was fixed at 11:1 in the precursor solution.",
+  "pH was adjusted to 7.5, 9, and 11 using ammonia during synthesis.",
+  "Stirring times tested were 1, 2, and 3 hours.",
+  "The sol-gel auto combustion reaction was conducted at 100\u00b0C for 30 minutes to form solid material.",
+  "Sintering was performed at 950\u00b0C for 2.5 hours to crystallize barium hexaferrite.",
+  "SEM showed particle morphology changed from agglomerated (pH 7.5) to porous (pH 9) to flake-like (pH 11).",
+  "XRD confirmed formation of BaFe12O19 and Fe2O3 phases, with optimal BaFe12O19 formation at pH 7.5 and 2 hours stirring.",
+  "The smallest crystalline size was 414.409 nm at pH 7.5 and 2 hours stirring.",
+  "The largest crystalline size was 994.778 nm at pH 11 and 3 hours stirring.",
+  "Magnetic coercivity peaked at 0.6 Tesla for pH 7.5 and 2 hours stirring.",
+  "Magnetic saturation reached 55.54 emu/g at pH 7.5 and 1 hour stirring.",
+  "Increasing pH above 7.5 decreased magnetic coercivity.",
+  "Longer stirring time improved homogeneity and reduced particle size but could reduce magnetic saturation.",
+  "Magnetic remanence and coercivity depend strongly on particle size and microstructure.",
+  "The magnetic properties achieved meet the requirements for radar absorber material applications.",
+  "The Debye-Scherrer equation was used to calculate crystalline size from XRD data.",
+  "The sol-gel auto combustion method offers advantages such as simple reagents, short processing time, and good chemical homogeneity."
+]
