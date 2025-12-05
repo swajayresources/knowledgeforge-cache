@@ -1,0 +1,22 @@
+[
+  "Alanine dosimetry measures stable free radicals produced by ionizing radiation detected via ESR.",
+  "The Fricke dosimetry system uses ferrous ammonium sulfate solution to measure absorbed dose chemically.",
+  "The optical density increase at 304 nm corresponds to the conversion of Fe2+ to Fe3+ ions.",
+  "Electron beams from 5.3 to 22.4 MeV were used, with clinical relevance focused on 6 to 20 MeV.",
+  "A 22 MeV microtron accelerator with a conventional treatment head was the radiation source.",
+  "The Fricke solution calibration factor G is independent of electron energy within uncertainties.",
+  "Total absorption of the electron beam in a glass vessel filled with Fricke solution allows absolute dose measurement.",
+  "Monte Carlo simulations correct for energy losses due to backscattering, Bremsstrahlung, and absorption upstream.",
+  "Alanine dosimeters were irradiated in a water phantom at a reference depth defined by z_ref = 0.6 \u00d7 R_50 \u2212 0.1 g/cm\u00b2.",
+  "Secondary standard ionization chambers calibrated against Fricke dosimetry provide dose reference during alanine irradiation.",
+  "No significant energy dependence of alanine dosimeter response was found between 6 and 20 MeV electrons.",
+  "A unique correction factor k_E = 1.012 \u00b1 0.010 is recommended for alanine dosimetry in MeV electron beams.",
+  "Corrections for temperature differences during irradiation and optical density measurement are applied.",
+  "Polyethylene bags used to hold Fricke solution are corrected for possible oxidation effects.",
+  "The magnetic spectrometer used for beam energy measurement has a 180\u00b0 bending magnet and Faraday cup detector.",
+  "The pulse frequency of the accelerator during total absorption experiments was reduced to 1 Hz to avoid high local dose rates.",
+  "The Fricke solution's absorbed dose is proportional to the number of incident electrons and their mean energy.",
+  "The study confirms alanine dosimetry suitability for quality assurance in modern radiotherapy involving megavoltage electrons.",
+  "The Fricke dosimetry system at METAS has been established for over 10 years.",
+  "The study provides a detailed description of the Fricke primary standard measurement system not previously published."
+]
