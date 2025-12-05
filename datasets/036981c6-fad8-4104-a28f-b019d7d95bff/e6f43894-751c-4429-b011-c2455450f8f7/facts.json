@@ -1,0 +1,18 @@
+[
+  "The Rayleigh region is the region where the wavelength is large compared to the dimensions of the scattering body.",
+  "The optics region is the region where the wavelength is small compared to the dimensions of the scattering body.",
+  "The resonance region is the region where the wavelength is comparable to the dimensions of the scattering body.",
+  "The critical body parameter in the Rayleigh region is the volume of the scatterer.",
+  "The formula for the Rayleigh RCS for backscattering along the axis of symmetry is given by (5/16)\u03c0ka^2(1 + (1/ka)^2).",
+  "The extension of the parameter 'y' for bodies of revolution is given by y = b/a.",
+  "The Rayleigh region is entered when ka = tan CY for CY < 45\u00b0.",
+  "The Rayleigh region is entered when ka = 1 for CY \u2265 45\u00b0.",
+  "The nose-on RCS of a finite cone is given by (5/16)\u03c0ka^2(1 + (1/ka)^2).",
+  "The axial echo area of a perfectly conducting spheroid is given by (4/3)\u03c0a^2(1 - (b/a)^2).",
+  "Asymptotic methods provide approximate solutions for RCS problems.",
+  "The wavelength is large compared to the dimensions of the scattering body in the Rayleigh region.",
+  "The wavelength is small compared to the dimensions of the scattering body in the optics region.",
+  "The wavelength is comparable to the dimensions of the scattering body in the resonance region.",
+  "The volume of the scatterer is the critical body parameter in the Rayleigh region.",
+  "The semi-axes of a spheroid are a, a, and b."
+]
