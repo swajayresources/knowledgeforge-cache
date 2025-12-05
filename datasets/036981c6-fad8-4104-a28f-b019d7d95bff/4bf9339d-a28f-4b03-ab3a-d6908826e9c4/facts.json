@@ -1,0 +1,22 @@
+[
+  "Radar altimeters measure ocean surface wind speed and significant wave height by analyzing radar cross section and return pulse broadening.",
+  "The radar cross section (RCS) is sensitive to surface roughness on the scale of the radar wavelength (~2 cm for Geosat).",
+  "Significant wave height (SWH) is proportional to the surface mean-squared slope (MSS) of ocean waves.",
+  "The study used 236 pairs of buoy and Geosat altimeter wind speed measurements for regression analysis.",
+  "Buoy wind speeds are 8.5-minute averages normalized to 10 m height above the surface.",
+  "Multiple linear regression was applied to test if adding RCS and SWH reduces residual errors in wind speed retrieval.",
+  "The smoothed-Brown (SB) algorithm showed a 2% residual error reduction when RCS was included, with 99% confidence.",
+  "The Chelton-Wentz (CW) algorithm did not significantly improve with the addition of RCS alone.",
+  "Including SWH improved both SB and CW algorithms with confidence levels above 75%.",
+  "Using 'excess SWH' with the CW algorithm yielded a 98% confidence level in residual reduction.",
+  "Differences between buoy and altimeter wind speeds arise from spatial-temporal sampling differences and instrument limitations.",
+  "Wind-wave growth is suppressed by preexisting swell, affecting altimeter wind speed estimates.",
+  "Geosat altimeters operate at about 13.5 GHz with a radar wavelength near 2.2 cm.",
+  "The altimeter range precision is approximately 3 cm for Geosat.",
+  "Maximum spatial and temporal separation allowed between buoy and altimeter data pairs were 50 km and 30 minutes respectively.",
+  "The Pierson-Moskowitz wind-wave spectrum was used as a baseline for expected SWH.",
+  "The study suggests that including SWH and RCS can marginally improve wind speed retrieval algorithms but larger datasets are needed for conclusive results.",
+  "Radar altimeter return pulse shape changes due to ocean wave crests and troughs cause pulse broadening used to estimate SWH.",
+  "The frictional wind speed u* relates to the momentum transfer from wind to ocean surface and influences MSS and RCS.",
+  "The study was funded in part by the National Satellite Data and Information Service of NOAA under U.S. Navy contract."
+]
