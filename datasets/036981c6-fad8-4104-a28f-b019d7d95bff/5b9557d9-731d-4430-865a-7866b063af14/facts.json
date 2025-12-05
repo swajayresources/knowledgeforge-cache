@@ -1,0 +1,22 @@
+[
+  "CNT forests with thickness >10 \u00b5m exhibit near-perfect absorption with absorptance and emittance close to 1.",
+  "CNT thicknesses of 0.36, 1.12, 4, 7, and 10 \u00b5m were achieved by varying CVD deposition times from 3 to 15 minutes.",
+  "The tandem absorber structure is SS/Ti/AlTiO/CoO/CNTs.",
+  "AlTiO layer forms due to outward diffusion of Ti during heat treatment at 800 \u00b0C.",
+  "CNTs grown at 0.36 \u00b5m thickness exhibit absorptance of 0.95 and emittance of 0.20, yielding a spectral selectivity ratio (\u03b1/\u03b5) of 4.75.",
+  "Thermal stability of the CNT-based tandem absorber is maintained up to 650 \u00b0C for 100 hours in vacuum.",
+  "FESEM images show CNTs grown at different thicknesses are bent-interlinked forests rather than vertically aligned.",
+  "XRD confirms presence of graphitic carbon and cobalt oxide; alumina and titanium oxide layers are x-ray amorphous.",
+  "Raman spectra show high D/G intensity ratio (1.52) for as-grown CNTs indicating carbonaceous impurities; purified CNTs have ratio of 0.52.",
+  "The plasma edge (\u03c9p) shifts from 544 nm for Co/Al2O3/Ti coated SS to 812 nm for CoO/AlTiO/Ti/SS, indicating changes in charge carrier density.",
+  "Complex refractive index of 10 \u00b5m thick CNTs shows low refractive index (~1.05) in 300\u20132200 nm range, aiding impedance matching to air.",
+  "Reducing CNT thickness increases reflectance in visible region due to higher reflection at CNT/air interface.",
+  "Transmittance measurements on CNTs grown on CoO/quartz substrates show decreased transmittance with increasing CNT thickness.",
+  "The CNT-based tandem absorber exhibits near-zero transmittance due to substrate opacity.",
+  "The absorptance and emittance were calculated from reflectance and transmittance using the relation A + R + T = 1 and Kirchhoff's law.",
+  "The CNT-based tandem absorber outperforms some state-of-the-art solar selective coatings that are stable up to 580 \u00b0C.",
+  "The CNT coatings have root mean square roughness values increasing from ~60 nm at 0.36 \u00b5m thickness to ~130 nm at 10 \u00b5m thickness.",
+  "The low effective refractive index of CNT forests results from their low volume fraction and high porosity.",
+  "The cobalt catalyst was chosen over Ni and Fe due to better optical absorption and thermal stability of CoO.",
+  "The CNT-based tandem absorber can be tuned to transition from broadband blackbody absorption to solar selective absorption by adjusting CNT thickness."
+]
