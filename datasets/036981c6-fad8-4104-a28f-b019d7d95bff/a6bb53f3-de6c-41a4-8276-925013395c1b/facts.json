@@ -1,0 +1,22 @@
+[
+  "The reflection coefficient of the optimized multilayer absorbers is below -20 dB in many frequency subranges within 2-18 GHz.",
+  "Composite materials use epoxy resin with multiwalled carbon nanotubes (MWCNTs) at 0.5, 1.0, and 1.5 weight percentages.",
+  "MWCNTs used are NANOCYL\u2122 NC7000 with average diameter ~9.5 nm and length ~1.5 \u00b5m.",
+  "Dielectric properties were measured using a vector network analyzer with a coaxial air-line method.",
+  "Particle Swarm Optimization (PSO) with mutation was used to optimize layer thickness and material selection.",
+  "Layer thickness ranges from 0 to 10 mm, with up to 10 layers allowed in the design.",
+  "Increasing MWCNT concentration increases both real and imaginary parts of permittivity, enhancing microwave absorption.",
+  "Ultrasonication at 20 kHz for 15 minutes was used to disperse MWCNTs in epoxy resin.",
+  "Polymerization of composite samples took about 16 hours at 50\u00b0C.",
+  "The optimized multilayer absorber acts as a cloak for cube satellites, simulated via finite element method in COMSOL.",
+  "The multilayer absorber reduces electromagnetic reflection and attenuates internal electric fields, improving interference immunity.",
+  "The PSO algorithm updates particle positions and velocities based on cognitive and social components with inertia weight decreasing from 0.9 to 0.4.",
+  "The mutation probability in PSO decreases linearly from 10% to 0.01% over iterations to avoid local minima.",
+  "Four cylindrical samples per material composition were measured to ensure repeatability of dielectric properties.",
+  "The loss factor (LF%) is defined as LF% = (1 - RC^2 - TC^2) * 100, where RC is reflection coefficient and TC is transmission coefficient.",
+  "Transmission coefficient (TC) is zero since the RAM is mounted on a metallic satellite surface.",
+  "The study balances electromagnetic absorption capability with practical manufacturing considerations and cost.",
+  "The PSO optimization considers both normal and oblique incidence angles for TM and TE modes.",
+  "The database of composite materials includes measured dielectric properties used as input for PSO.",
+  "The research integrates nanomaterials, electromagnetic theory, composite manufacturing, and computational optimization."
+]
