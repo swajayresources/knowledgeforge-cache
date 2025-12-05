@@ -1,0 +1,23 @@
+[
+  "Chipless RFID tags cost less than a cent, enabling mass deployment for low-cost item-level tagging.",
+  "Chipless tags can be printed directly on paper or plastic like barcodes.",
+  "Typical UWB frequency bands for chipless RFID are 3\u201310.5 GHz, 22\u201326.5 GHz, and 60 GHz.",
+  "Maximum effective isotropic radiated power (EIRP) allowed is about 10 mW in 2.4\u20132.48 GHz band and 25 mW in 5.725\u20135.875 GHz band.",
+  "Chipless RFID tags have no ASIC chip, so their signal processing depends entirely on the reader.",
+  "Antenna gain and bandwidth are primary factors influencing retransmission chipless RFID tags.",
+  "Backscattering chipless RFID tags encode data in antenna-mode RCS, which depends on antenna design and matching.",
+  "On-off keying (OOK) is used for data encoding by presence or absence of resonators or detuning.",
+  "Typical read range in laboratory environments is 30\u201370 cm with 0 dBm transmitter power and 10 dBi antenna gain.",
+  "Conjugate matching of antenna impedance maximizes power transfer and enhances antenna-mode RCS.",
+  "Structural-mode RCS is independent of antenna load and depends on physical antenna structure.",
+  "Antenna-mode RCS depends on radiation pattern and load matching; it vanishes if antenna is conjugate matched.",
+  "Crescent-shaped loaded monopole antennas reduce structural-mode RCS without affecting antenna gain.",
+  "Data density of spiral resonator chipless tags is about 0.61 bits/cm\u00b2; TDR tags have about 0.17 bits/cm\u00b2.",
+  "Radar cross section (RCS) is measured in m\u00b2 or dB/m\u00b2 relative to a 1 m\u00b2 sphere.",
+  "Backscattered signal power is much lower than transmitted power and is susceptible to ambient noise.",
+  "Chipless RFID tags require large operational bandwidth due to UWB signals.",
+  "Antenna effective area can be greater than physical area, indicating antenna efficiency.",
+  "The radar range equation relates received power, transmitted power, antenna gains, RCS, and distance.",
+  "Backscattering chipless RFID tags act as efficient reflectors rather than radiators.",
+  "Chipless RFID tag detection relies on changes in RCS spectral density caused by resonator presence or absence."
+]
