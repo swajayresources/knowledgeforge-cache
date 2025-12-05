@@ -1,0 +1,19 @@
+[
+  "Accepted Manuscript Broadband radar cross section reduction by in-plane integration of scattering metasurfaces and magnetic absorbing materials Wei Li, Yazhong Zhang, Tianlong Wu, Jie Cao, Zhihong Chen, Jianguo Guan PII: S2211-3797(19)30329-8 DOI: https://doi",
+  "080 Reference: RINP 2046 To appear in: Results in Physics Received Date: 29 January 2019 Accepted Date: 29 January 2019 Please cite this article as: Li, W",
+  ", Broadband radar cross section reduction by in-plane integration of scattering metasurfaces and magnetic absorbing materials, Results in Physics (2019), doi: https://doi",
+  "080 This is a PDF file of an unedited manuscript that has been accepted for publication",
+  "Broadband radar cross section reduction by in-plane integration of scattering metasurfaces and magnetic absorbing materials Wei Li a, Yazhong Zhang a, Tianlong Wu a, Jie Cao a, Zhihong Chen a,b, Jianguo Guan a,* a State Key Lab of Advanced Technology for Materials Synthesis and Pro c essing, International School of Materials Science and Engineering, Wuhan University of Technology, Wuhan, 430070, China b School of Science, Wuhan University of Technology, Wuhan, 430070, China Abstract: An in-plane hybrid design is proposed to achieve broadband radar cross section (RCS) reduction based on the integration of a diffusion scattering electromagnetic band-gap (EBG) metasurface and a magnetic absorbing material (MAM) at a thin thickness (d)",
+  "As a result, the as-designed hybrid metasurface show in both simulation and experiment an unprecedented broadband RCS reduction of 6 dB in the frequency range of 5-34 GHz with d of only 2 mm",
+  "On the other hand, metamaterial absorbers (MMAs) have advantages of flexible design, strong absorption, thin thickness and light weight [1-4]",
+  "But they still suffer from narrow working bands owing to the resonance absorption 1 mechanisms [5-7] after considerable progresses are made in broadening the absorption bandwidth of MMAs typically by integrating multiple unit cells with diverse sizes or various geometries [8-12]",
+  "The hybrid design of MMAs and MAMs has also been proven to be somewhat effective in bandwidth extension [13-16]",
+  "Nevertheless, the so far developed MMAs or MAMs all follow the restriction of bandwidth thickness ratio in absorption mechanism [17]",
+  "Recently, metasurfaces made of electromagnetic band-gap (EBG) structures are extensively investigated and considered more promising in broadband RCS reduction [18, 19]",
+  "They reduce RCS by redirecting the scattered electromagnetic waves to non-critical directions rather than suppressing them by absorbing like MAMs or MMAs [20]",
+  "The essence of scattering redirection by EBG metasurfaces is the anomalous reflection based on the phase manipulation of EBG unit cells [21-25] and the generalized Snell\u2019s law [26, 27]",
+  "Since the phase of reflected waves can be well designed in a broadband range using the concept of metasurface [28-30], the RCS reduction bandwidth of the metasurface can be broadband rather than narrow-band like MMAs",
+  "A simple implementation of the RCS reduction metasurface is to arrange two kinds of unit cells with destructive phase difference of 180\uf0b0 \uf0b1 37\uf0b0 in a chessboard like manner [22], mimicking a diffuse reflection surface",
+  "In this work, we propose a strategy to achieve ultra-broadband RCS reduction with a small thickness (d) by taking advantages of the absorption of MAM and the scattering redirection of EBG metasurface, as well as their synergistic effect",
+  "Our results promote more hybrid metasurfaces with broadband RCS reduction and improve the hybrid design of multiple materials with distinct mechanisms"
+]
