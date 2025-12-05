@@ -1,0 +1,22 @@
+[
+  "hp-adaptive finite elements",
+  "Maxwell's equations",
+  "electromagnetic absorption",
+  "electromagnetic scattering",
+  "steady-state",
+  "Lagrange multiplier",
+  "variational formulation",
+  "curl-curl operator",
+  "Gauss law",
+  "discontinuous material properties",
+  "curved finite elements",
+  "local polynomial order",
+  "element size h",
+  "stability analysis",
+  "convergence proof",
+  "jump conditions",
+  "boundary conditions",
+  "reduced wave equation",
+  "singular solutions",
+  "finite element spaces"
+]
