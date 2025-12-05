@@ -1,0 +1,22 @@
+[
+  "The study uses aircraft parameters from Adamson for F-104G and Asselin for F-16C.",
+  "The nominal radar detection distance for an aircraft with 1 m\u00b2 RCS is fixed at 15 km in simulations.",
+  "RCS is highly dependent on azimuth and elevation angles relative to the radar station.",
+  "The RCS of the Saab 105 model is 12.0 m\u00b2 in the nose direction, resulting in a detection distance of 27.9 km when heading directly at the radar.",
+  "Flight-path angle, heading angle, altitude, velocity, fuel mass, and position coordinates form the state vector in the optimization.",
+  "Control variables include thrust setting, angle of attack, and bank angle.",
+  "The optimization problem is formulated with algebraic constraints on dynamic pressure, load factor, and radar detection.",
+  "Hermite-Simpson collocation is used for discretizing the nonlinear optimal control problem.",
+  "The aircraft trajectory is optimized to pass a radar station at 2 km altitude with a maximum altitude constraint of 5 km.",
+  "Minimizing detection time alone results in a detection time of about 67.9 seconds for the Saab 105, compared to 299.5 seconds for a direct approach.",
+  "Including fuel consumption in the objective increases detection time slightly but reduces fuel usage.",
+  "The aircraft tends to fly at maximum altitude for energy buildup before diving to the target to minimize radar exposure.",
+  "RCS variations cause many local minima in optimization, making smooth spline approximations necessary.",
+  "The study confirms that 3D RCS constraints can be incorporated efficiently into flight-path optimization.",
+  "The full 6-DOF flight model is computationally intense, so a simplified model is used for optimization.",
+  "Radar detection time is defined as the interval between first detection and reaching the target.",
+  "The study was financially supported by the Swedish Defence Materiel Administration.",
+  "The optimization shows that flight paths avoiding head-on radar exposure can reduce detection distance to near the minimum RCS aspect.",
+  "The paper uses a generic RCS model for a small conventional airplane to test the method.",
+  "The Jacobian of the RCS constraint is computed analytically from the spline representation for computational efficiency."
+]
