@@ -1,0 +1,17 @@
+[
+  "1 Introduction\u2013basic concepts The idea of combining the boundary integral equation method with other techniques had already been introduced in a paper by Greenspan and Werner [6] in the study of an exterior Dirichlet problem for the Helmholtz equation in 2-D",
+  "Alternatively, one may also consider combining the boundary integral equation method with other methods such as the finite element method as in the paper by MacCamy and Marin [11] for exterior interface problems",
+  ", the monograph by Gatica and Hsiao [5])",
+  "For the exterior boundary value problem (BVP), the general solution procedure for the method is shown in Figure 1",
+  "Of course for the scattering problem we may \u2217Department of Mathematical Sciences, University of Delaware, Newark, Delaware 19716",
+  "1 startdirectlywiththetransmissionproblem",
+  "\u2193 Nonlocal BVP \u2193 Weak Formulation \u2193 Numerical Implementation & Error Analysis Figure 1: A flow chart for the general solution procedure",
+  "2 2 Acoustic Scattering Through out the paper, let \u2126 be a bounded domain in IR3 with smooth boundary \u0393",
+  "We consider the exterior BVP for the Helmholtz equation \u2206u+k2u = 0 in \u2126c := IR3 \\\u2126, u = 0 on \u0393, (1) \u2202us \u2212ikus = o(r\u22121) as r = |x| \u2192 \u221e, (2) \u2202r where u = us + ui denotes the total field, us the unknown scattered field, and ui the given incident field",
+  "For simplicity, we assume that the wave number k is a constant and that Im k \u2265 0 in order to avoid resonance states",
+  "The Dirichlet problem (1), (2) is one of the basic problems in classical scattering theory",
+  "It represents the scattering of time-harmonic acoustic waves by a bounded impenetrable obstacle \u2126 and the homogeneous Dirichlet boundary condition in (1) corresponds to a sound- soft obstacle",
+  "The Sommerfeld radiation condition (2) guarantees the scattered wave us is outgoing and will ensure uniqueness for the solutions to the scattering problem",
+  "Then (1), (2) may be 0 0 reformulated as a transmission problem \u2206u+k2u = 0 in \u2126 ; u = 0 on \u0393, (3) F \u2202u\u2212 \u2202us+ \u2202ui u\u2212 = us+ +ui, = + on \u0393 , (4) 0 \u2202n \u2202n \u2202n \u2206us +k2us = 0 in \u2126 B \u2202us \u2212ikus = o(r\u22121) as r = |x| \u2212\u2192 \u221e",
+  "(5) \u2202r In the formulation, it is understood that the given incident field ui is required also to satisfy the Helmholtz equation in \u2126"
+]
