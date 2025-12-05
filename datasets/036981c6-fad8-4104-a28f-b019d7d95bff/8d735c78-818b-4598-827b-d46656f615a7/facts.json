@@ -1,0 +1,17 @@
+[
+  "AppliedMathematicsandComputation222(2013)107\u2013122 ContentslistsavailableatScienceDirect Applied Mathematics and Computation journal homepage: www",
+  "com/locate/amc Stationary iteration methods for solving 3D electromagnetic scattering problems Alexander Samokhina, Yury Shestopalovb,\u21d1 , Kazuya Kobayashic aMoscowStateTechnicalUniversityofRadioEngineeringandAutomation,Vernadskyav",
+  "78,117648Moscow,Russia bKarlstadUniversity,SE-65188Karlstad,Sweden cChuoUniversity,1-13-27Kasuga,Bunkyo-ku,Tokyo112-8551,Japan a r t i c l e i n f o a b s t r a c t Keywords: GeneralizedChebysheviteration(GCI)appliedforsolvinglinearequationswithnonselfad- GeneralizedChebysheviteration jointoperatorsisconsidered",
+  "Theresultsareappliedtonumericalsolutionofvolumesingular integral equations (VSIEs) associated with the problems of the mathematical theory of wavediffractionby3Ddielectricbodies",
+  "(cid:2)2013ElsevierInc",
+  "Next,usingiterationtechniques,weperformefficientnumericalsolutionoftheinitialscatteringproblemsby theVSIEmethod[9]",
+  "0096-3003/$-seefrontmatter(cid:2)2013ElsevierInc",
+  "/AppliedMathematicsandComputation222(2013)107\u2013122 Recallmainparametersthatgovernefficiencyofanumericalalgorithm:numberTofarithmeticoperationswhichisnec- essaryforobtainingthesought-forsolutionwiththerequiredaccuracyandvolumeMofthememoryrequiredforimple- mentationofthealgorithm",
+  "The valueofTmaybeestimatedfromtheformula T(cid:2)L\u00f0T \u00feT \u00de\u00feT : A 0 M HereListhenumberofiterations,T isthenumberofarithmeticoperationsformultiplyingamatrixbyavector,T isthe A 0 numberofarithmeticoperationsforothercalculationsperformedwithinoneiteration,andT isthenumberofarithmetic M operationsforformingtheSLAEmatrixwhenanintegralequationisdiscretized",
+  "Thememory 0 A M A volumerequiredforimplementationofthealgorithmcanbeestimatedbytheexpression M(cid:2)M \u00feM A ITER HereM andM arethememoryvolumesrequired,respectively,forstoringtheSLAEmatrixorthecorrespondingarray A ITER andimplementingtheiterationprocedure",
+  "QuantitiesT ,T ,andM dependsolelyonthemethodofdicretizationoftheintegralequation,whileL,T ,andM are A M A 0 ITER governedbytheiterationalgorithminuse",
+  "SincetheVSIEkernelsdependonthedifferenceofarguments,wecanprovidethefulfillmentoftheconditionM (cid:3)N, A whereNisthematrixsizeusingefficientdicretization",
+  "Ifnospecialalgorithmsareused,thenT (cid:2)N2,which A A causesabnormalcomputationalexpensesduetohugematrixdimensions",
+  "UsingthefastdiscreteFouriertransform,itispos- sibletocreateanefficientalgorithmwithT (cid:3)NLOG(N),whereLOG(N)isafunctiontakingvaluesonthesetofwholenum- A bers and equal to the sum of all prime factors of number N",
+  "Obviously, this is a slowly varying function with respect to increasing;forexample,LOG(106)=42andLOG(108)=56"
+]
