@@ -1,0 +1,22 @@
+[
+  "The hybrid method couples structured FDTD with unstructured FETD or FVTD on overlapping grids for electromagnetic scattering simulations.",
+  "The structured FDTD method is memory and time efficient but struggles with complex geometries.",
+  "Unstructured FETD and FVTD methods handle general geometries and small scale features accurately.",
+  "Overlapping grids allow multiple meshes with different numerical methods to coexist and exchange information via interpolation.",
+  "Cubic interpolation using Ferguson tensor products is used for structured quadrilateral meshes.",
+  "Side vertex interpolation with barycentric coordinates and Hermite polynomials is used for unstructured triangular meshes.",
+  "The time step is constrained by a CFL-like stability condition depending on minimum mesh spacing or element size.",
+  "Numerical examples include scattering by a PEC circular cylinder of diameter 15 wavelengths and a PEC NACA0012 aerofoil of length 2 wavelengths.",
+  "A perfectly matched layer (PML) of thickness one wavelength is used as an absorbing boundary condition.",
+  "The hybrid methods show excellent agreement with exact solutions and high-order frequency domain finite element methods.",
+  "The Cartesian mesh spacing used in examples is one-sixteenth of the wavelength.",
+  "Three layers of cells define the overlap region between structured and unstructured meshes.",
+  "The unstructured mesh cell size varies from one-sixteenth to one-thirtieth of the wavelength near complex geometry features.",
+  "The hybrid FDTD=FVTD method performs less well for TE wave scattering by the aerofoil due to weak boundary condition enforcement.",
+  "The hybrid approach allows for flexible mesh generation and accurate boundary representation, overcoming stair-casing errors.",
+  "The electric field in FVTD is located at triangle vertices, magnetic fields at dual mesh centroids.",
+  "The FETD method uses a two-step explicit Taylor-Galerkin time integration scheme with a lumped mass matrix.",
+  "Interpolation between FDTD and FETD requires time interpolation due to collocated finite element schemes.",
+  "The method uses a single global time step chosen to satisfy stability for all coupled schemes.",
+  "The hybrid approach enables fast and accurate large-scale electromagnetic scattering simulations."
+]
