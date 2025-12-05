@@ -1,0 +1,18 @@
+[
+  "The safety factor is widely used in aircraft design.",
+  "The traditional safety factor for metallic structures is 1.5.",
+  "Composite materials have a two-parameter Weibull distribution or normal distribution.",
+  "The coefficient of variation of the experimental results for composite materials is very large.",
+  "The recommended value of the safety factor for composite structures relative to the 1.5 safety factor for metallic structures is about 2.0.",
+  "The shape parameter of the Weibull distribution for composite materials is usually about 10.",
+  "The factor of safety for composite materials when the shape parameter is 10 is about 2.",
+  "The safety factor increases as the Weibull parameter decreases.",
+  "The recommended value of the safety factor for loads in composite structures is approximately the same as for metallic structures.",
+  "The coefficient of variation of the materials used in conventional metallic structures is 0.03.",
+  "The recommended value of the safety factor for strength in composite structures is about 1.1.",
+  "Reducing the scatter of materials used in composite structures can increase the reliability or decrease the factor of safety at a given reliability.",
+  "The method presented in the paper for determining the safety factor for composite structures is a technique based on structural system reliability.",
+  "The formula for determining the safety factor for composite structures is f = 1 + p_v + v^2 / (2 * v).",
+  "The safety factor should consider not only the scatter of strength and exceptionally large loads but also the failure mechanism and failure modes of the composite structures.",
+  "The safety factor for composite structures can be determined using the Weibull distribution of composite materials and the loads applied to the structures."
+]
