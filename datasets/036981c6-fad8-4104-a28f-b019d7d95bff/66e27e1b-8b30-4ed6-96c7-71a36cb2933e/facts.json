@@ -1,0 +1,22 @@
+[
+  "Jaumann absorbers consist of multiple resistive layers separated by quarter-wavelength low-loss spacers in front of a metal backing sheet.",
+  "The design problem is N-dimensional, involving optimization of sheet resistances and spacer properties over frequency, polarization, and angle.",
+  "Genetic algorithms do not require derivatives of the performance function and are robust against local optima.",
+  "Bandwidth increases rapidly with the number of resistive layers N up to about 7-8 layers, then approaches an asymptotic limit.",
+  "Adding a low-permittivity dielectric spacer (\u03b5r=1.1) in front of the outermost resistive layer marginally improves bandwidth.",
+  "The GA-optimized sheet resistance profile is S-shaped, differing from the traditional exponential profile by flattening at outer layers.",
+  "Typical optimized sheet resistance values for a 7-layer absorber with \u03b5r=1.1 range from ~2163 \u03a9/sq (innermost) to ~430 \u03a9/sq (outermost).",
+  "Reflectivity performance is evaluated over 1-20 GHz with a target of -20 dB or better reflectivity.",
+  "A two-stage GA performance function first minimizes reflectivity peaks above -20 dB, then maximizes the -20 dB bandwidth.",
+  "Floating-point gene representation in GA improves execution speed compared to binary encoding.",
+  "Oblique incidence degrades RAM performance and introduces polarization sensitivity; GA optimization can target equal bandwidth for both polarizations.",
+  "Adding a high-permittivity skin (e.g., fiber-reinforced plastic with \u03b5r=4) can degrade performance but re-optimization recovers bandwidth.",
+  "Active Jaumann absorbers can dynamically vary sheet resistance, spacer thickness, or permittivity to achieve frequency-agile reflectivity.",
+  "Varying sheet resistances controls reflectivity null amplitudes symmetrically about the center frequency.",
+  "Varying spacer thicknesses allows asymmetric tuning of reflectivity nulls and creation of broadband nulls with spot nulls at selected frequencies.",
+  "For a single-layer Salisbury screen (N=1), the optimized sheet resistance is about 369 \u03a9/sq instead of the classical 377 \u03a9/sq.",
+  "GA-optimized absorbers with N=12 layers achieve bandwidths around 1.8 (normalized units) at -20 dB reflectivity.",
+  "The presence of a dielectric front spacer or skin can be used to protect mechanical integrity or form part of electromagnetic matching.",
+  "The GA approach can reduce design size significantly (up to 68%) while maintaining or improving absorption performance.",
+  "Reflectivity nulls can be dynamically reconfigured in active RAM for subband performance at the expense of broadband performance."
+]
