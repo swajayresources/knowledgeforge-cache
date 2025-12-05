@@ -1,0 +1,22 @@
+[
+  "The paper proposes a multilayered plasmonic shell cloak to reduce scattering at multiple optical frequencies simultaneously.",
+  "The cloak exploits the frequency dispersion and negative polarizability of plasmonic materials.",
+  "A two-layered cloak design is demonstrated for a dielectric sphere of permittivity 3 and diameter 200 nm.",
+  "The cloak targets free-space wavelengths of 500 nm and 625 nm for scattering reduction.",
+  "Shell thicknesses are approximately 107.5 nm for the inner shell and 131.5 nm for the outer shell.",
+  "Scattering efficiency is reduced by about 30-fold at 500 nm and 120-fold at 625 nm compared to the uncloaked particle.",
+  "The cloak maintains significant performance even with realistic Ohmic losses in the plasmonic materials.",
+  "The cloaking effect is polarization independent and works for both TM and TE polarizations.",
+  "The approach uses an extension of Mie theory for multilayered spheres to calculate scattering coefficients.",
+  "Numerical simulations using finite-integration technique software validate the analytical results.",
+  "The cloaking effect restores uniform electric field amplitude and planar phase fronts in the near field.",
+  "A sharp scattering peak appears near 580 nm due to dipolar and quadrupolar plasmonic resonances but is suppressed by losses.",
+  "The method is nonresonant and thus offers broader bandwidth than transformation optics cloaks.",
+  "Adding more plasmonic layers can extend cloaking to more frequencies without significantly increasing size.",
+  "The cloak layers add only a few percent thickness relative to the object size, avoiding bulky designs.",
+  "The technique can be extended to lower frequencies using metamaterial plasmonic covers.",
+  "Near-field cloaking allows potential application to collections of nanoparticles larger than the wavelength.",
+  "The cloak cancels dominant electric dipole scattering but also reduces higher-order multipoles.",
+  "The design assumes Drude-type dispersive plasmonic materials with plasma frequencies near the target wavelengths.",
+  "The research demonstrates feasibility with current nanotechnology for fabricating multilayered nanoshells."
+]
