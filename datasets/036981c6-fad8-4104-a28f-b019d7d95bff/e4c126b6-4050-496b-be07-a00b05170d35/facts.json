@@ -1,0 +1,22 @@
+[
+  "The absorber is based on a Salisbury screen topology but replaces the resistive sheet with an active frequency selective surface (FSS) controlled by PIN diodes.",
+  "The FSS consists of 180 dipole elements arranged on a rectangular lattice on a 0.8 mm thick printed circuit board.",
+  "PIN diodes used are Phillips BA585 surface-mount devices acting as current-controlled resistors at microwave frequencies.",
+  "The dielectric spacer is 4.0 mm thick Rhocell 51 foam with relative permittivity \u03b5_r = 1.05 and loss tangent tan\u03b4 = 0.0017.",
+  "The total thickness of the absorber is less than 5.0 mm.",
+  "Reflectivity can be tuned from strongly reflecting to less than -20 dB over 9.5 to 12.5 GHz by adjusting the diode bias current.",
+  "Bias currents required for tuning are very low, typically below 1 mA, resulting in power consumption less than 25 \u00b5W/cm\u00b2.",
+  "The absorber shows a double null reflectivity response with increasing bias current before saturating back to a reflecting state.",
+  "The transmission line model uses a series RLC circuit to represent the FSS impedance with fixed inductance and capacitance and variable resistance.",
+  "Typical inductance and capacitance values used in modeling are around 3.4\u20134.7 nH and 4.9\u20139.1 fF respectively.",
+  "The absorber can be switched at rates exceeding 20 MHz due to the fast response of the PIN diodes (time constants ~10 ns).",
+  "The active FSS provides a reactive impedance component that allows a thinner absorber with increased bandwidth compared to a purely resistive Salisbury screen.",
+  "The sheet impedance tuning is achieved electrically, avoiding mechanical adjustments of spacer thickness or permittivity.",
+  "Experimental measurements were performed in a calibrated NRL arch using an HP 8510C network analyzer.",
+  "The design reduces diode density and power consumption by using a single active FSS layer instead of multiple PIN diode layers.",
+  "The absorber is designed for single linear polarization operation.",
+  "The reflectivity null occurs when the sheet impedance equals the free space impedance and the dielectric spacer thickness is \u03bb/4 at the design frequency.",
+  "The structure includes an outer dielectric skin formed by the circuit board, which also protects the diodes.",
+  "The active absorber can be used for adaptive radar cross section (RCS) control in military and civilian applications.",
+  "The authors reference prior work on active absorbers and frequency selective surfaces for context and design methodology."
+]
