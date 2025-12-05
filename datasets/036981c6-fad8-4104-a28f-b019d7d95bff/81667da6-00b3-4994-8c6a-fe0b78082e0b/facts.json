@@ -1,0 +1,19 @@
+[
+  "2020 23rd Euromicro Conference on Digital System Design (DSD) Active Redundant Hardware Architecture for Increased Reliability in FPGA-Based Nuclear Reactors Critical Systems Marcos Santana Farias Nadia Nedjah Paulo Victor R",
+  "With the constant breakthroughs in this PLCs and microprocessors [44]",
+  "Nevertheless, new methods to keep fault a movement that advocated for broader adoption of FPGA tolerance at an appropriate level for critical applications in (Field Programmable Gate Array) devices in the nuclear field hardware must be considered, particularly due to the transient [1]",
+  "Also, it brings forth a novel hardware architecture that can industries, among others, where the reliability of applications is easily be ported to different FPGA models without compromising extremely important [46]",
+  "We discuss and analyze static random-access memory (SRAM) FPGAs are on these requirements for the proposed architecture and show that it increasing demand for reliability experiments [45]",
+  "They track systems themselves to extend the life span of existing nuclear every aspect of the health of the plant, in order to react with the reactors [2]",
+  "The I&C of critical systems went through three by altering status and circuit configuration [3]",
+  "architecture that increases the reliability of circuits Firstly, during the 60\u2019s and 70\u2019s of the last century, the I&C implemented in SRAM-based FPGAs, based on a classic active systems were based on the analog technology [44]",
+  "that works by replacing failed modules of a triple redundant The second stage began gradually during the 80\u2019s and the model with spare modules [33] [34]",
+  "The developed controller 90\u2019s, with the replacement of the analog technology by to this architecture makes it possible to adapt between TMR microprocessor-based digital I&C systems",
+  "When the disturbance numerous advantages in comparison to the previous technology challenges the limits [37], adaptation is one of the concepts that 978-1-7281-9535-3/20/$31",
+  "00 \u00a92020 IEEE 608 DOI 10",
+  "1109/DSD51259",
+  "00100 Authorized licensed use limited to: Middlesex University",
+  "Downloaded on October 19,2020 at 15:11:44 UTC from IEEE Xplore",
+  "The contribution of this work, which is directed (cid:1844) (cid:4666)(cid:1872)(cid:4667)(cid:3404)(cid:883)(cid:3398)(cid:3)(cid:1832)(cid:4666)(cid:1872)(cid:4667)(cid:484)(cid:3)(cid:3)(cid:3) (4) (cid:3043) (cid:3043) to critical systems hardware designers, in particular to nuclear reactors instrumentation and control systems designers, is two- As a consequence, it is expected that the reliability of a fold: redundant simple parallel system would be augmented by \u2022 We propose a resilient and adaptable hardware adding more redundancy",
+  "Reliability of TMR and NMR based Systems \u2022 We propose a hardware architecture that, by not using It is known that TMR systems with voters operate correctly manufacturer-specific features like scrubbing, as recommended if two of the three modules are operating properly"
+]
