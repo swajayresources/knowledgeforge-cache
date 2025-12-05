@@ -1,0 +1,17 @@
+[
+  "However, a fixed monitoring and multi-fault detection in permanent magnet length of window could result in an inconsistent treatment of synchronous machines (PMSM) using direct flux measurement different current frequencies [7], and changing motor speed with search coils",
+  "[7] applied both continuous wavelet transform harmonics introduced by the power supply",
+  "[6] have presented the scheme",
+  "A similar method is also used to detect emerging applications such as off-shore wind turbines, hybrid vehicle technology and military applications, where early dynamic eccentricity fault in PMSM [8]",
+  "2D simulations spectrum, indications of several faults are also hidden in using FEA have been presented to validate the proposed method noise, vibration and torque, spectrums [9]\u2013[13]",
+  "INTRODUCTION signature frequencies [14], and they cannot be distinguished",
+  "In reality, not only partial demagnetization, but also other Over the past decade, permanent magnet synchronous asymmetric problems such load imbalance, misalignment, or machines (PMSMs) have gained significant popularity in oscillating load can produce the same harmonics [15]",
+  "Negative/zero sequence current [16], ratio, and high torque to current ratio",
+  "In these mission critical [17], negative/zero sequence impedance [18], or applications, an unexpected fault or failure of the machine negative/zero sequence voltage [19], [20] are utilized as could lead to very high repair or replacement cost, or even indicators for fault detection",
+  "Based on the electric Since off-line machine fault detection and diagnostic machine model, estimated physical parameters can also be methods do not allow for frequent testing and are financially used for online fault diagnosis, such as stator resistance, impractical, many on-line methods have been proposed by inductance, rotor inertia, friction, and back EMF constant researchers to reduce maintenance costs and provide more [21]\u2013[24]",
+  "One cost-effective way is based on stator speed are measured directly, while other parameters are current spectrum, usually called motor current signature estimated so that faults can be found from any change in analysis (MCSA) [1]\u2013[6]",
+  "with a rapidly changing speed profile, Short Time Fourier In this paper, an alternative multi-fault detection method transform (STFT) can be applied to overcome the tradeoff 1 Copyright (c) 2011 IEEE",
+  "[25], [26] have developed an approach using a search coil to measure axial leakage flux signal of induction machine to detect some common faults in induction machines, such as broken rotor bars, wound rotor short circuit, inter-turn short Fig",
+  "used rotor mounted search coils to detect stator inter- turn fault for wound rotor synchronous machines [27] and Eccentricity in a machine is a condition of uneven air-gap doubly fed induction machines [28], based on power spectral between the stator and rotor",
+  "In the unbalanced magnetic pull (UMP) could cause stator and rotor proposed method, magnetic flux around the stator is contact [29]"
+]
