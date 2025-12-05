@@ -1,0 +1,22 @@
+[
+  "The FHN structure consists of three layers: flexible aluminum foil (0.150 mm), polyimide film with FSS pattern (135 \u03bcm), and nanocomposite absorber sheet.",
+  "The nanocomposite sheet uses graphite nanopowder (400 nm) and zinc oxide powder (600 nm) fillers in a polyurethane matrix.",
+  "The fabricated nanocomposite sheet shows dielectric loss tangents between 0.25 and 0.45 in the X-band frequency range.",
+  "The FSS pattern is printed on a flexible polyimide substrate with dielectric constant 3.5 and loss tangent 0.002.",
+  "Simulated reflection coefficient of the FSS alone shows a minimum of 0.08 magnitude at 11.20 GHz, corresponding to 98.74% absorption.",
+  "The overall thickness of the FHN absorber is 1.335 mm.",
+  "The FHN structure achieves a minimum reflection coefficient of \u221228 dB at 10.2 GHz.",
+  "The \u221210 dB reflection coefficient bandwidth covers the entire X-band (8\u201312 GHz).",
+  "Increasing the nanocomposite thickness from 1.0 to 1.4 mm shifts the reflection minima to lower frequencies.",
+  "The fabricated FHN structure provides at least 10 dB RCS reduction on cylindrical targets under various polarizations.",
+  "The reflection coefficient threshold of \u221210 dB corresponds to 90% absorption and 56% RCS reduction.",
+  "The nanocomposite fabrication involved sonification, curing at 70 \u00b0C for 2 hours, and 24-hour postcuring at room temperature.",
+  "The free-space measurement technique with focused horn lens antennas was used to characterize complex permittivity.",
+  "The FSS unit cell geometry and interelement spacing critically affect bandwidth, polarization, and incidence angle performance.",
+  "The combination of graphite and zinc oxide fillers provides high dielectric constant and loss tangent, enhancing microwave absorption.",
+  "The FHN design leverages impedance matching from FSS and dielectric losses from nanocomposite for wideband stealth applications.",
+  "The study includes detailed electromagnetic analysis and material morphology characterization to understand absorption mechanisms.",
+  "Previous absorbers like Salisbury screen and Jaumann layers have limitations in thickness and bandwidth addressed by this FHN approach.",
+  "The FHN structure is flexible and lightweight, suitable for strategic outdoor stealth applications requiring conformal coverage.",
+  "The research uses CST Microwave Studio for 3-D electromagnetic simulation under periodic boundary conditions."
+]
