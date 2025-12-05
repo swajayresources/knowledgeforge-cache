@@ -1,0 +1,21 @@
+[
+  "The Fricke primary standard is used to determine the absorbed dose to water.",
+  "The Fricke solution is calibrated using a two-step procedure.",
+  "The energy range considered in this paper is 6-20 MeV.",
+  "The correction factor proposed for all MeV qualities is k = 1.012 \u00b1 0.010.",
+  "The method used to determine the absorbed dose to water is a chemical Fricke (ferrous ammonium sulfate) dosimeter.",
+  "The Monte Carlo simulation is used to calculate energy losses due to absorption in materials upstream of the vessel, backscattering, and Bremsstrahlung.",
+  "High-energy electrons are used in this paper.",
+  "The response of the alanine dosemeter for high-energy electrons is independent of energy.",
+  "The magnetic spectrometer is used to determine the energy spectrum of the incident electrons.",
+  "The Faraday cup is used to detect the incident electrons.",
+  "The total absorption experiment uses a monoenergetic electron beam.",
+  "The polymethylmethacrylate phantom is used in this paper.",
+  "The Fricke solution is filled in LDPE bags for irradiation.",
+  "The bags are carefully filled with fresh Fricke solution using a glass pipette.",
+  "The bags are heat-sealed leaving a 0.5 cm gas gap between the Fricke solution and the seal.",
+  "The bags are inserted into a polymethylmethacrylate (PMMA) holder.",
+  "The holder guarantees that the 3 cm \u00d7 4 cm \u00d7 0.3 cm volume occupied by the Fricke solution is identical for all bags.",
+  "The bags are left in the phantom at least 10 min before irradiation starts to ensure temperature equilibrium of the Fricke solution with the surrounding water.",
+  "The water temperature, air pressure, and relative humidity are measured continuously."
+]
