@@ -1,0 +1,22 @@
+[
+  "The radar absorbing structure composite (RAS) studied contains a circuit analogue structure (CAS) made from conductive aluminum foil.",
+  "CAS acts as a reflection screen causing interference between incident and reflected electromagnetic waves.",
+  "Introduction of CAS improves radar absorption by 3 to 5 dB in the 8\u201318 GHz frequency range compared to RAS without CAS.",
+  "Increasing CAS size shifts the maximum absorption peak to lower frequencies.",
+  "Increasing the electromagnetic parameters of the medium ply shifts the absorption peak to lower frequencies.",
+  "Increasing the thickness of the medium laminate shifts the absorption peak to lower frequencies.",
+  "Materials used include epoxy resin, glass fiber SW-220, carbon fiber T300, absorbent iron powder, carbon black, and aluminum foil (0.03 mm).",
+  "CAS impedance is modeled with a formula involving geometric parameters and foil conductance.",
+  "Reflectivity of RAS with CAS is calculated using transmission line theory treating CAS as parallel resistance.",
+  "The fundamental requirements for RAS are maximum absorption, minimum reflection, and broad absorption bandwidth.",
+  "Minimum reflection requires gradual impedance transition from weakly to strongly absorbing media, which can increase RAS thickness.",
+  "Measurements of complex permittivity and permeability were done using a network analyzer per GJB 2038-94.",
+  "Reflection measurements were also conducted according to GJB 2038-94 standards.",
+  "CAS provides flexibility in design by enabling smooth or stepped impedance changes.",
+  "The aluminum foil used for CAS is 0.03 mm thick.",
+  "The composite specimens were prepared by layering prepregs and integrating CAS as a foil layer.",
+  "The maximum input resistance of RAS containing CAS moves to lower frequency with increasing CAS size, electromagnetic parameters, or thickness.",
+  "CAS can be considered equivalent to a parallel resistance in a transmission line model.",
+  "The study references earlier work on radar cross-section reduction and circuit analogue absorbers.",
+  "The RAS thicknesses studied included 4 mm and 4.5 mm in various experiments."
+]
