@@ -1,0 +1,19 @@
+[
+  "Received:30May2017 Revised:11April2019 Accepted:4September2019 DOI:10",
+  "12269 SPECIAL ISSUE PAPER Capturing smart service systems: Development of a domain-specific modelling language Rocco Xaver Richard Huber1 | Louis Christian P\u00fcschel2 | Maximilian R\u00f6glinger2 1FIMResearchCenter,UniversityofAugsburg Abstract ProjectGroupBusiness&Information SystemsEngineeringoftheFraunhoferFIT, Overthelastyears,thenatureofservicehaschangedowing Augsburg,86135,Germany to conceptual advances and developments in information 2FIMResearchCenter,UniversityofBayreuth ProjectGroupBusiness&Information technology",
+  "These developments have given rise to novel SystemsEngineeringoftheFraunhoferFIT, typesofserviceandsmartservicesystems(SSS),ie,resource Bayreuth,95444,Germany configurationscapableoflearning,dynamicadaptation,and Correspondence decision making",
+  "Smart oftheFraunhoferFIT,Bayreuth95444, Germany",
+  "\u00a92019TheAuthors",
+  "2019;29:1207\u20131255",
+  "com/journal/isj 1207 1208 HUBERETAL",
+  "KEYWORDS designscienceresearch,domain-specificmodellinglanguage, internetofthings,servicescience,smartservicesystems 1 | INTRODUCTION Servicesplayacentralroleinoureconomiesandsociety",
+  "By2014,theservicesectoralreadyaccountedforabout 78%oftheUnitesStates'and74%oftheEuropeanUnion'sgrossdomesticproduct(WorldBank,2017)",
+  "Withprod- ucts getting commoditized very fast in turbulent environments, many organizations have embraced the ideas of servitization,exploringnewvaluepropositionsbyoffering\u201cvalue-added\u201dservicesalongsidetheirproducts(Velamuri, 2013)",
+  "Takingafundamentallynewandinclu- siveview,whereproductsonlyserveastransmitters,VargoandLusch(2004)conceptualizeserviceasthegeneral processofvaluecocreationthroughtheapplicationandintegrationofresourcesforthemutualbenefitofservice providersandconsumers",
+  "Besidestheseconceptualadvances,servicehaschangedthankstotransformationaldevelopmentsininformation technology(IT)(Barrett,Davidson,Prabhu,&Vargo,2015)",
+  "Thesedevelopmentshavegivenrisetonewtypesofser- viceandsmartservicesystems(SSS),ie,resourceconfigurationscapableoflearning,dynamicadaptation,anddeci- sionmaking(Lim&Maglio,2018)",
+  "OneofthemostrecentadvanceswithanimpactonSSSistheinternetofthings (IoT)(Porter&Heppelmann,2014,2015;Yoo,Boland,Lyytinen,&Majchrzak,2012)",
+  "Thisturnsobjects frompassivetoolsintoactivesmartthings,whichnotonlybridgethegapbetweenthedigitalandthephysicalworld butalsoareself-dependentactorsinevermoresituations(Oberl\u00e4nder,R\u00f6glinger,Rosemann,&Kees,2018;Porter& Heppelmann,2014;Yooetal",
+  "Next, we present an integrated version of the metamodel",
+  "Below, we present the Coming Home Service and the Rush Hour Reward Service, as all service systems are involvedinatleastoneoftheseservices"
+]
