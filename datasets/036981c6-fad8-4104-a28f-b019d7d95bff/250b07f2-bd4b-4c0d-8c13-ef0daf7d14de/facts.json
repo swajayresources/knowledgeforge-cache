@@ -1,0 +1,19 @@
+[
+  "Proceedings of the 48th European Microwave Conference Infinite-Area Isovolumetric Transformation for Electromagnetic Invisibility Cloaks Based on Transformation Electromagnetics Yuma Takano#1, Atsushi Sanada#2 #Graduate School of Engineering Science, Osaka University, Osaka, Japan 1y-takano@ec",
+  "jp, 2sanada@ieee",
+  "In recent studies [1]\u2013[7], linear transformations II",
+  "INFINITE-AREAISOVOLUMETRICTRANSFORMATION of coordinate systems have been proposed to realize Here, we consider the infinite-area coordinate electromagnetic invisibility cloaks [8]\u2013[20] for scattering transformation suppression based on the concept of transformation \u2032 electromagnetics [21]",
+  "In contrast to general coordinate x = x; (1a) transformations with spatially variant index profiles, a y = y\u2032 +px\u2032 +q; (1b) linear coordinate transformation yields a spatially constant \u2032 z = z ; (1c) permeability as well as a constant permittivity for the coordinate transformation",
+  "(1) correspond to (cid:0)h=a and implement electromagnetic invisibility cloaks as the operation h, respectively, and 0(cid:20)x(cid:20)a, 0(cid:20)y (cid:20)1",
+  "Onesolutionisutilizing Consider a 2-D TM wave, an electromagnetic wave split-ring resonators (SRRs) [4]",
+  "According to the theory of transformation solutionistheso-calledeikonalapproximation [5]\u2013[7]",
+  "Inthe eikonalapproximation,thematerialparameters,\" and(cid:22) ,are r r adjusted so as to keep the refractive index constant at the cost of impedance matching",
+  "Among linear coordinate transformations, an area-preserving [1] or unimodular [2] coordinate transformation, where a geometrical area is invariant, has an advantage in the cloak realization, since they require only permittivity control",
+  "In a special case where the power of a propagating wave is locally concentrated [1] x a x or the wave vector is restricted in a certain direction [2], the (a) (b) transformation can be realized with a finite area",
+  "978-2-87487-051-4 \u00a9 2018 EuMA 679 25\u201327 Sept 2018, Madrid, Spain electromagnetics [21], material parameters that are equivalent Operations of this system are computed based on to the coordinate transformation are given by the equivalent circuit of full-tensor 2-D anisotropic ( ) metamaterials [22]",
+  "3 shows the equivalent circuit 1 1 p \"(cid:22)(cid:22) r = det(cid:3)i (cid:3)i i\u2032(cid:3)j i\u2032 = p 1+p2 ; (2a) model of a un (it cell used )in the c (alculation with ) i\u2032 \"xx \"xy L\u2032 (cid:0)M\u2032 (cid:22)z rz = det1 (cid:3)i =1; (2b) \" 0 \"r y rx \"r y ry = (cid:0)My \u2032 L\u2032 x ; (4a) i\u2032 \u2032 (cid:22) (cid:22) = C ; (4b) 0 zz where (cid:3)i represents the Jacobi matrix of the coordinate i\u2032 transformation",
+  "In contrast to [22] for the TE wave problem, implies the fact that the transformation is isovolumetric",
+  "(2) that the material parameters are is due to the orthogonal nature of electromagnetism",
+  "org Abstract\u2014We propose a novel concept of the infinite-area essentially when an infinite area is considered",
+  "In this paper, we propose an infinite-area isovolumetric We demonstrate the operation of the corner cloak based on the transformation as a general usage of the area-preserving or equivalentcircuitoffull-tensoranisotropicmediaandthevalidity unimodular transformation"
+]
