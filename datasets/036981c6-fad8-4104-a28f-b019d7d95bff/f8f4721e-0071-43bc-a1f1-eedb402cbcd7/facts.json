@@ -1,0 +1,17 @@
+[
+  "The paper presents an adjoint-based sampling method for electromagnetic scattering from perfectly conducting objects.",
+  "The method does not require explicit knowledge of the Green's function for the background medium.",
+  "It allows simultaneous sampling for all points and dipole directions.",
+  "The approach is based on solutions to certain adjoint problems involving divergence-free tangential current sources.",
+  "The adjoint sampling method can be interpreted as a nonlinear backprojection algorithm.",
+  "The method alleviates limitations of standard sampling methods that require multiple forward solves.",
+  "Numerical experiments illustrate the efficiency and accuracy of the adjoint approach.",
+  "The framework is applicable to a wide class of inverse problems beyond electromagnetic scattering.",
+  "The method computes integrals over several directions without separate computations for each.",
+  "The adjoint problem formulation enables efficient evaluation of sampling functions.",
+  "The paper discusses the relation between the adjoint sampling method and standard backprojection algorithms.",
+  "The method provides additional quantitative information usually missing in standard sampling methods.",
+  "The approach reduces computational cost by avoiding explicit Green's function calculations.",
+  "The method is suitable for time harmonic electromagnetic wave scattering problems.",
+  "The adjoint method integrates well with existing linear sampling and backprojection techniques."
+]
