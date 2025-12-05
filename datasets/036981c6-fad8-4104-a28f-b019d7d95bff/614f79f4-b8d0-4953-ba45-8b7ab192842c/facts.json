@@ -1,0 +1,17 @@
+[
+  "2020 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications Effect of Loading on the RCS of Coplanar Antenna Structures Zaed S",
+  "Alkanhal Electrical Engineering Department Electrical Engineering Department King Saud University King Saud University Riyadh, Saudi Arabia Riyadh, Saudi Arabia ORCID 0000-0001-7854-4110 ORCID 0000-0003-3673-0411 Abstract\u2014This paper explores the effect of load terminations the antenna scattered fields",
+  "The concept of antenna scattering decomposition into load impedance and also to find a suitable load for radar cross structural and reradiated scattered fields is used to ascertain the section (RCS) reduction are presented in [8, 9, 12]",
+  "For behavior of the radar cross section (RCS) of a metallic coplanar example, [8, 9], obtained a minimum back scattering from antenna structure with variable loadings",
+  "Then, a general thin cylindrical antennas using central impedance loadings analytical load condition that minimizes the bistastic radar cross while [13] used double loadings for the same purpose",
+  "In [14], section of the coplanar antenna structure is derived",
+  "The presented in [15]",
+  "In [12], a formula for the RCS for a center results demonstrate the validity of the procedure with almost loaded cylindrical antenna is derived",
+  "In [16], different loads zero backscattering for the antenna with evident RCS reduction are tested to study their effect on the RCS pattern of simple factors",
+  "as in [17, 18], where a genetic algorithm (GA) is used to numerically find the optimum load that would control and Keywords\u2014Electromagnetic Scattering, Radar Cross Section, eliminate the backscattering of wire antennas with and without Antenna Scattering, Zero Scattering, Scattering Pattern, Coplanar reflectors",
+  "INTRODUCTION This paper examines the Green\u2019s decomposition expression [7] that decompose the scattered fields of an Ultra wide band (UWB) antennas have been widely antenna into a structural component which is that of a applied to wireless communications, radars, imaging, conjugate matched (CM) antenna and a re-radiation localization and wireless sensor networks [1, 2]",
+  "The minimized RCS of this metallic-surface Antennas are scatterers and their scattering can be coplanar antenna is, then, compared with equivalent-area decomposed into two terms [3\u20137]",
+  "In [7], the structural mode scattering The electromagnetic (EM) fields scattered by an antenna is consigned to that of the conjugate matched antenna",
+  "The as a function of the antenna load impedance at a specific other part of the scattered fields, called the antenna mode direction is given by the following expression from [7]: scattering or the reradiating mode, interacts with the structural mode to produce the total scatted field",
+  "the antenna mode) depends on the load (cid:2161) (cid:3046) =(cid:2161) (cid:2929)(cid:3030)(cid:3040)+\u0413 (cid:3002)\u2217(cid:1835) (cid:3030)(cid:3040)(cid:2161)(cid:2869) (cid:3045)(cid:3002) (1) value and, hence, can be controlled by different loadings to interfere with the field from the structural part to produce the where \u0413\u2217 = (cid:3027)(cid:3250)\u2217(cid:2879)(cid:3027)(cid:3261) (2) desired scattering tuning [8]"
+]
