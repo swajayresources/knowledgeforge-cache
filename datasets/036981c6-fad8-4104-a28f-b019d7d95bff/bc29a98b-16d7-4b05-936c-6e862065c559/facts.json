@@ -1,0 +1,21 @@
+[
+  "WBG devices have superior characteristics compared to Si devices.",
+  "The high dv/dt and di/dt associated with faster switching speed and high frequency ringing during switching transient of WBG devices increase the concern of conductive EMI.",
+  "Parasitic components, including junction capacitances and parasitic inductances, play a significant role in EMI noise in WBG devices.",
+  "Reducing parasitic inductance can significantly reduce EMI noise in WBG devices.",
+  "Methods to reduce parasitic inductance include widening the pattern width, shortening the pattern length, and using surface mount packages.",
+  "The compensating capacitor is used to eliminate divergent oscillation and achieve Zero Voltage Switching (ZVS) in cascode GaN HEMT.",
+  "The hybrid packaging structure combines the low cost of bond wires and small stray inductance of planar structure.",
+  "Adding decoupling capacitors can reduce the area of current commutation loop and reduce EMI noise.",
+  "The P-cell and N-cell concept involves rearranging the DBC position of device dies on the power module to reduce the area and length of current commutation loop.",
+  "The power chip-on-chip 3D concept involves transferring the power chip to a 3D structure to reduce stray inductance.",
+  "The planar structure can reduce stray inductance and improve EMI performance.",
+  "3D structures can reduce stray inductance and improve EMI performance.",
+  "Adding capacitors can increase power loss and cost, and increase the complexity of the system.",
+  "The near field scanning technique can guide the reduction of parasitic inductance in individual SiC MOSFET chips.",
+  "Using surface mount packages can reduce parasitic inductance.",
+  "The stacked die package with compensating capacitor can eliminate divergent oscillation and achieve ZVS in cascode GaN HEMT.",
+  "The hybrid structure packaging can combine the low cost of bond wires and small stray inductance of planar structure.",
+  "The power module designed in [38] is for IGBT, but the original purpose is to reduce stray inductance for WBG device applications.",
+  "The power chip-on-chip 3D concept is transferrable when designing power modules with WBG power semiconductors."
+]
