@@ -1,0 +1,22 @@
+[
+  "Hybrid RAS shells were fabricated using glass fiber/epoxy/carbon-black (5 wt%) as absorbing layers and carbon fiber reinforced epoxy as reflection layers.",
+  "The shells were shaped into three-dimensional 'C' and 'U' geometries.",
+  "Carbon-black nanoparticles used had an average diameter of about 40 nm and high surface area (950 cm2/g).",
+  "Curing was performed at 120\u00b0C and 5.5 atm in an autoclave for 2 hours.",
+  "Spring-back deformation was compensated by designing aluminum molds with additional bending angles.",
+  "Finite element analysis (ANSYS 8.0) predicted spring-back behavior with about 21.8% average error compared to experiments.",
+  "The radar cross section (RCS) was measured at 10 GHz using a compact range method.",
+  "Hybrid RAS shells achieved an average radar absorption efficiency of about 11 dB compared to perfect electric conductor shells.",
+  "Reflection coefficient of CFRP was about 120 dB, considered as a perfect electric conductor (PEC) in this study.",
+  "The physical optics method was used to predict RCS, showing good agreement with experimental results (errors under 7%).",
+  "The spring-back angle for zero deformation was approximately -4.29\u00b0 for 'C' shape and -1.9\u00b0 for 'U' shape molds.",
+  "Mechanical properties used in FEA: Elastic modulus of 20.8 GPa for GFRP-CB and 81.2 GPa for CFRP.",
+  "Thermal expansion coefficients were measured and applied in the FEA to simulate curing effects.",
+  "The hybrid structure offers a higher stiffness-to-weight ratio compared to metallic reflection layers.",
+  "The study confirms that controlling mold bending angles can effectively eliminate spring-back in hybrid composite shells.",
+  "Radar absorption efficiency was highest (~15 dB) in certain rotational angles for the 'C' shape shell.",
+  "The study used a three-phase composite prepreg with nano carbon-black mixed into epoxy resin.",
+  "The hybrid RAS shells protect electromagnetic wave transmission to the reflection layer while maintaining structural strength.",
+  "The research was supported by the Agency for Defense Development and Brain Korea 21 projects.",
+  "Further investigations are required for applying hybrid RAS to complex military structures and severe environments."
+]
