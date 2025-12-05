@@ -1,0 +1,1 @@
+This paper presents a novel method for detecting optokinetic nystagmus (OKN) in young children using consumer-grade video equipment. The method involves head tracking, head stabilization, and pupil center and limbus edge tracking. The results show high sensitivity and specificity of the OKN detection method.
