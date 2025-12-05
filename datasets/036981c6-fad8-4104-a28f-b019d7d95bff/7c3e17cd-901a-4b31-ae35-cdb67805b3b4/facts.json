@@ -1,0 +1,23 @@
+[
+  "Sendust is an alloy composed of 5% aluminum, 10% silicon, and 85% iron.",
+  "The composite consists of sendust and aluminum particles dispersed in polystyrene resin.",
+  "Aluminum particle sizes used were approximately 8 \u00b5m and 50 \u00b5m.",
+  "Sendust particle size was approximately 5 \u00b5m.",
+  "The frequency range studied was from 500 MHz to 40 GHz.",
+  "Return loss less than \u221220 dB corresponds to absorption of more than 99% of incident power.",
+  "The composite achieved return loss below \u221220 dB over several GHz and near 20 GHz.",
+  "Volume mixture ratios of sendust and aluminum were varied while keeping total volume constant.",
+  "Complex permeability \u00b5* = \u00b5' \u2212 j\u00b5'' and permittivity \u03b5* = \u03b5' \u2212 j\u03b5'' were measured.",
+  "Eddy currents in aluminum particles contribute to the magnetic moment affecting \u00b5''.",
+  "The composite was fabricated by mixing particles in polystyrene resin dissolved in acetone, then hot-pressing at 5 MPa.",
+  "Mass densities of composites ranged from 2.1 to 2.7 g/cm\u00b3, lighter than ferrite tiles (~5.0 g/cm\u00b3).",
+  "Frequency dependence of \u00b5* can be controlled by adjusting aluminum particle size and volume mixture ratio.",
+  "The non-reflective condition relates \u00b5* and \u03b5* to minimize reflection and maximize absorption.",
+  "Measured \u03b5' values varied slightly among composites (16 to 24), \u03b5'' was almost constant.",
+  "Theoretical calculations of \u00b5' and \u00b5'' matched well with measured values for aluminum composites.",
+  "Increasing sendust volume increased \u00b5' below 10 GHz and above 20 GHz.",
+  "Increasing sendust volume increased \u00b5'' below 18 GHz but decreased it above 23 GHz.",
+  "Return loss was calculated for metal-backed single-layer absorbers with incident waves perpendicular to the surface.",
+  "Normalized \u221220 dB bandwidth was broader for composite with higher aluminum content.",
+  "The study was supported by Japan Society for the Promotion of Science and Nippon Atomized Metal Powders Corporation."
+]
