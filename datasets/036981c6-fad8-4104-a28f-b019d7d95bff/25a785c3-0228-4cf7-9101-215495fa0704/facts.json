@@ -1,0 +1,20 @@
+[
+  "The absorber achieves perfect absorption at 1.54 \u03bcm and 6.1 \u03bcm",
+  "The emissivity in the 3~5 \u03bcm wavelength range is < 0.1",
+  "The emissivity in the 8~14 \u03bcm wavelength range is < 0.06",
+  "The absorber suppresses thermal radiation in the 3~5 \u03bcm and 8~14 \u03bcm wavelength ranges",
+  "The radiative cooling capacity of the absorber is higher than the low-emissivity coating",
+  "The absorber has a radiant exitance of 2096 W/m\u00b2 in the 5~8 \u03bcm wavelength range at 500 K",
+  "The dielectric loss tangent decreases the absorptivity and increases the absorption bandwidth",
+  "The dielectric layer thickness decreases the absorptivity and increases the absorption bandwidth",
+  "The absorption spectrum at different incident angles maintains good working performance for different polarized waves at oblique incidence",
+  "The azimuthal angle has little effect on the absorption spectrum due to the good symmetry of the square element",
+  "The absorber achieves a perfect absorption peak of 99.3% at 1.54 \u03bcm",
+  "The absorber achieves a perfect absorption peak of 98.8% at 6.1 \u03bcm",
+  "The structure consists of five layers with different periods and widths",
+  "Silver is chosen as the metal material with a dielectric constant of 3.5 and loss tangent of 0.057",
+  "Polyimide is used as the dielectric material with a dielectric constant of 3.5 and loss tangent of 0.057",
+  "MgF2 is used as the dielectric material with a dielectric constant of 1.9",
+  "The thicknesses of each layer are d = 0.1 \u03bcm, d = 0.15 \u03bcm, d = 0.05 \u03bcm, d = 0.03 \u03bcm, and d = 0.027 \u03bcm",
+  "The structure is designed using CST Microwave Studio software with a finite difference time domain (FDTD) method"
+]
