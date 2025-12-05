@@ -1,0 +1,22 @@
+[
+  "Time-domain integral equations (TDIE) solved by marching-on-in-time (MOT) schemes are prone to late-time instabilities manifesting as exponentially growing oscillations.",
+  "Late-time instabilities originate from pole displacements of the system's delay differential equations into the right half-plane due to discretization errors.",
+  "The combined field integral equation (CFIE) is a linear combination of electric field integral equation (EFIE) and magnetic field integral equation (MFIE) that eliminates interior resonances.",
+  "Spatial discretization uses divergence-conforming Rao\u2013Wilton\u2013Glisson (RWG) vector basis functions defined on triangular patches.",
+  "Fixed Gaussian quadrature rules for spatial integration can be inefficient and imprecise for interactions between distant or neighboring basis functions.",
+  "Adaptive partitioning of triangular patches is proposed to improve precision and efficiency of numerical quadratures.",
+  "Stability analysis based on delay differential equations (DDE) shows that matching the order of time integration and interpolation is essential for stable TDIE solvers.",
+  "Subdomain time basis functions with analytical derivatives extend the stable region significantly, especially for small time steps.",
+  "Entire-domain orthogonal weighted Laguerre polynomials yield unconditionally stable schemes for time discretization.",
+  "The paper presents a generalized framework for time discretization of EFIE, MFIE, and CFIE enabling consistent comparison and implementation.",
+  "The marching-on-in-time procedure solves a linear system at each time step with a time-independent coefficient matrix and time-dependent excitation vector.",
+  "Numerical results are validated by comparison with the finite integration technique (FIT).",
+  "Galerkin's testing procedure is used for spatial discretization, employing the same basis functions for expansion and testing.",
+  "The paper discusses derivative forms of EFIE (DEFIE) and alternative MFIE formulations for improved numerical properties.",
+  "Retarded time is handled explicitly in the integral equations, with temporal variations separated from spatial quadratures.",
+  "The paper provides detailed formulas for matrix elements and excitation terms needed for numerical implementation.",
+  "Continuous time basis functions allow closed-form evaluation of time derivatives, reducing numerical errors.",
+  "Late-time instabilities are linked to the singularity expansion method poles drifting due to numerical approximations.",
+  "The paper includes a comprehensive review of temporal discretization methods and their stability properties in electromagnetic scattering.",
+  "The proposed adaptive quadrature scheme partitions source triangles into subtriangles to control integration precision."
+]
