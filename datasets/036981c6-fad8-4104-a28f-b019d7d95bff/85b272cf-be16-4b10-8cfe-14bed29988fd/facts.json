@@ -1,0 +1,17 @@
+[
+  "2019PhotonIcs&ElectromagneticsResearchSymposium\u2014Fall(PIERS\u2014FALL),Xiamen,China,17\u201320December Ultra-wideband Characteristic Basis Function Method Merging the Secondary Level Characteristic Basis Functions for Rapid Computation of Wideband Scattering Problems from Conducting Targets Wenyan Nie1, Zhonggen Wang2, and Chenlu Li3 1College of Mechanical and Electrical Engineering, Huainan Normal University Huainan, Anhui 232001, China 2College of Electrical and Information Engineering, Anhui University of Science and Technology Huainan, Anhui 232001, China 3School of Electronic Information and Electrical Engineering, Hefei Normal University Hefei, Anhui 230601, China Abstract\u2014 The improved ultra-wideband characteristic basis function method (IUCBFM) is one of the most popular numerical methods used for the solution of wideband electromag- netic scattering problems",
+  "However, the solution using either the MoM [1] or other methods [2\u20135] requires the calculations to be executed at each frequency point",
+  "In [6], model-based parameter estimation (MBPE) is used to obtain the wideband data from frequency and frequency-derivative data",
+  "In [7], impedance interpolation technology is used to analyze the wideband electromagnetic scattering problems",
+  "In [8], asymptotic waveform evaluation (AWE) technol- ogy is used to predict the RCS over a band of frequencies",
+  "In [9], an ultra-wideband CBFM (UCBFM) is proposed to analyze the wideband electromagnetic scattering problems",
+  "In [10], a singular value decomposition (SVD) enhanced IUCBFM (SVD-IUCBFM) is proposed to reduce the number of matrix equation solutions",
+  "As the MUCBF incorporates the effect of PCBFs and 2321 Authorized licensed use limited to: University of Exeter",
+  "Downloaded on June 18,2020 at 07:01:29 UTC from IEEE Xplore",
+  "2019PhotonIcs&ElectromagneticsResearchSymposium\u2014Fall(PIERS\u2014FALL),Xiamen,China,17\u201320December SCBFs, fewer matrix equation solutions are required and the number of the CBFs is reduced but the accuracy does not change significantly compared to that of the SVD-IUCBFM",
+  "MERGED ULTRA-WIDEBAND CHARACTERISTIC BASIS FUNCTION METHOD IntheSVD-IUCBFM[10], thenumberofmatrixequationsolutionsrequiredtoconstructtheCBFs is3K\u00d7M, 3K\u00d7M CBFscanbeobtained, whereK isnumberofCBFsretainedoneachblock, and M is the total number of blocks",
+  "(1) and (2)",
+  "Z JS1= V (1) ii ij ij V = \u2212Z JP (2) ij ij jj where Z represents the impedance matrix between i and j blocks, JP is the PCBFs matrix, and ij ii JS1 is the SCBFs of extended block i (i (cid:54)= j)",
+  "(3) as follow: (cid:88)M (cid:88)M Z JP + Z JS1 = Z J ii ii ii ij ii ij j=1(j(cid:54)=i) j=1 \u2261 Z JMP ii ii (cid:88)M (3) = ENew + V ii ij j=1(j(cid:54)=i) (cid:88)M = ENew \u2212 Z JP ii ij jj j=1(j(cid:54)=i) The MUCBF (JMP) of block i can be obtained by directly solving Eq",
+  "(3), the total number of ii MUCBFs is reduced to KM"
+]
