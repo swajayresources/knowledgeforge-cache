@@ -1,0 +1,22 @@
+[
+  "The AVBSPR system is based on a five-axis SCROBOT-ER VII robot with an eye-in-hand stereoscopic image capture module.",
+  "Surgical markers are composed of three IR emitters arranged in a triangle with unequal side lengths.",
+  "The system uses two CCD cameras with 640x480 resolution to capture stereoscopic images.",
+  "A targeting window of 120x160 pixels is defined within the camera images for tracking.",
+  "3D coordinates are computed by triangulating the image coordinates from the two cameras using geometric formulas.",
+  "Fuzzy logic is employed for image servo tracking to dynamically track moving surgical markers and generate motor velocity commands.",
+  "The fuzzy control model uses inputs of relative distance (in pixels) and angle (in degrees) to output motor velocity commands.",
+  "The system achieves a positioning error of approximately 5 mm within a 2000 mm operating range.",
+  "The DSP module used is the TI TMS 320C32 processor, implementing PID control, forward and inverse kinematics.",
+  "The system's sampling rate and control command frequency is approximately 30 Hz (1/30 second).",
+  "The control circuit includes a DSP-based servo motion controller, multi-axis control and communication board, and power drive modules.",
+  "The intelligent software modules are developed in Microsoft Visual C++ and integrated into a GUI.",
+  "Experimental tests show the robot can track surgical markers well with positioning errors around 5 mm.",
+  "The fuzzy logic controller is decoupled into horizontal and vertical motion models with separate rule tables.",
+  "The system prototype is intended for navigation in orthopedic surgeries.",
+  "The system can reset the robot arm to a pre-specified position and then capture stereoscopic images for tracking.",
+  "The fuzzy logic controller uses fuzzification, rule base categorization, inference engine, and defuzzification steps.",
+  "The surgical marker's triangular configuration allows unique determination of position and orientation.",
+  "The system integrates image processing, encoder feedback, and position and velocity control in a closed loop.",
+  "The paper reports that the system can dynamically track moving surgical markers and determine best image capture orientation in real-time."
+]
