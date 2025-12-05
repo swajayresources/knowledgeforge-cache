@@ -1,0 +1,22 @@
+[
+  "Magnetic and electric surface currents are induced at the inner boundary of a cylindrical invisibility cloak by incoming electromagnetic waves.",
+  "These surface currents have no counterparts in the coordinate transformation theory.",
+  "Electromagnetic fields can penetrate into the concealed region under specified conditions but carry no power.",
+  "The field distribution inside the cloak can be unsymmetrical when a circularly polarized wave is obliquely incident.",
+  "The far-field scattering for a nonideal cylindrical cloak increases with material loss.",
+  "The cloak layer is an anisotropic and inhomogeneous medium with specific permittivity and permeability tensors.",
+  "The ideal cloak parameters satisfy \u03b5_\u03c6/\u03b5_r = \u03bc_\u03c6/\u03bc_r = (r-R_1)/(r), where R_1 and R_2 are inner and outer radii.",
+  "The cloak achieves perfect invisibility for both normal and oblique incidence of plane waves.",
+  "Discontinuities of tangential electric and magnetic fields at the inner boundary induce surface currents.",
+  "Extending the inner boundary inward distributes the surface current over a finite region rather than concentrating it at a boundary.",
+  "No electromagnetic power penetrates into the concealed region even when fields do.",
+  "The cloak must be infinitely long along the cylinder axis to fully shield a 3D object.",
+  "Increasing loss tangent from 0.001 to 1 increases scattering and shifts the angle of minimum scattering.",
+  "The tangential Poynting power at the inner boundary of a cylindrical cloak is not zero, unlike in spherical cloaks.",
+  "The cloak's response is analyzed using full-wave scattering theory and cylindrical wave expansions.",
+  "The induced surface currents act like a perfect magnetic conductor at the inner boundary.",
+  "The cloak's invisibility is sensitive to mismatches in constitutive parameters.",
+  "The cloak's field distribution inside is asymmetric for oblique circularly polarized incidence.",
+  "The scattering coefficients converge slowly for the zeroth order mode due to surface currents.",
+  "The cloak's design is based on coordinate transformation of empty space into a shell surrounding the object."
+]
