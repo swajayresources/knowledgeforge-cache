@@ -1,0 +1,22 @@
+[
+  "The paper was published in 1992 by Tom Cwik at the Jet Propulsion Laboratory, Caltech.",
+  "Parallel supercomputers consist of interconnected microprocessors, often hundreds to thousands, achieving performance rivaling or surpassing conventional supercomputers.",
+  "Flynn's taxonomy classifies computer architectures into SISD, SIMD, MIMD, and MISD; MIMD is most relevant for current parallel machines.",
+  "Shared-memory machines have fewer processors (1-64) with large shared memory; distributed-memory machines have many processors each with local memory.",
+  "Distributed-memory machines can have hypercube or mesh topologies for processor interconnection.",
+  "Coarse-grained distributed-memory machines typically operate in MIMD mode with 8 to 4000 processors and 4 to 64 MB memory per processor.",
+  "Fine-grained machines operate in SIMD mode with thousands to over 100,000 simple processors and small memory per processor.",
+  "Problem decomposition divides the computational domain into grains, each mapped to a processor with associated memory.",
+  "Load imbalance occurs when grain sizes vary, reducing parallel efficiency due to some processors idling.",
+  "FDTD uses a regular Cartesian grid allowing straightforward block decomposition with minimal communication limited to block boundaries.",
+  "Field updates in FDTD comprise over 90% of computation time; communication overhead is small due to volume-to-surface scaling.",
+  "Radiation condition enforcement and radar cross section (RCS) calculations in FDTD are less load-balanced and reduce efficiency slightly.",
+  "Finite element method uses unstructured mesh leading to irregular problem domains and sparse matrices with less straightforward decomposition.",
+  "Sparse matrices in FEM have very few nonzero entries per row (<100) but can be very large (rank >100,000).",
+  "Parallel FEM decomposition involves dividing mesh data, computing sparse matrix entries locally, solving the sparse system, and calculating RCS.",
+  "Loosely synchronous parallel computations require processors to synchronize periodically for data exchange.",
+  "Fixed-grain scaling allows solving larger problems as processors increase, maintaining constant data per processor.",
+  "Fixed-size scaling solves the same problem on more processors, reducing time but increasing communication overhead.",
+  "Communication overhead limits scalability, leading to diminishing returns beyond a certain number of processors.",
+  "The paper suggests that future system software may assist in automatic problem decomposition, but currently, user intervention is needed."
+]
