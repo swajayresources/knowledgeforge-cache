@@ -1,0 +1,22 @@
+[
+  "Bistatic radar cross section (RCS)",
+  "RCS reduction (RCSR)",
+  "Checkerboard metasurface",
+  "Plasma electromagnetic surface (PES)",
+  "Frequency selective surfaces (FSS)",
+  "Phase cancellation",
+  "Reflection phase",
+  "Drude dielectric model",
+  "Plasma frequency",
+  "Collision frequency",
+  "Equivalent circuit model",
+  "Wideband reduction",
+  "Wide-angle scattering",
+  "TE polarization",
+  "TM polarization",
+  "Monostatic RCS",
+  "Bistatic RCS",
+  "Non-absorptive design",
+  "Reconfigurable structure",
+  "Figure of Merit for Bistatic RCS Reduction (FMB)"
+]
