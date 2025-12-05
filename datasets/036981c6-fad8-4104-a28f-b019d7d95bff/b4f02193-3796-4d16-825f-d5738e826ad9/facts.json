@@ -1,0 +1,18 @@
+[
+  "The paper proposes a novel metamaterial absorber based on Minkowski fractal patch configuration for X-band applications.",
+  "The proposed absorber achieves broader absorption bandwidth with minimum thickness.",
+  "The Minkowski fractal patch configuration is a fractal model constructed using a recursive procedure.",
+  "The indentation factor (i/j) affects the resonant frequency and space filling property of the fractal.",
+  "Several unit cells with dimensions optimized for resonance at closely spaced frequencies are used in the proposed absorber.",
+  "The optimum thickness of the substrate is 0.4 mm.",
+  "Configuration#2 has increased absorption with a wider bandwidth compared to configuration#1.",
+  "The MSK patch with the least reflection coefficient resonates at 9.9 GHz.",
+  "The percentage of power absorbed by configuration#2 over a bandwidth of approximately 1 GHz is greater than 75%.",
+  "The paper uses full wave simulation software to analyze the performance of the proposed absorber.",
+  "The substrate is made of commercially available FR-4 material.",
+  "The metallic portions of the absorber are modeled using copper layer of thickness 0.02 mm.",
+  "The parametric study is carried out to identify the optimum thickness of the substrate.",
+  "The paper compares the absorption characteristics of configuration#1 and configuration#2.",
+  "The proposed absorber has a miniaturized RAS model with substrate thickness not exceeding 0.4 mm.",
+  "The paper uses Minkowski fractal geometry in the design of the absorber."
+]
