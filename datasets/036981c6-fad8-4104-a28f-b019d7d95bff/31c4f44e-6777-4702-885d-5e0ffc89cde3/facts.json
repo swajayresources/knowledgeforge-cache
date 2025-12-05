@@ -1,0 +1,22 @@
+[
+  "The invisibility cloak conceals a macroscopic object up to 2 mm tall, over 3500 wavelengths at visible light.",
+  "The cloak is made from two pieces of natural calcite crystals cemented back-to-back.",
+  "Calcite's birefringence provides two principal refractive indices: approximately 1.48 and 1.66 for green light at 561 nm.",
+  "The cloak operates in a transparent liquid environment with refractive index about 1.57.",
+  "The design uses transformation optics to guide light around the object, restoring both reflection angle and position.",
+  "The cloak works for light polarized with magnetic field parallel to the horizontal plane.",
+  "The cloak's geometry is trapezoidal with a small triangular indentation underneath to hide the object.",
+  "Experimental validation used laser diodes at wavelengths 488 nm (blue), 561 nm (green), and 650 nm (red).",
+  "Color aberrations cause small lateral shifts (~4-5% of object height) at blue and red wavelengths.",
+  "The cloak was tested at incident angles of 0\u00b0, 18\u00b0, and 40\u00b0, with best performance at lower angles.",
+  "The cloak eliminates energy loss issues associated with metal-based metamaterials.",
+  "The cloak was fabricated using conventional optical lens fabrication techniques and low-cost materials.",
+  "The bottom surface of the cloak was polished and coated with silver to serve as a reflective ground plane.",
+  "The cloak can hide any object smaller than the steel wedge placed under it.",
+  "The cloak currently works only in 2D geometry and for a single polarization.",
+  "The cloak's anisotropic refractive indices are designed by diagonalizing the permittivity tensor derived from the coordinate transformation.",
+  "The cloak's crystal axis orientation is approximately 37.5\u00b0 relative to the vertical plane for green light.",
+  "The front, back, and top surfaces of the cloak were painted black to absorb scattered light.",
+  "The cloak design avoids the lateral shift problem found in quasiconformal carpet cloaks.",
+  "The cloak was experimentally shown to transform a deformed mirror surface into a flat one from the observer's perspective."
+]
