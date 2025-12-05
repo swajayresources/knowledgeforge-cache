@@ -1,0 +1,17 @@
+[
+  "Composite Structures 16 (1990) 171-192 Developments in the Acoustic Fatigue Design Process for Composite Aircraft Structures R",
+  "White Institute of Sound and Vibration Research, Universityo f Southampton, Southampton, Hants SO9 5NH, UK ABSTRACT A current approach to the acoustic fatigue analysis of composite structures is reviewed which is based upon the single mode method used previously for metallic aircraft structures",
+  "1 INTRODUCTION The use of composite materials in aircraft structures has increased considerably in recent years and some trends in the use of carbon com- posites are given in Fig",
+  "However, the industry- based data given by Lowson 1 clearly show that the use of composite materials for aircraft structures, both in the military and civil sectors, is increasing and is likely to continue to increase in the future",
+  "There is obviously a need to design composite aircraft structures and components to adequately resist dynamic loading and part of this is the high 171 Composite Structures 0263-8223/90/S03",
+  "50 \u00a9 1990 Elsevier Science Publishers Ltd, England",
+  "Printed in Great Britain 172 R",
+  "White 60 % Weight 50 Military Aircraft 40 30 Helicopters Civil Aircraft 20 10 I I 1970 1980 1990 2000 2010 Fig",
+  "Carbon fibre Acoustic fatigue analysis of composite structures 173 reinforced plastics (CFRP) are used in this type of application and constructions of this type are very likely to be exposed to much higher levels of jet noise than before at elevated temperatures, particularly in military aircraft",
+  "2 PREDICTION OF THE RESPONSE OF PLATES TO RANDOM ACOUSTIC LOADING The terms 'plate' or 'panel' are used commonly by those working in the acoustic fatigue field",
+  "It is often the case that a plate with practical boundary conditions, described as well as possible but controlled by experimental limitations, used in laboratory 174 R",
+  "1 The basis of the method The forced vibration of a plate by a sound field has been examined by many workers but a good statement of the problem is given by Clarkson 2, 3 who simplified the multi-modal response prediction problem and developed the method which has been used for dynamic response prediction of metallic, panel-type structures",
+  "Assuming that the response of a panel-type structure can be represented by a plate which is vibrating predominantly in its fundamental mode, then the mean square bending stress at the point of interest is given by: 3r o (t)= ~- f, Gp(f,) 02 (1) where o 0 is the stress at the point of interest due to a uniform unit static pressure of unit magnitude; ~ is the equivalent viscous damping ratio associated with the fundamental resonance; fl is the resonance frequency of the fundamental mode (Hz); Gr(fl ) is the excitation pressure spectral density at frequency f~",
+  "The value ascribed to the equivalent viscous damping ratio, ~, is obviously very important and for metallic structures without special damping treatments a value of ~ = 0",
+  "017 has been successfully assumed to be typical"
+]
