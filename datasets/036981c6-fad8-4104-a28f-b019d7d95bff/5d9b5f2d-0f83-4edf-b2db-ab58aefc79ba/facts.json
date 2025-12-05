@@ -1,0 +1,22 @@
+[
+  "Carbonyl iron powder with particle size mostly between 4-7 micrometers is used as magnetic filler.",
+  "EPDM rubber serves as the matrix material for the radar absorbing material.",
+  "Effective complex magnetic permeability and dielectric permittivity increase with carbonyl iron volume fraction.",
+  "Reflection loss decreases from -1.3 dB to -23.9 dB as carbonyl iron volume fraction increases from 0 to 0.45 at 3.0 mm thickness.",
+  "Frequency of minimum reflection loss shifts from 15.5 GHz to 3.5 GHz with increasing carbonyl iron content.",
+  "Increasing RAM thickness shifts the minimum reflection loss frequency to lower bands but reflection loss is not proportional to thickness.",
+  "Two dielectric loss peaks at approximately 9.0 GHz and 15.0 GHz correspond to relaxation polarization and electric conductance losses.",
+  "Pure EPDM rubber shows nearly constant dielectric permittivity (~1) and magnetic permeability (~2.5) with negligible losses.",
+  "Impedance matching degree is defined as the normalized input impedance ratio between RAM surface and free space.",
+  "Optimal impedance matching minimizes reflection loss and maximizes microwave absorption.",
+  "Reflection loss bandwidth at -10 dB is about 4.0 GHz for carbonyl iron volume fractions of 0.3 and 0.45.",
+  "The RAM samples were prepared by mixing fillers and matrix in a two-roll mixer, vulcanized at 140 \u00b0C for 10 minutes.",
+  "Measurements were conducted using an HP8722ET vector network analyzer and APC-7 coaxial transmission line.",
+  "Magnetic loss increases with frequency due to magnetic retardation effects.",
+  "The RAM is a metal-backed single-layer absorber designed to reduce electromagnetic wave reflection by impedance matching.",
+  "Carbonyl iron has a high Curie temperature and good temperature stabilization, favorable for RAM applications.",
+  "The reflection loss depends on a combination of six parameters including complex permeability, permittivity, thickness, frequency, and wave properties.",
+  "The study confirms that increasing carbonyl iron content and optimizing thickness improves microwave absorption performance.",
+  "The dielectric permittivity and magnetic permeability of the RAM do not follow simple linear mixing laws due to differences between matrix and filler materials.",
+  "The RAM shows a single-peaked reflection loss curve with peak absorption frequency decreasing as carbonyl iron content or thickness increases."
+]
