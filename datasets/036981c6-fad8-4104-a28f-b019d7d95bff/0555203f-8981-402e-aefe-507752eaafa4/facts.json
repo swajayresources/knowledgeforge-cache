@@ -1,0 +1,22 @@
+[
+  "The paper was published in IEEE Journal of Oceanic Engineering, Vol. OE-12, No. 2, April 1987.",
+  "Radar cross section reduction is achieved by multiple passive impedance loadings on conducting thin-wire scatterers.",
+  "The method of moments is used to solve for induced currents on the scatterer.",
+  "Biquadratic programming is applied as an iterative optimization method to find optimal passive impedances.",
+  "Single impedance loading becomes less effective as the wire length increases.",
+  "Loads must be placed where the induced current is non-zero for effective scattering control.",
+  "For a straight wire, loads spaced every 0.5 to 0.7 wavelengths are needed for near-zero RCS.",
+  "A circular loop scatterer showed near-zero backscattering cross section with one to three loads for loop lengths up to about 3 wavelengths.",
+  "For longer loops (~5 wavelengths), more loads are necessary to achieve significant RCS reduction.",
+  "Experimental measurements for a circular loop with two loads agreed well with numerical results.",
+  "A rectangular wire frame with nine loads (six independently adjusted) reduced RCS from 10.6 \u03bb\u00b2 to 0.08 \u03bb\u00b2 after 12 iterations.",
+  "Passive loads have non-negative resistance (R_L \u2265 0) ensuring energy dissipation or storage without amplification.",
+  "The bistatic radar cross section is calculated from the far-field scattered electric field component.",
+  "The iterative biquadratic programming method updates one load impedance at a time, analytically minimizing RCS at each step.",
+  "The radar cross section decreases monotonically during the iterative optimization process.",
+  "The method can be applied to arbitrarily shaped thin-wire scatterers.",
+  "Radar echo enhancement can be treated similarly by the developed formulation.",
+  "The method of moments reduces integral equations to a system of linear equations for unknown currents.",
+  "The paper includes numerical examples for straight wires, circular loops, and rectangular wire frames.",
+  "Load placement is critical; placing loads at current nulls is ineffective for RCS reduction."
+]
