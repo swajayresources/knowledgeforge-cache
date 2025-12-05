@@ -1,0 +1,22 @@
+[
+  "Scarf repairs restore higher strength than bonded overlap repairs due to lower adhesive stress concentrations.",
+  "Typical scarf taper angles for thick composite repairs are around 3 degrees to keep adhesive shear stress below 30 MPa.",
+  "The paper formulates governing differential equations for adhesive shear and peel stresses with variable scarf angle.",
+  "A finite difference algorithm is used to solve the governing equations due to singularities at joint ends.",
+  "Finite element models use MSC Nastran 2000 and MSC Patran 2003 with plane strain TRIA3 elements for isotropic adherends and WEDGE6 elements for composite adherends.",
+  "Adherend thickness in models is about 3 mm; adhesive thickness is 0.2 mm.",
+  "Adherend materials modeled include aluminum 7075-T6 and IM7/977-3 carbon epoxy prepreg composite.",
+  "Adhesive properties are based on CYTEC FM73 film adhesive.",
+  "Optimized scarf angle profiles vary linearly along the joint length to minimize peak adhesive shear stress.",
+  "The optimal maximum to minimum scarf angle ratio increases as the modulus ratio between adherends decreases.",
+  "Using a low modulus patch reduces adhesive stress by deflecting load away from the adhesive layer.",
+  "Adhesive shear stress distributions predicted analytically closely match finite element analysis results.",
+  "Ply orientation in composite adherends significantly influences adhesive stress distribution.",
+  "The study confirms Hart-Smith's observation that peak adhesive shear stress ratio approaches the adherend modulus ratio in dissimilar adherends.",
+  "The optimized scarf repair reduces the amount of undamaged parent material removal compared to conventional scarf repairs.",
+  "The study includes sensitivity analyses for isotropic and orthotropic adherend combinations.",
+  "The adhesive layer is modeled as a combination of shear and tension spring elements in the analytical formulation.",
+  "The scarf joint geometry assumes small adherend thickness compared to length and width.",
+  "The study uses boundary conditions where adhesive displacement is zero at one end and matches applied load at the other.",
+  "The optimized scarf repair method is applicable to primary composite aircraft structures where damage tolerance is critical."
+]
