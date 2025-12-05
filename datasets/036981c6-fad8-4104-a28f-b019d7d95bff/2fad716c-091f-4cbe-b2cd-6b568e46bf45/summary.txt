@@ -1,0 +1,1 @@
+Reconfigurable Surface Design for Electromagnetic Wave Control Fereshteh Samadi, and Abdelrazik Sebak Electrical and Computer Department, Concordia University, Montreal, Quebec H3G 1M8, Canada F_samadi@encs ca, abdo@ece ca Abstract— A reconfigurable surface, for electromagnetic (EM) of active unit-cells loaded by PIN diodes
