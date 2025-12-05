@@ -1,0 +1,20 @@
+[
+  "The paper proposes a machine learning-based approach to reduce the electromagnetic signature of ferromagnetic vessels.",
+  "The method used is ridge regression, a type of machine learning algorithm.",
+  "The approach is efficient in terms of computational efforts, speed, and accuracy.",
+  "Over 90% reduction in signature is achieved using the proposed approach.",
+  "The approach is validated on a simulated model of a prototype submarine.",
+  "21 tri-axial DG coils are used in the simulation.",
+  "The relative permeability of the ferromagnetic tube is 200.",
+  "The thickness of the ferromagnetic tube is 0.1 mm.",
+  "The length of the ferromagnetic tube is 20 mm.",
+  "The outer radius of the ferromagnetic tube is 1.4 mm.",
+  "The reference current used to compute the individual coil effects is 3 A.",
+  "The magnetostatic solver of Opera-3D is used to predict the DG OFF magnetic signature.",
+  "Opera software is used to validate the proposed approach.",
+  "The longitudinal component is reduced by 84.78% when DG coils are placed inside the hull.",
+  "The longitudinal component is reduced by 75.17% when DG coils are placed outside the hull.",
+  "The arthwartship and vertical components are also significantly reduced.",
+  "The proposed approach handles multicollinearity issues and provides a stable solution.",
+  "The ridge regression approach is computationally efficient and fast."
+]
