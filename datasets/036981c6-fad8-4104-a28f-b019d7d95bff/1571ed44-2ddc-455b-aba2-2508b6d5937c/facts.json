@@ -1,0 +1,22 @@
+[
+  "The composite WAM broadens absorption bandwidth to 112% covering 3.9\u201313.9 GHz.",
+  "Absorption rate exceeds 90% over both C and X bands.",
+  "The composite WAM consists of a traditional absorber layer and a dual-band FSS layer formed by a square ring and Jerusalem cross.",
+  "The FSS is printed on FR4 substrate with \u03b5r = 4.4 and loss tangent 0.025.",
+  "The absorber material (TP-15D) has dielectric constant \u03b5r = 20.3 and magnetic permeability \u03bcr = 3.55.",
+  "Replacing the metallic ground of a Vivaldi antenna with the composite WAM reduces RCS by up to 24 dB at 9.4 GHz.",
+  "Average RCS reduction of over 10 dB is achieved from 2 to 18 GHz.",
+  "RCS reduction is effective over incident angles from \u221280\u00b0 to 80\u00b0, except for minority angles.",
+  "Radiation gain loss of the antenna with WAM ground is less than 1 dB compared to metallic ground.",
+  "The composite WAM thickness is 2.5 mm, thinner than some comparable absorbers.",
+  "The original absorber bandwidth was 66% before adding the FSS layer.",
+  "Surface current density and magnetic field intensity are enhanced at resonance frequencies due to the FSS.",
+  "The Vivaldi antenna used has dimensions La=60.5 mm, Wa=40 mm, substrate \u03b5r=2.65, thickness 1 mm.",
+  "Simulated and measured results show good agreement for RCS and radiation patterns.",
+  "The composite WAM maintains antenna impedance bandwidth from 2.3 to 15 GHz (measured).",
+  "The equivalent circuit model relates the FSS geometry to inductance and capacitance controlling resonance.",
+  "The composite WAM achieves better performance than recent works with 94.3%, 108%, and 77% bandwidths.",
+  "The RCS measurement setup uses six pairs of horn antennas to cover 2\u201318 GHz.",
+  "The composite WAM converts incident electromagnetic energy into heat, reducing reflected radar signals.",
+  "The study uses HFSS software for electromagnetic simulation and optimization."
+]
