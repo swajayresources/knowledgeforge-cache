@@ -1,0 +1,22 @@
+[
+  "The study uses a 2-layer D\u00e4llenbach type radar absorber design with composite laminates as lossy layers.",
+  "Carbon nanotubes (CNT) were added to epoxy resin at weight percentages of 1.5, 2.0, 3.0, 3.5, and 4.0 wt% to control electromagnetic properties.",
+  "E-glass fabric used is plain weave with fiber counts of 60 and 57 yarns/in warp and fill directions, respectively, and fiber aerial weight of 107 g/m2.",
+  "Composite laminates were cured in an autoclave at 80 \u00baC for 30 minutes and 120 \u00baC for over 2 hours.",
+  "Nominal ply thickness is about 0.111 \u00b1 0.02 mm, increasing slightly with CNT content.",
+  "Complex permittivity was measured from 0.5 to 18 GHz using a vector network analyzer and coaxial airline.",
+  "The characteristic impedance and propagation constant in the absorber layers depend on complex permittivity; permeability is assumed unity.",
+  "Optimization targeted reflection loss at 10 GHz, the center frequency of the X-band (8.2\u201312.4 GHz).",
+  "Genetic algorithm was used to optimize ply numbers and CNT content for minimal reflection loss.",
+  "The optimized design for CASE 1 had 32 plies of pure E-glass/epoxy and 11 plies of CNT composite with 5.27 wt% CNT.",
+  "Measured laminate thicknesses were 2.88 mm for the first layer and 1.40 mm for the second layer, close to design values.",
+  "The fabricated absorber achieved a -10 dB reflection loss bandwidth of 7.4 GHz.",
+  "Discrepancies between design and measurement were attributed to discrete ply thickness and permittivity differences.",
+  "The reflection loss curve shows two peaks; the spacing between these peaks affects broadband absorption performance.",
+  "CNTs are mainly distributed in the resin-rich areas between E-glass fibers, enhancing electrical conductivity.",
+  "The epoxy resin was diluted with acetone to lower viscosity and allow higher CNT loading before evaporation.",
+  "The complex permittivity model includes frequency-dependent dielectric constant and conductivity terms fitted semi-empirically.",
+  "The input impedance of each layer is calculated recursively using transmission line theory.",
+  "The reflection coefficient formula incorporates characteristic impedance and propagation constant of each layer.",
+  "The study confirms that controlling electromagnetic properties and layer thickness is critical for broadband radar absorption."
+]
