@@ -1,0 +1,17 @@
+[
+  "The paper presents a direct calculation method for electromagnetic wave scattering through layered rough surfaces using the Method of Moments (MoM).",
+  "MoM is a numerical method that discretizes the surface into small patches and solves integral equations for induced currents.",
+  "The study considers both deterministic and stochastic (random) rough surfaces, with a focus on Gaussian-type rough surfaces.",
+  "Two basic types of roughness are considered: a perfect electric conductor (PEC) in free space and a boundary between two dielectric media.",
+  "The equations used are based on the scalar solution of Green\u2019s theory, Helmholtz equations, and Hankel type Green functions as kernels.",
+  "The accuracy of the MoM method is validated by comparing results with asymptotic approaches and analytical solutions.",
+  "Simulations are conducted to test the feasibility of the algorithms and to validate the results.",
+  "The findings have practical applications in radar cross-section prediction, remote sensing, and the design of communication systems involving interactions with layered surfaces.",
+  "Challenges include the increased complexity due to multiple layers with different properties and the rough surface causing diffraction and scattering.",
+  "The direct problem involves determining the field distribution in the whole space given the surface profile and medium parameters.",
+  "Surface roughness is modeled as either deterministic or arising from a stationary stochastic random process.",
+  "Key parameters affecting scattering behavior include surface roughness, material properties, and layer configuration.",
+  "MoM allows for a detailed analysis of electromagnetic interactions at a fine level and handles complex geometries and layered structures.",
+  "The study is limited to one-dimensional rough surfaces and may require further validation for more complex, multi-dimensional scenarios.",
+  "Future research directions include exploring advanced computational techniques, investigating specific material properties, and addressing identified challenges."
+]
