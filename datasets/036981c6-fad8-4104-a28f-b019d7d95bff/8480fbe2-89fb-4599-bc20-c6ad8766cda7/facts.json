@@ -1,0 +1,22 @@
+[
+  "The invisibility cloak uses fractal metamaterials arranged in two layers around a copper cylindrical mirror.",
+  "The cloak's outer diameter is approximately 29 inches, enclosing a cloaking region about 24 inches in diameter and 4 feet tall.",
+  "The cloak operates over a microwave frequency band from 500 MHz to 1500 MHz, achieving over 50% bandwidth.",
+  "Fractal resonators have footprints of 2.3\u00d71.7 cm (inner layer) and 2.7\u00d72 cm (outer layer) with close spacing to enable broadband performance.",
+  "The cloak thickness is about 1/6th of a wavelength at the lower frequency edge, making it a thin-skin design.",
+  "A human subject approximately 4 feet tall and 15 inches wide was fully volumetrically cloaked inside the device.",
+  "Signal attenuation caused by the uncloaked subject was roughly -25 dB compared to the direct path.",
+  "With the cloak, the subject's microwave signal was restored to within about 1 dB of the direct path over half the frequency spectrum.",
+  "Control tests with a metal cylinder of the same size showed substantial attenuation, confirming the cloak's effect is not due to diffraction alone.",
+  "The inner copper cylinder alone blocks the signal and does not produce cloaking.",
+  "The two fractal metamaterial layers alone do not produce cloaking; the combination with the copper mirror is essential.",
+  "The cloaking effect is attributed to plasmonic transfer involving surface or evanescent waves on fractal resonators.",
+  "The cloak design was achieved experimentally without computational optimization due to complexity.",
+  "Transformational optics theory has not predicted such large, broadband, high-fidelity cloaks; fractal metamaterials extend practical capabilities.",
+  "The cloak's design uses fractal motifs (rectangular Minkowski/Koch iteration two) to achieve low-Q, broadband response.",
+  "The cloak was tested using log-periodic fractal antennas and vector network analyzers in an anechoic chamber.",
+  "Multipath and ground reflections were minimized to ensure measurement accuracy.",
+  "The cloak represents a milestone in diverted imaging capabilities: electrically large, broadband, and high fidelity.",
+  "The technology is potentially scalable to infrared and visible wavelengths.",
+  "The cloak achieves a 'see-through' effect by diverting microwaves around the cloaked object to the antipodal side."
+]
