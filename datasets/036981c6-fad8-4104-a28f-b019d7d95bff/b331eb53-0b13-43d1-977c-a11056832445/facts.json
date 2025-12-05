@@ -1,0 +1,17 @@
+[
+  "The RAS shells were fabricated into 'C' and 'U' shapes.",
+  "The absorbing layer is made of glass fiber/epoxy/carbon-black (5 wt%).",
+  "The reflection layer is made of carbon fiber/epoxy.",
+  "Sixteen plies of glass fiber/epoxy/carbon-black prepreg were used at the bottom.",
+  "Eight plies of carbon fiber/epoxy prepreg were used on top.",
+  "The RAS shells were cured in an autoclave for 2 hours at 120\u00b0C and 5.5 atm pressure.",
+  "Spring-back was compensated using aluminum molds with additional bending angles.",
+  "The average radar absorption efficiency of the hybrid RAS shells is 11 dB.",
+  "The RCS was measured using the compact range method at 10 GHz.",
+  "The RCS was predicted using the physical optic (PO) method.",
+  "The reflection coefficient of the carbon fiber/epoxy material is about 120 dB, which is considered a perfect electric conductor (PEC).",
+  "The mechanical and thermal properties used in the finite element analysis include elastic modulus, Poisson's ratio, and coefficient of thermal expansion (CTE).",
+  "The predicted RCS values matched the experimental results with an error of 6.3% for the 'C' shape and 3.5% for the 'U' shape.",
+  "The study highlights the need for further research to apply the hybrid RAS to complex military structures and severe environmental conditions.",
+  "The research was supported by the Agency for Defense Development, Brain Korea 21, and the Institute of Advanced Machinery and Design, Seoul National University."
+]
