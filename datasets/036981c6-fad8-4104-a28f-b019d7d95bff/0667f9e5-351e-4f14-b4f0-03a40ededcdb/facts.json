@@ -1,0 +1,22 @@
+[
+  "The mixed design approach (MDA) integrates radar and infrared stealth optimization for fighter intake and exhaust systems.",
+  "Physical optics (PO) and physical theory of diffraction (PTD) are used to calculate radar cross section (RCS).",
+  "Monte Carlo and ray tracing methods are applied to evaluate infrared radiation intensity.",
+  "The aircraft model includes parameters such as air inlet model, exhaust model, nozzle stages, and baffle configurations.",
+  "The standard k\u2013\u03b5 turbulence model is used for aerodynamic flow field simulation.",
+  "The objective functions minimize mean RCS, tail RCS, and infrared radiation intensity simultaneously.",
+  "The intake and exhaust system geometry significantly affects electromagnetic scattering and infrared emissions.",
+  "Nozzle baffles (lower, center, lateral) help block direct radiation and reduce detectability.",
+  "The optimized model reduced mean RCS by about 1.84 dBm\u00b2 and tail RCS by about 32.92 dBm\u00b2 compared to the initial model.",
+  "Infrared radiation in the 3\u20135 \u03bcm band is notably higher than in other atmospheric windows.",
+  "Environmental radiation effects are included in infrared signature calculations using reverse Monte Carlo methods.",
+  "The azimuth (\u03b1) and elevation (\u03b2) angles define observation geometry for stealth evaluation.",
+  "The model uses high-precision unstructured grids with local mesh refinement for flow simulation.",
+  "The MDA balances aerodynamic performance with radar and infrared stealth requirements.",
+  "Validation shows the infrared radiation calculation method closely matches reference data with minor deviations.",
+  "The aircraft intake is symmetrically located under the nose with the nozzle center above the fuselage axis.",
+  "The study uses a full factorial design method to explore parameter influences on stealth performance.",
+  "The radar cross section is calculated considering both facet and edge scattering contributions.",
+  "The infrared radiation model accounts for high-temperature exhaust gas heating the nozzle inner walls.",
+  "The study emphasizes the need for integrated stealth design due to joint radar and infrared detection threats."
+]
