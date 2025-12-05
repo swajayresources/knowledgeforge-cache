@@ -1,0 +1,22 @@
+[
+  "Carbon fibers (CFs) embedded as short yarns in glass fabric composites can reduce radar cross section (RCS) via phase cancellation.",
+  "The proposed composites achieve more than 10 dB RCS reduction from 8.7 to 19.2 GHz with a thickness of 2.7 mm.",
+  "Two patterns studied are chessboard and random arrangements of CF yarn sub-regions on the composite surface.",
+  "The RCS reduction mechanism relies on creating a 180\u00b0 phase difference between CF-loaded and pure glass fabric regions.",
+  "Short CF yarns are modeled as lossy cut-wire resonators with length 5.5 mm, width 1.0 mm, and thickness 0.06 mm.",
+  "The epoxy resin matrix is hardened by diethylenetriamine and reinforced with E-glass fabrics.",
+  "Permittivity of glass fabric composites is weakly frequency dispersive, measured from 8.2 to 12.4 GHz.",
+  "Electrical conductivity of CF yarns is assumed as 3.5\u00d710^4 S/m longitudinally and 8.9\u00d710^7 S/m transversely at 10 GHz.",
+  "Reflection measurements were performed in an anechoic chamber from 5.2 to 22 GHz under normal incidence.",
+  "Simulations show three resonant frequencies at approximately 8.8, 12.5, and 18.9 GHz with significant phase changes.",
+  "Maximum RCS reduction (>45 dB) occurs at 12.5 GHz for equal area fractions and reflection amplitudes.",
+  "Scattering contributes more to RCS reduction than absorption in these composites.",
+  "Defects removing up to ~6% of CF yarns cause only minor degradation in RCS reduction performance.",
+  "The composites can be extended to curved surfaces using non-planar pattern templates.",
+  "Fabrication uses needle punching and vacuum infusion techniques to embed CF yarns in glass fabric layers.",
+  "The proposed method avoids the need for additional functional fillers, maintaining mechanical properties.",
+  "The phase cancellation approach enables broadband RCS reduction beyond narrowband absorption methods.",
+  "The chessboard pattern produces distinct scattering beams, while the random pattern scatters more uniformly.",
+  "The study uses both analytical models and full-wave numerical simulations to design and predict performance.",
+  "The research was supported by the National Science Foundation of China."
+]
