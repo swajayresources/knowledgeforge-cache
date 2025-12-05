@@ -1,0 +1,21 @@
+[
+  "61 3500 (http://iopscience",
+  "org/0031-9155/61/9/3500) View the table of contents for this issue, or go to the journal homepage for more Download details: IP Address: 14",
+  "32 This content was downloaded on 30/06/2016 at 09:17 Please note that terms and conditions apply",
+  "61 (2016) 3500\u20133526 doi:10",
+  "1088/0031-9155/61/9/3500 61 2016 FPGA-based RF interference reduction \u00a9 2016 Institute of Physics and Engineering in Medicine techniques for simultaneous PET\u2013MRI PHMBA7 P Gebhardt1,2, J Wehner2, B Weissler2, R Botnar1, 3500 P K Marsden1 and V Schulz2,3 1 Division of Imaging Sciences and Biomedical Engineering, King\u2019s College London, P Gebhardt et al London WC2R 2LS, UK 2 Department of Physics of Molecular Imaging Systems, Institute of Experimental Molecular Imaging, RWTH Aachen University, 52062 Aachen, Germany FPGA-based RF interference reduction techniques for simultaneous PET\u2013MRI 3 Philips Research Europe, 52066 Aachen, Germany E-mail: pierre",
+  "de Printed in the UK Received 11 July 2015, revised 13 November 2015 PMB Accepted for publication 28 January 2016 Published 6 April 2016 10",
+  "1088/0031-9155/61/9/3500 Abstract The combination of positron emission tomography (PET) and magnetic resonance imaging (MRI) as a multi-modal imaging technique is considered Paper very promising and powerful with regard to in vivo disease progression examination, therapy response monitoring and drug development",
+  "However, PET\u2013MRI system design enabling simultaneous operation with unaffected 0031-9155 intrinsic performance of both modalities is challenging",
+  "As one of the major issues, both the PET detectors and the MRI radio-frequency (RF) subsystem 3500 are exposed to electromagnetic (EM) interference, which may lead to PET and MRI signal-to-noise ratio (SNR) deteriorations",
+  "Early digitization of electronic PET signals within the MRI bore helps to preserve PET SNR, 3526 but occurs at the expense of increased amount of PET electronics inside the MRI and associated RF field emissions",
+  "This raises the likelihood of PET-related MRI interference by coupling into the MRI RF coil unwanted 9 spurious signals considered as RF noise, as it degrades MRI SNR and results in MR image artefacts",
+  "By modifying clock frequencies and changing clock phase relations of digital circuits, the resulting RF field emission is Original content from this work may be used under the terms of the Creative Commons Attribution 3",
+  "0031-9155/16/093500+27$33",
+  "00 \u00a9 2016 Institute of Physics and Engineering in Medicine Printed in the UK 3500 Phys",
+  "61 (2016) 3500 P Gebhardt et al optimised with regard to a lower field coupling into the MRI RF coil, thereby increasing the RF silence of PET detectors",
+  "In this paper, we present RF interference reduction methods which rely on EM field coupling\u2013decoupling principles of RF receive coils rather than suppressing emitted fields",
+  "We present simulations and magnetic-field map scans visualising the impact of altered clock phase pattern on the spatial RF field distribution, followed by MRI noise and SNR scans performed with an operating PET module using different clock frequencies and phase patterns",
+  "In this paper, we present initial investigations of techniques which aim at the modification of the PET electronics\u2019 RF field emission",
+  "Our results obtained with frequencies of 100 MHz and 160 MHz clearly demonstrate that well chosen frequencies help to reduce PET-related RF noise, or in other words increase the RF silence of our PET detector"
+]
