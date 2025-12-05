@@ -1,0 +1,17 @@
+[
+  "The study was approved by The University of Auckland Human Participants Ethics Committee (reference C. OKN no. 2011066).",
+  "The OKN detection method involves three main steps: head tracking, head stabilization, and pupil center and limbus edge tracking.",
+  "The method uses consumer-grade video equipment to track head and eye movements.",
+  "The sensitivity and specificity of the OKN detection method are 89.13% and 98.54%, respectively.",
+  "The method compares well with results obtained from a clinically trained assessor (85%).",
+  "The OKN detection results are based on the analysis of 20 trials of video footage from five children.",
+  "The method uses a combination of head tracking, head stabilization, and pupil center and limbus edge tracking to detect OKN.",
+  "The pupil center and limbus edge tracking uses a Starburst algorithm to detect limbus edge features.",
+  "The method uses a Gabor filter to locate the pupil centroid.",
+  "The OKN detection results are based on the analysis of eye velocity signals obtained from three different methods: stabilization, direct subtraction, and Visage SDK.",
+  "The method uses a recently proposed OKN detection approach that involves quick phase fitting heuristic criteria.",
+  "The study used a commercially available head and eye tracking product (Visage SDK, Visage Technologies) for validation purposes.",
+  "The method was tested on video footage from five children with normal vision (ages 21-25 months).",
+  "The study involved a clinically trained assessor who annotated a range of frames in which quick phases appeared to be present.",
+  "The method uses a simple automatic blink detection based on pupil area measurement."
+]
