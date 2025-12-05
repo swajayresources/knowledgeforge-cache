@@ -1,0 +1,22 @@
+[
+  "p-adaptive finite element method",
+  "electromagnetic scattering",
+  "multilevel preconditioner",
+  "p-type multiplicative Schwarz (pMUS)",
+  "Whitney elements",
+  "auxiliary space preconditioning (ASP)",
+  "algebraic multigrid (AMG)",
+  "deflation",
+  "Krylov subspace methods",
+  "MINRES",
+  "complex orthogonal conjugate gradient (COCG)",
+  "hierarchical tetrahedral elements",
+  "Gauss-Seidel smoothing",
+  "frequency shift",
+  "harmonic projection",
+  "eigenvector computation",
+  "W-cycle",
+  "matrix factorization",
+  "adaptive polynomial order",
+  "scattering parameters"
+]
