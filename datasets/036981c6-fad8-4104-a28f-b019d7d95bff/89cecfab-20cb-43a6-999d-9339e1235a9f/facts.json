@@ -1,0 +1,22 @@
+[
+  "The metasurface is based on a metal cut-wire structure with a copper front layer and FR4 dielectric substrate of thickness 3.5 mm.",
+  "The basic unit cell period is 10 mm.",
+  "Element '1' is a 90\u00b0 rotation of element '0', producing a 180\u00b0 cross-polarization reflection phase difference.",
+  "Polarization conversion ratio reaches up to 90% across 6\u201314 GHz and peaks near 99% at resonance.",
+  "The metasurface achieves RCS reduction greater than 10 dB on average in the 6\u201314 GHz range.",
+  "Maximum experimental RCS reduction observed is 37 dB at 10.5 GHz.",
+  "The metasurface reduces RCS by redirecting scattered energy rather than absorbing it.",
+  "The design uses a Fabry-Perot-like resonance cavity formed by the metal layers and dielectric spacer.",
+  "Simulations and experiments show good agreement in reflectance and RCS reduction results.",
+  "RCS reduction decreases with increasing incidence angle but remains effective up to 30\u00b0.",
+  "Coding sequences 01/01 and 01/10 provide effective RCS reduction; 01/10 is polarization-insensitive.",
+  "The metasurface sample size for experiments was 400 \u00d7 400 mm\u00b2.",
+  "The metasurface is fabricated using traditional PCB technology.",
+  "The cross-polarization reflection coefficients are greater than 0.85 in the operating band.",
+  "Co-polarization reflection coefficients are substantially less than 0.3 at resonance frequencies.",
+  "The metasurface operates by controlling scattering direction through phase gradient coding.",
+  "The array factor of the metasurface is derived using planar array theory.",
+  "The metasurface is designed to reduce detection probability by infrared devices by scattering energy irregularly.",
+  "The research was supported by the National Natural Science Foundation of China and Hubei Province.",
+  "The metasurface has potential applications in stealth technology."
+]
