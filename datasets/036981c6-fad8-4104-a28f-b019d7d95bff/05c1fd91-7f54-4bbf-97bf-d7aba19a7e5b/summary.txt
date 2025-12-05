@@ -1,1 +1,1 @@
-This paper provides an analysis of modern radar absorbing materials, including resonant, non-resonant magnetic, metal screen, non-resonant bulk, and pyramidal absorbers. It highlights the advantages of radar absorbing materials based on metamaterials, which can provide broadband absorption of electromagnetic waves.
+This paper analyzes modern radar absorbing materials, focusing on their types, advantages, and disadvantages. The authors discuss the use of metamaterials, ferrites, and metal screens in radar absorbing materials, highlighting their properties and applications.
