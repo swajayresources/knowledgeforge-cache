@@ -1,0 +1,22 @@
+[
+  "UCAVs are designed to operate in contested airspace performing suppression of enemy air defenses and strike missions.",
+  "The X-47B UCAS-D demonstrator first flew in February 2011 and demonstrated autonomous carrier operations and aerial refueling.",
+  "Stealth design can increase drag significantly; the X-47B has 122 drag counts at cruise compared to 10.84 for a purely aerodynamic-optimized design.",
+  "Radar Cross Section (RCS) reduction techniques include geometric shaping, radar absorbent materials, internal weapon bays, and buried engines with serpentine inlets.",
+  "Radar absorbent materials can absorb approximately 90% of incident electromagnetic energy in the X-band while maintaining structural integrity.",
+  "The Neuron UCAV demonstrator first flew in 2012 and focuses on advanced aerodynamics, stealth, and control algorithms.",
+  "The Taranis UCAV demonstrator is designed for supersonic combat and sustained intelligence missions, involving over 250 companies in its development.",
+  "India's Aura UCAV is a lambda wing-type design expected to be operational by 2023.",
+  "China's Lijian stealth UCAV demonstrator was first tested in 2013 and features a tailless flying wing design.",
+  "Stealth involves reducing radar, infrared, visual, acoustic, and electromagnetic signatures, though complete undetectability is improbable.",
+  "Electronic countermeasures such as reactive jammers reduce power consumption and detection probability by activating only when radar signals are detected.",
+  "Internal carriage of weapons and sensors reduces radar scattering compared to external stores.",
+  "The F-117 Nighthawk\u2019s diamond wing design was optimized to minimize radar signature but required trade-offs in aerodynamics and payload carriage.",
+  "UCAVs face challenges in airworthiness certification and safe integration into national airspace systems.",
+  "Ethical concerns include autonomous lethal decision-making and accountability in drone strike operations.",
+  "The global UCAV R&D budget was $6.6 billion in 2013 and is expected to rise to $11.4 billion by 2022.",
+  "Stealthy radar systems use Low Probability of Intercept (LPI) radars and AESA waveforms to limit electromagnetic emissions.",
+  "Buried engines with serpentine inlets reduce radar reflections from engine blades but require careful aerodynamic design to avoid flow separation.",
+  "Radar absorbent paint (RAP) and frequency selective surfaces can adapt absorption properties across radar frequency bands.",
+  "The MQ-1 Predator was the first UAV armed with Hellfire missiles in 2001, marking UAVs' transition from ISR to attack roles."
+]
