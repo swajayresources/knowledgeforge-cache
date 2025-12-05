@@ -1,0 +1,17 @@
+[
+  "MechanicalSystemsandSignalProcessing135(2020)106390 ContentslistsavailableatScienceDirect Mechanical Systems and Signal Processing journal homepage: www",
+  "com/locate/ymssp Gaussian mixture model and delay-and-sum based 4D imaging of damage in aircraft composite structures under time-varying conditions \u21d1 \u21d1 Yuanqiang Ren, Lei Qiu , Shenfang Yuan , Fang Fang ResearchCenterofStructuralHealthMonitoringandPrognosis,StateKeyLabofMechanicsandControlofMechanicalStructures,NanjingUniversityof AeronauticsandAstronautics,Nanjing210016,PRChina a r t i c l e i n f o a b s t r a c t Articlehistory: Inthefieldofstructuralhealthmonitoring(SHM)ofaircraftcompositestructures,piezo- Received28May2019 electricsensornetworkandguidedwave(GW)basedimagingmethodhasprovedtobe Receivedinrevisedform19August2019 apromisingdamagemonitoringmethodandhasbeenwidelyresearched",
+  "However,the Accepted22September2019 currentworkhasbarelyconsideredthataircraftstructuresareusuallysubjecttorandom andcomplextime-varyingconditions,whichmayintroduceuncertaintiesintotheacquired GWsignalsandmakeithardtorealizereliabledamageimagingandlocalization",
+  "Aimingat Keywords: thisissue,thispaperproposesaGaussianmixturemodel(GMM)anddelay-and-sumbased Aircraftcompositestructure 4Dimagingmethodtoachievereliabledamagemonitoringofaircraftcompositestructures Guidedwave undertime-varyingconditions",
+  "Inthismethod,theGMMisadoptedtosuppressthetime- Gaussianmixturemodel 4Dimaging varyinginfluenceandtoconstructtime-invariantfeaturesignalwhichisonlyaffectedby Time-varyingconditions damage",
+  "Duringthemonitoringprocess,bycontinuouslyupdatingGMMandconstructing time-invariantfeaturesignal,thedelay-and-sumbased4Dimagingcanbeperformedto generate a serial of images with damage gradually emerging, from which the damage canbeaccuratelylocated",
+  "Themethodisvalidatedonastiffenedcarbonfibercomposite platewithinatemperaturerangefrom(cid:1)20(cid:1)Cto60(cid:1)C",
+  "(cid:3)2019ElsevierLtd",
+  "Therefore,compositeshavebeenwidelyusedinaircraftstructuresinrecentyears[1\u20133]",
+  "Duringthewholelifetimeofaircraftcompositestructures,barelyvisibledamagesmaybecausedbyfallingtools,hailstone andloadingabrasion,resultinginseriousstiffnessdegradationofstructures[4,5]",
+  "Structuralhealthmonitoring(SHM)has proved to be an effective technology in increasing the reliability of structures and reducing maintenance cost, especially in aerospace applications [6,7]",
+  "106390 0888-3270/(cid:3)2019ElsevierLtd",
+  "/MechanicalSystemsandSignalProcessing135(2020)106390 Inthelasttwodecades,differentkindsofpromisingdamagemonitoringmethodshavebeenproposed[8\u201314]",
+  "Among these methods, the piezoelectric (referred to as PZT) sensor network and guided wave (GW) based imaging method has theadvantagesoflarge-scalemonitoring,beingsensitivetosmalldefectandavailableforonlinedamagemonitoring,and has been widely researched [15,16]",
+  "[17] improved the damage localization precision of the traditional probability-based imaging approach by developing a weight-compensated strategy and verified on a stiffened composite panel"
+]
