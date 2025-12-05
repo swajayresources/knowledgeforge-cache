@@ -1,0 +1,22 @@
+[
+  "The paper analyzes RCS reduction by investigating electromagnetic materials: DPS, DNG, ENG, and MNG.",
+  "Transparency conditions are derived by setting the numerator of scattering coefficients to zero.",
+  "Resonance conditions are derived by setting the denominator of scattering coefficients to zero.",
+  "For TM polarization, transparency occurs when \u03bc = \u03bc_c; resonance occurs when \u03bc = -\u03bc_c.",
+  "For TE polarization, transparency occurs when \u03b5 = \u03b5_c; resonance occurs when \u03b5 = -\u03b5_c.",
+  "The study considers an electrically small infinite cylinder with radius 'a' and plane wave incidence.",
+  "Both TE and TM polarizations are analyzed for scattering behavior.",
+  "Normalized monostatic and bistatic echo widths are used to quantify RCS.",
+  "Numerical simulations are performed using Matlab to validate analytical results.",
+  "Maximum RCS depends on both incidence and backscattering directions.",
+  "MNG and DPS materials are effective for transparency in TM polarization.",
+  "ENG and DPS materials are effective for resonance in TE polarization.",
+  "Dielectric metamaterials offer advantages such as no metallic loss and isotropic response.",
+  "Metallic resonators suffer from conductive loss, narrow bandwidth, and fabrication challenges.",
+  "Ohmic losses affect resonance conditions more than transparency conditions.",
+  "The incident electric field is expressed in cylindrical coordinates using Bessel and Hankel functions.",
+  "The paper uses small-argument approximations of Bessel and Hankel functions for subwavelength conditions.",
+  "The study highlights the importance of electric and magnetic dipole moments in metamaterial design.",
+  "The RCS can be minimized or maximized by selecting appropriate material parameters and incidence angles.",
+  "The work extends previous studies on transparency and resonance in cylindrical and spherical objects."
+]
