@@ -1,0 +1,17 @@
+[
+  "| | Received:12July2020 Revised:8September2020 Accepted:3October2020 DOI:10",
+  "22309 RESEARCH ARTICLE Vehicle energy system active defense: \u2010 A health assessment of lithium ion batteries Sheng Hong1 | Tianyu Yue1 | Hao Liu2 1SchoolofCyberScienceand Abstract Technology,BeihangUniversity,Beijing, China With the wide application of lithium\u2010ion battery in 2SchoolofAstronautics,Beihang variousfields,thesecurityandreliabilityoflithium\u2010ion University,Beijing,China batteryhaveattractedgreatattention",
+  "37,XueYuanRd,100191 in the future, and the hackers will attack the energy Beijing,China",
+  "Email:liuhao13@buaa",
+  "com/journal/int \u00a92020WileyPeriodicalsLLC 1 | 2 HONGETAL",
+  "The verification results show that the health assessment method based on weighted Kalman filter proposed in this paper has better assessment accuracy than the common Kalman filter method with an average per- centageerrorof0",
+  "Theaveragepercentageerrorof the assessment results for different types of batteries waslessthan0",
+  "KEYWORDS activedefense,healthassessment,lithium\u2010ionbattery 1 | INTRODUCTION With the increasingly serious energy and environmental problems, energy conservation and environmental protection are becoming more and more important",
+  "1 The performance of lithium\u2010ion batteries will be reduced with the continuous cycle use of batteries",
+  "2 When the performance of lithium\u2010ion batteries is reducedtoacertaindegree,faultswilloccur",
+  "3Hackerswillalsotakeadvantageofthecomplex dynamic network propagation model4 and through the cascading characteristics of network faults5 to carry out security attacks on the lithium\u2010ion battery, which is the power system of vehicle under the Internet of vehicles technology, leading to serious or even catastrophic consequences",
+  "6 The health assessment of lithium\u2010ion batteries can be divided into SOC assessment and SOH assessment, and the existing methods can be generally divided into direct measurement method, model\u2010based method, and data\u2010driven method",
+  "7\u20139 The direct measurement method is todirectlymeasuretheinternalresistanceorcapacityofthebatterytoachievetheevaluationof the battery health state",
+  "10,11 Yuan et al",
+  "12 Guo et al"
+]
