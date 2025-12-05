@@ -1,0 +1,22 @@
+[
+  "Hybrid RAS shells were fabricated in 'C' and 'U' shapes using glass fiber/epoxy/carbon-black absorbing layers and carbon fiber epoxy reflection layers.",
+  "Carbon-black nanoparticles used had an average diameter of 40 nm and a surface area of 950 cm\u00b2/g.",
+  "The carbon-black content in the absorbing layer was 5 wt%, selected based on previous studies.",
+  "Sixteen plies of GFRP-CB prepreg were laid at the bottom, and eight plies of CFRP prepreg were laid on top during fabrication.",
+  "Aluminum molds with additional bending angles were used to compensate for spring-back deformation during curing.",
+  "The curing cycle was 2 hours at 120\u00b0C and 5.5 atm in an autoclave.",
+  "Spring-back compensation achieved zero spring-back at mold bending angles of -4.29\u00b0 for 'C' shape and -1.9\u00b0 for 'U' shape shells.",
+  "Finite element analysis using ANSYS predicted spring-back angles with about 21.8% average error compared to experiments.",
+  "The reflection coefficient of CFRP was about 120 dB, considered as a perfect electric conductor (PEC) in this study.",
+  "Radar cross section (RCS) was measured at 10 GHz using a compact range method.",
+  "The hybrid RAS shells showed an average radar absorption efficiency of approximately 11 dB compared to PEC shells.",
+  "The physical optics method was used to predict RCS and showed good agreement with experimental results (errors <7%).",
+  "The RCS reduction of 11 dB corresponds to a significant decrease in reflected radar signal intensity.",
+  "The study used Stratton-Chu equations and closed-form expressions to calculate RCS for simple geometries.",
+  "The hybrid RAS structure combines electromagnetic wave absorption and high structural stiffness.",
+  "The spring-back effect is caused by thermal mismatch and chemical shrinkage during curing of thermoset composites.",
+  "Mechanical properties used in simulation: GFRP-CB elastic modulus 20.8 GPa, CFRP elastic modulus 81.2 GPa.",
+  "Thermal expansion coefficients: GFRP-CB ~8.5e-6 /\u00b0C, CFRP ~-1.54e-6 /\u00b0C.",
+  "The fabricated shells maintained dimensional accuracy by fixing molds with jigs during curing.",
+  "The study demonstrated the feasibility of fabricating complex 3D radar absorbing composite shells with controlled dimensional fidelity."
+]
