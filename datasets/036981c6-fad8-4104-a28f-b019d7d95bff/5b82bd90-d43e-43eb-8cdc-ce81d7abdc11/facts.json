@@ -1,0 +1,17 @@
+[
+  "The FD-TD method is a direct solution of Maxwell's time-dependent curl equations.",
+  "The FD-TD method uses a fully explicit numerical algorithm to simulate real-time wave propagation and scattering.",
+  "The FD-TD method requires only linearly increasing memory and execution time with the number of field components.",
+  "The FD-TD method is suitable for modeling structures with significant volumetric complexity.",
+  "The FD-TD method can be used to model the propagation of an electromagnetic wave into a volume of space containing a dielectric or conducting structure.",
+  "The FD-TD method uses a rectangular virtual surface to implement the free-space radiation condition.",
+  "The FD-TD method can be used to obtain sinusoidal steady-state data by directly programming a single-frequency incident plane wave or by performing a separate Fourier transformation step on the pulse waveform response.",
+  "The MOM surface-patch model is based on the method of moments, which solves the time-harmonic integro-differential equation describing electric and magnetic field boundary conditions at the surface.",
+  "The MOM surface-patch model is suitable for low-frequency scattering problems, but can be applied to bodies spanning approximately 1 wavelength in three dimensions.",
+  "The radar cross section (RCS) is calculated as the ratio of the scattered far-field to the incident plane-wave excitation.",
+  "The distance between an arbitrarily located observation point and a source point on the surface is denoted as R = r_b - r.",
+  "The global coordinate origin is defined with respect to which both r and r' are defined.",
+  "The bistatic radar cross section is a natural result of the procedure, for a given incident angle.",
+  "The FD-TD method requires around 10-20 time steps for a 5-wavelength scatterer.",
+  "The MOM surface-patch model uses a triangular-patch model for arbitrary scatterers."
+]
