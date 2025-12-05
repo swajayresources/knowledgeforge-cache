@@ -1,0 +1,1 @@
+This paper presents a near-zero refractive index metamaterial for electromagnetic invisibility cloaking operation, demonstrating a wideband near-zero refractive index property in the C-band region of microwave spectra.
