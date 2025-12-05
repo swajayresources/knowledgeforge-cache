@@ -1,0 +1,18 @@
+[
+  "DISCRETEANDCONTINUOUS doi:10",
+  "419 DYNAMICALSYSTEMSSERIESS Volume8,Number3,June2015 pp",
+  "419\u2013434 RADAR CROSS SECTION REDUCTION OF A CAVITY IN THE GROUND PLANE: TE POLARIZATION Gang Bao DepartmentofMathematics,ZhejiangUniversity Hangzhou310027,China and DepartmentofMathematics,MichiganStateUniversity EastLansing,MI48824,USA Jun Lai CourantInstituteofMathematicalSciences,NewYorkUniversity NewYork,NY10012,USA Abstract",
+  "Radar cross section(RCS) is an important measure for radar system to characterize the scattering from a target[19]",
+  "The cavity is assumed to be invariant in the z direction(Figure 1) and illuminated by a time harmonic plane wave",
+  "Assume the material has the same magnetic permeability as the empty space, but different permittivities at 2010 Mathematics Subject Classification",
+  "35Q93,35J05",
+  "The research was supported in part by the NSF grants DMS-0908325, DMS-0968360, DMS- 1211292, the ONR grant N00014-12-1-0319, a Key Project of the Major Research Plan of NSFC (No",
+  "91130004),andaspecialresearchgrantfromZhejiangUniversity",
+  "419 420 GANG BAO AND JUN LAI each layer",
+  "Based on the coevaporation technique[18], the admissible set for the permittivity is assumed to be a continuous variable in a specified interval",
+  "Lots of optimization techniques are proposed to reduce the RCS for an object with multilayered RAM [12, 23, 25]",
+  "In particular,themethodweemployissequentialquadraticprogramming(SQP),which iseffectivefornonlinearoptimizationproblemwithcontinuousdesignvariables[24]",
+  "The adjoint state method is used widely in the nonlinear optimization problemespeciallywhenthestatevariableistakenfromthesolutionofadifferential equation [13]",
+  "This paper focuses on the TE polarization, which continues our study for TM polarization in [7]",
+  "In the next section, we present an accurate and efficient direct solver for the optimization algorithm"
+]
