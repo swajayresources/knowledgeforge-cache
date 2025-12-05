@@ -1,0 +1,19 @@
+[
+  "Received:9April2020 Revised:15March2021 Accepted:30June2021 DOI:10",
+  "7680 RESEARCH ARTICLE Electromagnetic wave scattering from locally perturbed periodic inhomogeneous layers Alexander Konschin CenterforIndustrialMathematics, UniversityofBremen,Germany We consider the scattering problem for locally perturbed periodic penetra- ble dielectric layers, which is formulated in terms of the full vector-valued Correspondence time-harmonic Maxwell's equations",
+  "Thechallengeistoprovetheuniqueexistenceofthesolu- 281474342/GRK2224/1 tions for the quasi-periodicities inside the one-dimensional set for which the quasi-periodicdifferentialoperatorissingular",
+  "KEYWORDS locallyperturbedperiodicpenetrablelayers,Maxwell'sequations,scatteringtheory MSCCLASSIFICATION 35Q61;35A01;35A02;35B65 1 INTRODUCTION This study of the electromagnetic scattering problem for locally perturbed periodic layers modeled by the full vector-valuedMaxwell'sequationsismotivatedbythegrowingindustrialinterestfornano-structuredmaterialsandthe resulting challenge to construct an automated non-destructive testing method for these kinds of structures",
+  "\u00a92021 TheAuthors",
+  "com/journal/mma 1 2 KONSCHIN aperiodiclayerandaquasi-periodicincidentfield,theproblemcanbereducedtooneperiodiccell,whichisanalyzed inliterature1\u20133 inthecaseofaconstantpermeabilityandinAmmariandBao4 forachiralperiodicmedia",
+  ",previousworks5\u201314)",
+  "Iftheincidentfieldorthemediado notsatisfytheperiodicitycondition,thentheproblemisusuallytreatedasaroughlayerscatteringproblemwheresome restrictiveassumptionsforthepermittivityandpermeabilityareprescribedintheliterature(seepreviousstudies15,16for thevector-valuedproblemandpreviousworks17,18 fortheacousticscatteringproblem)",
+  ",Lietal19)inwhichcasethesesquilinearformiscoerciveandtheproblemis mucheasier",
+  "Forsound-softroughsurfaces,theuniqueexistenceofthesolutioniswell-known(seeChandler-Wildeand Elschner20andChandler-WildeandMonk21)",
+  "Our Floquet-Bloch transform approach, whichismotivatedbytheresultsofKonschinandLechleiter22 fortheHelmholtzequation,allowstoshowtheunique existence of the solution to the vector-valued scattering problem with much less restrictive regularity assumptions on theparameter",
+  ",thattheset{Im\ud835\udf00>0}shouldcontainanopenballtoavoidsurfacewaves",
+  "23 The Floquet-Bloch approach was used in existing work to analyze the acoustic scattering problem in waveguides (compareliterature24\u201326)andinopenspace(seeKonschinandLechleiter22)",
+  "InLechleiterandZhang,27 afirstapproach forthevector-valuedproblemforaperiodicpermittivity,aconstantpermeabilityandforanon-periodicright-handside wasstudied",
+  "Becauseofthechoiceofaconstantpermeabilitythesolutiontothecorrespondingvariationalproblemofthe MaxwellequationsisH1-regularandtheboundaryconditioniswell-behaved",
+  "In this article we present a method to Email:alexk@uni-bremen",
+  "Additionally, we show regularity results of the Floquet-Bloch transformed solution to the perturbed problem on the unbounded domain with respect to the quasi-periodicity mode"
+]
