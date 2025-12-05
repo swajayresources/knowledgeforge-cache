@@ -1,0 +1,22 @@
+[
+  "The qualitative approach avoids weak scattering assumptions and nonlinear optimization methods.",
+  "The far-field operator F is a compact linear operator mapping tangential fields on the unit sphere to scattered far-field patterns.",
+  "The linear sampling method solves the far-field equation Fg = E3(\u00b7, z, q, k) to reconstruct the scatterer's support.",
+  "Tikhonov regularization is applied to stabilize the ill-posed far-field equation.",
+  "Transmission eigenvalues are wavenumbers k where the interior transmission problem has nontrivial solutions.",
+  "At transmission eigenvalues, the scattered field due to certain incident waves is identically zero (non-scattering frequencies).",
+  "Uniqueness theorem: If two scatterers produce identical far-field data for three linearly independent polarizations at a fixed k, their supports are equal.",
+  "Electric Herglotz wave functions are dense in the solution space of Maxwell's equations in the scatterer domain.",
+  "The far-field operator is injective and has dense range if k is not a transmission eigenvalue.",
+  "The generalized linear sampling method modifies the far-field equation to handle limited aperture data and relax assumptions on permittivity.",
+  "Numerical examples include reconstructing two penetrable balls with radius 0.5 and a dielectric sphere with relative permittivity 16I.",
+  "The Silver\u2013M\u00fcller radiation condition is assumed for the scattered fields.",
+  "The relative permittivity er is modeled as a 3x3 matrix-valued function with L3(D) entries.",
+  "The incident field is often taken as a plane wave Ei(x; d, p, k) = i k (d \u00d7 p) \u00d7 d e^{i k x \u00b7 d}.",
+  "The far-field pattern E3(xt; d, p, k) is known for all directions xt, d on the unit sphere S2 and possibly a range of frequencies k.",
+  "The linear sampling method requires approximate knowledge of the scatterer's size and location to choose the search grid.",
+  "The factorization method provides a rigorous mathematical foundation for the linear sampling method.",
+  "Transmission eigenvalues can be used to estimate upper and lower bounds on the norm of the relative permittivity er.",
+  "The inverse scattering problem is nonlinear and ill-posed, making direct inversion challenging.",
+  "The paper's methods apply to anisotropic media embedded in vacuum but can be extended to more complex backgrounds."
+]
