@@ -1,0 +1,22 @@
+[
+  "The absorbing screen uses a third-order fractal Hilbert curve metal strip array combined with a CVD graphene sheet.",
+  "Graphene's surface conductivity is tunable by changing chemical potential via external voltage.",
+  "At 0 eV chemical potential, the absorption bandwidth is from 8.9 GHz to 18.1 GHz with a relative bandwidth of 68.1%.",
+  "The central frequency of absorption can be tuned from 13.5 GHz to 19.0 GHz as chemical potential varies from 0 to 0.4 eV.",
+  "The total thickness of the absorbing screen is approximately 3.4 mm, close to the theoretical minimum thickness of 3.1 mm for nonmagnetic absorbers.",
+  "Graphene's surface impedance ranges from about 1.2 k\u03a9 at 0 eV to 110 \u03a9 at 0.4 eV chemical potential.",
+  "The Hilbert curve metal strip array provides multiple narrowband resonances enabling wideband impedance matching.",
+  "Dielectric layers D1 and D2 have thicknesses of 1.2 mm and 2.2 mm respectively with dielectric constant \u03b5r=4.3.",
+  "The metal strips are made of copper with conductivity 5.96\u00d710^7 S/m and thickness 5 \u03bcm.",
+  "Graphene sheet is placed directly underneath the metal strips to enhance power dissipation via strong electric field interaction.",
+  "The chemical potential of graphene is controlled by applying DC voltage between metal strips and an underlying polysilicon layer separated by a silicon dioxide layer.",
+  "The absorption at 0 eV chemical potential achieves above 90% over a 9.2 GHz bandwidth.",
+  "Without graphene, the absorber shows narrowband absorption peaks with poor broadband performance.",
+  "Dielectric losses have minimal effect on absorption performance; graphene is the main absorbing element.",
+  "The design achieves broadband impedance matching due to graphene's nearly frequency-independent surface impedance in the microwave band.",
+  "The carrier density in graphene is modulated by the applied voltage and dielectric thickness, affecting chemical potential.",
+  "The device is grounded with a perfect electric conductor (PEC) to eliminate transmission.",
+  "The fractal Hilbert curve structure is chosen for its multi-resonance properties and compact footprint.",
+  "The absorber's thickness corresponds to about 0.15 wavelengths at the central frequency of 13.5 GHz.",
+  "The fabrication involves sputtering polysilicon and silicon dioxide layers, transferring graphene, patterning metal strips by e-beam lithography, and bonding dielectric layers."
+]
