@@ -1,0 +1,17 @@
+[
+  "137, 759\u2013773, 2013 APPLICATION OF CHIRAL LAYERS AND METAMATE- RIALS FOR THE REDUCTION OF RADAR CROSS SEC- TION Kimia Nikooei Tehrani*, Ali Abdolali, Davoud Zarifi, and Farrokh Hojjat-Kashani School of Electrical Engineering, Iran University of Science and Technology, Tehran 1684613114, Iran Abstract\u2014In this paper, the applications of chiral layers and metamaterialsasradarabsorbingmaterialsareinvestigated",
+  "Basically, chirality is defined as the property of a structure of being non-superimposable onto its mirror image [1]",
+  "Recently, there is rapid development on the study of electromagnetic wave propagation in chiral media [1\u20138]",
+  "Received 8 February 2013, Accepted 4 March 2013, Scheduled 12 March 2013 *Correspondingauthor:KimiaNikooeiTehrani(knikooei@elec",
+  "760 Tehrani et al",
+  "Duringthepast several years, chiral metamaterials as a kind of artificial materials has attractedanenormousamountofinterestthatcouldbeusedtoachieve many customized functionalities, such as the negative refraction and giant optical activity [10\u201320], and many other applications [21\u201338]",
+  "The constitutive equations for chiral media assuming a time harmonic dependence ej\u03c9t are [1]: (cid:181) (cid:182) (cid:181) \u221a (cid:182)(cid:181) (cid:182) D\u00af \u03b5 \u03b5 \u2212j\u03ba \u03b5 \u00b5 E\u00af = \u221ar 0 0 0 (1) B\u00af j\u03ba \u03b5 \u00b5 \u00b5 \u00b5 H\u00af 0 0 r 0 where \u03b5 and \u00b5 are the relative permittivity and permeability of the r r chiral medium, respectively, and \u03ba is the chirality parameter",
+  "The vectorial wave equation in a homogeneous chiral medium is: \u03ba\u03c9 \u03c92 (cid:161) (cid:162) \u22072E\u00af +2 \u2207\u00d7E\u00af + \u00b5 \u03b5 \u2212\u03ba2 E\u00af = 0 (2) c c2 r r where c and \u03c9 are the speed of light in vacuum and the angular frequency, respectively",
+  "The chiral layers are first assumed dispersionless and then the study is extended to well- known dispersive chiral media [39] and finally chiral metamaterials (CMMs)",
+  "Section 2 is dedicated to the formulationandanalysisofthepropertiesofwavepropagationincident ontoaPECplatecoatedbyachirallayer",
+  "Applicationofnondispersive and dispersive chiral layers for the reduction of radar cross section (RCS) is investigated in Section 3",
+  "In Section 4, a CMM structure as a dual-band zero reflection coating is introduced",
+  "Finally, summary and conclusions are provided in Section 5",
+  "Figure 1 shows Progress In Electromagnetics Research, Vol",
+  "137, 2013 761 a chiral slab which occupies 0 \u2264 z \u2264 d"
+]
