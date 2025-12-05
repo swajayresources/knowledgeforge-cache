@@ -1,0 +1,22 @@
+[
+  "Single-phase M-type barium hexaferrite (BaFe12O19) nanocrystals were synthesized using a modified flux method.",
+  "Nanocrystals initially spherical (~7-10 nm) transformed to prism-shaped (~20-40 nm) after annealing.",
+  "Microwave annealing (MWA) was conducted at powers from 160 to 760 watts for 5 minutes.",
+  "Vacuum annealing (VA) was performed at temperatures from 200 to 1200 \u00b0C for 4 hours.",
+  "MWA increased particle size modestly from 7.3 to 13.4 nm, while VA increased it substantially to 40.4 nm.",
+  "Maximum reflection loss (RL) of 37.15 dB at 16 GHz was achieved with MWA at 760 watt.",
+  "Maximum RL of 27.56 dB at 15.75 GHz was achieved with VA at 1200 \u00b0C.",
+  "RL measurements were done on 2 mm thick coatings in the Ku-band (12.4-18.0 GHz).",
+  "TEM and SAED confirmed the hexagonal BaFe12O19 phase and morphological evolution.",
+  "XRD patterns showed increased peak intensities with annealing but less particle growth in MWA compared to VA.",
+  "Ostwald ripening explains the growth of larger crystals at the expense of smaller ones during annealing.",
+  "Quantum size effect causes discrete electronic energy levels that enhance microwave absorption.",
+  "MWA produces faster morphological transformation than VA due to higher diffusion rates in molten NaCl flux.",
+  "The aspect ratio (length/breadth) of fully grown nanocrystals ranged from 2 to 6.",
+  "Magnetic properties and RL increased systematically with increasing annealing power or temperature.",
+  "The modified flux method involves coating precipitated powder with NaCl in a 1:2 weight ratio.",
+  "Annealed samples exhibited superlattice reflections in electron diffraction patterns.",
+  "MWA favors electron movement inside particles, enhancing crystallinity without large particle growth.",
+  "VA favors atomic diffusion, leading to larger particle growth but slower crystallization.",
+  "Accurate EM impedance matching and multipolarization contribute to excellent microwave absorption."
+]
