@@ -1,0 +1,17 @@
+[
+  "12,DECEMBER2019 5239 Model Order Reduction of Electromagnetic Particle-in-Cell Kinetic Plasma Simulations via Proper Orthogonal Decomposition Julio L",
+  "FETD-PICALGORITHM used over the years for problems involving kinetic The present FETD-PIC algorithm consists of using an plasmas, see [1]\u2013[5] for general overviews and [6]\u2013[14] irregular (unstructured) computational mesh to capture field for a more comprehensive list of references",
+  "Model order ticles\u201d within the computational domain to simulate the reduction (MOR) is a set of useful techniques aimed at Maxwell\u2013Vlasov equations [13], [27]",
+  "Inthegatherstep,ambientfieldvaluesarecalculatedat technique is the proper orthogonal decomposition (POD), each particle location via a Whitney-form-basedinterpolation alternatively called Karhunen\u2013Lo\u00e8ve decomposition (KLD), from the discrete field DoFs [27]\u2013[32]",
+  "In the particle update principalcomponentanalysis (PCA),orsingularvaluedecom- step,positionsandvelocitiesofallsuperparticlesinthedomain position (SVD) depending on application and mathematical are accelerated (\u201cpushed\u201d) according to the fields acting on interpretation [15]\u2013[18]",
+  "Finally, in the particle scatter employed in fluid dynamics applications [19]\u2013[22] step, the electric currents due to the particles\u2019 movement and among other areas [23], including electromagnetic (EM) charges due to their new positions are transferred back to simulations [24]\u2013[26], even though it has not been applied edges and nodes, respectively, of the mesh",
+  "One key feature of the present FETD-PIC algorithm is that it yields charge Manuscript received December 17, 2018; revised June 1, 2019; accepted and energy conservation from first principles [13], [27]",
+  "This July 2, 2019",
+  "Date of current version December 11, 2019",
+  "This work was supported in part by the Defense Threat Reduction Agency under Grant feature has eluded most prior FE-based PIC algorithms on HDTRA 1-18-1-0050 and in part by the Ohio Supercomputer Center under irregularmesheswithsomenotableexceptions[10],[11]",
+  "Each GrantPAS-0061andGrantPAS-0110",
+  ") TheauthorsarewiththeElectroscienceLaboratory,TheOhioStateUniver- sity,Columbus,OH3212USA,andalsowiththeDepartmentofElectricaland A",
+  "Field Update ComputerEngineering,TheOhioStateUniversity,Columbus,OH 3212USA (e-mail: delimanicolini",
+  "Digital ObjectIdentifier 10",
+  "2950377 discretized on simplicial (triangular or tetrahedral) 0093-3813\u00a92019IEEE"
+]
