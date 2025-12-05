@@ -1,0 +1,22 @@
+[
+  "Rust is a corrosion product of ferrous metals primarily composed of iron oxides such as magnetite (Fe3O4).",
+  "Rust powders were collected from Surabaya, Malang, and Bangkalan regions in Indonesia.",
+  "Magnetic separation was performed using a 0.1 Tesla permanent magnet to enrich magnetic ferrite content.",
+  "XRF analysis showed iron content of about 82.63 wt% in the rust powder from Surabaya.",
+  "XRD confirmed the presence of magnetite phase (Fe3O4) with diffraction peaks at 2\u03b8 around 35\u00b0.",
+  "The rust powders exhibited an amorphous structure with high porosity and low density.",
+  "VSM measurements showed saturation magnetization (Ms) of 8.357 emu/g, remanent magnetization (Mr) of 4.535 emu/g, and coercivity (Hc) of 0.0204 T for Surabaya sample.",
+  "The rust powders are classified as soft magnetic materials due to low coercivity (<1 T).",
+  "Microwave absorption was measured in the X-band frequency range (8-12 GHz) using a Vector Network Analyzer.",
+  "Maximum reflection loss (RL) values were -20.15 dB (Surabaya), -12.64 dB (Malang), and -6.75 dB (Bangkalan) at around 11 GHz.",
+  "A reflection loss of -20.15 dB corresponds to approximately 99% absorption of incident radar waves.",
+  "Magnetic separation improved microwave absorption by increasing the purity of magnetic ferrite particles.",
+  "Samples were prepared by milling rust powders and attaching them to 2 mm thick paper molds for VNA testing.",
+  "The microwave absorption mechanism involves magnetization of dipoles and conversion of electromagnetic energy into heat via electron vibration.",
+  "The absorption bandwidth for Surabaya sample was about 2.51 GHz around the matching frequency.",
+  "The study used extraction milling methods to synthesize micro powders of magnetite from corrosion products.",
+  "The presence of impurities like Si, Al, Ca, and Ni is normal due to environmental corrosion conditions.",
+  "The magnetic powders from Surabaya showed the highest microwave absorption performance among the three locations.",
+  "The study suggests that increasing the number of magnetic extraction cycles can further enhance absorption.",
+  "Soft magnetic ferrite powders from rust can be used as low-cost, effective radar absorber materials."
+]
