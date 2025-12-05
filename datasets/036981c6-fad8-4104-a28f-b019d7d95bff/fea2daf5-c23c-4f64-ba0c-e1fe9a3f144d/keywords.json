@@ -1,0 +1,22 @@
+[
+  "Stealth Prefetching",
+  "Coarse-Grain Coherence Tracking (CGCT)",
+  "Region Coherence Array (RCA)",
+  "Shared-memory multiprocessor systems",
+  "Broadcast-based coherence",
+  "Spatial prefetching",
+  "Cache coherence",
+  "Memory latency",
+  "Interconnect bandwidth",
+  "Stealth Data Prefetch Buffer (SDPB)",
+  "Non-shared regions",
+  "Prefetch buffer",
+  "Open-page mode DRAM",
+  "Cache pollution",
+  "Prefetch accuracy",
+  "Prefetch coverage",
+  "Bit-mask prefetching",
+  "Region-based prefetching",
+  "Coherence state tracking",
+  "Presence bits"
+]
