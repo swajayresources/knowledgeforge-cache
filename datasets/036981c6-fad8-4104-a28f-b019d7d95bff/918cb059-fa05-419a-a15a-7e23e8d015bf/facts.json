@@ -1,0 +1,22 @@
+[
+  "Bonded composite patches provide a structurally efficient alternative load path that can repair live fatigue cracks, unlike mechanically fastened metallic patches which require crack removal or termination.",
+  "Boron/epoxy (b/ep) composites have a Young's modulus about three times that of aluminum and are chosen for their mechanical properties and low electrical conductivity.",
+  "Patch thickness is minimized due to the high stiffness of composites, with typical patch curing temperatures between 80\u00b0C and 120\u00b0C.",
+  "Fatigue failure modes include transverse fatigue of composite fibers and disbonding at adhesive or interface layers.",
+  "The patch system is divided into a safe-life zone at tapered ends with low allowable strain and a damage-tolerant zone in the middle where slow disbond growth is acceptable.",
+  "Disbond growth rate correlates with adhesive shear strain range, with a threshold below which disbond initiation is unlikely.",
+  "Generic bonded joint tests, such as double-overlap joints, are used to establish fatigue allowables for patch design.",
+  "Analytical crack growth models incorporating thermal residual stresses predict patched crack growth rates accurately under spectrum loading.",
+  "Environmental durability is a critical concern due to moisture sensitivity of metal-adhesive interfaces, which can cause catastrophic bond failure.",
+  "The Boeing wedge test (BWT) is used to assess bond durability and surface preparation quality before patch application.",
+  "Non-destructive inspection methods currently cannot reliably detect weak or degrading bonds unless disbonding is obvious.",
+  "Thermal residual stresses from coefficient of thermal expansion mismatch induce tensile mean stresses affecting fatigue crack growth.",
+  "The Fail-Safe approach requires the repaired structure to withstand design limit loads even if the patch fails, necessitating inspection based on unpatched crack growth.",
+  "Smart patch systems monitor their own health to detect damage or loss of patch integrity, enabling immediate detection.",
+  "Australian F111 aircraft repairs using bonded composite patches have successfully prevented crack growth for multiple years in service.",
+  "Adhesive bonding is sensitive to surface contamination, requiring strict quality control and technician qualification.",
+  "Patch system fatigue efficiency includes recovery of residual strength and reduction in crack growth rate.",
+  "Design of tapered patch ends and adhesive thickness control strain levels to prevent fatigue damage initiation.",
+  "Fatigue crack growth under bonded patches can be predicted using modified crack closure models.",
+  "Environmental degradation can reduce the disbonding threshold to zero, making inspection intervals ineffective without durability assurance."
+]
