@@ -1,0 +1,22 @@
+[
+  "The study compares ring, crosses, and Y-aperture FSS units with the same center frequency of 13.5 GHz.",
+  "Double-layer radar absorbing materials have a resonance frequency of 4.1 GHz with -12.3 dB reflectivity and 1.5 GHz bandwidth at -6 dB.",
+  "The ring unit FSS has a radius of 3.34 mm and slit width of 0.6 mm.",
+  "The crosses unit FSS has arm length 4.1 mm and arm width 0.62 mm.",
+  "The Y-aperture unit FSS has arm length 4.8 mm and slit width 0.5 mm.",
+  "All FSS units cause the resonance frequency of the absorbing materials to shift to higher frequencies.",
+  "The crosses unit causes the largest resonance frequency shift to 5.6 GHz.",
+  "The ring unit causes a smaller resonance frequency shift to 5.2 GHz.",
+  "The Y-aperture unit shifts resonance frequency to 5.4 GHz.",
+  "The ring unit decreases resonance frequency reflectivity by 2.2 dB to -14.5 dB.",
+  "The crosses unit reflectivity at resonance frequency is -12.6 dB.",
+  "The Y-aperture unit increases resonance frequency reflectivity by 1.3 dB to -11 dB.",
+  "The Y-aperture unit expands the -6 dB bandwidth from 1.5 GHz to 4.8 GHz.",
+  "The crosses unit expands the bandwidth to 4.4 GHz, and the ring unit to 2.3 GHz.",
+  "The substrate for FSS units is a cellular board with 3 mm thickness and dielectric constant 1.007.",
+  "Spectral domain method combined with moment method and rooftop basis functions was used for electromagnetic simulation.",
+  "The study provides design guidance: Y-aperture units are ideal for bandwidth expansion, ring units for reducing resonance frequency drift and reflectivity.",
+  "The double-layer absorbing material parameters are: first layer thickness 0.5 mm, dielectric constant 5.91-j2.41, permeability 1.04-j0.04; second layer thickness 1.5 mm, dielectric constant 20.60-j3.07, permeability 1.13-j0.87.",
+  "The FSS units are arranged in square arrays with a period of 10 mm.",
+  "The incident wave polarization in simulations is TE with 0\u00b0 incident angle."
+]
