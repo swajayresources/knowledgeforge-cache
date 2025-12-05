@@ -1,0 +1,22 @@
+[
+  "Radar altimeter",
+  "Significant wave height (SWH)",
+  "Radar cross section (RCS)",
+  "Wind speed retrieval",
+  "Geosat",
+  "Smoothed-Brown algorithm",
+  "Chelton-Wentz algorithm",
+  "Multiple linear regression",
+  "Ocean surface roughness",
+  "Mean-squared slope (MSS)",
+  "Wind-wave spectrum",
+  "Pierson-Moskowitz spectrum",
+  "Frictional wind speed (u*)",
+  "Pulse broadening",
+  "Nadir-looking radar",
+  "Buoy wind measurements",
+  "Preexisting swell",
+  "Wave growth suppression",
+  "Residual error",
+  "Confidence level"
+]
