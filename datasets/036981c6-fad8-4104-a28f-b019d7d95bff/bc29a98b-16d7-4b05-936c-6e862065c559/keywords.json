@@ -1,0 +1,22 @@
+[
+  "Wide Bandgap (WBG) power semiconductor devices",
+  "Electromagnetic Interference (EMI)",
+  "Parasitic inductance",
+  "Parasitic capacitance",
+  "Device-level packaging",
+  "Module-level packaging",
+  "Hybrid packaging",
+  "Cascode GaN HEMT",
+  "Zero Voltage Switching (ZVS)",
+  "Near field scanning technique",
+  "Surface mount packages",
+  "Planar structure",
+  "3D structure",
+  "Decoupling capacitors",
+  "P-cell and N-cell concept",
+  "Power chip-on-chip 3D concept",
+  "Stray inductance",
+  "EMI noise",
+  "Power loss",
+  "Cost"
+]
