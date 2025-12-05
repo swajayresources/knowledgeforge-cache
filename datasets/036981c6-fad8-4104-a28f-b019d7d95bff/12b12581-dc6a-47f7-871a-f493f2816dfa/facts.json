@@ -1,0 +1,21 @@
+[
+  "The study uses epoxy resin PrimeTM 20LV as the composite matrix with a density of 1.123 g/cm3.",
+  "MWCNT used are Nanocyl\u2122 NC 7000 with average diameter ~9.5 nm and length ~1.5 \u00b5m, carbon purity 90%.",
+  "The maximum MWCNT loading was limited to 2.0 wt% due to dispersion difficulties.",
+  "CNF have inner diameter ~60 nm, outer diameter 80-200 nm, length 0.5-20 \u00b5m.",
+  "GNP have platelet thickness 1-20 nm and diameter 1-50 \u00b5m with surface area ~750 m2/g.",
+  "PANI particles have size 2-3 \u00b5m and conductivity 4-6 S/m.",
+  "Dielectric characterization showed CNT and CNF composites have significantly increased real and imaginary permittivity compared to pure resin.",
+  "GNP and PANI composites showed negligible change in dielectric properties at tested weight percentages.",
+  "The relative magnetic permeability (\u00b5r) of all tested composites is approximately 1.",
+  "The multilayer RAM thickness per layer ranges from 0 to 16 mm, with up to 10 layers allowed.",
+  "Reflection coefficient at the air-absorber interface is calculated from the input impedance of the multilayer and free-space impedance (~377 \u03a9).",
+  "The WPO algorithm optimizes layer thickness and material selection to minimize the difference from the target reflection coefficient and total thickness.",
+  "Sonication at 20 kHz for 4 hours was used to disperse nanoparticles in the resin.",
+  "SEM images confirmed good dispersion and disentanglement of nanotubes in composites at 2 wt% loading.",
+  "Three manufactured RAM tiles of 25 cm side were tested, showing good agreement between target, simulated, and measured reflection coefficients.",
+  "The method allows tailoring absorption to specific frequency bands, e.g., around 2 GHz for human exposure or X-band (8.2-12.4 GHz) for radar stealth.",
+  "The aspect ratio of nanomaterials is a key parameter influencing microwave absorption effectiveness.",
+  "The research builds on previous studies but introduces a synthesis method that targets a predefined reflection coefficient profile rather than just minimizing reflection over a broad band.",
+  "FEM simulations demonstrated the practical application of the synthesized RAM in reducing radar signature of a naval military gun model."
+]
