@@ -1,0 +1,22 @@
+[
+  "The paper applies frequency domain methods to electromagnetic transient analysis of very large multi-phase power distribution networks.",
+  "Network elements modeled include lumped and distributed parameter lines, transformers, circuit breakers, sources, and loads.",
+  "Frequency domain modeling avoids rational fitting approximations required in time domain solutions.",
+  "Kron\u2019s reduction is used to reduce the system admittance matrix by eliminating nodes not of interest.",
+  "The Numerical Laplace Transform (NLT) is employed for numerical inversion from frequency to time domain.",
+  "Circuit breakers are modeled using Norton equivalent circuits and superposition principle for switching transitions.",
+  "The method is verified against ATP/EMTP simulations on IEEE 13-bus and 34-bus feeders showing excellent agreement.",
+  "Further testing on IEEE 123-bus and a synthetic 1188-node system confirms accuracy and computational efficiency.",
+  "The FD method captures both symmetrical and unsymmetrical fault transients accurately.",
+  "Initial steady-state conditions are incorporated by calculating phasor voltages and transforming to the Laplace domain.",
+  "The admittance matrix is constructed by assembling admittance models of individual components using multiphase nodal analysis.",
+  "Distributed parameter line models use Telegrapher's equations in the Laplace domain with modal decomposition.",
+  "Transformer models include single-phase and three-phase configurations with magnetization branches in the frequency domain.",
+  "The method supports various transformer winding connections including delta-wye grounded configurations.",
+  "The FD approach offers substantial computational savings compared to time domain tools, enabling large-scale EMT studies.",
+  "The Numerical Laplace Transform uses odd frequency sampling and window functions to reduce truncation errors.",
+  "The method can simulate multiple circuit breaker operations sequentially using superposition.",
+  "The system matrix size and solution time are benchmarked to demonstrate the effectiveness of network reduction.",
+  "The method is flexible and adaptable for utility companies and engineering firms for system-wide transient assessments.",
+  "The paper provides detailed modeling guidelines for common power system components in the frequency domain."
+]
