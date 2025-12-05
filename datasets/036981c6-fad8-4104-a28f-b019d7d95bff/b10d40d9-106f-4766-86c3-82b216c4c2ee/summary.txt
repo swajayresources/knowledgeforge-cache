@@ -1,0 +1,1 @@
+This paper presents a multi-response based wireless impact monitoring network for aircraft composite structures. The network uses a novel localization method to locate impact occurring sub-regions and a multi-radio sink node to receive impact localization results from multiple nodes. The proposed system has been evaluated on a composite wing and an aircraft composite wing box.
