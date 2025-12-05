@@ -1,0 +1,22 @@
+[
+  "Iterative methods extend the range of electromagnetic scattering problems treatable by numerical solutions of integral equations.",
+  "Integral equations for electromagnetic scattering often produce dense, non-sparse matrices.",
+  "Discretization procedures that preserve convolutional structure lead to Toeplitz or block Toeplitz matrices.",
+  "Toeplitz matrices allow storage reduction and efficient computation using FFT.",
+  "The method of moments (MOM) approximates unknown functions by basis expansions and testing functions to form matrix equations.",
+  "Simple iterative algorithms like Jacobi and Gauss-Seidel can diverge or converge slowly for electromagnetic scattering matrices.",
+  "The conjugate gradient method (CGM) is a more robust iterative algorithm that guarantees convergence in finite steps.",
+  "FFT reduces the computational complexity of matrix-vector products from O(N\u00b2) to O(N log N).",
+  "The Discrete-Convolutional Method of Moments (DCMOM) works primarily in the spatial domain and preserves convolutional structure.",
+  "The Spectral-Iterative Technique (SIT) samples the kernel's Fourier transform and uses FFT explicitly, often preferred for periodic structures.",
+  "Zero-padding in FFT-based methods is used to avoid aliasing but increases computational load; SIT reduces zero-padding requirements.",
+  "Electrically large scatterers produce matrix orders exceeding thousands, challenging fast-access memory limits.",
+  "Iterative methods do not require explicit storage of the full N\u00d7N matrix, reducing memory demands.",
+  "Preconditioning techniques can accelerate convergence of iterative algorithms.",
+  "The paper reviews developments from early 1970s to mid-1980s, including Bojarski's K-space method and later improvements.",
+  "Discrete convolutional symmetries are central to reducing storage and computational complexity in these problems.",
+  "Periodic structures require special discretization approaches to handle infinite arrays.",
+  "The paper discusses the trade-offs between computational efficiency and storage in iterative electromagnetic scattering solutions.",
+  "The Ritz procedure and weighted residual methods are foundational to the method of moments discretization.",
+  "Iterative methods may require roughly N/3 iterations to converge for matrices of order N in electromagnetic scattering problems."
+]
