@@ -1,0 +1,22 @@
+[
+  "Fiber metal laminates (FMLs) consist of alternating layers of metal sheets and fiber-reinforced composites.",
+  "FMLs combine the high bearing strength and impact resistance of metals with the fatigue resistance and high strength-to-weight ratio of composites.",
+  "Damage tolerance design must consider impact damage, environmental effects, and fatigue-related damage.",
+  "Three approaches to damage tolerance compliance are damage tolerant materials, structural design features, and combined material-structural design.",
+  "Composite materials often suffer internal damage without visible surface signs, complicating damage detection.",
+  "Quasi-isotropic layups in composites improve in-plane stiffness and strength by orienting fibers in multiple directions.",
+  "The Airbus A380 uses Glare FML as the upper fuselage skin, marking a successful aerospace application.",
+  "Fatigue crack growth in FMLs can be modeled using linear elastic fracture mechanics similar to metals.",
+  "Metallic layers in FMLs improve repairability and damage detectability compared to full composites.",
+  "Inspection techniques must detect damage location and severity to reduce operational and maintenance costs.",
+  "FMLs have not yet seen widespread adoption beyond specific applications like Glare due to limited experience and certification challenges.",
+  "Fiber reinforced polymers are generally corrosion resistant, but galvanic corrosion can occur when combined with metals.",
+  "Damage tolerance evaluation must include all relevant damage scenarios for realistic structural weight analysis.",
+  "The smart material approach tailors constituent materials and their arrangement for optimal structural performance.",
+  "Fatigue damage in composites involves multiple damage modes such as delaminations and matrix cracking, unlike metals.",
+  "FML technology readiness has been demonstrated through full-scale applications and testing.",
+  "Maintenance and repair costs are significant drivers in material and structural design choices for aircraft.",
+  "The combination of metal and fiber layers in FMLs can lead to significant weight reduction in aircraft structures.",
+  "Damage detection accuracy depends on damage type, material, and inspection technique.",
+  "The fatigue design strain limit for CFRP is typically around 0.35%, much lower than metals."
+]
