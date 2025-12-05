@@ -1,0 +1,22 @@
+[
+  "Wake vortices result from lift and trail behind aircraft as two counter-rotating vortices.",
+  "ICAO currently imposes conservative wake vortex separation minima limiting airport capacity.",
+  "RECAT-EU program aims to optimize wake vortex separation using aircraft categories and weather-dependent procedures.",
+  "Wake vortex circulation \u0393 is defined as \u0393 = Mg / (\u03c1 V b), where M is aircraft weight, \u03c1 air density, V aircraft speed, and b vortex separation.",
+  "Vortex descent speed V is approximated by \u0393 / (2\u03c0 b).",
+  "Wake vortices decay in two phases: initial viscous dissipation followed by enhanced decay due to turbulence.",
+  "Ground effect influences vortex rebound, strength asymmetry, and secondary vortex generation.",
+  "Radar backscatter from wake vortices in clear air is caused by Bragg scattering from refractive index fluctuations.",
+  "The refractive index depends on air density, water vapor content, and temperature, modeled by Thayer's formula.",
+  "Radar cross-section (RCS) is computed by coupling Navier-Stokes flow simulations with Maxwell electromagnetic scattering equations.",
+  "The Born approximation is used to simplify electromagnetic scattering calculations.",
+  "Simulations use Reynolds number Re = 5000 and Brunt\u2013V\u00e4is\u00e4l\u00e4 frequency N \u2248 0.01 s\u207b\u00b9 for moderate stratification.",
+  "Radar Doppler signatures characterize vortex roll-up geometry and velocity distribution.",
+  "Rainy weather radar simulations incorporate raindrop concentration and scattering effects to model radar signatures.",
+  "Field trials at Paris Charles de Gaulle airport support RECAT-EU deployment.",
+  "Radar detection can localize wake vortices in range, azimuth, and elevation with high Doppler resolution (~0.2 m/s).",
+  "Wake vortex encounters mostly occur below 100 feet and between 3500-4500 feet altitude.",
+  "Radar trials have detected wake vortices with RCS values around \u221265 to \u221280 dBm\u00b2 in S and C bands.",
+  "The radar model was validated against analytical sphere RCS results and Kwajalein experimental data.",
+  "Dynamic pair-wise separation minima based on radar detection and weather data can increase airport throughput safely."
+]
