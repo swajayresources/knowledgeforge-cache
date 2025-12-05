@@ -1,0 +1,22 @@
+[
+  "Composite absorbers were made from polystyrene resin and either permalloy or sendust magnetic powders.",
+  "Permalloy was used in two particle shapes: grain-type and flake-type.",
+  "Volume mixture ratios of magnetic materials ranged from 40% to 70%.",
+  "The real part (\u00b5') and imaginary part (\u00b5'') of complex permeability increased with higher magnetic material content.",
+  "Frequency dependence of \u00b5* for flake-type permalloy composites was similar to that of sendust composites.",
+  "All composites showed electromagnetic wave absorption above 1 GHz with return loss better than -20 dB.",
+  "Polystyrene resin layers isolate magnetic particles, reducing conductivity and preventing deterioration of absorbing characteristics.",
+  "Magnetic powders had an average grain size of about 10 \u00b5m.",
+  "Samples were shaped into toroidal cores with outer diameter 7 mm and inner diameter 3.04 mm for measurement.",
+  "Vector network analyzer measured S11 and S21 scattering parameters to calculate \u00b5*, \u03b5*, and return loss.",
+  "Grain-type permalloy composites showed gradual changes in \u00b5' and \u00b5'' up to ~3 GHz, then a decrease.",
+  "Flake-type permalloy composites showed rapid decreases in \u00b5' above 2 GHz and a local maximum in \u00b5'' near 3 GHz.",
+  "Sendust composites had similar \u00b5* frequency dependence to flake-type permalloy but higher \u03b5'' values.",
+  "The Snoek limit was observed in these composites but shifted to higher frequencies compared to ferrite materials.",
+  "Absorption center frequency decreased as the volume fraction of magnetic material increased.",
+  "Normalized -20 dB bandwidth was broader for grain-type and flake-type permalloy composites than for sendust composites.",
+  "Sample thickness from 3 mm to 11 mm influenced absorption frequency and bandwidth.",
+  "Large polystyrene particles caused non-uniform dispersion but magnetic particles were still coated with polystyrene resin.",
+  "Return loss R was calculated as 20 log |\u0393| where \u0393 is the complex reflection coefficient.",
+  "The study supports practical use of polystyrene-based composites for electromagnetic wave absorption above 1 GHz."
+]
