@@ -1,0 +1,22 @@
+[
+  "The EBG-backed folded slot antenna achieves a front-to-back ratio exceeding 15 dB at around 9.7 GHz.",
+  "The antenna bandwidth with EBG substrate is approximately 7.5% at 10-dB return loss.",
+  "The antenna gain is measured at about 3.7 \u00b1 0.2 dB, with an estimated efficiency between 80% and 90%.",
+  "The EBG substrate consists of a two-dimensional square lattice of dielectric rods with lattice constant 1.2 cm and rod size 4.8 mm, dielectric constant 10.2.",
+  "The EBG substrate creates an omnidirectional stopband between 7.5 GHz and 10 GHz for TM polarization.",
+  "Simulations used a full-wave integral equation/method of moments code and HFSS finite-element method.",
+  "The folded slot antenna length is 18.0 mm and width 2.0 mm for the EBG-backed design.",
+  "A reference folded slot antenna without EBG substrate shows significant pattern distortion and low front-to-back ratio (~0 dB).",
+  "Parasitic parallel-plate waveguide modes cause energy leakage and pattern dips of 7\u20138 dB in reference antennas.",
+  "The EBG substrate reflects parallel-plate TEM modes, preventing energy leakage through finite ground edges.",
+  "Supporting dielectric material left on the back plate (10\u201320% of substrate height) does not significantly affect antenna performance.",
+  "The EBG cavity formed is frequency-dependent and tunable by adding more EBG layers.",
+  "The two-dimensional EBG crystal avoids parasitic surface states that degrade efficiency in three-dimensional EBGs.",
+  "The antenna was fabricated on RT/Duroid substrates with dielectric constants 2.2 and 10.2 and thicknesses 127 \u03bcm and 2.54 mm respectively.",
+  "The folded slot antenna provides better impedance matching and bandwidth compared to a simple slot.",
+  "The antenna patterns with EBG substrate show reduced cross-polarization levels and smoother main lobes.",
+  "The effective parallel-plate waveguide mode cutoff is controlled by the plate separation being less than half the guide wavelength.",
+  "The EBG structure can be modeled as an array of infinite dielectric rods excited by a TEM wave with axial electric field.",
+  "The measured antenna gain is higher than the theoretical directivity of a slot in infinite ground due to EBG reflection effects.",
+  "The study demonstrates the potential for low-profile, high-efficiency planar antennas using EBG substrates."
+]
