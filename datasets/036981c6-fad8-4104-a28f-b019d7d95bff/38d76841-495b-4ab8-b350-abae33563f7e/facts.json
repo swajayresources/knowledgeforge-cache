@@ -1,0 +1,23 @@
+[
+  "The cone-shaped cloak's cross section increases gradually along the axial (z) direction.",
+  "Full wave scattering analysis shows the cloak supports propagation of any kind of electromagnetic fields.",
+  "A reduced set of cloaking parameters is derived for azimuthally invariant incident fields (m=0).",
+  "All components of the simplified cloak's material parameters are spatially invariant and larger than one.",
+  "The cloak can be realized physically within a wide frequency band for specific incident fields.",
+  "The cloak's permittivity and permeability tensors are anisotropic and inhomogeneous.",
+  "The radial components of permittivity and permeability become constant values larger than one.",
+  "The scalar potentials U and V are used to express electromagnetic fields inside the cloak.",
+  "The angular dependence of fields is governed by associated Legendre polynomials.",
+  "Boundary conditions enforce continuity of E_r, E_phi, H_r, and H_phi at cloak interfaces.",
+  "The electromagnetic fields inside the cloaked region are exactly zero for a perfect cloak.",
+  "The cloak performance is sensitive to perturbations at the inner boundary, causing scattering.",
+  "A polarization rotator capable of arbitrary polarization control is designed using similar transformations.",
+  "Ray tracing confirms the cloak bends and guides light smoothly around the internal region.",
+  "When the outer boundary angle is 90\u00b0, the cloak compresses waves into a thin quasi-plane.",
+  "Magnetic flux density blows up at the interior surface, interpreted as a magnetic surface current.",
+  "The cloak can exclude fields from the interior without near-field enhancement at the apex.",
+  "The separation parameter in the wave equation can be discrete or continuous depending on boundary conditions.",
+  "The cloak design is particularly suitable for rotationally symmetric source distributions.",
+  "The transformation function g(phi) is chosen as an arccosine function involving cosine terms of boundary angles.",
+  "The cloak can be fabricated as a thin layer with flat or sharp conical surfaces."
+]
