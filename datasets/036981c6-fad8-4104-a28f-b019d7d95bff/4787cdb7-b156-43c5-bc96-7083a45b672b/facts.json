@@ -1,0 +1,20 @@
+[
+  "PAN fabrics were coated with Ni\u2013Co alloys at two weight ratios: Ni0.2Co0.8 and Ni0.8Co0.2.",
+  "Coating times varied from 0.5 minutes to 8 minutes to study effects on absorption.",
+  "XRD confirmed hcp Co phases for Ni0.2Co0.8 and fcc Ni\u2013Co alloy phases for Ni0.8Co0.2 coatings.",
+  "SEM images showed nanoparticle clusters distributed on fabric fibers, with roughness increasing with coating time.",
+  "Electromagnetic constitutive parameters (\u03b5', \u03b5'', \u03bc', \u03bc'') were extracted using the Nicolson\u2013Ross\u2013Weir method from measured S-parameters.",
+  "Dielectric loss tangents (tan \u03b4_e) were higher than magnetic loss tangents (tan \u03b4_m), indicating dielectric-dominated absorption.",
+  "Return loss (RL) values reached below \u221220 dB over approximately 2 GHz bandwidth in X, Ku, and K bands for samples with shortest coating times.",
+  "Longer coating times led to cracked layers and reduced absorption performance.",
+  "The center frequency of minimum RL shifted depending on Ni/Co ratio: above 16 GHz for Ni0.2Co0.8 and below 16 GHz for Ni0.8Co0.2.",
+  "The coated fabrics had thicknesses around 2 mm during microwave testing.",
+  "The polymer overcoat prevented oxidation of Ni\u2013Co nanoparticles.",
+  "The study used a vector network analyzer (Agilent PNA E8364B) with waveguide sample holders for microwave measurements.",
+  "The lattice constants for hcp Co phase were a=2.505 \u00c5 and c=4.09 \u00c5, close to ideal values.",
+  "Crystals sizes calculated by Scherrer\u2019s formula ranged from 13.76 nm to 23.43 nm for different crystal planes.",
+  "The microwave absorption bandwidth did not significantly change with coating time.",
+  "The electroless deposition process is low-cost, low-temperature (<100\u00b0C), and suitable for industrial scale.",
+  "The coated fabrics are flexible, lightweight, and thin, suitable for military radar camouflage applications.",
+  "The study confirms that tuning Ni/Co ratio and coating time allows optimization of RAM microwave absorption properties."
+]
