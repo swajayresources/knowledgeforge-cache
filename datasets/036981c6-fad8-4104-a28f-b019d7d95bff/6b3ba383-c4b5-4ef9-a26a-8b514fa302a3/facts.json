@@ -1,0 +1,22 @@
+[
+  "Active catheters and guide wires move like a snake using distributed NiTi shape memory alloy (SMA) coil actuators.",
+  "The active catheter can bend, torsion (twist), and extend by changing SMA actuator configurations.",
+  "Communication and control IC chips embedded in the catheter reduce the number of lead wires to three common wires.",
+  "An active guide wire of 0.5 mm diameter was developed using a flat meandering SMA actuator.",
+  "The active guide wire can bend over 60 degrees with a 5 mm bending length by applying 50 mA current at 25\u00b0C.",
+  "The outer tube of the active catheter is made of evaporated parylene and biocompatible polyurethane.",
+  "A micromachined fiber-optic pressure sensor with 125 \u00b5m diameter was developed for catheter use.",
+  "The fiber-optic pressure sensor is electrically safe and immune to electromagnetic interference.",
+  "A forward-looking ring array ultrasonic probe with piezoelectric PZT ceramic transducers is mounted at the catheter tip.",
+  "The ultrasonic probe enables real-time 3D imaging of blood vessels without saline flushing.",
+  "Three-axis magneto-impedance sensors detect Earth's magnetic field and AC magnetic fields for catheter tip localization.",
+  "Batch assembly methods using nickel electroplating and acrylic electrodeposition enable low-cost fabrication.",
+  "The active catheter achieved a 60-degree bending angle at 32 mm length with 80 mA current at 25\u00b0C in air.",
+  "Surface temperature of the catheter during actuation was kept below 41\u00b0C in water at 38\u00b0C with 80 mA current.",
+  "Integrated circuits and sensors near the catheter tip help reduce X-ray exposure during interventions.",
+  "The active catheter's multi-joint mechanism is controlled remotely from outside the body.",
+  "The active catheter's diameter is approximately 1.4 mm.",
+  "The active guide wire consists of a meandering SMA actuator and a coil spring for flexibility.",
+  "The magnetic sensor system allows 3D navigation by superimposing catheter position on vessel maps from CT or MR angiography.",
+  "Future multifunctional active catheters may provide virtual reality-like feedback to doctors."
+]
