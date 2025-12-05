@@ -1,0 +1,22 @@
+[
+  "The proposed IR stealth scheme uses inverse distance weighted contrast radiant intensity (CRI) to synchronize object and background IR signals.",
+  "Repulsive particle swarm optimization (RPSO) is employed to estimate the optimal IR stealth surface temperature.",
+  "The test plate used was aluminum with white paint emissivity of 0.82 and dimensions 1000 mm \u00d7 1000 mm \u00d7 5 mm.",
+  "IR stealth performance was tested in midwavelength infrared (3.7\u20135.1 \u03bcm) and longwavelength infrared (7.5\u20139.1 \u03bcm) bands.",
+  "Background IR images were captured in a forest scene at approximately 0.4 km distance.",
+  "The inverse distance weighted method reduced CRI by up to 91% in MWIR and 79% in LWIR bands.",
+  "Compared to the previous area average method, the proposed method improved stealth performance by up to 20% in MWIR and 44% in LWIR.",
+  "The previous area average method assumes a constant IR stealth temperature, which limits performance when background IR signals vary.",
+  "The IR signal detected by the sensor includes self-emitted thermal radiation, reflected solar/sky irradiance, and atmospheric path radiance.",
+  "MODTRAN software was used to model atmospheric transmittance and path radiance based on measured weather data.",
+  "The RPSO algorithm updates surface temperature estimates by considering local and global best solutions and random perturbations.",
+  "The inverse distance weighting emphasizes background pixels closer to the object, improving stealth effectiveness in heterogeneous backgrounds.",
+  "The contrast radiant intensity (CRI) is defined as the weighted difference between object and background IR radiance.",
+  "The study was supported by Korean Defense Acquisition Program Administration (DAPA), Agency for Defense Development (ADD), and Chung-Ang University.",
+  "Experimental results showed better synchronization of IR signals using the proposed method across three different object positions.",
+  "The projected area of the object in the IR image is used in calculating the weighted CRI.",
+  "The fitness function in RPSO is based on minimizing the inverse distance weighted CRI to zero.",
+  "The study addresses limitations of passive IR detection by actively controlling the object's surface temperature.",
+  "The IR cameras used had 640\u00d7512 pixel resolution and fields of view approximately 11\u00b0\u00d78\u00b0.",
+  "The study confirms that active IR stealth technologies can be enhanced by advanced optimization algorithms like RPSO."
+]
