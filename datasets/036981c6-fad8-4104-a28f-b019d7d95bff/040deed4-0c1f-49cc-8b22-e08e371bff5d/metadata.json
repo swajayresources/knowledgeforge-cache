@@ -1,0 +1,15 @@
+{
+  "paper_id": "040deed4-0c1f-49cc-8b22-e08e371bff5d",
+  "title": "Electromagnetic Signature Reduction of Ferromagnetic Vessels Using Machine Learning Approach",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/040deed4-0c1f-49cc-8b22-e08e371bff5d/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/040deed4-0c1f-49cc-8b22-e08e371bff5d/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/040deed4-0c1f-49cc-8b22-e08e371bff5d/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/040deed4-0c1f-49cc-8b22-e08e371bff5d/keywords.json"
+  ]
+}
