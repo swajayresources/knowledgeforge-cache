@@ -1,0 +1,22 @@
+[
+  "The Rayleigh-Fourier method converges when the Waterman-Fourier method converges, independent of the Rayleigh hypothesis validity.",
+  "The Rayleigh least-squares method is numerically convergent if the boundary-value problem has a unique solution.",
+  "The Rayleigh hypothesis assumes the scattered field can be represented as a sum of outgoing and evanescent waves everywhere on and above the surface.",
+  "The paper considers periodic rough interfaces separating two general homogeneous media.",
+  "The reflected and transmitted fields are expanded on Bloch eigenwaves with T-matrix coefficients describing scattering.",
+  "Boundary conditions impose continuity of tangential electric and magnetic fields at the interface.",
+  "The constitutive relations between D, E and B, H fields are represented by frequency-dependent 3x3 matrices.",
+  "The complementary medium is defined by transposed constitutive matrices and used to establish reciprocity relations.",
+  "Numerical application involves a sinusoidal interface between a perfectly conducting medium and a bi-isotropic medium.",
+  "The Rayleigh-Fourier method projects boundary conditions in Fourier space to find scattered mode amplitudes.",
+  "The Rayleigh least-squares method minimizes the integrated square error on the boundary condition.",
+  "The paper extends Rayleigh methods applicability beyond simple isotropic media to anisotropic and bi-isotropic media.",
+  "The free-space dyadic Green\u2019s functions satisfy Maxwell equations with radiation conditions at infinity.",
+  "The T-matrix coefficients connect incident eigenwaves to reflected and transmitted eigenwaves.",
+  "The Rayleigh-Fourier and Waterman-Fourier perturbation series are identical for a large class of surfaces.",
+  "The Rayleigh least-squares method is less efficient computationally than the Rayleigh-Fourier method.",
+  "The paper provides a formal justification of the Rayleigh-Fourier method for general homogeneous media.",
+  "The eigenwaves are characterized by wavevectors with transverse components in the plane of periodicity.",
+  "The paper uses truncation of infinite series for numerical implementation of the Rayleigh-Fourier method.",
+  "The methods are shown to be applicable to electromagnetic scattering problems involving complex media."
+]
