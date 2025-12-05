@@ -1,0 +1,17 @@
+[
+  "MechanicalSystemsandSignalProcessing90(2017)44\u201363 ContentslistsavailableatScienceDirect Mechanical Systems and Signal Processing journal homepage: www",
+  "com/locate/ymssp A diagnostic imaging approach for online characterization of multi-impact in aircraft composite structures based on a scanning spatial-wavenumber filter of guided wave Yuanqiang Rena, Lei Qiua,b,\u21d1 , Shenfang Yuana, Zhongqing Sub,\u21d1 aResearchCenterofStructuralHealthMonitoringandPrognosis,StateKeyLabofMechanicsandControlofMechanicalStructures,NanjingUniversity ofAeronauticsandAstronautics,Nanjing210016,PRChina bDepartmentofMechanicalEngineering,HongKongPolytechnicUniversity,Kowloon,HongKong a r t i c l e i n f o a b s t r a c t Articlehistory: Monitoringofimpactandmulti-impactinparticularinaircraftcompositestructureshas Received18May2016 beenanintensiveresearchtopicinthefieldofguided-wave-basedstructuralhealthmon- Receivedinrevisedform21September itoring(SHM)",
+  "Comparedwiththemajorityofexistingmethodssuchasthoseusingsignal 2016 featuresinthetime-,frequency-orjointtime-frequencydomain,theapproachbasedon Accepted6December2016 spatial-wavenumberfilterofguidedwaveshowssuperbadvantageineffectivelydistin- guishing particular wave modes and identifying their propagation direction relative to thesensorarray",
+  "(cid:1)2016ElsevierLtd",
+  "\u21d1 Correspondingauthorsat:ResearchCenterofStructuralHealthMonitoringandPrognosis,StateKeyLabofMechanicsandControlofMechanical Structures,NanjingUniversityofAeronauticsandAstronautics,Nanjing210016,PRChina(L",
+  "005 0888-3270/(cid:1)2016ElsevierLtd",
+  "/MechanicalSystemsandSignalProcessing90(2017)44\u201363 45 1",
+  "Introduction Due to the superior characteristics over conventional materials, composite materials have been gradually adopted in aerospaceindustry[1\u20135]",
+  "Inthelasttwentyyears,manyresearchershavebeeninterestedintakingadvantagesofguidedwaveandpiezoelectric (referredasPZTintherestofthispaper)sensortorealizeimpactmonitoringofcompositestructures[6\u201311]",
+  "Inearlystudies, differentkindsofmethodshavebeenproposedtorealizeimpactlocalizationandimpactenergyestimationfromtheper- spectiveofgeometryormechanicsmodel[12\u201314]",
+  "However,inordertoimprovesignal-to-noiseratioandachievehighaccu- racy and tolerance of impact localization on real aircraft structures, many studies began to introduce PZT array based imaging techniques to impact localization in recent years, such as impact energy imaging [15,16], time-reversal imaging [17\u201321], multiple signal classification [22,23]",
+  "These methods researched till now have shown the practical application potentialofimpactimagingtechniquesbasedonguidedwaveinaerospaceindustry[24\u201326]",
+  "Comparing with those methods, the spatial-wavenumber filter has been proved to be an effective approachtodistinguishpropagatingdirectionanddifferentmodesoftheguidedwave,andhasbeenwidelyresearchedwith alotofwell-performedworkpublishedinrecentyears[27\u201330]",
+  "Toimprovethefeatureofon-linemonitoringofspatial-wavenumberfilter,PurekarandPines[31]and Wangetal",
+  "[32]developedon-linedamageimagingmethodsbytakingalinearPZTarrayinsteadofalaserDopplervibrom- eterasaspatialsamplingdevicebutanaccuratewavenumbercurvemustbemodeledormeasuredbeforehandinorderto performthespatial-wavenumberfilter"
+]
