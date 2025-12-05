@@ -1,0 +1,22 @@
+[
+  "Anisogrid composite lattice structures consist of geodesic unidirectional composite ribs made by automated wet filament winding.",
+  "Developed about 25 years ago for spacecraft applications, Anisogrid structures are now in serial production at the Russian Central Research Institute for Special Machinery.",
+  "Traditional carbon-epoxy rib-stringer stiffened airframes typically achieve only 10-20% weight reduction compared to aluminum, with significant cost increases.",
+  "The skin in Anisogrid structures is minimized or sometimes omitted because it contributes more to mass than to strength or stiffness.",
+  "Optimal cylindrical Anisogrid design depends on six variables: shell thickness, rib angle, rib widths, and rib spacings.",
+  "Three design methods are used: geometric programming, safety factor minimization, and numerical optimization.",
+  "Finite element analysis with discrete beam-type models is employed for structural analysis including global and local buckling.",
+  "Manufacturing steps include forming a silicon rubber coating with grooves, wet winding composite fibers, curing, machining, and removing mandrel and coating.",
+  "A Proton-M rocket lattice adapter weighs 50 kg total, with 28 kg being the lattice structure, and can withstand 2 MN axial compressive force.",
+  "Anisogrid lattice interstages on Proton-M have achieved about 30% weight reduction compared to aluminum rib-stringer prototypes.",
+  "Composite stringers have a g-coefficient of about 0.36 relative to aluminum, while composite skins have g-coefficients of 0.63 to 0.78, indicating skins are less weight efficient.",
+  "The allowable tensile strain for unidirectional carbon-epoxy composites is about 1.5%, while allowable compressive strain is about 0.4%.",
+  "The integral nature of Anisogrid structures reduces assembly operations and costs compared to traditional composite prepreg lay-ups.",
+  "Carbon fiber composite materials cost approximately 12 times more per unit mass than aluminum alloys in wet manufacturing processes.",
+  "The Anisogrid concept combines the geodesic structural approach with modern unidirectional composite technology for improved weight and cost efficiency.",
+  "Lattice composite fuselage sections can be about 60% lighter than aluminum prototypes.",
+  "Flat lattice structures can be used as fuselage rings, wing ribs, stabilizer spars, and cabin floor beams with much higher weight efficiency than aluminum.",
+  "The Proton-M rocket has successfully launched eight times with Anisogrid lattice adapters, including a record 5575 kg geosynchronous satellite payload.",
+  "The skin in Anisogrid structures mainly serves sealing and safety factor increase, often made from carbon or glass-epoxy fabric composites.",
+  "The manufacturing process developed allows for continuous winding without fiber distortion or buildup at nodes, enhancing damage tolerance."
+]
