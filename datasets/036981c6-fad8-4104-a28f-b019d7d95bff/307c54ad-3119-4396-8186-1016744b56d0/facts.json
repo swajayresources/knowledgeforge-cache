@@ -1,0 +1,22 @@
+[
+  "The studied cloak is a spherical transformation optics cloak discretized on a cubic lattice with spacing d = b/50.",
+  "The cloak has inner radius a and outer radius b, with b = 2a and wavelength \u03bb = b used in simulations.",
+  "Emission rate inside the cloak can be inhibited by up to five orders of magnitude for radial dipole orientation near the center.",
+  "Emission rate shows strong spatial oscillations within the cloak shell due to local-field effects from the discrete lattice.",
+  "For a source outside the cloak, emission rate is close to free space except near the cloak surface where a modest enhancement occurs.",
+  "Doubling the size of discrete elements reduces the number of elements by a factor of eight and weakens the cloaking effect.",
+  "Discrete cloaks support leaky resonant modes that couple to the source and affect emission dynamics.",
+  "Material dispersion is modeled by Lorentzian profiles for permittivity and permeability, consistent with causality and Kramers-Kronig relations.",
+  "Material losses introduce nonradiative decay channels, reducing radiative emission enhancements.",
+  "The cloak behaves as a leaky multimode cavity with multiple electromagnetic modes inside the shell.",
+  "The Purcell effect explains the frequency-dependent enhancement or inhibition of emission inside the cloak.",
+  "Discrete geometry causes electromagnetic leakage between the cloak interior and exterior, unlike ideal continuous cloaks.",
+  "Local-field effects depend on the precise position of the source relative to the discrete lattice elements.",
+  "Emission rate depends strongly on dipole orientation, with radial orientation showing stronger inhibition than tangential.",
+  "The discrete dipole approximation (DDA) allows efficient modeling of the cloak's electromagnetic response including losses and dispersion.",
+  "The study uses both DDA and finite element methods to analyze spherical and cylindrical cloak geometries.",
+  "At certain resonant frequencies (~0.8b wavelength), the emission inside the cloak can be enhanced rather than inhibited.",
+  "The cloak's discrete structure leads to a non-flat spatial and spectral local density of states inside the cloaked region.",
+  "The emission rate formula involves the imaginary part of the field-susceptibility tensor at the source location.",
+  "The study highlights the importance of considering metamaterial discreteness in practical invisibility cloak designs."
+]
