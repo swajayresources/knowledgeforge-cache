@@ -1,0 +1,22 @@
+[
+  "Classical boundary element methods for electromagnetic scattering suffer from low-frequency breakdown, losing stability as frequency approaches zero.",
+  "The scattering problem is modeled by the second-order curl-curl equation for the electric field with angular frequency \u03c9 > 0.",
+  "The boundary condition on the perfect electric conductor is a Dirichlet condition prescribing the tangential electric field trace.",
+  "The Silver\u2013M\u00fcller radiation condition ensures proper decay of scattered fields at infinity.",
+  "Energy spaces H(curl) and H(div) are used to define weak solutions with square-integrable fields and their derivatives.",
+  "Trace spaces H^{1/2} with div and curl regularity characterize the boundary values of electromagnetic fields.",
+  "The continuity equation links the surface delta distributions of the normal electric field and tangential magnetic field traces.",
+  "The stabilized formulation incorporates the continuity equation explicitly to prevent low-frequency instability.",
+  "For \u03c9 = 0, the electric field reduces to an electrostatic field, and the stabilized formulation remains valid.",
+  "The paper proves that the classical Maxwell system in distributional form leads to boundary integral equations with additional surface terms.",
+  "Integration by parts formulas are extended to energy spaces to handle boundary traces rigorously.",
+  "The paper uses Lipschitz polyhedral domains to model scatterer boundaries, allowing for realistic geometries.",
+  "The normal and tangential traces are defined as limits of test functions approaching the boundary from the exterior domain.",
+  "The stabilized boundary element method is verified by numerical examples showing robustness for all frequencies \u03c9 > 0.",
+  "The mathematical theory relies on recent results about the regularity and trace characterization of vector fields on Lipschitz boundaries.",
+  "The paper provides explicit formulas for the weak enforcement of Maxwell's equations in distributional sense.",
+  "The classical boundary element formulation fails to impose the Gauss law sufficiently at low frequencies.",
+  "The stabilized formulation ensures uniform stability and convergence of the numerical solution across frequencies.",
+  "The paper includes a detailed functional analytic framework for the Maxwell scattering problem.",
+  "The continuity equation for the surface delta distributions holds as h(NE, \u2207\u03c6) = \u03c9\u00b2 h(nE, \u03c6) for test functions \u03c6."
+]
