@@ -1,0 +1,22 @@
+[
+  "The mockup jet aircraft model is 14.5 m long, 9.42 m wide, and 4.5 m high.",
+  "The aircraft includes a dielectric radome and thin lossy coatings of uniform thickness 1.5 mm on wings and tail stabilizers.",
+  "The IE\u2013DDM decomposes the aircraft model into 13 geometrical groups and further into 45 subdomains for computation.",
+  "The combined field integral equation (CFIE) formulation is used to avoid internal resonance issues.",
+  "Robin-type transmission conditions are employed to enforce continuity of tangential fields across subdomain interfaces.",
+  "Nonconformal meshes at subdomain interfaces are handled by creating union meshes for accurate numerical integration.",
+  "The method integrates a generalized combined field integral equation (G-CFIE) for penetrable dielectric targets.",
+  "A specialized finite-element\u2013boundary-element (FEBE) method models PEC targets coated with lossy thin materials.",
+  "The coupling parameter in CFIE is set to 0.5 to balance electric and magnetic field operators.",
+  "Surface currents on subdomain interfaces are expanded using Rao\u2013Wilton\u2013Glisson (RWG) basis functions.",
+  "The resulting discretized system is solved using a preconditioned Krylov subspace iterative method with a block-Jacobi preconditioner.",
+  "The multilevel fast multipole algorithm (MLFMA) accelerates the coupling of subdomains.",
+  "The method enables independent meshing of subdomains, simplifying mesh generation for multiscale features.",
+  "The scattered fields from other subdomains act as secondary incident waves in the domain decomposition iteration.",
+  "The approach allows full-wave electromagnetic scattering solutions for electrically large and multiscale composite targets.",
+  "The paper presents numerical results demonstrating the method's capability on a complex jet aircraft model at X-band frequencies.",
+  "The integral operators L and K represent electric and magnetic field integral operators respectively, based on Stratton\u2013Chu formulas.",
+  "Transmission conditions ensure that the tangential electric and magnetic fields are continuous across interfaces despite nonmatching meshes.",
+  "The method addresses the 'mixed-frequency' problem caused by coexistence of electrically large and small features.",
+  "The domain decomposition approach reduces the ill-conditioning of the global matrix equation arising from multiscale geometry."
+]
