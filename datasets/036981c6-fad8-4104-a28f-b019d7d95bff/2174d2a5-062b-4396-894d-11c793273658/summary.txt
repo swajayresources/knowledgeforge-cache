@@ -1,0 +1,1 @@
+This paper proposes a method to detect a perfect invisibility cloak using electromagnetic detection. The method involves shooting a fast-moving charged particle through the cloak, generating broadband radiation that makes the cloak visible. The researchers demonstrate the detection mechanism using a spherical cloak and a charged particle.
