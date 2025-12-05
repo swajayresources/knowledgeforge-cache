@@ -1,0 +1,22 @@
+[
+  "Electromagnetic transient (EMT)",
+  "Frequency domain (FD) methods",
+  "Time domain (TD) methods",
+  "Numerical Laplace Transform (NLT)",
+  "Network reduction",
+  "Kron\u2019s reduction",
+  "Admittance matrix",
+  "Distributed parameter line model",
+  "Lumped parameter line model",
+  "Transformers modeling",
+  "Circuit breaker modeling",
+  "Multi-phase power distribution",
+  "Transient overvoltages",
+  "Switching operations",
+  "Fault analysis",
+  "Steady-state initial conditions",
+  "Modal decomposition",
+  "Norton equivalent circuit",
+  "Delta-wye transformer connection",
+  "Computational efficiency"
+]
