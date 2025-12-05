@@ -1,0 +1,22 @@
+[
+  "electromagnetic scattering",
+  "finite difference time domain (FDTD)",
+  "finite element time domain (FETD)",
+  "finite volume time domain (FVTD)",
+  "hybrid methods",
+  "overlapping grids",
+  "structured mesh",
+  "unstructured mesh",
+  "Maxwell's equations",
+  "perfect electrical conductor (PEC)",
+  "scattering width",
+  "perfectly matched layer (PML)",
+  "Huyghen's surface",
+  "cubic interpolation",
+  "Ferguson tensor product",
+  "barycentric coordinates",
+  "Hermite polynomials",
+  "CFL stability condition",
+  "Taylor-Galerkin method",
+  "mesh generation"
+]
