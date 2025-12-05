@@ -1,0 +1,15 @@
+{
+  "paper_id": "81667da6-00b3-4994-8c6a-fe0b78082e0b",
+  "title": "Active Redundant Hardware Architecture for Increased Reliability in FPGA-Based Nuclear Reactors Critical Systems",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81667da6-00b3-4994-8c6a-fe0b78082e0b/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81667da6-00b3-4994-8c6a-fe0b78082e0b/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81667da6-00b3-4994-8c6a-fe0b78082e0b/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/81667da6-00b3-4994-8c6a-fe0b78082e0b/keywords.json"
+  ]
+}
