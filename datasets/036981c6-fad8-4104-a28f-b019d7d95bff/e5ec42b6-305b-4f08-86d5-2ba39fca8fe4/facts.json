@@ -1,0 +1,22 @@
+[
+  "The paper studies electromagnetic scattering for time-domain Maxwell's equations in an unbounded structure.",
+  "The structure is an infinite rough surface, a non-local perturbation of an infinite plane surface.",
+  "The usual Silver\u2013Mueller radiation condition is not valid for unbounded structures.",
+  "An exact time-domain transparent boundary condition (TBC) is developed.",
+  "The scattering problem is reformulated as an initial-boundary value problem in an infinite rectangular slab.",
+  "The well-posedness and stability of the reduced problem are established.",
+  "The method of energy, the Lax\u2013Milgram lemma, and the inversion theorem of the Laplace transform are used.",
+  "A priori estimates with explicit time dependence are derived for the electric field.",
+  "The dielectric permittivity and magnetic permeability are assumed to be real, bounded, and measurable functions.",
+  "The initial conditions for the electric and magnetic fields are compactly supported in the infinite rectangular slab.",
+  "Sobolev spaces H(curl,\u03a9) and H0(curl,\u03a9) are used for the functional spaces.",
+  "Tangential functional spaces H\u22121/2(curl,\u0393j) and H\u22121/2(div,\u0393j) are introduced for the boundary conditions.",
+  "The Laplace transform is used to derive the transparent boundary condition.",
+  "The capacity operator B j is continuous and maps H\u22121/2(curl,\u0393j) to H\u22121/2(div,\u0393j).",
+  "The real part of the sesquilinear form involving B j is non-negative.",
+  "The paper provides a rigorous mathematical foundation for the analysis of electromagnetic scattering in unbounded structures.",
+  "The results are relevant for applications in radar, optics, and geophysics.",
+  "The assumptions are restrictive for the dielectric permittivity and magnetic permeability.",
+  "Future research directions include finding the least restrictive conditions for the coefficients.",
+  "The paper is organized into sections on problem formulation, auxiliary problems, well-posedness, and conclusions."
+]
