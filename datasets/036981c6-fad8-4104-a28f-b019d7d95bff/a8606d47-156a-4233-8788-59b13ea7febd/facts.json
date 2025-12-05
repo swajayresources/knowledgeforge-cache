@@ -1,0 +1,22 @@
+[
+  "The paper defines a chiral Calder\u00f3n-type surface operator to solve the direct electromagnetic scattering problem in chiral media.",
+  "The direct scattering problem involves a chiral dielectric with a perfectly conducting core.",
+  "The Drude\u2013Born\u2013Fedorov constitutive relations are used to model chiral media.",
+  "Electromagnetic fields in chiral media decompose into left circularly polarized (LCP) and right circularly polarized (RCP) components with different wavenumbers.",
+  "The scattered electric field satisfies a modified Silver\u2013M\u00fcller radiation condition adapted for chiral media.",
+  "The Calder\u00f3n-type operator is shown to be bounded, coercive, and compact in appropriate Sobolev spaces.",
+  "The existence and uniqueness of solutions to the direct scattering problem are proved using the Fredholm alternative.",
+  "The far-field operator is defined on the unit sphere and encodes the far-field scattering data.",
+  "The chiral far-field operator is normal and satisfies a key scattering relation involving its adjoint.",
+  "Injectivity and dense range of the far-field operator correspond to the absence of nontrivial electromagnetic eigenfunctions (chiral Herglotz functions).",
+  "The perfect conductor boundary condition requires the tangential electric field to vanish on the core boundary.",
+  "The variational formulation of the scattering problem uses sesquilinear forms involving the Calder\u00f3n-type operator.",
+  "Vector spherical harmonics form a complete orthonormal system used to expand tangential fields on the spherical boundary.",
+  "The chirality parameter \u03b2 is a positive real constant influencing wave propagation in the medium.",
+  "The factorization method of the chiral far-field operator is proposed for inverse scattering shape reconstruction.",
+  "The paper provides a rigorous mathematical framework for electromagnetic scattering in chiral media with penetrable and perfectly conducting components.",
+  "The Calder\u00f3n-type operator acts between fractional Sobolev spaces of tangential fields on the scatterer's boundary.",
+  "The paper extends classical electromagnetic scattering theory to include chiral media effects and polarization coupling.",
+  "The far-field operator is constructed as a block operator matrix acting on a direct sum of subspaces corresponding to LCP and RCP components.",
+  "The study includes proofs of operator properties necessary for applying inverse scattering methods."
+]
