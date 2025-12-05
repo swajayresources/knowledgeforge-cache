@@ -1,0 +1,17 @@
+[
+  "Citation information: DOI 10",
+  "3008627, IEEE Transactions on Antennas and Propagation 1 RCS Synthesis of Array Antenna with Circulators and Phase Shifters and Measurement Method for Deterministic RCS Reduction Narihiro Nakamoto, Member, IEEE, Toru Takahashi, Senior Member, IEEE, Toru Fukasawa, Member, IEEE, Naofumi Yoneda, and Hiroaki Miyashita, Senior Member, IEEE Abstract\u2014This paper presents a radar cross section (RCS) the electromagnetic band-gap (EBG) structures [4]\u2013[7] and reduction method using antennas with circulators and phase replacing the ground plane by frequency selective surface shifters",
+  "In this method, an antenna connected to a circulator (FSS)[8]\u2013[10],whicharemethodsforthefirsttypeofantenna with a phase shifter and an amplifier in its circulation path RCSreduction",
+  "Plasma screen covering antennas is also paper proposes array RCS synthesis methods for antenna RCS a method for the first type of antenna RCS reduction [11], minimizationandforbroadeningRCSreductionbandwidthand [12]",
+  "easily applicable method for the second type of antenna RCS IndexTerms\u2014Antennaarray,antennamode,circulator,phase reduction [13]\u2013[15], but it has limitations in terms of RCS shifter, RCS, structural mode reduction bandwidth and angular range",
+  "INTRODUCTION reduction,inwhichtheantennamodeisadjustedtocancelthe ANTENNA radar cross section (RCS) reduction has re- structuralmodebytheloadedimpedance[1],[2],[16],[17]",
+  "It is known phase-switched screen (PSS) is a method used for the fourth that a scattered field by antennas consists of two components: type of antenna RCS reduction, which can provide dynamic the structural mode scattered field and the antenna mode controloftheantennaRCSbycontrollingtheswitchingtimes scatteredfield[1]\u2013[3]",
+  "Thestructuralmodeoriginatesfromthe of PSS [18], [19]",
+  "In [18], PSS is installed around antennas, interactionbetweentheincidentfieldandtheantennastructure, and hence it is difficult to apply it to closely spaced phased and it is determined by the shape, material, and the structure arrayantennas",
+  "Ontheotherhand,in[19],PSSisinstalledover surrounding the antenna",
+  "the re-radiation of antennas, which is associated with the In this paper, we focus on inband antenna RCS reduction antennaradiationpropertyandloadedimpedance[1]",
+  "The first one is a method reduction [20]",
+  "Radar absorbing materials are achieved using the circulation path should be limited by the isolation level Manuscript received October 23, 2018; revised May 26, 2020; accepted of the circulator to avoid unwanted oscillation, this method June 13, 2020",
+  "Date of publication ** **, 2020; date of current version ** is effective thanks to the amplifier even when the structure **,2020",
+  "Because the components TheauthorsarewithMitsubishiElectricCorporation,Kamakura,Kanagawa 247\u20138501,Japan(e-mail:Nakamoto"
+]
