@@ -1,0 +1,17 @@
+[
+  "Model-order reduction techniques for linear electromagnetic problems \u2013 an overview 1 2 1 M",
+  "Lager 1 Delft University of Technology, International Research Centre for Telecommunications-Transmission and Radar, Mekelweg 4, P",
+  "Box 5031, 2600 GA, Delft, the Netherlands, Phone: +31 15 2781034, E-Mails: m",
+  "nl 2 Katholieke Universiteit Leuven, Departement of Electrical Engineering \u2013 ESAT, Kasteelpark Arenberg 10, 3001 Leuven, Belgium, Phone: +32 16321110, E-Mail: guy",
+  "under this umbrella (see the overview on this topic in [1])",
+  "stability, passivity, input-output be- Despite these, MITTRA identifies in a recent paper [2] a haviour)",
+  "This y = Cx (1) list could be easily augmented by mentioning, for instance, where x \u2208 Rn , y \u2208 Rp , u \u2208 Rm and A,B,C are constant problemsconcerningcomplexwaveguidenetworksanddielec- matrices of compatible dimensions",
+  "Note that the integer n can be in the order of complexity is discussed in [3]",
+  "In view of addressing the latter of the desiderata cited y\u02dc = C\u02dcx\u02dc (2) above, this contribution makes an inventory of the model- where x\u02dc \u2208 Rr , with r (cid:2) n and A\u02dc,B\u02dc,C\u02dc constant matrices order reduction (MOR) techniques that are available for the of appropriate dimensions",
+  "Thegoalisthentogenerate By observing this classification, after a short, formal descrip- reduced-ordermodelsthatapproximateacceptablytheoriginal tion of the MOR procedure, the account proceeds by firstly ones while drastically reducing the required memory storage describing briefly the theoretical background of the Krylov and computation time [4], [5], [6]",
+  "MOR without matrix factorisation In [22] and [23] the frequency response function of the A",
+  "Generalities system under investigation is expanded around a point at The Krylov subspace based MOR techniques [7], [8], [9] the infinity (early-time expansion [22]) or at the zero fre- areby far the most commonly adopted strategiesfor order re- quency (low-frequency expansion [23]), respectively",
+  "Furthermore, Krylov subspace methods can preserve, in the reduced-order model, important features of Inthecasewhenthemathematicaldescriptionofthesystem the original one, such as its passivity [10]",
+  "MOR in the context of local methods Examples of this type can be found in [24], [25], [26]",
+  "the application of MOR techniques, as demonstrated in, for This direction of research is firstly illustrated by the pub- example,[11],[12],[13],[14]"
+]
