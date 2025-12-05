@@ -1,0 +1,22 @@
+[
+  "The hybrid absorber (HA) achieves a minimum reflection loss of \u201322 dB at 8.9 GHz.",
+  "The dielectric composite absorber is fabricated with graphite and glass microballoon powders mixed into epoxy resin.",
+  "Sample C1 with 75% graphite and 25% GMB shows the widest 10 dB absorption bandwidth of 1.5 GHz at 1.2 mm thickness.",
+  "The metamaterial unit cell is a hexagonal closed ring with arrows, designed for electric and magnetic resonance.",
+  "The HA structure layers: 2 mm aluminum sheet, 0.5 mm FR-4 substrate with metamaterial, and 1.2 mm dielectric composite absorber.",
+  "The dielectric constant of composite C1 ranges from 7.5 to 6.8 in 6\u201312 GHz, with loss tangent 0.85 to 1.1.",
+  "The absorption bandwidth of the HA with C1 composite and metamaterial is 6 GHz at 1.2 mm thickness.",
+  "The antenna used for testing is a wideband Vivaldi antenna operating from 6 to 12 GHz.",
+  "The HA reduces the in-band radar cross section (RCS) of the antenna significantly while preserving antenna gain and radiation pattern.",
+  "The admittance analysis shows the real part of HA admittance close to free space admittance (~2.65 \u00d7 10\u207b\u00b3 S) and imaginary part near zero.",
+  "The dielectric composite is fabricated by mixing epoxy LY5052 and hardener HY5052 in 100:38 ratio, stirred at 500 rpm, sonicated for 25 minutes, and cured under vacuum at 50\u00b0C for 2 hours.",
+  "Graphite powder average particle size is 10 \u03bcm; glass microballoon average diameter is 20 \u03bcm.",
+  "The metamaterial unit cell achieves a reflection minimum of \u201319.51 dB at 9.74 GHz with 200 MHz bandwidth.",
+  "The surface current distribution in the metamaterial shows circulating currents creating magnetic resonance.",
+  "The HA concept combines dielectric composite and metamaterial to broaden absorption bandwidth while minimizing thickness.",
+  "The dielectric absorber alone has reflection loss between \u20132 to \u201312 dB in 6\u201312 GHz, improved to \u201312 to \u201325 dB when combined with metamaterial.",
+  "The hybrid absorber is suitable for aerospace and stealth applications due to its lightweight and broadband absorption.",
+  "The fabricated dielectric composite sheet dimensions are 15 cm \u00d7 15 cm for free-space measurements.",
+  "The reflection loss (RL) is calculated using normalized input impedance and S-parameters measured experimentally.",
+  "The metamaterial structure is simulated using CST Microwave Studio with periodic boundary conditions and plane wave excitation."
+]
