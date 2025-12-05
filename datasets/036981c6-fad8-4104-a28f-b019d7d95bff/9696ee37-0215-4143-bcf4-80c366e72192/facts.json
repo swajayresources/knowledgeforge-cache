@@ -1,0 +1,18 @@
+[
+  ",23,1145}1159(2000) MOSsubjectclassi\"cation: 45F15;35Q60;35P25 Integral Equation Methods in Electromagnetic Scattering from Anisotropic Media Roland Potthast* Institut fu(r Numerische und Angewandte Mathematik, Lotzestrasse 16}18, D-37083 Go(ttingen, Germany Communicatedby G",
+  "Copyright(2000JohnWiley&Sons,Ltd",
+  "1) +]H#iiN(x)E\"0 Herethewavenumberi\u20190isde\"nedbyi2\"e k u2andweassumetherefractive 0 0 index N\"N(x) to be a complex 3]3-matrix which is given by 1 A p(x)B N(x)\" e(x)#i (1",
+  "2) e u 0 *Correspondence to: R",
+  "Potthast, Institut fuKr Numerische und Angewandte Mathematik, Lotzestrasse 16}18,D-37083GoKttingen,Germany Copyright(2000JohnWiley&Sons,Ltd",
+  "Received16March1999 1146 R",
+  "N is bounded in R3",
+  "Let Ei, Hi3H(1)(R3) be a solution of Maxwell\u2019s equations for the background -0# medium, i",
+  "Ei,Hi solves (1",
+  "1) with N(x),I",
+  "We want to \"nd a solution E, H3H(1)(R3) of (1",
+  "1) such that the scattered \"eld Es, Hs de\"ned by -0# E\"Ei#Es (1",
+  "3) H\"Hi#Hs satis\"es the Silver}MuKller radiation condition lim (Hs]x",
+  "we have N(x)\";(x)N (x);*(x) with a diagonal matrix N and D D ;*(x);(x)\"Iforeveryx3R3",
+  "In section2 we derivean integralformulationfor the scattering problem",
+  "We can summarize our results in the following: Theorem9"
+]
