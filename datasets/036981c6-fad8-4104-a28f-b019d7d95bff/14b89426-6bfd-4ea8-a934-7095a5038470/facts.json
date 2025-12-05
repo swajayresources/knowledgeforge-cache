@@ -1,0 +1,22 @@
+[
+  "The SRR unit cell is a cubic structure with 2.5 mm sides.",
+  "The SRR outer ring size is 2.2 mm with a width of 0.2 mm and an opening width of 0.3 mm.",
+  "The substrate permittivity for the SRR is 4.4 with thickness 0.25 mm.",
+  "The SRR resonates near 9.75 GHz with negative permeability and refractive index.",
+  "The microstrip antenna substrate is RF4 with permittivity 4.4 and thickness 2.8 mm.",
+  "The antenna patch size is 6.6 mm by 6.6 mm.",
+  "The ground plane size is 40 mm by 40 mm.",
+  "The antenna operates at 10.2 GHz and is fed by a coaxial line.",
+  "The PBG structure consists of square holes of 4.8 mm by 4.8 mm with a period of 7.2 mm around the antenna.",
+  "The PBG structure increases antenna gain from 5.37 dB to 6.07 dB (an improvement of 0.7 dB).",
+  "The SRR cover does not change the antenna gain but reduces RCS significantly.",
+  "The antenna bandwidth after adding PBG and SRR cover is 1.4 GHz.",
+  "The SRR units are arranged vertically with a 4 mm period and placed 2.5 mm above the patch.",
+  "The RCS reduction is up to 21.05 dB, with tangential direction RCS reduced from -31.32 dB to -52.37 dB.",
+  "Normal direction RCS is reduced from -16.24 dB to -24.23 dB by the SRR cover.",
+  "The SRR cover causes scattering waves to deviate from the mirror direction, reducing RCS.",
+  "The PBG structure inhibits surface waves, improving radiation efficiency and directivity.",
+  "The SRR exhibits left-handed material properties (negative permeability and refractive index) near resonance.",
+  "The antenna design balances stealth (low RCS) and performance (high gain and bandwidth).",
+  "The study uses simulation to validate antenna gain, return loss, radiation patterns, and RCS."
+]
