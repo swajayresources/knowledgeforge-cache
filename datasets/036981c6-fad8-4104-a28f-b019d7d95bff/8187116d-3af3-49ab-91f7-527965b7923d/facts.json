@@ -1,0 +1,22 @@
+[
+  "The metamaterial unit cell consists of a single-gap SRR printed on a Rogers 5880 substrate with a Teflon slab backing.",
+  "Typical unit cell dimensions are 1.354 mm \u00d7 5 mm \u00d7 5 mm with copper wire thickness t=0.06 mm.",
+  "The resonance frequency (f0) and magnetic plasma frequency (fp) are key parameters characterizing the SRR's magnetic response.",
+  "Increasing the gap size s from 0.1 mm to 0.65 mm raises f0 from 7.20 GHz to 8.54 GHz and fp from 8.05 GHz to 9.51 GHz.",
+  "Increasing the copper wire width w from 0.22 mm to 0.40 mm lowers f0 from 8.63 GHz to 7.44 GHz and fp from 9.54 GHz to 8.48 GHz.",
+  "Increasing the copper wire lengths ly and lz similarly decrease resonance frequencies.",
+  "Increasing copper wire thickness t from 0.06 mm to 0.12 mm decreases f0 from 8.40 GHz to 7.57 GHz and fp from 9.54 GHz to 8.61 GHz.",
+  "The effective permeability at 9.5 GHz can be tuned from near zero to about 0.5 by adjusting SRR geometry.",
+  "The designed invisibility cloak consists of 10 concentric cylindrical layers with radii from 27.1 mm to 83.18 mm.",
+  "Each cloak layer uses SRR unit cells with specific geometric parameters to achieve the required radial permeability gradient.",
+  "The cloak operates for TE polarization with electric field parallel to the cylinder axis.",
+  "Transformation optics compresses the original cylindrical region into a hollow shell, requiring spatially varying permeability and permittivity.",
+  "The azimuthal permeability \u00b5h is set to unity and axial permittivity \u03b5z is constant at 2.2 for practical realization.",
+  "The magnetic resonance frequency of the SRR unit cell is approximately 8.4 GHz, with a low-loss band around 9.5 GHz.",
+  "The S-parameters retrieval method is used to extract effective permeability from simulated scattering parameters.",
+  "The resonance band shifts to higher frequencies with increasing gap size and to lower frequencies with increasing wire width and length.",
+  "The thickness of the copper wires affects both the resonance frequency and the bandwidth of the magnetic response.",
+  "The cloak design ensures minimal scattering and reflection, rendering the interior region electromagnetically invisible.",
+  "The SRR unit cells are subwavelength in size, less than 1/10 of the free-space wavelength at 9.5 GHz.",
+  "The study confirms that geometric tuning of SRRs enables practical metamaterial designs for microwave invisibility cloaks."
+]
