@@ -1,0 +1,17 @@
+[
+  "The MUSIC algorithm is a signal processing technique used to estimate the direction of arrival (DOA) of signals in a sensor array.",
+  "Ordinary MUSIC algorithms assume that the signals from multiple damage sources are independent.",
+  "The proposed correlated 2D-MUSIC method uses spatial smoothing to separate the sensor array into subarrays.",
+  "The near-field condition is when the distance between the sensor array and the damage source is small enough that the wave fronts are spherical, not planar.",
+  "The wavelength of the signal used in the experiment is 28.7 mm.",
+  "The near-field condition for the experiment is when the distance between the ULSA and the damage source is less than or equal to 250.8 mm.",
+  "The damage is simulated using a mass block with a 10 mm diameter circular section.",
+  "7 PZT sensors are used in the experiment.",
+  "The sampling rate used in the experiment is 5 MHz.",
+  "The exciting frequency used in the experiment is 50 kHz.",
+  "The phase velocity of the signal used in the experiment is 1437 m/s.",
+  "The proposed method is validated using experiments on a carbon fiber composite plate and a real aircraft composite oil tank.",
+  "The algorithm is able to detect multiple damage sources in the near-field condition.",
+  "The spatial smoothing technique is used to separate the sensor array into subarrays.",
+  "The correlated 2D-MUSIC method is able to estimate the signal source direction correctly even when the sources are correlated."
+]
