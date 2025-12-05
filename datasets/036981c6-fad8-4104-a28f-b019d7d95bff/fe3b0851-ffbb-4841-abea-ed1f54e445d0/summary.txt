@@ -1,0 +1,1 @@
+This paper presents a design for a composite electromagnetic wave absorber made of soft magnetic materials (permalloy or sendust) dispersed and isolated in polystyrene resin. The absorber shows high absorption rates in the frequency range from 1 GHz to 10 GHz. The study investigates the effect of volume mixture ratio and sample thickness on the absorber's performance.
