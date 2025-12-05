@@ -1,0 +1,18 @@
+[
+  "790 IEEECOMMUNICATIONSURVEYS&TUTORIALS,VOL",
+  "2,SECONDQUARTER2015 A Survey and Tutorial of Electromagnetic Radiation and Reduction in Mobile Communication Systems YusufAbdulrahmanSambo,StudentMember,IEEE,FabienH\u00e9liot,Member,IEEE,and MuhammadAliImran,SeniorMember,IEEE Abstract\u2014This paper provides a survey and tutorial of elec- of mobile phones and the increased deployment of BSs closer tromagnetic (EM) radiation exposure and reduction in mobile to the general public in order to support the growing demand communication systems",
+  "Weprovideacomprehensivesurvey TherehavebeenmanypublicdebatesaboutthesitingofBSs of existing literature and also offer a tutorial on the dosimetry, metrics,internationalprojectsaswellasguidelinesandlimitson as well as the short and long-term implications of exposure to the exposure from EM radiation in mobile communication sys- EMemissionsfromtheseBSsonhumansandanimals[4]",
+  "A2011reportbythe I",
+  "INTRODUCTION internationalagencyforresearchoncancer(IARC)oftheworld health organization (WHO) concluded that EM radiation is THEREhasbeenaremarkablegrowthinmobilecommuni- possiblycarcinogenictohumansandclassifieditasGroup2B, cations since its introduction in the 1970s",
+  "The evolution a category used when there is limited evidence of carcino- of mobile phones from mere voice communication devices to genicityinhumans[5]",
+  "Thetotalnumberofmobilesubscribersisprojected RadiationExposure to be over 8 billion by 2016 [1], which means that more BSs wouldhavetobedeployedtosupporttheever-growingincrease In this subsection, some international projects with the ob- in mobile users",
+  "Thus, (cid:129) TheInternationalEMFProject concernsaboutpossibleadversehealtheffectsduetoexposure The international EMF project is an ongoing project to RF radiation from mobile communication systems are also establishedbytheWHOin1996toassesspossiblehealth growing[2],[3]",
+  "Somekeyobjectivesoftheproject ManuscriptreceivedJanuary8,2014;revisedSeptember1,2014;accepted are to aid the development of internationally acceptable October4,2014",
+  "DateofpublicationOctober21,2014;dateofcurrentversion May19,2015",
+  "standards on EM radiation exposure, provide an interna- TheauthorsarewiththeInstituteforCommunicationSystems(ICS),Univer- tionalresponsetoconcernsaboutpossiblehealtheffectsof sityofSurrey,Guildford,GU27XH,U",
+  "DigitalObjectIdentifier10",
+  "2364136 radiationexposurebasedonscientificliterature",
+  "Also,the 1553-877X\u00a92014IEEE",
+  ":ELECTROMAGNETICRADIATIONANDREDUCTIONINMOBILECOMMUNICATIONSYSTEMS 791 projectaimstoencourageadedicatedresearchprogramme Although the exposure to EM radiation has been well in- on EM radiation exposure in partnership with funding vestigated, there is no consensus on the health effects of EM agencies and incorporate the research results into the radiation exposure from mobile communication systems",
+  "BasedonthissurveyandgiventhatEMradiationexposure mostreoccurringquestionsfocusontheEMradiationexposure iscloselylinkedwithspecificabsorptionrate(SAR)andtransmit levelswithinthevicinityoftheBSs,effectsofincreasedandin- power usage, we propose possible techniques for reducing EM discriminatedeploymentofBSsandEMregulatorycompliance radiationexposureinmobilecommunicationsystemsbyexploring knownconceptsrelatedtoSARandtransmitpowerreductionin ofBSantennas"
+]
