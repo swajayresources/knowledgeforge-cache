@@ -1,0 +1,23 @@
+[
+  "The absorber integrates a graphene capacitor layer and an active metasurface layer loaded with PIN diodes.",
+  "The graphene sheet resistance can be tuned from 1580 to 290 \u03a9/sq by varying bias voltage from \u22121.5 V to 3 V.",
+  "The active metasurface uses bow-tie dipole structures with PIN diodes modeled as variable resistors in series with chip inductance.",
+  "The \u221210 dB reflection bandwidth can be tuned from 3.55 GHz up to 19.6 GHz by adjusting bias voltages.",
+  "Reflection amplitude can be dynamically tuned between approximately \u22123.8 dB and \u221211.5 dB.",
+  "Three operation states are demonstrated: ultrawideband absorption (3.5\u201320 GHz), narrowband absorption (4.1\u201311.5 GHz), and shifted narrowband absorption (10.1\u201319.3 GHz).",
+  "The equivalent circuit model accurately predicts reflection performance and impedance matching.",
+  "Fabricated samples consist of 12\u00d712 unit cells with monolayer graphene transferred onto PET and ionic liquid electrolyte sandwiched in the capacitor layer.",
+  "The metasurface substrate is Rogers5880 with \u03b5 = 2.2 and thickness 0.254 mm.",
+  "The absorber is backed by a 5.6 mm thick foam slab and a metallic ground plane.",
+  "PIN diodes used are Flip Chip MA4SPS402 from M/A-COM.",
+  "Impedance matching is controlled by tuning the resistance of the graphene layer and the diode resistance via external bias voltages.",
+  "Electric field distribution simulations show absorption dominated by metasurface resonance at some states and by graphene Salisbury absorption at others.",
+  "The absorber can switch between ultrawideband and narrowband modes by changing bias voltages applied to graphene and diodes.",
+  "The design addresses limitations of previous absorbers with narrow bandwidth and low tunability.",
+  "The absorber can dynamically adapt its electromagnetic reflection properties for potential stealth and camouflage applications.",
+  "The PIN diode resistance can be tuned from 3 \u03a9 (on state) to 70 \u03a9 (off state) by bias current control.",
+  "The graphene capacitor layer uses a polyethylene membrane soaked with ionic liquid electrolyte (DEME TFSI) as the dielectric.",
+  "The metasurface unit cell periodicity is 15 mm with bow-tie dipole dimensions optimized for microwave absorption.",
+  "The absorber's reflection was measured using horn antennas and a vector network analyzer in an anechoic chamber at near-normal incidence.",
+  "The absorber achieves ultrawideband absorption with an average reflection level below \u221210 dB over a large frequency range."
+]
