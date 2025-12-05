@@ -1,0 +1,1 @@
+This paper presents an improved method for designing isotropic multilayered spherical cloaks for electromagnetic invisibility. The authors use a Fricke primary standard to determine the dose-to-water response of an alanine dosemeter for high-energy electrons. They find that the response is independent of energy and propose a unique correction factor for all MeV qualities.
