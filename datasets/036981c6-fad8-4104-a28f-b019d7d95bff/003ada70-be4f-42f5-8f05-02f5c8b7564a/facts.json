@@ -1,0 +1,22 @@
+[
+  "The domain decomposition method decomposes a photomask layout into constituent single-opening masks using the linearity of the Kirchhoff-Fresnel diffraction integral.",
+  "Two rigorous 2D electromagnetic simulations in cross-sectional planes replace computationally expensive 3D simulations.",
+  "Compact equivalent source models are constructed to minimize errors in the diffraction spectrum passing through the projection system.",
+  "Normalized mean square error of the near scattered field is typically less than 1% compared to full rigorous simulations.",
+  "Speed-up factors exceeding 400 times are achieved in total simulation time relative to rigorous 3D mask models.",
+  "The method accounts for the chromium absorption layer transmission by subtracting its effect multiple times during decomposition.",
+  "Mk-mask models are modified k-mask models with adjusted transmission functions that closely match rigorous r-mask diffraction spectra.",
+  "The method accurately captures the intensity imbalance effect in alternating phase-shifting masks that k-mask models fail to represent.",
+  "Through-the-lens (TTL) diffraction orders are the subset of diffraction orders collected by the projection system's numerical aperture.",
+  "The finite difference time-domain solver TEMPEST is used for rigorous electromagnetic field simulations.",
+  "The SPLAT simulator is used for aerial image formation based on mask scattering models.",
+  "The domain decomposition method has been extended to include energy cross-coupling (crosstalk) between neighboring apertures in alt PSMs.",
+  "The method supports arbitrary polygonal mask openings beyond rectangular shapes through further developments.",
+  "Off-axis illumination is modeled by adjusting the numerical aperture acceptance cone and partial coherence factors.",
+  "The method enables rapid and accurate simulation critical for model-based OPC and mask defect evaluation.",
+  "The electromagnetic near field below the mask is represented by six field components (Ex, Ey, Ez, Hx, Hy, Hz) in the rigorous model.",
+  "The k-mask model assumes a piecewise constant complex mask transmission function, which is insufficient for advanced photomasks.",
+  "The domain decomposition method was validated on a 400 nm 1:1 line/space alt PSM pattern with 80 nm thick chromium absorption layer.",
+  "The method achieves better than 0.5% accuracy in near-field scattered field for shallow-trench alt PSMs.",
+  "The method's decomposition approach is analogous to superposition of electromagnetic fields from individual mask openings."
+]
