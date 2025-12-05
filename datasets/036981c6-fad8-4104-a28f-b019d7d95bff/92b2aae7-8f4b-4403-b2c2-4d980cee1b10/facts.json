@@ -1,0 +1,22 @@
+[
+  "The computational suite combines surface and bulk scattering modules to predict electromagnetic signatures in polymeric materials.",
+  "Geometric optics ray tracing is used for surface scattering when the size parameter \u03b1 > 1.",
+  "Finite element methods solve Maxwell\u2019s equations for scattering when \u03b1 \u2264 1.",
+  "Surface roughness is statistically modeled using Gaussian distributions for peak and valley heights.",
+  "Atomic force microscope (AFM) scans can be used to input real surface profiles into simulations.",
+  "Increasing root mean squared (rms) surface roughness reduces mean hemispherical reflectance of PMMA surfaces.",
+  "Reflectance increases as the incident radiation angle approaches grazing incidence (85\u00b0).",
+  "Shadowing on rough surfaces increases non-linearly with incident angle and surface roughness.",
+  "The Bidirectional Reflectance Distribution Function (BRDF) is calculated from the differential reflection coefficient and geometric factors.",
+  "Direct computational methods predict material response to incident radiation; inverse methods design materials for desired responses.",
+  "The suite can simulate scattering from nanoscale fillers, pigments, fibers, and air voids within polymer matrices.",
+  "The geometric optics approximation requires about 1% of the CPU memory and 20% of the time compared to exact electromagnetic scattering solutions.",
+  "Multiple scattering and shadowing effects are included in the geometric optics ray tracing approach.",
+  "The size parameter \u03b1 is defined as \u03b1 = \u03c0D/\u03bb, where D is particle diameter and \u03bb is wavelength.",
+  "Materials with electromagnetic signature requirements include architectural coatings, stealth coatings, and metamaterials.",
+  "UV radiation transport affects photodegradation; IR radiation transport affects heat transfer in materials.",
+  "The computational approach is scalable from nanoscale surface roughness to macroscale surfaces like lunar regolith.",
+  "Five separate surface realizations are averaged in simulations to obtain statistically meaningful scattering results.",
+  "The suite can predict color change and appearance metamerism in coatings.",
+  "Surface scattering models include Kirchhoff, Davies, and Beckmann approaches as classical foundations."
+]
