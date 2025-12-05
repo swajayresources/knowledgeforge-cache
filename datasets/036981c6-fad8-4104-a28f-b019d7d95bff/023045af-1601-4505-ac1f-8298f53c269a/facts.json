@@ -1,0 +1,20 @@
+[
+  "February 19, 2014 10:25 WSPC/103-M3AS 1350070 Mathematical ModelsandMethodsinAppliedSciences Vol",
+  "5(2014)863\u2013899 (cid:1)c WorldScientificPublishingCompany DOI:10",
+  "1142/S021820251350070X Multiple scattering of electromagnetic waves by finitely many point-like obstacles DurgaPrasadChalla RICAM, Austrian Academy of Sciences, Altenbergerstrasse 69, A-4040, Linz, Austria durga",
+  "39, 10117 Berlin, Germany hu@wias-berlin",
+  "de MouradSini RICAM, Austrian Academy of Sciences, Altenbergerstrasse 69, A-4040, Linz, Austria mourad",
+  "at Received18March2013 Revised11May2013 Accepted14May2013 Published1November2013 CommunicatedbyP",
+  "AMSSubjectClassification:35J08, 35Q61,45Q05 863 moc",
+  "51/03/10 no NAGIHCIM FO YTISREVINU yb February 19, 2014 10:25 WSPC/103-M3AS 1350070 864 D",
+  "Introduction We consider the scattering of a time-harmonic electromagnetic plane wave from an inhomogeneous isotropic medium in R3 with electric permittivity (cid:1)=(cid:1)(x)>0, magneticpermeability\u00b5=\u00b50 >0andelectricconductivity\u03c3 =\u03c3(x)",
+  "Itissupposed thattheinhomogeneousmediumoccupiesaboundeddomainsuchthat(cid:1)(x)=(cid:1)0>0 and \u03c3(x) = 0 for x outside of some sufficiently large ball",
+  "Assume that the time- harmonic incident plane waves (with the time-form exp(\u2212i\u03c9t)) take the form Ei(x;\u03b8,p)=pexp(i\u03bax\u00b7\u03b8), Hi(x;\u03b8,p)=(\u03b8\u00d7p)exp(i\u03bax\u00b7\u03b8), \u03b8\u22a5p, \u221a where \u03ba := \u03c9 (cid:1)0\u00b50 > 0 is the wavenumber corresponding to the background medium and \u03b8,p \u2208 S2 := {x : |x| = 1} stand for the propagation and polarization directions,respectively",
+  "Then,thetotalelectricandmagneticfieldsE,H satisfythe reduced time-harmonic Maxwell equations curlE\u2212i\u03baH =0, curlH +i\u03ban(x)E =0, in R3 , (1",
+  "1) where the refractive index n=n(x) is given by (cid:1) (cid:2) 1 \u03c3(x) n(x):= (cid:1)(x)+i",
+  "(cid:1)0 \u03c9 The scatteredfields Es :=E\u2212Ei,Hs :=H\u2212Hi arerequiredto satisfythe Silver\u2013 Mu\u00a8ller radiation condition lim (Hs\u00d7x\u2212|x|Es)=0, |x|\u2192\u221e uniformly in all directions x\u02c6 := x \u2208 S2, leading to the electric and magnetic |x| far-field patterns E\u221e(x\u02c6),H\u221e(x\u02c6) given by the asymptotic behavior (cid:3) (cid:1) (cid:2)(cid:4) ei\u03ba|x| 1 Es(x) = E\u221e (x\u02c6)+O , |x| |x| (cid:3) (cid:1) (cid:2)(cid:4) (1",
+  "2) ei\u03ba|x| 1 Hs(x) = H\u221e (x\u02c6)+O , |x| |x| as |x|\u2192\u221e",
+  "Now, we present an example where the scatterers do not satisfy the condition (4",
+  "Numerical results and discussions For the convenience of visualization, we show the results for the scatterers in XY-plane",
+  "Appendix For the reader\u2019s convenience we show the proofs of (2"
+]
