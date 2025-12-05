@@ -1,0 +1,1 @@
+This paper presents a design for an electromagnetic invisibility cloak with a circular-elliptical shaped boundary, which allows for more flexible geometries and can channel incident waves smoothly around objects.
