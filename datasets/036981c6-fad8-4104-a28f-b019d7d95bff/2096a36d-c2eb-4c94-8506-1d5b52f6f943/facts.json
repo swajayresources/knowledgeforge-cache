@@ -1,0 +1,18 @@
+[
+  "PHYSICALREVIEWE85,056602(2012) Electromagneticforcesonadiscretesphericalinvisibilitycloakundertime-harmonicillumination PatrickC",
+  "Chaumet,1 AdelRahmani,2 Fre\u00b4de\u00b4ricZolla,1andAndre\u00b4 Nicolet1 1InstitutFresnel,CNRS,Aix-MarseilleUniversite\u00b4,CampusdeSt-Je\u00b4ro\u02c6me13013Marseille,France 2SchoolofMathematicalSciences,UniversityofTechnology,Sydney,BroadwayNSW2007,Australia (Received15November2011;published8May2012) Westudyelectromagneticforcesandtorquesonadiscretesphericalinvisibilitycloakundertime-harmonic illumination",
+  "1103/PhysRevE",
+  "056602 PACSnumber(s): 41",
+  "We discretize the object into a set of N polarizable force on an ideal electromagnetic cloak is exactly zero [1,2] subunits over a cubic lattice with period d [10,11]; i",
+  "By the time the pulse has died out, thelocalfieldsatasubunitlocatedatr canthenbewrittenas i however,thecloakwouldhaveacquiredazeronetmomentum (cid:2)N andexperiencedazeronetdisplacement[3]",
+  "E(r ,\u03c9)=Einc(r ,\u03c9)+ [Tee(r ,r ,\u03c9)\u03b1e(r ,\u03c9)E(r ,\u03c9) i i i j j j Inthisarticlewedealwiththetime-harmonicregime,and j=1 westudyhowanonidealcloakinteractsoptomechanicallywith +Tem(r ,r ,\u03c9)\u03b1m(r ,\u03c9)H(r ,\u03c9)], (1) anelectromagneticwave",
+  "Anyactualcloakingdevice,evenin i j j j the absence of fabrication imperfections, can achieve only (cid:2)N partial cloaking due to two main factors: material dispersion H(r ,\u03c9) =Hinc(r ,\u03c9)+ [Tme(r ,r ,\u03c9)\u03b1e(r ,\u03c9)E(r ,\u03c9) i i i j j j andabsorption,andthecomposite(i",
+  ",discrete)geometryof j=1 the metamaterial forming the cloak",
+  "Although the effects of +Tmm(r ,r ,\u03c9)\u03b1m(r ,\u03c9)H(r ,\u03c9)], (2) dispersion and absorption are sometimes taken into account i j j j in the definition of the permittivity and permeability of the where\u03c9istheangularfrequency,andthequantitieslabeledT cloak, the discrete geometry is more difficult to account for arefree-spacefieldsusceptibilitytensors[7,12]",
+  "To 3d3 thisendweuseagenericmodelofadiscrete(i",
+  ",composite) \u03b1e(r )= [\u03b5(r )\u2212I][\u03b5(r )+2I]\u22121, (3) 0 i 4\u03c0 i i cloakbasedonthediscretedipoleapproximation(DDA)[4\u20136]",
+  "IntheDDAformalism,thecomputationoftheelectromagnetic \u03b1m(r )= 3d3 [\u03bc(r )\u2212I][\u03bc(r )+2I]\u22121",
+  "(4) force on a discrete cloak amounts to computing the force 0 i 4\u03c0 i i on a collection of anisotropic magnetodielectric particles",
+  "Takingradiationreaction[5]intoaccountandintroducingthe Recent studies have addressed optical forces on isotropic wavenumberk 0,thepolarizabilitiestensorsinEqs",
+  "III we present the results obtained \u03b1m(r )= I\u2212(2/3)ik3\u03b1m(r ) \u22121\u03b1m(r )"
+]
