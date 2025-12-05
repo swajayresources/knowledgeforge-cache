@@ -1,0 +1,22 @@
+[
+  "The study focuses on estimating recurring labor costs for manufacturing an aircraft flap using RTM and VARTM liquid moulding processes.",
+  "RTM uses a closed mould with injection of resin under relatively high pressure into a dry preform.",
+  "VARTM uses vacuum to inject resin into a dry preform sealed with a vacuum bag on a single-sided tool.",
+  "The integral stiffened flap includes a flat skin, two tapered stiffeners, a tapered central blade stiffener, a central rib, and two gooseneck fittings.",
+  "Tapered stiffener design was chosen for its significant weight savings despite potentially higher tooling costs.",
+  "Process steps for RTM include tool preparation, preforming, injection and cure, finishing, and inspection.",
+  "Cost equations are based on MIT models using setup time (S), delay time (D), steady state velocity (S_v), dynamic time constant (D_t), part area, and number of parts.",
+  "Setup time (S) and delay time (D) were assumed zero for simplification in this preliminary study.",
+  "Cost constants D_t and S_v for tool preparation were estimated graphically using two data points: 15 minutes for the flap tool (7000 in\u00b2) and 3 minutes for a smaller fairing tool (100 in\u00b2).",
+  "VARTM requires additional vacuum bagging and distribution media steps not present in RTM.",
+  "VARTM recurring labor hours were found to be 10% greater than RTM, mainly due to vacuum bagging time.",
+  "Tool preparation times differ between RTM and VARTM due to tooling design differences.",
+  "The study uses a process flow chart approach to break down manufacturing into sub-processes and events for cost estimation.",
+  "The methodology aims to enable faster, more accurate conceptual design and manufacturing trade studies considering cost.",
+  "Future work includes extending the costing methodology to reinforced thermoplastic laminates and co-curing processes.",
+  "The research builds on Boeing's PCAD software approach for cost estimation of composite manufacturing.",
+  "The study assumes a single product per run, which affects the cost equation parameters.",
+  "The paper was published in 2002 in Composite Structures journal.",
+  "The research was conducted by Hawker de Havilland and Delft University.",
+  "The cost model accounts for geometry-related variables such as tool area and part area in estimating labor time."
+]
