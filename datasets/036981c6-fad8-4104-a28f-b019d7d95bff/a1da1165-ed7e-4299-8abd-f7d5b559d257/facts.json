@@ -1,0 +1,22 @@
+[
+  "The new standard reflecting plate is designed for radar absorbing materials measurement in the 3 mm band (90-100 GHz).",
+  "It uses a truncated pyramid structure made of metal with high permittivity.",
+  "Nominal reflectivities of the plates are -5 dB, -10 dB, and -15 dB.",
+  "The standard plate dimensions vary with bottom side lengths from 20 mm to 100 mm and thickness from 5 mm to 20 mm.",
+  "Slant angles of the truncated pyramid range from 15\u00b0 to 90\u00b0.",
+  "The radar cross section formula used is \u03c3 = 4\u03c0L^4 / \u03bb^2.",
+  "Simulation of the -5 dB plate showed reflectivity uncertainty of about 0.7 dB.",
+  "Existing Chinese national military standards cover 8-18 GHz and are inaccurate outside this range.",
+  "The new plate addresses calibration issues for frequencies beyond 18 GHz, especially 90-100 GHz.",
+  "Reflectivity measurement involves comparing reflected power ratios between absorbing material and standard metal plates.",
+  "The measurement system calibration process uses both -10 dB and -5 dB standard plates.",
+  "The new standard reflecting plate is easy to manufacture and use.",
+  "The plate improves calibration accuracy and stability in radar absorbing materials measurement systems.",
+  "The standard plate supports the bow test method and space translation method of reflectivity measurement.",
+  "The referenced standard plates in the national military standard measure 180 mm by 180 mm by 5 mm.",
+  "The new standard reflecting plate has been successfully used by the authors in their laboratory.",
+  "Calibration involves aiming the plate with a laser model locator for precise alignment.",
+  "The reflectivity of absorbing materials is derived from the ratio of reflection powers measured against the standard plate.",
+  "The new plate helps revise measurement system residuals to obtain accurate absorbing material reflectivity.",
+  "The development supports the advancement of stealth technology by improving measurement precision."
+]
