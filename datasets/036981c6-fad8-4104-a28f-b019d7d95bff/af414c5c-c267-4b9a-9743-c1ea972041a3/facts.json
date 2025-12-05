@@ -1,0 +1,17 @@
+[
+  "com/insight/0332-1649",
+  "htm Model order reduction techniques Modelorder reduction applied to magnetodynamic techniques T-X -formulation FabianM\u00fcllerandLucasCrampen InstituteofElectricalMachines,RWTHAachenUniversity,Aachen,Germany Received14January2020 ThomasHenneron Revised11April2020 EEA,Universit\u00e9deLille,Villeneuve-d\u2019Ascq,France Accepted13April2020 StephaneCl\u00e9net L2EP,ArtsetM\u00e9tiersParisTech\u2013CentredeLille,Lille,France,and KayHameyer InstituteofElectricalMachines,RWTHAachenUniversity,Aachen,Germany Abstract Purpose\u2013Thepurposeofthispaperistousedifferentmodelorderreductiontechniquestocopewiththe computational effort of solving large systems of equations",
+  "Keywords Modelorderreduction,Propergeneralizeddecomposition, Properorthogonaldecomposition,T-X-formulation,Finiteelementmethod PapertypeResearchpaper 1",
+  "Introduction Becauseofitsaccuraterepresentationoffieldquantities,theFiniteElementMethod(FEM) iscommonlyusedtosolvetransientelectromagneticfieldphenomenabyusingthemagnetic COMPEL-Theinternational journalforcomputationand This work was supported by the German Research Foundation (DFG) within the research project mathematicsinelectricaland electronicengineering number 347941356 \u201cNumerical Analysis of Electromagnetic Fields by Proper Generalized \u00a9EmeraldPublishingLimited DecompositioninElectricalMachines",
+  "1108/COMPEL-01-0 23 03 22 0- -1 06 04 259 COMPEL vector potential formulation",
+  "(2015), Henneron and Clenet (2013) and Henneron et al",
+  "The Proper Generalized Decomposition (PGD) originates from the field of mechanical and fluid-dynamic problems (Nouy, 2010) (Chinesta et al",
+  "It has shown its usefulness in facing numerous numerical challenges (Nouy, 2010), (Chinesta et al",
+  ", 2011), (Chinesta et al",
+  ", 2014), (Qin et al",
+  ", 2016a, 2016b) and has recently been applied to electromagnetic field computation in context with the magnetic vector potential formulation, inter alia, by Henneron and Clenet (2013), Qin et al",
+  "(2016a, 2016b) and Mueller et al",
+  "(2019a, 2019b)",
+  "Magnetodynamicfiniteelementformulation Toapplythemagneticscalarpotentialformulation,themagneticfieldstrengthneedstobe definedbyacombinationofthemagneticscalarpotentialXandtheelectricvectorpotential T(1)",
+  "H \u00bcT (cid:2)rX; (1) TisgivenbythesumoftheexcitingvectorpotentialT andtheeddycurrentconstituentT 0 e (2)"
+]
