@@ -1,0 +1,22 @@
+[
+  "The cloak is designed using a two-step coordinate transformation expanding a line segment into a diamond-shaped cloaked region.",
+  "Material parameters of the cloak are homogeneous and non-singular, avoiding infinite values.",
+  "The cloak consists of eight blocks made from only four kinds of homogeneous materials due to symmetry.",
+  "Parameters b=1 m, c=2 m, d=4 m, e=1 m, and a=0.15 m were used in simulations.",
+  "Numerical simulations at 0.15 GHz TM polarized plane wave show wave fronts bending around the cloak with minimal scattering.",
+  "Introducing a loss tangent of 0.1 causes strong forward scattering but little disturbance elsewhere.",
+  "Scattering increases with the length of the equivalent line segment and with incident wave angle deviation from parallel.",
+  "The cloak reduces total scattering cross section by at least 50% in the frequency range 0.13\u20130.17 GHz.",
+  "Material parameters are derived from the Jacobian of the coordinate transformation and expressed as tensors.",
+  "The cloak's inner and outer boundaries are diamond-shaped.",
+  "The cloak is equivalent to a small line segment in electromagnetic fields, enabling near-perfect invisibility.",
+  "The cloak can be fabricated using metamaterials like split-ring resonators or layered isotropic materials via effective medium theory.",
+  "Diagonalization of material tensors simplifies practical realization.",
+  "The cloak avoids singularities common in traditional point-expansion cloaks by expanding a line segment.",
+  "The cloak's performance varies with incident wave direction but remains effective for all tested angles.",
+  "The cloak is designed for two-dimensional cases but principles may extend to 3D.",
+  "The cloak's thickness can be adjusted by parameters b, c, d, e to tune material parameters within realizable ranges.",
+  "The cloak's design promises simpler fabrication compared to previous cloaks requiring continuously varying anisotropic materials.",
+  "The cloak's operation bandwidth is limited by material dispersion and losses modeled by Lorentzian functions.",
+  "The cloak's scattering is minimal when the equivalent line segment is sufficiently short."
+]
