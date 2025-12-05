@@ -1,0 +1,17 @@
+[
+  "Underwater electromagnetic signatures arise from induced and permanent magnetizations, eddy currents, corrosion-related currents, and electrical machinery onboard.",
+  "The Earth's magnetic field induces magnetizations in ferromagnetic ship hulls, contributing significantly to magnetic signatures.",
+  "Finite element (FE) methods are the preferred numerical technique for detailed modeling of ferromagnetic, eddy-current, and stray magnetic fields.",
+  "FE models require high mesh densities and numerical accuracy to predict fields near 1 Tesla amplitude at onboard sources and picotesla levels at threat sensor locations.",
+  "Permanent magnetization modeling in FE is challenging; two techniques include scaling induced magnetization or using large anhysteretic permeability constants.",
+  "Physical scale models have been used since World War II and provide more accurate signature predictions than FE models.",
+  "Thickness scaling and permeability-thickness modeling are two methods to construct magnetic scale models.",
+  "Verification involves peer review, comparison with analytic solutions, and cross-model comparisons; validation requires comparison with full-scale measurements.",
+  "Scale models typically predict signatures within 10% of full-scale ship measurements, considered reliable for design.",
+  "Degaussing coils actively cancel magnetic signatures; the M-coil effect quantifies signature change per ampere of coil current.",
+  "Signature reduction design must balance cost, weight, reliability, maintainability, and performance constraints.",
+  "The design process includes preliminary design with analytic models, detailed design with numerical models, final design, validation, and realization.",
+  "Design validation using full-scale prototypes has been reduced due to budget constraints, increasing risk of undetected design flaws.",
+  "Over- or under-design of signature reduction systems can lead to excessive costs or vulnerability to detection and mines.",
+  "Lessons from engineering failures emphasize the importance of critical thinking and not relying solely on computational models."
+]
