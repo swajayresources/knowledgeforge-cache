@@ -1,0 +1,22 @@
+[
+  "Classical TO-based cloaks require anisotropic, highly inhomogeneous, and dispersive materials with parameters ranging from near zero to infinity.",
+  "Ideal invisibility cloaks require material parameters that tend to infinity at the inner boundary and unity at the outer boundary.",
+  "Metamaterials used in TO cloaks are narrowband, dispersive, and sensitive to polarization and incident angle.",
+  "The proposed design uses wideband, realistic materials that can be fabricated in the laboratory.",
+  "The cloak thickness in classical TO designs is comparable to the wavelength, which is undesirable for stealth applications.",
+  "The transformation optics algorithm is based on the invariance of Maxwell's equations under coordinate transformations.",
+  "The Jacobian matrix of the coordinate transformation relates permittivity and permeability tensors between physical and virtual domains.",
+  "The paper proposes discretizing the cloak region into radial cells with matched mesh sizes in physical and virtual domains to ensure smooth transitions.",
+  "The scale factor \u03b3 between physical and virtual domains must tend to zero for perfect invisibility, causing extreme material parameter requirements.",
+  "Thin TO cloaks show deteriorated performance when discretized into a few layers compared to ideal continuous parameter cloaks.",
+  "The alternative approach focuses on designing multilayer radar absorbing materials (RAMs) as planar absorbers for arbitrary shapes.",
+  "The designed absorbers achieve reflection levels below -10 dB over wide frequency bands (e.g., 2 to 18 GHz).",
+  "The proposed absorbing blankets are relatively insensitive to polarization and incident angle variations.",
+  "Graphene materials and embedded frequency selective surfaces can enhance absorber performance and bandwidth.",
+  "The integral form of Maxwell's equations is used to derive material parameters for arbitrary geometries beyond simple scaling.",
+  "The cloak region must have finite thickness to avoid discontinuities and fabrication issues.",
+  "The proposed method circumvents problems of narrow bandwidth and sensitivity inherent in TO-based cloaks.",
+  "Test cases demonstrate the application of the modified transformation electromagnetics design methodology.",
+  "Classical TO cloaks require metamaterials with parameters that are difficult or impossible to realize practically.",
+  "The paper emphasizes the practical realizability of the proposed cloak and absorber designs."
+]
