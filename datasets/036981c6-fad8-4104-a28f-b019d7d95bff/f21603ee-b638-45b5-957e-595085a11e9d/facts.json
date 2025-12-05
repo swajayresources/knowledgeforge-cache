@@ -1,0 +1,22 @@
+[
+  "Stealth technology in U.S. military aviation was developed primarily from the early 1950s to 1970.",
+  "Radar Cross Section (RCS) varies wildly with aspect angle due to interference effects between different parts of the aircraft.",
+  "Radar signal strength returning from a target decreases with the fourth power of the target range.",
+  "A 95% reduction in radar signature reduces radar detection range by 50%.",
+  "Dynamic RCS measurements require instrumented aircraft and precise knowledge of aspect angles, making them difficult and costly.",
+  "Model measurement of RCS uses scaled aircraft models and scaled radar wavelengths to simulate full-scale radar echoes.",
+  "Early computational methods for RCS prediction were insufficient to model complex aircraft shapes.",
+  "Radar-absorbent materials (RAM) were developed starting in 1955 to reduce radar reflections from aircraft surfaces.",
+  "RAM must be thin, lightweight, durable, and able to withstand environmental stresses without compromising aircraft aerodynamics.",
+  "Impulse measurement systems were developed to rapidly characterize the electrical properties of RAM ingredients over a wide frequency range.",
+  "The T-33 aircraft was coated with broadband RAM and successfully flown to demonstrate radar signature reduction.",
+  "Flare spots are localized radar reflection sources on aircraft that significantly contribute to RCS.",
+  "Metal screens with fine mesh can act like solid metal to radar, affecting radar signature.",
+  "The radar echo pattern of an aircraft is highly dependent on radar frequency and polarization.",
+  "Blending with the radar background is more challenging for airborne vehicles due to near-zero radar background compared to ground vehicles.",
+  "The Avionics Laboratory at Wright-Patterson Air Force Base developed a large anechoic chamber known as 'the barn' for RCS measurements.",
+  "Early RCS test models were made of fiberglass over wooden frames and coated with conductive metallic paint.",
+  "The development of stealth technology was constrained by security considerations limiting public disclosure.",
+  "Radar signature reduction requires balancing cost-effectiveness against achievable signature reduction.",
+  "The paper emphasizes that stealth involves minimizing all observables, including infrared, visible, and acoustic signatures, but focuses on radar."
+]
