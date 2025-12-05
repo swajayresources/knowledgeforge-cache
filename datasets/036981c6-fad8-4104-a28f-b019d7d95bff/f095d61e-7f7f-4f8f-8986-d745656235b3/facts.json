@@ -1,0 +1,22 @@
+[
+  "Composite aircraft structures are vulnerable to barely visible impact damage (BVID) caused by low-velocity impacts such as tool drops or hailstorms.",
+  "Three composite structures tested were: GFRP laminated composite, Al-GFRP-Al multilayered composite, and CFRP composite from a military aircraft stabilizer.",
+  "PZT transducers with 5 mm diameter and 0.4 mm thickness were embedded in the symmetry plane of specimens.",
+  "Impact energies applied were 3 J, 6 J, and 9 J to induce damage.",
+  "Damage Indices (DI) based on signal correlation and energy distribution were used to detect damage from PZT sensor signals.",
+  "Averaged Damage Indices (ADI) combine multiple PZT sensor readings to provide a qualitative damage indication.",
+  "Ultrasonic inspection used a 5 MHz single transducer and phased array techniques to create C-scan images showing damage.",
+  "Thermographic inspection used a xenon lamp heat source and a FLIR SC 7000 IR camera with 54.71 Hz frame rate and 5 kJ excitation energy.",
+  "Thermography detected delaminations by observing elevated temperatures due to heat transfer barriers.",
+  "Vibration-based inspection employed laser Doppler vibrometers to measure modal shapes and frequency response functions in the 0\u20131.6 kHz range.",
+  "Damage detection via vibration analysis used wavelet transforms to identify singularities in modal shapes.",
+  "Aluminum face sheets in Al-GFRP-Al composites showed plastic deformation visible in ultrasonic C-scans.",
+  "PZT-based methods require baseline signals for comparison and are sensitive to transducer coupling and environmental conditions.",
+  "The study confirms that combining multiple NDT methods improves detection accuracy and damage characterization.",
+  "Embedded PZT networks can potentially enable continuous in-flight structural health monitoring.",
+  "Low-velocity impacts cause matrix cracking and delaminations that reduce residual strength and durability.",
+  "Thermographic inspection parameters were selected based on aircraft maintenance experience for optimal damage detection.",
+  "The CFRP structure tested contained rivet holes and delaminations typical of operational damage.",
+  "Ultrasonic guided wave techniques are widely used for BVID detection due to their sensitivity and localization capabilities.",
+  "Vibration-based damage detection is effective but requires dense measurement points and advanced signal processing."
+]
