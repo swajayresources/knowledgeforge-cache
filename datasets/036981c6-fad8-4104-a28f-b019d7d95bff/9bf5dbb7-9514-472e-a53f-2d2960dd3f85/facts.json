@@ -1,0 +1,22 @@
+[
+  "The study used 2024-T3 clad aluminum panels measuring 381 \u00d7 89 \u00d7 1.6 mm with a 25.4 mm central crack.",
+  "Octagonal single-sided boron/epoxy composite patches with 5 and 6 plies were designed and tested.",
+  "Patch thickness per ply was 0.132 mm, with adhesive thickness of 0.18 mm using FM-73 adhesive.",
+  "Stiffness ratios of 1.14 (5-ply) and 1.38 (6-ply) were calculated for patch to skin stiffness.",
+  "Finite element analysis used 8-noded hexagonal elements with 24 degrees of freedom.",
+  "Uniaxial tensile loading of 0.279 GPa (40.5 ksi) was used for design, with fatigue loading at 0.093 GPa (13.5 ksi) for 150,000 cycles.",
+  "Maximum skin stress decreased significantly after patch application.",
+  "Stress concentration shifted from crack front in unpatched panels to patch edges in repaired panels.",
+  "Tapering patch edges reduces peel stresses and secondary bending moments.",
+  "Adhesive thickness affects joint strength; thin layers (0.124\u20130.249 mm) are optimal.",
+  "Adhesive with high shear modulus improves joint strength but ultimate shear strain is more critical.",
+  "Patch thickness should balance stiffness to avoid early yielding due to neutral axis shift.",
+  "Fatigue crack growth rate follows Paris law and is reduced by patch application.",
+  "Experimental tensile tests validated finite element analysis results.",
+  "CRAS software facilitated patch design and parameter optimization.",
+  "Composite patch repair extends structural life and restores load carrying capacity.",
+  "Adhesively bonded patches avoid corrosion and stress concentrations associated with mechanical fasteners.",
+  "The study confirms the US Air Force interest in composite patch repairs for aging aircraft.",
+  "Patch design requires consideration of overlap length, patch thickness, adhesive properties, and tapering.",
+  "The maximum permissible strain in boron fibers was limited to 0.005 to avoid fiber breakage."
+]
