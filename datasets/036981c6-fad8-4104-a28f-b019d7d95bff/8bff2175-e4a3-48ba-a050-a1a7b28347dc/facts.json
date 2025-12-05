@@ -1,0 +1,18 @@
+[
+  "The cloak has a circular-elliptical shaped boundary.",
+  "The general coordinate transformation method is used to design the cloak.",
+  "The cloak can channel incident waves smoothly around objects.",
+  "The PEC object has dimensions al = 0.2 m, hI = 0.1 m and CI = 0.3 m.",
+  "The frequency of the incident wave is 3 GHz.",
+  "The angle of incidence in Fig. 2(c) is 40\u00b0 with respect to the x-axis.",
+  "The axial-ratio of the cloak in Fig. 2(d) is al = 0.1 m, hI = 0.4 m and CI = 0.5 m.",
+  "The material property in the z-direction is uniform.",
+  "The shape of the inner boundary is elliptical.",
+  "The shape of the outer boundary is circular.",
+  "The Jacobian transformation tensor is a matrix that relates the original and transformed coordinates.",
+  "The anisotropic property of the transformed materials is defined by Eqs. (3) - (8) in the paper.",
+  "The perfectly matched layer (PML) boundaries are used to remove undesired numerical reflections in the simulation.",
+  "The software used for the full-wave simulations is COMSOL Multiphysics.",
+  "The simulation results show that the cloak works well for different angles of incidence and shielded object dimensions.",
+  "The cloak can be designed with different axial-ratios and still channel incident waves smoothly around objects."
+]
