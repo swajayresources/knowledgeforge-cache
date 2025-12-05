@@ -1,0 +1,22 @@
+[
+  "Sendust particles used were spherical with average diameters of approximately 5, 10, and 20 \u00b5m.",
+  "Composite samples contained 53 vol% sendust dispersed in polystyrene resin.",
+  "A metal-backed single-layer absorber with 20 \u00b5m sendust particles absorbed over 99% of electromagnetic waves above 20 GHz.",
+  "Composites with 5 \u00b5m particles showed return loss less than -20 dB below 10 GHz and above 30 GHz.",
+  "The real part of relative complex permeability \u00b5\u2019 for 5 \u00b5m particles approached about 0.9 at high frequencies.",
+  "\u00b5\u2019 for 10 \u00b5m and 20 \u00b5m particles approached approximately 0.81 and 0.7 respectively at high frequencies.",
+  "The imaginary part \u00b5\u201d decreased with frequency and was nearly zero for 5 \u00b5m particles at high frequencies.",
+  "The frequency dependence of \u00b5* is influenced by natural magnetic resonance at low frequencies and eddy current effects at high frequencies.",
+  "Eddy currents flow on particle surfaces with skin depths smaller than particle size at high frequencies.",
+  "The nonreflective condition for absorption depends on \u00b5* and \u03b5* and sample thickness.",
+  "Polystyrene resin has a relative permittivity \u03b5\u2019 of about 19, assumed frequency independent.",
+  "Measurement of S-parameters was done using an Agilent 8722ES vector network analyzer.",
+  "The eddy current model predicts \u00b5\u2019 and \u00b5\u201d values that agree with measurements at high frequencies for large particles.",
+  "Ni-Zn ferrite and composites with aluminum or nickel particles were used to compare magnetic resonance and eddy current effects.",
+  "Sendust's magnetic properties allow flexible design of absorbers by tuning particle size and volume ratio.",
+  "The return loss of -20 dB corresponds to 99% absorption of electromagnetic wave power.",
+  "The composite thicknesses studied ranged from about 2.9 mm to 4 mm.",
+  "The absorption bandwidth normalized by center frequency varies with particle size.",
+  "The eddy current skin depths for aluminum and nickel particles at 1 GHz are approximately 2.6 \u00b5m and 1.3 \u00b5m respectively.",
+  "The study confirms that controlling particle size can tailor electromagnetic wave absorber performance across GHz frequency bands."
+]
