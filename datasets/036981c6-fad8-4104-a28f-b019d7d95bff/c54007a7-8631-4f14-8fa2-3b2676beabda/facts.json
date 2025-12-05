@@ -1,0 +1,22 @@
+[
+  "Hybrid joints achieved an average static peak strength of approximately 61.6 kN.",
+  "Purely bonded joints had an average static peak strength of about 60.9 kN.",
+  "Purely riveted joints had a significantly lower average static peak strength of about 36.8 kN.",
+  "Fatigue life of hybrid joints reached approximately 550,000 cycles at 6000 microstrain.",
+  "Fatigue life of bonded joints was around 440,000 cycles under similar conditions.",
+  "Fatigue life of riveted joints was the lowest, about 304,000 cycles.",
+  "Initial 2 mm cracks in the bondline reduced fatigue life by up to 5%.",
+  "Curing FM300-2K adhesive at 121\u00b0C for 90 minutes under 40 psi produced optimal bond strength.",
+  "Lower curing temperatures (e.g., 66\u00b0C) resulted in semi-cured or uncured bonds with very low strength.",
+  "Failure modes varied: riveted joints failed by bearing failure, bonded joints by adhesive cracking, hybrid joints by combined mechanisms.",
+  "Rivets in hybrid joints provide a fail-safe load path after adhesive failure.",
+  "Specimens were tested using an INSTRON 1342 machine with a 100 kN load cell.",
+  "Fatigue tests used a sinusoidal load at 5 Hz with R-ratio 0.1 and block loading regime increasing strain every 100,000 cycles.",
+  "Ultrasonic A-Scanning was used to verify bondline quality.",
+  "The FM300-2K adhesive has a tensile strength of 94.2 MPa and shear strength of 54.4 MPa.",
+  "Hybrid joints showed no significant static strength improvement over bonded joints but had superior fatigue resistance.",
+  "Rivet clamping pressure and adhesive bond strength control failure mode and damage progression.",
+  "Hybrid joints can detect weak bonding early, improving repair and certification processes.",
+  "The adherends were thin carbon fiber laminates with a total thickness of 5 mm for outer adherends and 10 plies for inner adherends.",
+  "Rivet arrays tested included 6 rivets in a square pattern and 3 rivets in a staggered pattern."
+]
