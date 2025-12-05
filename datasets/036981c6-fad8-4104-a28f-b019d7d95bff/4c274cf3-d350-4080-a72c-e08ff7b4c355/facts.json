@@ -1,0 +1,22 @@
+[
+  "An indoor X-band tracking radar system was developed to measure dynamic RCS of mini-UAVs in flight.",
+  "The UAV used was a Parrot\u2122 AR.Drone quadcopter, 0.51 m long and 0.45 m wide.",
+  "Radar frequency range used was 8\u201310 GHz with a peak output power of 35.5 dBm.",
+  "The radar used a 55 ms coherent pulse interval with 288 Hz pulse repetition frequency.",
+  "UAV position and orientation were tracked using 24 ceiling-mounted infrared cameras with 1 cm and 1\u00b0 accuracy.",
+  "Dynamic RCS measurements showed significantly higher values than static RCS measurements.",
+  "Static RCS measurements often showed deep nulls at specific aspect angles, which dynamic measurements averaged out.",
+  "Dynamic RCS modeling used lognormal PDFs fitted to 10\u00b0 yaw aspect bins.",
+  "The 50% probability of detection range increased by 15% when using dynamic RCS models compared to static ones.",
+  "The UAV's propellers rotate fully every 2 ms, contributing to dynamic RCS fluctuations.",
+  "Radar calibration included I/Q channel gain adjustment and boresight calibration using a 6-inch calibration sphere.",
+  "Left censoring in RCS measurements was handled by incorporating censored data likelihood in statistical modeling.",
+  "The decorrelation angle for the AR.Drone at 9 GHz was estimated as 0.0245 radians (1.4\u00b0).",
+  "The radar antenna had a beamwidth of 7\u00b0 elevation and 12\u00b0 azimuth.",
+  "Probability of detection was computed using the Marcum Q function integrating over the RCS PDFs.",
+  "The dynamic RCS measurement system can only measure UAVs with RCS greater than approximately \u221234.8 dBsm due to marker size and materials.",
+  "The UAV was equipped with three 11 mm diameter spherical motion capture markers for tracking.",
+  "The radar system used a quasi-monostatic antenna arrangement with two X-band standard gain horn antennas.",
+  "The indoor radar range was 7.2 m swath length with azimuth scanning from \u221295\u00b0 to +95\u00b0 and elevation from \u221245\u00b0 to +45\u00b0.",
+  "The study showed that radar frequency selection affects detection range, with 8 GHz optimal for single-pulse detection and 8.5 GHz for cumulative detection over multiple pulses."
+]
