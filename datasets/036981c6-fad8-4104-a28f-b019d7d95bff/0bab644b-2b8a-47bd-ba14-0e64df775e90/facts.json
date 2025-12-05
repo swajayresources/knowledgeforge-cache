@@ -1,0 +1,17 @@
+[
+  "Introduction Radar systems operating in the range of 76 to 81GHz become a common sensor device for automated and autonomous driving applications",
+  "There are challenging demands to the sensors \u2013 a wide field of view of up to 360\u25e6, high resolution in range, velocity and azimuth, and fast update rates",
+  "Between this kind of sensors interference typically causes time-limited disturbances of the baseband signals [1, 2]",
+  "as demonstrated in [3]",
+  "Beamforming in general alters the signal The19thInternationalRadarSymposiumIRS2018,June20-22,2018,Bonn,Germany 1 978-3-7369-9545-1 c2018DGON (cid:13) x (t) x (t) x (t) 1 2 N a a a 1 2 N y(t) e(t) s(t) Figure1:SetupofanadaptivebeamformerfollowingtheMSEapproach",
+  "Therefore, an adaptive beamformer makes use of the input data statistics [4]",
+  "Furthermore, the application of beamforming requires that all considered objectsareinthefarfieldoftheantennaarray,sothatthewell-knownrelation \u2206\u03d5 = kdsin\u03d1 (1) holds for the phase difference of a signal between two antenna elements",
+  "In thepresenceofinterferencethenon-coherentintegrationisenhancedbytheADBFasdescribed inSection2",
+  "The ADBF scheme is then applied on simulation andmeasurementdatainSection3",
+  "Here, an MSE (Mean Square Error) minimization is used as derived in [5]",
+  "The 1 2 N 2 signalsx(t)aremultipliedwiththeweightvectora = [a a",
+  "a ]andaddeduptocalculatethe 1 2 N beamformer output y(t)",
+  "Under the assumption of a desired reference signal s(t), it is possible tocalculatetheMSEas e2(t) = s(t) y(t) 2",
+  "(2) | \u2212 | An optimum weight vector a as a solution to this optimization problem is provided by the opt Wiener-Hopfequation[6,7]: a = (cid:0) R\u22121p(cid:1)\u2217 (3) opt withthecorrelationmatrix 1 (cid:88) R = x(t)x(t)H CN\u00d7N (4) T \u2208 t\u2208T andthecrosscorrelationvector 1 (cid:88) p = s(t)x(t)",
+  "(5) T t\u2208T The exponent ( )H describes hermitian, and the exponent ( )\u2217 describes complex conjugate"
+]
