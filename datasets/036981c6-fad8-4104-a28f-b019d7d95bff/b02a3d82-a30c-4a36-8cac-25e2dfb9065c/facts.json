@@ -1,0 +1,22 @@
+[
+  "Design studies were performed on continuous filament wound grid-stiffened composite fuselage structures using isogrid, orthogrid, and generalized orthogrid concepts.",
+  "Donnell-type shell theory including transverse shear deformation was used to analyze buckling behavior.",
+  "The study considered three buckling modes: general instability, crippling (rib buckling), and skin buckling.",
+  "A cylindrical shell of 99 cm diameter and 116.8 cm height was used as a representative fuselage section.",
+  "AS4/3502 graphite/epoxy composite material was used for skin and stiffeners with volume fractions of 65% for isogrid and 50% for orthogrid stiffeners.",
+  "Loading cases included uniaxial axial compression of 175 kN/m (1000 lb/in) and combined axial compression with torsion.",
+  "Stiffener aspect ratios of 6, 8, and 10 were studied, with higher aspect ratios reducing weight but becoming impractical beyond 10.",
+  "Isogrid designs with (0\u00b0, 90\u00b0) skin layups and orthogrid/generalized orthogrid designs with (\u00b145\u00b0) skin layups were found optimal for weight efficiency.",
+  "Weight savings of 20-30% compared to metal fuselage designs are achievable with these composite concepts.",
+  "The isogrid concept shows superior damage tolerance characteristics compared to orthogrid and generalized orthogrid.",
+  "The continuous filament winding process prevents fiber clustering and maintains fiber alignment along stiffener axes.",
+  "Imperfections in shells due to manufacturing are not explicitly modeled but designs maintain margins to accommodate them.",
+  "The Galerkin method was used to approximate buckling loads under combined loading.",
+  "Typical stiffener thickness is about 1.22 mm (0.048 in) with heights ranging from 3 to 6 mm depending on aspect ratio.",
+  "Skin layups studied include symmetric (0\u00b0, 90\u00b0) and (\u00b145\u00b0) fiber orientations.",
+  "The transverse shear stiffness in ribs is largely controlled by resin matrix and filler properties.",
+  "Buckling analyses assume simply supported boundary conditions for skin and clamped fixity for ribs at nodes.",
+  "The study used micromechanics to derive effective properties of stiffeners based on filler volume content.",
+  "The design approach aims to avoid interaction between global and local buckling modes by ensuring global buckling loads are lower.",
+  "Automated manufacturing methods and co-curing of stiffeners and skin are key to producing these composite fuselage structures."
+]
