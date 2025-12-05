@@ -1,0 +1,17 @@
+[
+  "2019 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO) Comparison of Compact Reduced Basis Method with Different Model Order Reduction Techniques Damian Szypulski\u2217, Grzegorz Fotyga\u2217, Valent\u00b4\u0131n de la Rubia\u2020 and Michal Mrozowski\u2217 \u2217Department of Microwave and Antenna Engineering",
+  "Narutowicza 11/12, 80-233 Gdansk, Poland e-mails: damian",
+  "28040 Madrid, Spain e-mail: valentin",
+  "The results of this comparison are detailed in two microwave The numerical tests provided in [7] have proved that the filter structures",
+  "INTRODUCTION quality of the ROM generated in the proposed methodology Model-order reduction (MORe) became an indispensable in [7], in comparison with standard RBM [4] and proper tool to perform an efficient frequency-domain analysis in orthogonal decomposition (POD) [1]",
+  "the time-harmonic Maxwell\u2019s equations by means of FEM, One of the most commonly used reduction techniques in we get the following linear dynamical system representation CEM is called the reduced basis method (RBM) [1], [2], of the microwave circuit: [3], [4]",
+  "In this technique, the projection basis is composed \uf8eb v \uf8f6 \uf8eb 0 0 jbT \uf8f6\uf8eb i \uf8f6 of solution snapshots, which are properly selected using a 1 1 1 greedy algorithm",
+  "More precisely, the subsequent snapshot is \uf8edv 2\uf8f8=\uf8ed 0 0 jbT 2 \uf8f8\uf8edi 2\uf8f8, (1) 0 sjb sjb S+s2T x computed at the frequency in which the efficiently computed 1 2 a-posteriori error estimator indicates the largest error",
+  "ber of snapshots to generate a high-accuracy reduced-order Once the state-space variable, which represents the FEM model (ROM) for the wide-frequency band analysis, and each discretization of the electric field, is eliminated from equation snapshotrequiresarathertime-consumingFEMsystemmatrix (1), the impedance matrix transfer function arises, thus, fac Ator diz ifa ft eio ren n",
+  "t strategy has been proposed in the technique (cid:18) v 1(cid:19) =\u2212s(cid:18) jbT 1(cid:19) (S+s2T)\u22121(cid:0) jb jb (cid:1)(cid:18) i 1(cid:19)",
+  "(2) v jbT 1 2 i called the subspace accelerated dominant pole algorithm 2 2 2 SADPA[5]andin[6],wheretheprojectionspaceiscomposed It should be noted that the dynamical system (1) has a oftheeigenmodes,toapproximatethetransferfunctionofthe rather large state-space, thus solving this system frequency by original system",
+  "The goal in MORe is approach for fast frequency sweep [7], which relies on RBM to identify the manifold, or reduced-basis space, in which the and resonant mode expansion methods",
+  "Namely, it generates actual dynamics of system (1) take place in an efficient way",
+  "978-1-5386-9516-6/19/$31",
+  "00 \u00a92019 IEEE 2019 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO) Fig"
+]
