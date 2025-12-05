@@ -1,0 +1,22 @@
+[
+  "The cloak is composed of identical nanosized chalcogenide glass resonators made of GeSbSe glass with dielectric constant 10.5\u201312 at 1\u20131.5 \u00b5m wavelength.",
+  "Resonators are cylindrical with diameters of 300 nm and heights of 150 nm.",
+  "Resonators are arranged in concentric cylindrical arrays along radial spokes to optimize magnetic dipole orientation.",
+  "Air fractions between resonators are varied radially to achieve the required spatial distribution of effective permeability.",
+  "The effective permeability in the cloak ranges from 0 at the inner radius to 1 at the outer radius.",
+  "Resonance halos extend beyond the physical resonator volume, influencing inter-resonator spacing and coupling.",
+  "The maximum packing density avoids halo overlap by maintaining inter-resonator distances of at least three times the halo volume.",
+  "Full-wave simulations show wavefront reconstruction after passing the cloak, confirming cloaking effectiveness.",
+  "The cloak hides a metal cylinder of 15 \u00b5m diameter using a cloak shell thickness of 4 \u00b5m.",
+  "The cloak operates near 300 THz (infrared range) with a bandwidth of 3.5 THz (1.2%), potentially extendable to 8 THz (2.8%).",
+  "Fabrication feasibility was demonstrated by producing glass grating structures with 300 nm wide mesas and 150 nm height using e-beam lithography.",
+  "The cloak design is based on transformation optics principles for cylindrical objects.",
+  "Simulations applied periodic boundary conditions to model an infinitely long cylindrical cloak.",
+  "The effective permittivity in the design was about 1.2, slightly less than the ideal 2.7, but this did not significantly affect performance.",
+  "The cloak's magnetic resonance modes are excited over a wide frequency range, unlike some previous designs limited to single frequencies.",
+  "The number of resonators in the first layer can be about 60 for a cloak inner radius of 6.5 \u00b5m.",
+  "The cloak uses nonmetallic dielectric resonators, reducing losses compared to metal-based metamaterials.",
+  "The cloak's design accounts for discrete resonator responses, including shape and inter-resonator coupling.",
+  "The radial growth of air fraction does not follow the square law prescribed by classical transformation optics but is adjusted to fit resonance halo effects.",
+  "The cloak was simulated to conceal objects ranging from five to ten wavelengths in size."
+]
