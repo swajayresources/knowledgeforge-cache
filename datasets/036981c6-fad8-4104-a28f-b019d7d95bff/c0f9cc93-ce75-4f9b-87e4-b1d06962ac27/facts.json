@@ -1,0 +1,22 @@
+[
+  "The composite impact absorber studied is a prismatic sandwich structure with foam or honeycomb core and composite face plates.",
+  "Polyurethane foam is used for the core, while carbon, aramid, and glass fibers in thermosetting polymers are used for the faces.",
+  "Explicit finite element analysis was performed using LS-Dyna software.",
+  "Initial numerical results showed about 25% difference from experimental data in reaction force and absorbed energy.",
+  "Two methods to introduce initial imperfections were used: a tapered last ring of elements and small axial-symmetric transverse forces.",
+  "Introducing initial imperfections improved correlation with experimental results, reducing differences in peak force and energy absorbed to under 6%.",
+  "Compression speed affects peak reaction force and stiffness; higher speeds increase these values due to dynamic effects.",
+  "Lower compression speeds reduce peak force but increase computational time significantly.",
+  "Material model type 55 in LS-Dyna, implementing Tsai-Wu failure criteria, was found most suitable for simulating the composite absorber.",
+  "Contact modeling included tied surface-to-surface contact for adhesion and eroding contact pairs to simulate failure.",
+  "Foam material properties have minor influence on absorber behavior compared to composite face properties.",
+  "Energy absorption occurs through localized crushing of the core and bending/stretching of the face plates.",
+  "The test case geometry included a 450 mm core thickness and 2 mm laminated face thickness.",
+  "Numerical analyses considered a compression speed of 10 m/s initially, then lower speeds for comparison.",
+  "Differences in numerical and experimental results were attributed to absence of natural imperfections and higher numerical compression speed.",
+  "Six contact pairs were defined to simulate interactions between foam, laminates, and impact plates.",
+  "The study performed a sensitivity analysis on geometric and material parameters affecting energy absorption.",
+  "The numerical model calibration was based on experimental data from literature, specifically from Mamalis et al. (2002).",
+  "The reaction force vs. displacement curves were used to compare numerical and experimental results.",
+  "The study concluded that initial imperfections and compression speed are critical parameters for accurate modeling."
+]
