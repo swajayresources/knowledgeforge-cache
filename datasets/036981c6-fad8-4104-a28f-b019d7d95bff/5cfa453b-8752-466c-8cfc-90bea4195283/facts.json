@@ -1,0 +1,18 @@
+[
+  "116 CANADIANJOURNALOFELECTRICALANDCOMPUTERENGINEERING,VOL",
+  "2,SPRING2017 Design and Experimental Measurement of EMI Reduction Techniques for Integrated Switching DC/DC Converters Conception et mesure exp\u00e9rimentale des techniques de r\u00e9duction EMI pour les convertisseurs CC/CC \u00e0 commutation int\u00e9gr\u00e9e Sergio Saponara, Senior Member, IEEE, Gabriele Ciarpi, and Voicu Z",
+  "A 48-V dc/dc converter for electric/hybrid cars is considered as an application case study",
+  "Un convertisseur CC/CC de 48 V pour voitures \u00e9lectriques/hybridesest consid\u00e9r\u00e9 comme l\u2019application de l\u2019\u00e9tude de cas",
+  "IndexTerms\u201448-Vpowersystems,electric/hybridvehicles,electromagneticinterference(EMI),measurement, SKIP control, soft start",
+  "This trend has increased in hybrid/electric vehicles, where Manuscript received November 12, 2016; revised March 19, 2017 and April24,2017;acceptedMay7,2017",
+  "DateofcurrentversionAugust3,2017",
+  "New ThisworkwassupportedinpartbytheEUFP7projectAthenis3Dandinpart hybridandelectricvehiclesaremovingfromthe conventional bytheUniversity ofPisaunderProjectPRA2017E-TEAM",
+  "(Corresponding 12-V dc powerbustowardtheadoptionofthe48-Vdcpower author:SergioSaponara",
+  "Ciarpi are with the Department of Infor- bus [1]",
+  "A key issue for the reliability of X-by-wire systems mation Engineering, University of Pisa, 56126 Pisa, Italy (e-mail: is reducing the electromagnetic interference (EMI) between sergio",
+  "the automotive electrical and electronic components [2]\u2013[5]",
+  "GrozaiswiththeSchoolofEECS,UniversityofOttawa,Ottawa,ON K1N6N5,Canada",
+  ", 48 V) to the volt- onlineathttp://ieeexplore",
+  "Digital ObjectIdentifier 10",
+  "Hereafter, we show that considering the effect of the cable, Thetopologyreconfigurationtechniquechangesthevoltage the LISN, and the converterimpedance,it is possible sizing a conversionratio(VCR)oftheconverterdependingontheinput filter that complies with the conducted limits in Table I, but voltage"
+]
