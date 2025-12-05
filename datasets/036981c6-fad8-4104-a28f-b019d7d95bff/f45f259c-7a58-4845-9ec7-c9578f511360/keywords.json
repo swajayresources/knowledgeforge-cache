@@ -1,0 +1,22 @@
+[
+  "Electromagnetic Interference (EMI)",
+  "Printed Circuit Boards (PCB)",
+  "Electromagnetic Bandgap (EBG) Structures",
+  "High-Impedance Surfaces (HIS)",
+  "Switching Noise",
+  "Simultaneous Switching Noise (SSN)",
+  "Power and Ground Planes",
+  "Parallel-Plate Waveguide",
+  "Microstrip Patch Antennas",
+  "Bandgap Frequency",
+  "Dispersion Diagram",
+  "S-Parameter Simulation",
+  "Vias",
+  "Patch Size",
+  "Band-Stop Filter",
+  "Radiation Suppression",
+  "Cascaded HIS Structures",
+  "Vector Network Analyzer (VNA)",
+  "Omni-Directional Suppression",
+  "Ground Bounce"
+]
