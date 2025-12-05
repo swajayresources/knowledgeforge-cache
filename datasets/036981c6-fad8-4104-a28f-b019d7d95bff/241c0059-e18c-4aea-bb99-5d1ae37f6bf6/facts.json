@@ -1,0 +1,22 @@
+[
+  "Coherent FM-CW radar systems were developed at 35 GHz and 94 GHz for radar cross section measurements.",
+  "The systems operate over incidence angles from 0 to 60 degrees.",
+  "Both systems can operate in FM-CW mode or be converted to pulse or pulse-compression modes with added hardware.",
+  "The 94 GHz system additionally functions as a total power radiometer for brightness temperature measurements.",
+  "Phase-locked loops are used to linearize the frequency sweep in FM-CW operation.",
+  "Quadrature mixers provide I and Q channels for phase-coherent detection.",
+  "The 35 GHz system uses a 12-inch parabolic reflector antenna; the 94 GHz system uses a 12-inch Cassegrain antenna.",
+  "Radar cross section is calculated by comparing detected power to that from a standard radar target with known RCS.",
+  "Radiometric calibration uses black bodies at known temperatures for absolute calibration.",
+  "The systems use a swept microwave frequency signal upconverted to millimeter-wave frequencies.",
+  "Directional couplers provide reference signals for power-level calibration of transmitted signals.",
+  "The 94 GHz system uses a variable attenuator as an ON/OFF switch for radiometer operation.",
+  "Received signals are downconverted to microwave frequencies, filtered, amplified, and mixed to baseband.",
+  "Hardware is housed in lightweight, weatherproof aluminum boxes with antennas protruding from one side.",
+  "Data acquisition computers sample and digitally process received signals, including FFT for range profiling.",
+  "Calibration signals are delayed to appear at distinct frequencies to separate them from target signals.",
+  "The systems are designed for field experiments measuring scattering coefficients from sea ice, vegetation, and oceans.",
+  "Full polarimetric capabilities can be implemented by adding polarization switches.",
+  "The 94 GHz radiometer measures noise power over 94.5 to 95.5 GHz band, downconverted to 2.5 to 3.5 GHz IF.",
+  "Integration time controls radiometric resolution by filtering noise components."
+]
