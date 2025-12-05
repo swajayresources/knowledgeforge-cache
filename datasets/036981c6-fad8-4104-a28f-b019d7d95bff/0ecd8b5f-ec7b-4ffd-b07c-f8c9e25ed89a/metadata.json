@@ -1,0 +1,15 @@
+{
+  "paper_id": "0ecd8b5f-ec7b-4ffd-b07c-f8c9e25ed89a",
+  "title": "Damage identification in aircraft composite structures: A case study using various non-destructive testing techniques",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0ecd8b5f-ec7b-4ffd-b07c-f8c9e25ed89a/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0ecd8b5f-ec7b-4ffd-b07c-f8c9e25ed89a/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0ecd8b5f-ec7b-4ffd-b07c-f8c9e25ed89a/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/0ecd8b5f-ec7b-4ffd-b07c-f8c9e25ed89a/keywords.json"
+  ]
+}
