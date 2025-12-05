@@ -1,0 +1,17 @@
+[
+  "53, 9\u201316, 2017 Design of Carbon Nanotube-Based Broadband Radar Absorber for Ka-Band Frequency Range 1, 2, * 1 1 1, 3 Dzmitry Bychanok , Gleb Gorokhov , Darya Meisak , Polina Kuzhir , 1, 2 4 4 4 4 Sergey Maksimenko , Yongliang Wang , Zhidong Han , Xin Gao , and Hongyan Yue Abstract\u2014The general principles of design and development of microwave absorbing materials are discussed and analysed in respect to 26\u201337GHz frequency range (Ka-band)",
+  "Both theoretical and experimental results demonstrate that presented composites may be used as compact effective absorbers in 26\u201337GHz range",
+  "For development of 5G communication systems, it is necessary to solve many problems related to electromagnetic compatibility and develop materials effectively absorbing electromagnetic radiation at high frequencies",
+  "Many researchers worldwide concentrate on the design of absorbers for various frequency ranges [1\u20139]",
+  "A great number of investigations show that nanocarbon materials have excellent electromagnetic properties to be used for production of composite materials with controlled electromagnetic properties [10\u201314]",
+  "In the present paper, we use carbon nanotube-based composites to produce an effective broadband absorber for Ka-band region (26\u201337GHz)",
+  "In contrast to our recent work [7], here we consider electromagnetic properties of composites with concentration of inclusions above percolation threshold",
+  "So the materials under study are macroscopically conductive with a static conductivity of \u201cseveral Siemens per meter\u201d and have pronounced frequency dispersion of dielectric permittivity \u03b5 \u223c1/\u03bd, which is optimal for design of microwave absorbers [1]",
+  "BROADBAND ABSORBING COMPOSITE MODELLING 2",
+  "The first-principle equations describing the electromagnetic response of such a system in free space are well known [15,16]",
+  "The amplitude of the reflected signal in the waveguide is defined as [7,17]: S (\u03bb,\u03c4,\u03b5) = \u2212k z(exp[2i\u03c4k 2z]\u22121)+k 2z(1+exp[2i\u03c4k 2z]) , (1) 11 k z(1\u2212exp[2i\u03c4k 2z])+k 2z(1+exp[2i\u03c4k 2z]) Received 3 September2016, Accepted 19 December 2016, Scheduled 2 January 2017 * Correspondingauthor:DzmitryBychanok (dzmitrybychanok@ya",
+  "1 Research Institute for Nuclear Problems Belarusian State University, 11 Bobruiskaya str",
+  ", Minsk 220030, Belarus",
+  "2 Ryazan State Radio Engineering University, Ryazan 90005, Russian Federation",
+  "3 Tomsk State University, Tomsk 634050, Russian Federation"
+]
