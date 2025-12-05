@@ -1,0 +1,22 @@
+[
+  "EMI in power converters primarily arises from switching of DC voltage using PWM signals.",
+  "Frequency modulation techniques spread harmonic energy over a frequency band, reducing peak EMI amplitude.",
+  "Spread Spectrum Frequency Modulation (SSFM) was originally developed for digital systems in the mid-1990s.",
+  "The modulation index m = \u0394f / f_c quantifies the relative frequency deviation in SSFM.",
+  "Carson\u2019s rule estimates that 98% of the energy of a frequency-modulated signal lies within bandwidth B = 2(\u0394f + f_m).",
+  "Sinusoidal, triangular, and exponential modulation profiles produce different EMI spectral envelopes.",
+  "Triangular profiles with equal slopes for rising and falling intervals produce a flatter EMI spectrum envelope.",
+  "Exponential profiles allow selective attenuation at specific frequencies by adjusting concavity parameters.",
+  "Higher modulation indices increase EMI attenuation but risk overlapping harmonic bands.",
+  "Experimental tests used a buck converter with switching frequencies from 100 kHz to 1 MHz.",
+  "At 200 kHz switching frequency with sinusoidal modulation (m=6, f_m=10 kHz), peak EMI was reduced by about 10 dB.",
+  "At 1 MHz switching frequency, SSFM showed better EMI reduction due to less harmonic band overlap.",
+  "Triangular modulation profile yielded the highest overall EMI reduction in experiments.",
+  "Exponential profile was less sensitive to harmonic overlap and better for selective frequency cancellation.",
+  "Operating the converter in open loop with fixed duty cycle ensured EMI changes were due to frequency modulation only.",
+  "A resolution bandwidth of 9 kHz was used for EMI measurements to capture spread spectrum effects.",
+  "Frequency modulation can be random, chaotic, or deterministic; deterministic periodic profiles allow frequency-selective EMI control.",
+  "Overlap of spread bands in higher harmonics reduces SSFM effectiveness if parameters are not optimized.",
+  "The study experimentally validated theoretical predictions of EMI reduction using SSFM.",
+  "The choice of modulation profile depends on application requirements for overall EMI reduction or selective frequency attenuation."
+]
