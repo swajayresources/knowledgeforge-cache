@@ -1,0 +1,1 @@
+This paper presents a method for reducing the radar cross section of conducting objects using multiple passive impedance loadings. The method uses the moment method and biquadratic programming to optimize the loadings and minimize the radar cross section. The results show that multiple loadings are more effective than single loadings in reducing the radar cross section.
