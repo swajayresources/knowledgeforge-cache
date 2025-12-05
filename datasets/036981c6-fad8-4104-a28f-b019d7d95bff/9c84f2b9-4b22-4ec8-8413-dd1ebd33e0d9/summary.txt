@@ -1,0 +1,1 @@
+This paper proposes a machine learning-based approach using ridge regression to reduce the electromagnetic signature of ferromagnetic vessels. The method is efficient in terms of computational efforts, speed, and accuracy, achieving over 90% reduction in signature. The approach is validated on a simulated model of a prototype submarine.
