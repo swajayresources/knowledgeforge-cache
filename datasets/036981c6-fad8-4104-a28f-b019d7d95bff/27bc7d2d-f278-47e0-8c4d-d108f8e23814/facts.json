@@ -1,0 +1,20 @@
+[
+  "The paper presents a near-zero refractive index metamaterial for electromagnetic invisibility cloaking operation.",
+  "The proposed unit cell exhibits a wideband near-zero refractive index property in the C-band region of microwave spectra.",
+  "The frequency range of the wideband near-zero refractive index property is from 5.20 GHz to 8.48 GHz.",
+  "The effective permittivity was calculated from the S-parameters using the method mentioned in [31].",
+  "The normalized scattering width is a measure of the total energy scattered from an object, normalized to the incident energy.",
+  "The cloaking effect is observed at a frequency of 5.18 GHz.",
+  "The transmission coefficient (S21) touches the free space line at a frequency of 5.25 GHz.",
+  "The measured result of the transmission parameter (S21) for the cloaked state shows a peak very close to zero at a frequency of 5.29 GHz.",
+  "The proposed metamaterial is designed to operate in the C-band region of microwave spectra.",
+  "The unit cell consists of two orthogonal metal arms with unequal gaps, forming a near-pi-shape structure.",
+  "The scattering cancellation technique is used to cloak the object.",
+  "The cloaking effect is observed in the xy-plane.",
+  "The electric field distribution in the xy-plane shows a fine wave front reconstruction for the cloaked object.",
+  "The H-field distribution in the xy-plane also displays the same behavior as the E-field distribution.",
+  "The proposed metamaterial has a refractive index close to zero in the C-band region of microwave spectra.",
+  "The frequency range of the wideband near-zero refractive index property is from 5.20 GHz to 8.48 GHz.",
+  "The effective permittivity is negative at a frequency of 8.29 GHz, with \u03b5 = \u22121.15.",
+  "The effective permeability is positive at a frequency of 8.29 GHz, with \u03bc = 1.15."
+]
