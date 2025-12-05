@@ -1,0 +1,1 @@
+This paper presents a universal power flow algorithm (UPF) for industrial systems and microgrids, which can handle islanded and grid-connected systems at nominal or off-nominal frequency, and can evaluate system frequency.
