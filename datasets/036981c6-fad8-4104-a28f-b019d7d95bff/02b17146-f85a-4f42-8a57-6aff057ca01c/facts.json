@@ -1,0 +1,18 @@
+[
+  "2020 International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS) Energy Based Optimal Dynamic Stealth False Data Injection Attacks on the Smart Grid Yifa Liu Long Cheng the State Key Laboratory of Management the State Key Laboratory of Management and Control for Complex Systems, and Control for Complex Systems, Institute of Automation, Chinese Academy of Sciences, Institute of Automation, Chinese Academy of Sciences, Beijing, China Beijing, China the School of Artificial Intelligence, the School of Artificial Intelligence, University of Chinese Academy of Sciences, University of Chinese Academy of Sciences, Beijing, China Beijing, China long",
+  "cn Abstract\u2014The false data injection attack is a typical cyber to receive false reports and estimate wrong states, which may attack method which seriously endangers the security of power cause serious damage to the operation of power systems [8]",
+  "Therefore,thispapertakes tionandmeasurementissurgingrapidly[9],andthenanomaly the dynamic behavior of the false data injection attack into detection can find the attacks",
+  "Thereareseveralwaystopreventthat,andonewayisto an optimal dynamic attack strategy is proposed, which signifi- inject data consistent with grid operation [10], which is called cantly improves the attack effect on limited energy conditions, and reduces the possibility of being detected to a certain extent",
+  "are also specific defense methods: A data verification method Index Terms\u2014smart grid, security, false data injection attack, against false data injection was introduced in [11]",
+  "Coun- optimal control termeasure for the case where the attacker has structural knowledge was also proposed in [12]",
+  "INTRODUCTION theoretical model for analyzing false data injection attacks against power systems was given in [13]",
+  "A list of defense Since the demand for electrical power has soared signifi- mechanisms against false data injection attacks focused on cantlyinrecentyears[1],especiallywithecologicalandenvi- one certain device [14]\u2013[17]",
+  "ronmentalissuesemerging[2],thesmartgridwasproposedto However, many studies treat false data injection attack as a overcome the various limitations of traditional power systems one-shot event and lack dynamic analysis",
+  "From this perspec- and provide electricity with high quality and quantity [3]",
+  "With noises technologies, and new equipment, the smart grid is able to already existing in the smart grids and electricity demand integrate utilization of renewable energy on a large scale and fluctuating, if the attacker chooses to launch a long-periodic use historical data for dynamic optimization of grid operation butgraduallyincreasingattack,theresidualdetectionmethods to improve efficiency and reliability [4]",
+  "However, due to the addition of cyber infrastructures, the Furthermore, with limited resources, the challenge for the smart grid is more vulnerable to malicious attacks [5], e- attackeristomaintainthelongperiodattacktocauseasmuch specially false data injection attacks [6]",
+  "provide the estimation of grid states [7]",
+  "System model ThisworkwassupportedinpartbytheNationalNaturalScienceFoundation In smart grids, distribution test feeders are interfaced to the of China (Grants 61633016, 62025307, U1913209, and 61873268) and the BeijingNaturalScienceFoundation(GrantJQ19020)",
+  "Distributedenergyresourcesare 978-1-7281-6246-1/20/$31",
+  "To extend our results, more constraints in stateestimationinelectricpowergrids,\u201dACMTransactionsonInforma- practicewillbeaddedintotheproblem,soastodesignamore tionandSystemSecurity,vol"
+]
