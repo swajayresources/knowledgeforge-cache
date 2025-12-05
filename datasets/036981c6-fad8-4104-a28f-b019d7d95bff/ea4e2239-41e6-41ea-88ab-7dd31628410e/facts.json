@@ -1,0 +1,19 @@
+[
+  "The paper investigates the application of chiral layers and metamaterials as radar absorbing materials for reducing radar cross section (RCS).",
+  "Chiral media exhibit magneto-electric coupling, leading to properties such as optical activity, circular dichroism, and polarization transformation.",
+  "Chiral nihility is a special case of chiral media where both permittivity and permeability are simultaneously zero.",
+  "The paper analyzes the reflection properties of a PEC plate coated with chiral layers under various conditions, including nondispersive, dispersive, and chiral nihility.",
+  "The Genetic Algorithm (GA) method is used to optimize the chiral coatings for minimizing reflected power from a PEC plane in a specified frequency bandwidth and range of incident angles.",
+  "Key parameters optimized include relative permittivity, relative permeability, chirality parameter, thickness of the chiral layer, and the distance between the chiral layer and the PEC plane.",
+  "The designed absorber achieves low reflection for both TE and TM polarizations in a wide frequency bandwidth (8\u201312 GHz) and wide angles of incidence.",
+  "Optimized parameters for the nondispersive chiral nihility absorber: \u03b5r = -j0.180, \u00b5r = -j0.201, \u03ba = 1.431 - 0.008j, d = 1.6 mm, t = 8.1 mm.",
+  "At normal incidence, the dispersive chiral absorber achieves two perfect absorptivity peaks at 9 GHz and 11 GHz, with absorptivity ratios up to 99%.",
+  "With increasing angle of incidence, the absorption for both TE and TM polarizations remains up to 90%.",
+  "The CMM structure is periodic in the x-y plane, with a unit cell consisting of two copper double arms conjugated gammadion patterned on opposite sides of an FR-4 board with dielectric constant 4.2 and loss tangent 0.02.",
+  "Geometric parameters of the CMM unit cell: a = 10 mm, L = 3.45 mm, l1 = 4.05 mm, l2 = 4.95 mm, w = s = 0.3 mm, d = 1.6 mm.",
+  "At normal incidence, the CMM structure shows two perfect absorptivity peaks at 6.3 GHz and 6.9 GHz, with absorptivity ratios up to 99%.",
+  "The absorber structure is almost polarization insensitive, with absorptivity peaks remaining almost unchanged for different polarization angles.",
+  "The genetic algorithm is used to optimize the chiral coatings for minimizing reflected power, allowing for the design of wideband and angle-insensitive microwave absorbers.",
+  "The paper concludes that dispersive chiral layers and metamaterials are suitable for the application of absorbers.",
+  "Multi-layer chiral metamaterials can be optimally designed as wideband microwave absorbers in the future."
+]
