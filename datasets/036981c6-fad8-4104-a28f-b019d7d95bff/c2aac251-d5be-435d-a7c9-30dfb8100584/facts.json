@@ -1,0 +1,22 @@
+[
+  "Distributed Energy Resources (DERs) often contribute low or temporary fault currents, complicating fault detection in active distribution systems.",
+  "Traditional overcurrent and distance protection schemes have intentional time delays for coordination, which can cause instability in DERs during faults.",
+  "Transient-based protection uses high-frequency current transients to quickly detect faults by comparing polarity at zone boundaries.",
+  "Rogowski coils are employed to measure high-frequency current transients due to their wide bandwidth and non-saturating characteristics.",
+  "The proposed hybrid scheme combines transient polarity comparison with conventional phasor-based protection for enhanced speed and security.",
+  "Only polarity information of the initial transient is exchanged between protection devices, requiring minimal communication bandwidth and no time synchronization.",
+  "The hybrid protection logic issues trip signals immediately upon confirmation of an internal fault without additional time delays.",
+  "Simulation studies were performed on a 230 kV transmission line feeding a 13.8 kV distribution system with a 3 MW synchronous generator.",
+  "The test system includes a microgrid capable of islanding, controlled by an intelligent electronic device at the point of interconnection.",
+  "The Rogowski coil output is processed through a high-pass filter with a 1 kHz cutoff frequency to extract transient components.",
+  "Communication delay between relays is assumed to be 10 ms, and circuit breaker operating time is assumed as 5 cycles.",
+  "The hybrid scheme reduces frequency and voltage deviations during faults, preserving DER stability.",
+  "The scheme is effective under weak infeed conditions caused by DERs, using permissive overreach transfer trip (POTT) distance protection.",
+  "Transient-based protection alone is vulnerable to false tripping due to non-fault transients, which is mitigated by supervision from conventional protection.",
+  "Simulation results demonstrate faster fault clearing times compared to conventional protection alone.",
+  "The equivalent circuit model of the Rogowski coil includes mutual inductance, coil self-inductance, resistance, and capacitance.",
+  "The hybrid scheme can detect and isolate faults under high fault resistance and varying fault inception angles.",
+  "The protection for busbar faults can be provided by applying the hybrid protection concept as a separate zone.",
+  "The proposed method was tested on the IEEE 34-bus feeder to demonstrate applicability to larger distribution networks.",
+  "The hybrid protection scheme improves overall protection coordination while maintaining security and speed."
+]
