@@ -1,0 +1,22 @@
+[
+  "Electromagnetic scattering",
+  "Parallel decomposition",
+  "Coarse-grained parallel processors",
+  "Finite difference time domain (FDTD)",
+  "Finite element method (FEM)",
+  "Integral equation methods",
+  "Maxwell's equations",
+  "Distributed-memory machines",
+  "MIMD architecture",
+  "Load balancing",
+  "Problem decomposition",
+  "Hypercube topology",
+  "Mesh topology",
+  "Sparse matrix",
+  "Radiation condition",
+  "Radar cross section (RCS)",
+  "Loosely synchronous computation",
+  "Fixed-grain scaling",
+  "Fixed-size scaling",
+  "Communication overhead"
+]
