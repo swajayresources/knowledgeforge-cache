@@ -1,0 +1,17 @@
+[
+  "The use of a frequency-selective surface mittivity [1] or on creating multilayer structure [2] that cancels (FSS) [12] as a mantle coat to achieve scattering cancelation [13], the scattering of the cloaked object (i",
+  ", scattering cancelation [14] allows for the easy building of a cloak for electrically thin technique)",
+  "transformation optics technique) [3]",
+  "The use of cloaks can be found in [15]",
+  "metamaterials made of lattices of subwavelength details [4], Reducing forward scattering from electrically thin cylinders [5] achieves nonphysical values of dielectric permittivity and was first addressed by Kildal in the 1990s [16] by using the con- magnetic permeability, allowing the practical implementation of cept of hard and soft surfaces [17]",
+  "The topic is still under active such cloaks in the microwave frequency band that is of interest research, using either hard surfaces [18] or FSS mantle cloaks here [6], [7]",
+  "Recent advances include the ability to cloak the cylin- An alternate approach is to optimize the cloak parameters to der at both polarizations [22] using anisotropic FSS [23]",
+  "minimize scattering [8]\u2013[11]",
+  "The electromagnetic behavior of an FSS can be described foration [9], [10]",
+  "Transformation-based and plasmonic cloaks by means of surface impedance; hence, Zs, which relates the averaged tangential electric field on the surface to the averaged induced electric current density: Digital Object Identifier 10",
+  "2839903 Date of publication: 26 June 2018 2 1045-9243/18\u00a92018IEEE august 2018 IEEE AntEnnAs & ProPAgAtIon MAgAzInE This article has been accepted for inclusion in a future issue of this journal",
+  "E t=Zs$J s, (1) nt# ^Hout-Hin h=J s, (2) y where Hout is the magnetic field in the outer face of the FSS P0 \u00b5 0 k and Hin is the magnetic field in the inner face",
+  "The average 0 msu er tf aa sc ue r fi am cep",
+  "edance Zs is ideally assumed uniform along the E 0e\u2013jk 0x \u00b5 1 P1 \u03c1 \u03c6 The geometry of an FSS cloak, consisting of a very thin x metallic layer, can be designed to implement the average surface a k impedance that minimizes the scattered field",
+  "Moreover, at 1 microwave frequencies, the FSS can be assumed lossless; thus, Z s its average surface impedance is purely reactive, Zs=jXs, if the power dissipated at the FSS is zero: FIGURE 1"
+]
