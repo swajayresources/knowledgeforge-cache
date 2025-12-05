@@ -1,0 +1,22 @@
+[
+  "Sendust particles used are composed of 5% Al, 10% Si, and 85% Fe.",
+  "Two average particle sizes were studied: approximately 5 \u00b5m and 20 \u00b5m.",
+  "Volume ratios of sendust in polystyrene resin ranged from 20 to 40 vol%.",
+  "Optimal volume ratios for maximum absorption bandwidth are ~30 vol% for 5 \u00b5m and ~35 vol% for 20 \u00b5m particles.",
+  "Return loss below -20 dB corresponds to 99% absorption of incident electromagnetic power.",
+  "The composite with 5 \u00b5m particles achieved a normalized -20 dB bandwidth of approximately 27%, much larger than commercial absorbers (~10%).",
+  "Absorption frequency bandwidth broadens with increasing volume ratio up to the optimal point.",
+  "The absorber thickness that maximizes return loss decreases as the volume ratio of sendust increases.",
+  "The frequency dependence of relative complex permeability \u00b5* is governed by natural magnetic resonance and eddy currents.",
+  "Eddy currents reduce \u00b5\u2032 below 1 at frequencies above 10 GHz.",
+  "The Maxwell\u2013Garnett effective medium model was used to fit the effective permeability of the composite.",
+  "The frequency dependence of \u00b5* includes contributions modeled by Debye (domain wall motion), Lorentz (spin motion), and eddy current terms.",
+  "Samples were hot-pressed at 5 MPa and cooled naturally before shaping for measurement.",
+  "Measurements were conducted from 0.1 to 20 GHz using a vector network analyzer with full two-port S-parameter method.",
+  "The composite absorber contains no rare metals, making it low-cost.",
+  "Denser packing of 20 \u00b5m particles leads to higher permittivity and lower absorption frequency compared to 5 \u00b5m particles.",
+  "Spin resonance effects appear above 1 GHz and contribute to absorption bandwidth improvement.",
+  "The study confirms that controlling particle size and volume ratio allows flexible design of electromagnetic wave absorbers.",
+  "The non-reflective condition is used to calculate ideal \u00b5\u2032 and \u00b5\u2033 values for zero reflection.",
+  "The composite with 5 \u00b5m particles satisfies the non-reflective condition approximately between 10 and 16 GHz at 2\u20133 mm thickness."
+]
