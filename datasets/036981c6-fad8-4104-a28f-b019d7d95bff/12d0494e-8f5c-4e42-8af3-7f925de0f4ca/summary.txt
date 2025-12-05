@@ -1,0 +1,1 @@
+This paper presents a finite element analysis of bonded composite repairs for cracked aluminum aircraft structures using two adhesive bands with different properties. The study demonstrates that using adhesive bands with different shear moduli or thicknesses can significantly reduce stress intensity factors at crack tips, potentially improving fatigue life by up to 40%.
