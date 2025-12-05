@@ -1,0 +1,19 @@
+[
+  "Study of Electromagnetic Radiation Effects on Human Body and Reduction Techniques Rupesh Acharya, Durgesh Kumar and Garima Mathur Abstract It is 2017 and mobile communication technology has completely engraved itself into our lives",
+  "Mobile communication technology usage has been quicklydevelopinternationallyinthelast10years,whichhasensuedinconcernof public about the harmful health effect of electromagnetic (EM) radiation that are discharged by cell phones",
+  "\u22c5 \u22c5 Keywords Epidemiological EM radiation Specific Absorption Rate (SAR) Mobile communication system 1 Introduction In this modern era of technology, with the rapid development of information technology, more and more electronic devices/gadgets are invented, and the elec- tromagnetic radiation of electronic devices/gadgets is getting more and more aid",
+  "Mobile phone technology has revolutionized the Indian telecommunication sce- nario; more than 100 crore people are using mobile phones",
+  "Mathur PoornimaCollegeofEngineering,RajasthanTechnicalUniversity,Jaipur,India e-mail:2014pceecrupesh@poornima",
+  "),OpticalandWirelessTechnologies,LectureNotes inElectricalEngineering472,https://doi",
+  "1007/978-981-10-7395-3_56 498 R",
+  "problemisthegrowingconcernofpublicabouttheharmfuleffectsonhealthofthe interactionbetweenEMradiationandthehumanbody[1,2]",
+  "Ahigherbraincancer perilshowedbyepidemiologicalstudiesinhumanbeingwhohadusedhandsetfor morethan10 years[3]",
+  "Thereisabundantexperimentalproofofalterationinbrain activity of human brain caused by the mobile phone exposure [4]",
+  "It is (thyroid gland) one of the most vulnerable and vital organs and can be a targetfor any sort of EM radiation [5]",
+  "TheexpressionSpecificabsorptionrate(SAR)isdefinedas (cid:1) (cid:3) (cid:1) (cid:3) d dw d dw SAR= = \u00f01\u00de dt dm dt \u03c1dv In the actual measurement, the radiation power is not easy to obtain; therefore, the expression can be deformed as \u03c3E2 SAR= \u00f02\u00de \u03c1 Theelectricalconductivityanddensityareknown,sothatifweknowtheelectric field intensity the value of Specific Absorption Rate (SAR) will be measured or calculated",
+  "Thus,SARmetricsis further subdivided into (1) Whole-Body Averaged Specific Absorption Rate (wbaSAR): It is eluci- datedastheratioofpower(total)enwrappedinthebodyandthemassofbody",
+  "For regulative conformity, the wbaSAR is averaged over duration of 6 min",
+  "The Whole-Body Averaged SAR is expressed as 1 WholeBodyAveraged SAR= \u222b \u03c3jEj2\u03b4v \u00f03\u00de M R where M => mass (complete) of body R => area of the body V => volume of complete tissue of the body StudyofElectromagneticRadiationEffectsonHumanBody\u2026 499 (2) Organ-Specific Averaged Specific Absorption Rate (osaSAR): It is elu- cidated as mass average of the SAR in a specific tissue or organ in the body",
+  "We present some techniques that havebeenshowntoreducethespecificabsorptionrateortransmitpowerofmobile communication system",
+  "We showed the effects of EMR on human body, EMR vulnerability guidelines and limits, reduction techniques in this paper"
+]
