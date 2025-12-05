@@ -1,0 +1,22 @@
+[
+  "Electromagnetic Interference (EMI)",
+  "Switched Power Converters",
+  "Frequency Modulation (FM)",
+  "Spread Spectrum Frequency Modulation (SSFM)",
+  "Pulse Width Modulation (PWM)",
+  "Modulation Index",
+  "Carrier Frequency",
+  "Harmonics",
+  "Bandwidth",
+  "Carson\u2019s Rule",
+  "Sinusoidal Modulation Profile",
+  "Triangular Modulation Profile",
+  "Exponential Modulation Profile",
+  "Harmonic Band Overlap",
+  "Buck Converter",
+  "Line Impedance Stabilization Network (LISN)",
+  "Resolution Bandwidth (RBW)",
+  "Open Loop Operation",
+  "Selective Frequency Cancellation",
+  "EMI Spectrum Envelope"
+]
