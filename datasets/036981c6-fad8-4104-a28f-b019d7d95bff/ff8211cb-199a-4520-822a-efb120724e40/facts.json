@@ -1,0 +1,17 @@
+[
+  "85\u201398, 2019 https://doi",
+  "33383/2019 - 017 A REVIEW OF DIMENSIONALITY REDUCTION TECHNIQUES FOR PROCESSING HYPER-SPECTRAL OPTICAL SIGNAL Ana del \u00c1guila, Dmitry S",
+  "Efremenko, and Thomas Trautmann Deutsches Zentrum f\u00fcr Luft- und Raumfahrt (DLR), Institut f\u00fcr Methodik der Fernerkundung (IMF), 82234 Oberpfaffenhofen, Germany E-mail: dmitry",
+  "codes which are specifically designed Keywords: passive remote sensing, hyper-spec- to invert ACS measurements [1]",
+  "Extracting the in- tral data, principal component analysis, full-physics formation about geophysical parameters (level-2 machine learning, trace gas retrieval data) from spectral radiance distributions (level-1 data) turns out to be a major computational chal- 1",
+  "INTRODUCTION lenge and requires high performance computing (HPC) [2]",
+  "The goal is prove the characteristics of hyper-spectral ACS, to detect a certain object or a component of the such as the spatial resolution and the signal-to-noise 85 Light & Engineering Vol",
+  "Characteristics of Atmospheric Composition Sensors Instrument GOME GOME-2 TROPOMI Platform ERS-2 MetOp (A, B, C) Sentinel 5 Precursor Spatial resolution (km2) 320x40 80x40 7x3",
+  "5 Amount of level\u20111 data 0",
+  "2 240 (TB per year) Operational 1995\u20132011 2006-present 2017-present ratio",
+  "However, the high spatial ous generation instruments like the Global Ozone resolution of the state-of-the-art ACS results in very Monitoring Experiment (GOME and GOME-2) challenging data volumes to be processed \u2013 2 40 TB and the newest, the TROPOspheric Monitoring In- (terabyte) per year of level-1 data",
+  "strument (TROPOMI) [3] on board of the Coperni- In fact, the amount of satellite data increases cus Sentinel 5 Precursor (S5P) satellite",
+  "The spatial faster than the computational power [4]",
+  "The remote resolution of TROPOMI is two orders of magni- sensing data is recognized as Big Data [5] since tude higher, providing 21 million level-1B spec- it satisfies Doug Laney\u2019s 3V criterion: significant tra per day, i",
+  "almost 8 milliards spectral points, growth in the volume, velocity and variety"
+]
