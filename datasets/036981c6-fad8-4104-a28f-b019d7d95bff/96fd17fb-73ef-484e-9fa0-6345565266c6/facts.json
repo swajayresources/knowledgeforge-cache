@@ -1,0 +1,17 @@
+[
+  "The study used crushed sunflower crop (CSC) with a fraction of 1-2 mm3.",
+  "Paraffin was added to the CSC in a volume ratio of 1:1.",
+  "The composite material was melted and mixed before being cut into sample sizes.",
+  "Three sample sizes were used: 28 \u00d7 12 \u00d7 25, 23 \u00d7 10 \u00d7 45, and 28 \u00d7 12 \u00d7 5 mm.",
+  "Two waveguide techniques were used: P2-59 in a frequency range of 5.6 to 8.3 GHz and P2-61 in a frequency range of 8.15 to 12.1 GHz.",
+  "A metallic plate was used as a perfect reflector to measure reflection loss and transmittance.",
+  "The sample with a 25 mm thickness exhibited low reflection loss and high attenuation.",
+  "The air gap between the sample and reflector affected the behavior of the electromagnetic radiation.",
+  "The maximum absorption property observed was 20-30% with a frequency of the electromagnetic wave in the range 5.6-8.3 GHz.",
+  "Increasing the EMI frequency range increased transmittance and decreased the reflection coefficient.",
+  "The study was funded by the Russian Foundation for Basic Research and the government of the region of the Russian Federation.",
+  "The grant number was \u2116 18-38-00448.",
+  "The study aimed to understand the material's behavior under different conditions, including varying frequencies and sample positions.",
+  "The results showed that the material exhibits absorption properties depending on its geometrical size, position, and electromagnetic radiation frequency.",
+  "The study has implications for the design of high-performance microwave treatment chambers."
+]
