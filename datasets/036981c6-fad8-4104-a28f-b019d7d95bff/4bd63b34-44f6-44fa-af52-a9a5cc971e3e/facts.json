@@ -1,0 +1,17 @@
+[
+  "AIAA 2006-2156 47th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Confere 1 - 4 May 2006, Newport, Rhode Island Probabilistic Approach to Damage Tolerance Design of Aircraft Composite Structures Kuen Y",
+  "Styuart\u2020 University of Washington, Seattle, WA, 98195-2400 A probabilistic approach to determine design parameters for damage-tolerant composite aircraft structures has been developed",
+  "Nomenclature \u03b1 = shape parameter \u03b2 = scale parameter b, B = parameter of exponential PDF G = parameter of residual strength curve H(x) = frequency of exceeding the level x F (x,t) = cumulative probability distribution function of maximum load x per time t lmax \u03a6 = tabulated Gauss-Laplace function 0 N = number of damages per life D PDF = probability density function P (D) = probability of detecting a damage/defect with a size greater than a D P , POF = probability of failure f S = strength through ith interval i T\u00b0 = temperature, K t = time interval i I",
+  "Introduction A ircraft reliability and risk engineering analysis methods and design tools have been developed for more than 30 years",
+  "For this reason, design organizations have been very reluctant to adopt even standard probabilistic methods or include them as part of their * Professor, Department of Aeronautics and Astronautics, Box 352400, AIAA Associate Fellow",
+  "\u2020 Acting Assistant Professor, Department of Aeronautics and Astronautics, Box 352400",
+  "1 American Institute of Aeronautics and Astronautics Copyright \u00a9 2006 by the authors",
+  "2 As the use of composite materials in aircraft structures are becoming more widespread, a greater need exists to determine the reliability of aircraft structures subject to accidental damage",
+  "The primary candidate package for solving this problem has been the most advanced NASA/SwRI product IPACS-NESSUS software7-19",
+  "5 and \u201cProbabilistic Design of Composite Structures\u201d method by Styuart, et al20",
+  "The following simple example describes some fundamental concepts of probabilistic structural analysis and design: the assessment of the probability of failure for deterministically defined residual strength history as shown schematically in Fig 1",
+  "The initial R is equal to 1",
+  "At the instant t the damage of size D occurs and R is decreased to the value 0 1",
+  "There is three intervals t of constant 1 i strength S",
+  "i The probability of failure per life is expressed as N=3 P =1\u2212\u220f[1\u2212P (S ,t )] (1) f f i i i=1 where P(S,t) is a probability of failure per ith interval"
+]
