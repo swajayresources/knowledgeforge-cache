@@ -1,0 +1,1 @@
+This paper presents a selective metamaterial perfect absorber for infrared and 1.54 μm laser compatible stealth technology. The absorber achieves perfect absorption at 1.54 μm and 6.1 μm, and suppresses thermal radiation in the 3~5 μm and 8~14 μm wavelength ranges. The structure also exhibits good radiative cooling capacity and angle and polarization stability.
