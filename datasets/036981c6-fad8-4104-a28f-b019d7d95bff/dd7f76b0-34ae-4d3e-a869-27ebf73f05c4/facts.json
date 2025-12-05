@@ -1,0 +1,22 @@
+[
+  "The pMUS preconditioner applies a V-cycle with Gauss-Seidel smoothing starting from the highest polynomial order level down to the lowest order Whitney element level.",
+  "The lowest order Whitney system is solved exactly by direct factorization or approximately by incomplete Cholesky factors.",
+  "Auxiliary Space Preconditioning transfers the vector field to scalar auxiliary spaces where scalar AMG is applied.",
+  "The method uses hierarchical tetrahedral finite elements with up to 4th order basis functions, adding 6, 14, 25, and 39 basis functions for orders 1 to 4 respectively.",
+  "Deflation incorporates eigenvectors corresponding to slow-converging modes to accelerate Krylov solver convergence.",
+  "MINRES is used for the first adaptive step; deflated COCG is used for subsequent steps.",
+  "Eigenvectors for deflation are computed using a harmonic projection method applied to the multilevel preconditioned system.",
+  "The largest matrix solved had over 12 million rows and 0.6 billion nonzero entries.",
+  "Numerical experiments include a five-resonator iris filter at 3.63 GHz, a split-ring resonator waveguide, a buckyball metallic frame, and a frequency selective surface.",
+  "The Krylov solvers terminate when the residual norm is reduced by a factor of 10^-6.",
+  "Deflation with 50% of the number of Krylov steps as eigenvectors reduces iteration counts by roughly half in tested cases.",
+  "The frequency shift parameter used in the preconditioner is 0.01.",
+  "The multilevel cycle uses 2 AMG coarse levels for the ASP part.",
+  "The method achieves significant CPU time savings compared to incomplete LU and full LU preconditioners.",
+  "The method supports mixed polynomial orders in the mesh, enabling local p-adaption.",
+  "The preconditioner preserves symmetry by applying backward and forward Gauss-Seidel in a symmetric pattern.",
+  "The deflated Lanczos algorithm is adapted for complex symmetric matrices by replacing Hermitian transpose with simple transpose.",
+  "The method is implemented and tested in Matlab on a 64-bit, 4-core Intel processor with 16 GB RAM.",
+  "The multilevel preconditioner is applied recursively down to the smallest auxiliary space matrix, which is solved by factorization.",
+  "The approach is effective for both free-space and enclosed electromagnetic scattering problems with various boundary conditions."
+]
