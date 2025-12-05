@@ -1,0 +1,16 @@
+[
+  "Citation information: DOI 10",
+  "3069560, IEEE Transactions on Antennas and Propagation >REPLACETHISLINEWITHYOURPAPERIDENTIFICATIONNUMBER(DOUBLE-CLICKHERETOEDIT)< 1 A Space-Mapping-based Optimal EM Design of RCS Reduction for Electrically Large Targets ZiHe,Member,IEEE,Yu-ShengLi,Peng-FeiGu,KwokWaLeung,Fellow,IEEE andRu-ShanChen,SeniorMember,IEEE \uf020 reduce the RCS, but they have some inherent defects",
+  "At first, two optimization models, namely differenceis180\u00b0",
+  "Then antennasoptimization[15],microwavedevicesdesign[16,18, the SBR method is implemented into the Hummingbird 21],approximation/extrapolation capability of the model [19] optimization algorithm to obtain the solution of the coarse and circuit optimization [17]",
+  "mainly four approaches to make the target invisible to radar, For the fine model, the impedance boundary condition-based namely shaping [1], material absorbers [2-3], meta-surfaces method of moment (IBC-MoM) is used to verify the coarse [4-9] and phase cancelation method [10-13]",
+  "Numerical results show that the RCS can be isimplemented byaltering the targets\u2019appearance, but it will significantly and efficiently reduced by optimizing shapes or result in destroying the aerodynamic properties [14]",
+  "THEORYANDIMPLEMENTATION ThisworkwassupportedinpartbyNaturalScience62071231,61890541, A",
+  "CoarseModelResponsewithSBR 61931021",
+  "cn) and Ru-Shan Chen are with the department of communicationengineering,NanjingUniversityofScienceandTechnology, Nanjing210094,China",
+  "0018-926X (c) 2021 IEEE",
+  "Downloaded on May 30,2021 at 09:54:00 UTC from IEEE Xplore",
+  "3069560, IEEE Transactions on Antennas and Propagation >REPLACETHISLINEWITHYOURPAPERIDENTIFICATIONNUMBER(DOUBLE-CLICKHERETOEDIT)< 2 \uf065,\uf06d are the relative permittivity and permeability in 2 2 medium",
+  "[24] c i i i 1 2 1 2 Es\uf028x \uf029 c \uf03d\uf02d jke\uf02djkr(xi,yi,zi) \uf0f2\uf0f2 t\uf0b4{\uf0281\uf02b R \uf029Ei \uf028n\uf0b4e\u02c6 \uf029\uf02d\uf0281\uf02d R \uf029Ei \uf0b4cos\uf071e\u02c6 4\uf070r(x,y,z ) S \uf05e \uf05e \uf05e // // i \uf05e i i i \uf02dt\uf0b4\uf0e9 \uf0eb\uf0281\uf02dR \uf05e\uf029Ei \uf05ecos\uf071 ie\u02c6 \uf05e+\uf0281+R //\uf029Ei //\uf028n\uf0b4e\u02c6 \uf05e\uf029\uf0f9 \uf0fb}ejk\uf028r\uf072 (xi,yi,zi)\uf0d7r\uf072\uf0a2(xi,yi,zi)\uf029 dS (2) where E and E are the electric field components which are \uf05e // perpendicular and parallel to the incident plane, respectively",
+  "\uf05e \uf05e \uf05e // R andR are the reflection coefficients oftransverse electric \uf05e // (TE) and transverse magnetic (TM) waves at the medium surface,respectivelyandtheycanbeexpressedas \uf06dk \uf02d\uf06dk \uf065k \uf02d\uf065k R \uf03d 2 1z 1 2z R \uf03d 2 1z 1 2z (3) \uf05e \uf06dk \uf02b\uf06dk // \uf065k \uf02b\uf065k 2 1z 1 2z 2 1z 1 2z where k ,k are the components of the wave number in 1z 2z thezdirection"
+]
