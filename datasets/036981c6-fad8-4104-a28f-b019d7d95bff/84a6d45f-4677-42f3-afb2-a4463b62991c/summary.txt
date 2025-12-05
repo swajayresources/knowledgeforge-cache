@@ -1,0 +1,1 @@
+This paper provides an overview of radar cross section (RCS) measurement techniques, discussing various methods and systems used to measure the RCS of targets, including full-scale ships and aircraft, scale models, and simple shapes.
