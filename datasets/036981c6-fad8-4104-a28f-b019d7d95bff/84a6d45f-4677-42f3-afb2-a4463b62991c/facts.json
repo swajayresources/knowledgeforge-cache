@@ -1,0 +1,19 @@
+[
+  "The slant-range resolution of a high-resolution radar measurement system is approximately 0.15 m or 15 cm.",
+  "The system is calibrated by measuring a known standard target such as a sphere, a Luneberg lens, a cylinder, a flat plate, or a comer reflector.",
+  "A typical number of range profiles measured in a series is 256 profiles.",
+  "The complex radar system transfer function is transformed to obtain the complex, high-resolution range profile.",
+  "Compact ranges provide a controlled environment with reduced multipath reflections and improved accuracy.",
+  "X-band and S-band frequencies are typically used in compact range measurements.",
+  "Edge treatment is used to reduce diffraction and associated ripples in the quiet zone.",
+  "Physical scale modeling of electromagnetic measurements uses a scale factor of the ratio of the linear dimension of the target to the linear dimension of the model.",
+  "Radar image modeling system (RIMS) is used to measure the radar signatures of scale model ships in a simulated ocean environment.",
+  "The indoor water pool used in RIMS is approximately 200 ft X 300 ft in size.",
+  "Transportable van-mounted radar measurement systems provide a portable and flexible measurement system for RCS measurement.",
+  "The Naval Ocean Systems Center in San Diego developed a radar system for measuring the RCS of full-scale operational ships and aircraft.",
+  "The radar system is located about 120 ft above sea level and has an unobstructed view greater than 180\u00b0.",
+  "The system measures the complex radar return of full-scale operational ships as they maneuver within a range of about 10 nautical miles.",
+  "The measurements are calibrated against a spherical standard target suspended on a rope below a helicopter.",
+  "A secondary standard is a Luneberg lens mounted on a tower on land.",
+  "The motion of the ship is measured by motion sensors onboard the ship and transmitted to the radar site in real time for correlation with the radar data."
+]
