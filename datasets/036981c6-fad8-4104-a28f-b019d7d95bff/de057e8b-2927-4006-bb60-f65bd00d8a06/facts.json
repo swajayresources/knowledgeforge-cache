@@ -1,0 +1,22 @@
+[
+  "Damage tolerance concepts from metallic structures have been extended to composites but are complicated by the heterogeneous nature of composite damage.",
+  "Barely visible impact damage (BVID) is typically defined by a dent depth of about 0.3 mm and impact energies up to 136 J.",
+  "Aircraft manufacturers like Boeing and Airbus have standardized BVID definitions and inspection criteria based on dent depth and detectability.",
+  "Ply cracks and delaminations are the dominant damage modes in composite laminates after impact.",
+  "Delaminations grow under lateral loading due to interlaminar stresses and are influenced by ply stacking sequence and laminate thickness.",
+  "Compression after impact (CAI) testing is widely used to assess residual strength but is influenced by test conditions and may not reflect actual structural capacity.",
+  "CAI failure involves buckling instabilities and progressive damage growth, making interpretation of results complex.",
+  "Nondestructive evaluation (NDE) techniques are essential for detecting BVID and assessing damage severity.",
+  "Dent depth does not reliably correlate with the extent of internal damage or residual strength in composites.",
+  "Unidirectional composites fail in tension by fiber/matrix debonding and unstable crack growth, and in compression by kink band formation and shear-related failure.",
+  "Laminate stacking sequence affects damage patterns and failure progression in composite structures.",
+  "Interlaminar fracture toughness at ply interfaces controls delamination growth and damage tolerance.",
+  "Residual strength alone is not a sufficient metric for damage severity due to complex damage mechanisms in composites.",
+  "Damage mechanics approaches and virtual testing offer promising alternatives for improved damage tolerance assessment.",
+  "The FAA Advisory Circular AC 20-107B provides guidelines for damage tolerance and BVID in composite aircraft.",
+  "BVID detection probability is around 90% with a 95% confidence interval under standard inspection conditions.",
+  "The dent depth after relaxation is considered in defining BVID severity.",
+  "Multiple ply cracks can occur within a laminate without immediate catastrophic failure.",
+  "Impact-induced damage in composites involves complex interactions between ply cracks and delaminations.",
+  "The CAI test standard ASTM D7137 is commonly used for assessing residual strength after impact."
+]
