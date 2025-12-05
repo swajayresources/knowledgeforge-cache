@@ -1,0 +1,22 @@
+[
+  "The radar cross section (RCS) is a measure of the scattered power from a target towards the radar receiver.",
+  "PEMC media are characterized by a scalar admittance parameter M, with PEC and PMC as limiting cases (M \u2192 \u00b1\u221e and M = 0 respectively).",
+  "The study analyzes a PEMC strip embedded in four different soil models: dry soil and San Antonio clay loam with 5%, 10%, and 20% water content.",
+  "Increasing soil moisture content increases electrical conductivity and dielectric permittivity, leading to higher attenuation of scattered fields.",
+  "The cross-polarized scattered field component is zero for PEC and PMC cases and maximal for PEMC with M = \u00b11.",
+  "The scattered field from the PEMC strip exhibits nonreciprocal behavior due to the cross-polarized component.",
+  "The RCS amplitude and scattering width decrease as the soil conductivity and permittivity increase.",
+  "Numerical results were generated using Mathematica software reproducing Lindell and Sihvola's PEMC theory.",
+  "The interference nulls in the RCS pattern disappear in lossy soil media due to attenuation of diffracted energy from the strip edges.",
+  "The radar cross section depends on frequency, polarization, aspect angle, soil properties, and strip dimensions.",
+  "Physical optics and geometrical optics approximations are used to calculate the scattered fields from the finite-width strip.",
+  "The soil dielectric constant model includes complex relative permittivity with real and imaginary parts dependent on frequency and moisture.",
+  "The study focuses on a frequency of 1 GHz for numerical evaluation of scattering widths.",
+  "The duality transformation relates the scattered fields of PEC strips to those of PEMC strips.",
+  "The scattered field expressions involve induced surface currents approximated by physical optics currents.",
+  "The RCS is computed as a function of observation angle and strip geometry in a lossy half-space.",
+  "The paper provides analytical formulas for the scattered fields and scattering width of PEMC strips.",
+  "The cross-polarized scattered field leads to a nonreciprocal scattering effect unique to PEMC materials.",
+  "The study contributes to understanding electromagnetic wave scattering for ground penetrating radar applications.",
+  "The strip is modeled as a two-dimensional finite-width strip embedded in a lossy medium."
+]
