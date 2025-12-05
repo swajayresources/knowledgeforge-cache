@@ -1,0 +1,15 @@
+{
+  "paper_id": "92a8adc5-6e44-4fb7-819d-33f0122f38e4",
+  "title": "The beginnings of stealth technology",
+  "word_count": null,
+  "page_count": null,
+  "qa_count": 0,
+  "fact_count": 0,
+  "source": null,
+  "files": [
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/92a8adc5-6e44-4fb7-819d-33f0122f38e4/summary.txt",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/92a8adc5-6e44-4fb7-819d-33f0122f38e4/qa_pairs.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/92a8adc5-6e44-4fb7-819d-33f0122f38e4/facts.json",
+    "datasets/036981c6-fad8-4104-a28f-b019d7d95bff/92a8adc5-6e44-4fb7-819d-33f0122f38e4/keywords.json"
+  ]
+}
