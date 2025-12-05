@@ -1,0 +1,23 @@
+[
+  "The dominant cost in IETD analysis is the storage requirement of the matrix itself.",
+  "The cost scaling of conventional integral-equation time-domain methods is with the fifth power of incident frequency.",
+  "The proposed reduced-cost algorithm reduces the cost scaling to the third power of incident frequency.",
+  "The main computational work in the proposed reduced-cost algorithm is the integration over the entire body, from each node, performed at each time step.",
+  "Neglecting integration over quiescent portions of the surface produces some modest increase in error.",
+  "The approach to reduce the cost of matrix formation is to calculate the coefficients as needed.",
+  "Using a threshold to set field values to zero reduces the computational cost.",
+  "The proposed reduced-cost algorithm reduces storage requirements by a factor of 1/3.",
+  "The surface-field history storage requirement depends on frequency cubed.",
+  "The mesh-related storage depends on frequency squared.",
+  "Recalculating quantities in loop structures reduces storage requirements.",
+  "The NASA almond is a widely studied benchmark for electromagnetic scattering problems.",
+  "The proposed reduced-cost algorithm produces a modest increase in error.",
+  "The proposed reduced-cost algorithm achieves a cost reduction of up to two orders of magnitude.",
+  "The cost reduction achieved by the proposed reduced-cost algorithm depends on body size.",
+  "The proposed reduced-cost algorithm is applicable to electrically large bodies.",
+  "The proposed reduced-cost algorithm is based on the physical-optics approximation.",
+  "The proposed reduced-cost algorithm uses a threshold to set field values to zero.",
+  "The proposed reduced-cost algorithm reduces the number of time steps per transit.",
+  "The proposed reduced-cost algorithm reduces the number of operations per time step.",
+  "The proposed reduced-cost algorithm reduces the storage requirement of the matrix itself."
+]
