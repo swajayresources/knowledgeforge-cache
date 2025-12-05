@@ -1,0 +1,22 @@
+[
+  "Traditional composite aircraft structures are designed with a no damage growth criterion requiring large knockdown factors to cover unknown effects.",
+  "The FAA introduced a slow growth approach in 2009 for certifying composite and adhesively bonded structures and bonded repairs.",
+  "Damage growth in composites often starts immediately upon loading and exhibits a near-exponential stable growth phase.",
+  "The lead crack concept, originally for metals, may be applicable to composite damage growth.",
+  "Experimental data reviewed include delamination and disbond growth in AS4/E7K8 and aluminium bonded joints under cyclic loading.",
+  "The strain energy release rate (SERR) is a key parameter correlating with delamination growth.",
+  "Paris law-based fatigue crack growth models have high exponents leading to large uncertainties in composites.",
+  "A modified Hartman-Schijve equation variant provides a better fit for fatigue crack growth in composites.",
+  "Parameters needed for damage tolerance assessment include loading spectrum, da/dN vs \u0394G data, initial flaw size, critical \u0394G values, and failure criteria.",
+  "Inspection programs under slow growth approach should specify frequency, extent, and methods of inspection.",
+  "Damage growth data are scarce and scattered, limiting the generalization of damage tolerance models.",
+  "Damage growth measurements used techniques like ultrasonic C-scanning and digital image correlation.",
+  "The lead crack growth framework can estimate conservative safe operational life after damage detection.",
+  "Environmental degradation and multi-site damage interactions remain open research questions.",
+  "The paper proposes a framework to apply the lead crack concept to composite aircraft structures to improve damage tolerance assessment.",
+  "The adhesive used in some tests was FM73 from Cytec.",
+  "Specimens tested included 20 mm wide bonded joints and 24-ply laminates with central holes.",
+  "Damage growth was monitored under various stress levels, e.g., 63%, 70%, 75% of design limit stress.",
+  "Damage growth data show scatter but generally conform to the lead crack growth pattern.",
+  "The slow growth approach could reduce unnecessary aircraft grounding and improve maintenance scheduling."
+]
