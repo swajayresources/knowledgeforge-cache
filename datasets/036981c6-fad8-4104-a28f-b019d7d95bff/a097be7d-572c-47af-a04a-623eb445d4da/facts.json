@@ -1,0 +1,19 @@
+[
+  "4, December 2016 457 DOI: http://dx",
+  "1590/2179-10742016v15i4587 Ultra Wide Band Radar Cross Section Reduction of a Perfectly Electric Conductor Sphere by the Application of Multilayer Metamaterial Coatings Homayoon Oraizi1, Ali Abdolali2, Mahmoud Fallah3 1-3Department of Electrical Engineering, Iran University of Science and Technology E-mail: m_fallah@elec",
+  "INTRODUCTION In this paper we consider a multilayer coating composed of metamaterials (MTMs) [1-5] on a dielectric or conducting sphere for the purpose of ultra wide band reduction of its radar cross section (RCS) [6-7]",
+  "Here metamaterials are used as radar absorbing materials (RAMs) [8-10], which may be used for the reduction of RCS, and also wall coatings inside anechoic chambers, antenna coatings for side lobe level reduction, and shielding against electromagnetic interference in high frequency circuits",
+  "Dispersive models of metamaterials, such as Lorentz, Drude and resonance models are used for the analysis and design of MTM multilayer coatings [11-12] which are thus physically realizable, because they satisfy the causality relations (as the Cramers-Kronig relations)",
+  "Brazilian Microwave and Optoelectronics Society-SBMO received 17 Jan 2016; for review 28 Jan 2016; accepted 25 Oct 2016 Brazilian Society of Electromagnetism-SBMag \u00a9 2016 SBMO/SBMag ISSN 2179-1074 Journal of Microwaves, Optoelectronics and Electromagnetic Applications, Vol",
+  "4, December 2016 458 DOI: http://dx",
+  "1590/2179-10742016v15i4587 RCS is a complicated function of the geometrical dimensions, physical characteristics and dispersion relations of the target and its layered coatings",
+  "Forward and backward traveling waves are considered in each layer of the coating [13]",
+  "Metamaterials were first considered theoretically by Veselago [14] and were then experimentally fabricated by Pendry and Smith [15-16]",
+  "They are usually categorized as double positive (DPS), double negative (DNG), epsilon negative (ENG), mu negative (MNG), double zero (DZR) [17], epsilon zero (EZR) and mu zero (MZR), depending on whether the real parts of \uf065 and \uf06d are positive, negative or zero",
+  "The sign of real and imaginary parts of the propagation constant (\uf067) and characteristic impedance (\uf068) of MTMs should be properly selected, and a short discussion of it is also given in [18]",
+  "We have taken some clues from the multilayer planar structures composed of various combinations of DPS, DNG, ENG and MNG metamaterials for the reduction of wave reflection as discussed in [18] to reduce the RCS of spherical structures",
+  "Previously, we have analyzed the one dimensional problems of multilayer planar structures [5, 11, 17, and 18]",
+  "We then treated the 2-dimensional problem of multilayer cylindrical structures [10]",
+  "Any slight discrepancy between our results and those of the commercial softwares is certainly due to their approximations, because our formulation and results are analytically correct",
+  "Our results are also verified by those in the literature [13]"
+]
