@@ -1,0 +1,22 @@
+[
+  "The proposed stealth Vivaldi antenna operates over 2 to 12 GHz ultrawide band.",
+  "Maximum radar cross section (RCS) reduction achieved is 14 dBsm.",
+  "The antenna uses a Taconic TLY-5 substrate with dielectric constant 2.2 and thickness 0.5 mm.",
+  "The antenna patch edges are modified using three pairs of arcs: quarter circle, half ellipse, and quarter circle plus rectangle.",
+  "Simulations were performed using HFSS based on the finite element method.",
+  "The antenna gain difference compared to the reference antenna is less than 1 dB in most bands.",
+  "The antenna maintains good voltage standing wave ratio (VSWR) and radiation patterns similar to the reference antenna.",
+  "Monostatic radar cross section (MRCS) is reduced for both h-polarized and u-polarized incident waves.",
+  "Current distribution differs significantly between radiation and scattering modes, enabling targeted shaping for RCS reduction.",
+  "The antenna size reduction contributes to decreased high-frequency scattering.",
+  "Antennas 2 and 3 with partial modifications show less RCS reduction compared to the fully proposed antenna.",
+  "Measured and simulated radiation patterns at 7 GHz and 11 GHz show good agreement.",
+  "The feed line narrow end width is 0.4 mm, and the slot line starts from a circular slot stub with radius 19 mm.",
+  "The antenna is designed for military applications requiring low detectability.",
+  "The study was supported by the National Natural Science Foundation of China and Doctoral Program of Higher Education.",
+  "The proposed antenna achieves excellent radiation and stealth performance simultaneously.",
+  "The antenna is printed on a substrate sized 100 mm by 107 mm.",
+  "The shaping method is effective for antenna RCS reduction without compromising radiation performance.",
+  "The induced current amplitude and distribution are altered by the patch modifications, reducing scattering.",
+  "The antenna design considers multiple incident angles and polarizations for comprehensive RCS reduction."
+]
